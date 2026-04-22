@@ -7,7 +7,7 @@
 <meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<title>Clipping Valor</title>
+<title>Retail Daily</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📰%3C/text%3E%3C/svg%3E">
 <style>
   :root {
@@ -17,8 +17,11 @@
     --text: #0f0f0f;
     --text-muted: #6e6e6e;
     --accent: #1a4d7a;
+    --accent-fg: #ffffff;
     --tag-bg: #eef2f6;
     --tag-text: #1a4d7a;
+    --selected-bg: #eef6fc;
+    --danger: #b32020;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -28,8 +31,11 @@
       --text: #ececec;
       --text-muted: #8a8a8a;
       --accent: #7eb4e3;
+      --accent-fg: #0a0a0a;
       --tag-bg: #1a2a38;
       --tag-text: #8bb9dc;
+      --selected-bg: #17283a;
+      --danger: #e06b6b;
     }
   }
   * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
@@ -41,7 +47,7 @@
     color: var(--text);
     font-size: 15px;
     line-height: 1.45;
-    padding-bottom: max(40px, env(safe-area-inset-bottom));
+    padding-bottom: calc(80px + env(safe-area-inset-bottom));
   }
   header {
     position: sticky; top: 0; z-index: 10;
@@ -51,9 +57,7 @@
     backdrop-filter: saturate(180%) blur(12px);
     -webkit-backdrop-filter: saturate(180%) blur(12px);
   }
-  h1 {
-    font-size: 20px; font-weight: 600; letter-spacing: -0.02em;
-  }
+  h1 { font-size: 20px; font-weight: 600; letter-spacing: -0.02em; }
   .meta {
     font-size: 12px; color: var(--text-muted);
     margin-top: 3px;
@@ -106,13 +110,47 @@
     display: flex; align-items: center;
   }
   .group-title .count { color: var(--text-muted); font-weight: 400; margin-left: 6px; }
-  article { padding: 12px 0; border-bottom: 1px solid var(--border); }
+
+  article {
+    display: flex; gap: 12px;
+    padding: 12px 4px;
+    border-bottom: 1px solid var(--border);
+    transition: background 0.1s;
+    position: relative;
+  }
+  article.selected {
+    background: var(--selected-bg);
+    margin: 0 -8px; padding-left: 12px; padding-right: 12px;
+    border-radius: 6px;
+  }
   article:last-child { border-bottom: none; }
-  article a {
+  .check {
+    flex-shrink: 0;
+    width: 22px; height: 22px;
+    border: 1.5px solid var(--border);
+    border-radius: 5px;
+    margin-top: 2px;
+    display: flex; align-items: center; justify-content: center;
+    cursor: pointer;
+    background: var(--bg);
+    transition: all 0.1s;
+  }
+  .check.checked {
+    background: var(--accent);
+    border-color: var(--accent);
+  }
+  .check.checked::after {
+    content: ""; width: 6px; height: 11px;
+    border: solid var(--accent-fg);
+    border-width: 0 2px 2px 0;
+    transform: rotate(45deg) translate(-1px, -1px);
+  }
+  .article-body { flex: 1; min-width: 0; }
+  .article-body a {
     color: var(--text); text-decoration: none;
     font-weight: 500; display: block; line-height: 1.35;
   }
-  article a:active { color: var(--accent); }
+  .article-body a:active { color: var(--accent); }
   .article-meta {
     font-size: 11.5px; color: var(--text-muted);
     margin-top: 5px;
@@ -134,170 +172,558 @@
     padding: 60px 20px; text-align: center;
     color: var(--text-muted); font-size: 14px; line-height: 1.6;
   }
+
+  .action-bar {
+    position: fixed; left: 0; right: 0;
+    bottom: 0;
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+    background: color-mix(in srgb, var(--bg) 95%, transparent);
+    backdrop-filter: saturate(180%) blur(12px);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    border-top: 1px solid var(--border);
+    display: flex; gap: 10px; align-items: center;
+    transform: translateY(100%);
+    transition: transform 0.2s ease-out;
+    z-index: 20;
+  }
+  .action-bar.visible { transform: translateY(0); }
+  .selected-count {
+    font-size: 13px; font-weight: 500;
+    color: var(--text-muted);
+    flex: 1;
+  }
+  .selected-count strong { color: var(--text); font-size: 15px; }
+  .btn {
+    padding: 10px 16px;
+    border-radius: 8px;
+    font-size: 14px; font-weight: 600;
+    border: none; cursor: pointer;
+    -webkit-appearance: none;
+  }
+  .btn-primary {
+    background: var(--accent); color: var(--accent-fg);
+  }
+  .btn-primary:active { opacity: 0.85; }
+  .btn-ghost {
+    background: none; color: var(--text-muted);
+    border: 1px solid var(--border);
+  }
+
+  .screen {
+    position: fixed; inset: 0;
+    background: var(--bg);
+    z-index: 30;
+    transform: translateX(100%);
+    transition: transform 0.25s ease-out;
+    overflow-y: auto;
+    padding-bottom: calc(80px + env(safe-area-inset-bottom));
+  }
+  .screen.visible { transform: translateX(0); }
+  .screen-header {
+    position: sticky; top: 0; z-index: 2;
+    background: color-mix(in srgb, var(--bg) 90%, transparent);
+    backdrop-filter: saturate(180%) blur(12px);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 16px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .back {
+    background: none; border: none; color: var(--accent);
+    font-size: 15px; cursor: pointer;
+    padding: 4px 0;
+  }
+  .screen-title { font-size: 17px; font-weight: 600; flex: 1; text-align: center; }
+  .screen-title-spacer { width: 50px; }
+
+  .reorder-hint {
+    padding: 12px 16px;
+    font-size: 12.5px; color: var(--text-muted);
+    background: var(--bg-elevated);
+    border-bottom: 1px solid var(--border);
+  }
+  .reorder-list { padding: 8px 16px 20px; }
+  .reorder-item {
+    display: flex; gap: 10px; align-items: flex-start;
+    padding: 12px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-bottom: 8px;
+    touch-action: pan-y;
+    transition: transform 0.15s, opacity 0.15s, box-shadow 0.15s;
+  }
+  .reorder-item.dragging {
+    opacity: 0.92;
+    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    z-index: 10;
+    transition: none;
+  }
+  .reorder-item.drop-target {
+    border-color: var(--accent);
+  }
+  .drag-handle {
+    flex-shrink: 0;
+    padding: 2px 8px 2px 0;
+    color: var(--text-muted);
+    font-size: 20px; line-height: 1;
+    cursor: grab;
+    touch-action: none;
+    user-select: none;
+  }
+  .reorder-item-body { flex: 1; min-width: 0; }
+  .reorder-title {
+    font-size: 14px; font-weight: 500;
+    line-height: 1.35; color: var(--text);
+  }
+  .reorder-url {
+    font-size: 11.5px; color: var(--text-muted);
+    margin-top: 4px; word-break: break-all;
+  }
+  .remove-btn {
+    flex-shrink: 0;
+    background: none; border: none;
+    color: var(--danger);
+    font-size: 18px; padding: 0 4px;
+    cursor: pointer;
+    align-self: center;
+  }
+
+  .preview {
+    margin: 16px; padding: 14px;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-family: -apple-system, "Menlo", "Consolas", monospace;
+    font-size: 12.5px;
+    white-space: pre-wrap;
+    word-break: break-word;
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .copy-success {
+    position: fixed;
+    bottom: calc(90px + env(safe-area-inset-bottom));
+    left: 50%; transform: translateX(-50%) translateY(20px);
+    background: #1e8a3c; color: white;
+    padding: 10px 18px; border-radius: 20px;
+    font-size: 13px; font-weight: 500;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.25s;
+    z-index: 50;
+  }
+  .copy-success.visible {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
 </style>
 </head>
 <body>
-<header>
-  <h1>Clipping Valor</h1>
-  <div class="meta">
-    <span id="status">Carregando…</span>
-    <button class="refresh" onclick="location.reload()">Atualizar</button>
+
+<div id="main-screen">
+  <header>
+    <h1>Retail Daily</h1>
+    <div class="meta">
+      <span id="status">Carregando…</span>
+      <button class="refresh" onclick="location.reload()">Atualizar</button>
+    </div>
+  </header>
+  <div class="search">
+    <input type="search" id="search" placeholder="Buscar título ou descrição…" autocomplete="off">
   </div>
-</header>
-<div class="search">
-  <input type="search" id="search" placeholder="Buscar título ou descrição…" autocomplete="off">
+  <div class="filters" id="time-filters">
+    <button class="pill active" data-hours="0">Tudo</button>
+    <button class="pill" data-hours="12">12h</button>
+    <button class="pill" data-hours="24">24h</button>
+    <button class="pill" data-hours="72">3d</button>
+  </div>
+  <div class="filters" id="ticker-filters"></div>
+  <main id="list"></main>
+
+  <div class="action-bar" id="action-bar">
+    <div class="selected-count">
+      <strong id="selected-n">0</strong> selecionadas
+    </div>
+    <button class="btn btn-ghost" onclick="clearSelection()">Limpar</button>
+    <button class="btn btn-primary" onclick="openReview()">Revisar →</button>
+  </div>
 </div>
-<div class="filters" id="time-filters">
-  <button class="pill active" data-hours="0">Tudo</button>
-  <button class="pill" data-hours="12">12h</button>
-  <button class="pill" data-hours="24">24h</button>
-  <button class="pill" data-hours="72">3d</button>
+
+<div class="screen" id="review-screen">
+  <div class="screen-header">
+    <button class="back" onclick="closeReview()">← Voltar</button>
+    <div class="screen-title">Revisar clipping</div>
+    <div class="screen-title-spacer"></div>
+  </div>
+  <div class="reorder-hint">
+    Arraste pelo <strong>⋮⋮</strong> para reordenar. Toque no <strong>×</strong> para remover.
+  </div>
+  <div class="reorder-list" id="reorder-list"></div>
+
+  <div class="preview" id="preview"></div>
+
+  <div class="action-bar visible" style="position: fixed;">
+    <div class="selected-count">
+      <strong id="preview-n">0</strong> no clipping
+    </div>
+    <button class="btn btn-primary" onclick="copyClipping()">📋 Copiar</button>
+  </div>
 </div>
-<div class="filters" id="ticker-filters"></div>
-<main id="list"></main>
+
+<div class="copy-success" id="copy-toast">Copiado!</div>
+
 <script>
-  const state = {
-    articles: [],
-    generatedAt: null,
-    hours: 0,
-    ticker: null,
-    query: '',
-  };
+'use strict';
 
-  async function load() {
-    try {
-      const r = await fetch('data/articles.json?t=' + Date.now());
-      if (!r.ok) throw new Error('no data');
-      const data = await r.json();
-      state.articles = data.articles || [];
-      state.generatedAt = data.generated_at;
-      renderTickerFilters();
+const state = {
+  articles: [],
+  generatedAt: null,
+  hours: 0,
+  ticker: null,
+  query: '',
+  selected: new Set(JSON.parse(localStorage.getItem('selected') || '[]')),
+  order: JSON.parse(localStorage.getItem('order') || '[]'),
+};
+
+async function load() {
+  try {
+    const r = await fetch('data/articles.json?t=' + Date.now());
+    if (!r.ok) throw new Error('no data');
+    const data = await r.json();
+    state.articles = data.articles || [];
+    state.generatedAt = data.generated_at;
+    renderTickerFilters();
+    render();
+  } catch (e) {
+    document.getElementById('list').innerHTML =
+      '<div class="empty">Aguardando primeira coleta.<br>O clipping roda todo dia útil às 6h BRT.</div>';
+    document.getElementById('status').textContent = 'Sem dados ainda';
+  }
+}
+
+function relative(iso) {
+  if (!iso) return '';
+  const ms = Date.now() - new Date(iso).getTime();
+  const min = Math.floor(ms / 60000);
+  if (min < 1) return 'agora';
+  if (min < 60) return 'há ' + min + 'min';
+  const h = Math.floor(min / 60);
+  if (h < 24) return 'há ' + h + 'h';
+  return 'há ' + Math.floor(h / 24) + 'd';
+}
+function formatDate(iso) {
+  if (!iso) return '';
+  const d = new Date(iso);
+  return d.toLocaleString('pt-BR', {
+    day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
+  });
+}
+function esc(s) {
+  return String(s || '').replace(/[&<>"']/g, c =>
+    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+function persist() {
+  localStorage.setItem('selected', JSON.stringify([...state.selected]));
+  localStorage.setItem('order', JSON.stringify(state.order));
+}
+
+function filter() {
+  const cutoff = state.hours > 0 ? Date.now() - state.hours * 3600e3 : 0;
+  const q = state.query.toLowerCase();
+  return state.articles.filter(a => {
+    if (state.ticker && !(a.matched_tickers || []).includes(state.ticker)) return false;
+    if (cutoff && a.published && new Date(a.published).getTime() < cutoff) return false;
+    if (q) {
+      const hay = (a.title + ' ' + (a.summary || '')).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+}
+
+function renderTickerFilters() {
+  const counts = {};
+  for (const a of state.articles)
+    for (const t of (a.matched_tickers || [])) counts[t] = (counts[t] || 0) + 1;
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const el = document.getElementById('ticker-filters');
+  el.innerHTML = '<button class="pill active" data-ticker="">Todas</button>' +
+    sorted.map(([t, n]) => `<button class="pill" data-ticker="${t}">${t} · ${n}</button>`).join('');
+  for (const btn of el.querySelectorAll('.pill')) {
+    btn.onclick = () => {
+      state.ticker = btn.dataset.ticker || null;
+      el.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
       render();
-    } catch (e) {
-      document.getElementById('list').innerHTML =
-        '<div class="empty">Aguardando primeira coleta.<br>O clipping roda todo dia útil às 7h.<br><br>' +
-        'Vá na aba <b>Actions</b> do repositório e clique em <b>Run workflow</b> pra rodar agora.</div>';
-      document.getElementById('status').textContent = 'Sem dados ainda';
-    }
+    };
+  }
+}
+
+function render() {
+  const filtered = filter();
+  const parts = [];
+  if (state.generatedAt) parts.push('Atualizado ' + relative(state.generatedAt));
+  parts.push(filtered.length + (filtered.length === 1 ? ' matéria' : ' matérias'));
+  document.getElementById('status').textContent = parts.join(' · ');
+
+  if (!filtered.length) {
+    document.getElementById('list').innerHTML =
+      '<div class="empty">Nenhuma matéria com os filtros atuais.</div>';
+    updateActionBar();
+    return;
   }
 
-  function relative(iso) {
-    if (!iso) return '';
-    const ms = Date.now() - new Date(iso).getTime();
-    const min = Math.floor(ms / 60000);
-    if (min < 1) return 'agora';
-    if (min < 60) return `há ${min}min`;
-    const h = Math.floor(min / 60);
-    if (h < 24) return `há ${h}h`;
-    return `há ${Math.floor(h / 24)}d`;
+  const groups = {};
+  for (const a of filtered) {
+    const key = (a.matched_tickers && a.matched_tickers[0]) || '— SETOR / MACRO';
+    (groups[key] = groups[key] || []).push(a);
   }
+  const keys = Object.keys(groups).sort((a, b) => {
+    if (a.startsWith('—')) return 1;
+    if (b.startsWith('—')) return -1;
+    return groups[b].length - groups[a].length;
+  });
 
-  function formatDate(iso) {
-    if (!iso) return '';
-    const d = new Date(iso);
-    return d.toLocaleString('pt-BR', {
-      day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
-    });
-  }
-
-  function filter() {
-    const cutoff = state.hours > 0 ? Date.now() - state.hours * 3600e3 : 0;
-    const q = state.query.toLowerCase();
-    return state.articles.filter(a => {
-      if (state.ticker && !(a.matched_tickers || []).includes(state.ticker)) return false;
-      if (cutoff && a.published && new Date(a.published).getTime() < cutoff) return false;
-      if (q) {
-        const hay = (a.title + ' ' + (a.summary || '')).toLowerCase();
-        if (!hay.includes(q)) return false;
-      }
-      return true;
-    });
-  }
-
-  function renderTickerFilters() {
-    const counts = {};
-    for (const a of state.articles)
-      for (const t of (a.matched_tickers || [])) counts[t] = (counts[t] || 0) + 1;
-    const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-    const el = document.getElementById('ticker-filters');
-    el.innerHTML = '<button class="pill active" data-ticker="">Todas</button>' +
-      sorted.map(([t, n]) => `<button class="pill" data-ticker="${t}">${t} · ${n}</button>`).join('');
-    for (const btn of el.querySelectorAll('.pill')) {
-      btn.onclick = () => {
-        state.ticker = btn.dataset.ticker || null;
-        el.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
-        btn.classList.add('active');
-        render();
-      };
-    }
-  }
-
-  function esc(s) {
-    return String(s || '').replace(/[&<>"']/g, c =>
-      ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  }
-
-  function render() {
-    const filtered = filter();
-    const parts = [];
-    if (state.generatedAt) parts.push('Atualizado ' + relative(state.generatedAt));
-    parts.push(filtered.length + (filtered.length === 1 ? ' matéria' : ' matérias'));
-    document.getElementById('status').textContent = parts.join(' · ');
-
-    if (!filtered.length) {
-      document.getElementById('list').innerHTML =
-        '<div class="empty">Nenhuma matéria com os filtros atuais.</div>';
-      return;
-    }
-
-    const groups = {};
-    for (const a of filtered) {
-      const key = (a.matched_tickers && a.matched_tickers[0]) || '— SETOR / MACRO';
-      (groups[key] = groups[key] || []).push(a);
-    }
-    const keys = Object.keys(groups).sort((a, b) => {
-      if (a.startsWith('—')) return 1;
-      if (b.startsWith('—')) return -1;
-      return groups[b].length - groups[a].length;
-    });
-
-    document.getElementById('list').innerHTML = keys.map(k => `
-      <section class="group">
-        <div class="group-title">${esc(k)}<span class="count">${groups[k].length}</span></div>
-        ${groups[k].map(a => {
-          const others = (a.matched_tickers || []).filter(t => t !== k)
-            .map(t => `<span class="tag">${esc(t)}</span>`).join('');
-          const sectors = (a.matched_sectors || [])
-            .map(s => `<span class="tag">${esc(s)}</span>`).join('');
-          return `
-          <article>
+  document.getElementById('list').innerHTML = keys.map(k => `
+    <section class="group">
+      <div class="group-title">${esc(k)}<span class="count">${groups[k].length}</span></div>
+      ${groups[k].map(a => {
+        const others = (a.matched_tickers || []).filter(t => t !== k)
+          .map(t => `<span class="tag">${esc(t)}</span>`).join('');
+        const sectors = (a.matched_sectors || [])
+          .map(s => `<span class="tag">${esc(s)}</span>`).join('');
+        const isSelected = state.selected.has(a.url);
+        return `
+        <article class="${isSelected ? 'selected' : ''}" data-url="${esc(a.url)}">
+          <div class="check ${isSelected ? 'checked' : ''}" data-url="${esc(a.url)}"></div>
+          <div class="article-body">
             <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
             <div class="article-meta">
               ${a.published ? esc(formatDate(a.published)) : ''}
               ${others}${sectors}
             </div>
             ${a.summary ? `<div class="summary">${esc(a.summary)}</div>` : ''}
-          </article>`;
-        }).join('')}
-      </section>
-    `).join('');
-  }
+          </div>
+        </article>`;
+      }).join('')}
+    </section>
+  `).join('');
 
-  for (const btn of document.querySelectorAll('#time-filters .pill')) {
-    btn.onclick = () => {
-      state.hours = parseInt(btn.dataset.hours);
-      document.querySelectorAll('#time-filters .pill').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      render();
+  document.querySelectorAll('.check').forEach(box => {
+    box.onclick = (e) => {
+      e.preventDefault(); e.stopPropagation();
+      toggleSelect(box.dataset.url);
     };
+  });
+
+  updateActionBar();
+}
+
+function toggleSelect(url) {
+  if (state.selected.has(url)) {
+    state.selected.delete(url);
+    state.order = state.order.filter(u => u !== url);
+  } else {
+    state.selected.add(url);
+    if (!state.order.includes(url)) state.order.push(url);
+  }
+  persist();
+  document.querySelectorAll(`.check[data-url="${CSS.escape(url)}"]`).forEach(box => {
+    box.classList.toggle('checked', state.selected.has(url));
+    box.closest('article').classList.toggle('selected', state.selected.has(url));
+  });
+  updateActionBar();
+}
+
+function clearSelection() {
+  if (state.selected.size === 0) return;
+  if (!confirm('Limpar todas as ' + state.selected.size + ' selecionadas?')) return;
+  state.selected.clear();
+  state.order = [];
+  persist();
+  render();
+}
+
+function updateActionBar() {
+  const n = state.selected.size;
+  document.getElementById('selected-n').textContent = n;
+  document.getElementById('action-bar').classList.toggle('visible', n > 0);
+}
+
+function getSelectedArticlesInOrder() {
+  const byUrl = new Map(state.articles.map(a => [a.url, a]));
+  return state.order
+    .filter(url => state.selected.has(url) && byUrl.has(url))
+    .map(url => byUrl.get(url));
+}
+
+function formatTodayEn() {
+  const d = new Date();
+  const month = d.toLocaleString('en-US', { month: 'short' });
+  const day = d.getDate();
+  const suffix = (day % 10 === 1 && day !== 11) ? 'st'
+               : (day % 10 === 2 && day !== 12) ? 'nd'
+               : (day % 10 === 3 && day !== 13) ? 'rd' : 'th';
+  return `${month} ${day}${suffix}`;
+}
+
+function buildClippingText() {
+  const items = getSelectedArticlesInOrder();
+  const header = `*Retail Daily - ${formatTodayEn()}*`;
+  const body = items.map(a => `${a.title}\n${a.url}`).join('\n\n');
+  return header + '\n\n' + body;
+}
+
+function renderReview() {
+  const items = getSelectedArticlesInOrder();
+  document.getElementById('preview-n').textContent = items.length;
+
+  if (!items.length) {
+    document.getElementById('reorder-list').innerHTML =
+      '<div class="empty">Nenhuma selecionada.</div>';
+    document.getElementById('preview').textContent = '';
+    return;
   }
 
-  document.getElementById('search').oninput = e => {
-    state.query = e.target.value;
-    render();
+  document.getElementById('reorder-list').innerHTML = items.map((a, i) => `
+    <div class="reorder-item" data-url="${esc(a.url)}" data-index="${i}">
+      <div class="drag-handle" data-url="${esc(a.url)}">⋮⋮</div>
+      <div class="reorder-item-body">
+        <div class="reorder-title">${esc(a.title)}</div>
+        <div class="reorder-url">${esc(a.url)}</div>
+      </div>
+      <button class="remove-btn" data-url="${esc(a.url)}" aria-label="Remover">×</button>
+    </div>
+  `).join('');
+
+  document.querySelectorAll('.remove-btn').forEach(btn => {
+    btn.onclick = () => {
+      toggleSelect(btn.dataset.url);
+      renderReview();
+    };
+  });
+
+  bindDragHandlers();
+  document.getElementById('preview').textContent = buildClippingText();
+}
+
+let dragState = null;
+
+function bindDragHandlers() {
+  const list = document.getElementById('reorder-list');
+  const items = [...list.querySelectorAll('.reorder-item')];
+
+  items.forEach(item => {
+    const handle = item.querySelector('.drag-handle');
+
+    const onStart = (e) => {
+      e.preventDefault();
+      const touch = e.touches ? e.touches[0] : e;
+      dragState = {
+        item,
+        startY: touch.clientY,
+        url: item.dataset.url,
+        dropTarget: null,
+      };
+      item.classList.add('dragging');
+    };
+    handle.addEventListener('touchstart', onStart, { passive: false });
+    handle.addEventListener('mousedown', onStart);
+  });
+
+  const onMove = (e) => {
+    if (!dragState) return;
+    e.preventDefault();
+    const touch = e.touches ? e.touches[0] : e;
+    const dy = touch.clientY - dragState.startY;
+    dragState.item.style.transform = `translateY(${dy}px)`;
+
+    const allItems = [...list.querySelectorAll('.reorder-item')];
+    allItems.forEach(el => el.classList.remove('drop-target'));
+    const pointerY = touch.clientY;
+    const target = allItems.find(el => {
+      if (el === dragState.item) return false;
+      const r = el.getBoundingClientRect();
+      return pointerY > r.top && pointerY < r.bottom;
+    });
+    if (target) target.classList.add('drop-target');
+    dragState.dropTarget = target;
   };
 
-  load();
+  const onEnd = (e) => {
+    if (!dragState) return;
+    const { item, dropTarget, url } = dragState;
+    item.classList.remove('dragging');
+    item.style.transform = '';
+    document.querySelectorAll('.reorder-item').forEach(el => el.classList.remove('drop-target'));
+
+    if (dropTarget && dropTarget !== item) {
+      const targetUrl = dropTarget.dataset.url;
+      const newOrder = state.order.filter(u => u !== url);
+      const targetIdx = newOrder.indexOf(targetUrl);
+      const rect = dropTarget.getBoundingClientRect();
+      const pointerY = (e.changedTouches ? e.changedTouches[0] : e).clientY;
+      const insertAfter = pointerY > rect.top + rect.height / 2;
+      newOrder.splice(insertAfter ? targetIdx + 1 : targetIdx, 0, url);
+      state.order = newOrder;
+      persist();
+      renderReview();
+    }
+    dragState = null;
+  };
+
+  document.addEventListener('touchmove', onMove, { passive: false });
+  document.addEventListener('mousemove', onMove);
+  document.addEventListener('touchend', onEnd);
+  document.addEventListener('mouseup', onEnd);
+}
+
+function openReview() {
+  renderReview();
+  document.getElementById('review-screen').classList.add('visible');
+}
+function closeReview() {
+  document.getElementById('review-screen').classList.remove('visible');
+}
+
+async function copyClipping() {
+  const text = buildClippingText();
+  try {
+    await navigator.clipboard.writeText(text);
+    showToast('Copiado! Cole no WhatsApp ou email.');
+  } catch (e) {
+    const ta = document.createElement('textarea');
+    ta.value = text;
+    ta.style.position = 'fixed'; ta.style.opacity = '0';
+    document.body.appendChild(ta);
+    ta.select();
+    try { document.execCommand('copy'); showToast('Copiado!'); }
+    catch (err) { alert('Não foi possível copiar automaticamente. Selecione manualmente:\n\n' + text); }
+    document.body.removeChild(ta);
+  }
+}
+function showToast(msg) {
+  const t = document.getElementById('copy-toast');
+  t.textContent = msg;
+  t.classList.add('visible');
+  setTimeout(() => t.classList.remove('visible'), 1800);
+}
+
+for (const btn of document.querySelectorAll('#time-filters .pill')) {
+  btn.onclick = () => {
+    state.hours = parseInt(btn.dataset.hours);
+    document.querySelectorAll('#time-filters .pill').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    render();
+  };
+}
+document.getElementById('search').oninput = e => {
+  state.query = e.target.value;
+  render();
+};
+
+load();
 </script>
 </body>
 </html>
