@@ -479,6 +479,16 @@ function render() {
     const key = (a.matched_tickers && a.matched_tickers[0]) || '— SETOR / MACRO';
     (groups[key] = groups[key] || []).push(a);
   }
+
+  // Dentro de cada grupo, ordenar por data desc (sem data vai pro fim)
+  for (const key of Object.keys(groups)) {
+    groups[key].sort((a, b) => {
+      const ta = a.published ? new Date(a.published).getTime() : -Infinity;
+      const tb = b.published ? new Date(b.published).getTime() : -Infinity;
+      return tb - ta;
+    });
+  }
+
   const keys = Object.keys(groups).sort((a, b) => {
     if (a.startsWith('—')) return 1;
     if (b.startsWith('—')) return -1;
