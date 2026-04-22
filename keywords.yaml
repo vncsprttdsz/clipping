@@ -4,7 +4,7 @@
 
 sectors:
   # ------------------------------------------------------------
-  # FASHION (Moda, vestuário, calçados)
+  # FASHION (Moda, vestuário, calçados, móveis/decoração)
   # ------------------------------------------------------------
   Fashion:
     - renner
@@ -23,9 +23,9 @@ sectors:
     - schutz
     - anacapri
     - foxton
-    - farm                 # contexto: moda
-    - reserva              # contexto: moda
-    - vans                 # contexto: moda
+    - farm
+    - reserva
+    - vans
     - azzas
     - zara
     - inditex
@@ -37,6 +37,30 @@ sectors:
     - calçadista
     - varejo de moda
     - lei da moda
+    - marisa
+    - aramis
+    - hugo boss
+    - larroudé
+    - maria filó
+    - americanas
+    - lojas americanas
+    - converse
+    - bershka
+    - camicado
+    - dafiti
+    - lacoste
+    - skechers
+    - grendene
+    - tania bulhões
+    - westwing
+    - malwee
+    - osklen
+    - le lis
+    - shoulder
+    - havan
+    - tok&stok
+    - mobly
+    - guararapes
 
     # Regras contextuais
     - alias: farm
@@ -57,6 +81,11 @@ sectors:
     - ouro
     - prata
     - diamante
+    - cartier
+    - rolex
+    - tiffany
+    - tiffany & co
+    - pandora
 
     # Ouro/prata só no contexto de joias/luxo
     - alias: ouro
@@ -86,18 +115,28 @@ sectors:
     - ponto frio
     - bhia3
     - mglu3
+    - americanas
+    - lojas americanas
     - ecommerce
     - marketplace
     - vendas online
     - remessa conforme
     - taxa das blusinhas
+    - keeta
+    - 99 food
+    - 99compras
+    - ifood
+    - rappi
+    - delivery
+    - entrega rápida
+    - daki
 
     # Magazine Luiza (contexto)
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, ações, logística]
 
   # ------------------------------------------------------------
-  # VAREJO ALIMENTAR (Supermercados, atacarejo)
+  # VAREJO ALIMENTAR (Supermercados, atacarejo, alimentos)
   # ------------------------------------------------------------
   Varejo Alimentar:
     - assaí
@@ -123,7 +162,7 @@ sectors:
     - bretas
     - komprão
     - super koch
-    - casino          # grupo controlador
+    - casino
     - walmart brasil
     - costco
     - grupo mateus
@@ -132,6 +171,13 @@ sectors:
     - supermercado
     - atacarejo
     - hipermercado
+    - oxxo
+    - grupo dia
+    - st. marche
+    - piracanjuba
+    - cacau show
+    - kopenhagen
+    - brasil cacau
 
     - alias: belmiro gomes
       requires_any: [grupo, empresário, acionista, gpa, sendas]
@@ -158,6 +204,9 @@ sectors:
     - academia gavioes
     - academia gaviões
     - smft3
+    - ultra academia
+    - espaçolaser
+    - planet fitness
 
     - alias: smart fit
       requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
@@ -170,6 +219,9 @@ sectors:
     - avon
     - boticário
     - o boticário
+    - vult
+    - eudora
+    - quem disse berenice
     - l'oréal
     - loreal
     - nivea
@@ -181,6 +233,16 @@ sectors:
     - sephora
     - aura beauty
     - wepink
+    - vonny
+    - estée lauder
+    - jo malone
+    - puig
+    - bel cosméticos
+    - mundo do cabeleireiro
+    - buddha spa
+    - truss
+    - bath & body works
+    - the ordinary
     - cosmético
     - perfumaria
     - maquiagem
@@ -212,8 +274,13 @@ sectors:
     - semaglutida
     - tirzepatida
     - zepbound
+    - retatrutida
     - novo nordisk
     - eli lilly
+    - ems
+    - medley
+    - cvs
+    - cimed
 
     - alias: raia
       requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
@@ -294,6 +361,8 @@ sectors:
     - eletrônicos
     - smartphones
     - linha branca
+    - vivo
+    - kalunga
 
     - alias: allied
       requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone, trocafy, varejo]
@@ -309,6 +378,11 @@ sectors:
     - agência de viagem
     - turismo
     - pacote de viagem
+    - hotel
+    - hotelaria
+    - rede hoteleira
+    - setor hoteleiro
+    - airbnb
 
     - alias: cvc
       requires_any: [viagem, turismo, pacote, agência, ações]
@@ -322,6 +396,9 @@ sectors:
     - petz
     - cobasi
     - petlove
+    - life pet hub
+    - petcamp
+    - vetlove
     - pet shop
     - ração
     - produtos para pet
@@ -335,6 +412,7 @@ sectors:
     - lululemon
     - alo yoga
     - live!
+    - pink cheeks
     - sbfg
     - grupo sbf
     - centauro
@@ -346,6 +424,11 @@ sectors:
     - under armour
     - adidas
     - mizuno
+    - converse
+    - decathlon
+    - puma
+    - on
+    - hims & hers
     - artigos esportivos
     - material esportivo
     - roupas de academia
@@ -369,6 +452,12 @@ sectors:
     - home depot
     - lowe's
     - best buy
+    - macy's
+    - saks fifth avenue
+    - saks off 5th
+    - etsy
+    - tesco
+    - bhv
     - lvmh
     - kering
     - gucci
@@ -376,6 +465,7 @@ sectors:
     - hermes
     - chanel
     - prada
+    - armani
     - richemont
     - inditex
     - zara
@@ -390,6 +480,16 @@ sectors:
     - eli lilly
     - pfizer
     - roche
+    - cvs
+    - estée lauder
+    - puig
+    - lululemon
+    - skechers
+    - lacoste
+    - decathlon
+    - puma
+    - on
+    - hims & hers
     - weight-loss drugs
     - glp-1
     - obesity drugs
@@ -398,6 +498,16 @@ sectors:
     - gold
     - silver
     - jewelry
+    - cartier
+    - rolex
+    - tiffany
+    - pandora
+    - hugo boss
+    - converse
+    - keeta
+    - 99 food
+    - airbnb
+    - ualá
 
     # Regras contextuais para evitar falsos positivos
     - alias: gold
@@ -412,6 +522,8 @@ sectors:
       requires_any: [retail, sales, earnings, diy, construction]
     - alias: best buy
       requires_any: [electronics, retail, sales, earnings]
+    - alias: macy's
+      requires_any: [retail, department store, sales, earnings, stock]
     - alias: lvmh
       requires_any: [luxury, fashion, sales, revenue, stock, bernard arnault]
     - alias: gucci
@@ -426,3 +538,9 @@ sectors:
       requires_any: [ozempic, wegovy, glp-1, diabetes, obesity, stock, earnings]
     - alias: eli lilly
       requires_any: [mounjaro, zepbound, glp-1, obesity, stock, earnings]
+    - alias: cvs
+      requires_any: [pharmacy, retail, health, sales, earnings, stock]
+    - alias: estée lauder
+      requires_any: [beauty, cosmetics, sales, earnings, stock]
+    - alias: lululemon
+      requires_any: [athleisure, yoga, apparel, sales, earnings, stock]
