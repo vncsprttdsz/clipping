@@ -27,6 +27,7 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
@@ -39,13 +40,13 @@ jobs:
       - name: Instala dependências
         run: pip install feedparser requests beautifulsoup4 pyyaml
 
-      - name: Roda o clipping
-        run: |
-          if [ "${{ inputs.rescore }}" = "true" ]; then
-            python clipping.py --output-json data/articles.json --since 48 --rescore
-          else
-            python clipping.py --output-json data/articles.json --since 48
-          fi
+      - name: Roda o clipping com rescore
+        if: ${{ inputs.rescore }}
+        run: python clipping.py --output-json data/articles.json --since 48 --rescore
+
+      - name: Roda o clipping normal
+        if: ${{ !inputs.rescore }}
+        run: python clipping.py --output-json data/articles.json --since 48
 
       - name: Commita o resultado (se houver mudanças)
         run: |
