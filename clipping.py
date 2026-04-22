@@ -163,7 +163,7 @@ class Article:
     source: str = ""
     matched_tickers: List[str] = field(default_factory=list)
     matched_sectors: List[str] = field(default_factory=list)
-    matched_aliases: List[str] = field(default_factory=list)   # NOVO
+    matched_aliases: List[str] = field(default_factory=list)
     score: float = 0.0
 
     def to_json(self) -> dict:
@@ -212,6 +212,7 @@ def score_article(a: Article) -> None:
 
     matched_aliases = set()
 
+    # ----- Tickers (cobertura) -----
     for ticker, rules in COVERAGE.items():
         hit_in_title = False
         hit_in_body = False
@@ -233,14 +234,16 @@ def score_article(a: Article) -> None:
             a.matched_tickers.append(ticker)
             a.score += 10
 
-    for sector, kws in SECTOR_KEYWORDS.items():
-        for kw in kws:
-            if normalize(kw) in full_n:
+    # ----- Setores / Macro -----
+    for sector, keywords in SECTOR_KEYWORDS.items():
+        for kw in keywords:
+            kw_norm = normalize(kw)
+            # Procura palavra inteira no texto completo
+            if re.search(rf"\b{re.escape(kw_norm)}\b", full_n):
                 a.matched_sectors.append(sector)
+                matched_aliases.add(kw)        # <-- Adiciona a keyword específica
                 a.score += 3
-                # Opcional: também registrar a keyword do setor
-                # matched_aliases.add(kw)
-                break
+                break   # basta uma keyword do setor para pontuar
 
     a.matched_aliases = sorted(matched_aliases)
 
@@ -257,7 +260,8 @@ def parse_entry(entry, source: str) -> Optional[Article]:
         for key in ("published_parsed", "updated_parsed"):
             tp = entry.get(key)
             if tp:
-                published = datetime.fromtimestamp(time.mktime(tp), tz=timezone.utc)
+                # feedparser já retorna tupla no fuso UTC
+                published = datetime(*tp[:6], tzinfo=timezone.utc)
                 break
 
         if not title or not url:
@@ -443,15 +447,12 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         except Exception:
             existing = []
 
-    # Modo rescore: re-aplica matching atual em todos os artigos existentes
-    # e descarta os que nao batem mais. Usar depois de mudar keywords.yaml.
     if rescore and existing:
         print(f"[rescore] Re-aplicando matching em {len(existing)} artigos existentes...",
               file=sys.stderr)
         rescored = []
         dropped = 0
         for a_dict in existing:
-            # Reconstroi o Article a partir do dict, zerando matches
             published = None
             if a_dict.get("published"):
                 try:
