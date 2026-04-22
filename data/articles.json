@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-22T18:32:03.024930+00:00",
-  "count": 44,
-  "new_this_run": 18,
+  "generated_at": "2026-04-22T21:02:10.870023+00:00",
+  "count": 58,
+  "new_this_run": 16,
   "articles": [
     {
       "title": "Pão de Açúcar consegue decisão para barrar venda de ações pelo Casino",
@@ -13,6 +13,11 @@
         "PCAR3"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "casino",
+        "gpa",
+        "grupo pao de acucar"
+      ],
       "score": 20.0
     },
     {
@@ -25,6 +30,9 @@
         "AMZN"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "amazon"
+      ],
       "score": 20.0
     },
     {
@@ -37,6 +45,9 @@
         "AMZN"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "amazon"
+      ],
       "score": 20.0
     },
     {
@@ -49,6 +60,9 @@
         "AMZN"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "amazon"
+      ],
       "score": 20.0
     },
     {
@@ -61,6 +75,9 @@
         "AMZN"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "amazon"
+      ],
       "score": 20.0
     },
     {
@@ -73,6 +90,9 @@
         "MELI"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "mercado livre"
+      ],
       "score": 20.0
     },
     {
@@ -85,6 +105,9 @@
         "SMFT3"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "wellhub"
+      ],
       "score": 20.0
     },
     {
@@ -97,6 +120,9 @@
         "AZZA3"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "azzas"
+      ],
       "score": 20.0
     },
     {
@@ -109,6 +135,9 @@
         "ALLD3"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "allied"
+      ],
       "score": 10.0
     },
     {
@@ -121,18 +150,9 @@
         "AZZA3"
       ],
       "matched_sectors": [],
-      "score": 10.0
-    },
-    {
-      "title": "Kevin Warsh afirma que manterá o Fed independente se tiver nomeação aprovada no Senado",
-      "summary": "Kevin Warsh, indicado por Donald Trump para ser o próximo presidente da Reserva Federal, promete proteger a independência do banco central dos EUA se for confirmado no cargo. “Creio que a independência da política monetária é conquistada — e que melhores decisões são tomadas — ao evitar distrações”, segundo uma cópia de suas declarações preparadas para sua confirmação na terça-feira e revisada pela Bloomberg. “Estou comprometido em garantir que a condução da política monetária permaneça estritamente independente”, afirmou. Warsh, que deve comparecer perante o Comitê Bancário do Senado às 10h, também prometeu manter o Fed focado em seu mandato e missão operacional. “A independência do Fed enfrenta seu maior risco quando se desvia para políticas fiscais e sociais nas quais não tem nem autoridade nem experiência”, segundo as declarações preparadas, relatadas anteriormente pelo Politico. “O Fed não deve agir como uma agência de propósito geral do governo dos EUA nem como um tribunal de apelação para assuntos que devem ser debatidos e decididos em outros âmbitos.”",
-      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/04/20/kevin-warsh-afirma-que-mantera-o-fed-independente-se-tiver-nomeacao-aprovada-no-senado.ghtml",
-      "published": "2026-04-20T18:09:48+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_tickers": [
-        "AZZA3"
+      "matched_aliases": [
+        "reserva"
       ],
-      "matched_sectors": [],
       "score": 10.0
     },
     {
@@ -145,6 +165,9 @@
         "AMZN"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "amazon"
+      ],
       "score": 10.0
     },
     {
@@ -157,6 +180,11 @@
         "PCAR3"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "casino",
+        "pao de acucar",
+        "pão de açúcar"
+      ],
       "score": 10.0
     },
     {
@@ -169,6 +197,9 @@
         "AMZN"
       ],
       "matched_sectors": [],
+      "matched_aliases": [
+        "amazon"
+      ],
       "score": 10.0
     },
     {
@@ -182,6 +213,7 @@
         "labor_reform",
         "consumer_macro"
       ],
+      "matched_aliases": [],
       "score": 6.0
     },
     {
@@ -195,6 +227,7 @@
         "ecommerce_cross_border",
         "competitive_entry"
       ],
+      "matched_aliases": [],
       "score": 6.0
     },
     {
@@ -207,6 +240,7 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -219,6 +253,33 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Salto: Debate sobre fim da 6x1 fica mais acalorado, mas é inescapável",
+      "summary": "O debate sobre o fim da escala 6x1 se intensifica e não pode mais ser evitado, avaliou o colunista Felipe Salto no UOL News - 2ª edição, do Canal UOL.",
+      "url": "https://economia.uol.com.br/noticias/redacao/2026/04/22/debate-sobre-fim-da-6x1-fica-mais-acalorado-mas-e-inescapavel-diz-felipe-salto.ghtm",
+      "published": null,
+      "source": "https://rss.uol.com.br/feed/economia.xml",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Fim da escala 6x1 afetaria principalmente setores aéreo e de hospedagem",
+      "summary": "O possível fim da escala 6x1 de trabalho, em debate no Congresso Nacional, vai afetar principalmente os setores de transporte aéreo e de hospedagem no Brasil.",
+      "url": "https://economia.uol.com.br/noticias/redacao/2026/04/22/escala-6x1-setores-afetados.ghtm",
+      "published": null,
+      "source": "https://rss.uol.com.br/feed/economia.xml",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -231,6 +292,7 @@
       "matched_sectors": [
         "ecommerce_cross_border"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -243,6 +305,7 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -255,6 +318,7 @@
       "matched_sectors": [
         "tax_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -267,6 +331,7 @@
       "matched_sectors": [
         "tax_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -279,6 +344,7 @@
       "matched_sectors": [
         "ecommerce_cross_border"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -291,6 +357,7 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -303,6 +370,7 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -315,6 +383,7 @@
       "matched_sectors": [
         "logistics"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -327,6 +396,7 @@
       "matched_sectors": [
         "pharma"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -339,6 +409,7 @@
       "matched_sectors": [
         "consumer_macro"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -351,6 +422,7 @@
       "matched_sectors": [
         "consumer_macro"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -363,6 +435,7 @@
       "matched_sectors": [
         "logistics"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -375,6 +448,7 @@
       "matched_sectors": [
         "competitive_entry"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -387,6 +461,7 @@
       "matched_sectors": [
         "competitive_entry"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -399,6 +474,7 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -411,6 +487,7 @@
       "matched_sectors": [
         "competitive_entry"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -423,6 +500,7 @@
       "matched_sectors": [
         "logistics"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -435,6 +513,7 @@
       "matched_sectors": [
         "ecommerce_cross_border"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -447,6 +526,7 @@
       "matched_sectors": [
         "ecommerce_cross_border"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -459,6 +539,7 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -471,6 +552,7 @@
       "matched_sectors": [
         "consumer_macro"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -483,6 +565,7 @@
       "matched_sectors": [
         "ecommerce_cross_border"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -495,6 +578,7 @@
       "matched_sectors": [
         "consumer_macro"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -507,6 +591,7 @@
       "matched_sectors": [
         "tax_reform"
       ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -519,6 +604,46 @@
       "matched_sectors": [
         "labor_reform"
       ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Após perder na disputa pela Warner, Netflix negocia a compra do estúdio que criou 'Seinfeld'",
+      "summary": "Plataforma de streaming avalia a compra do Radford Studio Center, ativo retomado por credores após inadimplência",
+      "url": "https://exame.com/pop/apos-perder-na-disputa-pela-warner-netflix-negocia-a-compra-do-estudio-que-criou-seinfeld/",
+      "published": "2026-04-22T17:00:26+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "consumer_macro"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "CCJ da Câmara aprova PEC e fim da escala 6x1 avança no Congresso",
+      "summary": "Deputados consideraram a proposta constitucional — fase que não entra no mérito, mas apenas na legalidade da matéria. Proposta ainda será analisada em comissão especial",
+      "url": "https://exame.com/brasil/ccj-da-camara-aprova-pec-e-fim-da-escala-6x1-avanca-no-congresso/",
+      "published": "2026-04-22T17:02:53+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Fim da escala 6x1: o que acontece após aprovação na CCJ da Câmara",
+      "summary": "Avanço destrava tramitação da PEC e abre debate sobre impacto de até 1% do PIB e compensações a empresas",
+      "url": "https://exame.com/brasil/fim-da-escala-6x1-o-que-acontece-apos-aprovacao-na-ccj-da-camara/",
+      "published": "2026-04-22T17:19:29+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
       "score": 3.0
     },
     {
@@ -531,6 +656,137 @@
       "matched_sectors": [
         "competitive_entry"
       ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Escala 6x1: entenda o que será votado e tire dúvidas sobre os próximos passos",
+      "summary": "Os projetos da Câmara dos Deputados que prevêem o fim da escala 6x1 no Brasil devem ser votados nesta quarta-feira na Comissão de Constituição e Justiça (CCJ). A análise das Propostas de Emenda à Constituição (PEC) foi adiada após pedido de vista da oposição na última quarta. Escala 6x1: quem trabalha 44h por semana ganha, em média, 58% menos que quem cumpre 40h, aponta estudo Fim da escala 6x1: insatisfeito com queda de braço, Motta tenta fazer Lula desistir de urgência de projeto de lei Entenda quais são os próximos passos: Votação na CCJ A CCJ votará o parecer do relator, Paulo Azi (União-BA) favorável à tramitação das propostas que reduzem a escala de trabalho. O presidente da Câmara, Hugo Motta (Republicanos-PB) determinou que as propostas da deputada Erika Hilton (PSOL-SP) e do deputado Reginaldo Lopes (PT-MG) avançassem juntas. Planejamento: Fim da escala 6x1 pode ter regra de transição e conta não deve ir para o Tesouro, diz ministro da Fazenda Nesta etapa, os parlamentares avaliam apenas se o texto atende aos requisitos legais e constitucionais para seguir tramitando, sem entrar no mérito da proposta, o que deve ser realizado após eventual aprovação na CCJ. Caso haja maioria, os parlamentares também podem propor alterações nos textos, com foco na redação e na constitucionalidade das propostas. Em seu relatório, o deputado também defende a adoção de uma fase de transição para permitir a adaptação dos diferentes setores da economia, além da discussão de possíveis compensações ao setor produtivo. Comissão especial e discussão do texto Caso o parecer seja aprovado, será criada uma comissão especial para discutir o conteúdo da proposta antes de eventual votação no plenário da Câmara. Segundo previsão do presidente Hugo Motta (Republicanos-PB), o texto deve ser votado pelos deputados até o final de maio. PEC ou projeto de lei? Especialistas avaliam qual é o melhor caminho para acabar com a escala 6x1 O texto do deputado Reginaldo Lopes propõe a redução da jornada de trabalho de 44 para 36 horas em 10 anos. Já a proposta da deputada Erika HIlton também prevê a redução da jornada, assim como a redução da escala de trabalho para 4x3 — em que se trabalha quatro dias por semana com três de descanso. As discussões na CCJ, embora não tenham sido sobre mérito, já demonstram que o texto final da PEC deve ficar em um meio termo, com previsão de jornada de trabalho reduzida para 40 horas e uma escala de trabalho 5x2. Fim da escala 6x1: empresas conseguiriam acomodar alta do custo de mão de obra? Economistas se dividem Se a maioria dos deputados votarem a favor do relatório, o texto segue para votação no plenário da Câmara. Senado O mesmo processo deve se repetir no Senado. Se os senadores aprovarem o projeto com alterações nas comissões e plenário, o texto volta para Câmara, que analisa as mudanças, podendo mantê-las, ou restaurar o projeto original antes de seguir para sanção do presidente Lula. Outra proposta sobre o tema, a do senador Paulo Paim (PT-RS) já foi aprovada pela CCJ da Casa em dezembro do ano passado e aguarda análise do plenário. Projeto do governo A retomada da votação aconteceu após pressão do governo do presidente Luiz Inácio Lula da Silva (PT), que decidiu entrar diretamente na disputa e enviou ao Congresso um projeto de lei próprio sobre o tema, com pedido de urgência constitucional. Com isso, é limitado um prazo máximo de até 45 dias de tramitação em cada Casa Legislativa, que pode ser estendido por mais 10 dias caso o texto seja alterado. A proposta do Executivo prevê a redução da jornada máxima de 44 para 40 horas semanais, com a escala 5x2. Além disso, também prevê a inclusão dos trabalhadores domésticos na proposta. A proposta estabelece uma redução da jornada semanal máxima de trabalho de 44 para 40 horas. Na prática, isso leva à adoção do modelo 5x2, cinco dias de trabalho e dois de descanso, substituindo a lógica atual da escala 6x1 em partes dos setores econômicos, como os de comércio e serviços. Com isso, a duração normal do trabalho para os trabalhadores não poderá exceder a oito horas diárias e a quarenta horas semanais.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/04/22/escala-6x1-entenda-o-que-sera-votado-e-tire-duvidas-sobre-os-proximos-passos.ghtml",
+      "published": "2026-04-22T18:40:33+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "CCJ da Câmara aprova parecer de PEC sobre fim da escala 6x1",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) da Câma...",
+      "url": "https://valor.globo.com/politica/noticia/2026/04/22/ccj-da-camara-retoma-analise-de-parecer-da-pec-sobre-fim-da-escala-6x1.ghtml",
+      "published": "2026-04-22T18:50:38+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "México diz que não sabia que os agentes da CIA mortos estavam no país",
+      "summary": "A presidente do México, Claudia Sheinbaum, afirmou...",
+      "url": "https://valor.globo.com/mundo/noticia/2026/04/22/mxico-diz-que-no-sabia-que-os-agentes-da-cia-mortos-estavam-no-pas.ghtml",
+      "published": "2026-04-22T19:01:38+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "ecommerce_cross_border"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Cegonheiros vão ao Bandeirantes por diesel e apagão de mão de obra",
+      "summary": "Contratos dos cegonheiros com as empresas de logística, que organizam a entrega dos carros, possuem gatilho percentual ao valor do Diesel, que está em alta",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/cegonheiros-vao-ao-bandeirantes-por-diesel-e-apagao-de-mao-de-obra/",
+      "published": "2026-04-22T20:00:11+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "logistics"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Com ‘Taxa das Blusinhas’, Brasil preservou 135 mil empregos e quase R$ 20 bi na economia, diz CNI",
+      "summary": "A “Taxa das Blusinhas” impediu a entrada de R$ 4,5...",
+      "url": "https://valor.globo.com/brasil/noticia/2026/04/22/com-taxa-das-blusinhas-brasil-preservou-135-mil-empregos-e-quase-r-20-bi-na-economia-diz-cni.ghtml",
+      "published": "2026-04-22T20:01:20+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "ecommerce_cross_border"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Comissão da Câmara aprova PEC do fim da escala 6x1 em meio a disputa entre Congresso e governo",
+      "summary": "A Comissão de Constituição e Justiça (CCJ) da Câmara dos Deputados aprovou nesta quarta-feira a admissibilidade da proposta de emenda à Constituição (PEC) que trata do fim da escala 6x1, em meio a uma disputa entre Congresso e governo sobre o ritmo e o formato da mudança. Com o aval do colegiado, o próximo passo é a criação de uma comissão especial, onde o mérito da proposta será debatido. Escala 6x1: quem trabalha 44h por semana ganha, em média, 58% menos que quem cumpre 40h, aponta estudo ANP: Preço de gasolina e diesel cai nos postos, mas gás de botijão tem 5ª alta seguida O parecer aprovado foi apresentado pelo relator, o deputado Paulo Azi (União Brasil-BA), que se manifestou pela constitucionalidade da matéria ainda na semana passada. Nesta etapa, os parlamentares analisaram apenas se a proposta atende aos requisitos legais para tramitação, sem entrar no conteúdo das mudanças. Em seu voto, o relator defendeu a adoção de uma fase de transição para permitir a adaptação dos setores econômicos, além da discussão de possíveis compensações ao setor produtivo. Esses pontos, contudo, serão discutido mais profundamente na próxima etapa de tramitação. Fim da escala 6x1: insatisfeito com queda de braço, Motta tenta fazer Lula desistir de urgência de projeto de lei As PECs em discussão reúnem duas iniciativas iniciativas que tratam da redução da jornada de trabalho e da reorganização das escalas. Uma delas é a proposta do deputado Reginaldo Lopes (PT-MG), que prevê a redução gradual da jornada semanal de 44 para 36 horas ao longo de dez anos. Já um outro texto, da deputada Erika Hilton (Psol-SP), propõe uma jornada reduzida combinada com a adoção da escala 4x3, com quatro dias de trabalho e três de descanso. Apesar das diferentes propostas, o debate na CCJ já sinaliza a construção de um meio-termo, com possibilidade de fixação da jornada em 40 horas semanais e adoção de uma escala 5x2. Esse modelo também se aproxima da proposta enviada pelo governo federal ao Congresso. Antes do início da sessão, o deputado Reginaldo Lopes, autor de uma das PECs em discussão, afirmou que quer propor uma emenda à sua própria proposta para que o texto fique mais parecido com o texto enviado pelo governo. Planejamento: Fim da escala 6x1 pode ter regra de transição e conta não deve ir para o Tesouro, diz ministro da Fazenda A aprovação ocorre sob pressão do governo do presidente Luiz Inácio Lula da Silva (PT), que decidiu entrar diretamente no debate e encaminhou à Câmara um projeto de lei sobre o mesmo tema com urgência constitucional. Ou seja, caso o texto não seja analisado dentro de 45 dias, pode travar a pauta da Casa. A proposta defendida pelo Executivo prevê a redução da jornada máxima de 44 para 40 horas semanais, mantendo a escala 5x2, algo parecido com o que vem sendo discutido pelo Congresso. O problema agora, para deputados que participam das articulações, se estende também sobre a paternidade da eventual mudança, que tem forte apelo dos brasileiros. A iniciativa do governo foi interpretada por aliados como uma tentativa de destravar a discussão, que vinha avançando lentamente na Câmara. Entre parlamentares, no entanto, a movimentação gerou reação e reforçou a disputa sobre quem deve liderar a formulação da mudança. PEC ou projeto de lei? Especialistas avaliam qual é o melhor caminho para acabar com a escala 6x1 Até o momento, o projeto enviado pelo Executivo não avançou na Câmara, enquanto a PEC consolidou-se como a principal via de tramitação do tema. O presidente da Casa, Hugo Motta (Republicanos-PB), tem sinalizado a aliados que a condução da proposta deve permanecer sob protagonismo do Congresso e já dá sinais de que pretende acelerar o andamento do texto. Durante a discussão do parecer do relator, deputados da base como Sâmia Bomfim (Psol-SP), Tarcísio Motta (Psol-RJ) e Alencar Santada (PT-SP) discursaram a favor do projeto, defendendo que as mudanças trariam melhorias para a vida do trabalhador, assim como trariam benefícios à produtividade. Eles foram alguns dos que cirticaram a mentalidade “de mercado” de decretar quebra na economia ou geração de desemprego a partir de mudanças na jornada de trabalho. Sâmia citou como exemplo a época da instituição da CLT, que gerou dúvidas para empregadores. — Agora a gente vê a ladainha se repetindo, sendo que é justamente o contrário: a redução da jornada de trabalho pode ter um efeito inverso desses que estão propagando. Vai ter um efeito de geração de maior número de vagas de trabalho, justamente para dar conta da demanda de atendimento, principalmente na área de serviços — afirmou Sâmia Bomfim. Fim da escala 6x1: empresas conseguiriam acomodar alta do custo de mão de obra? Economistas se dividem Já deputados contrários à proposta, como Lucas Redecker (PSD-RS), que chegou a pedir vista na última sessão da CCJ e adiar a votação, argumentou que sua preocupação é com “quem vai pagar a conta” — Se diminuirmos a escala de 6x1 para 5x2 e mantivermos o mesmo salário, é muito bom para o trabalhador, mas isso vai gerar um déficit para o empregador e que vai ter lá na ponta uma diminuição prevista de mais ou menos 22% do valor agregado pelo custo do empregado. Esses 22% vão cair na conta de quem? Ou eles vão cair na conta do consumidor lá embaixo? — questionou Redecker. Voto do relator No voto, Azi faz uma contextualização histórica da jornada de trabalho e afirma que o tema é central nas relações trabalhistas, destacando que “a regulação do tempo de trabalho é um dos pilares fundamentais do Direito do Trabalho e da justiça social”. Ao analisar os impactos da proposta, Azi também aponta que a redução da jornada pode trazer efeitos positivos, especialmente para grupos mais vulneráveis. Segundo ele, a medida “pode se apresentar como um mecanismo normativo para a preservação da saúde, segurança e bem-estar dos trabalhadores”, além de contribuir para o equilíbrio entre vida profissional e pessoal. O relator ainda destaca que o modelo atual tem impactos desiguais sobre diferentes grupos. No parecer, ele afirma que “os potenciais beneficiários da redução da jornada constituem, em larga medida, os segmentos mais vulneráveis da força de trabalho formal brasileira”, como mulheres, jovens e trabalhadores de baixa renda. — O assunto tratado pelas PECs é da maior importância, tanto para trabalhadores quanto para empregadores (...) No que cabe à análise da constitucionalidade das PECs aqui examinadas, verifica-se sua compatibilidade com a ordem constitucional — concluiu o voto de Azi. Apesar disso, o deputado também registra no voto preocupações levantadas durante os debates sobre a proposta na comissão, especialmente sobre os efeitos econômicos da medida. Segundo ele, os impactos devem ser analisados com mais profundidade na próxima fase de tramitação, ao afirmar que essas questões devem ser avaliadas “com cuidado” pela comissão especial, caso seu parecer seja aprovado.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/04/22/comissao-da-camara-aprova-pec-do-fim-da-escala-6x1-em-meio-a-disputa-entre-congresso-e-governo.ghtml",
+      "published": "2026-04-22T20:01:49+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Comissão aprova relatório, e PEC da escala 6x1 avança na Câmara",
+      "summary": "A Comissão de Constituição e Justiça da Câmara dos Deputados aprovou nesta quarta-feira (22) o relatório favorável à tramitação da PEC (Proposta de Emenda à Constituição) da jornada 6x1 . Leia mais (04/22/2026 - 17h10)",
+      "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/mercado/2026/04/comissao-aprova-relatorio-e-pec-da-escala-6x1-avanca-na-camara.shtml",
+      "published": "2026-04-22T20:10:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "PEC do fim da escala 6x1 avança na Câmara; oposição já ensaia buscar compensação em comissão",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/pec-do-fim-da-6x1-avanca-na-camara-oposicao-ja-ensaia-buscar-compensacao-em-comissao-especial/",
+      "published": "2026-04-22T20:11:57+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "Como inviabilizar projetos de logística no Centro-Oeste ou na amazônia?",
+      "summary": "Há uma lacuna curiosa na literatura sobre concessões, parcerias público-privadas e infraestrutura em geral. Escreveu-se muito sobre como estruturar projetos, alocar riscos, financiar investimentos e regular serviços. Mas quase nada sobre uma atividade igualmente difundida entre nós: inviabilizar projetos. Leia mais (04/22/2026 - 17h30)",
+      "url": "https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/04/como-inviabilizar-projetos-de-logistica-no-centro-oeste-ou-na-amazonia.shtml",
+      "published": "2026-04-22T20:30:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "logistics"
+      ],
+      "matched_aliases": [],
+      "score": 3.0
+    },
+    {
+      "title": "United Airlines aumenta tarifas em até 20% devido à alta dos preços do combustível, reflexo da guerra do Oriente Médio",
+      "summary": "A United Airlines aumentou suas tarifas entre 15% e 20% em um esforço para compensar a alta dos preços do combustível e proteger seus lucros, disseram executivos nesta quarta-feira (22). A companhia aérea americana, que também reduziu seus voos em 5% até 2026, pretende recuperar 100% dos custos adicionais resultantes do aumento dos preços do combustível devido à guerra no Oriente Médio. Caminho aberto: Comissão da Câmara aprova PEC do fim da escala 6x1 em meio a disputa entre Congresso e governo Investimento: Musk faz aposta de US$ 60 bilhões após a xAI ficar atrás em programação O CEO Scott Kirby classificou os preços do petróleo como \"incrivelmente voláteis\", mas disse que o plano da empresa se baseia na premissa de que \"o valor do combustível pode permanecer alto por mais tempo\". Embora a empresa ainda não tenha observado uma queda no número de clientes devido aos aumentos de preços, a United poderá cortar mais voos em 2027 se a demanda cair, disse Kirby. Na terça-feira, a United divulgou lucros maiores no primeiro trimestre, mas reduziu sua previsão para o ano todo devido aos custos do combustível de aviação. A companhia aérea prevê que os preços da gasolina fiquem em média em US$ 4,30 por galão no segundo trimestre, 55% acima da média do primeiro trimestre. Discussão: Municípios e 19 estados vão apresentar ao STF proposta conjunta para nova divisão de royalties Outras companhias aéreas também anunciaram aumentos de tarifas e cortes na capacidade em resposta à forte alta dos preços do petróleo desde o início dos ataques dos EUA e de Israel ao Irã, em 28 de fevereiro. O presidente da Associação Internacional de Transporte Aéreo (IATA) pediu às autoridades, em 17 de abril, que estabeleçam \"planos bem coordenados\" para o caso de racionamento de combustível de aviação. As preocupações com a escassez de combustível de aviação são mais agudas na Ásia e na Europa do que nos Estados Unidos, observou o diretor financeiro da United, Michael Leskinen. — Não acreditamos que a falta de disponibilidade será um problema nos Estados Unidos. É uma questão de preço — disse Leskinen. — No entanto, mesmo na Europa e na Ásia, acreditamos atualmente que seja uma questão de preço, não de disponibilidade — acrescentou Leskinen, observando que \"falhas pontuais\" podem ocorrer na Europa e na Ásia se o conflito continuar.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/04/22/united-airlines-aumenta-tarifas-em-ate-20percent-devido-a-alta-dos-precos-do-combustivel-reflexo-da-guerra-do-oriente-medio.ghtml",
+      "published": "2026-04-22T20:55:50+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_tickers": [],
+      "matched_sectors": [
+        "labor_reform"
+      ],
+      "matched_aliases": [],
       "score": 3.0
     }
   ]
