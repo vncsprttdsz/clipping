@@ -4,51 +4,142 @@
 
 coverage:
   # --- Apparel / Moda ---
-  LREN3:  [renner, lojas renner, lren]
-  CEAB3:  [c&a, ceab]
+  LREN3:
+    simple: [lren]   # "lren" é o ticker na B3, praticamente inequívoco
+    ambiguous:
+      - alias: renner
+        requires_any: [lojas, varejo, vendas, moda, vestuário, crescimento, receita, trimestre]
+      - alias: lojas renner
+        requires_any: [lojas, varejo, vendas, moda, vestuário, crescimento, receita, trimestre]
+
+  CEAB3:
+    simple: [c&a, ceab]
 
   # --- Beauty / Venda direta ---
-  NATU3:  [natura, avon]
+  NATU3:
+    simple: [natura, avon]
 
   # --- Food retail / Atacarejo ---
-  ASAI3:  [assaí, assai, sendas, belmiro gomes]
-  PCAR3:    [pao de acucar, pão de açúcar, gpa, grupo pao de acucar, casino]
+  ASAI3:
+    simple: [assaí, assai, sendas]
+    ambiguous:
+      - alias: belmiro gomes
+        requires_any: [grupo, empresário, acionista, GPA, sendas]
+
+  PCAR3:
+    simple: [gpa, grupo pao de acucar, casino]
+    ambiguous:
+      - alias: pao de acucar
+        requires_any: [grupo, supermercado, varejo, GPA, casino, ações, receita]
+      - alias: pão de açúcar
+        requires_any: [grupo, supermercado, varejo, GPA, casino, ações, receita]
 
   # --- Pharma ---
-  RADL3:  [raia drogasil, raiadrogasil, droga raia, drogasil]
-  PGMN3:  [pague menos, extrafarma]
-  PNVL3:  [panvel]
+  RADL3:
+    simple: [raiadrogasil]
+    ambiguous:
+      - alias: raia
+        requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
+      - alias: droga raia
+        requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
+      - alias: drogasil
+        requires_any: [droga, raia, farmácia, medicamento, genérico, saúde]
+
+  PGMN3:
+    simple: [pague menos, extrafarma]
+
+  PNVL3:
+    simple: [panvel]
 
   # --- Specialty / Electronics ---
-  ALLD3:  [allied, trocafy]
+  ALLD3:
+    ambiguous:
+      - alias: allied
+        requires_any: [trocafy, eletrônicos, tecnologia, distribuição, varejo, ações]
+      - alias: trocafy
+        requires_any: [allied, eletrônicos, tecnologia, marketplace]
 
   # --- Athleisure / Footwear ---
-  SBFG3:  [grupo sbf, sbf, centauro, fisia, nike brasil]
+  SBFG3:
+    simple: [fisia, nike brasil]
+    ambiguous:
+      - alias: grupo sbf
+        requires_any: [centauro, fisia, nike, esportivo, varejo]
+      - alias: sbf
+        requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
+      - alias: centauro
+        requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
 
   # --- E-commerce / Fintech ---
-  MELI:   [mercadolibre, mercado libre, mercado livre, mercado pago, meli]
-  NU:     [nubank, nu holdings, nu pagamentos]
-  MGLU3:  [magazine luiza, magalu, luiza trajano]
+  MELI:
+    simple: [meli]
+    ambiguous:
+      - alias: mercadolibre
+        requires_any: [ecommerce, marketplace, vendas, logística, fintech, ações]
+      - alias: mercado libre
+        requires_any: [ecommerce, marketplace, vendas, logística, fintech, ações]
+      - alias: mercado livre
+        requires_any: [ecommerce, marketplace, vendas, logística, fintech, ações]
+      - alias: mercado pago
+        requires_any: [fintech, pagamentos, digital, conta, maquininha]
+
+  NU:
+    simple: [nu holdings, nu pagamentos]
+    ambiguous:
+      - alias: nubank
+        requires_any: [banco, digital, fintech, cartão, crédito, ações]
+
+  MGLU3:
+    simple: [magalu, luiza trajano]
+    ambiguous:
+      - alias: magazine luiza
+        requires_any: [varejo, digital, marketplace, ações, logística]
 
   # --- Jewelry ---
-  VIVA3:  [vivara, life by vivara]
+  VIVA3:
+    simple: [vivara, life by vivara]
 
   # --- Azzas (Arezzo + Soma) ---
-  AZZA3:  [azzas, arezzo, grupo soma, hering, farm, animale, schutz, reserva, vans, anacapri, foxton]
+  AZZA3:
+    simple: [azzas, arezzo, grupo soma, hering, farm, animale, schutz, vans, anacapri, foxton]
+    ambiguous:
+      - alias: reserva
+        requires_any: [loja, marca, grupo, moda, vestuário, azzas]
 
   # --- Fitness ---
-  SMFT3:  [smart fit, smartfit, bio ritmo, total pass, wellhub, panobianco, selfit, bluefit, academia gavioes, academia gaviões]
+  SMFT3:
+    simple: [smartfit, bio ritmo, total pass, wellhub, panobianco, selfit, bluefit, academia gavioes, academia gaviões]
+    ambiguous:
+      - alias: smart fit
+        requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
 
   # --- Regional retail ---
-  GMAT3:  [grupo mateus, mix mateus, ilson mateus]
+  GMAT3:
+    simple: [mix mateus, ilson mateus]
+    ambiguous:
+      - alias: grupo mateus
+        requires_any: [supermercado, atacarejo, varejo, ações, receita]
 
   # --- Travel ---
-  CVCB3:  [cvc, despegar]
+  CVCB3:
+    simple: [despegar]
+    ambiguous:
+      - alias: cvc
+        requires_any: [viagem, turismo, pacote, agência, ações]
 
-  # --- Global / Competitive (opcional como "ticker") ---
-  AMZN:   [amazon]
-  SE:     [sea ltd, garena, monee]
-  WMT:    [walmart]
+  # --- Global / Competitive ---
+  AMZN:
+    simple: [amazon]
+
+  SE:
+    simple: [garena, monee]
+    ambiguous:
+      - alias: sea ltd
+        requires_any: [tecnologia, ecommerce, jogos, shopee, ações]
+
+  WMT:
+    simple: [walmart]
+
 
 # ============================================================
 # TEMAS MACRO / SETORIAIS
