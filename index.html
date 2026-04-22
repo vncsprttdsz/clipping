@@ -332,13 +332,13 @@
   <div class="search">
     <input type="search" id="search" placeholder="Buscar título ou descrição…" autocomplete="off">
   </div>
-  <div class="filters" id="time-filters">
-    <button class="pill active" data-hours="0">Tudo</button>
-    <button class="pill" data-hours="12">12h</button>
-    <button class="pill" data-hours="24">24h</button>
-    <button class="pill" data-hours="72">3d</button>
-  </div>
-  <div class="filters" id="ticker-filters"></div>
+<div class="filters" id="time-filters">
+  <button class="pill active" data-days="1">1d</button>
+  <button class="pill" data-days="2">2d</button>
+  <button class="pill" data-days="3">3d</button>
+  <button class="pill" data-days="4">4d</button>
+  <button class="pill" data-days="5">5d</button>
+</div>
   <main id="list"></main>
 
   <div class="action-bar" id="action-bar">
@@ -379,8 +379,7 @@
 const state = {
   articles: [],
   generatedAt: null,
-  hours: 0,
-  ticker: null,
+  days: 1,
   query: '',
   selected: new Set(JSON.parse(localStorage.getItem('selected') || '[]')),
   order: JSON.parse(localStorage.getItem('order') || '[]'),
@@ -393,7 +392,6 @@ async function load() {
     const data = await r.json();
     state.articles = data.articles || [];
     state.generatedAt = data.generated_at;
-    renderTickerFilters();
     render();
   } catch (e) {
     document.getElementById('list').innerHTML =
@@ -402,6 +400,21 @@ async function load() {
   }
 }
 
+function getCutoff(days) {
+  const now = new Date();
+
+  const cutoff = new Date(now);
+  cutoff.setHours(6, 0, 0, 0);
+
+  if (now.getHours() < 6) {
+    cutoff.setDate(cutoff.getDate() - 1);
+  }
+
+  cutoff.setDate(cutoff.getDate() - (days - 1));
+
+  return cutoff.getTime();
+}
+  
 function relative(iso) {
   if (!iso) return '';
   const ms = Date.now() - new Date(iso).getTime();
@@ -429,10 +442,9 @@ function persist() {
 }
 
 function filter() {
-  const cutoff = state.hours > 0 ? Date.now() - state.hours * 3600e3 : 0;
+  const cutoff = getCutoff(state.days); 
   const q = state.query.toLowerCase();
   return state.articles.filter(a => {
-    if (state.ticker && !(a.matched_tickers || []).includes(state.ticker)) return false;
     if (cutoff && a.published && new Date(a.published).getTime() < cutoff) return false;
     if (q) {
       const hay = (a.title + ' ' + (a.summary || '')).toLowerCase();
@@ -440,24 +452,6 @@ function filter() {
     }
     return true;
   });
-}
-
-function renderTickerFilters() {
-  const counts = {};
-  for (const a of state.articles)
-    for (const t of (a.matched_tickers || [])) counts[t] = (counts[t] || 0) + 1;
-  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-  const el = document.getElementById('ticker-filters');
-  el.innerHTML = '<button class="pill active" data-ticker="">Todas</button>' +
-    sorted.map(([t, n]) => `<button class="pill" data-ticker="${t}">${t} · ${n}</button>`).join('');
-  for (const btn of el.querySelectorAll('.pill')) {
-    btn.onclick = () => {
-      state.ticker = btn.dataset.ticker || null;
-      el.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      render();
-    };
-  }
 }
 
 function render() {
@@ -722,7 +716,7 @@ function showToast(msg) {
 
 for (const btn of document.querySelectorAll('#time-filters .pill')) {
   btn.onclick = () => {
-    state.hours = parseInt(btn.dataset.hours);
+    state.days = parseInt(btn.dataset.days);
     document.querySelectorAll('#time-filters .pill').forEach(b => b.classList.remove('active'));
     btn.classList.add('active');
     render();
