@@ -79,32 +79,27 @@ SECTOR_KEYWORDS = {
 }
 
 FEED_URLS = [
-    # Valor Economico
+    # Valor Economico (4 feeds confirmados funcionando)
     "https://pox.globo.com/rss/valor/empresas",
     "https://pox.globo.com/rss/valor/financas",
     "https://pox.globo.com/rss/valor/brasil",
     "https://pox.globo.com/rss/valor",
-    "https://valor.globo.com/rss/",
-    "https://valor.globo.com/empresas/rss/",
     "https://www.valor.com.br/rss",
     # Folha de S.Paulo
     "https://feeds.folha.uol.com.br/mercado/rss091.xml",
     "https://feeds.folha.uol.com.br/folha/dinheiro/rss091.xml",
-    # Estadao
-    "https://www.estadao.com.br/rss/economia.xml",
-    "https://www.estadao.com.br/rss/ultimas.xml",
-    # O Globo (mesmo padrao Globo do Valor)
+    # Estadao (padrao Arc Publishing, confirmado via feedspot)
+    "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+    "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/",
+    # O Globo
     "https://pox.globo.com/rss/oglobo/economia",
-    "https://oglobo.globo.com/rss/economia",
     # Exame
     "https://exame.com/feed/",
-    "https://exame.com/negocios/feed/",
     # Veja
     "https://veja.abril.com.br/feed",
     "https://veja.abril.com.br/economia/feed",
-    # UOL
+    # UOL Economia
     "https://rss.uol.com.br/feed/economia.xml",
-    "https://economia.uol.com.br/feed/",
 ]
 
 HTML_FALLBACK_PAGES = [
