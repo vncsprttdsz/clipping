@@ -235,6 +235,7 @@ def score_article(a: Article) -> None:
                 a.score += 3
                 break
 
+
 def parse_entry(entry, source: str) -> Optional[Article]:
     try:
         title = (entry.get("title") or "").strip()
@@ -420,7 +421,8 @@ def run(since_hours: int, output_format: str, min_score: float,
     return render_markdown(filtered)
 
 
-def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7) -> None:
+def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
+           rescore: bool = False) -> None:
     path = Path(output_path)
     path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -431,6 +433,38 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7) -> None:
             existing = data.get("articles", [])
         except Exception:
             existing = []
+
+    # Modo rescore: re-aplica matching atual em todos os artigos existentes
+    # e descarta os que nao batem mais. Usar depois de mudar keywords.yaml.
+    if rescore and existing:
+        print(f"[rescore] Re-aplicando matching em {len(existing)} artigos existentes...",
+              file=sys.stderr)
+        rescored = []
+        dropped = 0
+        for a_dict in existing:
+            # Reconstroi o Article a partir do dict, zerando matches
+            published = None
+            if a_dict.get("published"):
+                try:
+                    published = datetime.fromisoformat(a_dict["published"])
+                except Exception:
+                    pass
+            a = Article(
+                title=a_dict.get("title", ""),
+                summary=a_dict.get("summary", ""),
+                url=a_dict.get("url", ""),
+                published=published,
+                source=a_dict.get("source", ""),
+            )
+            score_article(a)
+            if a.score >= 1:
+                rescored.append(a.to_json())
+            else:
+                dropped += 1
+        existing = rescored
+        print(f"[rescore] {len(rescored)} mantidos, {dropped} descartados",
+              file=sys.stderr)
+
     existing_urls = {a.get("url") for a in existing}
 
     fetched: List[Article] = []
@@ -486,6 +520,9 @@ def main():
     p.add_argument("--reset-seen", action="store_true")
     p.add_argument("--output-json", metavar="PATH")
     p.add_argument("--keep-days", type=int, default=7)
+    p.add_argument("--rescore", action="store_true",
+                   help="Re-aplica matching em todos os artigos existentes "
+                        "(use depois de mudar keywords.yaml)")
     args = p.parse_args()
 
     if args.reset_seen:
@@ -495,7 +532,7 @@ def main():
         return
 
     if args.output_json:
-        run_ci(args.output_json, args.since, args.keep_days)
+        run_ci(args.output_json, args.since, args.keep_days, args.rescore)
         return
 
     print(run(args.since, args.format, args.min_score,
