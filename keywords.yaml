@@ -1,155 +1,232 @@
 # ============================================================
-# KEYWORDS DO CLIPPING - VERSÃO OTIMIZADA
-# ============================================================
-
-coverage:
-  # --- Apparel / Moda ---
-  LREN3:
-    simple: [lren, renner]   # "lren" é o ticker na B3, praticamente inequívoco
-
-  CEAB3:
-    simple: [c&a, ceab]
-
-  # --- Beauty / Venda direta ---
-  # NATU3 e o novo ticker da Natura (apos reverse split / renomeacao).
-  NATU3:
-    simple: [natura, avon]
-
-  # --- Food retail / Atacarejo ---
-  ASAI3:
-    simple: [assaí, assai, sendas]
-    ambiguous:
-      - alias: belmiro gomes
-        requires_any: [grupo, empresário, CEO, acionista, GPA]
-
-  PCAR3:
-    simple: [gpa, grupo pao de acucar, casino]
-    ambiguous:
-      # "pao de acucar" sem acento ja cobre as duas grafias (o script normaliza)
-      - alias: pao de acucar
-        requires_any: [grupo, supermercado, varejo, GPA, casino, ações, receita]
-
-  # --- Pharma ---
-  RADL3:
-    simple: [raiadrogasil]
-    ambiguous:
-      - alias: raia
-        requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
-      - alias: droga raia
-        requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
-      - alias: drogasil
-        requires_any: [droga, raia, farmácia, medicamento, genérico, saúde]
-
-  PGMN3:
-    simple: [pague menos, extrafarma]
-
-  PNVL3:
-    simple: [panvel]
-
-  # --- Specialty / Electronics ---
-  # Allied e Trocafy sao nomes razoavelmente unicos de empresas;
-  # deixamos em simple para capturar reports de research e noticias curtas.
-  ALLD3:
-    simple: [trocafy, alld3]
-    ambiguous:
-      - alias: allied
-        requires_any: [tecnologia, distribuidora, celular, smartphone, eletronicos,
-                       samsung, iphone, trocafy, cobertura, ações, lojas, varejo,
-                       balanço, trimestre, receita, ebitda]
-
-  # --- Athleisure / Footwear ---
-  SBFG3:
-    simple: [fisia, nike brasil]
-    ambiguous:
-      - alias: nike
-        requires_any: [vendas, loja, centauro, fisia, esportivo, varejo]
-      - alias: sbf
-        requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
-      - alias: centauro
-        requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
-
-  # --- E-commerce / Fintech ---
-  MELI:
-    simple: [meli, mercadolibre, mercado livre, mercado pago, mercado crédito]
-
-  NU:
-    simple: [nu holdings, nu pagamentos]
-    ambiguous:
-      - alias: nubank
-        requires_any: [banco, digital, fintech, cartão, crédito, ações]
-
-  MGLU3:
-    simple: [magalu, luiza trajano]
-    ambiguous:
-      - alias: magazine luiza
-        requires_any: [varejo, digital, marketplace, ações, logística]
-
-  BHIA3:
-    simple: [casas bahia, ponto frio]
-
-  # --- Jewelry ---
-  # "life" sozinho e generico demais (life coach, estilo de life, etc).
-  # Ficamos so com "life by vivara" no simple - a marca completa e unica.
-  VIVA3:
-    simple: [vivara, life by vivara]
-
-  # --- Azzas (Arezzo + Soma) ---
-  AZZA3:
-    simple: [azzas, arezzo, grupo soma, hering, animale, schutz, anacapri, foxton]
-    ambiguous:
-      - alias: reserva
-        requires_any: [loja, marca, grupo, moda, vestuário, azzas]
-      - alias: farm
-        requires_any: [loja, marca, grupo, moda, vestuário, azzas, rio, colecao, coleção]
-      - alias: vans
-        requires_any: [loja, marca, tênis, calçado, sneaker, moda, azzas, grupo, coleção]
-
-  # --- Fitness ---
-  SMFT3:
-    simple: [smartfit, bio ritmo, total pass, wellhub, gympass, panobianco,
-             selfit, bluefit, academia gavioes, academia gaviões]
-    ambiguous:
-      - alias: smart fit
-        requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
-
-  # --- Regional retail ---
-  GMAT3:
-    simple: [mix mateus, ilson mateus]
-    ambiguous:
-      - alias: grupo mateus
-        requires_any: [supermercado, atacarejo, varejo, ações, receita, vendas]
-
-  # --- Travel ---
-  CVCB3:
-    simple: [despegar]
-    ambiguous:
-      - alias: cvc
-        requires_any: [viagem, turismo, pacote, agência, ações]
-      - alias: decolar
-        requires_any: [viagem, turismo]
-
-  # --- Global / Competitive ---
-  AMZN:
-    simple: [amazon]
-
-  SE:
-    simple: [garena, monee]
-    ambiguous:
-      - alias: sea ltd
-        requires_any: [tecnologia, ecommerce, jogos, shopee, ações]
-
-  WMT:
-    simple: [walmart]
-
-
-# ============================================================
-# TEMAS MACRO / SETORIAIS
+# KEYWORDS DO CLIPPING - VERSÃO POR SETORES TEMÁTICOS
 # ============================================================
 
 sectors:
+  # ------------------------------------------------------------
+  # FASHION (Moda, vestuário, calçados)
+  # ------------------------------------------------------------
+  Fashion:
+    - renner
+    - lojas renner
+    - lren
+    - c&a
+    - ceab
+    - riachuelo
+    - casa riachuelo
+    - carter's
+    - carter`s
+    - arezzo
+    - grupo soma
+    - hering
+    - animale
+    - schutz
+    - anacapri
+    - foxton
+    - farm                 # contexto: moda
+    - reserva              # contexto: moda
+    - vans                 # contexto: moda
+    - azzas
+    - zara
+    - inditex
+    - h&m
+    - uniqlo
+    - primark
+    - fast fashion
+    - vestuário
+    - calçadista
+    - varejo de moda
+    - lei da moda
 
-  # --- Trabalho / renda ---
-  labor_reform:
+    # Regras contextuais
+    - alias: farm
+      requires_any: [loja, marca, moda, vestuário, coleção, azzas, grupo, rio]
+    - alias: reserva
+      requires_any: [loja, marca, moda, vestuário, azzas, grupo]
+    - alias: vans
+      requires_any: [tênis, calçado, sneaker, moda, loja, marca]
+
+  # ------------------------------------------------------------
+  # JOIAS
+  # ------------------------------------------------------------
+  Joias:
+    - vivara
+    - life by vivara
+    - joalheria
+    - joias
+    - ouro
+    - prata
+    - diamante
+
+    # Ouro/prata só no contexto de joias/luxo
+    - alias: ouro
+      requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
+    - alias: prata
+      requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
+
+  # ------------------------------------------------------------
+  # E-COMMERCE (Marketplaces, plataformas digitais)
+  # ------------------------------------------------------------
+  E-commerce:
+    - mercado livre
+    - mercadolibre
+    - mercado pago
+    - mercado crédito
+    - meli
+    - shopee
+    - shein
+    - temu
+    - aliexpress
+    - tiktok shop
+    - amazon
+    - magalu
+    - magazine luiza
+    - luiza trajano
+    - casas bahia
+    - ponto frio
+    - bhia3
+    - mglu3
+    - ecommerce
+    - marketplace
+    - vendas online
+    - remessa conforme
+    - taxa das blusinhas
+
+    # Magazine Luiza (contexto)
+    - alias: magazine luiza
+      requires_any: [varejo, digital, marketplace, ações, logística]
+
+  # ------------------------------------------------------------
+  # VAREJO ALIMENTAR (Supermercados, atacarejo)
+  # ------------------------------------------------------------
+  Varejo Alimentar:
+    - assaí
+    - assai
+    - sendas
+    - belmiro gomes
+    - gpa
+    - grupo pão de açúcar
+    - pao de acucar
+    - pão de açúcar
+    - carrefour
+    - atacadão
+    - atakadão
+    - roldão
+    - muffato
+    - tenda atacado
+    - mercado extra
+    - zaffari
+    - grupo pereira
+    - grupo koch
+    - martminas
+    - supermercados bh
+    - bretas
+    - komprão
+    - super koch
+    - casino          # grupo controlador
+    - walmart brasil
+    - costco
+    - grupo mateus
+    - mix mateus
+    - ilson mateus
+    - supermercado
+    - atacarejo
+    - hipermercado
+
+    - alias: belmiro gomes
+      requires_any: [grupo, empresário, acionista, gpa, sendas]
+    - alias: pao de acucar
+      requires_any: [grupo, supermercado, varejo, gpa, casino, ações, receita]
+    - alias: pão de açúcar
+      requires_any: [grupo, supermercado, varejo, gpa, casino, ações, receita]
+    - alias: grupo mateus
+      requires_any: [supermercado, atacarejo, varejo, ações, receita]
+
+  # ------------------------------------------------------------
+  # ACADEMIAS (Fitness, bem-estar)
+  # ------------------------------------------------------------
+  Academias:
+    - smart fit
+    - smartfit
+    - bio ritmo
+    - total pass
+    - wellhub
+    - gympass
+    - panobianco
+    - selfit
+    - bluefit
+    - academia gavioes
+    - academia gaviões
+    - smft3
+
+    - alias: smart fit
+      requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
+
+  # ------------------------------------------------------------
+  # COSMÉTICOS (Beleza, perfumaria)
+  # ------------------------------------------------------------
+  Cosméticos:
+    - natura
+    - avon
+    - boticário
+    - o boticário
+    - l'oréal
+    - loreal
+    - nivea
+    - isdin
+    - jequiti
+    - hinode
+    - beleza na web
+    - skala
+    - sephora
+    - aura beauty
+    - wepink
+    - cosmético
+    - perfumaria
+    - maquiagem
+    - skincare
+
+  # ------------------------------------------------------------
+  # FARMÁCIAS (Drogarias, medicamentos, GLP-1 nacional)
+  # ------------------------------------------------------------
+  Farmácias:
+    - raia
+    - droga raia
+    - drogasil
+    - raiadrogasil
+    - pague menos
+    - extrafarma
+    - panvel
+    - dpsp
+    - d1000
+    - profarma
+    - farmácia
+    - drogaria
+    - medicamento
+    - genérico
+    - ozempic
+    - wegovy
+    - glp-1
+    - obesidade
+    - mounjaro
+    - semaglutida
+    - tirzepatida
+    - zepbound
+    - novo nordisk
+    - eli lilly
+
+    - alias: raia
+      requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
+    - alias: droga raia
+      requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
+    - alias: drogasil
+      requires_any: [droga, raia, farmácia, medicamento, genérico, saúde]
+
+  # ------------------------------------------------------------
+  # ECONOMIA (Macro, trabalho, tributário, consumo)
+  # ------------------------------------------------------------
+  Economia:
+    # Trabalho
     - escala 6x1
     - escala 5x2
     - jornada 40 horas
@@ -157,9 +234,7 @@ sectors:
     - jornada de trabalho
     - redução de jornada
     - carga horária
-
-  # --- Tributário ---
-  tax_reform:
+    # Tributário
     - reforma tributária
     - ibs
     - cbs
@@ -168,15 +243,11 @@ sectors:
     - subvenção
     - créditos fiscais
     - benefícios fiscais
-
-  icms_st:
     - substituição tributária
     - icms-st
     - difal
     - convênio icms
-
-  # --- Macro consumo ---
-  consumer_macro:
+    # Macro consumo
     - pmc
     - pesquisa mensal do comercio
     - vendas no varejo
@@ -191,57 +262,167 @@ sectors:
     - cadastro positivo
     - confiança do consumidor
 
-  # --- E-commerce internacional ---
-  ecommerce_cross_border:
-    - remessa conforme
-    - taxa das blusinhas
-    - shein
-    - shopee
-    - temu
-    - aliexpress
-    - tiktok shop
+  # ------------------------------------------------------------
+  # MATERIAL DE CONSTRUÇÃO
+  # ------------------------------------------------------------
+  Material de Construção:
+    - lojas quero-quero
+    - leroy merlin
+    - telhanorte
+    - tumelero
+    - taqi
+    - cassol
+    - lojas becker
+    - obramax
+    - abc da construção
+    - home center
+    - material de construção
+    - construção civil
 
-  # --- Entrada competitiva ---
-  competitive_entry:
-    - h&m
+  # ------------------------------------------------------------
+  # ELETRÔNICOS (Móveis, eletrodomésticos, eletrônicos)
+  # ------------------------------------------------------------
+  Eletrônicos:
+    - allied
+    - trocafy
+    - alld3
+    - magazine luiza
+    - magalu
+    - casas bahia
+    - ponto frio
+    - eletrodomésticos
+    - eletrônicos
+    - smartphones
+    - linha branca
+
+    - alias: allied
+      requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone, trocafy, varejo]
+
+  # ------------------------------------------------------------
+  # VIAGENS (Turismo)
+  # ------------------------------------------------------------
+  Viagens:
+    - cvc
+    - despegar
+    - befly
+    - decolar
+    - agência de viagem
+    - turismo
+    - pacote de viagem
+
+    - alias: cvc
+      requires_any: [viagem, turismo, pacote, agência, ações]
+    - alias: decolar
+      requires_any: [viagem, turismo]
+
+  # ------------------------------------------------------------
+  # PET
+  # ------------------------------------------------------------
+  Pet:
+    - petz
+    - cobasi
+    - petlove
+    - pet shop
+    - ração
+    - produtos para pet
+
+  # ------------------------------------------------------------
+  # WELLNESS E ESPORTES (Artigos esportivos, roupas fitness)
+  # ------------------------------------------------------------
+  Wellness e Esportes:
+    - track&field
+    - track field
+    - lululemon
+    - alo yoga
+    - live!
+    - sbfg
+    - grupo sbf
+    - centauro
+    - fisia
+    - nike brasil
+    - nike
+    - vulcabras
+    - olympikus
+    - under armour
+    - adidas
+    - mizuno
+    - artigos esportivos
+    - material esportivo
+    - roupas de academia
+
+    - alias: nike
+      requires_any: [vendas, loja, centauro, fisia, esportivo, varejo]
+    - alias: sbf
+      requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
+    - alias: centauro
+      requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
+
+  # ------------------------------------------------------------
+  # GLOBAL CONSUMER (Notícias internacionais, empresas globais)
+  # ------------------------------------------------------------
+  Global Consumer:
+    # Empresas globais
+    - amazon
+    - walmart
+    - costco
+    - target
+    - home depot
+    - lowe's
+    - best buy
+    - lvmh
+    - kering
+    - gucci
+    - hermès
+    - hermes
+    - chanel
+    - prada
+    - richemont
     - inditex
     - zara
+    - h&m
     - uniqlo
-    - primark
-    - costco
-    - walmart brasil
-
-  # --- Pharma / GLP-1 ---
-  pharma:
-    - ozempic
-    - wegovy
-    - glp-1
-    - obesidade
+    - fast retailing
+    - shopify
+    - instacart
+    - doordash
+    - uber eats
     - novo nordisk
-    - mounjaro
-    - farmacêutico
-    - Eli Lilly
-    - tirzepatida
-    - semaglutida
-    - zepbound
-    - farmácia
-    - genérico
-    - DPSP
-    - D1000
-    - Profarma
+    - eli lilly
+    - pfizer
+    - roche
+    - weight-loss drugs
+    - glp-1
+    - obesity drugs
+    - luxury brands
+    - luxury goods
+    - gold
+    - silver
+    - jewelry
 
-  # --- Logística / supply chain ---
-  logistics:
-    - logística
-    - galpões
-    - centros de distribuição
-    - fulfillment
-    - last mile
-
-  # --- Varejo moda (tendência) ---
-  apparel_trends:
-    - vestuário
-    - calçadista
-    - lei da moda
-    - fast fashion
-    - varejo de moda
+    # Regras contextuais para evitar falsos positivos
+    - alias: gold
+      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
+    - alias: silver
+      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
+    - alias: amazon
+      requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue]
+    - alias: target
+      requires_any: [retail, store, sales, earnings, revenue, stock]
+    - alias: home depot
+      requires_any: [retail, sales, earnings, diy, construction]
+    - alias: best buy
+      requires_any: [electronics, retail, sales, earnings]
+    - alias: lvmh
+      requires_any: [luxury, fashion, sales, revenue, stock, bernard arnault]
+    - alias: gucci
+      requires_any: [luxury, fashion, sales, kering]
+    - alias: hermes
+      requires_any: [luxury, fashion, sales, birkin]
+    - alias: shopify
+      requires_any: [ecommerce, platform, merchant, stock, revenue]
+    - alias: instacart
+      requires_any: [grocery, delivery, ecommerce, ipo, stock]
+    - alias: novo nordisk
+      requires_any: [ozempic, wegovy, glp-1, diabetes, obesity, stock, earnings]
+    - alias: eli lilly
+      requires_any: [mounjaro, zepbound, glp-1, obesity, stock, earnings]
