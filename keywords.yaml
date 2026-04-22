@@ -1,0 +1,247 @@
+# ============================================================
+# KEYWORDS DO CLIPPING - VERSÃO OTIMIZADA
+# ============================================================
+
+coverage:
+  # --- Apparel / Moda ---
+  LREN3:
+    simple: [lren, renner]   # "lren" é o ticker na B3, praticamente inequívoco
+
+  CEAB3:
+    simple: [c&a, ceab]
+
+  # --- Beauty / Venda direta ---
+  # NATU3 e o novo ticker da Natura (apos reverse split / renomeacao).
+  NATU3:
+    simple: [natura, avon]
+
+  # --- Food retail / Atacarejo ---
+  ASAI3:
+    simple: [assaí, assai, sendas]
+    ambiguous:
+      - alias: belmiro gomes
+        requires_any: [grupo, empresário, CEO, acionista, GPA]
+
+  PCAR3:
+    simple: [gpa, grupo pao de acucar, casino]
+    ambiguous:
+      # "pao de acucar" sem acento ja cobre as duas grafias (o script normaliza)
+      - alias: pao de acucar
+        requires_any: [grupo, supermercado, varejo, GPA, casino, ações, receita]
+
+  # --- Pharma ---
+  RADL3:
+    simple: [raiadrogasil]
+    ambiguous:
+      - alias: raia
+        requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
+      - alias: droga raia
+        requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
+      - alias: drogasil
+        requires_any: [droga, raia, farmácia, medicamento, genérico, saúde]
+
+  PGMN3:
+    simple: [pague menos, extrafarma]
+
+  PNVL3:
+    simple: [panvel]
+
+  # --- Specialty / Electronics ---
+  # Allied e Trocafy sao nomes razoavelmente unicos de empresas;
+  # deixamos em simple para capturar reports de research e noticias curtas.
+  ALLD3:
+    simple: [trocafy, alld3]
+    ambiguous:
+      - alias: allied
+        requires_any: [tecnologia, distribuidora, celular, smartphone, eletronicos,
+                       samsung, iphone, trocafy, cobertura, ações, lojas, varejo,
+                       balanço, trimestre, receita, ebitda]
+
+  # --- Athleisure / Footwear ---
+  SBFG3:
+    simple: [fisia, nike brasil]
+    ambiguous:
+      - alias: nike
+        requires_any: [vendas, loja, centauro, fisia, esportivo, varejo]
+      - alias: sbf
+        requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
+      - alias: centauro
+        requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
+
+  # --- E-commerce / Fintech ---
+  MELI:
+    simple: [meli, mercadolibre, mercado livre, mercado pago, mercado crédito]
+
+  NU:
+    simple: [nu holdings, nu pagamentos]
+    ambiguous:
+      - alias: nubank
+        requires_any: [banco, digital, fintech, cartão, crédito, ações]
+
+  MGLU3:
+    simple: [magalu, luiza trajano]
+    ambiguous:
+      - alias: magazine luiza
+        requires_any: [varejo, digital, marketplace, ações, logística]
+
+  BHIA3:
+    simple: [casas bahia, ponto frio]
+
+  # --- Jewelry ---
+  # "life" sozinho e generico demais (life coach, estilo de life, etc).
+  # Ficamos so com "life by vivara" no simple - a marca completa e unica.
+  VIVA3:
+    simple: [vivara, life by vivara]
+
+  # --- Azzas (Arezzo + Soma) ---
+  AZZA3:
+    simple: [azzas, arezzo, grupo soma, hering, animale, schutz, anacapri, foxton]
+    ambiguous:
+      - alias: reserva
+        requires_any: [loja, marca, grupo, moda, vestuário, azzas]
+      - alias: farm
+        requires_any: [loja, marca, grupo, moda, vestuário, azzas, rio, colecao, coleção]
+      - alias: vans
+        requires_any: [loja, marca, tênis, calçado, sneaker, moda, azzas, grupo, coleção]
+
+  # --- Fitness ---
+  SMFT3:
+    simple: [smartfit, bio ritmo, total pass, wellhub, gympass, panobianco,
+             selfit, bluefit, academia gavioes, academia gaviões]
+    ambiguous:
+      - alias: smart fit
+        requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
+
+  # --- Regional retail ---
+  GMAT3:
+    simple: [mix mateus, ilson mateus]
+    ambiguous:
+      - alias: grupo mateus
+        requires_any: [supermercado, atacarejo, varejo, ações, receita, vendas]
+
+  # --- Travel ---
+  CVCB3:
+    simple: [despegar]
+    ambiguous:
+      - alias: cvc
+        requires_any: [viagem, turismo, pacote, agência, ações]
+      - alias: decolar
+        requires_any: [viagem, turismo]
+
+  # --- Global / Competitive ---
+  AMZN:
+    simple: [amazon]
+
+  SE:
+    simple: [garena, monee]
+    ambiguous:
+      - alias: sea ltd
+        requires_any: [tecnologia, ecommerce, jogos, shopee, ações]
+
+  WMT:
+    simple: [walmart]
+
+
+# ============================================================
+# TEMAS MACRO / SETORIAIS
+# ============================================================
+
+sectors:
+
+  # --- Trabalho / renda ---
+  labor_reform:
+    - escala 6x1
+    - escala 5x2
+    - jornada 40 horas
+    - jornada 44 horas
+    - jornada de trabalho
+    - redução de jornada
+    - carga horária
+
+  # --- Tributário ---
+  tax_reform:
+    - reforma tributária
+    - ibs
+    - cbs
+    - imposto seletivo
+    - cesta básica nacional
+    - subvenção
+    - créditos fiscais
+    - benefícios fiscais
+
+  icms_st:
+    - substituição tributária
+    - icms-st
+    - difal
+    - convênio icms
+
+  # --- Macro consumo ---
+  consumer_macro:
+    - pmc
+    - pesquisa mensal do comercio
+    - vendas no varejo
+    - varejo físico
+    - massa salarial
+    - renda real
+    - endividamento das famílias
+    - comprometimento de renda
+    - inadimplência
+    - bolsa família
+    - salário mínimo
+    - cadastro positivo
+    - confiança do consumidor
+
+  # --- E-commerce internacional ---
+  ecommerce_cross_border:
+    - remessa conforme
+    - taxa das blusinhas
+    - shein
+    - shopee
+    - temu
+    - aliexpress
+    - tiktok shop
+
+  # --- Entrada competitiva ---
+  competitive_entry:
+    - h&m
+    - inditex
+    - zara
+    - uniqlo
+    - primark
+    - costco
+    - walmart brasil
+
+  # --- Pharma / GLP-1 ---
+  pharma:
+    - ozempic
+    - wegovy
+    - glp-1
+    - obesidade
+    - novo nordisk
+    - mounjaro
+    - farmacêutico
+    - Eli Lilly
+    - tirzepatida
+    - semaglutida
+    - zepbound
+    - farmácia
+    - genérico
+    - DPSP
+    - D1000
+    - Profarma
+
+  # --- Logística / supply chain ---
+  logistics:
+    - logística
+    - galpões
+    - centros de distribuição
+    - fulfillment
+    - last mile
+
+  # --- Varejo moda (tendência) ---
+  apparel_trends:
+    - vestuário
+    - calçadista
+    - lei da moda
+    - fast fashion
+    - varejo de moda
