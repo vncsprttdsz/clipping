@@ -163,6 +163,7 @@ class Article:
     source: str = ""
     matched_tickers: List[str] = field(default_factory=list)
     matched_sectors: List[str] = field(default_factory=list)
+    matched_aliases: List[str] = field(default_factory=list)   # NOVO
     score: float = 0.0
 
     def to_json(self) -> dict:
@@ -209,6 +210,8 @@ def score_article(a: Article) -> None:
     title_n = normalize(a.title)
     full_n = normalize(f"{a.title} {a.summary}")
 
+    matched_aliases = set()
+
     for ticker, rules in COVERAGE.items():
         hit_in_title = False
         hit_in_body = False
@@ -218,9 +221,11 @@ def score_article(a: Article) -> None:
             req = rule["requires_any"]
             if _alias_matches(pattern, title_n, req, full_n):
                 hit_in_title = True
+                matched_aliases.add(rule["alias"])
                 break
             if _alias_matches(pattern, full_n, req, full_n):
                 hit_in_body = True
+                matched_aliases.add(rule["alias"])
         if hit_in_title:
             a.matched_tickers.append(ticker)
             a.score += 20
@@ -233,7 +238,11 @@ def score_article(a: Article) -> None:
             if normalize(kw) in full_n:
                 a.matched_sectors.append(sector)
                 a.score += 3
+                # Opcional: também registrar a keyword do setor
+                # matched_aliases.add(kw)
                 break
+
+    a.matched_aliases = sorted(matched_aliases)
 
 
 def parse_entry(entry, source: str) -> Optional[Article]:
