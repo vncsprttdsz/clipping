@@ -538,19 +538,23 @@
 // Mapeamento de setores e veículos
 // ============================================================
 const SECTOR_LABELS = {
-  'labor_reform': 'Trabalho / Renda',
-  'tax_reform': 'Reforma Tributária',
-  'icms_st': 'ICMS-ST',
-  'consumer_macro': 'Macro Consumo',
-  'ecommerce_cross_border': 'E‑commerce Cross Border',
-  'competitive_entry': 'Entrada Competitiva',
-  'pharma': 'Farma / GLP‑1',
-  'logistics': 'Logística',
-  'apparel_trends': 'Tendências Moda',
+  'Fashion': 'Moda',
+  'Joias': 'Joias',
+  'E-commerce': 'E‑commerce',
+  'Varejo Alimentar': 'Varejo Alimentar',
+  'Academias': 'Academias',
+  'Cosméticos': 'Cosméticos',
+  'Farmácias': 'Farmácias',
+  'Economia': 'Economia',
+  'Material de Construção': 'Material de Construção',
+  'Eletrônicos': 'Eletrônicos',
+  'Viagens': 'Viagens',
+  'Pet': 'Pet',
+  'Wellness e Esportes': 'Wellness/Esportes',
+  'Global Consumer': 'Global',
 };
 
 // Regras de extração de veículo a partir da URL
-// Ordem importa: mais específico primeiro
 const SOURCE_PATTERNS = [
   [/valor\.globo\.com|valor\.com\.br|valorinveste/i, 'Valor'],
   [/pipeline\.valor/i,                              'Pipeline'],
@@ -583,26 +587,14 @@ function extractSource(url) {
   for (const [pat, label] of SOURCE_PATTERNS) {
     if (pat.test(host)) return label;
   }
-  // Fallback: pega o "nome principal" do domínio
-  // ex: example.weird-domain.co.uk → weird-domain
   const parts = host.split('.');
   if (parts.length >= 3 && parts[parts.length - 2].length <= 3) {
-    // TLD composto (.co.uk, .com.br): pula um nível
     return parts[parts.length - 3].replace(/^\w/, c => c.toUpperCase());
   }
   if (parts.length >= 2) {
     return parts[parts.length - 2].replace(/^\w/, c => c.toUpperCase());
   }
   return host;
-}
-
-// ============================================================
-// Classificação de grupo
-// ============================================================
-// Ticker B3 = 4 letras + número (LREN3, AZZA3)
-// Ticker ADR/foreign = 2-4 letras maiúsculas sem número (MELI, NU, AMZN, SE, WMT)
-function isTickerKey(key) {
-  return /^[A-Z]{2,5}[0-9]?$/.test(key);
 }
 
 // ============================================================
@@ -715,9 +707,7 @@ function render() {
   const groups = {};
   for (const a of filtered) {
     let key;
-    if (a.matched_tickers && a.matched_tickers.length) {
-      key = a.matched_tickers[0];
-    } else if (a.matched_sectors && a.matched_sectors.length) {
+    if (a.matched_sectors && a.matched_sectors.length) {
       key = a.matched_sectors[0];
     } else {
       key = '— OUTROS';
@@ -733,23 +723,15 @@ function render() {
     });
   }
 
-  const tickerKeys = [];
-  const sectorKeys = [];
-  let outrosKey = null;
-  for (const key of Object.keys(groups)) {
-    if (key === '— OUTROS') outrosKey = key;
-    else if (isTickerKey(key)) tickerKeys.push(key);
-    else sectorKeys.push(key);
-  }
-  tickerKeys.sort((a,b) => groups[b].length - groups[a].length || a.localeCompare(b));
-  sectorKeys.sort((a,b) => groups[b].length - groups[a].length || a.localeCompare(b));
-  const orderedKeys = [...tickerKeys, ...sectorKeys];
-  if (outrosKey) orderedKeys.push(outrosKey);
+  const orderedKeys = Object.keys(groups).sort((a, b) => {
+    if (a === '— OUTROS') return 1;
+    if (b === '— OUTROS') return -1;
+    return groups[b].length - groups[a].length || a.localeCompare(b);
+  });
 
   function getGroupTitle(key) {
     if (key === '— OUTROS') return '— OUTROS';
-    if (isTickerKey(key)) return key;
-    return SECTOR_LABELS[key] || key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+    return SECTOR_LABELS[key] || key;
   }
 
   document.getElementById('list').innerHTML = orderedKeys.map(key => {
@@ -760,8 +742,7 @@ function render() {
       ${articles.map(a => {
         const sourceLabel = extractSource(a.url);
         const sourceTag = sourceLabel ? `<span class="source-tag">${esc(sourceLabel)}</span>` : '';
-        const others = (a.matched_tickers || []).filter(t => t !== key).map(t => `<span class="tag">${esc(t)}</span>`).join('');
-        const sectors = (a.matched_sectors || []).map(s => `<span class="tag">${esc(s)}</span>`).join('');
+        const otherSectors = (a.matched_sectors || []).filter(s => s !== key).map(s => `<span class="tag">${esc(s)}</span>`).join('');
         const aliases = (a.matched_aliases || []).map(al => `<span class="alias-tag">${esc(al)}</span>`).join('');
         const isSelected = state.selected.has(a.url);
         const isManual = a._manual === true;
@@ -777,7 +758,7 @@ function render() {
             <div class="article-meta">
               ${sourceTag}
               ${a.published ? esc(formatDate(a.published)) : ''}
-              ${others}${sectors}
+              ${otherSectors}
             </div>
             ${aliases ? `<div class="article-aliases">🔍 ${aliases}</div>` : ''}
             ${a.summary ? `<div class="summary">${esc(a.summary)}</div>` : ''}
@@ -962,7 +943,6 @@ function addManualArticle() {
     title, url, summary,
     published: publishedDate,
     source: 'manual',
-    matched_tickers: [],
     matched_sectors: [],
     matched_aliases: [],
     score: 0,
