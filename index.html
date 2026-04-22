@@ -394,6 +394,19 @@
 <script>
 'use strict';
 
+// Mapeamento de nomes de setor para exibição amigável
+const SECTOR_LABELS = {
+  'labor_reform': 'Trabalho / Renda',
+  'tax_reform': 'Reforma Tributária',
+  'icms_st': 'ICMS-ST',
+  'consumer_macro': 'Macro Consumo',
+  'ecommerce_cross_border': 'E‑commerce Cross Border',
+  'competitive_entry': 'Entrada Competitiva',
+  'pharma': 'Farma / GLP‑1',
+  'logistics': 'Logística',
+  'apparel_trends': 'Tendências Moda',
+};
+
 const state = {
   articles: [],
   generatedAt: null,
@@ -486,13 +499,21 @@ function render() {
     return;
   }
 
+  // Agrupamento: ticker (primeiro), senão setor (primeiro), senão "— OUTROS"
   const groups = {};
   for (const a of filtered) {
-    const key = (a.matched_tickers && a.matched_tickers[0]) || '— SETOR / MACRO';
+    let key;
+    if (a.matched_tickers && a.matched_tickers.length) {
+      key = a.matched_tickers[0];
+    } else if (a.matched_sectors && a.matched_sectors.length) {
+      key = a.matched_sectors[0];
+    } else {
+      key = '— OUTROS';
+    }
     (groups[key] = groups[key] || []).push(a);
   }
 
-  // Dentro de cada grupo, ordenar por data desc (sem data vai pro fim)
+  // Ordena artigos dentro de cada grupo por data decrescente
   for (const key of Object.keys(groups)) {
     groups[key].sort((a, b) => {
       const ta = a.published ? new Date(a.published).getTime() : -Infinity;
@@ -501,17 +522,57 @@ function render() {
     });
   }
 
-  const keys = Object.keys(groups).sort((a, b) => {
-    if (a.startsWith('—')) return 1;
-    if (b.startsWith('—')) return -1;
-    return groups[b].length - groups[a].length;
+  // Separa as chaves em tickers, setores e outros
+  const tickerKeys = [];
+  const sectorKeys = [];
+  let outrosKey = null;
+
+  for (const key of Object.keys(groups)) {
+    if (key === '— OUTROS') {
+      outrosKey = key;
+    } else if (key.includes(':')) {
+      // Caso algum ticker tenha ":" no nome (improvável), mas mantemos lógica simples
+      tickerKeys.push(key);
+    } else {
+      // Assume que qualquer outra string é um setor
+      sectorKeys.push(key);
+    }
+  }
+
+  // Ordena tickers por quantidade decrescente, depois alfabética
+  tickerKeys.sort((a, b) => {
+    const diff = groups[b].length - groups[a].length;
+    return diff !== 0 ? diff : a.localeCompare(b);
   });
 
-  document.getElementById('list').innerHTML = keys.map(k => `
+  // Ordena setores por quantidade decrescente, depois alfabética
+  sectorKeys.sort((a, b) => {
+    const diff = groups[b].length - groups[a].length;
+    return diff !== 0 ? diff : a.localeCompare(b);
+  });
+
+  const orderedKeys = [...tickerKeys, ...sectorKeys];
+  if (outrosKey) orderedKeys.push(outrosKey);
+
+  // Função para obter título de exibição do grupo
+  function getGroupTitle(key) {
+    if (key === '— OUTROS') return '— OUTROS';
+    // Se for ticker (contém números ou é todo maiúsculo curto), exibe como está
+    if (/^[A-Z0-9]+$/.test(key) && key.length <= 6) {
+      return key;
+    }
+    // Caso contrário, tenta mapear para label amigável
+    return SECTOR_LABELS[key] || key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
+  }
+
+  document.getElementById('list').innerHTML = orderedKeys.map(key => {
+    const articles = groups[key];
+    const title = getGroupTitle(key);
+    return `
     <section class="group">
-      <div class="group-title">${esc(k)}<span class="count">${groups[k].length}</span></div>
-      ${groups[k].map(a => {
-        const others = (a.matched_tickers || []).filter(t => t !== k)
+      <div class="group-title">${esc(title)}<span class="count">${articles.length}</span></div>
+      ${articles.map(a => {
+        const others = (a.matched_tickers || []).filter(t => t !== key)
           .map(t => `<span class="tag">${esc(t)}</span>`).join('');
         const sectors = (a.matched_sectors || [])
           .map(s => `<span class="tag">${esc(s)}</span>`).join('');
@@ -533,7 +594,7 @@ function render() {
         </article>`;
       }).join('')}
     </section>
-  `).join('');
+  `}).join('');
 
   document.querySelectorAll('.check').forEach(box => {
     box.onclick = (e) => {
