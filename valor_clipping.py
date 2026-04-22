@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Valor Economico - Clipping Diario
+Clipping Diario
 Puxa noticias do Valor, filtra pela cobertura de varejo/consumo do Itau BBA,
 e gera um digest ordenado por relevancia.
 """
@@ -79,6 +79,7 @@ SECTOR_KEYWORDS = {
 }
 
 FEED_URLS = [
+    # Valor Economico
     "https://pox.globo.com/rss/valor/empresas",
     "https://pox.globo.com/rss/valor/financas",
     "https://pox.globo.com/rss/valor/brasil",
@@ -86,6 +87,24 @@ FEED_URLS = [
     "https://valor.globo.com/rss/",
     "https://valor.globo.com/empresas/rss/",
     "https://www.valor.com.br/rss",
+    # Folha de S.Paulo
+    "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+    "https://feeds.folha.uol.com.br/folha/dinheiro/rss091.xml",
+    # Estadao
+    "https://www.estadao.com.br/rss/economia.xml",
+    "https://www.estadao.com.br/rss/ultimas.xml",
+    # O Globo (mesmo padrao Globo do Valor)
+    "https://pox.globo.com/rss/oglobo/economia",
+    "https://oglobo.globo.com/rss/economia",
+    # Exame
+    "https://exame.com/feed/",
+    "https://exame.com/negocios/feed/",
+    # Veja
+    "https://veja.abril.com.br/feed",
+    "https://veja.abril.com.br/economia/feed",
+    # UOL
+    "https://rss.uol.com.br/feed/economia.xml",
+    "https://economia.uol.com.br/feed/",
 ]
 
 HTML_FALLBACK_PAGES = [
