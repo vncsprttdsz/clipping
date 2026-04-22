@@ -22,6 +22,7 @@
     --tag-text: #1a4d7a;
     --selected-bg: #eef6fc;
     --danger: #b32020;
+    --manual-badge: #d4a017;
   }
   @media (prefers-color-scheme: dark) {
     :root {
@@ -36,6 +37,7 @@
       --tag-text: #8bb9dc;
       --selected-bg: #17283a;
       --danger: #e06b6b;
+      --manual-badge: #e0b354;
     }
   }
   * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
@@ -56,21 +58,43 @@
     padding: 14px 16px 10px;
     backdrop-filter: saturate(180%) blur(12px);
     -webkit-backdrop-filter: saturate(180%) blur(12px);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
   }
+  .header-left { flex: 1; }
   h1 { font-size: 20px; font-weight: 600; letter-spacing: -0.02em; }
   .meta {
     font-size: 12px; color: var(--text-muted);
     margin-top: 3px;
     display: flex; align-items: center; gap: 10px;
   }
+  .header-actions {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+  .icon-btn {
+    background: none;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    width: 36px; height: 36px;
+    border-radius: 8px;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: background 0.1s;
+  }
+  .icon-btn:active { background: var(--bg-elevated); }
   .refresh {
-    margin-left: auto; background: none;
+    background: none;
     border: 1px solid var(--border); color: var(--text-muted);
-    padding: 3px 9px; border-radius: 6px;
-    font-size: 11.5px; font-weight: 500;
+    padding: 6px 12px; border-radius: 6px;
+    font-size: 12px; font-weight: 500;
     cursor: pointer;
   }
-  .refresh:active { background: var(--bg-elevated); }
   .filters {
     padding: 8px 16px; background: var(--bg);
     border-bottom: 1px solid var(--border);
@@ -146,11 +170,34 @@
     transform: rotate(45deg) translate(-1px, -1px);
   }
   .article-body { flex: 1; min-width: 0; }
-  .article-body a {
-    color: var(--text); text-decoration: none;
-    font-weight: 500; display: block; line-height: 1.35;
+  .article-title-row {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
   }
-  .article-body a:active { color: var(--accent); }
+  .article-title-row a {
+    color: var(--text); text-decoration: none;
+    font-weight: 500; line-height: 1.35;
+    flex: 1;
+  }
+  .article-title-row a:active { color: var(--accent); }
+  .manual-badge {
+    font-size: 12px;
+    opacity: 0.7;
+    cursor: default;
+  }
+  .delete-manual {
+    background: none;
+    border: none;
+    color: var(--danger);
+    font-size: 14px;
+    cursor: pointer;
+    padding: 2px 4px;
+    margin-left: 4px;
+    opacity: 0.6;
+    transition: opacity 0.1s;
+  }
+  .delete-manual:hover { opacity: 1; }
   .article-meta {
     font-size: 11.5px; color: var(--text-muted);
     margin-top: 5px;
@@ -227,6 +274,66 @@
     border: 1px solid var(--border);
   }
 
+  /* Modal */
+  .modal-overlay {
+    position: fixed; inset: 0;
+    background: rgba(0,0,0,0.5);
+    z-index: 40;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 16px;
+    visibility: hidden;
+    opacity: 0;
+    transition: opacity 0.2s, visibility 0.2s;
+  }
+  .modal-overlay.visible {
+    visibility: visible;
+    opacity: 1;
+  }
+  .modal {
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    width: 100%;
+    max-width: 480px;
+    padding: 20px;
+    box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+  }
+  .modal h2 {
+    font-size: 18px;
+    margin-bottom: 16px;
+    color: var(--text);
+  }
+  .modal label {
+    display: block;
+    font-size: 13px;
+    font-weight: 500;
+    margin-bottom: 4px;
+    color: var(--text-muted);
+  }
+  .modal input, .modal textarea {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    border-radius: 8px;
+    font-size: 14px;
+    margin-bottom: 16px;
+    font-family: inherit;
+  }
+  .modal input:focus, .modal textarea:focus {
+    outline: none;
+    border-color: var(--accent);
+  }
+  .modal-actions {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-end;
+  }
+
+  /* telas de review */
   .screen {
     position: fixed; inset: 0;
     background: var(--bg);
@@ -253,7 +360,6 @@
   }
   .screen-title { font-size: 17px; font-weight: 600; flex: 1; text-align: center; }
   .screen-title-spacer { width: 50px; }
-
   .reorder-hint {
     padding: 12px 16px;
     font-size: 12.5px; color: var(--text-muted);
@@ -277,9 +383,7 @@
     z-index: 10;
     transition: none;
   }
-  .reorder-item.drop-target {
-    border-color: var(--accent);
-  }
+  .reorder-item.drop-target { border-color: var(--accent); }
   .drag-handle {
     flex-shrink: 0;
     padding: 2px 8px 2px 0;
@@ -306,7 +410,6 @@
     cursor: pointer;
     align-self: center;
   }
-
   .preview {
     margin: 16px; padding: 14px;
     background: var(--bg-elevated);
@@ -339,24 +442,54 @@
 </head>
 <body>
 
+<!-- Modal para adicionar notícia manual -->
+<div class="modal-overlay" id="modal-overlay">
+  <div class="modal">
+    <h2>➕ Adicionar notícia manual</h2>
+    <form id="manual-form" onsubmit="return false;">
+      <label for="manual-url">URL da notícia *</label>
+      <input type="url" id="manual-url" placeholder="https://..." required>
+      
+      <!-- Botão de preenchimento automático -->
+      <button type="button" class="btn btn-ghost" onclick="autoFillFromUrl()" style="margin-bottom: 16px; width: 100%;">✨ Preencher a partir da URL</button>
+      
+      <label for="manual-title">Título *</label>
+      <input type="text" id="manual-title" placeholder="Título da notícia" required>
+      <label for="manual-summary">Resumo (opcional)</label>
+      <textarea id="manual-summary" rows="2" placeholder="Breve descrição..."></textarea>
+      <label for="manual-date">Data (opcional, formato ISO)</label>
+      <input type="text" id="manual-date" placeholder="2026-04-22T10:30:00Z">
+      <div class="modal-actions">
+        <button type="button" class="btn btn-ghost" onclick="closeModal()">Cancelar</button>
+        <button type="submit" class="btn btn-primary" onclick="addManualArticle()">Adicionar</button>
+      </div>
+    </form>
+  </div>
+</div>
+
 <div id="main-screen">
   <header>
-    <h1>Retail Daily</h1>
-    <div class="meta">
-      <span id="status">Carregando…</span>
+    <div class="header-left">
+      <h1>Retail Daily</h1>
+      <div class="meta">
+        <span id="status">Carregando…</span>
+      </div>
+    </div>
+    <div class="header-actions">
+      <button class="icon-btn" onclick="openModal()" title="Adicionar notícia manual">➕</button>
       <button class="refresh" onclick="location.reload()">Atualizar</button>
     </div>
   </header>
   <div class="search">
     <input type="search" id="search" placeholder="Buscar título ou descrição…" autocomplete="off">
   </div>
-<div class="filters" id="time-filters">
-  <button class="pill active" data-days="1">1d</button>
-  <button class="pill" data-days="2">2d</button>
-  <button class="pill" data-days="3">3d</button>
-  <button class="pill" data-days="4">4d</button>
-  <button class="pill" data-days="5">5d</button>
-</div>
+  <div class="filters" id="time-filters">
+    <button class="pill active" data-days="1">1d</button>
+    <button class="pill" data-days="2">2d</button>
+    <button class="pill" data-days="3">3d</button>
+    <button class="pill" data-days="4">4d</button>
+    <button class="pill" data-days="5">5d</button>
+  </div>
   <main id="list"></main>
 
   <div class="action-bar" id="action-bar">
@@ -378,9 +511,7 @@
     Arraste pelo <strong>⋮⋮</strong> para reordenar. Toque no <strong>×</strong> para remover.
   </div>
   <div class="reorder-list" id="reorder-list"></div>
-
   <div class="preview" id="preview"></div>
-
   <div class="action-bar visible" style="position: fixed;">
     <div class="selected-count">
       <strong id="preview-n">0</strong> no clipping
@@ -394,7 +525,7 @@
 <script>
 'use strict';
 
-// Mapeamento de nomes de setor para exibição amigável
+// Mapeamento de setores para labels amigáveis
 const SECTOR_LABELS = {
   'labor_reform': 'Trabalho / Renda',
   'tax_reform': 'Reforma Tributária',
@@ -408,7 +539,8 @@ const SECTOR_LABELS = {
 };
 
 const state = {
-  articles: [],
+  articles: [],           // vindas do JSON
+  manualArticles: [],     // adicionadas manualmente
   generatedAt: null,
   days: 1,
   query: '',
@@ -416,36 +548,52 @@ const state = {
   order: JSON.parse(localStorage.getItem('order') || '[]'),
 };
 
+// Carrega artigos manuais do localStorage
+function loadManualArticles() {
+  try {
+    const stored = localStorage.getItem('manualArticles');
+    if (stored) {
+      state.manualArticles = JSON.parse(stored);
+    }
+  } catch (e) {
+    state.manualArticles = [];
+  }
+}
+function saveManualArticles() {
+  localStorage.setItem('manualArticles', JSON.stringify(state.manualArticles));
+}
+
+// Mescla artigos do JSON com manuais
+function getAllArticles() {
+  const jsonUrls = new Set(state.articles.map(a => a.url));
+  const filteredManuals = state.manualArticles.filter(a => !jsonUrls.has(a.url));
+  return [...state.articles, ...filteredManuals];
+}
+
 async function load() {
+  loadManualArticles();
   try {
     const r = await fetch('data/articles.json?t=' + Date.now());
     if (!r.ok) throw new Error('no data');
     const data = await r.json();
     state.articles = data.articles || [];
     state.generatedAt = data.generated_at;
-    render();
   } catch (e) {
-    document.getElementById('list').innerHTML =
-      '<div class="empty">Aguardando primeira coleta.<br>O clipping roda todo dia útil às 6h BRT.</div>';
-    document.getElementById('status').textContent = 'Sem dados ainda';
+    state.articles = [];
+    document.getElementById('status').textContent = 'Sem dados (offline?)';
   }
+  render();
 }
 
 function getCutoff(days) {
   const now = new Date();
-
   const cutoff = new Date(now);
   cutoff.setHours(6, 0, 0, 0);
-
-  if (now.getHours() < 6) {
-    cutoff.setDate(cutoff.getDate() - 1);
-  }
-
+  if (now.getHours() < 6) cutoff.setDate(cutoff.getDate() - 1);
   cutoff.setDate(cutoff.getDate() - (days - 1));
-
   return cutoff.getTime();
 }
-  
+
 function relative(iso) {
   if (!iso) return '';
   const ms = Date.now() - new Date(iso).getTime();
@@ -459,23 +607,20 @@ function relative(iso) {
 function formatDate(iso) {
   if (!iso) return '';
   const d = new Date(iso);
-  return d.toLocaleString('pt-BR', {
-    day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
-  });
+  return d.toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
 }
 function esc(s) {
-  return String(s || '').replace(/[&<>"']/g, c =>
-    ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 }
 function persist() {
   localStorage.setItem('selected', JSON.stringify([...state.selected]));
   localStorage.setItem('order', JSON.stringify(state.order));
 }
 
-function filter() {
-  const cutoff = getCutoff(state.days); 
+function filterArticles(articles) {
+  const cutoff = getCutoff(state.days);
   const q = state.query.toLowerCase();
-  return state.articles.filter(a => {
+  return articles.filter(a => {
     if (cutoff && a.published && new Date(a.published).getTime() < cutoff) return false;
     if (q) {
       const hay = (a.title + ' ' + (a.summary || '')).toLowerCase();
@@ -486,20 +631,24 @@ function filter() {
 }
 
 function render() {
-  const filtered = filter();
+  const all = getAllArticles();
+  const filtered = filterArticles(all);
+  
   const parts = [];
   if (state.generatedAt) parts.push('Atualizado ' + relative(state.generatedAt));
-  parts.push(filtered.length + (filtered.length === 1 ? ' matéria' : ' matérias'));
+  const manualCount = state.manualArticles.length;
+  const totalCount = filtered.length;
+  parts.push(totalCount + (totalCount === 1 ? ' matéria' : ' matérias'));
+  if (manualCount > 0) parts.push(`✏️ ${manualCount} manual(is)`);
   document.getElementById('status').textContent = parts.join(' · ');
 
   if (!filtered.length) {
-    document.getElementById('list').innerHTML =
-      '<div class="empty">Nenhuma matéria com os filtros atuais.</div>';
+    document.getElementById('list').innerHTML = '<div class="empty">Nenhuma matéria com os filtros atuais.</div>';
     updateActionBar();
     return;
   }
 
-  // Agrupamento: ticker (primeiro), senão setor (primeiro), senão "— OUTROS"
+  // Agrupamento
   const groups = {};
   for (const a of filtered) {
     let key;
@@ -513,7 +662,6 @@ function render() {
     (groups[key] = groups[key] || []).push(a);
   }
 
-  // Ordena artigos dentro de cada grupo por data decrescente
   for (const key of Object.keys(groups)) {
     groups[key].sort((a, b) => {
       const ta = a.published ? new Date(a.published).getTime() : -Infinity;
@@ -522,68 +670,45 @@ function render() {
     });
   }
 
-  // Separa as chaves em tickers, setores e outros
   const tickerKeys = [];
   const sectorKeys = [];
   let outrosKey = null;
-
   for (const key of Object.keys(groups)) {
-    if (key === '— OUTROS') {
-      outrosKey = key;
-    } else if (key.includes(':')) {
-      // Caso algum ticker tenha ":" no nome (improvável), mas mantemos lógica simples
-      tickerKeys.push(key);
-    } else {
-      // Assume que qualquer outra string é um setor
-      sectorKeys.push(key);
-    }
+    if (key === '— OUTROS') outrosKey = key;
+    else if (/^[A-Z0-9]+$/.test(key) && key.length <= 6) tickerKeys.push(key);
+    else sectorKeys.push(key);
   }
-
-  // Ordena tickers por quantidade decrescente, depois alfabética
-  tickerKeys.sort((a, b) => {
-    const diff = groups[b].length - groups[a].length;
-    return diff !== 0 ? diff : a.localeCompare(b);
-  });
-
-  // Ordena setores por quantidade decrescente, depois alfabética
-  sectorKeys.sort((a, b) => {
-    const diff = groups[b].length - groups[a].length;
-    return diff !== 0 ? diff : a.localeCompare(b);
-  });
-
+  tickerKeys.sort((a,b) => groups[b].length - groups[a].length || a.localeCompare(b));
+  sectorKeys.sort((a,b) => groups[b].length - groups[a].length || a.localeCompare(b));
   const orderedKeys = [...tickerKeys, ...sectorKeys];
   if (outrosKey) orderedKeys.push(outrosKey);
 
-  // Função para obter título de exibição do grupo
   function getGroupTitle(key) {
     if (key === '— OUTROS') return '— OUTROS';
-    // Se for ticker (contém números ou é todo maiúsculo curto), exibe como está
-    if (/^[A-Z0-9]+$/.test(key) && key.length <= 6) {
-      return key;
-    }
-    // Caso contrário, tenta mapear para label amigável
+    if (/^[A-Z0-9]+$/.test(key) && key.length <= 6) return key;
     return SECTOR_LABELS[key] || key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
   }
 
   document.getElementById('list').innerHTML = orderedKeys.map(key => {
     const articles = groups[key];
-    const title = getGroupTitle(key);
     return `
     <section class="group">
-      <div class="group-title">${esc(title)}<span class="count">${articles.length}</span></div>
+      <div class="group-title">${esc(getGroupTitle(key))}<span class="count">${articles.length}</span></div>
       ${articles.map(a => {
-        const others = (a.matched_tickers || []).filter(t => t !== key)
-          .map(t => `<span class="tag">${esc(t)}</span>`).join('');
-        const sectors = (a.matched_sectors || [])
-          .map(s => `<span class="tag">${esc(s)}</span>`).join('');
-        const aliases = (a.matched_aliases || [])
-          .map(al => `<span class="alias-tag">${esc(al)}</span>`).join('');
+        const others = (a.matched_tickers || []).filter(t => t !== key).map(t => `<span class="tag">${esc(t)}</span>`).join('');
+        const sectors = (a.matched_sectors || []).map(s => `<span class="tag">${esc(s)}</span>`).join('');
+        const aliases = (a.matched_aliases || []).map(al => `<span class="alias-tag">${esc(al)}</span>`).join('');
         const isSelected = state.selected.has(a.url);
+        const isManual = a._manual === true;
         return `
         <article class="${isSelected ? 'selected' : ''}" data-url="${esc(a.url)}">
           <div class="check ${isSelected ? 'checked' : ''}" data-url="${esc(a.url)}"></div>
           <div class="article-body">
-            <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+            <div class="article-title-row">
+              <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+              ${isManual ? `<span class="manual-badge" title="Adicionado manualmente">✏️</span>` : ''}
+              ${isManual ? `<button class="delete-manual" data-url="${esc(a.url)}" onclick="deleteManualArticle('${esc(a.url)}')" title="Remover artigo manual">🗑️</button>` : ''}
+            </div>
             <div class="article-meta">
               ${a.published ? esc(formatDate(a.published)) : ''}
               ${others}${sectors}
@@ -593,8 +718,8 @@ function render() {
           </div>
         </article>`;
       }).join('')}
-    </section>
-  `}).join('');
+    </section>`;
+  }).join('');
 
   document.querySelectorAll('.check').forEach(box => {
     box.onclick = (e) => {
@@ -638,7 +763,8 @@ function updateActionBar() {
 }
 
 function getSelectedArticlesInOrder() {
-  const byUrl = new Map(state.articles.map(a => [a.url, a]));
+  const all = getAllArticles();
+  const byUrl = new Map(all.map(a => [a.url, a]));
   return state.order
     .filter(url => state.selected.has(url) && byUrl.has(url))
     .map(url => byUrl.get(url));
@@ -648,9 +774,7 @@ function formatTodayEn() {
   const d = new Date();
   const month = d.toLocaleString('en-US', { month: 'short' });
   const day = d.getDate();
-  const suffix = (day % 10 === 1 && day !== 11) ? 'st'
-               : (day % 10 === 2 && day !== 12) ? 'nd'
-               : (day % 10 === 3 && day !== 13) ? 'rd' : 'th';
+  const suffix = (day % 10 === 1 && day !== 11) ? 'st' : (day % 10 === 2 && day !== 12) ? 'nd' : (day % 10 === 3 && day !== 13) ? 'rd' : 'th';
   return `${month} ${day}${suffix}`;
 }
 
@@ -661,17 +785,162 @@ function buildClippingText() {
   return header + '\n\n' + body;
 }
 
-function renderReview() {
-  const items = getSelectedArticlesInOrder();
-  document.getElementById('preview-n').textContent = items.length;
+// --- Modal e adição manual ---
+function openModal() {
+  document.getElementById('modal-overlay').classList.add('visible');
+  document.getElementById('manual-url').value = '';
+  document.getElementById('manual-title').value = '';
+  document.getElementById('manual-summary').value = '';
+  document.getElementById('manual-date').value = '';
+}
+function closeModal() {
+  document.getElementById('modal-overlay').classList.remove('visible');
+}
 
-  if (!items.length) {
-    document.getElementById('reorder-list').innerHTML =
-      '<div class="empty">Nenhuma selecionada.</div>';
-    document.getElementById('preview').textContent = '';
+// NOVA FUNÇÃO: preenchimento automático via proxy CORS
+async function autoFillFromUrl() {
+  const urlInput = document.getElementById('manual-url');
+  const titleInput = document.getElementById('manual-title');
+  const summaryInput = document.getElementById('manual-summary');
+  
+  let url = urlInput.value.trim();
+  if (!url) {
+    alert('Por favor, insira a URL primeiro.');
     return;
   }
 
+  if (!url.startsWith('http://') && !url.startsWith('https://')) {
+    url = 'https://' + url;
+    urlInput.value = url;
+  }
+
+  const btn = event.target;
+  const originalText = btn.textContent;
+  btn.textContent = '⏳ Buscando...';
+  btn.disabled = true;
+
+  try {
+    // Proxy allorigins (gratuito e confiável)
+    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
+    const response = await fetch(proxyUrl);
+    if (!response.ok) throw new Error(`Erro HTTP: ${response.status}`);
+    
+    const html = await response.text();
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+    
+    // Extrai título
+    let title = '';
+    const ogTitle = doc.querySelector('meta[property="og:title"]');
+    if (ogTitle && ogTitle.content) {
+      title = ogTitle.content.trim();
+    } else {
+      const titleTag = doc.querySelector('title');
+      if (titleTag) title = titleTag.textContent.trim();
+    }
+    
+    // Extrai descrição
+    let description = '';
+    const ogDesc = doc.querySelector('meta[property="og:description"]');
+    if (ogDesc && ogDesc.content) {
+      description = ogDesc.content.trim();
+    } else {
+      const metaDesc = doc.querySelector('meta[name="description"]');
+      if (metaDesc && metaDesc.content) {
+        description = metaDesc.content.trim();
+      } else {
+        const firstP = doc.querySelector('p');
+        if (firstP) description = firstP.textContent.trim();
+      }
+    }
+    
+    if (title) titleInput.value = title;
+    if (description) summaryInput.value = description;
+    
+    if (!title && !description) {
+      alert('Não foi possível extrair informações. Preencha manualmente.');
+    } else {
+      showToast('Dados preenchidos!');
+    }
+  } catch (error) {
+    console.error('Erro ao buscar URL:', error);
+    alert('Falha ao acessar a URL. Verifique o link ou preencha manualmente.');
+  } finally {
+    btn.textContent = originalText;
+    btn.disabled = false;
+  }
+}
+
+function addManualArticle() {
+  const url = document.getElementById('manual-url').value.trim();
+  const title = document.getElementById('manual-title').value.trim();
+  const summary = document.getElementById('manual-summary').value.trim();
+  let published = document.getElementById('manual-date').value.trim();
+  
+  if (!url || !title) {
+    alert('URL e Título são obrigatórios.');
+    return;
+  }
+  
+  const all = getAllArticles();
+  if (all.some(a => a.url === url)) {
+    alert('Esta URL já existe na lista.');
+    return;
+  }
+  
+  let publishedDate = null;
+  if (published) {
+    try {
+      publishedDate = new Date(published).toISOString();
+    } catch {
+      publishedDate = new Date().toISOString();
+    }
+  } else {
+    publishedDate = new Date().toISOString();
+  }
+  
+  const newArticle = {
+    title,
+    url,
+    summary,
+    published: publishedDate,
+    source: 'manual',
+    matched_tickers: [],
+    matched_sectors: [],
+    matched_aliases: [],
+    score: 0,
+    _manual: true
+  };
+  
+  state.manualArticles.push(newArticle);
+  saveManualArticles();
+  closeModal();
+  render();
+  showToast('Notícia adicionada!');
+}
+
+function deleteManualArticle(url) {
+  if (!confirm('Remover esta notícia manual?')) return;
+  state.manualArticles = state.manualArticles.filter(a => a.url !== url);
+  if (state.selected.has(url)) {
+    state.selected.delete(url);
+    state.order = state.order.filter(u => u !== url);
+    persist();
+  }
+  saveManualArticles();
+  render();
+  showToast('Removida');
+}
+
+// --- Review e cópia ---
+function renderReview() {
+  const items = getSelectedArticlesInOrder();
+  document.getElementById('preview-n').textContent = items.length;
+  if (!items.length) {
+    document.getElementById('reorder-list').innerHTML = '<div class="empty">Nenhuma selecionada.</div>';
+    document.getElementById('preview').textContent = '';
+    return;
+  }
   document.getElementById('reorder-list').innerHTML = items.map((a, i) => `
     <div class="reorder-item" data-url="${esc(a.url)}" data-index="${i}">
       <div class="drag-handle" data-url="${esc(a.url)}">⋮⋮</div>
@@ -682,49 +951,37 @@ function renderReview() {
       <button class="remove-btn" data-url="${esc(a.url)}" aria-label="Remover">×</button>
     </div>
   `).join('');
-
   document.querySelectorAll('.remove-btn').forEach(btn => {
     btn.onclick = () => {
       toggleSelect(btn.dataset.url);
       renderReview();
     };
   });
-
   bindDragHandlers();
   document.getElementById('preview').textContent = buildClippingText();
 }
 
 let dragState = null;
-
 function bindDragHandlers() {
   const list = document.getElementById('reorder-list');
   const items = [...list.querySelectorAll('.reorder-item')];
-
   items.forEach(item => {
     const handle = item.querySelector('.drag-handle');
-
     const onStart = (e) => {
       e.preventDefault();
       const touch = e.touches ? e.touches[0] : e;
-      dragState = {
-        item,
-        startY: touch.clientY,
-        url: item.dataset.url,
-        dropTarget: null,
-      };
+      dragState = { item, startY: touch.clientY, url: item.dataset.url, dropTarget: null };
       item.classList.add('dragging');
     };
     handle.addEventListener('touchstart', onStart, { passive: false });
     handle.addEventListener('mousedown', onStart);
   });
-
   const onMove = (e) => {
     if (!dragState) return;
     e.preventDefault();
     const touch = e.touches ? e.touches[0] : e;
     const dy = touch.clientY - dragState.startY;
     dragState.item.style.transform = `translateY(${dy}px)`;
-
     const allItems = [...list.querySelectorAll('.reorder-item')];
     allItems.forEach(el => el.classList.remove('drop-target'));
     const pointerY = touch.clientY;
@@ -736,14 +993,12 @@ function bindDragHandlers() {
     if (target) target.classList.add('drop-target');
     dragState.dropTarget = target;
   };
-
   const onEnd = (e) => {
     if (!dragState) return;
     const { item, dropTarget, url } = dragState;
     item.classList.remove('dragging');
     item.style.transform = '';
     document.querySelectorAll('.reorder-item').forEach(el => el.classList.remove('drop-target'));
-
     if (dropTarget && dropTarget !== item) {
       const targetUrl = dropTarget.dataset.url;
       const newOrder = state.order.filter(u => u !== url);
@@ -758,7 +1013,6 @@ function bindDragHandlers() {
     }
     dragState = null;
   };
-
   document.addEventListener('touchmove', onMove, { passive: false });
   document.addEventListener('mousemove', onMove);
   document.addEventListener('touchend', onEnd);
@@ -777,7 +1031,7 @@ async function copyClipping() {
   const text = buildClippingText();
   try {
     await navigator.clipboard.writeText(text);
-    showToast('Copiado! Cole no WhatsApp ou email.');
+    showToast('Copiado!');
   } catch (e) {
     const ta = document.createElement('textarea');
     ta.value = text;
@@ -785,7 +1039,7 @@ async function copyClipping() {
     document.body.appendChild(ta);
     ta.select();
     try { document.execCommand('copy'); showToast('Copiado!'); }
-    catch (err) { alert('Não foi possível copiar automaticamente. Selecione manualmente:\n\n' + text); }
+    catch (err) { alert('Não foi possível copiar.\n\n' + text); }
     document.body.removeChild(ta);
   }
 }
@@ -796,6 +1050,7 @@ function showToast(msg) {
   setTimeout(() => t.classList.remove('visible'), 1800);
 }
 
+// Event listeners
 for (const btn of document.querySelectorAll('#time-filters .pill')) {
   btn.onclick = () => {
     state.days = parseInt(btn.dataset.days);
@@ -804,10 +1059,10 @@ for (const btn of document.querySelectorAll('#time-filters .pill')) {
     render();
   };
 }
-document.getElementById('search').oninput = e => {
-  state.query = e.target.value;
-  render();
-};
+document.getElementById('search').oninput = e => { state.query = e.target.value; render(); };
+document.getElementById('modal-overlay').addEventListener('click', (e) => {
+  if (e.target.classList.contains('modal-overlay')) closeModal();
+});
 
 load();
 </script>
