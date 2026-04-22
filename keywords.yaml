@@ -279,7 +279,6 @@ sectors:
     - eli lilly
     - ems
     - medley
-    - cvs
     - cimed
 
     - alias: raia
@@ -361,8 +360,6 @@ sectors:
     - eletrônicos
     - smartphones
     - linha branca
-    - vivo
-    - kalunga
 
     - alias: allied
       requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone, trocafy, varejo]
@@ -428,7 +425,6 @@ sectors:
     - decathlon
     - puma
     - "on running"
-    - hims & hers
     - artigos esportivos
     - material esportivo
     - roupas de academia
@@ -454,10 +450,8 @@ sectors:
     - best buy
     - macy's
     - saks fifth avenue
-    - saks off 5th
     - etsy
     - tesco
-    - bhv
     - lvmh
     - kering
     - gucci
