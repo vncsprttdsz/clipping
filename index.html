@@ -161,6 +161,24 @@
     padding: 1px 6px; border-radius: 3px;
     font-size: 10.5px; font-weight: 500;
   }
+  .article-aliases {
+    margin-top: 4px;
+    font-size: 10px;
+    color: var(--text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 4px;
+    align-items: center;
+  }
+  .alias-tag {
+    background: color-mix(in srgb, var(--tag-bg) 60%, transparent);
+    color: var(--tag-text);
+    padding: 1px 5px;
+    border-radius: 3px;
+    font-size: 9.5px;
+    font-weight: 400;
+    opacity: 0.8;
+  }
   .summary {
     font-size: 13.5px; color: var(--text-muted);
     margin-top: 6px; line-height: 1.4;
@@ -497,6 +515,8 @@ function render() {
           .map(t => `<span class="tag">${esc(t)}</span>`).join('');
         const sectors = (a.matched_sectors || [])
           .map(s => `<span class="tag">${esc(s)}</span>`).join('');
+        const aliases = (a.matched_aliases || [])
+          .map(al => `<span class="alias-tag">${esc(al)}</span>`).join('');
         const isSelected = state.selected.has(a.url);
         return `
         <article class="${isSelected ? 'selected' : ''}" data-url="${esc(a.url)}">
@@ -507,6 +527,7 @@ function render() {
               ${a.published ? esc(formatDate(a.published)) : ''}
               ${others}${sectors}
             </div>
+            ${aliases ? `<div class="article-aliases">🔍 ${aliases}</div>` : ''}
             ${a.summary ? `<div class="summary">${esc(a.summary)}</div>` : ''}
           </div>
         </article>`;
