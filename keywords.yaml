@@ -1,37 +1,21 @@
 # ============================================================
-# KEYWORDS DO CLIPPING - edite aqui, commite, pronto.
-# ============================================================
-#
-# REGRAS:
-#   - Aliases em lowercase. Nao importa acento - o script normaliza.
-#   - Um ticker por linha, seguido de lista em colchetes [a, b, c]
-#   - Se um alias tem espaco, nao precisa aspas. Se tem dois pontos, precisa.
-#   - Linha comecando com # e ignorada (use pra comentarios)
-#   - Aliases sao matched com word boundaries:
-#       "renner" acha "Lojas Renner" mas nao acha "renneria"
-#
-# COMO ADICIONAR UM TICKER NOVO:
-#   - Copia uma linha existente
-#   - Troca o ticker e os aliases
-#   - Mantem a indentacao de 2 espacos antes do ticker
-#
-# COMO ADICIONAR UM ALIAS NOVO A UM TICKER EXISTENTE:
-#   - Inclui o alias dentro dos colchetes, separado por virgula
-#   - Ex: LREN3: [renner, lojas renner, renner ecommerce]
+# KEYWORDS DO CLIPPING - VERSÃO OTIMIZADA
 # ============================================================
 
 coverage:
   # --- Apparel / Moda ---
-  LREN3:  [renner, lojas renner, LREN]
+  LREN3:  [renner, lojas renner, lren]
   CEAB3:  [c&a, ceab]
 
   # --- Beauty / Venda direta ---
   NATU3:  [natura, avon]
 
   # --- Food retail / Atacarejo ---
-  ASAI3:  [assaí, sendas, belmiro gomes]
+  ASAI3:  [assaí, assai, sendas, belmiro gomes]
+  GPA:    [pao de acucar, pão de açúcar, gpa, grupo pao de acucar]
 
   # --- Pharma ---
+  RADL3:  [raia drogasil, raiadrogasil, droga raia, drogasil]
   PGMN3:  [pague menos, extrafarma]
   PNVL3:  [panvel, dimed]
 
@@ -44,61 +28,90 @@ coverage:
   # --- E-commerce / Fintech ---
   MELI:   [mercadolibre, mercado libre, mercado livre, mercado pago, meli]
   NU:     [nubank, nu holdings, nu pagamentos]
+  MGLU3:  [magazine luiza, magalu]
 
   # --- Jewelry ---
   VIVA3:  [vivara, life by vivara]
 
-  # --- Azzas (fusao Arezzo + Soma) ---
-  AZZA3:  [azzas, arezzo, grupo soma, hering, farm, animale, schutz, marca reserva, vans, anacapri]
+  # --- Azzas (Arezzo + Soma) ---
+  AZZA3:  [azzas, arezzo, grupo soma, hering, farm, animale, schutz, reserva, vans, anacapri]
 
-SMFT3:  [smart fit, smartfit, bio ritmo, total pass, wellhub, panobianco, selfit, bluefit, academia gaviões]
-GMAT3:  [grupo mateus, mix mateus, ilson mateus]
-CVCB3:  [cvc, despegar]
-MGLU3:  [magazine luiza, magalu]
-RADL3:  [raia drogasil, raiadrogasil, droga raia, drogasil]
+  # --- Fitness ---
+  SMFT3:  [smart fit, smartfit, bio ritmo, total pass, wellhub, panobianco, selfit, bluefit, academia gavioes, academia gaviões]
 
+  # --- Regional retail ---
+  GMAT3:  [grupo mateus, mix mateus, ilson mateus]
+
+  # --- Travel ---
+  CVCB3:  [cvc, despegar]
+
+  # --- Global / Competitive (opcional como "ticker") ---
+  AMZN:   [amazon]
+  WMT:    [walmart]
 
 # ============================================================
-# TEMAS MACRO / REGULATORIOS - afetam multiplas empresas
+# TEMAS MACRO / SETORIAIS
 # ============================================================
 
 sectors:
+
+  # --- Trabalho / renda ---
   labor_reform:
     - escala 6x1
     - escala 5x2
     - jornada 40 horas
-    - jornada de 40
     - jornada 44 horas
+    - jornada de trabalho
+    - reducao de jornada
+    - redução de jornada
+    - carga horaria
+    - carga horária
 
+  # --- Tributário ---
   tax_reform:
     - reforma tributaria
+    - reforma tributária
     - ibs
     - cbs
     - imposto seletivo
     - cesta basica nacional
+    - cesta básica nacional
     - subvenção
     - créditos fiscais
+    - beneficios fiscais
     - benefícios fiscais
 
   icms_st:
     - substituicao tributaria
+    - substituição tributária
     - icms-st
     - difal
     - convenio icms
+    - convênio icms
 
+  # --- Macro consumo ---
   consumer_macro:
     - pmc
     - pesquisa mensal do comercio
     - vendas no varejo
+    - varejo fisico
+    - varejo físico
     - massa salarial
     - renda real
     - endividamento das familias
+    - endividamento das famílias
     - comprometimento de renda
     - inadimplencia
+    - inadimplência
     - bolsa familia
+    - bolsa família
     - salario minimo
+    - salário mínimo
     - cadastro positivo
+    - confianca do consumidor
+    - confiança do consumidor
 
+  # --- E-commerce internacional ---
   ecommerce_cross_border:
     - remessa conforme
     - taxa das blusinhas
@@ -108,6 +121,7 @@ sectors:
     - aliexpress
     - tiktok shop
 
+  # --- Entrada competitiva ---
   competitive_entry:
     - h&m
     - inditex
@@ -116,3 +130,35 @@ sectors:
     - primark
     - costco
     - walmart brasil
+
+  # --- Pharma / GLP-1 ---
+  pharma:
+    - ozempic
+    - wegovy
+    - glp-1
+    - obesidade
+    - novo nordisk
+    - eurofarma
+    - farmacêutico
+    - farmaceutico
+    - farmacia
+    - farmácia
+
+  # --- Logística / supply chain ---
+  logistics:
+    - logistica
+    - logística
+    - galpoes
+    - galpões
+    - centros de distribuicao
+    - centros de distribuição
+    - cd
+    - fulfillment
+    - last mile
+
+  # --- Varejo moda (tendência) ---
+  apparel_trends:
+    - colecao outono inverno
+    - coleção outono inverno
+    - fast fashion
+    - varejo de moda
