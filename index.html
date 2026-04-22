@@ -20,6 +20,8 @@
     --accent-fg: #ffffff;
     --tag-bg: #eef2f6;
     --tag-text: #1a4d7a;
+    --source-bg: #f0ebe0;
+    --source-text: #7a5f1a;
     --selected-bg: #eef6fc;
     --danger: #b32020;
     --manual-badge: #d4a017;
@@ -35,6 +37,8 @@
       --accent-fg: #0a0a0a;
       --tag-bg: #1a2a38;
       --tag-text: #8bb9dc;
+      --source-bg: #2a2618;
+      --source-text: #c9a968;
       --selected-bg: #17283a;
       --danger: #e06b6b;
       --manual-badge: #e0b354;
@@ -207,6 +211,12 @@
     background: var(--tag-bg); color: var(--tag-text);
     padding: 1px 6px; border-radius: 3px;
     font-size: 10.5px; font-weight: 500;
+  }
+  .source-tag {
+    background: var(--source-bg); color: var(--source-text);
+    padding: 1px 6px; border-radius: 3px;
+    font-size: 10.5px; font-weight: 600;
+    letter-spacing: 0.02em;
   }
   .article-aliases {
     margin-top: 4px;
@@ -450,7 +460,6 @@
       <label for="manual-url">URL da notícia *</label>
       <input type="url" id="manual-url" placeholder="https://..." required>
       
-      <!-- Botão de preenchimento automático -->
       <button type="button" class="btn btn-ghost" onclick="autoFillFromUrl()" style="margin-bottom: 16px; width: 100%;">✨ Preencher a partir da URL</button>
       
       <label for="manual-title">Título *</label>
@@ -525,7 +534,9 @@
 <script>
 'use strict';
 
-// Mapeamento de setores para labels amigáveis
+// ============================================================
+// Mapeamento de setores e veículos
+// ============================================================
 const SECTOR_LABELS = {
   'labor_reform': 'Trabalho / Renda',
   'tax_reform': 'Reforma Tributária',
@@ -538,9 +549,68 @@ const SECTOR_LABELS = {
   'apparel_trends': 'Tendências Moda',
 };
 
+// Regras de extração de veículo a partir da URL
+// Ordem importa: mais específico primeiro
+const SOURCE_PATTERNS = [
+  [/valor\.globo\.com|valor\.com\.br|valorinveste/i, 'Valor'],
+  [/pipeline\.valor/i,                              'Pipeline'],
+  [/oglobo\.globo\.com/i,                           'O Globo'],
+  [/epocanegocios\.globo/i,                         'Época Negócios'],
+  [/revistapegn\.globo/i,                           'PEGN'],
+  [/g1\.globo\.com/i,                               'G1'],
+  [/folha\.uol|folha\.com/i,                        'Folha'],
+  [/estadao\.com/i,                                 'Estadão'],
+  [/exame\.com/i,                                   'Exame'],
+  [/veja\.abril/i,                                  'Veja'],
+  [/infomoney\.com/i,                               'InfoMoney'],
+  [/neofeed\.com/i,                                 'NeoFeed'],
+  [/braziljournal/i,                                'Brazil Journal'],
+  [/metropoles\.com/i,                              'Metrópoles'],
+  [/cnnbrasil/i,                                    'CNN Brasil'],
+  [/bloomberg/i,                                    'Bloomberg'],
+  [/reuters/i,                                      'Reuters'],
+  [/\bft\.com/i,                                    'FT'],
+  [/wsj\.com/i,                                     'WSJ'],
+  [/mercadoeconsumo/i,                              'M&C'],
+  [/uol\.com/i,                                     'UOL'],
+];
+
+function extractSource(url) {
+  if (!url) return '';
+  const m = url.match(/^https?:\/\/(?:www\d*\.|feeds\.|rss\.|br\.|en\.|pt\.|api\.)?([^/]+)/i);
+  if (!m) return '';
+  const host = m[1].toLowerCase();
+  for (const [pat, label] of SOURCE_PATTERNS) {
+    if (pat.test(host)) return label;
+  }
+  // Fallback: pega o "nome principal" do domínio
+  // ex: example.weird-domain.co.uk → weird-domain
+  const parts = host.split('.');
+  if (parts.length >= 3 && parts[parts.length - 2].length <= 3) {
+    // TLD composto (.co.uk, .com.br): pula um nível
+    return parts[parts.length - 3].replace(/^\w/, c => c.toUpperCase());
+  }
+  if (parts.length >= 2) {
+    return parts[parts.length - 2].replace(/^\w/, c => c.toUpperCase());
+  }
+  return host;
+}
+
+// ============================================================
+// Classificação de grupo
+// ============================================================
+// Ticker B3 = 4 letras + número (LREN3, AZZA3)
+// Ticker ADR/foreign = 2-4 letras maiúsculas sem número (MELI, NU, AMZN, SE, WMT)
+function isTickerKey(key) {
+  return /^[A-Z]{2,5}[0-9]?$/.test(key);
+}
+
+// ============================================================
+// Estado
+// ============================================================
 const state = {
-  articles: [],           // vindas do JSON
-  manualArticles: [],     // adicionadas manualmente
+  articles: [],
+  manualArticles: [],
   generatedAt: null,
   days: 1,
   query: '',
@@ -548,22 +618,16 @@ const state = {
   order: JSON.parse(localStorage.getItem('order') || '[]'),
 };
 
-// Carrega artigos manuais do localStorage
 function loadManualArticles() {
   try {
     const stored = localStorage.getItem('manualArticles');
-    if (stored) {
-      state.manualArticles = JSON.parse(stored);
-    }
-  } catch (e) {
-    state.manualArticles = [];
-  }
+    if (stored) state.manualArticles = JSON.parse(stored);
+  } catch (e) { state.manualArticles = []; }
 }
 function saveManualArticles() {
   localStorage.setItem('manualArticles', JSON.stringify(state.manualArticles));
 }
 
-// Mescla artigos do JSON com manuais
 function getAllArticles() {
   const jsonUrls = new Set(state.articles.map(a => a.url));
   const filteredManuals = state.manualArticles.filter(a => !jsonUrls.has(a.url));
@@ -648,7 +712,6 @@ function render() {
     return;
   }
 
-  // Agrupamento
   const groups = {};
   for (const a of filtered) {
     let key;
@@ -675,7 +738,7 @@ function render() {
   let outrosKey = null;
   for (const key of Object.keys(groups)) {
     if (key === '— OUTROS') outrosKey = key;
-    else if (/^[A-Z0-9]+$/.test(key) && key.length <= 6) tickerKeys.push(key);
+    else if (isTickerKey(key)) tickerKeys.push(key);
     else sectorKeys.push(key);
   }
   tickerKeys.sort((a,b) => groups[b].length - groups[a].length || a.localeCompare(b));
@@ -685,7 +748,7 @@ function render() {
 
   function getGroupTitle(key) {
     if (key === '— OUTROS') return '— OUTROS';
-    if (/^[A-Z0-9]+$/.test(key) && key.length <= 6) return key;
+    if (isTickerKey(key)) return key;
     return SECTOR_LABELS[key] || key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase());
   }
 
@@ -695,6 +758,8 @@ function render() {
     <section class="group">
       <div class="group-title">${esc(getGroupTitle(key))}<span class="count">${articles.length}</span></div>
       ${articles.map(a => {
+        const sourceLabel = extractSource(a.url);
+        const sourceTag = sourceLabel ? `<span class="source-tag">${esc(sourceLabel)}</span>` : '';
         const others = (a.matched_tickers || []).filter(t => t !== key).map(t => `<span class="tag">${esc(t)}</span>`).join('');
         const sectors = (a.matched_sectors || []).map(s => `<span class="tag">${esc(s)}</span>`).join('');
         const aliases = (a.matched_aliases || []).map(al => `<span class="alias-tag">${esc(al)}</span>`).join('');
@@ -710,6 +775,7 @@ function render() {
               ${isManual ? `<button class="delete-manual" data-url="${esc(a.url)}" onclick="deleteManualArticle('${esc(a.url)}')" title="Remover artigo manual">🗑️</button>` : ''}
             </div>
             <div class="article-meta">
+              ${sourceTag}
               ${a.published ? esc(formatDate(a.published)) : ''}
               ${others}${sectors}
             </div>
@@ -797,7 +863,6 @@ function closeModal() {
   document.getElementById('modal-overlay').classList.remove('visible');
 }
 
-// NOVA FUNÇÃO: preenchimento automático via proxy CORS
 async function autoFillFromUrl() {
   const urlInput = document.getElementById('manual-url');
   const titleInput = document.getElementById('manual-title');
@@ -820,7 +885,6 @@ async function autoFillFromUrl() {
   btn.disabled = true;
 
   try {
-    // Proxy allorigins (gratuito e confiável)
     const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
     const response = await fetch(proxyUrl);
     if (!response.ok) throw new Error(`Erro HTTP: ${response.status}`);
@@ -829,7 +893,6 @@ async function autoFillFromUrl() {
     const parser = new DOMParser();
     const doc = parser.parseFromString(html, 'text/html');
     
-    // Extrai título
     let title = '';
     const ogTitle = doc.querySelector('meta[property="og:title"]');
     if (ogTitle && ogTitle.content) {
@@ -839,7 +902,6 @@ async function autoFillFromUrl() {
       if (titleTag) title = titleTag.textContent.trim();
     }
     
-    // Extrai descrição
     let description = '';
     const ogDesc = doc.querySelector('meta[property="og:description"]');
     if (ogDesc && ogDesc.content) {
@@ -890,19 +952,14 @@ function addManualArticle() {
   
   let publishedDate = null;
   if (published) {
-    try {
-      publishedDate = new Date(published).toISOString();
-    } catch {
-      publishedDate = new Date().toISOString();
-    }
+    try { publishedDate = new Date(published).toISOString(); }
+    catch { publishedDate = new Date().toISOString(); }
   } else {
     publishedDate = new Date().toISOString();
   }
   
   const newArticle = {
-    title,
-    url,
-    summary,
+    title, url, summary,
     published: publishedDate,
     source: 'manual',
     matched_tickers: [],
