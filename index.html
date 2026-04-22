@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<title>Clipping Valor</title>
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📰%3C/text%3E%3C/svg%3E">
+<style>
+  :root {
+    --bg: #ffffff;
+    --bg-elevated: #f7f7f7;
+    --border: #e5e5e5;
+    --text: #0f0f0f;
+    --text-muted: #6e6e6e;
+    --accent: #1a4d7a;
+    --tag-bg: #eef2f6;
+    --tag-text: #1a4d7a;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #0a0a0a;
+      --bg-elevated: #151515;
+      --border: #242424;
+      --text: #ececec;
+      --text-muted: #8a8a8a;
+      --accent: #7eb4e3;
+      --tag-bg: #1a2a38;
+      --tag-text: #8bb9dc;
+    }
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
+  html { -webkit-text-size-adjust: 100%; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+                 "Helvetica Neue", Arial, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    font-size: 15px;
+    line-height: 1.45;
+    padding-bottom: max(40px, env(safe-area-inset-bottom));
+  }
+  header {
+    position: sticky; top: 0; z-index: 10;
+    background: color-mix(in srgb, var(--bg) 85%, transparent);
+    border-bottom: 1px solid var(--border);
+    padding: 14px 16px 10px;
+    backdrop-filter: saturate(180%) blur(12px);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+  }
+  h1 {
+    font-size: 20px; font-weight: 600; letter-spacing: -0.02em;
+  }
+  .meta {
+    font-size: 12px; color: var(--text-muted);
+    margin-top: 3px;
+    display: flex; align-items: center; gap: 10px;
+  }
+  .refresh {
+    margin-left: auto; background: none;
+    border: 1px solid var(--border); color: var(--text-muted);
+    padding: 3px 9px; border-radius: 6px;
+    font-size: 11.5px; font-weight: 500;
+    cursor: pointer;
+  }
+  .refresh:active { background: var(--bg-elevated); }
+  .filters {
+    padding: 8px 16px; background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    display: flex; gap: 6px;
+    overflow-x: auto; -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .filters::-webkit-scrollbar { display: none; }
+  .pill {
+    flex-shrink: 0;
+    padding: 5px 12px; border: 1px solid var(--border);
+    border-radius: 14px;
+    font-size: 12px; font-weight: 500;
+    color: var(--text-muted); background: var(--bg);
+    cursor: pointer; transition: all 0.1s;
+    white-space: nowrap;
+  }
+  .pill.active {
+    background: var(--text); color: var(--bg); border-color: var(--text);
+  }
+  .search { padding: 8px 16px; border-bottom: 1px solid var(--border); }
+  .search input {
+    width: 100%; border: 1px solid var(--border);
+    background: var(--bg-elevated); color: var(--text);
+    padding: 8px 12px; border-radius: 8px; font-size: 14px;
+    -webkit-appearance: none;
+  }
+  .search input:focus { outline: none; border-color: var(--accent); }
+  main { padding: 0 16px 40px; }
+  .group { margin-top: 22px; }
+  .group-title {
+    font-size: 11px; font-weight: 600;
+    letter-spacing: 0.08em; text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 8px; padding-bottom: 6px;
+    border-bottom: 1px solid var(--border);
+    display: flex; align-items: center;
+  }
+  .group-title .count { color: var(--text-muted); font-weight: 400; margin-left: 6px; }
+  article { padding: 12px 0; border-bottom: 1px solid var(--border); }
+  article:last-child { border-bottom: none; }
+  article a {
+    color: var(--text); text-decoration: none;
+    font-weight: 500; display: block; line-height: 1.35;
+  }
+  article a:active { color: var(--accent); }
+  .article-meta {
+    font-size: 11.5px; color: var(--text-muted);
+    margin-top: 5px;
+    display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
+  }
+  .tag {
+    background: var(--tag-bg); color: var(--tag-text);
+    padding: 1px 6px; border-radius: 3px;
+    font-size: 10.5px; font-weight: 500;
+  }
+  .summary {
+    font-size: 13.5px; color: var(--text-muted);
+    margin-top: 6px; line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .empty {
+    padding: 60px 20px; text-align: center;
+    color: var(--text-muted); font-size: 14px; line-height: 1.6;
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>Clipping Valor</h1>
+  <div class="meta">
+    <span id="status">Carregando…</span>
+    <button class="refresh" onclick="location.reload()">Atualizar</button>
+  </div>
+</header>
+<div class="search">
+  <input type="search" id="search" placeholder="Buscar título ou descrição…" autocomplete="off">
+</div>
+<div class="filters" id="time-filters">
+  <button class="pill active" data-hours="0">Tudo</button>
+  <button class="pill" data-hours="12">12h</button>
+  <button class="pill" data-hours="24">24h</button>
+  <button class="pill" data-hours="72">3d</button>
+</div>
+<div class="filters" id="ticker-filters"></div>
+<main id="list"></main>
+<script>
+  const state = {
+    articles: [],
+    generatedAt: null,
+    hours: 0,
+    ticker: null,
+    query: '',
+  };
+
+  async function load() {
+    try {
+      const r = await fetch('data/articles.json?t=' + Date.now());
+      if (!r.ok) throw new Error('no data');
+      const data = await r.json();
+      state.articles = data.articles || [];
+      state.generatedAt = data.generated_at;
+      renderTickerFilters();
+      render();
+    } catch (e) {
+      document.getElementById('list').innerHTML =
+        '<div class="empty">Aguardando primeira coleta.<br>O clipping roda todo dia útil às 7h.<br><br>' +
+        'Vá na aba <b>Actions</b> do repositório e clique em <b>Run workflow</b> pra rodar agora.</div>';
+      document.getElementById('status').textContent = 'Sem dados ainda';
+    }
+  }
+
+  function relative(iso) {
+    if (!iso) return '';
+    const ms = Date.now() - new Date(iso).getTime();
+    const min = Math.floor(ms / 60000);
+    if (min < 1) return 'agora';
+    if (min < 60) return `há ${min}min`;
+    const h = Math.floor(min / 60);
+    if (h < 24) return `há ${h}h`;
+    return `há ${Math.floor(h / 24)}d`;
+  }
+
+  function formatDate(iso) {
+    if (!iso) return '';
+    const d = new Date(iso);
+    return d.toLocaleString('pt-BR', {
+      day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit'
+    });
+  }
+
+  function filter() {
+    const cutoff = state.hours > 0 ? Date.now() - state.hours * 3600e3 : 0;
+    const q = state.query.toLowerCase();
+    return state.articles.filter(a => {
+      if (state.ticker && !(a.matched_tickers || []).includes(state.ticker)) return false;
+      if (cutoff && a.published && new Date(a.published).getTime() < cutoff) return false;
+      if (q) {
+        const hay = (a.title + ' ' + (a.summary || '')).toLowerCase();
+        if (!hay.includes(q)) return false;
+      }
+      return true;
+    });
+  }
+
+  function renderTickerFilters() {
+    const counts = {};
+    for (const a of state.articles)
+      for (const t of (a.matched_tickers || [])) counts[t] = (counts[t] || 0) + 1;
+    const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+    const el = document.getElementById('ticker-filters');
+    el.innerHTML = '<button class="pill active" data-ticker="">Todas</button>' +
+      sorted.map(([t, n]) => `<button class="pill" data-ticker="${t}">${t} · ${n}</button>`).join('');
+    for (const btn of el.querySelectorAll('.pill')) {
+      btn.onclick = () => {
+        state.ticker = btn.dataset.ticker || null;
+        el.querySelectorAll('.pill').forEach(b => b.classList.remove('active'));
+        btn.classList.add('active');
+        render();
+      };
+    }
+  }
+
+  function esc(s) {
+    return String(s || '').replace(/[&<>"']/g, c =>
+      ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  }
+
+  function render() {
+    const filtered = filter();
+    const parts = [];
+    if (state.generatedAt) parts.push('Atualizado ' + relative(state.generatedAt));
+    parts.push(filtered.length + (filtered.length === 1 ? ' matéria' : ' matérias'));
+    document.getElementById('status').textContent = parts.join(' · ');
+
+    if (!filtered.length) {
+      document.getElementById('list').innerHTML =
+        '<div class="empty">Nenhuma matéria com os filtros atuais.</div>';
+      return;
+    }
+
+    const groups = {};
+    for (const a of filtered) {
+      const key = (a.matched_tickers && a.matched_tickers[0]) || '— SETOR / MACRO';
+      (groups[key] = groups[key] || []).push(a);
+    }
+    const keys = Object.keys(groups).sort((a, b) => {
+      if (a.startsWith('—')) return 1;
+      if (b.startsWith('—')) return -1;
+      return groups[b].length - groups[a].length;
+    });
+
+    document.getElementById('list').innerHTML = keys.map(k => `
+      <section class="group">
+        <div class="group-title">${esc(k)}<span class="count">${groups[k].length}</span></div>
+        ${groups[k].map(a => {
+          const others = (a.matched_tickers || []).filter(t => t !== k)
+            .map(t => `<span class="tag">${esc(t)}</span>`).join('');
+          const sectors = (a.matched_sectors || [])
+            .map(s => `<span class="tag">${esc(s)}</span>`).join('');
+          return `
+          <article>
+            <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+            <div class="article-meta">
+              ${a.published ? esc(formatDate(a.published)) : ''}
+              ${others}${sectors}
+            </div>
+            ${a.summary ? `<div class="summary">${esc(a.summary)}</div>` : ''}
+          </article>`;
+        }).join('')}
+      </section>
+    `).join('');
+  }
+
+  for (const btn of document.querySelectorAll('#time-filters .pill')) {
+    btn.onclick = () => {
+      state.hours = parseInt(btn.dataset.hours);
+      document.querySelectorAll('#time-filters .pill').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      render();
+    };
+  }
+
+  document.getElementById('search').oninput = e => {
+    state.query = e.target.value;
+    render();
+  };
+
+  load();
+</script>
+</body>
+</html>
