@@ -5,12 +5,7 @@
 coverage:
   # --- Apparel / Moda ---
   LREN3:
-    simple: [lren]   # "lren" é o ticker na B3, praticamente inequívoco
-    ambiguous:
-      - alias: renner
-        requires_any: [lojas, varejo, vendas, moda, vestuário, crescimento, receita, trimestre]
-      - alias: lojas renner
-        requires_any: [lojas, varejo, vendas, moda, vestuário, crescimento, receita, trimestre]
+    simple: [lren, renner]   # "lren" é o ticker na B3, praticamente inequívoco
 
   CEAB3:
     simple: [c&a, ceab]
@@ -24,7 +19,7 @@ coverage:
     simple: [assaí, assai, sendas]
     ambiguous:
       - alias: belmiro gomes
-        requires_any: [grupo, empresário, acionista, GPA, sendas]
+        requires_any: [grupo, empresário, CEO, acionista, GPA]
 
   PCAR3:
     simple: [gpa, grupo pao de acucar, casino]
@@ -55,16 +50,16 @@ coverage:
   ALLD3:
     ambiguous:
       - alias: allied
-        requires_any: [trocafy, eletrônicos, tecnologia, distribuição, varejo, ações]
+        requires_any: [celulares, samsung, smartphone, loja, iphone, trocafy, eletrônicos, tecnologia, distribuição, varejo, ações]
       - alias: trocafy
-        requires_any: [allied, eletrônicos, tecnologia, marketplace]
+        requires_any: [celular, smartphone, allied, eletrônicos, tecnologia, marketplace]
 
   # --- Athleisure / Footwear ---
   SBFG3:
     simple: [fisia, nike brasil]
     ambiguous:
-      - alias: grupo sbf
-        requires_any: [centauro, fisia, nike, esportivo, varejo]
+      - alias: nike
+        requires_any: [vendas, loja, centauro, fisia, esportivo, varejo]
       - alias: sbf
         requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
       - alias: centauro
@@ -72,16 +67,7 @@ coverage:
 
   # --- E-commerce / Fintech ---
   MELI:
-    simple: [meli]
-    ambiguous:
-      - alias: mercadolibre
-        requires_any: [ecommerce, marketplace, vendas, logística, fintech, ações]
-      - alias: mercado libre
-        requires_any: [ecommerce, marketplace, vendas, logística, fintech, ações]
-      - alias: mercado livre
-        requires_any: [ecommerce, marketplace, vendas, logística, fintech, ações]
-      - alias: mercado pago
-        requires_any: [fintech, pagamentos, digital, conta, maquininha]
+    simple: [meli, mercadolibre, mercado livre, mercado pago, mercado crédito]
 
   NU:
     simple: [nu holdings, nu pagamentos]
@@ -95,9 +81,15 @@ coverage:
       - alias: magazine luiza
         requires_any: [varejo, digital, marketplace, ações, logística]
 
+  BHIA3:
+    simple: [casas bahia, ponto frio]
+
   # --- Jewelry ---
   VIVA3:
     simple: [vivara, life by vivara]
+    ambiguous:
+      - alias: life
+        requires_any: [prata, joia, vivara, loja]
 
   # --- Azzas (Arezzo + Soma) ---
   AZZA3:
@@ -108,7 +100,7 @@ coverage:
 
   # --- Fitness ---
   SMFT3:
-    simple: [smartfit, bio ritmo, total pass, wellhub, panobianco, selfit, bluefit, academia gavioes, academia gaviões]
+    simple: [smartfit, bio ritmo, total pass, wellhub, gympass, panobianco, selfit, bluefit, academia gavioes, academia gaviões]
     ambiguous:
       - alias: smart fit
         requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
@@ -118,7 +110,7 @@ coverage:
     simple: [mix mateus, ilson mateus]
     ambiguous:
       - alias: grupo mateus
-        requires_any: [supermercado, atacarejo, varejo, ações, receita]
+        requires_any: [supermercado, atacarejo, varejo, ações, receita, vendas]
 
   # --- Travel ---
   CVCB3:
@@ -126,6 +118,9 @@ coverage:
     ambiguous:
       - alias: cvc
         requires_any: [viagem, turismo, pacote, agência, ações]
+      - alias: decolar
+        requires_any: [viagem, turismo]
+
 
   # --- Global / Competitive ---
   AMZN:
