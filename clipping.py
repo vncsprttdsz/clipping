@@ -37,57 +37,14 @@ except ImportError:
 
 
 # ============================================================
-# Carrega keywords do arquivo YAML
+# Carrega keywords do arquivo YAML (nova estrutura por setores)
 # ============================================================
 
 KEYWORDS_FILE = Path(__file__).parent / "keywords.yaml"
 
 
-def _normalize_coverage(coverage_raw: dict) -> dict:
-    """
-    Aceita dois formatos por ticker:
-
-    Simples (lista):
-      LREN3: [renner, lojas renner]
-
-    Avancado (dict com 'simple' e/ou 'ambiguous'):
-      AZZA3:
-        simple: [azzas, arezzo, hering]
-        ambiguous:
-          - { alias: reserva, requires_any: [loja, marca, grupo] }
-
-    Converte tudo para: {ticker: [{'alias': str, 'requires_any': list|None}, ...]}
-    """
-    normalized = {}
-    for ticker, entry in coverage_raw.items():
-        rules = []
-        if isinstance(entry, list):
-            for alias in entry:
-                rules.append({"alias": str(alias), "requires_any": None})
-        elif isinstance(entry, dict):
-            for alias in entry.get("simple", []) or []:
-                rules.append({"alias": str(alias), "requires_any": None})
-            for rule in entry.get("ambiguous", []) or []:
-                if not isinstance(rule, dict) or "alias" not in rule:
-                    sys.exit(f"Ticker {ticker}: regra ambigua mal formada: {rule}")
-                req = rule.get("requires_any") or []
-                if not isinstance(req, list) or not req:
-                    sys.exit(f"Ticker {ticker}, alias '{rule['alias']}': "
-                             f"precisa de requires_any nao vazio.")
-                rules.append({
-                    "alias": str(rule["alias"]),
-                    "requires_any": [str(x) for x in req],
-                })
-        else:
-            sys.exit(f"Ticker {ticker}: formato invalido. Use lista ou dict.")
-        if not rules:
-            sys.exit(f"Ticker {ticker}: sem aliases definidos.")
-        normalized[ticker] = rules
-    return normalized
-
-
 def load_keywords():
-    """Le coverage e sectors do keywords.yaml na mesma pasta do script."""
+    """Carrega os setores do novo keywords.yaml."""
     if not KEYWORDS_FILE.exists():
         sys.exit(f"Arquivo nao encontrado: {KEYWORDS_FILE}")
     try:
@@ -96,25 +53,24 @@ def load_keywords():
     except yaml.YAMLError as e:
         sys.exit(f"Erro no YAML (verifique indentacao): {e}")
 
-    coverage_raw = data.get("coverage", {}) or {}
-    sectors = data.get("sectors", {}) or {}
+    sectors_raw = data.get("sectors", {}) or {}
+    sectors = {}
+    for sector_name, entries in sectors_raw.items():
+        rules = []
+        for item in entries:
+            if isinstance(item, str):
+                rules.append({"alias": item, "requires_any": None})
+            elif isinstance(item, dict) and "alias" in item:
+                req = item.get("requires_any") or []
+                rules.append({"alias": item["alias"], "requires_any": req})
+            else:
+                sys.exit(f"Setor {sector_name}: entrada invalida {item}")
+        sectors[sector_name] = rules
+        print(f"[sector] {sector_name}: {len(rules)} aliases", file=sys.stderr)
+    return sectors
 
-    coverage = _normalize_coverage(coverage_raw)
 
-    for sector, kws in sectors.items():
-        if not isinstance(kws, list):
-            sys.exit(f"Setor {sector} nao tem lista de keywords.")
-
-    total_aliases = sum(len(rules) for rules in coverage.values())
-    ambiguous = sum(1 for rules in coverage.values()
-                    for r in rules if r["requires_any"])
-    print(f"[keywords] {len(coverage)} tickers, {total_aliases} aliases "
-          f"({ambiguous} com regras contextuais), {len(sectors)} setores",
-          file=sys.stderr)
-    return coverage, sectors
-
-
-COVERAGE, SECTOR_KEYWORDS = load_keywords()
+SECTORS = load_keywords()
 
 
 # ============================================================
@@ -161,7 +117,6 @@ class Article:
     url: str
     published: Optional[datetime] = None
     source: str = ""
-    matched_tickers: List[str] = field(default_factory=list)
     matched_sectors: List[str] = field(default_factory=list)
     matched_aliases: List[str] = field(default_factory=list)
     score: float = 0.0
@@ -209,11 +164,9 @@ def _alias_matches(pattern: str, scope_text: str, requires_any: Optional[list],
 def score_article(a: Article) -> None:
     title_n = normalize(a.title)
     full_n = normalize(f"{a.title} {a.summary}")
-
     matched_aliases = set()
 
-    # ----- Tickers (cobertura) -----
-    for ticker, rules in COVERAGE.items():
+    for sector_name, rules in SECTORS.items():
         hit_in_title = False
         hit_in_body = False
         for rule in rules:
@@ -227,23 +180,9 @@ def score_article(a: Article) -> None:
             if _alias_matches(pattern, full_n, req, full_n):
                 hit_in_body = True
                 matched_aliases.add(rule["alias"])
-        if hit_in_title:
-            a.matched_tickers.append(ticker)
-            a.score += 20
-        elif hit_in_body:
-            a.matched_tickers.append(ticker)
-            a.score += 10
-
-    # ----- Setores / Macro -----
-    for sector, keywords in SECTOR_KEYWORDS.items():
-        for kw in keywords:
-            kw_norm = normalize(kw)
-            # Procura palavra inteira no texto completo
-            if re.search(rf"\b{re.escape(kw_norm)}\b", full_n):
-                a.matched_sectors.append(sector)
-                matched_aliases.add(kw)        # <-- Adiciona a keyword específica
-                a.score += 3
-                break   # basta uma keyword do setor para pontuar
+        if hit_in_title or hit_in_body:
+            a.matched_sectors.append(sector_name)
+            a.score += 20 if hit_in_title else 10
 
     a.matched_aliases = sorted(matched_aliases)
 
@@ -260,7 +199,6 @@ def parse_entry(entry, source: str) -> Optional[Article]:
         for key in ("published_parsed", "updated_parsed"):
             tp = entry.get(key)
             if tp:
-                # feedparser já retorna tupla no fuso UTC
                 published = datetime(*tp[:6], tzinfo=timezone.utc)
                 break
 
@@ -334,25 +272,16 @@ def render_markdown(articles: List[Article]) -> str:
 
     grouped = {}
     for a in articles:
-        key = a.matched_tickers[0] if a.matched_tickers else "SETOR / MACRO"
+        key = a.matched_sectors[0] if a.matched_sectors else "OUTROS"
         grouped.setdefault(key, []).append(a)
 
-    ticker_keys = sorted(
-        [k for k in grouped if k != "SETOR / MACRO"],
-        key=lambda k: (-len(grouped[k]), k),
-    )
-    if "SETOR / MACRO" in grouped:
-        ticker_keys.append("SETOR / MACRO")
-
-    for key in ticker_keys:
+    for key in sorted(grouped.keys()):
         out.append(f"\n## {key}  _({len(grouped[key])})_\n")
         for a in grouped[key]:
-            other_tickers = [t for t in a.matched_tickers if t != key]
+            other_sectors = [s for s in a.matched_sectors if s != key]
             tags = ""
-            if other_tickers:
-                tags += " " + " ".join(f"`{t}`" for t in other_tickers)
-            if a.matched_sectors:
-                tags += " " + " ".join(f"_#{s}_" for s in a.matched_sectors)
+            if other_sectors:
+                tags += " " + " ".join(f"_#{s}_" for s in other_sectors)
             date = a.published.astimezone().strftime("%d/%m %Hh%M") if a.published else ""
             summary_excerpt = a.summary[:220] + ("..." if len(a.summary) > 220 else "")
             out.append(f"- **[{a.title}]({a.url})**{tags}")
