@@ -1,0 +1,49 @@
+name: Clipping diário
+# Roda o scraper todo dia útil de manhã, salva JSON e publica no GitHub Pages.
+
+on:
+  schedule:
+    # 09:00 UTC = 06:00 horário de Brasília (UTC-3), seg a sex
+    - cron: '0 9 * * 1-5'
+  # Botão "Run workflow" manual (útil pra testar)
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+concurrency:
+  group: clipping-daily
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Instala Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instala dependências
+        run: pip install feedparser requests beautifulsoup4 pyyaml
+
+      - name: Roda o clipping
+        run: python clipping.py --output-json data/articles.json --since 48
+
+      - name: Commita o resultado (se houver mudanças)
+        run: |
+          git config user.name "clipping-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/articles.json
+          if git diff --staged --quiet; then
+            echo "Sem novidades."
+          else
+            git commit -m "Clipping $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
