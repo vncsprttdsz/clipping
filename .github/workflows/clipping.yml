@@ -9,7 +9,10 @@ on:
   workflow_dispatch: {}
 
 permissions:
-  contents: write  # precisa pra commitar o articles.json
+  contents: write
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 concurrency:
   group: clipping-daily
@@ -28,10 +31,10 @@ jobs:
           python-version: '3.11'
 
       - name: Instala dependências
-        run: pip install feedparser requests beautifulsoup4
+        run: pip install feedparser requests beautifulsoup4 pyyaml
 
       - name: Roda o clipping
-        run: python valor_clipping.py --output-json data/articles.json --since 48
+        run: python clipping.py --output-json data/articles.json --since 48
 
       - name: Commita o resultado (se houver mudanças)
         run: |
@@ -41,6 +44,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "Sem novidades."
           else
-            git commit -m "📰 Clipping $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git commit -m "Clipping $(date -u +'%Y-%m-%d %H:%M UTC')"
             git push
           fi
