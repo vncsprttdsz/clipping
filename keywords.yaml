@@ -22,14 +22,14 @@
 
 coverage:
   # --- Apparel / Moda ---
-  LREN3:  [renner, lojas renner]
+  LREN3:  [renner, lojas renner, LREN]
   CEAB3:  [c&a, ceab]
 
   # --- Beauty / Venda direta ---
-  NTCO3:  [natura, natura &co, natura co, avon]
+  NATU3:  [natura, avon]
 
   # --- Food retail / Atacarejo ---
-  ASAI3:  [assai]
+  ASAI3:  [assaí, sendas, belmiro gomes]
 
   # --- Pharma ---
   PGMN3:  [pague menos, extrafarma]
@@ -39,7 +39,7 @@ coverage:
   ALLD3:  [allied, trocafy]
 
   # --- Athleisure / Footwear ---
-  SBFG3:  [grupo sbf, sbf, centauro, fila brasil, nike brasil]
+  SBFG3:  [grupo sbf, sbf, centauro, fisia, nike brasil]
 
   # --- E-commerce / Fintech ---
   MELI:   [mercadolibre, mercado libre, mercado livre, mercado pago, meli]
@@ -49,14 +49,13 @@ coverage:
   VIVA3:  [vivara, life by vivara]
 
   # --- Azzas (fusao Arezzo + Soma) ---
-  AZZA3:  [azzas, arezzo, grupo soma, hering, farm, animale, schutz, reserva, anacapri]
+  AZZA3:  [azzas, arezzo, grupo soma, hering, farm, animale, schutz, marca reserva, vans, anacapri]
 
-  # --- Adicione aqui os outros ~10 nomes da cobertura ---
-  # SMFT3:  [smart fit, smartfit, bio ritmo]
-  # GMAT3:  [grupo mateus]
-  # CVCB3:  [cvc, cvc corp]
-  # MGLU3:  [magazine luiza, magalu]
-  # RADL3:  [raia drogasil, raiadrogasil, droga raia, drogasil]
+SMFT3:  [smart fit, smartfit, bio ritmo, total pass, wellhub, panobianco, selfit, bluefit, academia gaviões]
+GMAT3:  [grupo mateus, mix mateus, ilson mateus]
+CVCB3:  [cvc, despegar]
+MGLU3:  [magazine luiza, magalu]
+RADL3:  [raia drogasil, raiadrogasil, droga raia, drogasil]
 
 
 # ============================================================
@@ -65,15 +64,11 @@ coverage:
 
 sectors:
   labor_reform:
-    - reforma trabalhista
     - escala 6x1
     - escala 5x2
     - jornada 40 horas
     - jornada de 40
     - jornada 44 horas
-    - pec trabalhista
-    - pec da jornada
-    - horas extras
 
   tax_reform:
     - reforma tributaria
@@ -81,12 +76,13 @@ sectors:
     - cbs
     - imposto seletivo
     - cesta basica nacional
-    - trava do iva
+    - subvenção
+    - créditos fiscais
+    - benefícios fiscais
 
   icms_st:
     - substituicao tributaria
     - icms-st
-    - portaria sre
     - difal
     - convenio icms
 
@@ -106,11 +102,11 @@ sectors:
   ecommerce_cross_border:
     - remessa conforme
     - taxa das blusinhas
-    - us$ 50
     - shein
     - shopee
     - temu
     - aliexpress
+    - tiktok shop
 
   competitive_entry:
     - h&m
