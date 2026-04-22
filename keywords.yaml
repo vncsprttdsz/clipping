@@ -1,0 +1,122 @@
+# ============================================================
+# KEYWORDS DO CLIPPING - edite aqui, commite, pronto.
+# ============================================================
+#
+# REGRAS:
+#   - Aliases em lowercase. Nao importa acento - o script normaliza.
+#   - Um ticker por linha, seguido de lista em colchetes [a, b, c]
+#   - Se um alias tem espaco, nao precisa aspas. Se tem dois pontos, precisa.
+#   - Linha comecando com # e ignorada (use pra comentarios)
+#   - Aliases sao matched com word boundaries:
+#       "renner" acha "Lojas Renner" mas nao acha "renneria"
+#
+# COMO ADICIONAR UM TICKER NOVO:
+#   - Copia uma linha existente
+#   - Troca o ticker e os aliases
+#   - Mantem a indentacao de 2 espacos antes do ticker
+#
+# COMO ADICIONAR UM ALIAS NOVO A UM TICKER EXISTENTE:
+#   - Inclui o alias dentro dos colchetes, separado por virgula
+#   - Ex: LREN3: [renner, lojas renner, renner ecommerce]
+# ============================================================
+
+coverage:
+  # --- Apparel / Moda ---
+  LREN3:  [renner, lojas renner]
+  CEAB3:  [c&a, ceab]
+
+  # --- Beauty / Venda direta ---
+  NTCO3:  [natura, natura &co, natura co, avon]
+
+  # --- Food retail / Atacarejo ---
+  ASAI3:  [assai]
+
+  # --- Pharma ---
+  PGMN3:  [pague menos, extrafarma]
+  PNVL3:  [panvel, dimed]
+
+  # --- Specialty / Electronics ---
+  ALLD3:  [allied, trocafy]
+
+  # --- Athleisure / Footwear ---
+  SBFG3:  [grupo sbf, sbf, centauro, fila brasil, nike brasil]
+
+  # --- E-commerce / Fintech ---
+  MELI:   [mercadolibre, mercado libre, mercado livre, mercado pago, meli]
+  NU:     [nubank, nu holdings, nu pagamentos]
+
+  # --- Jewelry ---
+  VIVA3:  [vivara, life by vivara]
+
+  # --- Azzas (fusao Arezzo + Soma) ---
+  AZZA3:  [azzas, arezzo, grupo soma, hering, farm, animale, schutz, reserva, anacapri]
+
+  # --- Adicione aqui os outros ~10 nomes da cobertura ---
+  # SMFT3:  [smart fit, smartfit, bio ritmo]
+  # GMAT3:  [grupo mateus]
+  # CVCB3:  [cvc, cvc corp]
+  # MGLU3:  [magazine luiza, magalu]
+  # RADL3:  [raia drogasil, raiadrogasil, droga raia, drogasil]
+
+
+# ============================================================
+# TEMAS MACRO / REGULATORIOS - afetam multiplas empresas
+# ============================================================
+
+sectors:
+  labor_reform:
+    - reforma trabalhista
+    - escala 6x1
+    - escala 5x2
+    - jornada 40 horas
+    - jornada de 40
+    - jornada 44 horas
+    - pec trabalhista
+    - pec da jornada
+    - horas extras
+
+  tax_reform:
+    - reforma tributaria
+    - ibs
+    - cbs
+    - imposto seletivo
+    - cesta basica nacional
+    - trava do iva
+
+  icms_st:
+    - substituicao tributaria
+    - icms-st
+    - portaria sre
+    - difal
+    - convenio icms
+
+  consumer_macro:
+    - pmc
+    - pesquisa mensal do comercio
+    - vendas no varejo
+    - massa salarial
+    - renda real
+    - endividamento das familias
+    - comprometimento de renda
+    - inadimplencia
+    - bolsa familia
+    - salario minimo
+    - cadastro positivo
+
+  ecommerce_cross_border:
+    - remessa conforme
+    - taxa das blusinhas
+    - us$ 50
+    - shein
+    - shopee
+    - temu
+    - aliexpress
+
+  competitive_entry:
+    - h&m
+    - inditex
+    - zara
+    - uniqlo
+    - primark
+    - costco
+    - walmart brasil
