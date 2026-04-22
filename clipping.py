@@ -43,6 +43,49 @@ except ImportError:
 KEYWORDS_FILE = Path(__file__).parent / "keywords.yaml"
 
 
+def _normalize_coverage(coverage_raw: dict) -> dict:
+    """
+    Aceita dois formatos por ticker:
+
+    Simples (lista):
+      LREN3: [renner, lojas renner]
+
+    Avancado (dict com 'simple' e/ou 'ambiguous'):
+      AZZA3:
+        simple: [azzas, arezzo, hering]
+        ambiguous:
+          - { alias: reserva, requires_any: [loja, marca, grupo] }
+
+    Converte tudo para: {ticker: [{'alias': str, 'requires_any': list|None}, ...]}
+    """
+    normalized = {}
+    for ticker, entry in coverage_raw.items():
+        rules = []
+        if isinstance(entry, list):
+            for alias in entry:
+                rules.append({"alias": str(alias), "requires_any": None})
+        elif isinstance(entry, dict):
+            for alias in entry.get("simple", []) or []:
+                rules.append({"alias": str(alias), "requires_any": None})
+            for rule in entry.get("ambiguous", []) or []:
+                if not isinstance(rule, dict) or "alias" not in rule:
+                    sys.exit(f"Ticker {ticker}: regra ambigua mal formada: {rule}")
+                req = rule.get("requires_any") or []
+                if not isinstance(req, list) or not req:
+                    sys.exit(f"Ticker {ticker}, alias '{rule['alias']}': "
+                             f"precisa de requires_any nao vazio.")
+                rules.append({
+                    "alias": str(rule["alias"]),
+                    "requires_any": [str(x) for x in req],
+                })
+        else:
+            sys.exit(f"Ticker {ticker}: formato invalido. Use lista ou dict.")
+        if not rules:
+            sys.exit(f"Ticker {ticker}: sem aliases definidos.")
+        normalized[ticker] = rules
+    return normalized
+
+
 def load_keywords():
     """Le coverage e sectors do keywords.yaml na mesma pasta do script."""
     if not KEYWORDS_FILE.exists():
@@ -53,20 +96,20 @@ def load_keywords():
     except yaml.YAMLError as e:
         sys.exit(f"Erro no YAML (verifique indentacao): {e}")
 
-    coverage = data.get("coverage", {}) or {}
+    coverage_raw = data.get("coverage", {}) or {}
     sectors = data.get("sectors", {}) or {}
 
-    # Validacao: coverage deve ser dict de ticker -> lista
-    for ticker, aliases in coverage.items():
-        if not isinstance(aliases, list):
-            sys.exit(f"Ticker {ticker} nao tem lista de aliases. "
-                     f"Formato correto: {ticker}: [alias1, alias2]")
+    coverage = _normalize_coverage(coverage_raw)
 
     for sector, kws in sectors.items():
         if not isinstance(kws, list):
             sys.exit(f"Setor {sector} nao tem lista de keywords.")
 
-    print(f"[keywords] {len(coverage)} tickers, {len(sectors)} setores carregados",
+    total_aliases = sum(len(rules) for rules in coverage.values())
+    ambiguous = sum(1 for rules in coverage.values()
+                    for r in rules if r["requires_any"])
+    print(f"[keywords] {len(coverage)} tickers, {total_aliases} aliases "
+          f"({ambiguous} com regras contextuais), {len(sectors)} setores",
           file=sys.stderr)
     return coverage, sectors
 
@@ -146,20 +189,37 @@ def save_seen(urls: set) -> None:
     SEEN_DB.write_text(json.dumps(list(urls), ensure_ascii=False))
 
 
+def _alias_matches(pattern: str, scope_text: str, requires_any: Optional[list],
+                   full_text: str) -> bool:
+    """Checa se o alias casa no `scope_text` e se o contexto exigido
+    (palavra adicional em qualquer lugar do full_text) esta presente."""
+    if not re.search(pattern, scope_text):
+        return False
+    if not requires_any:
+        return True
+    for req in requires_any:
+        req_n = normalize(req)
+        req_pat = rf"\b{re.escape(req_n)}\b"
+        if re.search(req_pat, full_text):
+            return True
+    return False
+
+
 def score_article(a: Article) -> None:
     title_n = normalize(a.title)
     full_n = normalize(f"{a.title} {a.summary}")
 
-    for ticker, aliases in COVERAGE.items():
+    for ticker, rules in COVERAGE.items():
         hit_in_title = False
         hit_in_body = False
-        for alias in aliases:
-            al_n = normalize(alias)
+        for rule in rules:
+            al_n = normalize(rule["alias"])
             pattern = rf"\b{re.escape(al_n)}\b"
-            if re.search(pattern, title_n):
+            req = rule["requires_any"]
+            if _alias_matches(pattern, title_n, req, full_n):
                 hit_in_title = True
                 break
-            if re.search(pattern, full_n):
+            if _alias_matches(pattern, full_n, req, full_n):
                 hit_in_body = True
         if hit_in_title:
             a.matched_tickers.append(ticker)
@@ -174,7 +234,6 @@ def score_article(a: Article) -> None:
                 a.matched_sectors.append(sector)
                 a.score += 3
                 break
-
 
 def parse_entry(entry, source: str) -> Optional[Article]:
     try:
