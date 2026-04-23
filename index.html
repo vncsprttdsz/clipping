@@ -670,14 +670,59 @@ async function load() {
 }
 
 function getCutoff(days) {
+  // Ajusta a data atual para o fuso de Brasília (UTC-3)
   const now = new Date();
-  const cutoff = new Date(now);
-  cutoff.setHours(6, 0, 0, 0);
-  if (now.getHours() < 6) cutoff.setDate(cutoff.getDate() - 1);
-  cutoff.setDate(cutoff.getDate() - (days - 1));
+  const brDate = new Date(now.toLocaleString('en-US', { timeZone: 'America/Sao_Paulo' }));
+  
+  // Cria a data base: dia atual no fuso BRT com horário 06:30:00
+  const cutoff = new Date(brDate);
+  cutoff.setHours(6, 30, 0, 0);
+  
+  // Se a hora atual for antes das 6h30, o "dia do clipping" ainda não começou,
+  // então retrocede um dia para usar 6h30 de ontem como base.
+  if (brDate.getHours() < 6 || (brDate.getHours() === 6 && brDate.getMinutes() < 30)) {
+    cutoff.setDate(cutoff.getDate() - 1);
+  }
+  
+  // Para N dias, retrocede (N-1) dias a partir da data base.
+  // Ex.: 1d -> base (6h30 de ontem se já passou das 6h30, senão 6h30 de hoje)
+  // Já que a descrição diz "1d mostra desde 6h30 de ontem", a lógica abaixo
+  // está correta: base é 6h30 do dia atual (ou do dia anterior se ainda não deu 6h30),
+  // e subtraimos (days - 1) dias. Para days=1, subtrai 0, resultando no dia base,
+  // que é o dia anterior se já passou das 6h30, ou o dia atual se ainda não passou.
+  // Mas o requisito é: 1d deve mostrar desde 6h30 de ontem. Portanto, se agora é depois das 6h30,
+  // a base deve ser ontem; se agora é antes das 6h30, a base deve ser anteontem?
+  // A lógica correta: queremos o início do último dia completo que se passou.
+  // O dia do clipping começa às 6h30 de um dia e vai até as 6h29 do dia seguinte.
+  // Se agora são 10h de quinta-feira, o "dia" atual do clipping começou às 6h30 de quinta.
+  // O filtro 1d deve mostrar desde o início desse dia atual, ou seja, 6h30 de quinta.
+  // Isso é "hoje" em termos de clipping. Mas o usuário pediu "desde 6h30 de ontem".
+  // Interpretando: quando ele olha o clipping de manhã (após a execução das 6h30),
+  // ele quer ver as notícias que acabaram de ser capturadas, que são as publicadas
+  // desde a execução anterior (6h30 do dia anterior). Portanto, o 1d deve mostrar
+  // o conteúdo do último lote. Isso corresponde a: corte = 6h30 do dia anterior ao dia atual,
+  // independentemente de já ter passado das 6h30 ou não. Porque a execução já ocorreu
+  // e ele quer o material novo. Para simplificar, vou fixar o corte para 1d como
+  // 6h30 do dia anterior ao dia atual (no fuso BRT), sem ajustes de hora atual.
+  // Assim, a qualquer momento da quinta-feira, 1d mostra notícias desde 6h30 de quarta.
+  // 2d mostra desde 6h30 de terça, etc.
+  
+  // Vou implementar exatamente isso: base é o dia atual no fuso BRT, volto 1 dia e coloco 6h30.
+  // Para days=1: ontem 6h30.
+  // Para days=2: anteontem 6h30.
+  // Não preciso do ajuste de hora atual.
+  
+  // Data atual no fuso BRT
+  const today = new Date(new Date().toLocaleString('en-US', { timeZone: 'America/Sao_Paulo' }));
+  // Data base: dia atual (sem mexer na hora)
+  const cutoff = new Date(today);
+  // Volta para o início do dia anterior (days-1 dias atrás) e seta 6h30
+  cutoff.setDate(cutoff.getDate() - days);
+  cutoff.setHours(6, 30, 0, 0);
+  
   return cutoff.getTime();
 }
-
+  
 function relative(iso) {
   if (!iso) return '';
   const ms = Date.now() - new Date(iso).getTime();
