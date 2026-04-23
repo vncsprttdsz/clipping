@@ -189,6 +189,21 @@ def save_seen(urls: set) -> None:
     SEEN_DB.write_text(json.dumps(list(urls), ensure_ascii=False))
 
 
+def normalize_url(url: str) -> str:
+    """Remove parâmetros de rastreamento e redirecionamentos para deduplicação."""
+    if not url:
+        return ""
+    # Folha: extrai a URL real após '*'
+    if '/rss091/*' in url:
+        parts = url.split('/rss091/*')
+        if len(parts) > 1:
+            url = parts[-1]
+    # UOL: remove parâmetros de cache
+    if 'economia.uol.com.br' in url and '.ghtm' in url:
+        url = url.split('?')[0]
+    return url
+
+
 def _alias_matches(pattern: str, scope_text: str, requires_any: Optional[list],
                    full_text: str) -> bool:
     """Checa se o alias casa no `scope_text` e se o contexto exigido
@@ -305,28 +320,6 @@ def fetch_html_fallback(url: str) -> List[Article]:
         return []
 
 
-# ============================================================
-# Função para normalizar URLs e evitar duplicatas
-# ============================================================
-def normalize_url(url: str) -> str:
-    """
-    Remove prefixos de redirecionamento comuns (Folha, UOL) para obter a URL canônica.
-    Exemplo:
-    'https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/...'
-    -> 'https://www1.folha.uol.com.br/...'
-    """
-    # Padrão Folha: .../rss091/*URL_REAL
-    match = re.search(r'/\*?(https?://[^\s]+)$', url)
-    if match:
-        return match.group(1)
-    # Padrão UOL (economia.uol.com.br com ? no final)
-    match = re.search(r'^(https?://[^\s?]+\.ghtml?)', url)
-    if match:
-        # Remove parâmetros de query desnecessários (ex.: ?)
-        return match.group(1)
-    return url
-
-
 def render_markdown(articles: List[Article]) -> str:
     today = datetime.now().strftime("%d/%m/%Y")
     out = [f"# Clipping - {today}\n"]
@@ -403,16 +396,12 @@ def run(since_hours: int, output_format: str, min_score: float,
                     print(f"  OK {url}: {len(items)} itens", file=sys.stderr)
                     articles.extend(items)
 
-    # Deduplicação usando URL normalizada
+    # Deduplicação por URL normalizada
     by_url = {}
     for a in articles:
         norm_url = normalize_url(a.url)
         if norm_url not in by_url:
             by_url[norm_url] = a
-        else:
-            # (Opcional) Se quiser manter o artigo com maior score ou data mais recente,
-            # poderia comparar aqui. Por simplicidade, mantemos o primeiro encontrado.
-            pass
     articles = list(by_url.values())
 
     for a in articles:
@@ -476,7 +465,6 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         print(f"[rescore] {len(rescored)} mantidos, {dropped} descartados",
               file=sys.stderr)
 
-    # Normaliza URLs existentes para comparação
     existing_urls = {normalize_url(a.get("url", "")) for a in existing}
 
     fetched: List[Article] = []
@@ -497,7 +485,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
                 print(f"  OK HTML {url}: {len(items)} itens", file=sys.stderr)
                 fetched.extend(items)
 
-    # Deduplicação nos fetched
+    # Deduplicação local entre os recém-buscados
     by_url = {}
     for a in fetched:
         norm_url = normalize_url(a.url)
@@ -506,9 +494,13 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
     fetched = list(by_url.values())
 
     new_count = 0
+    cutoff_time = datetime.now(timezone.utc) - timedelta(hours=since_hours)
     for a in fetched:
         norm_url = normalize_url(a.url)
         if norm_url in existing_urls:
+            continue
+        # Aplica filtro de data (since_hours)
+        if a.published and a.published < cutoff_time:
             continue
         score_article(a)
         if a.score >= 1:
@@ -516,8 +508,8 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             existing_urls.add(norm_url)
             new_count += 1
 
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
-    merged = [a for a in existing if (not a.get("published")) or a["published"] >= cutoff]
+    keep_cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
+    merged = [a for a in existing if (not a.get("published")) or a["published"] >= keep_cutoff]
     merged.sort(key=lambda a: (-a.get("score", 0), a.get("published") or ""), reverse=False)
 
     path.write_text(json.dumps({
