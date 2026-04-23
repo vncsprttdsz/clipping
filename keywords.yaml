@@ -107,6 +107,7 @@ sectors:
     - temu
     - aliexpress
     - tiktok shop
+    - tiktok
     - amazon
     - magalu
     - magazine luiza
@@ -117,6 +118,11 @@ sectors:
     - mglu3
     - americanas
     - lojas americanas
+    - nubank
+    - ualá
+    - naranjax
+    - revolut
+    - c6
     - ecommerce
     - marketplace
     - vendas online
@@ -203,6 +209,7 @@ sectors:
     - bluefit
     - academia gavioes
     - academia gaviões
+    - rede de academias
     - smft3
     - ultra academia
     - espaçolaser
@@ -241,6 +248,8 @@ sectors:
     - mundo do cabeleireiro
     - buddha spa
     - truss
+    - principia
+    - sallve
     - bath & body works
     - the ordinary
     - cosmético
@@ -502,6 +511,9 @@ sectors:
     - 99 food
     - airbnb
     - ualá
+    - shopify
+    - pinduoduo
+    - coupang
 
     # Regras contextuais para evitar falsos positivos
     - alias: gold
