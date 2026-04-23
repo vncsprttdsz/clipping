@@ -554,6 +554,24 @@ const SECTOR_LABELS = {
   'Global Consumer': 'Global',
 };
 
+// NOVA ORDEM DE PRIORIDADE DEFINIDA PELO USUÁRIO
+const SECTOR_PRIORITY = [
+  'E-commerce',
+  'Farmácias',
+  'Academias',
+  'Varejo Alimentar',
+  'Fashion',
+  'Cosméticos',
+  'Joias',
+  'Eletrônicos',
+  'Economia',
+  'Wellness e Esportes',
+  'Pet',
+  'Material de Construção',
+  'Viagens',
+  'Global Consumer'
+];
+
 // Regras de extração de veículo a partir da URL
 const SOURCE_PATTERNS = [
   [/valor\.globo\.com|valor\.com\.br|valorinveste/i, 'Valor'],
@@ -696,6 +714,17 @@ function filterArticles(articles) {
   });
 }
 
+// Função que retorna o setor principal baseado na prioridade
+function getPrimarySector(sectors) {
+  if (!sectors || sectors.length === 0) return null;
+  for (const prioritySector of SECTOR_PRIORITY) {
+    if (sectors.includes(prioritySector)) {
+      return prioritySector;
+    }
+  }
+  return sectors[0]; // fallback
+}
+
 function render() {
   const all = getAllArticles();
   const filtered = filterArticles(all);
@@ -716,12 +745,8 @@ function render() {
 
   const groups = {};
   for (const a of filtered) {
-    let key;
-    if (a.matched_sectors && a.matched_sectors.length) {
-      key = a.matched_sectors[0];
-    } else {
-      key = '— OUTROS';
-    }
+    const primary = getPrimarySector(a.matched_sectors);
+    const key = primary || '— OUTROS';
     (groups[key] = groups[key] || []).push(a);
   }
 
