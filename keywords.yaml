@@ -7,6 +7,7 @@ sectors:
   # FASHION (Moda, vestuário, calçados, móveis/decoração)
   # ------------------------------------------------------------
   Fashion:
+    # Aliases simples (inequívocos)
     - renner
     - lojas renner
     - lren
@@ -23,9 +24,6 @@ sectors:
     - schutz
     - anacapri
     - foxton
-    - farm
-    - reserva
-    - vans
     - azzas
     - zara
     - inditex
@@ -42,8 +40,6 @@ sectors:
     - hugo boss
     - larroudé
     - maria filó
-    - americanas
-    - lojas americanas
     - converse
     - bershka
     - camicado
@@ -62,28 +58,23 @@ sectors:
     - mobly
     - guararapes
 
-    # Regras contextuais
+    # Aliases ambíguos (exigem contexto)
     - alias: farm
       requires_any: [loja, marca, moda, vestuário, coleção, azzas, grupo, rio]
     - alias: reserva
       requires_any: [loja, marca, moda, vestuário, azzas, grupo]
     - alias: vans
       requires_any: [tênis, calçado, sneaker, moda, loja, marca]
-    - alias: americanas
-      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
-    - alias: lojas americanas
-      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
-
+    
   # ------------------------------------------------------------
   # JOIAS
   # ------------------------------------------------------------
   Joias:
+    # Simples
     - vivara
     - life by vivara
     - joalheria
     - joias
-    - ouro
-    - prata
     - diamante
     - cartier
     - rolex
@@ -91,7 +82,7 @@ sectors:
     - tiffany & co
     - pandora
 
-    # Ouro/prata só no contexto de joias/luxo
+    # Ambíguos
     - alias: ouro
       requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
     - alias: prata
@@ -101,6 +92,7 @@ sectors:
   # E-COMMERCE (Marketplaces, plataformas digitais)
   # ------------------------------------------------------------
   E-commerce:
+    # Simples
     - mercado livre
     - mercadolibre
     - mercado pago
@@ -114,19 +106,15 @@ sectors:
     - tiktok
     - amazon
     - magalu
-    - magazine luiza
     - luiza trajano
     - casas bahia
     - ponto frio
     - bhia3
     - mglu3
-    - americanas
-    - lojas americanas
     - nubank
     - ualá
     - naranjax
     - revolut
-    - c6
     - ecommerce
     - marketplace
     - vendas online
@@ -141,7 +129,7 @@ sectors:
     - entrega rápida
     - daki
 
-    # Magazine Luiza (contexto)
+    # Ambíguos
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, ações, logística]
     - alias: americanas
@@ -155,14 +143,12 @@ sectors:
   # VAREJO ALIMENTAR (Supermercados, atacarejo, alimentos)
   # ------------------------------------------------------------
   Varejo Alimentar:
+    # Simples
     - assaí
     - assai
     - sendas
-    - belmiro gomes
     - gpa
     - grupo pão de açúcar
-    - pao de acucar
-    - pão de açúcar
     - carrefour
     - atacadão
     - atakadão
@@ -181,7 +167,6 @@ sectors:
     - casino
     - walmart brasil
     - costco
-    - grupo mateus
     - mix mateus
     - ilson mateus
     - supermercado
@@ -195,6 +180,7 @@ sectors:
     - kopenhagen
     - brasil cacau
 
+    # Ambíguos
     - alias: belmiro gomes
       requires_any: [grupo, empresário, acionista, gpa, sendas]
     - alias: pao de acucar
@@ -208,6 +194,7 @@ sectors:
   # ACADEMIAS (Fitness, bem-estar)
   # ------------------------------------------------------------
   Academias:
+    # Simples
     - smart fit
     - smartfit
     - bio ritmo
@@ -225,6 +212,7 @@ sectors:
     - espaçolaser
     - planet fitness
 
+    # Ambíguos
     - alias: smart fit
       requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
 
@@ -271,9 +259,7 @@ sectors:
   # FARMÁCIAS (Drogarias, medicamentos, GLP-1 nacional)
   # ------------------------------------------------------------
   Farmácias:
-    - raia
-    - droga raia
-    - drogasil
+    # Simples
     - raiadrogasil
     - pague menos
     - extrafarma
@@ -300,6 +286,7 @@ sectors:
     - medley
     - cimed
 
+    # Ambíguos
     - alias: raia
       requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
     - alias: droga raia
@@ -311,7 +298,6 @@ sectors:
   # ECONOMIA (Macro, trabalho, tributário, consumo)
   # ------------------------------------------------------------
   Economia:
-    # Trabalho
     - escala 6x1
     - escala 5x2
     - jornada 40 horas
@@ -319,7 +305,6 @@ sectors:
     - jornada de trabalho
     - redução de jornada
     - carga horária
-    # Tributário
     - reforma tributária
     - ibs
     - cbs
@@ -332,7 +317,6 @@ sectors:
     - icms-st
     - difal
     - convênio icms
-    # Macro consumo
     - pmc
     - pesquisa mensal do comercio
     - vendas no varejo
@@ -368,10 +352,9 @@ sectors:
   # ELETRÔNICOS (Móveis, eletrodomésticos, eletrônicos)
   # ------------------------------------------------------------
   Eletrônicos:
-    - allied
+    # Simples
     - trocafy
     - alld3
-    - magazine luiza
     - magalu
     - casas bahia
     - ponto frio
@@ -380,17 +363,24 @@ sectors:
     - smartphones
     - linha branca
 
+    # Ambíguos
+    - alias: magazine luiza
+      requires_any: [varejo, digital, marketplace, ações, logística]
     - alias: allied
       requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone, trocafy, varejo]
+    - alias: americanas
+      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
+    - alias: lojas americanas
+      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
+
 
   # ------------------------------------------------------------
   # VIAGENS (Turismo)
   # ------------------------------------------------------------
   Viagens:
-    - cvc
+    # Simples
     - despegar
     - befly
-    - decolar
     - agência de viagem
     - turismo
     - pacote de viagem
@@ -400,6 +390,7 @@ sectors:
     - setor hoteleiro
     - airbnb
 
+    # Ambíguos
     - alias: cvc
       requires_any: [viagem, turismo, pacote, agência, ações]
     - alias: decolar
@@ -423,6 +414,7 @@ sectors:
   # WELLNESS E ESPORTES (Artigos esportivos, roupas fitness)
   # ------------------------------------------------------------
   Wellness e Esportes:
+    # Simples
     - track&field
     - track field
     - lululemon
@@ -431,10 +423,8 @@ sectors:
     - pink cheeks
     - sbfg
     - grupo sbf
-    - centauro
     - fisia
     - nike brasil
-    - nike
     - vulcabras
     - olympikus
     - under armour
@@ -448,6 +438,7 @@ sectors:
     - material esportivo
     - roupas de academia
 
+    # Ambíguos
     - alias: nike
       requires_any: [vendas, loja, centauro, fisia, esportivo, varejo]
     - alias: sbf
@@ -459,8 +450,7 @@ sectors:
   # GLOBAL CONSUMER (Notícias internacionais, empresas globais)
   # ------------------------------------------------------------
   Global Consumer:
-    # Empresas globais
-    - amazon
+    # Simples
     - walmart
     - costco
     - target
@@ -508,8 +498,6 @@ sectors:
     - obesity drugs
     - luxury brands
     - luxury goods
-    - gold
-    - silver
     - jewelry
     - cartier
     - rolex
@@ -525,7 +513,7 @@ sectors:
     - pinduoduo
     - coupang
 
-    # Regras contextuais para evitar falsos positivos
+    # Ambíguos
     - alias: gold
       requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
     - alias: silver
