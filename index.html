@@ -757,10 +757,16 @@ function render() {
     });
   }
 
+  // Ordenação dos grupos conforme a prioridade definida
   const orderedKeys = Object.keys(groups).sort((a, b) => {
     if (a === '— OUTROS') return 1;
     if (b === '— OUTROS') return -1;
-    return groups[b].length - groups[a].length || a.localeCompare(b);
+    const indexA = SECTOR_PRIORITY.indexOf(a);
+    const indexB = SECTOR_PRIORITY.indexOf(b);
+    if (indexA === -1 && indexB === -1) return a.localeCompare(b);
+    if (indexA === -1) return 1;
+    if (indexB === -1) return -1;
+    return indexA - indexB;
   });
 
   function getGroupTitle(key) {
