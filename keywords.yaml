@@ -356,6 +356,8 @@ sectors:
     - trocafy
     - alld3
     - magalu
+    - mglu
+    - bhia
     - casas bahia
     - ponto frio
     - eletrodomésticos
@@ -367,11 +369,11 @@ sectors:
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, ações, logística]
     - alias: allied
-      requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone, trocafy, varejo]
+      requires_any: [tecnologia, distribuidora, smartphone, memória, eletronicos, samsung, iphone, trocafy, varejo]
     - alias: americanas
-      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
+      requires_any: [loja, varejo, crediário, varejista, vendas]
     - alias: lojas americanas
-      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
+      requires_any: [loja, varejo, crediário, varejista, vendas]
 
 
   # ------------------------------------------------------------
