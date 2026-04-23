@@ -42,11 +42,11 @@ jobs:
 
       - name: Roda o clipping com rescore
         if: ${{ inputs.rescore }}
-        run: python clipping.py --output-json data/articles.json --since 48 --rescore
+        run: python clipping.py --output-json data/articles.json --since 48 --rescore --probe-experimental
 
       - name: Roda o clipping normal
         if: ${{ !inputs.rescore }}
-        run: python clipping.py --output-json data/articles.json --since 48
+        run: python clipping.py --output-json data/articles.json --since 48 --probe-experimental
 
       - name: Commita o resultado (se houver mudanças)
         run: |
