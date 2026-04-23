@@ -3,8 +3,8 @@ name: Clipping diário
 
 on:
   schedule:
-    # 09:30 UTC = 06:30 horário de Brasília (UTC-3), seg a sex
-    - cron: '30 9 * * 1-5'
+    # 09:30 UTC = 06:30 horário de Brasília (UTC-3), todos os dias
+    - cron: '30 9 * * *'
   # Botão "Run workflow" manual (útil pra testar ou re-scorear)
   workflow_dispatch:
     inputs:
