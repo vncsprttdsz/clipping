@@ -243,11 +243,28 @@ def normalize_url(url: str) -> str:
 
 
 def normalize_title_for_dedup(title: str) -> str:
-    """Normaliza titulo para deduplicacao cross-source."""
+    """Normaliza titulo para deduplicacao cross-source.
+
+    Remove sufixos tipicos de veiculo ('- Estadão', '- Folha de S.Paulo',
+    '- Valor Econômico', etc.) pra pegar a mesma materia agregada por
+    fontes diferentes (Google News, redir.folha, etc.)
+    """
     t = normalize(title or "")
+    # 1. Normaliza pontuacao (vira espaco) antes de tentar remover sufixo,
+    #    pra pegar variantes com e sem ponto ("S.Paulo" / "S Paulo")
     t = re.sub(r"[^\w\s]", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
-    return t
+    # 2. Remove sufixo " - <veiculo>" / " — <veiculo>" do final
+    t = re.sub(
+        r"\s+(estadao|folha de s paulo|folha de sao paulo|folha|"
+        r"valor economico|valor|o globo|globo|veja|exame|"
+        r"reuters|bloomberg|cnbc|forbes|ft|wsj|"
+        r"neofeed|epoca negocios|infomoney|poder360|jota|"
+        r"brazil journal|bloomberg linea)$",
+        "",
+        t,
+    )
+    return t.strip()
 
 
 def is_junk_title(title: str) -> bool:
