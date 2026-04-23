@@ -448,6 +448,48 @@
     opacity: 1;
     transform: translateX(-50%) translateY(0);
   }
+
+  /* Estilos para a tabela de fontes */
+  .sources-section {
+    margin: 40px 16px 0;
+    padding-top: 20px;
+    border-top: 2px solid var(--border);
+  }
+  .sources-section h2 {
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    margin-bottom: 12px;
+  }
+  .sources-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 12px;
+  }
+  .sources-table th, .sources-table td {
+    padding: 6px 8px;
+    text-align: left;
+    border-bottom: 1px solid var(--border);
+  }
+  .sources-table th {
+    color: var(--text-muted);
+    font-weight: 600;
+  }
+  .sources-table td {
+    color: var(--text);
+  }
+  .sources-table .count {
+    text-align: right;
+    font-weight: 500;
+    color: var(--accent);
+  }
+  .no-sources {
+    color: var(--text-muted);
+    font-size: 12px;
+    font-style: italic;
+  }
 </style>
 </head>
 <body>
@@ -530,6 +572,8 @@
 </div>
 
 <div class="copy-success" id="copy-toast">Copiado!</div>
+
+<div id="sources-container" style="padding: 0 16px 40px;"></div>
 
 <script>
 'use strict';
@@ -670,16 +714,11 @@ async function load() {
 }
 
 function getCutoff(days) {
-  // Obtém a data/hora atual no fuso de Brasília (UTC-3)
   const now = new Date();
   const brDate = new Date(now.toLocaleString('en-US', { timeZone: 'America/Sao_Paulo' }));
-  
-  // Define o corte: 6h30 (BRT) do dia atual menos 'days' dias
-  // Ex.: para days=1, o corte será 6h30 do dia anterior ao dia atual
   const cutoff = new Date(brDate);
   cutoff.setDate(cutoff.getDate() - days);
   cutoff.setHours(6, 30, 0, 0);
-  
   return cutoff.getTime();
 }
 
@@ -744,6 +783,7 @@ function render() {
   if (!filtered.length) {
     document.getElementById('list').innerHTML = '<div class="empty">Nenhuma matéria com os filtros atuais.</div>';
     updateActionBar();
+    document.getElementById('sources-container').innerHTML = '';
     return;
   }
 
@@ -762,7 +802,6 @@ function render() {
     });
   }
 
-  // Ordenação dos grupos conforme a prioridade definida
   const orderedKeys = Object.keys(groups).sort((a, b) => {
     if (a === '— OUTROS') return 1;
     if (b === '— OUTROS') return -1;
@@ -821,6 +860,35 @@ function render() {
   });
 
   updateActionBar();
+  renderSourcesTable(filtered);
+}
+
+function renderSourcesTable(articles) {
+  const container = document.getElementById('sources-container');
+  if (!articles.length) {
+    container.innerHTML = '';
+    return;
+  }
+
+  const counts = {};
+  articles.forEach(a => {
+    const src = extractSource(a.url) || '(desconhecida)';
+    counts[src] = (counts[src] || 0) + 1;
+  });
+
+  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  const total = articles.length;
+  let html = '<section class="sources-section">';
+  html += '<h2>📊 Notícias por fonte (filtro atual)</h2>';
+  html += '<table class="sources-table"><thead><tr><th>Fonte</th><th class="count">Notícias</th><th class="count">%</th></tr></thead><tbody>';
+
+  sorted.forEach(([source, count]) => {
+    const pct = ((count / total) * 100).toFixed(1);
+    html += `<tr><td>${esc(source)}</td><td class="count">${count}</td><td class="count">${pct}%</td></tr>`;
+  });
+
+  html += '</tbody></table></section>';
+  container.innerHTML = html;
 }
 
 function toggleSelect(url) {
