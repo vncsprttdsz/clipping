@@ -885,11 +885,9 @@ function renderSourcesTable(articles) {
     return;
   }
 
+  // Ordena por contagem decrescente e, em caso de empate, alfabeticamente
   const sorted = Object.entries(counts).sort((a, b) => {
-    // Fontes monitoradas primeiro, depois as demais, alfabéticas
-    const aMonitored = MONITORED_SOURCES.includes(a[0]) ? 0 : 1;
-    const bMonitored = MONITORED_SOURCES.includes(b[0]) ? 0 : 1;
-    if (aMonitored !== bMonitored) return aMonitored - bMonitored;
+    if (b[1] !== a[1]) return b[1] - a[1];
     return a[0].localeCompare(b[0]);
   });
 
