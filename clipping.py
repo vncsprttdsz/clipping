@@ -305,6 +305,28 @@ def fetch_html_fallback(url: str) -> List[Article]:
         return []
 
 
+# ============================================================
+# Função para normalizar URLs e evitar duplicatas
+# ============================================================
+def normalize_url(url: str) -> str:
+    """
+    Remove prefixos de redirecionamento comuns (Folha, UOL) para obter a URL canônica.
+    Exemplo:
+    'https://redir.folha.com.br/redir/online/mercado/rss091/*https://www1.folha.uol.com.br/...'
+    -> 'https://www1.folha.uol.com.br/...'
+    """
+    # Padrão Folha: .../rss091/*URL_REAL
+    match = re.search(r'/\*?(https?://[^\s]+)$', url)
+    if match:
+        return match.group(1)
+    # Padrão UOL (economia.uol.com.br com ? no final)
+    match = re.search(r'^(https?://[^\s?]+\.ghtml?)', url)
+    if match:
+        # Remove parâmetros de query desnecessários (ex.: ?)
+        return match.group(1)
+    return url
+
+
 def render_markdown(articles: List[Article]) -> str:
     today = datetime.now().strftime("%d/%m/%Y")
     out = [f"# Clipping - {today}\n"]
@@ -381,10 +403,16 @@ def run(since_hours: int, output_format: str, min_score: float,
                     print(f"  OK {url}: {len(items)} itens", file=sys.stderr)
                     articles.extend(items)
 
+    # Deduplicação usando URL normalizada
     by_url = {}
     for a in articles:
-        if a.url not in by_url:
-            by_url[a.url] = a
+        norm_url = normalize_url(a.url)
+        if norm_url not in by_url:
+            by_url[norm_url] = a
+        else:
+            # (Opcional) Se quiser manter o artigo com maior score ou data mais recente,
+            # poderia comparar aqui. Por simplicidade, mantemos o primeiro encontrado.
+            pass
     articles = list(by_url.values())
 
     for a in articles:
@@ -395,12 +423,12 @@ def run(since_hours: int, output_format: str, min_score: float,
         a for a in articles
         if a.score >= min_score
         and (not cutoff or not a.published or a.published >= cutoff)
-        and a.url not in seen
+        and normalize_url(a.url) not in seen
     ]
     filtered.sort(key=lambda a: (-a.score, -(a.published.timestamp() if a.published else 0)))
 
     if not dry_run and not include_seen:
-        save_seen(seen | {a.url for a in filtered})
+        save_seen(seen | {normalize_url(a.url) for a in filtered})
 
     if output_format == "json":
         return render_json(filtered)
@@ -448,7 +476,8 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         print(f"[rescore] {len(rescored)} mantidos, {dropped} descartados",
               file=sys.stderr)
 
-    existing_urls = {a.get("url") for a in existing}
+    # Normaliza URLs existentes para comparação
+    existing_urls = {normalize_url(a.get("url", "")) for a in existing}
 
     fetched: List[Article] = []
     print(f"Buscando {len(FEED_URLS)} feeds...", file=sys.stderr)
@@ -468,14 +497,23 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
                 print(f"  OK HTML {url}: {len(items)} itens", file=sys.stderr)
                 fetched.extend(items)
 
+    # Deduplicação nos fetched
+    by_url = {}
+    for a in fetched:
+        norm_url = normalize_url(a.url)
+        if norm_url not in by_url:
+            by_url[norm_url] = a
+    fetched = list(by_url.values())
+
     new_count = 0
     for a in fetched:
-        if a.url in existing_urls:
+        norm_url = normalize_url(a.url)
+        if norm_url in existing_urls:
             continue
         score_article(a)
         if a.score >= 1:
             existing.append(a.to_json())
-            existing_urls.add(a.url)
+            existing_urls.add(norm_url)
             new_count += 1
 
     cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
