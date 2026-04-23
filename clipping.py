@@ -78,59 +78,74 @@ SECTORS = load_keywords()
 # ============================================================
 
 FEED_URLS = [
-    # Valor Economico
+    # ----- Valor Econômico -----
     "https://pox.globo.com/rss/valor/empresas",
     "https://pox.globo.com/rss/valor/financas",
     "https://pox.globo.com/rss/valor/brasil",
+    "https://pox.globo.com/rss/valor/legislacao",
+    "https://pox.globo.com/rss/valor/politica",
     "https://pox.globo.com/rss/valor",
     "https://www.valor.com.br/rss",
-    # Folha de S.Paulo
+
+    # ----- Folha de S.Paulo -----
     "https://feeds.folha.uol.com.br/mercado/rss091.xml",
     "https://feeds.folha.uol.com.br/folha/dinheiro/rss091.xml",
-    # Estadao (padrao Arc Publishing)
+    "https://feeds.folha.uol.com.br/poder/rss091.xml",
+    "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/",
+
+    # ----- Estadão -----
     "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
     "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/",
-    # O Globo
+    "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
+    "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/negocios/",
+
+    # ----- O Globo -----
     "https://pox.globo.com/rss/oglobo/economia",
-    # Exame
+    "https://pox.globo.com/rss/oglobo/politica",
+    "https://pox.globo.com/rss/oglobo/negocios",
+
+    # ----- Outros portais brasileiros -----
     "https://exame.com/feed/",
-    # Veja
     "https://veja.abril.com.br/feed",
     "https://veja.abril.com.br/economia/feed",
-    # UOL Economia
     "https://rss.uol.com.br/feed/economia.xml",
-    # Bloomberg Linea
-    "https://www.bloomberglinea.com.br/feed/",
-    # Financial Times
-    "https://www.ft.com/rss/home",
-    # BBC Business
-    "http://feeds.bbci.co.uk/news/business/rss.xml",
-    # CNBC
-    "https://www.cnbc.com/id/10001147/device/rss/rss.html",
-    # Reuters Business
-    "https://www.reuters.com/arc/outboundfeeds/businessNews/?outputType=xml",
-    # Forbes Business
-    "https://www.forbes.com/business/feed/",
-    # JOTA
     "https://www.jota.info/feed",
-    # Época Negócios
-    "https://epocanegocios.globo.com/rss/ultimas/feed.xml",
-    # Mercado e Consumo
     "https://mercadoeconsumo.com.br/feed/",
-    # Ámbito Financiero
+
+    # ----- Internacionais -----
+    "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    "https://www.forbes.com/business/feed/",
+    "http://feeds.bbci.co.uk/news/business/rss.xml",
     "https://www.ambito.com/rss/economia.xml",
-    # iProUP
     "https://www.iproup.com/feed",
-    # El Economista (México)
-    "https://www.eleconomista.com.mx/rss/",
-    # El Financiero (México)
-    "https://www.elfinanciero.com.mx/arc/outboundfeeds/feed/rss/home/?outputType=xml",
+
+    # ----- Feeds via Google News (fallback para sites com RSS bloqueado) -----
+    "https://news.google.com/rss/search?q=site:bloomberglinea.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+    "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
+    "https://news.google.com/rss/search?q=site:elfinanciero.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
 ]
 
 HTML_FALLBACK_PAGES = [
+    # Valor Econômico
     "https://valor.globo.com/empresas/",
     "https://valor.globo.com/financas/",
-    # Anvisa e Receita Federal (governo)
+    "https://valor.globo.com/legislacao/",
+    "https://valor.globo.com/politica/",
+
+    # Folha de S.Paulo
+    "https://www1.folha.uol.com.br/poder/",
+    "https://www1.folha.uol.com.br/legislacao/",
+
+    # Estadão
+    "https://www.estadao.com.br/politica/",
+    "https://www.estadao.com.br/legislacao/",
+
+    # O Globo
+    "https://oglobo.globo.com/politica/",
+    "https://oglobo.globo.com/legislacao/",
+
+    # Governo Federal
     "https://www.gov.br/anvisa/pt-br/assuntos/noticias",
     "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
 ]
