@@ -153,13 +153,22 @@ FEED_URLS = [
 # Feeds experimentais - testa uma vez em vez de em todo run.
 # Movidos aqui porque estavam retornando 0 itens com frequencia.
 EXPERIMENTAL_FEEDS = [
+    # Já existentes
     "https://pox.globo.com/rss/oglobo/negocios",
     "https://www.ambito.com/rss/economia.xml",
     "https://www.iproup.com/feed",
     "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://news.google.com/rss/search?q=site:elfinanciero.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/",
+    "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best",
+    "https://www.ft.com/rss/home",
+    "https://www.ft.com/companies?format=rss",
+    "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+    "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+    "https://pox.globo.com/rss/epocanegocios",
+    "https://neofeed.com.br/feed/",
 ]
+
 
 HTML_FALLBACK_PAGES = [
     "https://valor.globo.com/empresas/",
