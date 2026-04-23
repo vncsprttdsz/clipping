@@ -11,7 +11,6 @@ import argparse
 import json
 import re
 import sys
-import time
 import unicodedata
 from dataclasses import dataclass, field, asdict
 from datetime import datetime, timezone, timedelta
@@ -44,23 +43,18 @@ KEYWORDS_FILE = Path(__file__).parent / "keywords.yaml"
 SEEN_DB = Path.home() / ".valor_clipping_seen.json"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 
-# Tempo maximo por feed (segundos). Era ~20s default, agora 10s.
-# Com 30+ feeds isso corta ~5 min de espera em feeds mortos.
+# Tempo maximo por feed (segundos)
 FEED_TIMEOUT = 10
 
-# Titulos lixo: matérias com títulos genéricos demais pra serem úteis.
-# Case-insensitive, match exato depois de trim.
+# Titulos lixo
 JUNK_TITLES = {
     "curtas", "giro", "resumo", "resumo do dia", "giro do dia",
     "painel", "noticias em tempo real", "últimas notícias",
     "a hora", "a hora do mercado", "panorama",
 }
 
-# Setor "so global" - nao aplicamos detector de idioma aqui,
-# pois Global Consumer aceita EN naturalmente.
 GLOBAL_SECTOR_NAME = "Global Consumer"
 
-# Setores que sao BR-only - se detectarmos EN na materia, pulamos.
 BR_ONLY_SECTORS = {
     "Fashion", "Joias", "E-commerce", "Varejo Alimentar", "Academias",
     "Cosméticos", "Farmácias", "Economia", "Material de Construção",
@@ -106,7 +100,6 @@ SECTORS = load_keywords()
 # FEEDS - confiáveis primeiro, experimentais depois
 # ============================================================
 
-# Feeds confirmados que retornam conteudo com frequencia.
 FEED_URLS = [
     # ----- Valor Econômico -----
     "https://pox.globo.com/rss/valor/empresas",
@@ -139,11 +132,18 @@ FEED_URLS = [
     "https://rss.uol.com.br/feed/economia.xml",
     "https://www.jota.info/feed",
     "https://mercadoeconsumo.com.br/feed/",
+    "https://neofeed.com.br/feed/",                # NeoFeed (oficial)
+    "https://pox.globo.com/rss/epocanegocios",     # Época Negócios (oficial)
 
     # ----- Internacionais -----
     "https://www.cnbc.com/id/10001147/device/rss/rss.html",
     "https://www.forbes.com/business/feed/",
     "http://feeds.bbci.co.uk/news/business/rss.xml",
+    "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best",
+    "https://www.ft.com/rss/home",
+    "https://www.ft.com/companies?format=rss",
+    "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+    "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
 
     # ----- Google News (fallback) -----
     "https://news.google.com/rss/search?q=site:bloomberglinea.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -151,24 +151,14 @@ FEED_URLS = [
 ]
 
 # Feeds experimentais - testa uma vez em vez de em todo run.
-# Movidos aqui porque estavam retornando 0 itens com frequencia.
 EXPERIMENTAL_FEEDS = [
-    # Já existentes
     "https://pox.globo.com/rss/oglobo/negocios",
     "https://www.ambito.com/rss/economia.xml",
     "https://www.iproup.com/feed",
     "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://news.google.com/rss/search?q=site:elfinanciero.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/",
-    "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best",
-    "https://www.ft.com/rss/home",
-    "https://www.ft.com/companies?format=rss",
-    "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-    "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
-    "https://pox.globo.com/rss/epocanegocios",
-    "https://neofeed.com.br/feed/",
 ]
-
 
 HTML_FALLBACK_PAGES = [
     "https://valor.globo.com/empresas/",
@@ -217,15 +207,12 @@ def normalize_url(url: str) -> str:
     """Remove parametros de rastreamento e redirecionamentos para dedup."""
     if not url:
         return ""
-    # Folha: extrai URL real após '*'
     if '/rss091/*' in url:
         parts = url.split('/rss091/*')
         if len(parts) > 1:
             url = parts[-1]
-    # UOL: remove query string em páginas .ghtm
     if 'economia.uol.com.br' in url and '.ghtm' in url:
         url = url.split('?')[0]
-    # Google News: link real vem no parâmetro 'url='
     if 'news.google.com' in url and 'url=' in url:
         try:
             from urllib.parse import urlparse, parse_qs
@@ -238,15 +225,9 @@ def normalize_url(url: str) -> str:
 
 
 def normalize_title_for_dedup(title: str) -> str:
-    """
-    Normaliza titulo pra deduplicacao cross-source.
-    Ex: "'Trabalho é livre', diz Lula..." -> "trabalho e livre diz lula"
-    Remove acentos, pontuacao, espacos extras, case.
-    """
+    """Normaliza titulo para deduplicacao cross-source."""
     t = normalize(title or "")
-    # Remove tudo que nao eh letra/numero/espaco
     t = re.sub(r"[^\w\s]", " ", t)
-    # Colapsa espacos
     t = re.sub(r"\s+", " ", t).strip()
     return t
 
@@ -256,14 +237,11 @@ def is_junk_title(title: str) -> bool:
     t = (title or "").strip().lower()
     if len(t) < 15:
         return True
-    # Remove pontuacao pra comparar com JUNK_TITLES
     t_clean = re.sub(r"[^\w\s]", "", t).strip()
     return t_clean in JUNK_TITLES
 
 
-# Heuristica leve de deteccao de ingles. So precisamos detectar
-# com alta precisao em textos curtos (titulo + lead). Procuramos
-# sequencias de stop-words inglesas que raramente aparecem em PT.
+# Heuristica leve de deteccao de ingles
 _EN_INDICATORS = [
     r"\bthe\b", r"\band\b", r"\bof\b", r"\bto\b", r"\bin\b", r"\bfor\b",
     r"\bwith\b", r"\bfrom\b", r"\bthis\b", r"\bthat\b", r"\bthese\b",
@@ -273,7 +251,6 @@ _EN_INDICATORS = [
 ]
 _EN_RE = re.compile("|".join(_EN_INDICATORS), re.IGNORECASE)
 
-# Stop-words PT pra desempatar (se tem MUITAS PT, provavelmente nao eh EN).
 _PT_INDICATORS = [
     r"\bde\b", r"\bda\b", r"\bdo\b", r"\bno\b", r"\bna\b", r"\bdos\b",
     r"\bdas\b", r"\bnos\b", r"\bnas\b", r"\bque\b", r"\bcom\b",
@@ -325,22 +302,14 @@ def _alias_matches(pattern: str, scope_text: str, requires_any: Optional[list],
 
 
 def score_article(a: Article) -> None:
-    """
-    Aplica matching e preenche matched_sectors, matched_aliases, score.
-
-    Se o texto for detectado como ingles, só consideramos setores globais
-    (Global Consumer). Isso evita matérias internacionais aparecerem em
-    setores BR-only sem necessidade.
-    """
+    """Aplica matching e preenche matched_sectors, matched_aliases, score."""
     title_n = normalize(a.title)
     full_n = normalize(f"{a.title} {a.summary}")
     matched_aliases = set()
 
-    # Decide quais setores considerar baseado no idioma
     article_is_english = is_english(f"{a.title} {a.summary}")
 
     for sector_name, rules in SECTORS.items():
-        # Pula setores BR-only se artigo eh EN
         if article_is_english and sector_name in BR_ONLY_SECTORS:
             continue
 
@@ -394,12 +363,10 @@ def parse_entry(entry, source: str) -> Optional[Article]:
 
 
 def fetch_rss(url: str) -> List[Article]:
-    """Busca um feed RSS. Timeout agressivo pra nao travar em feeds mortos."""
+    """Busca um feed RSS."""
     try:
-        # feedparser aceita 'timeout' como kwarg via request_headers
         d = feedparser.parse(url, agent=USER_AGENT,
                              request_headers={'Cache-Control': 'no-cache'})
-        # Se o feed nao responde, bail out rapido
         if not d.entries:
             return []
         return [a for a in (parse_entry(e, url) for e in d.entries) if a]
@@ -449,16 +416,7 @@ def fetch_html_fallback(url: str) -> List[Article]:
 
 
 def dedup_articles(articles: List[Article]) -> List[Article]:
-    """
-    Dedup em 2 passos:
-    1. URL normalizada (mesma lógica de sempre)
-    2. Título normalizado - pega cross-source duplicates
-       (ex: mesma matéria em Valor e O Globo)
-
-    Em caso de titulo igual, preserva o que tem data mais nova
-    (ou o primeiro se ambos sem data).
-    """
-    # Passo 1: dedup por URL
+    """Dedup por URL normalizada e título normalizado."""
     by_url = {}
     for a in articles:
         norm_url = normalize_url(a.url)
@@ -466,15 +424,12 @@ def dedup_articles(articles: List[Article]) -> List[Article]:
             by_url[norm_url] = a
     articles = list(by_url.values())
 
-    # Passo 2: dedup por titulo normalizado
     by_title = {}
     for a in articles:
         key = normalize_title_for_dedup(a.title)
         if not key:
-            # titulo vazio? pula
             continue
         if key in by_title:
-            # Escolhe o mais recente
             existing = by_title[key]
             if a.published and (not existing.published or a.published > existing.published):
                 by_title[key] = a
@@ -608,7 +563,6 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         rescored = []
         dropped = 0
         for a_dict in existing:
-            # Filtra title lixo em rescore tambem
             if is_junk_title(a_dict.get("title", "")):
                 dropped += 1
                 continue
@@ -639,7 +593,6 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
     existing_titles = {normalize_title_for_dedup(a.get("title", ""))
                        for a in existing if a.get("title")}
 
-    # Feeds principais + experimentais (opcional)
     feed_list = FEED_URLS[:]
     if probe_experimental:
         feed_list = feed_list + EXPERIMENTAL_FEEDS
@@ -664,7 +617,6 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
                 print(f"  OK HTML {url}: {len(items)} itens", file=sys.stderr)
                 fetched.extend(items)
 
-    # Dedup dos recem-buscados
     fetched = dedup_articles(fetched)
 
     new_count = 0
@@ -674,12 +626,10 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         norm_url = normalize_url(a.url)
         norm_title = normalize_title_for_dedup(a.title)
 
-        # Dedup contra JSON existente (URL + titulo)
         if norm_url in existing_urls or (norm_title and norm_title in existing_titles):
             dup_count += 1
             continue
 
-        # Filtro temporal
         if a.published and a.published < cutoff_time:
             continue
 
