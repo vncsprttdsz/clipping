@@ -82,10 +82,15 @@ def load_keywords():
         rules = []
         for item in entries:
             if isinstance(item, str):
-                rules.append({"alias": item, "requires_any": None})
+                rules.append({"alias": item, "requires_any": None, "requires_none": None})
             elif isinstance(item, dict) and "alias" in item:
-                req = item.get("requires_any") or []
-                rules.append({"alias": item["alias"], "requires_any": req})
+                req_any = item.get("requires_any") or []
+                req_none = item.get("requires_none") or []
+                rules.append({
+                    "alias": item["alias"],
+                    "requires_any": req_any,
+                    "requires_none": req_none,
+                })
             else:
                 sys.exit(f"Setor {sector_name}: entrada invalida {item}")
         sectors[sector_name] = rules
@@ -148,6 +153,13 @@ FEED_URLS = [
     # ----- Google News (fallback) -----
     "https://news.google.com/rss/search?q=site:bloomberglinea.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+
+    # ----- Google News: Saúde (GLP-1, canetas emagrecedoras) -----
+    "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=saude+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=saude+site:uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
 ]
 
 # Feeds experimentais - testa uma vez em vez de em todo run.
@@ -170,6 +182,12 @@ HTML_FALLBACK_PAGES = [
     "https://oglobo.globo.com/politica/",
     "https://www.gov.br/anvisa/pt-br/assuntos/noticias",
     "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
+    # Seções de Saúde (scraping direto)
+    "https://oglobo.globo.com/saude/",
+    "https://valor.globo.com/saude/",
+    "https://www1.folha.uol.com.br/equilibrioesaude/",
+    "https://www.estadao.com.br/saude/",
+    "https://noticias.uol.com.br/saude/",
 ]
 
 
@@ -286,19 +304,30 @@ def save_seen(urls: set) -> None:
 # Matching
 # ============================================================
 
-def _alias_matches(pattern: str, scope_text: str, requires_any: Optional[list],
+def _alias_matches(pattern: str, scope_text: str,
+                   requires_any: Optional[list],
+                   requires_none: Optional[list],
                    full_text: str) -> bool:
-    """Checa se o alias casa no `scope_text` e se o contexto exigido esta presente."""
+    """Checa se o alias casa no `scope_text` e se o contexto exigido/proibido esta presente."""
     if not re.search(pattern, scope_text):
         return False
-    if not requires_any:
-        return True
-    for req in requires_any:
-        req_n = normalize(req)
-        req_pat = rf"\b{re.escape(req_n)}\b"
-        if re.search(req_pat, full_text):
-            return True
-    return False
+    if requires_any:
+        any_match = False
+        for req in requires_any:
+            req_n = normalize(req)
+            req_pat = rf"\b{re.escape(req_n)}\b"
+            if re.search(req_pat, full_text):
+                any_match = True
+                break
+        if not any_match:
+            return False
+    if requires_none:
+        for ban in requires_none:
+            ban_n = normalize(ban)
+            ban_pat = rf"\b{re.escape(ban_n)}\b"
+            if re.search(ban_pat, full_text):
+                return False
+    return True
 
 
 def score_article(a: Article) -> None:
@@ -306,7 +335,6 @@ def score_article(a: Article) -> None:
     title_n = normalize(a.title)
     full_n = normalize(f"{a.title} {a.summary}")
     matched_aliases = set()
-
     article_is_english = is_english(f"{a.title} {a.summary}")
 
     for sector_name, rules in SECTORS.items():
@@ -318,14 +346,17 @@ def score_article(a: Article) -> None:
         for rule in rules:
             al_n = normalize(rule["alias"])
             pattern = rf"\b{re.escape(al_n)}\b"
-            req = rule["requires_any"]
-            if _alias_matches(pattern, title_n, req, full_n):
+            req_any = rule.get("requires_any")
+            req_none = rule.get("requires_none")
+
+            if _alias_matches(pattern, title_n, req_any, req_none, full_n):
                 hit_in_title = True
                 matched_aliases.add(rule["alias"])
                 break
-            if _alias_matches(pattern, full_n, req, full_n):
+            if _alias_matches(pattern, full_n, req_any, req_none, full_n):
                 hit_in_body = True
                 matched_aliases.add(rule["alias"])
+
         if hit_in_title or hit_in_body:
             a.matched_sectors.append(sector_name)
             a.score += 20 if hit_in_title else 10
