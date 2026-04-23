@@ -69,6 +69,10 @@ sectors:
       requires_any: [loja, marca, moda, vestuário, azzas, grupo]
     - alias: vans
       requires_any: [tênis, calçado, sneaker, moda, loja, marca]
+    - alias: americanas
+      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
+    - alias: lojas americanas
+      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
 
   # ------------------------------------------------------------
   # JOIAS
@@ -140,6 +144,12 @@ sectors:
     # Magazine Luiza (contexto)
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, ações, logística]
+    - alias: americanas
+      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
+    - alias: lojas americanas
+      requires_any: [loja, varejo, ações, recuperação, crediário, varejista, magazine, balanço, trimestre, vendas]
+    - alias: c6
+      requires_any: [banco, digital, conta, fintech, crédito, investimento, maquininha]
 
   # ------------------------------------------------------------
   # VAREJO ALIMENTAR (Supermercados, atacarejo, alimentos)
