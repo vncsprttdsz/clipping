@@ -99,11 +99,40 @@ FEED_URLS = [
     "https://veja.abril.com.br/economia/feed",
     # UOL Economia
     "https://rss.uol.com.br/feed/economia.xml",
+    # Bloomberg Linea
+    "https://www.bloomberglinea.com.br/feed/",
+    # Financial Times
+    "https://www.ft.com/rss/home",
+    # BBC Business
+    "http://feeds.bbci.co.uk/news/business/rss.xml",
+    # CNBC
+    "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+    # Reuters Business
+    "https://www.reuters.com/arc/outboundfeeds/businessNews/?outputType=xml",
+    # Forbes Business
+    "https://www.forbes.com/business/feed/",
+    # JOTA
+    "https://www.jota.info/feed",
+    # Época Negócios
+    "https://epocanegocios.globo.com/rss/ultimas/feed.xml",
+    # Mercado e Consumo
+    "https://mercadoeconsumo.com.br/feed/",
+    # Ámbito Financiero
+    "https://www.ambito.com/rss/economia.xml",
+    # iProUP
+    "https://www.iproup.com/feed",
+    # El Economista (México)
+    "https://www.eleconomista.com.mx/rss/",
+    # El Financiero (México)
+    "https://www.elfinanciero.com.mx/arc/outboundfeeds/feed/rss/home/?outputType=xml",
 ]
 
 HTML_FALLBACK_PAGES = [
     "https://valor.globo.com/empresas/",
     "https://valor.globo.com/financas/",
+    # Anvisa e Receita Federal (governo)
+    "https://www.gov.br/anvisa/pt-br/assuntos/noticias",
+    "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
 ]
 
 SEEN_DB = Path.home() / ".valor_clipping_seen.json"
