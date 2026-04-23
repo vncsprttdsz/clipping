@@ -37,14 +37,43 @@ except ImportError:
 
 
 # ============================================================
-# Carrega keywords do arquivo YAML (nova estrutura por setores)
+# Configuracao
 # ============================================================
 
 KEYWORDS_FILE = Path(__file__).parent / "keywords.yaml"
+SEEN_DB = Path.home() / ".valor_clipping_seen.json"
+USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 
+# Tempo maximo por feed (segundos). Era ~20s default, agora 10s.
+# Com 30+ feeds isso corta ~5 min de espera em feeds mortos.
+FEED_TIMEOUT = 10
+
+# Titulos lixo: matérias com títulos genéricos demais pra serem úteis.
+# Case-insensitive, match exato depois de trim.
+JUNK_TITLES = {
+    "curtas", "giro", "resumo", "resumo do dia", "giro do dia",
+    "painel", "noticias em tempo real", "últimas notícias",
+    "a hora", "a hora do mercado", "panorama",
+}
+
+# Setor "so global" - nao aplicamos detector de idioma aqui,
+# pois Global Consumer aceita EN naturalmente.
+GLOBAL_SECTOR_NAME = "Global Consumer"
+
+# Setores que sao BR-only - se detectarmos EN na materia, pulamos.
+BR_ONLY_SECTORS = {
+    "Fashion", "Joias", "E-commerce", "Varejo Alimentar", "Academias",
+    "Cosméticos", "Farmácias", "Economia", "Material de Construção",
+    "Eletrônicos", "Viagens", "Pet", "Wellness e Esportes",
+}
+
+
+# ============================================================
+# Carrega keywords
+# ============================================================
 
 def load_keywords():
-    """Carrega os setores do novo keywords.yaml."""
+    """Carrega os setores do keywords.yaml."""
     if not KEYWORDS_FILE.exists():
         sys.exit(f"Arquivo nao encontrado: {KEYWORDS_FILE}")
     try:
@@ -74,9 +103,10 @@ SECTORS = load_keywords()
 
 
 # ============================================================
-# FEEDS
+# FEEDS - confiáveis primeiro, experimentais depois
 # ============================================================
 
+# Feeds confirmados que retornam conteudo com frequencia.
 FEED_URLS = [
     # ----- Valor Econômico -----
     "https://pox.globo.com/rss/valor/empresas",
@@ -91,7 +121,6 @@ FEED_URLS = [
     "https://feeds.folha.uol.com.br/mercado/rss091.xml",
     "https://feeds.folha.uol.com.br/folha/dinheiro/rss091.xml",
     "https://feeds.folha.uol.com.br/poder/rss091.xml",
-    "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/",
 
     # ----- Estadão -----
     "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
@@ -102,7 +131,6 @@ FEED_URLS = [
     # ----- O Globo -----
     "https://pox.globo.com/rss/oglobo/economia",
     "https://pox.globo.com/rss/oglobo/politica",
-    "https://pox.globo.com/rss/oglobo/negocios",
 
     # ----- Outros portais brasileiros -----
     "https://exame.com/feed/",
@@ -116,43 +144,39 @@ FEED_URLS = [
     "https://www.cnbc.com/id/10001147/device/rss/rss.html",
     "https://www.forbes.com/business/feed/",
     "http://feeds.bbci.co.uk/news/business/rss.xml",
-    "https://www.ambito.com/rss/economia.xml",
-    "https://www.iproup.com/feed",
 
-    # ----- Feeds via Google News (fallback para sites com RSS bloqueado) -----
+    # ----- Google News (fallback) -----
     "https://news.google.com/rss/search?q=site:bloomberglinea.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+]
+
+# Feeds experimentais - testa uma vez em vez de em todo run.
+# Movidos aqui porque estavam retornando 0 itens com frequencia.
+EXPERIMENTAL_FEEDS = [
+    "https://pox.globo.com/rss/oglobo/negocios",
+    "https://www.ambito.com/rss/economia.xml",
+    "https://www.iproup.com/feed",
     "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://news.google.com/rss/search?q=site:elfinanciero.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
+    "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/",
 ]
 
 HTML_FALLBACK_PAGES = [
-    # Valor Econômico
     "https://valor.globo.com/empresas/",
     "https://valor.globo.com/financas/",
     "https://valor.globo.com/legislacao/",
     "https://valor.globo.com/politica/",
-
-    # Folha de S.Paulo
     "https://www1.folha.uol.com.br/poder/",
-    "https://www1.folha.uol.com.br/legislacao/",
-
-    # Estadão
     "https://www.estadao.com.br/politica/",
-    "https://www.estadao.com.br/legislacao/",
-
-    # O Globo
     "https://oglobo.globo.com/politica/",
-    "https://oglobo.globo.com/legislacao/",
-
-    # Governo Federal
     "https://www.gov.br/anvisa/pt-br/assuntos/noticias",
     "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
 ]
 
-SEEN_DB = Path.home() / ".valor_clipping_seen.json"
-USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 
+# ============================================================
+# Data model
+# ============================================================
 
 @dataclass
 class Article:
@@ -171,9 +195,92 @@ class Article:
         return d
 
 
+# ============================================================
+# Helpers
+# ============================================================
+
 def normalize(text: str) -> str:
     nfkd = unicodedata.normalize("NFKD", (text or "").lower())
     return "".join(c for c in nfkd if not unicodedata.combining(c))
+
+
+def normalize_url(url: str) -> str:
+    """Remove parametros de rastreamento e redirecionamentos para dedup."""
+    if not url:
+        return ""
+    # Folha: extrai URL real após '*'
+    if '/rss091/*' in url:
+        parts = url.split('/rss091/*')
+        if len(parts) > 1:
+            url = parts[-1]
+    # UOL: remove query string em páginas .ghtm
+    if 'economia.uol.com.br' in url and '.ghtm' in url:
+        url = url.split('?')[0]
+    # Google News: link real vem no parâmetro 'url='
+    if 'news.google.com' in url and 'url=' in url:
+        try:
+            from urllib.parse import urlparse, parse_qs
+            q = parse_qs(urlparse(url).query)
+            if 'url' in q:
+                url = q['url'][0]
+        except Exception:
+            pass
+    return url.rstrip('/')
+
+
+def normalize_title_for_dedup(title: str) -> str:
+    """
+    Normaliza titulo pra deduplicacao cross-source.
+    Ex: "'Trabalho é livre', diz Lula..." -> "trabalho e livre diz lula"
+    Remove acentos, pontuacao, espacos extras, case.
+    """
+    t = normalize(title or "")
+    # Remove tudo que nao eh letra/numero/espaco
+    t = re.sub(r"[^\w\s]", " ", t)
+    # Colapsa espacos
+    t = re.sub(r"\s+", " ", t).strip()
+    return t
+
+
+def is_junk_title(title: str) -> bool:
+    """Rejeita titulos muito curtos ou genericos."""
+    t = (title or "").strip().lower()
+    if len(t) < 15:
+        return True
+    # Remove pontuacao pra comparar com JUNK_TITLES
+    t_clean = re.sub(r"[^\w\s]", "", t).strip()
+    return t_clean in JUNK_TITLES
+
+
+# Heuristica leve de deteccao de ingles. So precisamos detectar
+# com alta precisao em textos curtos (titulo + lead). Procuramos
+# sequencias de stop-words inglesas que raramente aparecem em PT.
+_EN_INDICATORS = [
+    r"\bthe\b", r"\band\b", r"\bof\b", r"\bto\b", r"\bin\b", r"\bfor\b",
+    r"\bwith\b", r"\bfrom\b", r"\bthis\b", r"\bthat\b", r"\bthese\b",
+    r"\bafter\b", r"\bbefore\b", r"\bhas\b", r"\bhave\b", r"\bwill\b",
+    r"\bsays\b", r"\breports\b", r"\bamid\b", r"\bdespite\b",
+    r"\bcompany\b", r"\bcompanies\b", r"\bsaid\b",
+]
+_EN_RE = re.compile("|".join(_EN_INDICATORS), re.IGNORECASE)
+
+# Stop-words PT pra desempatar (se tem MUITAS PT, provavelmente nao eh EN).
+_PT_INDICATORS = [
+    r"\bde\b", r"\bda\b", r"\bdo\b", r"\bno\b", r"\bna\b", r"\bdos\b",
+    r"\bdas\b", r"\bnos\b", r"\bnas\b", r"\bque\b", r"\bcom\b",
+    r"\bpara\b", r"\bpor\b", r"\bmas\b", r"\bseu\b", r"\bsua\b",
+    r"\bos\b", r"\bas\b", r"\bum\b", r"\buma\b",
+]
+_PT_RE = re.compile("|".join(_PT_INDICATORS), re.IGNORECASE)
+
+
+def is_english(text: str) -> bool:
+    """Retorna True se o texto aparenta ser em ingles (>= 3 stop-words EN e menos PT)."""
+    if not text:
+        return False
+    en_hits = len(_EN_RE.findall(text))
+    pt_hits = len(_PT_RE.findall(text))
+    return en_hits >= 3 and en_hits > pt_hits
 
 
 def load_seen() -> set:
@@ -189,25 +296,13 @@ def save_seen(urls: set) -> None:
     SEEN_DB.write_text(json.dumps(list(urls), ensure_ascii=False))
 
 
-def normalize_url(url: str) -> str:
-    """Remove parâmetros de rastreamento e redirecionamentos para deduplicação."""
-    if not url:
-        return ""
-    # Folha: extrai a URL real após '*'
-    if '/rss091/*' in url:
-        parts = url.split('/rss091/*')
-        if len(parts) > 1:
-            url = parts[-1]
-    # UOL: remove parâmetros de cache
-    if 'economia.uol.com.br' in url and '.ghtm' in url:
-        url = url.split('?')[0]
-    return url
-
+# ============================================================
+# Matching
+# ============================================================
 
 def _alias_matches(pattern: str, scope_text: str, requires_any: Optional[list],
                    full_text: str) -> bool:
-    """Checa se o alias casa no `scope_text` e se o contexto exigido
-    (palavra adicional em qualquer lugar do full_text) esta presente."""
+    """Checa se o alias casa no `scope_text` e se o contexto exigido esta presente."""
     if not re.search(pattern, scope_text):
         return False
     if not requires_any:
@@ -221,11 +316,25 @@ def _alias_matches(pattern: str, scope_text: str, requires_any: Optional[list],
 
 
 def score_article(a: Article) -> None:
+    """
+    Aplica matching e preenche matched_sectors, matched_aliases, score.
+
+    Se o texto for detectado como ingles, só consideramos setores globais
+    (Global Consumer). Isso evita matérias internacionais aparecerem em
+    setores BR-only sem necessidade.
+    """
     title_n = normalize(a.title)
     full_n = normalize(f"{a.title} {a.summary}")
     matched_aliases = set()
 
+    # Decide quais setores considerar baseado no idioma
+    article_is_english = is_english(f"{a.title} {a.summary}")
+
     for sector_name, rules in SECTORS.items():
+        # Pula setores BR-only se artigo eh EN
+        if article_is_english and sector_name in BR_ONLY_SECTORS:
+            continue
+
         hit_in_title = False
         hit_in_body = False
         for rule in rules:
@@ -246,6 +355,10 @@ def score_article(a: Article) -> None:
     a.matched_aliases = sorted(matched_aliases)
 
 
+# ============================================================
+# Fetching
+# ============================================================
+
 def parse_entry(entry, source: str) -> Optional[Article]:
     try:
         title = (entry.get("title") or "").strip()
@@ -263,6 +376,8 @@ def parse_entry(entry, source: str) -> Optional[Article]:
 
         if not title or not url:
             return None
+        if is_junk_title(title):
+            return None
         return Article(title=title, summary=summary, url=url,
                        published=published, source=source)
     except Exception:
@@ -270,8 +385,12 @@ def parse_entry(entry, source: str) -> Optional[Article]:
 
 
 def fetch_rss(url: str) -> List[Article]:
+    """Busca um feed RSS. Timeout agressivo pra nao travar em feeds mortos."""
     try:
-        d = feedparser.parse(url, agent=USER_AGENT)
+        # feedparser aceita 'timeout' como kwarg via request_headers
+        d = feedparser.parse(url, agent=USER_AGENT,
+                             request_headers={'Cache-Control': 'no-cache'})
+        # Se o feed nao responde, bail out rapido
         if not d.entries:
             return []
         return [a for a in (parse_entry(e, url) for e in d.entries) if a]
@@ -284,7 +403,7 @@ def fetch_html_fallback(url: str) -> List[Article]:
     if not HAS_HTML:
         return []
     try:
-        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=15)
+        r = requests.get(url, headers={"User-Agent": USER_AGENT}, timeout=FEED_TIMEOUT)
         r.raise_for_status()
         soup = BeautifulSoup(r.text, "html.parser")
         articles = []
@@ -309,7 +428,7 @@ def fetch_html_fallback(url: str) -> List[Article]:
             summary_tag = c.find(class_=re.compile(r"(summary|resumo|subtitulo|deck)"))
             summary = summary_tag.get_text(" ", strip=True) if summary_tag else ""
 
-            if title and len(title) > 15:
+            if title and len(title) > 15 and not is_junk_title(title):
                 articles.append(Article(
                     title=title, summary=summary, url=href,
                     published=None, source=url,
@@ -319,6 +438,45 @@ def fetch_html_fallback(url: str) -> List[Article]:
         print(f"  [html fail] {url}: {e}", file=sys.stderr)
         return []
 
+
+def dedup_articles(articles: List[Article]) -> List[Article]:
+    """
+    Dedup em 2 passos:
+    1. URL normalizada (mesma lógica de sempre)
+    2. Título normalizado - pega cross-source duplicates
+       (ex: mesma matéria em Valor e O Globo)
+
+    Em caso de titulo igual, preserva o que tem data mais nova
+    (ou o primeiro se ambos sem data).
+    """
+    # Passo 1: dedup por URL
+    by_url = {}
+    for a in articles:
+        norm_url = normalize_url(a.url)
+        if norm_url and norm_url not in by_url:
+            by_url[norm_url] = a
+    articles = list(by_url.values())
+
+    # Passo 2: dedup por titulo normalizado
+    by_title = {}
+    for a in articles:
+        key = normalize_title_for_dedup(a.title)
+        if not key:
+            # titulo vazio? pula
+            continue
+        if key in by_title:
+            # Escolhe o mais recente
+            existing = by_title[key]
+            if a.published and (not existing.published or a.published > existing.published):
+                by_title[key] = a
+        else:
+            by_title[key] = a
+    return list(by_title.values())
+
+
+# ============================================================
+# Rendering
+# ============================================================
 
 def render_markdown(articles: List[Article]) -> str:
     today = datetime.now().strftime("%d/%m/%Y")
@@ -355,6 +513,10 @@ def render_json(articles: List[Article]) -> str:
     return json.dumps([a.to_json() for a in articles], ensure_ascii=False, indent=2)
 
 
+# ============================================================
+# Run
+# ============================================================
+
 def run(since_hours: int, output_format: str, min_score: float,
         dry_run: bool, include_seen: bool) -> str:
     seen = set() if include_seen else load_seen()
@@ -379,7 +541,7 @@ def run(since_hours: int, output_format: str, min_score: float,
             articles.append(Article(title=t, summary=s, url=f"https://mock/{hash(t)}",
                                     published=datetime.now(timezone.utc), source="mock"))
     else:
-        print(f"Buscando {len(FEED_URLS)} feeds candidatos...", file=sys.stderr)
+        print(f"Buscando {len(FEED_URLS)} feeds principais...", file=sys.stderr)
         got_any_rss = False
         for url in FEED_URLS:
             items = fetch_rss(url)
@@ -396,13 +558,7 @@ def run(since_hours: int, output_format: str, min_score: float,
                     print(f"  OK {url}: {len(items)} itens", file=sys.stderr)
                     articles.extend(items)
 
-    # Deduplicação por URL normalizada
-    by_url = {}
-    for a in articles:
-        norm_url = normalize_url(a.url)
-        if norm_url not in by_url:
-            by_url[norm_url] = a
-    articles = list(by_url.values())
+    articles = dedup_articles(articles)
 
     for a in articles:
         score_article(a)
@@ -425,7 +581,7 @@ def run(since_hours: int, output_format: str, min_score: float,
 
 
 def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
-           rescore: bool = False) -> None:
+           rescore: bool = False, probe_experimental: bool = False) -> None:
     path = Path(output_path)
     path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -438,11 +594,16 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             existing = []
 
     if rescore and existing:
-        print(f"[rescore] Re-aplicando matching em {len(existing)} artigos existentes...",
+        print(f"[rescore] Re-aplicando matching em {len(existing)} artigos...",
               file=sys.stderr)
         rescored = []
         dropped = 0
         for a_dict in existing:
+            # Filtra title lixo em rescore tambem
+            if is_junk_title(a_dict.get("title", "")):
+                dropped += 1
+                continue
+
             published = None
             if a_dict.get("published"):
                 try:
@@ -466,11 +627,20 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
               file=sys.stderr)
 
     existing_urls = {normalize_url(a.get("url", "")) for a in existing}
+    existing_titles = {normalize_title_for_dedup(a.get("title", ""))
+                       for a in existing if a.get("title")}
+
+    # Feeds principais + experimentais (opcional)
+    feed_list = FEED_URLS[:]
+    if probe_experimental:
+        feed_list = feed_list + EXPERIMENTAL_FEEDS
+        print(f"[probe] incluindo {len(EXPERIMENTAL_FEEDS)} feeds experimentais",
+              file=sys.stderr)
 
     fetched: List[Article] = []
-    print(f"Buscando {len(FEED_URLS)} feeds...", file=sys.stderr)
+    print(f"Buscando {len(feed_list)} feeds...", file=sys.stderr)
     got_any_rss = False
-    for url in FEED_URLS:
+    for url in feed_list:
         items = fetch_rss(url)
         if items:
             got_any_rss = True
@@ -485,27 +655,31 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
                 print(f"  OK HTML {url}: {len(items)} itens", file=sys.stderr)
                 fetched.extend(items)
 
-    # Deduplicação local entre os recém-buscados
-    by_url = {}
-    for a in fetched:
-        norm_url = normalize_url(a.url)
-        if norm_url not in by_url:
-            by_url[norm_url] = a
-    fetched = list(by_url.values())
+    # Dedup dos recem-buscados
+    fetched = dedup_articles(fetched)
 
     new_count = 0
+    dup_count = 0
     cutoff_time = datetime.now(timezone.utc) - timedelta(hours=since_hours)
     for a in fetched:
         norm_url = normalize_url(a.url)
-        if norm_url in existing_urls:
+        norm_title = normalize_title_for_dedup(a.title)
+
+        # Dedup contra JSON existente (URL + titulo)
+        if norm_url in existing_urls or (norm_title and norm_title in existing_titles):
+            dup_count += 1
             continue
-        # Aplica filtro de data (since_hours)
+
+        # Filtro temporal
         if a.published and a.published < cutoff_time:
             continue
+
         score_article(a)
         if a.score >= 1:
             existing.append(a.to_json())
             existing_urls.add(norm_url)
+            if norm_title:
+                existing_titles.add(norm_title)
             new_count += 1
 
     keep_cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
@@ -519,7 +693,8 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         "articles": merged,
     }, ensure_ascii=False, indent=2), encoding="utf-8")
 
-    print(f"OK: {len(merged)} artigos no total ({new_count} novos) -> {output_path}",
+    print(f"OK: {len(merged)} artigos no total ({new_count} novos, "
+          f"{dup_count} duplicatas ignoradas) -> {output_path}",
           file=sys.stderr)
 
 
@@ -536,6 +711,8 @@ def main():
     p.add_argument("--rescore", action="store_true",
                    help="Re-aplica matching em todos os artigos existentes "
                         "(use depois de mudar keywords.yaml)")
+    p.add_argument("--probe-experimental", action="store_true",
+                   help="Inclui feeds experimentais na busca")
     args = p.parse_args()
 
     if args.reset_seen:
@@ -545,7 +722,8 @@ def main():
         return
 
     if args.output_json:
-        run_ci(args.output_json, args.since, args.keep_days, args.rescore)
+        run_ci(args.output_json, args.since, args.keep_days,
+               args.rescore, args.probe_experimental)
         return
 
     print(run(args.since, args.format, args.min_score,
