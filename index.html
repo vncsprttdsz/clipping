@@ -96,7 +96,7 @@
     background: none;
     border: 1px solid var(--border); color: var(--text-muted);
     padding: 6px 12px; border-radius: 6px;
-    font-size: 12px; font-weight: 500;
+    font-size: 12px; font-weight:500;
     cursor: pointer;
   }
   .filters {
@@ -554,7 +554,7 @@ const SECTOR_LABELS = {
   'Global Consumer': 'Global',
 };
 
-// NOVA ORDEM DE PRIORIDADE DEFINIDA PELO USUÁRIO
+// ORDEM DE PRIORIDADE DEFINIDA PELO USUÁRIO
 const SECTOR_PRIORITY = [
   'E-commerce',
   'Farmácias',
@@ -714,7 +714,6 @@ function filterArticles(articles) {
   });
 }
 
-// Função que retorna o setor principal baseado na prioridade
 function getPrimarySector(sectors) {
   if (!sectors || sectors.length === 0) return null;
   for (const prioritySector of SECTOR_PRIORITY) {
@@ -722,7 +721,7 @@ function getPrimarySector(sectors) {
       return prioritySector;
     }
   }
-  return sectors[0]; // fallback
+  return sectors[0];
 }
 
 function render() {
