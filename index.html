@@ -651,6 +651,9 @@ const SOURCE_PATTERNS = [
   [/uol\.com/i,                                     'UOL'],
 ];
 
+// Lista de todas as fontes monitoradas (labels únicas dos padrões, ordenadas)
+const MONITORED_SOURCES = Array.from(new Set(SOURCE_PATTERNS.map(p => p[1]))).sort();
+
 function extractSource(url) {
   if (!url) return '';
   const m = url.match(/^https?:\/\/(?:www\d*\.|feeds\.|rss\.|br\.|en\.|pt\.|api\.)?([^/]+)/i);
@@ -865,25 +868,37 @@ function render() {
 
 function renderSourcesTable(articles) {
   const container = document.getElementById('sources-container');
-  if (!articles.length) {
-    container.innerHTML = '';
-    return;
-  }
-
+  // Inicializa com todas as fontes monitoradas zeradas
   const counts = {};
+  MONITORED_SOURCES.forEach(src => { counts[src] = 0; });
+
+  // Conta artigos não manuais
   articles.forEach(a => {
+    if (a._manual) return; // ignora artigos manuais
     const src = extractSource(a.url) || '(desconhecida)';
     counts[src] = (counts[src] || 0) + 1;
   });
 
-  const sorted = Object.entries(counts).sort((a, b) => b[1] - a[1]);
-  const total = articles.length;
+  const total = articles.filter(a => !a._manual).length;
+  if (total === 0) {
+    container.innerHTML = '';
+    return;
+  }
+
+  const sorted = Object.entries(counts).sort((a, b) => {
+    // Fontes monitoradas primeiro, depois as demais, alfabéticas
+    const aMonitored = MONITORED_SOURCES.includes(a[0]) ? 0 : 1;
+    const bMonitored = MONITORED_SOURCES.includes(b[0]) ? 0 : 1;
+    if (aMonitored !== bMonitored) return aMonitored - bMonitored;
+    return a[0].localeCompare(b[0]);
+  });
+
   let html = '<section class="sources-section">';
   html += '<h2>📊 Notícias por fonte (filtro atual)</h2>';
   html += '<table class="sources-table"><thead><tr><th>Fonte</th><th class="count">Notícias</th><th class="count">%</th></tr></thead><tbody>';
 
   sorted.forEach(([source, count]) => {
-    const pct = ((count / total) * 100).toFixed(1);
+    const pct = total > 0 ? ((count / total) * 100).toFixed(1) : '0.0';
     html += `<tr><td>${esc(source)}</td><td class="count">${count}</td><td class="count">${pct}%</td></tr>`;
   });
 
