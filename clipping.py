@@ -130,6 +130,16 @@ FEED_URLS = [
     "https://pox.globo.com/rss/oglobo/economia",
     "https://pox.globo.com/rss/oglobo/politica",
 
+    # ----- Pipeline Valor (M&A, negocios) -----
+    # Tentamos multiplos endpoints seguindo o padrao pox.globo.com /rss/<produto>
+    # que ja funciona pro Valor principal, O Globo, Epoca Negocios.
+    # Tambem agregamos via Google News como backup, caso os feeds nativos
+    # nao existam ou sejam instaveis.
+    "https://pox.globo.com/rss/pipelinevalor",
+    "https://pox.globo.com/rss/pipelinevalor/ultimas",
+    "https://pox.globo.com/rss/pipelinevalor/negocios",
+    "https://news.google.com/rss/search?q=site:pipelinevalor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+
     # ----- Outros portais brasileiros -----
     "https://exame.com/feed/",
     "https://veja.abril.com.br/feed",
@@ -177,6 +187,9 @@ HTML_FALLBACK_PAGES = [
     "https://valor.globo.com/financas/",
     "https://valor.globo.com/legislacao/",
     "https://valor.globo.com/politica/",
+    # Pipeline Valor - se nenhum RSS funcionar, scrape direto
+    "https://pipelinevalor.globo.com/",
+    "https://pipelinevalor.globo.com/negocios/",
     "https://www1.folha.uol.com.br/poder/",
     "https://www.estadao.com.br/politica/",
     "https://oglobo.globo.com/politica/",
