@@ -43,10 +43,8 @@ KEYWORDS_FILE = Path(__file__).parent / "keywords.yaml"
 SEEN_DB = Path.home() / ".valor_clipping_seen.json"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 
-# Tempo maximo por feed (segundos)
 FEED_TIMEOUT = 10
 
-# Titulos lixo
 JUNK_TITLES = {
     "curtas", "giro", "resumo", "resumo do dia", "giro do dia",
     "painel", "noticias em tempo real", "últimas notícias",
@@ -131,10 +129,6 @@ FEED_URLS = [
     "https://pox.globo.com/rss/oglobo/politica",
 
     # ----- Pipeline Valor (M&A, negocios) -----
-    # Tentamos multiplos endpoints seguindo o padrao pox.globo.com /rss/<produto>
-    # que ja funciona pro Valor principal, O Globo, Epoca Negocios.
-    # Tambem agregamos via Google News como backup, caso os feeds nativos
-    # nao existam ou sejam instaveis.
     "https://pox.globo.com/rss/pipelinevalor",
     "https://pox.globo.com/rss/pipelinevalor/ultimas",
     "https://pox.globo.com/rss/pipelinevalor/negocios",
@@ -147,8 +141,8 @@ FEED_URLS = [
     "https://rss.uol.com.br/feed/economia.xml",
     "https://www.jota.info/feed",
     "https://mercadoeconsumo.com.br/feed/",
-    "https://neofeed.com.br/feed/",                # NeoFeed (oficial)
-    "https://pox.globo.com/rss/epocanegocios",     # Época Negócios (oficial)
+    "https://neofeed.com.br/feed/",
+    "https://pox.globo.com/rss/epocanegocios",
 
     # ----- Internacionais -----
     "https://www.cnbc.com/id/10001147/device/rss/rss.html",
@@ -172,7 +166,6 @@ FEED_URLS = [
     "https://news.google.com/rss/search?q=saude+site:uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
 ]
 
-# Feeds experimentais - testa uma vez em vez de em todo run.
 EXPERIMENTAL_FEEDS = [
     "https://pox.globo.com/rss/oglobo/negocios",
     "https://www.ambito.com/rss/economia.xml",
@@ -187,7 +180,6 @@ HTML_FALLBACK_PAGES = [
     "https://valor.globo.com/financas/",
     "https://valor.globo.com/legislacao/",
     "https://valor.globo.com/politica/",
-    # Pipeline Valor - se nenhum RSS funcionar, scrape direto
     "https://pipelinevalor.globo.com/",
     "https://pipelinevalor.globo.com/negocios/",
     "https://www1.folha.uol.com.br/poder/",
@@ -195,7 +187,6 @@ HTML_FALLBACK_PAGES = [
     "https://oglobo.globo.com/politica/",
     "https://www.gov.br/anvisa/pt-br/assuntos/noticias",
     "https://www.gov.br/receitafederal/pt-br/assuntos/noticias",
-    # Seções de Saúde (scraping direto)
     "https://oglobo.globo.com/saude/",
     "https://valor.globo.com/saude/",
     "https://www1.folha.uol.com.br/equilibrioesaude/",
@@ -234,25 +225,94 @@ def normalize(text: str) -> str:
     return "".join(c for c in nfkd if not unicodedata.combining(c))
 
 
-def normalize_url(url: str) -> str:
-    """Remove parametros de rastreamento e redirecionamentos para dedup."""
+# Cache em memória pra evitar resolver a mesma URL 2x no mesmo run
+_REDIRECT_CACHE: dict = {}
+
+
+def _resolve_redirect(url: str, max_hops: int = 3) -> Optional[str]:
+    """
+    Faz um HEAD request seguindo redirects. Retorna a URL final ou None
+    em caso de erro/timeout. Tem timeout curto pra nao atrasar muito o run.
+    Cache em memória evita redundância.
+    """
+    if not HAS_HTML:
+        return None
+    if url in _REDIRECT_CACHE:
+        return _REDIRECT_CACHE[url]
+    try:
+        r = requests.head(url, headers={"User-Agent": USER_AGENT},
+                          allow_redirects=True, timeout=5)
+        final = r.url
+        result = final if final and final != url else None
+        _REDIRECT_CACHE[url] = result
+        return result
+    except Exception:
+        _REDIRECT_CACHE[url] = None
+        return None
+
+
+def clean_url(url: str) -> str:
+    """
+    Limpa a URL pra exibição (essa é a URL salva no JSON e exibida no app).
+
+    - Folha redir: extrai URL real após '/rss091/*'
+    - UOL: remove query string em paginas .htm
+    - Google News: tenta resolver redirect HTTP pra extrair URL real
+    - Outras: retorna sem trailing slash
+    """
     if not url:
         return ""
+
+    # Folha: o link real vem após '/rss091/*'
     if '/rss091/*' in url:
-        parts = url.split('/rss091/*')
-        if len(parts) > 1:
-            url = parts[-1]
-    if 'economia.uol.com.br' in url and '.ghtm' in url:
+        parts = url.split('/rss091/*', 1)
+        if len(parts) == 2 and parts[1].startswith('http'):
+            url = parts[1]
+
+    # UOL: remove query string em paginas .htm
+    if 'economia.uol.com.br' in url and '.htm' in url:
         url = url.split('?')[0]
-    if 'news.google.com' in url and 'url=' in url:
+
+    # Google News (formato moderno: link real codificado, sem query string)
+    if 'news.google.com' in url:
+        # Primeiro tenta query string ?url= (formato antigo)
+        if 'url=' in url:
+            try:
+                from urllib.parse import urlparse, parse_qs
+                q = parse_qs(urlparse(url).query)
+                if 'url' in q:
+                    return q['url'][0].rstrip('/')
+            except Exception:
+                pass
+        # Senão, segue redirect HTTP (formato novo /articles/<base64>)
+        resolved = _resolve_redirect(url)
+        if resolved and 'news.google.com' not in resolved:
+            url = resolved
+
+    return url.rstrip('/')
+
+
+def dedup_key(url: str) -> str:
+    """Chave usada apenas para deduplicação. Aplica clean_url e remove
+    parâmetros de tracking comuns."""
+    cleaned = clean_url(url)
+    if not cleaned:
+        return ""
+    if '?' in cleaned:
+        from urllib.parse import urlparse, parse_qsl, urlencode, urlunparse
         try:
-            from urllib.parse import urlparse, parse_qs
-            q = parse_qs(urlparse(url).query)
-            if 'url' in q:
-                url = q['url'][0]
+            parsed = urlparse(cleaned)
+            q = [(k, v) for k, v in parse_qsl(parsed.query)
+                 if not k.startswith('utm_') and k not in ('gclid', 'fbclid', '_ga')]
+            cleaned = urlunparse(parsed._replace(query=urlencode(q)))
+            cleaned = cleaned.rstrip('?').rstrip('/')
         except Exception:
             pass
-    return url.rstrip('/')
+    return cleaned
+
+
+# Backwards-compat alias
+normalize_url = dedup_key
 
 
 def normalize_title_for_dedup(title: str) -> str:
@@ -263,11 +323,8 @@ def normalize_title_for_dedup(title: str) -> str:
     fontes diferentes (Google News, redir.folha, etc.)
     """
     t = normalize(title or "")
-    # 1. Normaliza pontuacao (vira espaco) antes de tentar remover sufixo,
-    #    pra pegar variantes com e sem ponto ("S.Paulo" / "S Paulo")
     t = re.sub(r"[^\w\s]", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
-    # 2. Remove sufixo " - <veiculo>" / " — <veiculo>" do final
     t = re.sub(
         r"\s+(estadao|folha de s paulo|folha de sao paulo|folha|"
         r"valor economico|valor|o globo|globo|veja|exame|"
@@ -402,6 +459,9 @@ def parse_entry(entry, source: str) -> Optional[Article]:
     try:
         title = (entry.get("title") or "").strip()
         url = (entry.get("link") or "").strip()
+        # Limpa URL antes de salvar no Article (resolve redirects do Google News,
+        # extrai URL real do redir.folha, etc.)
+        url = clean_url(url)
         raw_summary = entry.get("summary") or entry.get("description") or ""
         summary = re.sub(r"<[^>]+>", " ", raw_summary)
         summary = re.sub(r"\s+", " ", summary).strip()
@@ -467,7 +527,7 @@ def fetch_html_fallback(url: str) -> List[Article]:
 
             if title and len(title) > 15 and not is_junk_title(title):
                 articles.append(Article(
-                    title=title, summary=summary, url=href,
+                    title=title, summary=summary, url=clean_url(href),
                     published=None, source=url,
                 ))
         return articles
@@ -480,9 +540,9 @@ def dedup_articles(articles: List[Article]) -> List[Article]:
     """Dedup por URL normalizada e título normalizado."""
     by_url = {}
     for a in articles:
-        norm_url = normalize_url(a.url)
-        if norm_url and norm_url not in by_url:
-            by_url[norm_url] = a
+        nu = dedup_key(a.url)
+        if nu and nu not in by_url:
+            by_url[nu] = a
     articles = list(by_url.values())
 
     by_title = {}
@@ -593,12 +653,12 @@ def run(since_hours: int, output_format: str, min_score: float,
         a for a in articles
         if a.score >= min_score
         and (not cutoff or not a.published or a.published >= cutoff)
-        and normalize_url(a.url) not in seen
+        and dedup_key(a.url) not in seen
     ]
     filtered.sort(key=lambda a: (-a.score, -(a.published.timestamp() if a.published else 0)))
 
     if not dry_run and not include_seen:
-        save_seen(seen | {normalize_url(a.url) for a in filtered})
+        save_seen(seen | {dedup_key(a.url) for a in filtered})
 
     if output_format == "json":
         return render_json(filtered)
@@ -637,7 +697,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             a = Article(
                 title=a_dict.get("title", ""),
                 summary=a_dict.get("summary", ""),
-                url=a_dict.get("url", ""),
+                url=clean_url(a_dict.get("url", "")),
                 published=published,
                 source=a_dict.get("source", ""),
             )
@@ -650,7 +710,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         print(f"[rescore] {len(rescored)} mantidos, {dropped} descartados",
               file=sys.stderr)
 
-    existing_urls = {normalize_url(a.get("url", "")) for a in existing}
+    existing_urls = {dedup_key(a.get("url", "")) for a in existing}
     existing_titles = {normalize_title_for_dedup(a.get("title", ""))
                        for a in existing if a.get("title")}
 
@@ -684,10 +744,10 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
     dup_count = 0
     cutoff_time = datetime.now(timezone.utc) - timedelta(hours=since_hours)
     for a in fetched:
-        norm_url = normalize_url(a.url)
+        nu = dedup_key(a.url)
         norm_title = normalize_title_for_dedup(a.title)
 
-        if norm_url in existing_urls or (norm_title and norm_title in existing_titles):
+        if nu in existing_urls or (norm_title and norm_title in existing_titles):
             dup_count += 1
             continue
 
@@ -697,7 +757,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         score_article(a)
         if a.score >= 1:
             existing.append(a.to_json())
-            existing_urls.add(norm_url)
+            existing_urls.add(nu)
             if norm_title:
                 existing_titles.add(norm_title)
             new_count += 1
