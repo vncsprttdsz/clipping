@@ -1,13 +1,24 @@
 # ============================================================
-# KEYWORDS DO CLIPPING - VERSÃO FINAL CONSOLIDADA
+# KEYWORDS DO CLIPPING - VERSÃO POR SETORES TEMÁTICOS
+# ============================================================
+#
+# REGRA DE OURO: empresas globais sem operação brasileira
+# relevante ficam SÓ em "Global Consumer". Evita que uma
+# matéria sobre Zara Espanha apareça em Fashion BR e Global.
+#
+# Formatos:
+#   - alias_simples              (string - match direto)
+#   - alias: <termo>             (dict - requer contexto)
+#     requires_any: [...]
+#     requires_none: [...]       (opcional - bloqueia se aparecer)
 # ============================================================
 
 sectors:
   # ------------------------------------------------------------
-  # FASHION (Moda, vestuário, calçados, móveis/decoração)
+  # FASHION (Moda BR - vestuário, calçados, decoração)
   # ------------------------------------------------------------
   Fashion:
-    # Aliases simples (inequívocos)
+    # Simples - marcas/varejistas com operação BR clara
     - renner
     - lojas renner
     - lren
@@ -28,12 +39,8 @@ sectors:
     - aramis
     - larroudé
     - maria filó
-    - converse
-    - bershka
     - camicado
     - dafiti
-    - lacoste
-    - skechers
     - grendene
     - tania bulhões
     - westwing
@@ -45,7 +52,6 @@ sectors:
     - tok&stok
     - mobly
     - guararapes
-    - taxa das blusinhas
 
     # Aliases ambíguos (exigem contexto)
     - alias: farm
@@ -63,16 +69,11 @@ sectors:
   # JOIAS
   # ------------------------------------------------------------
   Joias:
-    # Simples
     - vivara
     - life by vivara
     - joalheria
     - joias
     - diamante
-    - cartier
-    - rolex
-    - tiffany
-    - tiffany & co
     - pandora
 
     # Ambíguos
@@ -82,10 +83,10 @@ sectors:
       requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
 
   # ------------------------------------------------------------
-  # E-COMMERCE (Marketplaces, plataformas digitais)
+  # E-COMMERCE BR (Marketplaces, plataformas digitais, fintechs)
   # ------------------------------------------------------------
   E-commerce:
-    # Simples
+    # Simples - players com operação BR relevante
     - mercado livre
     - mercadolibre
     - mercado pago
@@ -97,7 +98,7 @@ sectors:
     - aliexpress
     - tiktok shop
     - magalu
-    - luiza trajano
+    - magazine luiza
     - casas bahia
     - ponto frio
     - bhia3
@@ -117,8 +118,28 @@ sectors:
     - rappi
     - entrega rápida
     - daki
+    # Logística / fulfillment (relevante pra e-commerce e varejo)
+    - centro de distribuição
+    - centros de distribuição
+    - galpões logísticos
+    - galpão logístico
+    - last mile
+    - fulfillment
 
     # Ambíguos
+    - alias: galpões
+      # "galpões" sozinho pega galpao industrial, agro, etc. Exige
+      # contexto logístico ou de varejo.
+      requires_any: [logístic, vacância, distribuição, e-commerce, varejo,
+                     mercado livre, shopee, amazon, magalu, fulfillment,
+                     last mile, condomínio logístico, ldb, log commercial,
+                     comércio eletrônico]
+    - alias: logística
+      # "logística" sozinho casa em qualquer noticia. Exige contexto
+      # de varejo/e-commerce ou empresa especifica.
+      requires_any: [galpão, galpões, vacância, centro de distribuição,
+                     fulfillment, last mile, mercado livre, shopee, amazon,
+                     magalu, varejo, e-commerce, comércio eletrônico]
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, logística]
     - alias: americanas
@@ -152,7 +173,6 @@ sectors:
     - sendas
     - gpa
     - grupo pão de açúcar
-    - carrefour
     - atacadão
     - atakadão
     - roldão
@@ -171,9 +191,7 @@ sectors:
     - mix mateus
     - ilson mateus
     - oxxo
-    - grupo dia
     - st. marche
-    - piracanjuba
     - cacau show
     - kopenhagen
     - brasil cacau
@@ -206,13 +224,18 @@ sectors:
       requires_any: [supermercado, atacarejo, varejo, receita, vendas]
     - alias: casino
       requires_any: [supermercado, varejo, gpa, pão de açúcar, ações, controlador, francês]
+    - alias: carrefour
+      # Carrefour brasileiro (CRFB3). Global fica em Global Consumer.
+      requires_any: [brasil, atacadao, atacadão, grupo, supermercado,
+                     hipermercado, atacarejo, ações, loja, lojas, crfb3]
+    - alias: tenda
+      # "Tenda" também é construtora (Construtora Tenda) - precisa contexto
+      requires_any: [atacado, supermercado, atacarejo, varejo, alimentos, compra]
 
   # ------------------------------------------------------------
   # ACADEMIAS (Fitness, bem-estar)
   # ------------------------------------------------------------
   Academias:
-    # Simples
-    - smart fit
     - smartfit
     - bio ritmo
     - total pass
@@ -227,16 +250,18 @@ sectors:
     - smft3
     - ultra academia
     - espaçolaser
-    - planet fitness
+    - f45
+    - crossfit
 
     # Ambíguos
     - alias: smart fit
-      requires_any: [academia, fitness, musculação, bem-estar, saúde]
+      requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
 
   # ------------------------------------------------------------
   # COSMÉTICOS (Beleza, perfumaria)
   # ------------------------------------------------------------
   Cosméticos:
+    # Simples BR
     - natura
     - avon
     - boticário
@@ -244,10 +269,6 @@ sectors:
     - vult
     - eudora
     - quem disse berenice
-    - l'oréal
-    - loreal
-    - nivea
-    - isdin
     - jequiti
     - hinode
     - beleza na web
@@ -256,29 +277,32 @@ sectors:
     - aura beauty
     - wepink
     - vonny
-    - estée lauder
-    - jo malone
-    - puig
     - bel cosméticos
     - mundo do cabeleireiro
     - buddha spa
     - truss
     - principia
     - sallve
-    - bath & body works
-    - the ordinary
     - cosmético
     - perfumaria
     - maquiagem
     - skincare
 
+    # Ambíguos - marcas multinacionais com presença BR
+    - alias: l'oréal
+      requires_any: [brasil, natura, sephora, sallve, distribuição, loja, cosmético,
+                     varejo, vendas, mercado, trimestre, estimativas, receita]
+    - alias: loreal
+      requires_any: [brasil, natura, sephora, sallve, distribuição, loja, cosmético,
+                     varejo, vendas, mercado, trimestre, estimativas, receita]
+    - alias: nivea
+      requires_any: [brasil, loja, distribuição, cosmético, pele, hidratante, varejo]
+    - alias: aura
+      # "Aura" palavra comum - precisa do sobrenome Beauty
+      requires_any: [beauty, beleza, cosmético, cosmeticos, ana hickmann]
+
   # ------------------------------------------------------------
   # FARMÁCIAS (Drogarias brasileiras, distribuição de medicamentos)
-  # ------------------------------------------------------------
-  # NOTA: GLP-1/emagrecedores só caem aqui com contexto BR claro
-  # (Anvisa, SUS, redes brasileiras, etc.). Angulo global/
-  # corporativo (Novo Nordisk/Lilly earnings, FDA, etc.) vai pra
-  # Global Consumer naturalmente.
   # ------------------------------------------------------------
   Farmácias:
     # Simples - redes brasileiras e marcas nacionais
@@ -290,7 +314,9 @@ sectors:
     - d1000
     - profarma
     - farmácia
+    - farmácias
     - drogaria
+    - drogarias
     - ems
     - medley
     - cimed
@@ -314,34 +340,51 @@ sectors:
                      medicamento, remédio, similar, laboratorio]
 
     # GLP-1 / emagrecedores no angulo BR (distribuição em farmacia,
-    # Anvisa, SUS). Sem contexto -> Global Consumer.
-    # "canetas emagrecedoras" sozinho nao basta (ex: "Boom de canetas
-    # emagrecedoras nos EUA" é tema global).
+    # Anvisa, SUS, farmaceuticas brasileiras).
     - alias: glp-1
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, distribuição, prescrição,
-                     receita médica, fabricante brasileira]
+                     pague menos, panvel, distribuição, distribuir,
+                     prescrição, receita médica, fabricante brasileira,
+                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
+                     parceria farmacêutica, parceria com a novo nordisk,
+                     parceria com a eli lilly]
     - alias: ozempic
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, distribuição, prescrição,
-                     receita médica, fabricante brasileira, preço no brasil]
+                     pague menos, panvel, distribuição, distribuir,
+                     prescrição, receita médica, fabricante brasileira,
+                     preço no brasil, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi, parceria farmacêutica,
+                     parceria com a novo nordisk]
     - alias: wegovy
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, distribuição, prescrição,
-                     receita médica, fabricante brasileira, preço no brasil]
+                     pague menos, panvel, distribuição, distribuir,
+                     prescrição, receita médica, fabricante brasileira,
+                     preço no brasil, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi, parceria farmacêutica,
+                     parceria com a novo nordisk]
     - alias: mounjaro
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, distribuição, prescrição]
+                     pague menos, panvel, distribuição, distribuir,
+                     prescrição, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi, parceria farmacêutica,
+                     parceria com a eli lilly]
     - alias: zepbound
-      requires_any: [anvisa, sus, farmácia, distribuição, prescrição]
+      requires_any: [anvisa, sus, farmácia, distribuição, distribuir,
+                     prescrição, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi]
     - alias: semaglutida
-      requires_any: [anvisa, sus, farmácia, fabricante brasileira,
-                     distribuição, receita, prescrição]
+      requires_any: [anvisa, sus, farmácia, farmácias, fabricante brasileira,
+                     distribuição, distribuir, receita, prescrição,
+                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
+                     no brasil, brasileira, brasileiras, genérico, similar]
     - alias: tirzepatida
-      requires_any: [anvisa, sus, farmácia, fabricante brasileira,
-                     distribuição, prescrição]
+      requires_any: [anvisa, sus, farmácia, farmácias, fabricante brasileira,
+                     distribuição, distribuir, prescrição,
+                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
+                     no brasil, brasileira, brasileiras, genérico, similar]
     - alias: retatrutida
-      requires_any: [anvisa, sus, farmácia, fabricante brasileira]
+      requires_any: [anvisa, sus, farmácia, fabricante brasileira,
+                     eurofarma, hypera, ems, medley]
     - alias: obesidade
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, tratamento ambulatorial,
@@ -349,11 +392,22 @@ sectors:
     - alias: novo nordisk
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, fabricante brasileira,
-                     preço no brasil]
+                     preço no brasil, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi, parceria]
     - alias: eli lilly
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, fabricante brasileira,
-                     preço no brasil]
+                     preço no brasil, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi, parceria]
+    - alias: eurofarma
+      requires_any: []
+    - alias: hypera
+      requires_any: [farmacêutica, ações, balanço, trimestre, hyera, brasil,
+                     receita, mercado farmacêutico, distribuição]
+    - alias: prati-donaduzzi
+      requires_any: []
+    - alias: prati donaduzzi
+      requires_any: []
 
   # ------------------------------------------------------------
   # ECONOMIA (Macro, trabalho, tributário, consumo)
@@ -394,6 +448,17 @@ sectors:
     - salário mínimo
     - cadastro positivo
     - confiança do consumidor
+    - dívidas das famílias
+    - dívida das famílias
+    - consumo dos brasileiros
+    - consumo das famílias
+    # Bets / apostas (afetam consumo discricionário)
+    - apostas online
+    - apostas esportivas
+    - bets
+    - bettors
+    - desenrola
+    - renegociação de dívidas
     # Tendências de mercado (termos genéricos)
     - vestuário
     - calçadista
@@ -417,19 +482,16 @@ sectors:
     - home center
     - material de construção
     - construção civil
+    - minha casa minha vida
+    - casa verde e amarela
 
   # ------------------------------------------------------------
-  # ELETRÔNICOS (Varejo de eletrodomésticos, smartphones, linha branca)
+  # ELETRÔNICOS (Varejo de eletrodomésticos, smartphones, distribuidoras BR)
   # ------------------------------------------------------------
   Eletrônicos:
-    # Simples - inequivocos
+    # Simples BR
     - trocafy
     - alld3
-    - magalu
-    - mglu3
-    - bhia3
-    - casas bahia
-    - ponto frio
 
     # Ambíguos - termos genéricos que batem em materias de terras raras,
     # desconexão digital, favela chinesa, etc. Exige menção clara a
@@ -457,8 +519,6 @@ sectors:
     - alias: linha branca
       requires_any: [varejo, vendas, magalu, casas bahia, mercado,
                      eletrodoméstico, geladeira, fogão, máquina de lavar]
-    - alias: magazine luiza
-      requires_any: [varejo, digital, marketplace, logística]
     - alias: allied
       requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone,
                      trocafy, varejo, xiaomi, smartphone]
@@ -485,10 +545,10 @@ sectors:
     - alias: hotelaria
       requires_any: [rede, setor, industria, turismo, viagem, hóspede, resort]
     - alias: airbnb
-      # Airbnb frequentemente aparece como mencao lateral em feeds
-      # agregadores do Valor ("Entenda: X. Novas opcoes: Airbnb..."),
-      # crime ocorrido em apartamento de airbnb, etc. Exige contexto
-      # fortemente ligado a noticia do Airbnb como empresa.
+      # Airbnb so deve matchar quando a noticia e SOBRE o Airbnb,
+      # nao quando aparece em mencao passageira ("airbnb adiciona
+      # hoteis a plataforma" em materia de T-Mobile, crime ocorrido
+      # em apartamento de airbnb, etc.)
       requires_any: [chesky, hospedes airbnb, anfitrioes,
                      ipo airbnb, ações airbnb, faturamento airbnb,
                      ebitda airbnb, airbnb cresce, airbnb anuncia,
@@ -514,13 +574,12 @@ sectors:
     - produtos para pet
 
   # ------------------------------------------------------------
-  # WELLNESS E ESPORTES (Artigos esportivos, roupas fitness)
+  # WELLNESS E ESPORTES (Artigos esportivos, roupas fitness BR)
   # ------------------------------------------------------------
   Wellness e Esportes:
-    # Simples
+    # Simples BR
     - track&field
     - track field
-    - alo yoga
     - live!
     - pink cheeks
     - sbfg
@@ -529,31 +588,28 @@ sectors:
     - nike brasil
     - vulcabras
     - olympikus
-    - under armour
-    - adidas
     - mizuno
-    - converse
     - decathlon
-    - puma
-    - "on running"
     - artigos esportivos
     - material esportivo
     - roupas de academia
 
     # Ambíguos
     - alias: nike
-      requires_any: [vendas, loja, centauro, fisia, esportivo, varejo]
+      requires_any: [brasil, vendas, loja, centauro, fisia, esportivo, varejo]
     - alias: sbf
-      requires_any: [centauro, grupo, fisia, nike, esportivo]
+      requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
     - alias: centauro
       requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
+    - alias: adidas
+      requires_any: [brasil, loja, centauro, varejo, vendas, distribuição]
+    - alias: under armour
+      requires_any: [brasil, loja, centauro, varejo, vendas]
+    - alias: puma
+      requires_any: [brasil, loja, centauro, varejo, vendas]
 
   # ------------------------------------------------------------
   # GLOBAL CONSUMER (Notícias internacionais, empresas globais)
-  # ------------------------------------------------------------
-  # NOTA: se um alias aparece em 'ambíguos' com requires_any,
-  # NÃO repetir em 'simples' (o simples ganha precedência e
-  # ignora o contexto).
   # ------------------------------------------------------------
   Global Consumer:
     # Empresas globais inequívocas (sem operação brasileira direta)
@@ -650,8 +706,7 @@ sectors:
     - alias: airbnb
       requires_any: [ipo, stock, revenue, earnings, platform, hosts,
                      global, nasdaq, chesky]
-    # Pharma - exige contexto global (FDA, earnings, etc.) e evita
-    # BR (Anvisa, SUS, farmacias brasileiras)
+    # Pharma - exige contexto global (FDA, earnings, etc.) e evita BR
     - alias: novo nordisk
       requires_any: [fda, denmark, ozempic, wegovy, diabetes, obesity,
                      stock, earnings, shares, pharma global, us, europe]
@@ -663,27 +718,30 @@ sectors:
                      acquires, biotech, cancer, billion]
       requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
                       brasil, fabricante brasileira]
-    - alias: mounjaro
-      requires_any: [fda, eli lilly, us, pharma, stock, earnings, weight loss]
-      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
-                      brasil, fabricante brasileira]
     - alias: ozempic
       requires_any: [fda, novo nordisk, us, pharma, stock, earnings,
-                     weight loss, shortage]
+                     weight loss, shortage,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio,
+                     terapia, ensaio clínico, alternativa, substituto, reverter]
       requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
                       brasil, fabricante brasileira]
     - alias: wegovy
       requires_any: [fda, novo nordisk, us, pharma, stock, earnings,
-                     weight loss]
+                     weight loss,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio,
+                     terapia, ensaio clínico, alternativa, substituto]
       requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
                       brasil, fabricante brasileira]
     - alias: zepbound
-      requires_any: [fda, eli lilly, us, pharma, stock, earnings, weight loss]
+      requires_any: [fda, eli lilly, us, pharma, stock, earnings, weight loss,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio]
       requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel, brasil]
     - alias: glp-1
       requires_any: [fda, novo nordisk, eli lilly, us, pharma, stock,
                      earnings, weight loss, boom, cannabis, hims, obesity drug,
-                     cbd, europe, global]
+                     cbd, europe, global,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio,
+                     terapia, ensaio clínico, alternativa, substituto]
       requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
                       fabricante brasileira]
     - alias: cvs
