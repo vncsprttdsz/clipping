@@ -100,7 +100,7 @@ SECTORS = load_keywords()
 
 
 # ============================================================
-# FEEDS - confiáveis primeiro, experimentais depois
+# FEEDS
 # ============================================================
 
 FEED_URLS = [
@@ -128,7 +128,7 @@ FEED_URLS = [
     "https://pox.globo.com/rss/oglobo/economia",
     "https://pox.globo.com/rss/oglobo/politica",
 
-    # ----- Pipeline Valor (M&A, negocios) -----
+    # ----- Pipeline Valor -----
     "https://pox.globo.com/rss/pipelinevalor",
     "https://pox.globo.com/rss/pipelinevalor/ultimas",
     "https://pox.globo.com/rss/pipelinevalor/negocios",
@@ -158,7 +158,7 @@ FEED_URLS = [
     "https://news.google.com/rss/search?q=site:bloomberglinea.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
 
-    # ----- Google News: Saúde (GLP-1, canetas emagrecedoras) -----
+    # ----- Google News: Saúde -----
     "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -225,37 +225,68 @@ def normalize(text: str) -> str:
     return "".join(c for c in nfkd if not unicodedata.combining(c))
 
 
-# Cache em memória pra evitar resolver a mesma URL 2x no mesmo run
+# Cache em memoria pra evitar resolver a mesma URL 2x no mesmo run
 _REDIRECT_CACHE: dict = {}
 
 
 def _resolve_redirect(url: str, max_hops: int = 3) -> Optional[str]:
     """
-    Faz um HEAD request seguindo redirects. Retorna a URL final ou None
-    em caso de erro/timeout. Tem timeout curto pra nao atrasar muito o run.
-    Cache em memória evita redundância.
+    Tenta resolver redirect/Google News:
+    1. HEAD request com follow_redirects (resolve a maioria dos casos)
+    2. Se falhar e for Google News, faz GET e tenta extrair URL real
+       de meta refresh ou link tags
+    Retorna a URL final ou None em caso de erro/timeout.
     """
     if not HAS_HTML:
         return None
     if url in _REDIRECT_CACHE:
         return _REDIRECT_CACHE[url]
+
+    final_url = None
+
+    # Tentativa 1: HEAD com redirects
     try:
         r = requests.head(url, headers={"User-Agent": USER_AGENT},
-                          allow_redirects=True, timeout=5)
-        final = r.url
-        result = final if final and final != url else None
-        _REDIRECT_CACHE[url] = result
-        return result
+                          allow_redirects=True, timeout=8)
+        if r.url and r.url != url and 'news.google.com' not in r.url:
+            final_url = r.url
     except Exception:
-        _REDIRECT_CACHE[url] = None
-        return None
+        pass
+
+    # Tentativa 2: para Google News, GET e parse do HTML
+    if not final_url and 'news.google.com' in url:
+        try:
+            r = requests.get(url, headers={"User-Agent": USER_AGENT},
+                             allow_redirects=True, timeout=8)
+            if r.url and 'news.google.com' not in r.url:
+                final_url = r.url
+            else:
+                html = r.text[:50000]
+                # Padrao 1: meta refresh
+                m = re.search(
+                    r'<meta[^>]+http-equiv=["\']refresh["\'][^>]+url=([^"\'>]+)',
+                    html, re.IGNORECASE)
+                if m:
+                    final_url = m.group(1).strip()
+                else:
+                    # Padrao 2: <a href> apontando pra URL externa
+                    m = re.search(
+                        r'<a[^>]+href=["\'](https?://(?!news\.google\.com)[^"\']+)["\']',
+                        html)
+                    if m:
+                        final_url = m.group(1).strip()
+        except Exception:
+            pass
+
+    _REDIRECT_CACHE[url] = final_url
+    return final_url
 
 
 def clean_url(url: str) -> str:
     """
-    Limpa a URL pra exibição (essa é a URL salva no JSON e exibida no app).
+    Limpa a URL pra exibicao (essa e a URL salva no JSON e exibida no app).
 
-    - Folha redir: extrai URL real após '/rss091/*'
+    - Folha redir: extrai URL real apos '/rss091/*'
     - UOL: remove query string em paginas .htm
     - Google News: tenta resolver redirect HTTP pra extrair URL real
     - Outras: retorna sem trailing slash
@@ -263,7 +294,7 @@ def clean_url(url: str) -> str:
     if not url:
         return ""
 
-    # Folha: o link real vem após '/rss091/*'
+    # Folha: o link real vem apos '/rss091/*'
     if '/rss091/*' in url:
         parts = url.split('/rss091/*', 1)
         if len(parts) == 2 and parts[1].startswith('http'):
@@ -273,7 +304,7 @@ def clean_url(url: str) -> str:
     if 'economia.uol.com.br' in url and '.htm' in url:
         url = url.split('?')[0]
 
-    # Google News (formato moderno: link real codificado, sem query string)
+    # Google News
     if 'news.google.com' in url:
         # Primeiro tenta query string ?url= (formato antigo)
         if 'url=' in url:
@@ -284,7 +315,7 @@ def clean_url(url: str) -> str:
                     return q['url'][0].rstrip('/')
             except Exception:
                 pass
-        # Senão, segue redirect HTTP (formato novo /articles/<base64>)
+        # Senao, segue redirect HTTP (formato novo /articles/<base64>)
         resolved = _resolve_redirect(url)
         if resolved and 'news.google.com' not in resolved:
             url = resolved
@@ -293,8 +324,7 @@ def clean_url(url: str) -> str:
 
 
 def dedup_key(url: str) -> str:
-    """Chave usada apenas para deduplicação. Aplica clean_url e remove
-    parâmetros de tracking comuns."""
+    """Chave usada apenas para deduplicacao."""
     cleaned = clean_url(url)
     if not cleaned:
         return ""
@@ -318,9 +348,7 @@ normalize_url = dedup_key
 def normalize_title_for_dedup(title: str) -> str:
     """Normaliza titulo para deduplicacao cross-source.
 
-    Remove sufixos tipicos de veiculo ('- Estadão', '- Folha de S.Paulo',
-    '- Valor Econômico', etc.) pra pegar a mesma materia agregada por
-    fontes diferentes (Google News, redir.folha, etc.)
+    Remove sufixos tipicos de veiculo ('- Estadao', '- Folha de S.Paulo', etc.)
     """
     t = normalize(title or "")
     t = re.sub(r"[^\w\s]", " ", t)
@@ -366,7 +394,6 @@ _PT_RE = re.compile("|".join(_PT_INDICATORS), re.IGNORECASE)
 
 
 def is_english(text: str) -> bool:
-    """Retorna True se o texto aparenta ser em ingles (>= 3 stop-words EN e menos PT)."""
     if not text:
         return False
     en_hits = len(_EN_RE.findall(text))
@@ -395,7 +422,6 @@ def _alias_matches(pattern: str, scope_text: str,
                    requires_any: Optional[list],
                    requires_none: Optional[list],
                    full_text: str) -> bool:
-    """Checa se o alias casa no `scope_text` e se o contexto exigido/proibido esta presente."""
     if not re.search(pattern, scope_text):
         return False
     if requires_any:
@@ -418,7 +444,6 @@ def _alias_matches(pattern: str, scope_text: str,
 
 
 def score_article(a: Article) -> None:
-    """Aplica matching e preenche matched_sectors, matched_aliases, score."""
     title_n = normalize(a.title)
     full_n = normalize(f"{a.title} {a.summary}")
     matched_aliases = set()
@@ -459,8 +484,7 @@ def parse_entry(entry, source: str) -> Optional[Article]:
     try:
         title = (entry.get("title") or "").strip()
         url = (entry.get("link") or "").strip()
-        # Limpa URL antes de salvar no Article (resolve redirects do Google News,
-        # extrai URL real do redir.folha, etc.)
+        # Limpa URL antes de salvar no Article
         url = clean_url(url)
         raw_summary = entry.get("summary") or entry.get("description") or ""
         summary = re.sub(r"<[^>]+>", " ", raw_summary)
@@ -484,7 +508,6 @@ def parse_entry(entry, source: str) -> Optional[Article]:
 
 
 def fetch_rss(url: str) -> List[Article]:
-    """Busca um feed RSS."""
     try:
         d = feedparser.parse(url, agent=USER_AGENT,
                              request_headers={'Cache-Control': 'no-cache'})
@@ -537,7 +560,6 @@ def fetch_html_fallback(url: str) -> List[Article]:
 
 
 def dedup_articles(articles: List[Article]) -> List[Article]:
-    """Dedup por URL normalizada e título normalizado."""
     by_url = {}
     for a in articles:
         nu = dedup_key(a.url)
@@ -610,17 +632,9 @@ def run(since_hours: int, output_format: str, min_score: float,
     if dry_run:
         mocks = [
             ("Renner reporta alta de 8% nas vendas mesmas lojas do 3T",
-             "Lojas Renner registrou crescimento de 8% nas vendas mesmas lojas..."),
-            ("Natura avanca em plano de fusao com subsidiaria",
-             "A Natura &Co anunciou nova etapa do processo..."),
-            ("Governo estuda antecipar reforma trabalhista da jornada 6x1",
-             "O Ministerio do Trabalho confirmou estudos sobre a escala 5x2..."),
-            ("IBGE: PMC de outubro sobe 1,2% acima do consenso",
-             "A Pesquisa Mensal do Comercio mostrou alta..."),
-            ("Petrobras anuncia novo poco em Buzios",
-             "A estatal informou a descoberta..."),
-            ("Shein confirma fabrica no Brasil ate 2027",
-             "A varejista chinesa Shein formalizou..."),
+             "Lojas Renner registrou crescimento de 8%..."),
+            ("Natura avanca em plano de fusao",
+             "A Natura &Co anunciou nova etapa..."),
         ]
         for t, s in mocks:
             articles.append(Article(title=t, summary=s, url=f"https://mock/{hash(t)}",
@@ -789,8 +803,7 @@ def main():
     p.add_argument("--output-json", metavar="PATH")
     p.add_argument("--keep-days", type=int, default=7)
     p.add_argument("--rescore", action="store_true",
-                   help="Re-aplica matching em todos os artigos existentes "
-                        "(use depois de mudar keywords.yaml)")
+                   help="Re-aplica matching em todos os artigos existentes")
     p.add_argument("--probe-experimental", action="store_true",
                    help="Inclui feeds experimentais na busca")
     args = p.parse_args()
