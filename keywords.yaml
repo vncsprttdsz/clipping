@@ -536,4 +536,266 @@ sectors:
                      preço de smartphones, distribuidora de smartphones]
     - alias: linha branca
       requires_any: [varejo, vendas, magalu, casas bahia, mercado,
-                     eletrodoméstico, gelade
+                     eletrodoméstico, geladeira, fogão, máquina de lavar]
+    - alias: allied
+      requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone,
+                     trocafy, varejo, xiaomi, smartphone]
+
+  # ------------------------------------------------------------
+  # VIAGENS
+  # ------------------------------------------------------------
+  Viagens:
+    # Simples - termos inequívocos do setor
+    - despegar
+    - befly
+    - agência de viagem
+    - pacote de viagem
+    - rede hoteleira
+    - setor hoteleiro
+
+    # Ambíguos
+    - alias: turismo
+      requires_any: [cvc, despegar, befly, decolar, latam, gol, azul,
+                     hotelaria, hotéis, airbnb, agência, agencia,
+                     varejo, mercado, faturamento, balanço, ações,
+                     setor de turismo, indústria do turismo]
+      requires_none: [conteudo patrocinado, conteudo de marca,
+                      branded content, patrocinado, publieditorial,
+                      especial publicitario]
+    - alias: hotel
+      requires_any: [rede, diária, hóspede, hospedagem, temporada, férias,
+                     resort, hotelaria, viagem, cadeia, acomodação,
+                     marriott, accor, ibis]
+      requires_none: [hotel em hannover, hotel onde, hotel de luxo
+                      em viagem oficial]
+    - alias: hotelaria
+      requires_any: [rede, setor, industria, viagem, hóspede, resort]
+    - alias: airbnb
+      requires_any: [chesky, hospedes airbnb, anfitrioes,
+                     ipo airbnb, ações airbnb, faturamento airbnb,
+                     ebitda airbnb, airbnb cresce, airbnb anuncia,
+                     airbnb expande, airbnb reporta, airbnb lanca,
+                     regulação airbnb, multa airbnb]
+    - alias: cvc
+      requires_any: [viagem, turismo, pacote, agência]
+    - alias: decolar
+      requires_any: [viagem, turismo]
+
+  # ------------------------------------------------------------
+  # PET
+  # ------------------------------------------------------------
+  Pet:
+    - petz
+    - cobasi
+    - petlove
+    - life pet hub
+    - petcamp
+    - vetlove
+    - pet shop
+    - ração
+    - produtos para pet
+
+  # ------------------------------------------------------------
+  # WELLNESS E ESPORTES
+  # ------------------------------------------------------------
+  Wellness e Esportes:
+    # Simples BR
+    - track&field
+    - track field
+    - live!
+    - pink cheeks
+    - sbfg
+    - grupo sbf
+    - fisia
+    - nike brasil
+    - vulcabras
+    - olympikus
+    - mizuno
+    - decathlon
+    - artigos esportivos
+    - material esportivo
+    - roupas de academia
+
+    # Ambíguos
+    - alias: nike
+      requires_any: [brasil, vendas, loja, centauro, fisia, esportivo, varejo]
+    - alias: sbf
+      requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
+    - alias: centauro
+      requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
+    - alias: adidas
+      requires_any: [brasil, loja, centauro, varejo, vendas, distribuição]
+    - alias: under armour
+      requires_any: [brasil, loja, centauro, varejo, vendas]
+    - alias: puma
+      requires_any: [brasil, loja, centauro, varejo, vendas]
+
+  # ------------------------------------------------------------
+  # GLOBAL CONSUMER
+  # ------------------------------------------------------------
+  Global Consumer:
+    # Empresas globais inequívocas (sem operação brasileira direta)
+    - costco
+    - saks fifth avenue
+    - tesco
+    - kering
+    - richemont
+    - inditex
+    - fast retailing
+    - doordash
+    - uber eats
+    - pfizer
+    - roche
+    - puig
+    - hugo boss
+    - keeta
+    - 99 food
+    - pinduoduo
+    - coupang
+    # Temas globais
+    - weight-loss drugs
+    - obesity drugs
+    - luxury brands
+    - luxury goods
+    - bernard arnault
+    # Joias/watches de luxo
+    - cartier
+    - rolex
+    - tiffany
+
+    # Ambíguos
+    - alias: gold
+      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
+      requires_none: [medal, medalha, olimpiadas, olympic]
+    - alias: silver
+      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
+      requires_none: [medal, medalha, olimpiadas, olympic]
+    - alias: jewelry
+      requires_any: [luxury, market, sales, brand, demand, price]
+    - alias: amazon
+      requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue,
+                     bezos, jassy, earnings, antitrust, anthropic]
+    - alias: walmart
+      requires_any: [earnings, stores, revenue, us, retailer, stock, shares,
+                     guidance, inflation, bentonville, sam's club]
+      requires_none: [brasil, walmart brasil]
+    - alias: target
+      requires_any: [retail, store, sales, earnings, revenue, stock,
+                     minneapolis, minnesota]
+    - alias: etsy
+      requires_any: [marketplace, handmade, sellers, earnings, stock, us]
+    - alias: home depot
+      requires_any: [retail, sales, earnings, diy, construction]
+    - alias: lowe's
+      requires_any: [retail, sales, earnings, diy, home improvement]
+    - alias: best buy
+      requires_any: [electronics, retail, sales, earnings, ceo, store, consumer]
+    - alias: macy's
+      requires_any: [retail, department store, sales, earnings, stock]
+    - alias: prada
+      # "O Diabo Veste Prada" eh filme - exige contexto comercial real
+      requires_any: [miuccia, miu miu, milan, kering, brand, fashion house,
+                     runway, collection, earnings, sales, ações, balanço,
+                     italian luxury]
+      requires_none: [diabo veste prada, devil wears prada, anne hathaway,
+                      meryl streep, gisele bündchen, gisele bundchen,
+                      filme, sequência, sequel, hollywood]
+    - alias: chanel
+      requires_any: [karl lagerfeld, virginie viard, paris fashion week,
+                     earnings, sales, ações, brand, fashion house,
+                     creative director]
+      requires_none: [coco chanel filme, biopic, celebridade]
+    - alias: armani
+      requires_any: [giorgio armani, milan, brand, fashion house,
+                     earnings, sales, runway, collection]
+    - alias: lvmh
+      requires_any: [bernard arnault, moet hennessy, louis vuitton, tiffany,
+                     dior, sephora, fendi, celine, earnings, q1, q2, q3, q4,
+                     shares, stock, revenue, sales]
+      requires_none: [rolls-royce, ferrari, lamborghini, porsche, aston martin]
+    - alias: gucci
+      requires_any: [kering, pinault, brand, fashion house, creative director,
+                     milan, runway, collection, earnings, sales]
+      requires_none: [rolls-royce, ferrari, lamborghini]
+    - alias: hermes
+      requires_any: [birkin, kelly, dumas, action, shares, earnings,
+                     leather, bags, paris fashion]
+      requires_none: [rolls-royce, ferrari, lamborghini, porsche,
+                      messenger, mercurio, rolls royce]
+    - alias: hermès
+      requires_any: [birkin, kelly, dumas, action, shares, earnings,
+                     leather, bags, paris fashion]
+      requires_none: [rolls-royce, ferrari, lamborghini, porsche,
+                      messenger, mercurio, rolls royce]
+    - alias: zara
+      requires_any: [inditex, spain, europe, earnings, parent, fast fashion, ortega]
+    - alias: h&m
+      requires_any: [sweden, earnings, stores, europe, hennes, persson, fashion]
+    - alias: uniqlo
+      requires_any: [japan, fast retailing, asia, yanai]
+    - alias: shopify
+      requires_any: [ecommerce, platform, merchant, stock, revenue]
+    - alias: instacart
+      requires_any: [grocery, delivery, ecommerce, ipo, stock]
+    - alias: airbnb
+      requires_any: [ipo, stock, revenue, earnings, platform, hosts,
+                     global, nasdaq, chesky]
+    - alias: novo nordisk
+      requires_any: [fda, denmark, ozempic, wegovy, diabetes, obesity,
+                     stock, earnings, shares, pharma global, us, europe]
+      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
+                      brasil, fabricante brasileira]
+    - alias: eli lilly
+      requires_any: [fda, indianapolis, mounjaro, zepbound, obesity,
+                     stock, earnings, shares, pharma, us, acquisition,
+                     acquires, biotech, cancer, billion]
+      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
+                      brasil, fabricante brasileira]
+    - alias: ozempic
+      requires_any: [fda, novo nordisk, us, pharma, stock, earnings,
+                     weight loss, shortage,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio,
+                     terapia, ensaio clínico, alternativa, substituto, reverter]
+      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
+                      brasil, fabricante brasileira]
+    - alias: wegovy
+      requires_any: [fda, novo nordisk, us, pharma, stock, earnings,
+                     weight loss,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio,
+                     terapia, ensaio clínico, alternativa, substituto]
+      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
+                      brasil, fabricante brasileira]
+    - alias: zepbound
+      requires_any: [fda, eli lilly, us, pharma, stock, earnings, weight loss,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio]
+      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel, brasil]
+    - alias: glp-1
+      requires_any: [fda, novo nordisk, eli lilly, us, pharma, stock,
+                     earnings, weight loss, boom, cannabis, hims, obesity drug,
+                     cbd, europe, global,
+                     descoberta, cientistas, pesquisadores, estudo, hormônio,
+                     terapia, ensaio clínico, alternativa, substituto]
+      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
+                      fabricante brasileira]
+    - alias: cvs
+      requires_any: [pharmacy, retail, health, sales, earnings, stock, us]
+    - alias: estée lauder
+      requires_any: [beauty, cosmetics, sales, earnings, stock, global]
+    - alias: lululemon
+      requires_any: [athleisure, yoga, apparel, sales, earnings, stock,
+                     ceo, nike]
+    - alias: skechers
+      requires_any: [earnings, footwear, sneaker, stock, us]
+    - alias: lacoste
+      requires_any: [fashion, brand, sales, europe, france]
+    - alias: puma
+      requires_any: [germany, adidas, sportswear, earnings, global, stock]
+    - alias: converse
+      requires_any: [nike, sneaker, footwear, brand, retro, earnings]
+    - alias: on running
+      requires_any: [switzerland, running, athlete, earnings, stock, footwear]
+    - alias: hims & hers
+      requires_any: [telehealth, stock, us, earnings, nasdaq, prescription,
+                     peptide, glp]
+    - alias: decathlon
+      requires_any: [france, europe, stores, global, sports, retailer]
