@@ -61,7 +61,6 @@ sectors:
     - alias: vans
       requires_any: [tênis, calçado, sneaker, moda, loja, marca]
     - alias: marisa
-      # "Marisa" também é nome proprio comum. Exige contexto de varejo.
       requires_any: [lojas, loja, moda, vestuário, varejo, amaro, feminina,
                      ações, balanço, trimestre, amar3]
 
@@ -69,18 +68,32 @@ sectors:
   # JOIAS
   # ------------------------------------------------------------
   Joias:
+    # Simples
     - vivara
     - life by vivara
     - joalheria
-    - joias
     - diamante
+    - cartier
+    - rolex
+    - tiffany
+    - tiffany & co
     - pandora
 
     # Ambíguos
+    - alias: joias
+      # "joias" em listagens de patrimônio ("carros, embarcações e joias")
+      # em operações policiais era falso positivo. Exige contexto comercial.
+      requires_any: [vivara, joalheria, varejo, marca, coleção, lançamento,
+                     setor de joias, mercado de joias, anel, colar, brinco,
+                     relógio, faturamento, balanço, ações, ouro, prata]
+      requires_none: [apreendidas, apreendeu, polícia federal, operação policial,
+                      patrimônio, lavagem, sequestro de bens]
     - alias: ouro
       requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
+      requires_none: [medal, medalha]
     - alias: prata
       requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
+      requires_none: [medal, medalha]
 
   # ------------------------------------------------------------
   # E-COMMERCE BR (Marketplaces, plataformas digitais, fintechs)
@@ -118,7 +131,7 @@ sectors:
     - rappi
     - entrega rápida
     - daki
-    # Logística / fulfillment (relevante pra e-commerce e varejo)
+    # Logística / fulfillment
     - centro de distribuição
     - centros de distribuição
     - galpões logísticos
@@ -128,24 +141,17 @@ sectors:
 
     # Ambíguos
     - alias: galpões
-      # "galpões" sozinho pega galpao industrial, agro, etc. Exige
-      # contexto logístico ou de varejo.
       requires_any: [logístic, vacância, distribuição, e-commerce, varejo,
                      mercado livre, shopee, amazon, magalu, fulfillment,
                      last mile, condomínio logístico, ldb, log commercial,
                      comércio eletrônico]
     - alias: logística
-      # "logística" sozinho casa em qualquer noticia. Exige contexto
-      # de varejo/e-commerce ou empresa especifica.
       requires_any: [galpão, galpões, vacância, centro de distribuição,
                      fulfillment, last mile, mercado livre, shopee, amazon,
                      magalu, varejo, e-commerce, comércio eletrônico]
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, logística]
     - alias: americanas
-      # "companhias americanas", "empresas americanas", "tecnologias americanas",
-      # etc. (gentilico) eram match falso. Exige termos muito específicos
-      # da empresa varejista brasileira.
       requires_any: [recuperação judicial, b2w, submarino, shoptime,
                      fraude contábil, mhirdaui, rodrigo saraiva,
                      amer3, lasa11, americanas s.a., americanas sa]
@@ -164,7 +170,7 @@ sectors:
       requires_any: [shop, ecommerce, vendas, marketplace, live commerce]
 
   # ------------------------------------------------------------
-  # VAREJO ALIMENTAR (Supermercados, atacarejo, alimentos)
+  # VAREJO ALIMENTAR
   # ------------------------------------------------------------
   Varejo Alimentar:
     # Simples
@@ -198,9 +204,6 @@ sectors:
 
     # Ambíguos
     - alias: supermercado
-      # "ir ao supermercado" como expressão casual (Rolls-Royce de US$ 1mi
-      # comparado a "carrinho de supermercado", etc) era match falso.
-      # Exige menção a empresa/operação real de supermercado.
       requires_any: [carrefour, gpa, assaí, assai, sendas, atacadão,
                      pão de açúcar, pao de acucar, zaffari, muffato,
                      bretas, atacarejo, hipermercado, rede de supermercados,
@@ -225,15 +228,13 @@ sectors:
     - alias: casino
       requires_any: [supermercado, varejo, gpa, pão de açúcar, ações, controlador, francês]
     - alias: carrefour
-      # Carrefour brasileiro (CRFB3). Global fica em Global Consumer.
       requires_any: [brasil, atacadao, atacadão, grupo, supermercado,
                      hipermercado, atacarejo, ações, loja, lojas, crfb3]
     - alias: tenda
-      # "Tenda" também é construtora (Construtora Tenda) - precisa contexto
       requires_any: [atacado, supermercado, atacarejo, varejo, alimentos, compra]
 
   # ------------------------------------------------------------
-  # ACADEMIAS (Fitness, bem-estar)
+  # ACADEMIAS
   # ------------------------------------------------------------
   Academias:
     - smartfit
@@ -258,7 +259,7 @@ sectors:
       requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
 
   # ------------------------------------------------------------
-  # COSMÉTICOS (Beleza, perfumaria)
+  # COSMÉTICOS
   # ------------------------------------------------------------
   Cosméticos:
     # Simples BR
@@ -288,7 +289,7 @@ sectors:
     - maquiagem
     - skincare
 
-    # Ambíguos - marcas multinacionais com presença BR
+    # Ambíguos
     - alias: l'oréal
       requires_any: [brasil, natura, sephora, sallve, distribuição, loja, cosmético,
                      varejo, vendas, mercado, trimestre, estimativas, receita]
@@ -298,14 +299,13 @@ sectors:
     - alias: nivea
       requires_any: [brasil, loja, distribuição, cosmético, pele, hidratante, varejo]
     - alias: aura
-      # "Aura" palavra comum - precisa do sobrenome Beauty
       requires_any: [beauty, beleza, cosmético, cosmeticos, ana hickmann]
 
   # ------------------------------------------------------------
-  # FARMÁCIAS (Drogarias brasileiras, distribuição de medicamentos)
+  # FARMÁCIAS
   # ------------------------------------------------------------
   Farmácias:
-    # Simples - redes brasileiras e marcas nacionais
+    # Simples
     - raiadrogasil
     - pague menos
     - extrafarma
@@ -321,26 +321,19 @@ sectors:
     - medley
     - cimed
 
-    # Ambíguos - aliases comuns
+    # Ambíguos
     - alias: raia
       requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
     - alias: droga raia
       requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
     - alias: drogasil
       requires_any: [droga, raia, farmácia, medicamento, genérico, saúde]
-
-    # Medicamento e genérico isolados pegam qualquer noticia de pharma
-    # (incluindo remedio experimental contra cancer etc). Exige contexto
-    # de farmácia comercial brasileira.
     - alias: medicamento
       requires_any: [farmácia, drogaria, raia, drogasil, pague menos, panvel,
                      dpsp, distribuição, venda, receita, varejo, anvisa]
     - alias: genérico
       requires_any: [farmácia, drogaria, raia, drogasil, pague menos, panvel,
                      medicamento, remédio, similar, laboratorio]
-
-    # GLP-1 / emagrecedores no angulo BR (distribuição em farmacia,
-    # Anvisa, SUS, farmaceuticas brasileiras).
     - alias: glp-1
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, distribuição, distribuir,
@@ -410,10 +403,10 @@ sectors:
       requires_any: []
 
   # ------------------------------------------------------------
-  # ECONOMIA (Macro, trabalho, tributário, consumo)
+  # ECONOMIA
   # ------------------------------------------------------------
   Economia:
-    # Trabalho
+    # Trabalho - termos especificos, baixo risco de falso positivo
     - escala 6x1
     - escala 5x2
     - jornada 40 horas
@@ -422,7 +415,6 @@ sectors:
     - redução de jornada
     - carga horária
     # Tributário
-    - reforma tributária
     - ibs
     - cbs
     - imposto seletivo
@@ -434,7 +426,7 @@ sectors:
     - icms-st
     - difal
     - convênio icms
-    # Macro consumo
+    # Macro consumo - termos especificos
     - pmc
     - pesquisa mensal do comercio
     - vendas no varejo
@@ -444,27 +436,56 @@ sectors:
     - endividamento das famílias
     - comprometimento de renda
     - inadimplência
-    - bolsa família
-    - salário mínimo
     - cadastro positivo
-    - confiança do consumidor
     - dívidas das famílias
     - dívida das famílias
     - consumo dos brasileiros
     - consumo das famílias
-    # Bets / apostas (afetam consumo discricionário)
     - apostas online
     - apostas esportivas
-    - bets
     - bettors
     - desenrola
     - renegociação de dívidas
-    # Tendências de mercado (termos genéricos)
+    # Tendências de mercado
     - vestuário
     - calçadista
     - varejo de moda
     - lei da moda
     - fast fashion
+
+    # AMBÍGUOS - termos genéricos com contexto BR ou tema relevante
+    - alias: reforma tributária
+      requires_any: [varejo, consumo, ibs, cbs, alíquota, regulamentação,
+                     supermercado, cesta básica, imposto seletivo, subvenção,
+                     setor produtivo, comércio, indústria, tributos sobre consumo,
+                     indústria de bebidas, refrigerantes, tabaco, álcool]
+      requires_none: [petrobras, petróleo, gás natural, gasolina, diesel,
+                      combustível, refinaria, óleo, pré-sal]
+    - alias: bolsa família
+      requires_any: [aumento, ajuste, programa social, transferência de renda,
+                     revisão, reforma, expansão, beneficiários, miseráveis,
+                     pobres, fome, governo lula, política social,
+                     impacto, cesta básica, varejo]
+      requires_none: [calendário, quando recebe, quando cai, quando sai,
+                      número final do nis, data de pagamento, consulta cpf]
+    - alias: salário mínimo
+      requires_any: [reajuste, aumento, política, impacto, varejo, consumo,
+                     piso, governo, anúncio, valor do salário, inpc]
+      requires_none: [calendário, consulta, quanto vou receber]
+    - alias: confiança do consumidor
+      requires_any: [brasil, fgv, ibge, pesquisa nacional, consumidor brasileiro,
+                     varejo brasileiro, comércio brasileiro, mercado brasileiro,
+                     icc-fgv]
+      requires_none: [zona do euro, zona euro, eurozone, união europeia,
+                      eua, estados unidos, conference board, japão,
+                      china, alemanha, frança, reino unido, eurozona]
+    - alias: bets
+      requires_any: [varejo, consumo, regulamentação, lei das bets,
+                     vício, apostas online, apostadores, jogadores,
+                     ministério da fazenda, banco central, sigap, senacon,
+                     impacto no varejo, gastos das famílias]
+      requires_none: [dono de bets, empresário de bets, jatinho,
+                      hugo motta, ciro nogueira]
 
   # ------------------------------------------------------------
   # MATERIAL DE CONSTRUÇÃO
@@ -486,16 +507,13 @@ sectors:
     - casa verde e amarela
 
   # ------------------------------------------------------------
-  # ELETRÔNICOS (Varejo de eletrodomésticos, smartphones, distribuidoras BR)
+  # ELETRÔNICOS
   # ------------------------------------------------------------
   Eletrônicos:
-    # Simples BR
     - trocafy
     - alld3
 
-    # Ambíguos - termos genéricos que batem em materias de terras raras,
-    # desconexão digital, favela chinesa, etc. Exige menção clara a
-    # varejo brasileiro ou operação comercial.
+    # Ambíguos
     - alias: eletrônicos
       requires_any: [varejo de eletrônicos, loja de eletrônicos,
                      magalu, casas bahia, ponto frio, magazine luiza,
@@ -518,251 +536,4 @@ sectors:
                      preço de smartphones, distribuidora de smartphones]
     - alias: linha branca
       requires_any: [varejo, vendas, magalu, casas bahia, mercado,
-                     eletrodoméstico, geladeira, fogão, máquina de lavar]
-    - alias: allied
-      requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone,
-                     trocafy, varejo, xiaomi, smartphone]
-
-  # ------------------------------------------------------------
-  # VIAGENS (Turismo, hotelaria, transporte)
-  # ------------------------------------------------------------
-  Viagens:
-    # Simples - termos inequívocos do setor
-    - despegar
-    - befly
-    - agência de viagem
-    - turismo
-    - pacote de viagem
-    - rede hoteleira
-    - setor hoteleiro
-
-    # Ambíguos - termos que aparecem em outras noticias (hotel em Hannover,
-    # airbnb como local de crime, etc.) precisam de contexto real do setor
-    - alias: hotel
-      requires_any: [rede, diária, hóspede, hospedagem, temporada, férias,
-                     resort, hotelaria, turismo, viagem, cadeia, acomodação,
-                     marriott, accor, ibis]
-    - alias: hotelaria
-      requires_any: [rede, setor, industria, turismo, viagem, hóspede, resort]
-    - alias: airbnb
-      # Airbnb so deve matchar quando a noticia e SOBRE o Airbnb,
-      # nao quando aparece em mencao passageira ("airbnb adiciona
-      # hoteis a plataforma" em materia de T-Mobile, crime ocorrido
-      # em apartamento de airbnb, etc.)
-      requires_any: [chesky, hospedes airbnb, anfitrioes,
-                     ipo airbnb, ações airbnb, faturamento airbnb,
-                     ebitda airbnb, airbnb cresce, airbnb anuncia,
-                     airbnb expande, airbnb reporta, airbnb lanca,
-                     regulação airbnb, multa airbnb]
-    - alias: cvc
-      requires_any: [viagem, turismo, pacote, agência]
-    - alias: decolar
-      requires_any: [viagem, turismo]
-
-  # ------------------------------------------------------------
-  # PET
-  # ------------------------------------------------------------
-  Pet:
-    - petz
-    - cobasi
-    - petlove
-    - life pet hub
-    - petcamp
-    - vetlove
-    - pet shop
-    - ração
-    - produtos para pet
-
-  # ------------------------------------------------------------
-  # WELLNESS E ESPORTES (Artigos esportivos, roupas fitness BR)
-  # ------------------------------------------------------------
-  Wellness e Esportes:
-    # Simples BR
-    - track&field
-    - track field
-    - live!
-    - pink cheeks
-    - sbfg
-    - grupo sbf
-    - fisia
-    - nike brasil
-    - vulcabras
-    - olympikus
-    - mizuno
-    - decathlon
-    - artigos esportivos
-    - material esportivo
-    - roupas de academia
-
-    # Ambíguos
-    - alias: nike
-      requires_any: [brasil, vendas, loja, centauro, fisia, esportivo, varejo]
-    - alias: sbf
-      requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
-    - alias: centauro
-      requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
-    - alias: adidas
-      requires_any: [brasil, loja, centauro, varejo, vendas, distribuição]
-    - alias: under armour
-      requires_any: [brasil, loja, centauro, varejo, vendas]
-    - alias: puma
-      requires_any: [brasil, loja, centauro, varejo, vendas]
-
-  # ------------------------------------------------------------
-  # GLOBAL CONSUMER (Notícias internacionais, empresas globais)
-  # ------------------------------------------------------------
-  Global Consumer:
-    # Empresas globais inequívocas (sem operação brasileira direta)
-    - costco
-    - saks fifth avenue
-    - tesco
-    - kering
-    - chanel
-    - prada
-    - armani
-    - richemont
-    - inditex
-    - fast retailing
-    - doordash
-    - uber eats
-    - pfizer
-    - roche
-    - puig
-    - hugo boss
-    - keeta
-    - 99 food
-    - pinduoduo
-    - coupang
-    # Temas inequivocamente globais
-    - weight-loss drugs
-    - obesity drugs
-    - luxury brands
-    - luxury goods
-    - bernard arnault
-    # Joias/watches de luxo com forte conotacao internacional
-    - cartier
-    - rolex
-    - tiffany
-    - pandora
-
-    # Ambíguos
-    - alias: gold
-      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
-      requires_none: [medal, medalha, olimpiadas, olympic]
-    - alias: silver
-      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
-      requires_none: [medal, medalha, olimpiadas, olympic]
-    - alias: jewelry
-      requires_any: [luxury, market, sales, brand, demand, price]
-    - alias: amazon
-      requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue,
-                     bezos, jassy, earnings, antitrust, anthropic]
-    - alias: walmart
-      requires_any: [earnings, stores, revenue, us, retailer, stock, shares,
-                     guidance, inflation, bentonville, sam's club]
-      requires_none: [brasil, walmart brasil]
-    - alias: target
-      requires_any: [retail, store, sales, earnings, revenue, stock,
-                     minneapolis, minnesota]
-    - alias: etsy
-      requires_any: [marketplace, handmade, sellers, earnings, stock, us]
-    - alias: home depot
-      requires_any: [retail, sales, earnings, diy, construction]
-    - alias: lowe's
-      requires_any: [retail, sales, earnings, diy, home improvement]
-    - alias: best buy
-      requires_any: [electronics, retail, sales, earnings, ceo, store, consumer]
-    - alias: macy's
-      requires_any: [retail, department store, sales, earnings, stock]
-    - alias: lvmh
-      requires_any: [bernard arnault, moet hennessy, louis vuitton, tiffany,
-                     dior, sephora, fendi, celine, earnings, q1, q2, q3, q4,
-                     shares, stock, revenue, sales]
-      requires_none: [rolls-royce, ferrari, lamborghini, porsche, aston martin]
-    - alias: gucci
-      requires_any: [kering, pinault, brand, fashion house, creative director,
-                     milan, runway, collection, earnings, sales]
-      requires_none: [rolls-royce, ferrari, lamborghini]
-    - alias: hermes
-      requires_any: [birkin, kelly, dumas, action, shares, earnings,
-                     leather, bags, paris fashion]
-      requires_none: [rolls-royce, ferrari, lamborghini, porsche,
-                      messenger, mercurio, rolls royce]
-    - alias: hermès
-      requires_any: [birkin, kelly, dumas, action, shares, earnings,
-                     leather, bags, paris fashion]
-      requires_none: [rolls-royce, ferrari, lamborghini, porsche,
-                      messenger, mercurio, rolls royce]
-    - alias: zara
-      requires_any: [inditex, spain, europe, earnings, parent, fast fashion, ortega]
-    - alias: h&m
-      requires_any: [sweden, earnings, stores, europe, hennes, persson, fashion]
-    - alias: uniqlo
-      requires_any: [japan, fast retailing, asia, yanai]
-    - alias: shopify
-      requires_any: [ecommerce, platform, merchant, stock, revenue]
-    - alias: instacart
-      requires_any: [grocery, delivery, ecommerce, ipo, stock]
-    - alias: airbnb
-      requires_any: [ipo, stock, revenue, earnings, platform, hosts,
-                     global, nasdaq, chesky]
-    # Pharma - exige contexto global (FDA, earnings, etc.) e evita BR
-    - alias: novo nordisk
-      requires_any: [fda, denmark, ozempic, wegovy, diabetes, obesity,
-                     stock, earnings, shares, pharma global, us, europe]
-      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
-                      brasil, fabricante brasileira]
-    - alias: eli lilly
-      requires_any: [fda, indianapolis, mounjaro, zepbound, obesity,
-                     stock, earnings, shares, pharma, us, acquisition,
-                     acquires, biotech, cancer, billion]
-      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
-                      brasil, fabricante brasileira]
-    - alias: ozempic
-      requires_any: [fda, novo nordisk, us, pharma, stock, earnings,
-                     weight loss, shortage,
-                     descoberta, cientistas, pesquisadores, estudo, hormônio,
-                     terapia, ensaio clínico, alternativa, substituto, reverter]
-      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
-                      brasil, fabricante brasileira]
-    - alias: wegovy
-      requires_any: [fda, novo nordisk, us, pharma, stock, earnings,
-                     weight loss,
-                     descoberta, cientistas, pesquisadores, estudo, hormônio,
-                     terapia, ensaio clínico, alternativa, substituto]
-      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
-                      brasil, fabricante brasileira]
-    - alias: zepbound
-      requires_any: [fda, eli lilly, us, pharma, stock, earnings, weight loss,
-                     descoberta, cientistas, pesquisadores, estudo, hormônio]
-      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel, brasil]
-    - alias: glp-1
-      requires_any: [fda, novo nordisk, eli lilly, us, pharma, stock,
-                     earnings, weight loss, boom, cannabis, hims, obesity drug,
-                     cbd, europe, global,
-                     descoberta, cientistas, pesquisadores, estudo, hormônio,
-                     terapia, ensaio clínico, alternativa, substituto]
-      requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
-                      fabricante brasileira]
-    - alias: cvs
-      requires_any: [pharmacy, retail, health, sales, earnings, stock, us]
-    - alias: estée lauder
-      requires_any: [beauty, cosmetics, sales, earnings, stock, global]
-    - alias: lululemon
-      requires_any: [athleisure, yoga, apparel, sales, earnings, stock,
-                     ceo, nike]
-    - alias: skechers
-      requires_any: [earnings, footwear, sneaker, stock, us]
-    - alias: lacoste
-      requires_any: [fashion, brand, sales, europe, france]
-    - alias: puma
-      requires_any: [germany, adidas, sportswear, earnings, global, stock]
-    - alias: converse
-      requires_any: [nike, sneaker, footwear, brand, retro, earnings]
-    - alias: on running
-      requires_any: [switzerland, running, athlete, earnings, stock, footwear]
-    - alias: hims & hers
-      requires_any: [telehealth, stock, us, earnings, nasdaq, prescription,
-                     peptide, glp]
-    - alias: decathlon
-      requires_any: [france, europe, stores, global, sports, retailer]
+                     eletrodoméstico, gelade
