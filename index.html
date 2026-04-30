@@ -2,246 +2,255 @@
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
 <meta name="theme-color" content="#0a0a0a" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="mobile-web-app-capable" content="yes">
 <title>Retail Daily</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Ctext y='.9em' font-size='90'%3E📰%3C/text%3E%3C/svg%3E">
 <style>
   :root {
+    color-scheme: light dark;
     --bg: #ffffff;
-    --bg-elevated: #f7f7f7;
-    --border: #e5e5e5;
-    --text: #0f0f0f;
-    --text-muted: #6e6e6e;
-    --accent: #1a4d7a;
+    --bg-elevated: #f5f5f7;
+    --text: #1d1d1f;
+    --text-muted: #6e6e73;
+    --border: #d2d2d7;
+    --accent: #0071e3;
     --accent-fg: #ffffff;
-    --tag-bg: #eef2f6;
-    --tag-text: #1a4d7a;
-    --source-bg: #f0ebe0;
-    --source-text: #7a5f1a;
-    --selected-bg: #eef6fc;
-    --danger: #b32020;
-    --manual-badge: #d4a017;
+    --selected-bg: #e8f1ff;
+    --selected-border: #0071e3;
+    --danger: #ff3b30;
+    --tag-bg: rgba(0,113,227,0.12);
+    --tag-fg: #0071e3;
+    --alias-tag-bg: rgba(120,120,128,0.12);
+    --alias-tag-fg: #6e6e73;
+    --shadow: 0 1px 2px rgba(0,0,0,0.04);
   }
   @media (prefers-color-scheme: dark) {
     :root {
-      --bg: #0a0a0a;
-      --bg-elevated: #151515;
-      --border: #242424;
-      --text: #ececec;
-      --text-muted: #8a8a8a;
-      --accent: #7eb4e3;
-      --accent-fg: #0a0a0a;
-      --tag-bg: #1a2a38;
-      --tag-text: #8bb9dc;
-      --source-bg: #2a2618;
-      --source-text: #c9a968;
-      --selected-bg: #17283a;
-      --danger: #e06b6b;
-      --manual-badge: #e0b354;
+      --bg: #000000;
+      --bg-elevated: #1c1c1e;
+      --text: #f5f5f7;
+      --text-muted: #98989d;
+      --border: #38383a;
+      --accent: #0a84ff;
+      --accent-fg: #ffffff;
+      --selected-bg: #13325c;
+      --selected-border: #0a84ff;
+      --danger: #ff453a;
+      --tag-bg: rgba(10,132,255,0.18);
+      --tag-fg: #6cb6ff;
+      --alias-tag-bg: rgba(152,152,157,0.18);
+      --alias-tag-fg: #c0c0c5;
+      --shadow: 0 1px 2px rgba(0,0,0,0.3);
     }
   }
-  * { box-sizing: border-box; margin: 0; padding: 0; -webkit-tap-highlight-color: transparent; }
-  html { -webkit-text-size-adjust: 100%; }
+  * { box-sizing: border-box; }
+  html, body { margin: 0; padding: 0; }
   body {
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-                 "Helvetica Neue", Arial, sans-serif;
-    background: var(--bg);
-    color: var(--text);
-    font-size: 15px;
-    line-height: 1.45;
-    padding-bottom: calc(80px + env(safe-area-inset-bottom));
+    font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Text', system-ui, sans-serif;
+    background: var(--bg); color: var(--text);
+    font-size: 15px; line-height: 1.4;
+    -webkit-font-smoothing: antialiased;
+    -webkit-tap-highlight-color: transparent;
+    padding-bottom: env(safe-area-inset-bottom);
   }
   header {
     position: sticky; top: 0; z-index: 10;
-    background: color-mix(in srgb, var(--bg) 85%, transparent);
-    border-bottom: 1px solid var(--border);
-    padding: 14px 16px 10px;
+    background: color-mix(in srgb, var(--bg) 90%, transparent);
     backdrop-filter: saturate(180%) blur(12px);
     -webkit-backdrop-filter: saturate(180%) blur(12px);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
-  .header-left { flex: 1; }
-  h1 { font-size: 20px; font-weight: 600; letter-spacing: -0.02em; }
-  .meta {
-    font-size: 12px; color: var(--text-muted);
-    margin-top: 3px;
-    display: flex; align-items: center; gap: 10px;
-  }
-  .header-actions {
-    display: flex;
-    gap: 8px;
-    align-items: center;
-  }
-  .icon-btn {
-    background: none;
-    border: 1px solid var(--border);
-    color: var(--text-muted);
-    width: 36px; height: 36px;
-    border-radius: 8px;
-    font-size: 20px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    cursor: pointer;
-    transition: background 0.1s;
-  }
-  .icon-btn:active { background: var(--bg-elevated); }
-  .refresh {
-    background: none;
-    border: 1px solid var(--border); color: var(--text-muted);
-    padding: 6px 12px; border-radius: 6px;
-    font-size: 12px; font-weight:500;
-    cursor: pointer;
-  }
-  .filters {
-    padding: 8px 16px; background: var(--bg);
     border-bottom: 1px solid var(--border);
-    display: flex; gap: 6px;
-    overflow-x: auto; -webkit-overflow-scrolling: touch;
-    scrollbar-width: none;
+    padding: 14px 16px 10px;
+    padding-top: max(14px, env(safe-area-inset-top));
+  }
+  .header-row {
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 8px;
+  }
+  h1 {
+    margin: 0;
+    font-size: 22px; font-weight: 700; letter-spacing: -0.4px;
+    color: var(--text);
+  }
+  .add-btn {
+    width: 36px; height: 36px;
+    border-radius: 50%;
+    background: var(--bg-elevated);
+    color: var(--text);
+    border: 1px solid var(--border);
+    font-size: 22px;
+    font-weight: 300;
+    cursor: pointer;
+    display: flex; align-items: center; justify-content: center;
+    line-height: 1;
+    -webkit-appearance: none;
+  }
+  .add-btn:active { background: var(--border); }
+  #status {
+    font-size: 13px; color: var(--text-muted);
+    margin-top: 2px;
+  }
+  .search-bar {
+    display: flex; gap: 8px; margin-top: 10px;
+  }
+  .search-input {
+    flex: 1;
+    padding: 8px 12px;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    color: var(--text);
+    border-radius: 8px;
+    font-size: 14px;
+    -webkit-appearance: none;
+  }
+  .search-input::placeholder { color: var(--text-muted); }
+  .search-input:focus { outline: none; border-color: var(--accent); }
+  .filters {
+    display: flex; gap: 6px; padding: 10px 16px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    border-bottom: 1px solid var(--border);
   }
   .filters::-webkit-scrollbar { display: none; }
   .pill {
     flex-shrink: 0;
-    padding: 5px 12px; border: 1px solid var(--border);
-    border-radius: 14px;
-    font-size: 12px; font-weight: 500;
-    color: var(--text-muted); background: var(--bg);
-    cursor: pointer; transition: all 0.1s;
-    white-space: nowrap;
-  }
-  .pill.active {
-    background: var(--text); color: var(--bg); border-color: var(--text);
-  }
-  .search { padding: 8px 16px; border-bottom: 1px solid var(--border); }
-  .search input {
-    width: 100%; border: 1px solid var(--border);
-    background: var(--bg-elevated); color: var(--text);
-    padding: 8px 12px; border-radius: 8px; font-size: 14px;
+    padding: 6px 14px;
+    border-radius: 100px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text-muted);
+    font-size: 13px; font-weight: 500;
+    cursor: pointer;
     -webkit-appearance: none;
   }
-  .search input:focus { outline: none; border-color: var(--accent); }
-  main { padding: 0 16px 40px; }
-  .group { margin-top: 22px; }
+  .pill.active {
+    background: var(--accent); color: var(--accent-fg);
+    border-color: var(--accent);
+  }
+
+  main {
+    padding: 8px 16px 100px;
+  }
+  .group { margin-bottom: 18px; }
   .group-title {
     font-size: 11px; font-weight: 600;
-    letter-spacing: 0.08em; text-transform: uppercase;
+    text-transform: uppercase; letter-spacing: 0.6px;
     color: var(--text-muted);
-    margin-bottom: 8px; padding-bottom: 6px;
-    border-bottom: 1px solid var(--border);
-    display: flex; align-items: center;
+    padding: 16px 0 10px;
   }
-  .group-title .count { color: var(--text-muted); font-weight: 400; margin-left: 6px; }
-
+  .count {
+    display: inline-block;
+    margin-left: 6px;
+    background: var(--bg-elevated);
+    color: var(--text-muted);
+    padding: 1px 6px;
+    border-radius: 100px;
+    font-size: 10.5px; font-weight: 600;
+  }
   article {
-    display: flex; gap: 12px;
-    padding: 12px 4px;
-    border-bottom: 1px solid var(--border);
-    transition: background 0.1s;
-    position: relative;
+    background: var(--bg-elevated);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 12px 14px;
+    margin-bottom: 8px;
+    box-shadow: var(--shadow);
+    display: flex; gap: 10px; align-items: flex-start;
+    transition: background 0.15s, border-color 0.15s;
   }
   article.selected {
     background: var(--selected-bg);
-    margin: 0 -8px; padding-left: 12px; padding-right: 12px;
-    border-radius: 6px;
+    border-color: var(--selected-border);
   }
-  article:last-child { border-bottom: none; }
   .check {
     flex-shrink: 0;
     width: 22px; height: 22px;
-    border: 1.5px solid var(--border);
-    border-radius: 5px;
-    margin-top: 2px;
-    display: flex; align-items: center; justify-content: center;
+    border: 2px solid var(--border);
+    border-radius: 50%;
     cursor: pointer;
-    background: var(--bg);
-    transition: all 0.1s;
+    margin-top: 1px;
+    display: flex; align-items: center; justify-content: center;
+    transition: background 0.15s, border-color 0.15s;
   }
   .check.checked {
     background: var(--accent);
     border-color: var(--accent);
   }
   .check.checked::after {
-    content: ""; width: 6px; height: 11px;
+    content: '';
+    width: 5px; height: 9px;
     border: solid var(--accent-fg);
     border-width: 0 2px 2px 0;
     transform: rotate(45deg) translate(-1px, -1px);
   }
   .article-body { flex: 1; min-width: 0; }
   .article-title-row {
-    display: flex;
-    align-items: baseline;
-    gap: 6px;
+    display: flex; align-items: center; gap: 6px;
+    flex-wrap: wrap;
   }
-  .article-title-row a {
-    color: var(--text); text-decoration: none;
-    font-weight: 500; line-height: 1.35;
+  article a {
+    color: var(--text);
+    text-decoration: none;
+    font-size: 15px; font-weight: 600;
+    line-height: 1.35;
+    word-wrap: break-word;
     flex: 1;
+    min-width: 0;
   }
-  .article-title-row a:active { color: var(--accent); }
+  article a:hover { color: var(--accent); }
   .manual-badge {
     font-size: 12px;
-    opacity: 0.7;
-    cursor: default;
+    flex-shrink: 0;
+    cursor: help;
   }
   .delete-manual {
-    background: none;
-    border: none;
-    color: var(--danger);
-    font-size: 14px;
-    cursor: pointer;
-    padding: 2px 4px;
-    margin-left: 4px;
-    opacity: 0.6;
-    transition: opacity 0.1s;
-  }
-  .delete-manual:hover { opacity: 1; }
-  .article-meta {
-    font-size: 11.5px; color: var(--text-muted);
-    margin-top: 5px;
-    display: flex; gap: 6px; flex-wrap: wrap; align-items: center;
-  }
-  .tag {
-    background: var(--tag-bg); color: var(--tag-text);
-    padding: 1px 6px; border-radius: 3px;
-    font-size: 10.5px; font-weight: 500;
-  }
-  .source-tag {
-    background: var(--source-bg); color: var(--source-text);
-    padding: 1px 6px; border-radius: 3px;
-    font-size: 10.5px; font-weight: 600;
-    letter-spacing: 0.02em;
-  }
-  .article-aliases {
-    margin-top: 4px;
-    font-size: 10px;
+    background: none; border: none;
     color: var(--text-muted);
-    display: flex;
-    flex-wrap: wrap;
-    gap: 4px;
+    font-size: 14px; padding: 0 4px;
+    cursor: pointer;
+    flex-shrink: 0;
+  }
+  .delete-manual:hover { color: var(--danger); }
+  .article-meta {
+    margin-top: 6px;
+    font-size: 12.5px; color: var(--text-muted);
+    display: flex; gap: 8px; flex-wrap: wrap;
     align-items: center;
   }
+  .source-tag {
+    background: var(--alias-tag-bg);
+    color: var(--text);
+    font-weight: 600;
+    padding: 1px 6px;
+    border-radius: 4px;
+    font-size: 11px;
+  }
+  .article-aliases {
+    margin-top: 6px;
+    font-size: 11.5px; color: var(--text-muted);
+  }
   .alias-tag {
-    background: color-mix(in srgb, var(--tag-bg) 60%, transparent);
-    color: var(--tag-text);
-    padding: 1px 5px;
-    border-radius: 3px;
-    font-size: 9.5px;
-    font-weight: 400;
-    opacity: 0.8;
+    display: inline-block;
+    background: var(--alias-tag-bg);
+    color: var(--alias-tag-fg);
+    padding: 1px 6px; margin-right: 4px;
+    border-radius: 4px;
+    font-size: 11px;
   }
   .summary {
-    font-size: 13.5px; color: var(--text-muted);
-    margin-top: 6px; line-height: 1.4;
-    display: -webkit-box;
-    -webkit-line-clamp: 2; -webkit-box-orient: vertical;
-    overflow: hidden;
+    margin-top: 6px;
+    font-size: 13px; color: var(--text-muted);
+    line-height: 1.45;
+  }
+  .tag {
+    display: inline-block;
+    background: var(--tag-bg);
+    color: var(--tag-fg);
+    padding: 1px 7px; margin-right: 4px;
+    border-radius: 4px;
+    font-size: 11px;
   }
   .empty {
     padding: 60px 20px; text-align: center;
@@ -262,6 +271,22 @@
     z-index: 20;
   }
   .action-bar.visible { transform: translateY(0); }
+
+  /* Action bar dentro da tela de review: sticky no fim do scroll
+     para sempre ficar fixo na parte inferior independente de quantas
+     materias tiverem na lista. Position fixed nao funciona bem aqui
+     porque .screen tem transform, e transform cria um novo containing
+     block para fixed. Sticky no fim do flex-container funciona. */
+  .review-action-bar {
+    flex-shrink: 0;
+    padding: 12px 16px calc(12px + env(safe-area-inset-bottom));
+    background: color-mix(in srgb, var(--bg) 95%, transparent);
+    backdrop-filter: saturate(180%) blur(12px);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    border-top: 1px solid var(--border);
+    display: flex; gap: 10px; align-items: center;
+    z-index: 5;
+  }
   .selected-count {
     font-size: 13px; font-weight: 500;
     color: var(--text-muted);
@@ -351,7 +376,10 @@
     transform: translateX(100%);
     transition: transform 0.25s ease-out;
     overflow-y: auto;
-    padding-bottom: calc(80px + env(safe-area-inset-bottom));
+    /* Em vez de padding-bottom rígido, usamos a altura da action-bar
+       interna que agora é sticky no fim do scroll */
+    display: flex;
+    flex-direction: column;
   }
   .screen.visible { transform: translateX(0); }
   .screen-header {
@@ -362,6 +390,13 @@
     border-bottom: 1px solid var(--border);
     padding: 14px 16px;
     display: flex; align-items: center; gap: 10px;
+    flex-shrink: 0;
+  }
+  /* Conteúdo scrollável da review (entre header sticky e action-bar) */
+  .screen-content {
+    flex: 1;
+    overflow-y: auto;
+    -webkit-overflow-scrolling: touch;
   }
   .back {
     background: none; border: none; color: var(--accent);
@@ -378,31 +413,46 @@
   }
   .reorder-list { padding: 8px 16px 20px; }
   .reorder-item {
-    display: flex; gap: 10px; align-items: flex-start;
+    display: flex; gap: 10px; align-items: center;
     padding: 12px;
     background: var(--bg-elevated);
     border: 1px solid var(--border);
     border-radius: 10px;
     margin-bottom: 8px;
-    touch-action: pan-y;
-    transition: transform 0.15s, opacity 0.15s, box-shadow 0.15s;
+    transition: transform 0.18s cubic-bezier(0.2, 0, 0, 1),
+                opacity 0.15s, box-shadow 0.15s, border-color 0.15s;
   }
+  /* Quando arrastando: item flutua, outros itens "abrem espaço" via transform */
   .reorder-item.dragging {
-    opacity: 0.92;
-    box-shadow: 0 8px 24px rgba(0,0,0,0.25);
+    opacity: 0.95;
+    box-shadow: 0 12px 28px rgba(0,0,0,0.35);
     z-index: 10;
     transition: none;
+    cursor: grabbing;
+    border-color: var(--accent);
   }
-  .reorder-item.drop-target { border-color: var(--accent); }
+  .reorder-item.shifted-down {
+    transform: translateY(var(--shift-amount, 60px));
+  }
+  .reorder-item.shifted-up {
+    transform: translateY(calc(-1 * var(--shift-amount, 60px)));
+  }
   .drag-handle {
     flex-shrink: 0;
-    padding: 2px 8px 2px 0;
+    padding: 8px 10px;
+    margin: -6px 0 -6px -8px;
     color: var(--text-muted);
-    font-size: 20px; line-height: 1;
+    font-size: 22px; line-height: 1;
     cursor: grab;
     touch-action: none;
     user-select: none;
+    -webkit-user-select: none;
+    -webkit-touch-callout: none;
+    /* Aumenta área de toque sem aumentar visualmente */
+    min-width: 36px;
+    text-align: center;
   }
+  .drag-handle:active { cursor: grabbing; }
   .reorder-item-body { flex: 1; min-width: 0; }
   .reorder-title {
     font-size: 14px; font-weight: 500;
@@ -412,129 +462,98 @@
     font-size: 11.5px; color: var(--text-muted);
     margin-top: 4px; word-break: break-all;
   }
-  .remove-btn {
+  /* Botões de ação no item (mover topo, mover fim, remover) */
+  .item-actions {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
     flex-shrink: 0;
-    background: none; border: none;
-    color: var(--danger);
-    font-size: 18px; padding: 0 4px;
+  }
+  .item-action-btn {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    color: var(--text-muted);
+    font-size: 11px;
+    padding: 4px 6px;
     cursor: pointer;
-    align-self: center;
+    line-height: 1;
+    min-width: 32px;
+    -webkit-appearance: none;
+  }
+  .item-action-btn:active { background: var(--bg); opacity: 0.7; }
+  .item-action-btn.danger { color: var(--danger); border-color: var(--danger); }
+  .item-action-btn:disabled {
+    opacity: 0.3;
+    cursor: default;
+    pointer-events: none;
   }
   .preview {
     margin: 16px; padding: 14px;
     background: var(--bg-elevated);
-    border: 1px solid var(--border);
     border-radius: 10px;
-    font-family: -apple-system, "Menlo", "Consolas", monospace;
-    font-size: 12.5px;
+    font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+    font-size: 12px;
+    line-height: 1.55;
+    color: var(--text-muted);
     white-space: pre-wrap;
-    word-break: break-word;
-    color: var(--text);
-    line-height: 1.5;
+    word-break: break-all;
+    border: 1px solid var(--border);
   }
   .copy-success {
-    position: fixed;
-    bottom: calc(90px + env(safe-area-inset-bottom));
-    left: 50%; transform: translateX(-50%) translateY(20px);
-    background: #1e8a3c; color: white;
-    padding: 10px 18px; border-radius: 20px;
+    position: fixed; bottom: 90px; left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    background: var(--text); color: var(--bg);
+    padding: 10px 18px;
+    border-radius: 100px;
     font-size: 13px; font-weight: 500;
     opacity: 0;
+    transition: opacity 0.2s, transform 0.2s;
     pointer-events: none;
-    transition: all 0.25s;
     z-index: 50;
   }
-  .copy-success.visible {
+  .copy-success.show {
     opacity: 1;
     transform: translateX(-50%) translateY(0);
   }
-
-  /* Estilos para a tabela de fontes */
-  .sources-section {
-    margin: 40px 16px 0;
-    padding-top: 20px;
-    border-top: 2px solid var(--border);
+  table.sources-table {
+    width: 100%; border-collapse: collapse;
+    margin-top: 30px; font-size: 12px;
   }
-  .sources-section h2 {
-    font-size: 13px;
-    font-weight: 600;
-    letter-spacing: 0.05em;
-    text-transform: uppercase;
-    color: var(--text-muted);
-    margin-bottom: 12px;
-  }
-  .sources-table {
-    width: 100%;
-    border-collapse: collapse;
-    font-size: 12px;
-  }
-  .sources-table th, .sources-table td {
-    padding: 6px 8px;
-    text-align: left;
+  table.sources-table th, table.sources-table td {
+    padding: 6px 8px; text-align: left;
     border-bottom: 1px solid var(--border);
   }
-  .sources-table th {
+  table.sources-table th {
     color: var(--text-muted);
-    font-weight: 600;
-  }
-  .sources-table td {
-    color: var(--text);
-  }
-  .sources-table .count {
-    text-align: right;
     font-weight: 500;
-    color: var(--accent);
+    text-transform: uppercase;
+    letter-spacing: 0.4px;
+    font-size: 10.5px;
   }
-  .no-sources {
+  details summary {
+    cursor: pointer;
+    font-size: 13px;
     color: var(--text-muted);
-    font-size: 12px;
-    font-style: italic;
+    padding: 16px;
+    user-select: none;
   }
+  details summary:hover { color: var(--text); }
 </style>
 </head>
 <body>
-
-<!-- Modal para adicionar notícia manual -->
-<div class="modal-overlay" id="modal-overlay">
-  <div class="modal">
-    <h2>➕ Adicionar notícia manual</h2>
-    <form id="manual-form" onsubmit="return false;">
-      <label for="manual-url">URL da notícia *</label>
-      <input type="url" id="manual-url" placeholder="https://..." required>
-      
-      <button type="button" class="btn btn-ghost" onclick="autoFillFromUrl()" style="margin-bottom: 16px; width: 100%;">✨ Preencher a partir da URL</button>
-      
-      <label for="manual-title">Título *</label>
-      <input type="text" id="manual-title" placeholder="Título da notícia" required>
-      <label for="manual-summary">Resumo (opcional)</label>
-      <textarea id="manual-summary" rows="2" placeholder="Breve descrição..."></textarea>
-      <label for="manual-date">Data (opcional, formato ISO)</label>
-      <input type="text" id="manual-date" placeholder="2026-04-22T10:30:00Z">
-      <div class="modal-actions">
-        <button type="button" class="btn btn-ghost" onclick="closeModal()">Cancelar</button>
-        <button type="submit" class="btn btn-primary" onclick="addManualArticle()">Adicionar</button>
-      </div>
-    </form>
-  </div>
-</div>
-
-<div id="main-screen">
+<div id="app">
   <header>
-    <div class="header-left">
+    <div class="header-row">
       <h1>Retail Daily</h1>
-      <div class="meta">
-        <span id="status">Carregando…</span>
-      </div>
+      <button class="add-btn" onclick="openAddModal()" title="Adicionar artigo manual">+</button>
     </div>
-    <div class="header-actions">
-      <button class="icon-btn" onclick="openModal()" title="Adicionar notícia manual">➕</button>
-      <button class="refresh" onclick="location.reload()">Atualizar</button>
+    <div id="status">Carregando…</div>
+    <div class="search-bar">
+      <input type="search" class="search-input" id="search" placeholder="Buscar título ou resumo…" autocomplete="off">
     </div>
   </header>
-  <div class="search">
-    <input type="search" id="search" placeholder="Buscar título ou descrição…" autocomplete="off">
-  </div>
-  <div class="filters" id="time-filters">
+  <div class="filters">
     <button class="pill active" data-days="1">1d</button>
     <button class="pill" data-days="2">2d</button>
     <button class="pill" data-days="3">3d</button>
@@ -558,12 +577,14 @@
     <div class="screen-title">Revisar clipping</div>
     <div class="screen-title-spacer"></div>
   </div>
-  <div class="reorder-hint">
-    Arraste pelo <strong>⋮⋮</strong> para reordenar. Toque no <strong>×</strong> para remover.
+  <div class="screen-content">
+    <div class="reorder-hint">
+      Arraste pelo <strong>⋮⋮</strong> para reordenar, ou use <strong>⤒</strong> (topo) e <strong>⤓</strong> (fim). Toque no <strong>×</strong> para remover.
+    </div>
+    <div class="reorder-list" id="reorder-list"></div>
+    <div class="preview" id="preview"></div>
   </div>
-  <div class="reorder-list" id="reorder-list"></div>
-  <div class="preview" id="preview"></div>
-  <div class="action-bar visible" style="position: fixed;">
+  <div class="review-action-bar">
     <div class="selected-count">
       <strong id="preview-n">0</strong> no clipping
     </div>
@@ -574,6 +595,23 @@
 <div class="copy-success" id="copy-toast">Copiado!</div>
 
 <div id="sources-container" style="padding: 0 16px 40px;"></div>
+
+<!-- Modal de adicionar artigo manual -->
+<div class="modal-overlay" id="add-modal">
+  <div class="modal">
+    <h2>Adicionar artigo</h2>
+    <label for="manual-url">URL</label>
+    <input type="url" id="manual-url" placeholder="https://..." autocomplete="off">
+    <label for="manual-title">Título</label>
+    <input type="text" id="manual-title" placeholder="Título do artigo">
+    <label for="manual-summary">Resumo (opcional)</label>
+    <textarea id="manual-summary" rows="3" placeholder="Resumo da matéria…"></textarea>
+    <div class="modal-actions">
+      <button class="btn btn-ghost" onclick="closeAddModal()">Cancelar</button>
+      <button class="btn btn-primary" onclick="saveManualArticle()">Adicionar</button>
+    </div>
+  </div>
+</div>
 
 <script>
 'use strict';
@@ -608,149 +646,162 @@ const SECTOR_PRIORITY = [
   'Cosméticos',
   'Joias',
   'Eletrônicos',
-  'Economia',
   'Wellness e Esportes',
   'Pet',
   'Material de Construção',
   'Viagens',
+  'Economia',
   'Global Consumer'
 ];
 
 // Regras de extração de veículo a partir da URL
 const SOURCE_PATTERNS = [
   [/valor\.globo\.com|valor\.com\.br|valorinveste/i, 'Valor'],
-  [/pipeline\.valor/i,                              'Pipeline'],
+  [/pipeline\.valor|pipelinevalor/i,                'Pipeline'],
   [/oglobo\.globo\.com/i,                           'O Globo'],
   [/epocanegocios\.globo/i,                         'Época Negócios'],
   [/revistapegn\.globo/i,                           'PEGN'],
-  [/g1\.globo\.com/i,                               'G1'],
-  [/folha\.uol|folha\.com/i,                        'Folha'],
-  [/estadao\.com/i,                                 'Estadão'],
+  [/folha\.uol\.com\.br|folha\.com\.br/i,            'Folha'],
+  [/estadao\.com\.br/i,                             'Estadão'],
   [/exame\.com/i,                                   'Exame'],
-  [/veja\.abril/i,                                  'Veja'],
-  [/infomoney\.com/i,                               'InfoMoney'],
-  [/neofeed\.com/i,                                 'NeoFeed'],
-  [/braziljournal/i,                                'Brazil Journal'],
-  [/metropoles\.com/i,                              'Metrópoles'],
-  [/cnnbrasil/i,                                    'CNN Brasil'],
-  [/bloomberglinea/i,                               'Bloomberg Línea'],
-  [/bloomberg/i,                                    'Bloomberg'],
-  [/wsj\.com/i,                                     'WSJ'],
-  [/ft\.com/i,                                      'Financial Times'],
-  [/bbc\.com/i,                                     'BBC'],
-  [/cnbc\.com/i,                                    'CNBC'],
-  [/reuters/i,                                      'Reuters'],
-  [/forbes/i,                                       'Forbes'],
+  [/veja\.abril\.com\.br/i,                         'Veja'],
+  [/uol\.com\.br/i,                                 'UOL'],
   [/jota\.info/i,                                   'JOTA'],
-  [/gov\.br/i,                                      'Governo Federal'],
-  [/mercadoeconsumo/i,                              'Mercado & Consumo'],
-  [/ambito/i,                                       'Ámbito'],
-  [/iproup/i,                                       'iProUP'],
-  [/eleconomista/i,                                 'El Economista'],
-  [/elfinanciero/i,                                 'El Financiero'],
-  [/uol\.com/i,                                     'UOL'],
+  [/mercadoeconsumo/i,                              'M&C'],
+  [/neofeed/i,                                      'NeoFeed'],
+  [/braziljournal/i,                                'Brazil Journal'],
+  [/bloomberglinea/i,                               'Bloomberg Línea'],
+  [/bloomberg\.com/i,                               'Bloomberg'],
+  [/reuters/i,                                      'Reuters'],
+  [/cnbc/i,                                         'CNBC'],
+  [/forbes/i,                                       'Forbes'],
+  [/bbc/i,                                          'BBC'],
+  [/ft\.com/i,                                      'FT'],
+  [/wsj\.com|dowjones/i,                            'WSJ'],
+  [/cnnbrasil/i,                                    'CNN Brasil'],
+  [/poder360/i,                                     'Poder360'],
+  [/infomoney/i,                                    'InfoMoney'],
+  [/anvisa\.gov/i,                                  'Anvisa'],
+  [/gov\.br\/receitafederal/i,                       'Receita Federal'],
+  [/news\.google/i,                                 'Google News'],
 ];
-
-// Lista de todas as fontes monitoradas (labels únicas dos padrões, ordenadas)
-const MONITORED_SOURCES = Array.from(new Set(SOURCE_PATTERNS.map(p => p[1]))).sort();
 
 function extractSource(url) {
   if (!url) return '';
-  const m = url.match(/^https?:\/\/(?:www\d*\.|feeds\.|rss\.|br\.|en\.|pt\.|api\.)?([^/]+)/i);
-  if (!m) return '';
-  const host = m[1].toLowerCase();
-  for (const [pat, label] of SOURCE_PATTERNS) {
-    if (pat.test(host)) return label;
+  for (const [re, name] of SOURCE_PATTERNS) {
+    if (re.test(url)) return name;
   }
-  const parts = host.split('.');
-  if (parts.length >= 3 && parts[parts.length - 2].length <= 3) {
-    return parts[parts.length - 3].replace(/^\w/, c => c.toUpperCase());
-  }
-  if (parts.length >= 2) {
-    return parts[parts.length - 2].replace(/^\w/, c => c.toUpperCase());
-  }
-  return host;
+  try {
+    const host = new URL(url).hostname.replace(/^www\./, '');
+    return host.split('.')[0];
+  } catch { return ''; }
 }
 
 // ============================================================
-// Estado
+// Estado da aplicação
 // ============================================================
 const state = {
   articles: [],
   manualArticles: [],
   generatedAt: null,
-  days: 1,
+  daysFilter: 1,
   query: '',
-  selected: new Set(JSON.parse(localStorage.getItem('selected') || '[]')),
-  order: JSON.parse(localStorage.getItem('order') || '[]'),
+  selected: new Set(),
+  order: [],
 };
 
-function loadManualArticles() {
-  try {
-    const stored = localStorage.getItem('manualArticles');
-    if (stored) state.manualArticles = JSON.parse(stored);
-  } catch (e) { state.manualArticles = []; }
-}
-function saveManualArticles() {
-  localStorage.setItem('manualArticles', JSON.stringify(state.manualArticles));
-}
+const STORAGE_KEYS = {
+  selected: 'retail-daily-selected',
+  order: 'retail-daily-order',
+  manual: 'retail-daily-manual',
+};
 
-function getAllArticles() {
-  const jsonUrls = new Set(state.articles.map(a => a.url));
-  const filteredManuals = state.manualArticles.filter(a => !jsonUrls.has(a.url));
-  return [...state.articles, ...filteredManuals];
-}
-
-async function load() {
-  loadManualArticles();
+function loadState() {
   try {
-    const r = await fetch('data/articles.json?t=' + Date.now());
-    if (!r.ok) throw new Error('no data');
-    const data = await r.json();
-    state.articles = data.articles || [];
-    state.generatedAt = data.generated_at;
+    const sel = localStorage.getItem(STORAGE_KEYS.selected);
+    if (sel) state.selected = new Set(JSON.parse(sel));
+    const ord = localStorage.getItem(STORAGE_KEYS.order);
+    if (ord) state.order = JSON.parse(ord);
+    const man = localStorage.getItem(STORAGE_KEYS.manual);
+    if (man) state.manualArticles = JSON.parse(man);
   } catch (e) {
-    state.articles = [];
-    document.getElementById('status').textContent = 'Sem dados (offline?)';
+    console.error('Erro carregando estado:', e);
   }
-  render();
 }
 
-function getCutoff(days) {
-  const now = new Date();
-  const brDate = new Date(now.toLocaleString('en-US', { timeZone: 'America/Sao_Paulo' }));
-  const cutoff = new Date(brDate);
-  cutoff.setDate(cutoff.getDate() - days);
-  cutoff.setHours(6, 30, 0, 0);
-  return cutoff.getTime();
+function persist() {
+  try {
+    localStorage.setItem(STORAGE_KEYS.selected, JSON.stringify([...state.selected]));
+    localStorage.setItem(STORAGE_KEYS.order, JSON.stringify(state.order));
+  } catch (e) { console.error(e); }
+}
+
+function saveManualArticles() {
+  try {
+    localStorage.setItem(STORAGE_KEYS.manual, JSON.stringify(state.manualArticles));
+  } catch (e) { console.error(e); }
+}
+
+// ============================================================
+// Utilidades
+// ============================================================
+function esc(s) {
+  return String(s ?? '').replace(/[&<>"']/g, c => ({
+    '&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'
+  })[c]);
+}
+
+function formatDate(iso) {
+  if (!iso) return '';
+  try {
+    const d = new Date(iso);
+    if (isNaN(d.getTime())) return '';
+    const now = new Date();
+    const diffH = (now - d) / (1000 * 60 * 60);
+    if (diffH < 1) return Math.max(1, Math.floor(diffH * 60)) + 'min';
+    if (diffH < 24) return Math.floor(diffH) + 'h';
+    return d.toLocaleDateString('pt-BR', { day: '2-digit', month: '2-digit' });
+  } catch { return ''; }
 }
 
 function relative(iso) {
   if (!iso) return '';
-  const ms = Date.now() - new Date(iso).getTime();
-  const min = Math.floor(ms / 60000);
-  if (min < 1) return 'agora';
-  if (min < 60) return 'há ' + min + 'min';
-  const h = Math.floor(min / 60);
-  if (h < 24) return 'há ' + h + 'h';
-  return 'há ' + Math.floor(h / 24) + 'd';
+  try {
+    const d = new Date(iso);
+    const diffM = (Date.now() - d) / (1000 * 60);
+    if (diffM < 1) return 'agora';
+    if (diffM < 60) return Math.floor(diffM) + 'min atrás';
+    if (diffM < 24 * 60) return Math.floor(diffM / 60) + 'h atrás';
+    return d.toLocaleDateString('pt-BR');
+  } catch { return ''; }
 }
-function formatDate(iso) {
-  if (!iso) return '';
-  const d = new Date(iso);
-  return d.toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', hour: '2-digit', minute: '2-digit' });
+
+// ============================================================
+// Carregamento dos dados
+// ============================================================
+async function fetchData() {
+  try {
+    const r = await fetch('data/articles.json?v=' + Date.now(), { cache: 'no-store' });
+    if (!r.ok) throw new Error(r.status);
+    const data = await r.json();
+    state.articles = data.articles || [];
+    state.generatedAt = data.generated_at;
+  } catch (e) {
+    document.getElementById('status').textContent = 'Erro carregando dados.';
+    console.error(e);
+  }
 }
-function esc(s) {
-  return String(s || '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-}
-function persist() {
-  localStorage.setItem('selected', JSON.stringify([...state.selected]));
-  localStorage.setItem('order', JSON.stringify(state.order));
+
+// ============================================================
+// Render
+// ============================================================
+function getAllArticles() {
+  return [...state.articles, ...state.manualArticles];
 }
 
 function filterArticles(articles) {
-  const cutoff = getCutoff(state.days);
-  const q = state.query.toLowerCase();
+  const cutoff = Date.now() - state.daysFilter * 24 * 60 * 60 * 1000;
+  const q = state.query.trim().toLowerCase();
   return articles.filter(a => {
     if (cutoff && a.published && new Date(a.published).getTime() < cutoff) return false;
     if (q) {
@@ -774,7 +825,7 @@ function getPrimarySector(sectors) {
 function render() {
   const all = getAllArticles();
   const filtered = filterArticles(all);
-  
+
   const parts = [];
   if (state.generatedAt) parts.push('Atualizado ' + relative(state.generatedAt));
   const manualCount = state.manualArticles.length;
@@ -868,61 +919,43 @@ function render() {
 
 function renderSourcesTable(articles) {
   const container = document.getElementById('sources-container');
-  // Inicializa com todas as fontes monitoradas zeradas
+  if (!articles.length) { container.innerHTML = ''; return; }
   const counts = {};
-  MONITORED_SOURCES.forEach(src => { counts[src] = 0; });
-
-  // Conta artigos não manuais
-  articles.forEach(a => {
-    if (a._manual) return; // ignora artigos manuais
-    const src = extractSource(a.url) || '(desconhecida)';
+  for (const a of articles) {
+    const src = extractSource(a.url) || '?';
     counts[src] = (counts[src] || 0) + 1;
-  });
-
-  const total = articles.filter(a => !a._manual).length;
-  if (total === 0) {
-    container.innerHTML = '';
-    return;
   }
-
-  // Ordena por contagem decrescente e, em caso de empate, alfabeticamente
-  const sorted = Object.entries(counts).sort((a, b) => {
-    if (b[1] !== a[1]) return b[1] - a[1];
-    return a[0].localeCompare(b[0]);
-  });
-
-  let html = '<section class="sources-section">';
-  html += '<h2>📊 Notícias por fonte (filtro atual)</h2>';
-  html += '<table class="sources-table"><thead><tr><th>Fonte</th><th class="count">Notícias</th><th class="count">%</th></tr></thead><tbody>';
-
-  sorted.forEach(([source, count]) => {
-    const pct = total > 0 ? ((count / total) * 100).toFixed(1) : '0.0';
-    html += `<tr><td>${esc(source)}</td><td class="count">${count}</td><td class="count">${pct}%</td></tr>`;
-  });
-
-  html += '</tbody></table></section>';
-  container.innerHTML = html;
+  const rows = Object.entries(counts)
+    .sort((a, b) => b[1] - a[1])
+    .map(([src, n]) => `<tr><td>${esc(src)}</td><td style="text-align:right">${n}</td></tr>`)
+    .join('');
+  container.innerHTML = `
+    <details>
+      <summary>📊 Estatísticas (${articles.length} matérias)</summary>
+      <table class="sources-table">
+        <thead><tr><th>Fonte</th><th style="text-align:right">N</th></tr></thead>
+        <tbody>${rows}</tbody>
+      </table>
+    </details>
+  `;
 }
 
+// ============================================================
+// Seleção
+// ============================================================
 function toggleSelect(url) {
   if (state.selected.has(url)) {
     state.selected.delete(url);
     state.order = state.order.filter(u => u !== url);
   } else {
     state.selected.add(url);
-    if (!state.order.includes(url)) state.order.push(url);
+    state.order.push(url);
   }
   persist();
-  document.querySelectorAll(`.check[data-url="${CSS.escape(url)}"]`).forEach(box => {
-    box.classList.toggle('checked', state.selected.has(url));
-    box.closest('article').classList.toggle('selected', state.selected.has(url));
-  });
-  updateActionBar();
+  render();
 }
 
 function clearSelection() {
-  if (state.selected.size === 0) return;
-  if (!confirm('Limpar todas as ' + state.selected.size + ' selecionadas?')) return;
   state.selected.clear();
   state.order = [];
   persist();
@@ -937,153 +970,62 @@ function updateActionBar() {
 
 function getSelectedArticlesInOrder() {
   const all = getAllArticles();
-  const byUrl = new Map(all.map(a => [a.url, a]));
-  return state.order
-    .filter(url => state.selected.has(url) && byUrl.has(url))
-    .map(url => byUrl.get(url));
+  const byUrl = {};
+  for (const a of all) byUrl[a.url] = a;
+  const orderedUrls = state.order.filter(u => state.selected.has(u));
+  for (const u of state.selected) {
+    if (!orderedUrls.includes(u)) orderedUrls.push(u);
+  }
+  return orderedUrls.map(u => byUrl[u]).filter(Boolean);
 }
 
-function formatTodayEn() {
-  const d = new Date();
-  const month = d.toLocaleString('en-US', { month: 'short' });
-  const day = d.getDate();
-  const suffix = (day % 10 === 1 && day !== 11) ? 'st' : (day % 10 === 2 && day !== 12) ? 'nd' : (day % 10 === 3 && day !== 13) ? 'rd' : 'th';
-  return `${month} ${day}${suffix}`;
+// ============================================================
+// Adicionar artigo manual
+// ============================================================
+function openAddModal() {
+  document.getElementById('add-modal').classList.add('visible');
+  document.getElementById('manual-url').focus();
 }
 
-function buildClippingText() {
-  const items = getSelectedArticlesInOrder();
-  const header = `*Retail Daily - ${formatTodayEn()}*`;
-  const body = items.map(a => `${a.title}\n${a.url}`).join('\n\n');
-  return header + '\n\n' + body;
-}
-
-// --- Modal e adição manual ---
-function openModal() {
-  document.getElementById('modal-overlay').classList.add('visible');
+function closeAddModal() {
+  document.getElementById('add-modal').classList.remove('visible');
   document.getElementById('manual-url').value = '';
   document.getElementById('manual-title').value = '';
   document.getElementById('manual-summary').value = '';
-  document.getElementById('manual-date').value = '';
-}
-function closeModal() {
-  document.getElementById('modal-overlay').classList.remove('visible');
 }
 
-async function autoFillFromUrl() {
-  const urlInput = document.getElementById('manual-url');
-  const titleInput = document.getElementById('manual-title');
-  const summaryInput = document.getElementById('manual-summary');
-  
-  let url = urlInput.value.trim();
-  if (!url) {
-    alert('Por favor, insira a URL primeiro.');
-    return;
-  }
-
-  if (!url.startsWith('http://') && !url.startsWith('https://')) {
-    url = 'https://' + url;
-    urlInput.value = url;
-  }
-
-  const btn = event.target;
-  const originalText = btn.textContent;
-  btn.textContent = '⏳ Buscando...';
-  btn.disabled = true;
-
-  try {
-    const proxyUrl = `https://api.allorigins.win/raw?url=${encodeURIComponent(url)}`;
-    const response = await fetch(proxyUrl);
-    if (!response.ok) throw new Error(`Erro HTTP: ${response.status}`);
-    
-    const html = await response.text();
-    const parser = new DOMParser();
-    const doc = parser.parseFromString(html, 'text/html');
-    
-    let title = '';
-    const ogTitle = doc.querySelector('meta[property="og:title"]');
-    if (ogTitle && ogTitle.content) {
-      title = ogTitle.content.trim();
-    } else {
-      const titleTag = doc.querySelector('title');
-      if (titleTag) title = titleTag.textContent.trim();
-    }
-    
-    let description = '';
-    const ogDesc = doc.querySelector('meta[property="og:description"]');
-    if (ogDesc && ogDesc.content) {
-      description = ogDesc.content.trim();
-    } else {
-      const metaDesc = doc.querySelector('meta[name="description"]');
-      if (metaDesc && metaDesc.content) {
-        description = metaDesc.content.trim();
-      } else {
-        const firstP = doc.querySelector('p');
-        if (firstP) description = firstP.textContent.trim();
-      }
-    }
-    
-    if (title) titleInput.value = title;
-    if (description) summaryInput.value = description;
-    
-    if (!title && !description) {
-      alert('Não foi possível extrair informações. Preencha manualmente.');
-    } else {
-      showToast('Dados preenchidos!');
-    }
-  } catch (error) {
-    console.error('Erro ao buscar URL:', error);
-    alert('Falha ao acessar a URL. Verifique o link ou preencha manualmente.');
-  } finally {
-    btn.textContent = originalText;
-    btn.disabled = false;
-  }
-}
-
-function addManualArticle() {
+function saveManualArticle() {
   const url = document.getElementById('manual-url').value.trim();
   const title = document.getElementById('manual-title').value.trim();
   const summary = document.getElementById('manual-summary').value.trim();
-  let published = document.getElementById('manual-date').value.trim();
-  
   if (!url || !title) {
-    alert('URL e Título são obrigatórios.');
+    alert('Preencha URL e título.');
     return;
   }
-  
   const all = getAllArticles();
   if (all.some(a => a.url === url)) {
-    alert('Esta URL já existe na lista.');
+    alert('Já existe artigo com essa URL.');
     return;
   }
-  
-  let publishedDate = null;
-  if (published) {
-    try { publishedDate = new Date(published).toISOString(); }
-    catch { publishedDate = new Date().toISOString(); }
-  } else {
-    publishedDate = new Date().toISOString();
-  }
-  
-  const newArticle = {
-    title, url, summary,
-    published: publishedDate,
+  state.manualArticles.push({
+    title,
+    summary,
+    url,
+    published: new Date().toISOString(),
     source: 'manual',
-    matched_sectors: [],
+    matched_sectors: ['— OUTROS'],
     matched_aliases: [],
-    score: 0,
-    _manual: true
-  };
-  
-  state.manualArticles.push(newArticle);
+    score: 1,
+    _manual: true,
+  });
   saveManualArticles();
-  closeModal();
+  closeAddModal();
   render();
-  showToast('Notícia adicionada!');
+  showToast('Adicionada');
 }
 
 function deleteManualArticle(url) {
-  if (!confirm('Remover esta notícia manual?')) return;
+  if (!confirm('Remover esse artigo manual?')) return;
   state.manualArticles = state.manualArticles.filter(a => a.url !== url);
   if (state.selected.has(url)) {
     state.selected.delete(url);
@@ -1104,6 +1046,7 @@ function renderReview() {
     document.getElementById('preview').textContent = '';
     return;
   }
+  const lastIdx = items.length - 1;
   document.getElementById('reorder-list').innerHTML = items.map((a, i) => `
     <div class="reorder-item" data-url="${esc(a.url)}" data-index="${i}">
       <div class="drag-handle" data-url="${esc(a.url)}">⋮⋮</div>
@@ -1111,123 +1054,272 @@ function renderReview() {
         <div class="reorder-title">${esc(a.title)}</div>
         <div class="reorder-url">${esc(a.url)}</div>
       </div>
-      <button class="remove-btn" data-url="${esc(a.url)}" aria-label="Remover">×</button>
+      <div class="item-actions">
+        <button class="item-action-btn" data-action="top" data-url="${esc(a.url)}"
+                title="Mover para o início" ${i === 0 ? 'disabled' : ''}>⤒</button>
+        <button class="item-action-btn" data-action="bottom" data-url="${esc(a.url)}"
+                title="Mover para o fim" ${i === lastIdx ? 'disabled' : ''}>⤓</button>
+        <button class="item-action-btn danger" data-action="remove" data-url="${esc(a.url)}"
+                title="Remover">×</button>
+      </div>
     </div>
   `).join('');
-  document.querySelectorAll('.remove-btn').forEach(btn => {
-    btn.onclick = () => {
-      toggleSelect(btn.dataset.url);
+
+  document.querySelectorAll('.item-action-btn').forEach(btn => {
+    btn.onclick = (e) => {
+      e.preventDefault();
+      e.stopPropagation();
+      const action = btn.dataset.action;
+      const url = btn.dataset.url;
+      if (action === 'remove') {
+        toggleSelect(url);
+      } else if (action === 'top') {
+        moveToTop(url);
+      } else if (action === 'bottom') {
+        moveToBottom(url);
+      }
       renderReview();
     };
   });
+
   bindDragHandlers();
   document.getElementById('preview').textContent = buildClippingText();
 }
 
+function moveToTop(url) {
+  const newOrder = state.order.filter(u => u !== url);
+  newOrder.unshift(url);
+  state.order = newOrder;
+  persist();
+  hapticTap();
+}
+
+function moveToBottom(url) {
+  const newOrder = state.order.filter(u => u !== url);
+  newOrder.push(url);
+  state.order = newOrder;
+  persist();
+  hapticTap();
+}
+
+function hapticTap() {
+  // Feedback tátil discreto onde suportado (Android principalmente)
+  if (navigator.vibrate) {
+    try { navigator.vibrate(15); } catch(e) {}
+  }
+}
+
+// Drag-and-drop com Pointer Events (unifica touch/mouse e dá movimento fluido)
 let dragState = null;
+
 function bindDragHandlers() {
   const list = document.getElementById('reorder-list');
-  const items = [...list.querySelectorAll('.reorder-item')];
-  items.forEach(item => {
-    const handle = item.querySelector('.drag-handle');
-    const onStart = (e) => {
-      e.preventDefault();
-      const touch = e.touches ? e.touches[0] : e;
-      dragState = { item, startY: touch.clientY, url: item.dataset.url, dropTarget: null };
-      item.classList.add('dragging');
-    };
-    handle.addEventListener('touchstart', onStart, { passive: false });
-    handle.addEventListener('mousedown', onStart);
+  const handles = list.querySelectorAll('.drag-handle');
+
+  handles.forEach(handle => {
+    handle.onpointerdown = (e) => onDragStart(e, handle);
   });
-  const onMove = (e) => {
-    if (!dragState) return;
-    e.preventDefault();
-    const touch = e.touches ? e.touches[0] : e;
-    const dy = touch.clientY - dragState.startY;
-    dragState.item.style.transform = `translateY(${dy}px)`;
-    const allItems = [...list.querySelectorAll('.reorder-item')];
-    allItems.forEach(el => el.classList.remove('drop-target'));
-    const pointerY = touch.clientY;
-    const target = allItems.find(el => {
-      if (el === dragState.item) return false;
-      const r = el.getBoundingClientRect();
-      return pointerY > r.top && pointerY < r.bottom;
-    });
-    if (target) target.classList.add('drop-target');
-    dragState.dropTarget = target;
+}
+
+function onDragStart(e, handle) {
+  e.preventDefault();
+  const item = handle.closest('.reorder-item');
+  if (!item) return;
+
+  // Captura o ponteiro pra receber move/up mesmo se sair do elemento
+  try { handle.setPointerCapture(e.pointerId); } catch (err) {}
+
+  const list = document.getElementById('reorder-list');
+  const allItems = [...list.querySelectorAll('.reorder-item')];
+  const startIdx = allItems.indexOf(item);
+  const itemRect = item.getBoundingClientRect();
+
+  // Calcula altura do item incluindo margin-bottom (8px). É a distância
+  // que outros itens deslocam quando "abrem espaço".
+  const itemHeight = itemRect.height + 8;
+
+  dragState = {
+    item,
+    handle,
+    pointerId: e.pointerId,
+    startY: e.clientY,
+    startIdx,
+    currentIdx: startIdx,
+    allItems,
+    itemHeight,
+    url: item.dataset.url,
   };
-  const onEnd = (e) => {
-    if (!dragState) return;
-    const { item, dropTarget, url } = dragState;
-    item.classList.remove('dragging');
-    item.style.transform = '';
-    document.querySelectorAll('.reorder-item').forEach(el => el.classList.remove('drop-target'));
-    if (dropTarget && dropTarget !== item) {
-      const targetUrl = dropTarget.dataset.url;
-      const newOrder = state.order.filter(u => u !== url);
-      const targetIdx = newOrder.indexOf(targetUrl);
-      const rect = dropTarget.getBoundingClientRect();
-      const pointerY = (e.changedTouches ? e.changedTouches[0] : e).clientY;
-      const insertAfter = pointerY > rect.top + rect.height / 2;
-      newOrder.splice(insertAfter ? targetIdx + 1 : targetIdx, 0, url);
+
+  item.classList.add('dragging');
+  item.style.setProperty('--shift-amount', itemHeight + 'px');
+  // Define a variavel pros outros itens calcularem o shift consistente
+  document.documentElement.style.setProperty('--shift-amount', itemHeight + 'px');
+
+  hapticTap();
+
+  // Listeners no document pro caso do dedo sair do handle
+  document.addEventListener('pointermove', onDragMove);
+  document.addEventListener('pointerup', onDragEnd);
+  document.addEventListener('pointercancel', onDragEnd);
+}
+
+function onDragMove(e) {
+  if (!dragState) return;
+  e.preventDefault();
+
+  const { item, startY, startIdx, allItems, itemHeight } = dragState;
+  const dy = e.clientY - startY;
+
+  // Move o item arrastado verticalmente
+  item.style.transform = `translateY(${dy}px)`;
+
+  // Calcula nova posição baseada no centro virtual do item arrastado
+  const movedSlots = Math.round(dy / itemHeight);
+  const newIdx = Math.max(0, Math.min(allItems.length - 1, startIdx + movedSlots));
+
+  if (newIdx !== dragState.currentIdx) {
+    dragState.currentIdx = newIdx;
+    hapticTap();
+  }
+
+  // Aplica shift visual nos outros itens pra "abrir espaço"
+  allItems.forEach((el, i) => {
+    if (el === item) return;
+    el.classList.remove('shifted-down', 'shifted-up');
+    if (newIdx >= startIdx) {
+      // Arrastando pra baixo: itens entre startIdx+1 e newIdx sobem
+      if (i > startIdx && i <= newIdx) {
+        el.classList.add('shifted-up');
+      }
+    } else {
+      // Arrastando pra cima: itens entre newIdx e startIdx-1 descem
+      if (i >= newIdx && i < startIdx) {
+        el.classList.add('shifted-down');
+      }
+    }
+  });
+}
+
+function onDragEnd(e) {
+  if (!dragState) return;
+  const { item, handle, pointerId, startIdx, currentIdx, url, allItems } = dragState;
+
+  // Limpa estados visuais
+  item.classList.remove('dragging');
+  item.style.transform = '';
+  allItems.forEach(el => el.classList.remove('shifted-down', 'shifted-up'));
+
+  // Aplica reordenação se mudou de posição
+  if (currentIdx !== startIdx) {
+    const newOrder = state.order.filter(u => u !== url);
+    // Calcula índice de inserção no array completo (state.order pode ter
+    // URLs nao selecionadas tambem - mas getSelectedArticlesInOrder filtra)
+    // Pegamos a URL do item que está atualmente em currentIdx (entre os
+    // selecionados visiveis) e inserimos relativa a ela
+    const visibleUrls = allItems
+      .filter(el => el !== item)
+      .map(el => el.dataset.url);
+    // visibleUrls está na ordem original sem o item que arrastamos
+    // Inserimos antes do item que está no slot currentIdx
+    const targetUrl = visibleUrls[currentIdx > startIdx ? currentIdx - 1 : currentIdx];
+
+    if (targetUrl) {
+      const targetPos = newOrder.indexOf(targetUrl);
+      const insertAfter = currentIdx > startIdx;
+      newOrder.splice(insertAfter ? targetPos + 1 : targetPos, 0, url);
       state.order = newOrder;
       persist();
-      renderReview();
     }
-    dragState = null;
-  };
-  document.addEventListener('touchmove', onMove, { passive: false });
-  document.addEventListener('mousemove', onMove);
-  document.addEventListener('touchend', onEnd);
-  document.addEventListener('mouseup', onEnd);
+
+    hapticTap();
+    setTimeout(() => renderReview(), 50);
+  }
+
+  try { handle.releasePointerCapture(pointerId); } catch (err) {}
+  document.removeEventListener('pointermove', onDragMove);
+  document.removeEventListener('pointerup', onDragEnd);
+  document.removeEventListener('pointercancel', onDragEnd);
+
+  dragState = null;
 }
 
 function openReview() {
-  renderReview();
   document.getElementById('review-screen').classList.add('visible');
+  renderReview();
 }
+
 function closeReview() {
   document.getElementById('review-screen').classList.remove('visible');
 }
 
+function buildClippingText() {
+  const items = getSelectedArticlesInOrder();
+  if (!items.length) return '';
+  const today = new Date();
+  const months = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  const day = today.getDate();
+  const suffix = (day % 10 === 1 && day !== 11) ? 'st'
+              : (day % 10 === 2 && day !== 12) ? 'nd'
+              : (day % 10 === 3 && day !== 13) ? 'rd' : 'th';
+  const header = `*Retail Daily - ${months[today.getMonth()]} ${day}${suffix}*\n\n`;
+  return header + items.map(a => `${a.title}\n${a.url}`).join('\n\n');
+}
+
 async function copyClipping() {
   const text = buildClippingText();
+  if (!text) return;
   try {
     await navigator.clipboard.writeText(text);
     showToast('Copiado!');
   } catch (e) {
+    // Fallback
     const ta = document.createElement('textarea');
     ta.value = text;
-    ta.style.position = 'fixed'; ta.style.opacity = '0';
     document.body.appendChild(ta);
     ta.select();
-    try { document.execCommand('copy'); showToast('Copiado!'); }
-    catch (err) { alert('Não foi possível copiar.\n\n' + text); }
+    document.execCommand('copy');
     document.body.removeChild(ta);
+    showToast('Copiado!');
   }
 }
+
 function showToast(msg) {
   const t = document.getElementById('copy-toast');
   t.textContent = msg;
-  t.classList.add('visible');
-  setTimeout(() => t.classList.remove('visible'), 1800);
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 1400);
 }
 
-// Event listeners
-for (const btn of document.querySelectorAll('#time-filters .pill')) {
-  btn.onclick = () => {
-    state.days = parseInt(btn.dataset.days);
-    document.querySelectorAll('#time-filters .pill').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
+// ============================================================
+// Filtros / busca
+// ============================================================
+document.querySelectorAll('.pill').forEach(p => {
+  p.onclick = () => {
+    document.querySelectorAll('.pill').forEach(x => x.classList.remove('active'));
+    p.classList.add('active');
+    state.daysFilter = parseInt(p.dataset.days, 10);
     render();
   };
-}
-document.getElementById('search').oninput = e => { state.query = e.target.value; render(); };
-document.getElementById('modal-overlay').addEventListener('click', (e) => {
-  if (e.target.classList.contains('modal-overlay')) closeModal();
 });
 
-load();
+document.getElementById('search').oninput = (e) => {
+  state.query = e.target.value;
+  render();
+};
+
+// ESC fecha review e modal
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'Escape') {
+    closeReview();
+    closeAddModal();
+  }
+});
+
+// ============================================================
+// Inicialização
+// ============================================================
+loadState();
+fetchData().then(render);
 </script>
 </body>
 </html>
