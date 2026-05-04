@@ -239,11 +239,6 @@
     border-radius: 4px;
     font-size: 11px;
   }
-  .summary {
-    margin-top: 6px;
-    font-size: 13px; color: var(--text-muted);
-    line-height: 1.45;
-  }
   .tag {
     display: inline-block;
     background: var(--tag-bg);
@@ -376,8 +371,6 @@
     transform: translateX(100%);
     transition: transform 0.25s ease-out;
     overflow-y: auto;
-    /* Em vez de padding-bottom rígido, usamos a altura da action-bar
-       interna que agora é sticky no fim do scroll */
     display: flex;
     flex-direction: column;
   }
@@ -422,7 +415,6 @@
     transition: transform 0.18s cubic-bezier(0.2, 0, 0, 1),
                 opacity 0.15s, box-shadow 0.15s, border-color 0.15s;
   }
-  /* Quando arrastando: item flutua, outros itens "abrem espaço" via transform */
   .reorder-item.dragging {
     opacity: 0.95;
     box-shadow: 0 12px 28px rgba(0,0,0,0.35);
@@ -448,7 +440,6 @@
     user-select: none;
     -webkit-user-select: none;
     -webkit-touch-callout: none;
-    /* Aumenta área de toque sem aumentar visualmente */
     min-width: 36px;
     text-align: center;
   }
@@ -462,7 +453,6 @@
     font-size: 11.5px; color: var(--text-muted);
     margin-top: 4px; word-break: break-all;
   }
-  /* Botões de ação no item (mover topo, mover fim, remover) */
   .item-actions {
     display: flex;
     flex-direction: column;
@@ -604,7 +594,7 @@
     <input type="url" id="manual-url" placeholder="https://..." autocomplete="off">
     <label for="manual-title">Título</label>
     <input type="text" id="manual-title" placeholder="Título do artigo">
-    <label for="manual-summary">Resumo (opcional)</label>
+    <label for="manual-summary">Resumo (opcional, usado só pra busca)</label>
     <textarea id="manual-summary" rows="3" placeholder="Resumo da matéria…"></textarea>
     <div class="modal-actions">
       <button class="btn btn-ghost" onclick="closeAddModal()">Cancelar</button>
@@ -899,7 +889,6 @@ function render() {
               ${otherSectors}
             </div>
             ${aliases ? `<div class="article-aliases">🔍 ${aliases}</div>` : ''}
-            ${a.summary ? `<div class="summary">${esc(a.summary)}</div>` : ''}
           </div>
         </article>`;
       }).join('')}
@@ -1103,13 +1092,12 @@ function moveToBottom(url) {
 }
 
 function hapticTap() {
-  // Feedback tátil discreto onde suportado (Android principalmente)
   if (navigator.vibrate) {
     try { navigator.vibrate(15); } catch(e) {}
   }
 }
 
-// Drag-and-drop com Pointer Events (unifica touch/mouse e dá movimento fluido)
+// Drag-and-drop com Pointer Events
 let dragState = null;
 
 function bindDragHandlers() {
@@ -1126,16 +1114,12 @@ function onDragStart(e, handle) {
   const item = handle.closest('.reorder-item');
   if (!item) return;
 
-  // Captura o ponteiro pra receber move/up mesmo se sair do elemento
   try { handle.setPointerCapture(e.pointerId); } catch (err) {}
 
   const list = document.getElementById('reorder-list');
   const allItems = [...list.querySelectorAll('.reorder-item')];
   const startIdx = allItems.indexOf(item);
   const itemRect = item.getBoundingClientRect();
-
-  // Calcula altura do item incluindo margin-bottom (8px). É a distância
-  // que outros itens deslocam quando "abrem espaço".
   const itemHeight = itemRect.height + 8;
 
   dragState = {
@@ -1152,12 +1136,10 @@ function onDragStart(e, handle) {
 
   item.classList.add('dragging');
   item.style.setProperty('--shift-amount', itemHeight + 'px');
-  // Define a variavel pros outros itens calcularem o shift consistente
   document.documentElement.style.setProperty('--shift-amount', itemHeight + 'px');
 
   hapticTap();
 
-  // Listeners no document pro caso do dedo sair do handle
   document.addEventListener('pointermove', onDragMove);
   document.addEventListener('pointerup', onDragEnd);
   document.addEventListener('pointercancel', onDragEnd);
@@ -1170,10 +1152,8 @@ function onDragMove(e) {
   const { item, startY, startIdx, allItems, itemHeight } = dragState;
   const dy = e.clientY - startY;
 
-  // Move o item arrastado verticalmente
   item.style.transform = `translateY(${dy}px)`;
 
-  // Calcula nova posição baseada no centro virtual do item arrastado
   const movedSlots = Math.round(dy / itemHeight);
   const newIdx = Math.max(0, Math.min(allItems.length - 1, startIdx + movedSlots));
 
@@ -1182,17 +1162,14 @@ function onDragMove(e) {
     hapticTap();
   }
 
-  // Aplica shift visual nos outros itens pra "abrir espaço"
   allItems.forEach((el, i) => {
     if (el === item) return;
     el.classList.remove('shifted-down', 'shifted-up');
     if (newIdx >= startIdx) {
-      // Arrastando pra baixo: itens entre startIdx+1 e newIdx sobem
       if (i > startIdx && i <= newIdx) {
         el.classList.add('shifted-up');
       }
     } else {
-      // Arrastando pra cima: itens entre newIdx e startIdx-1 descem
       if (i >= newIdx && i < startIdx) {
         el.classList.add('shifted-down');
       }
@@ -1204,23 +1181,15 @@ function onDragEnd(e) {
   if (!dragState) return;
   const { item, handle, pointerId, startIdx, currentIdx, url, allItems } = dragState;
 
-  // Limpa estados visuais
   item.classList.remove('dragging');
   item.style.transform = '';
   allItems.forEach(el => el.classList.remove('shifted-down', 'shifted-up'));
 
-  // Aplica reordenação se mudou de posição
   if (currentIdx !== startIdx) {
     const newOrder = state.order.filter(u => u !== url);
-    // Calcula índice de inserção no array completo (state.order pode ter
-    // URLs nao selecionadas tambem - mas getSelectedArticlesInOrder filtra)
-    // Pegamos a URL do item que está atualmente em currentIdx (entre os
-    // selecionados visiveis) e inserimos relativa a ela
     const visibleUrls = allItems
       .filter(el => el !== item)
       .map(el => el.dataset.url);
-    // visibleUrls está na ordem original sem o item que arrastamos
-    // Inserimos antes do item que está no slot currentIdx
     const targetUrl = visibleUrls[currentIdx > startIdx ? currentIdx - 1 : currentIdx];
 
     if (targetUrl) {
@@ -1272,7 +1241,6 @@ async function copyClipping() {
     await navigator.clipboard.writeText(text);
     showToast('Copiado!');
   } catch (e) {
-    // Fallback
     const ta = document.createElement('textarea');
     ta.value = text;
     document.body.appendChild(ta);
@@ -1307,7 +1275,6 @@ document.getElementById('search').oninput = (e) => {
   render();
 };
 
-// ESC fecha review e modal
 document.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') {
     closeReview();
