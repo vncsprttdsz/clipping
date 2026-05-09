@@ -128,7 +128,7 @@ FEED_URLS = [
     "https://pox.globo.com/rss/oglobo/economia",
     "https://pox.globo.com/rss/oglobo/politica",
 
-    # ----- Pipeline Valor -----
+    # ----- Pipeline Valor (M&A, negocios) -----
     "https://pox.globo.com/rss/pipelinevalor",
     "https://pox.globo.com/rss/pipelinevalor/ultimas",
     "https://pox.globo.com/rss/pipelinevalor/negocios",
@@ -143,6 +143,13 @@ FEED_URLS = [
     "https://mercadoeconsumo.com.br/feed/",
     "https://neofeed.com.br/feed/",
     "https://pox.globo.com/rss/epocanegocios",
+    # Forbes Brasil (Forbes Life cobre marcas como Farm Rio, Reserva, etc.)
+    "https://forbes.com.br/feed/",
+    # Bloomberg Línea Brasil (cobertura corporativa BR)
+    "https://www.bloomberglinea.com.br/brasil/feed/",
+    "https://www.bloomberglinea.com.br/feed/",
+    # CNN Brasil (cobertura economia)
+    "https://www.cnnbrasil.com.br/economia/feed/",
 
     # ----- Internacionais -----
     "https://www.cnbc.com/id/10001147/device/rss/rss.html",
@@ -154,11 +161,25 @@ FEED_URLS = [
     "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
     "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
 
-    # ----- Google News (fallback) -----
-    "https://news.google.com/rss/search?q=site:bloomberglinea.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    # ----- Google News BR: agregadores por veiculo -----
+    # Critico: o Google News indexa TUDO de um site, incluindo materias
+    # que nao aparecem no top-X dos feeds RSS nativos. Sem isso, perdemos
+    # materias da janela de tempo certa que so estao no /search/ do veiculo.
+    # 'when:2d' filtra so materias das ultimas 48h (alinha com --since 48).
+    "https://news.google.com/rss/search?q=site:valor.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:epocanegocios.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:neofeed.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
 
-    # ----- Google News: Saúde -----
+    # ----- Google News: Saúde (GLP-1, canetas emagrecedoras) -----
     "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -811,7 +832,8 @@ def main():
     if args.reset_seen:
         if SEEN_DB.exists():
             SEEN_DB.unlink()
-        print("Historico zerado.", file=sys.stderr)
+        new_count_msg = "Historico zerado."
+        print(new_count_msg, file=sys.stderr)
         return
 
     if args.output_json:
