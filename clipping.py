@@ -59,6 +59,26 @@ BR_ONLY_SECTORS = {
     "Eletrônicos", "Viagens", "Pet", "Wellness e Esportes",
 }
 
+# Dominios bloqueados - URLs desses sites sao descartadas
+# UOL puro foi removido pois puxa muitas materias antigas.
+# Folha (folha.uol.com.br) NAO eh bloqueada - eh outro veiculo.
+_BLOCKED_URL_RE = re.compile(
+    r"(noticias\.uol\.com\.br|economia\.uol\.com\.br|esporte\.uol\.com\.br|"
+    r"entretenimento\.uol\.com\.br|www\.uol\.com\.br|rss\.uol\.com\.br|"
+    r"^https?://uol\.com\.br|//uol\.com\.br)",
+    re.IGNORECASE
+)
+
+
+def is_blocked_url(url: str) -> bool:
+    """Retorna True se a URL eh de um dominio bloqueado."""
+    if not url:
+        return False
+    # Folha (folha.uol.com.br) eh permitida - eh outro veiculo
+    if 'folha.uol.com.br' in url:
+        return False
+    return bool(_BLOCKED_URL_RE.search(url))
+
 
 # ============================================================
 # Carrega keywords
@@ -138,7 +158,6 @@ FEED_URLS = [
     "https://exame.com/feed/",
     "https://veja.abril.com.br/feed",
     "https://veja.abril.com.br/economia/feed",
-    "https://rss.uol.com.br/feed/economia.xml",
     "https://www.jota.info/feed",
     "https://mercadoeconsumo.com.br/feed/",
     "https://neofeed.com.br/feed/",
@@ -184,7 +203,6 @@ FEED_URLS = [
     "https://news.google.com/rss/search?q=saude+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-    "https://news.google.com/rss/search?q=saude+site:uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
 ]
 
 EXPERIMENTAL_FEEDS = [
@@ -212,7 +230,6 @@ HTML_FALLBACK_PAGES = [
     "https://valor.globo.com/saude/",
     "https://www1.folha.uol.com.br/equilibrioesaude/",
     "https://www.estadao.com.br/saude/",
-    "https://noticias.uol.com.br/saude/",
 ]
 
 
@@ -367,10 +384,7 @@ normalize_url = dedup_key
 
 
 def normalize_title_for_dedup(title: str) -> str:
-    """Normaliza titulo para deduplicacao cross-source.
-
-    Remove sufixos tipicos de veiculo ('- Estadao', '- Folha de S.Paulo', etc.)
-    """
+    """Normaliza titulo para deduplicacao cross-source."""
     t = normalize(title or "")
     t = re.sub(r"[^\w\s]", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
@@ -507,6 +521,9 @@ def parse_entry(entry, source: str) -> Optional[Article]:
         url = (entry.get("link") or "").strip()
         # Limpa URL antes de salvar no Article
         url = clean_url(url)
+        # Bloqueia URLs de dominios excluidos (UOL puro, etc.)
+        if is_blocked_url(url):
+            return None
         raw_summary = entry.get("summary") or entry.get("description") or ""
         summary = re.sub(r"<[^>]+>", " ", raw_summary)
         summary = re.sub(r"\s+", " ", summary).strip()
@@ -570,8 +587,11 @@ def fetch_html_fallback(url: str) -> List[Article]:
             summary = summary_tag.get_text(" ", strip=True) if summary_tag else ""
 
             if title and len(title) > 15 and not is_junk_title(title):
+                cleaned_href = clean_url(href)
+                if is_blocked_url(cleaned_href):
+                    continue
                 articles.append(Article(
-                    title=title, summary=summary, url=clean_url(href),
+                    title=title, summary=summary, url=cleaned_href,
                     published=None, source=url,
                 ))
         return articles
@@ -722,6 +742,11 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             if is_junk_title(a_dict.get("title", "")):
                 dropped += 1
                 continue
+            # Filtra dominios bloqueados (UOL puro, etc.) durante rescore
+            cleaned_existing_url = clean_url(a_dict.get("url", ""))
+            if is_blocked_url(cleaned_existing_url):
+                dropped += 1
+                continue
 
             published = None
             if a_dict.get("published"):
@@ -732,7 +757,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             a = Article(
                 title=a_dict.get("title", ""),
                 summary=a_dict.get("summary", ""),
-                url=clean_url(a_dict.get("url", "")),
+                url=cleaned_existing_url,
                 published=published,
                 source=a_dict.get("source", ""),
             )
@@ -832,8 +857,7 @@ def main():
     if args.reset_seen:
         if SEEN_DB.exists():
             SEEN_DB.unlink()
-        new_count_msg = "Historico zerado."
-        print(new_count_msg, file=sys.stderr)
+        print("Historico zerado.", file=sys.stderr)
         return
 
     if args.output_json:
