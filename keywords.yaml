@@ -58,6 +58,10 @@ sectors:
       requires_any: [loja, marca, moda, vestuário, coleção, azzas, grupo, rio]
     - alias: reserva
       requires_any: [loja, marca, moda, vestuário, azzas, coleção, collection]
+      requires_none: [tesouro reserva, reserva monetária, reserva financeira,
+                      reserva de emergência, reserva técnica, caixinha,
+                      reservas internacionais, reserva legal,
+                      reserva indígena, reserva ambiental, reserva florestal]
     - alias: vans
       requires_any: [tênis, calçado, sneaker, moda, loja, marca]
     - alias: marisa
@@ -100,7 +104,6 @@ sectors:
   # ------------------------------------------------------------
   E-commerce:
     # Simples - players com operação BR relevante
-    - mercado livre
     - mercadolibre
     - mercado pago
     - mercado crédito
@@ -140,6 +143,12 @@ sectors:
     - fulfillment
 
     # Ambíguos
+    - alias: mercado livre
+      # "mercado livre de energia" eh setor eletrico, nao e-commerce.
+      # Precisa de contexto de varejo/marketplace.
+      requires_none: [mercado livre de energia, energia elétrica,
+                      comercializadora de energia, distribuidora de energia,
+                      consumidores cativos, setor elétrico]
     - alias: galpões
       requires_any: [logístic, vacância, distribuição, e-commerce, varejo,
                      mercado livre, shopee, amazon, magalu, fulfillment,
@@ -221,8 +230,16 @@ sectors:
       requires_any: [grupo, empresário, acionista, gpa, sendas]
     - alias: pao de acucar
       requires_any: [grupo, supermercado, varejo, gpa, casino, receita]
+      requires_none: [tirolesa no pão, tirolesa no pao, bondinho do pão,
+                      bondinho do pao, atração turística, urca,
+                      cristo redentor, aula de ioga, morro do pão,
+                      morro do pao, cartão postal]
     - alias: pão de açúcar
       requires_any: [grupo, supermercado, varejo, gpa, casino, receita]
+      requires_none: [tirolesa no pão, tirolesa no pao, bondinho do pão,
+                      bondinho do pao, atração turística, urca,
+                      cristo redentor, aula de ioga, morro do pão,
+                      morro do pao, cartão postal]
     - alias: grupo mateus
       requires_any: [supermercado, atacarejo, varejo, receita, vendas]
     - alias: casino
@@ -444,7 +461,6 @@ sectors:
     - apostas online
     - apostas esportivas
     - bettors
-    - desenrola
     - renegociação de dívidas
     # Tendências de mercado
     - vestuário
@@ -454,6 +470,24 @@ sectors:
     - fast fashion
 
     # AMBÍGUOS - termos genéricos com contexto BR ou tema relevante
+    - alias: desenrola
+      # Pesquisas eleitorais (Datafolha, Genial/Quaest, Futura/Apex) sao
+      # frequentemente sobre intencao de voto e mencionam "Desenrola" como
+      # um dos topicos avaliados, mas nao sao sobre o programa em si.
+      requires_none:
+        - "datafolha:"
+        - "genial/quaest:"
+        - "futura/apex:"
+        - pesquisa para presidente
+        - intenção de voto
+        - empate técnico
+        - primeiro turno
+        - segundo turno
+        - candidato
+        - candidata
+        - eleições presidenciais
+        - desaprovação do governo
+        - aprovação do governo
     - alias: reforma tributária
       requires_any: [varejo, consumo, ibs, cbs, alíquota, regulamentação,
                      supermercado, cesta básica, imposto seletivo, subvenção,
@@ -634,7 +668,7 @@ sectors:
   # GLOBAL CONSUMER
   # ------------------------------------------------------------
   Global Consumer:
-    # Empresas globais inequívocas (sem operação brasileira direta)
+    # Empresas globais inequívocas
     - costco
     - saks fifth avenue
     - tesco
@@ -693,7 +727,6 @@ sectors:
     - alias: macy's
       requires_any: [retail, department store, sales, earnings, stock]
     - alias: prada
-      # "O Diabo Veste Prada" eh filme - exige contexto comercial real
       requires_any: [miuccia, miu miu, milan, kering, brand, fashion house,
                      runway, collection, earnings, sales, ações, balanço,
                      italian luxury]
