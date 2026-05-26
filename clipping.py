@@ -74,7 +74,6 @@ def is_blocked_url(url: str) -> bool:
     """Retorna True se a URL eh de um dominio bloqueado."""
     if not url:
         return False
-    # Folha (folha.uol.com.br) eh permitida - eh outro veiculo
     if 'folha.uol.com.br' in url:
         return False
     return bool(_BLOCKED_URL_RE.search(url))
@@ -162,12 +161,9 @@ FEED_URLS = [
     "https://mercadoeconsumo.com.br/feed/",
     "https://neofeed.com.br/feed/",
     "https://pox.globo.com/rss/epocanegocios",
-    # Forbes Brasil (Forbes Life cobre marcas como Farm Rio, Reserva, etc.)
     "https://forbes.com.br/feed/",
-    # Bloomberg Línea Brasil (cobertura corporativa BR)
     "https://www.bloomberglinea.com.br/brasil/feed/",
     "https://www.bloomberglinea.com.br/feed/",
-    # CNN Brasil (cobertura economia)
     "https://www.cnnbrasil.com.br/economia/feed/",
 
     # ----- Internacionais -----
@@ -181,10 +177,6 @@ FEED_URLS = [
     "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
 
     # ----- Google News BR: agregadores por veiculo -----
-    # Critico: o Google News indexa TUDO de um site, incluindo materias
-    # que nao aparecem no top-X dos feeds RSS nativos. Sem isso, perdemos
-    # materias da janela de tempo certa que so estao no /search/ do veiculo.
-    # 'when:2d' filtra so materias das ultimas 48h (alinha com --since 48).
     "https://news.google.com/rss/search?q=site:valor.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -266,13 +258,94 @@ def normalize(text: str) -> str:
 # Cache em memoria pra evitar resolver a mesma URL 2x no mesmo run
 _REDIRECT_CACHE: dict = {}
 
+# User agent realista pro Google News (HEAD/GET genericos retornam 403)
+_GOOGLE_UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
+              "AppleWebKit/537.36 (KHTML, like Gecko) "
+              "Chrome/120.0.0.0 Safari/537.36")
+
+
+def _decode_google_news_via_batchexecute(gn_art_id: str) -> Optional[str]:
+    """
+    Decodifica URL do Google News usando o endpoint batchexecute.
+
+    Funciona em 2 passos:
+    1. GET /articles/<id> pra extrair signature + timestamp do HTML
+    2. POST /batchexecute com o payload garturlreq pra obter URL real
+
+    Esse e o unico metodo confiavel desde julho/2024, quando o Google
+    mudou pra IDs opacos (AU_yqL...) que nao contem a URL real no base64.
+
+    Retorna None em caso de qualquer erro (403, parsing, timeout etc).
+    """
+    if not HAS_HTML or not gn_art_id:
+        return None
+
+    # Passo 1: extrai signature e timestamp do HTML do artigo
+    try:
+        r = requests.get(
+            f"https://news.google.com/rss/articles/{gn_art_id}",
+            headers={"User-Agent": _GOOGLE_UA},
+            timeout=8,
+        )
+        if r.status_code != 200:
+            return None
+        sig_match = re.search(r'data-n-a-sg="([^"]+)"', r.text)
+        ts_match = re.search(r'data-n-a-ts="([^"]+)"', r.text)
+        if not sig_match or not ts_match:
+            return None
+        signature = sig_match.group(1)
+        timestamp = ts_match.group(1)
+    except Exception:
+        return None
+
+    # Passo 2: POST batchexecute pra obter URL real
+    try:
+        from urllib.parse import quote
+        articles_req = [
+            "Fbv4je",
+            f'["garturlreq",[["X","X",["X","X"],null,null,1,1,'
+            f'"US:en",null,1,null,null,null,null,null,0,1],'
+            f'"X","X",1,[1,1,1],1,1,null,0,0,null,0],'
+            f'"{gn_art_id}",{timestamp},"{signature}"]'
+        ]
+        payload = "f.req=" + quote(json.dumps([[articles_req]]))
+        r = requests.post(
+            "https://news.google.com/_/DotsSplashUi/data/batchexecute",
+            headers={
+                "Content-Type": "application/x-www-form-urlencoded;charset=UTF-8",
+                "User-Agent": _GOOGLE_UA,
+            },
+            data=payload,
+            timeout=8,
+        )
+        if r.status_code != 200:
+            return None
+        # Resposta vem como ")]}'\n\n[[...]]"
+        parts = r.text.split("\n\n", 1)
+        if len(parts) < 2:
+            return None
+        outer = json.loads(parts[1])
+        for item in outer:
+            if isinstance(item, list) and len(item) > 2 and item[2]:
+                try:
+                    inner = json.loads(item[2])
+                    if (isinstance(inner, list) and len(inner) >= 2
+                            and isinstance(inner[1], str)
+                            and inner[1].startswith("http")):
+                        return inner[1]
+                except Exception:
+                    continue
+        return None
+    except Exception:
+        return None
+
 
 def _resolve_redirect(url: str, max_hops: int = 3) -> Optional[str]:
     """
-    Tenta resolver redirect/Google News:
-    1. HEAD request com follow_redirects (resolve a maioria dos casos)
-    2. Se falhar e for Google News, faz GET e tenta extrair URL real
-       de meta refresh ou link tags
+    Tenta resolver redirect:
+    - Para Google News: usa batchexecute decoder (necessario desde 2024)
+    - Para outras URLs: HEAD com follow_redirects (resolve a maioria)
+
     Retorna a URL final ou None em caso de erro/timeout.
     """
     if not HAS_HTML:
@@ -282,39 +355,25 @@ def _resolve_redirect(url: str, max_hops: int = 3) -> Optional[str]:
 
     final_url = None
 
-    # Tentativa 1: HEAD com redirects
+    # Para Google News, usa o decoder dedicado
+    if 'news.google.com' in url:
+        m = re.search(r'/articles/([^?/]+)', url)
+        if m:
+            gn_art_id = m.group(1)
+            decoded = _decode_google_news_via_batchexecute(gn_art_id)
+            if decoded:
+                final_url = decoded
+        _REDIRECT_CACHE[url] = final_url
+        return final_url
+
+    # Para outras URLs (redir, etc.) usa HEAD
     try:
         r = requests.head(url, headers={"User-Agent": USER_AGENT},
                           allow_redirects=True, timeout=8)
-        if r.url and r.url != url and 'news.google.com' not in r.url:
+        if r.url and r.url != url:
             final_url = r.url
     except Exception:
         pass
-
-    # Tentativa 2: para Google News, GET e parse do HTML
-    if not final_url and 'news.google.com' in url:
-        try:
-            r = requests.get(url, headers={"User-Agent": USER_AGENT},
-                             allow_redirects=True, timeout=8)
-            if r.url and 'news.google.com' not in r.url:
-                final_url = r.url
-            else:
-                html = r.text[:50000]
-                # Padrao 1: meta refresh
-                m = re.search(
-                    r'<meta[^>]+http-equiv=["\']refresh["\'][^>]+url=([^"\'>]+)',
-                    html, re.IGNORECASE)
-                if m:
-                    final_url = m.group(1).strip()
-                else:
-                    # Padrao 2: <a href> apontando pra URL externa
-                    m = re.search(
-                        r'<a[^>]+href=["\'](https?://(?!news\.google\.com)[^"\']+)["\']',
-                        html)
-                    if m:
-                        final_url = m.group(1).strip()
-        except Exception:
-            pass
 
     _REDIRECT_CACHE[url] = final_url
     return final_url
@@ -384,19 +443,33 @@ normalize_url = dedup_key
 
 
 def normalize_title_for_dedup(title: str) -> str:
-    """Normaliza titulo para deduplicacao cross-source."""
+    """Normaliza titulo para deduplicacao cross-source.
+
+    Remove sufixos de veiculo no formato " - Veículo" pra que a mesma materia
+    venha de fontes diferentes (RSS nativo + Google News) seja deduplicada.
+    Sufixos compostos vem PRIMEIRO no regex (forbes brasil antes de forbes).
+    """
     t = normalize(title or "")
     t = re.sub(r"[^\w\s]", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
-    t = re.sub(
-        r"\s+(estadao|folha de s paulo|folha de sao paulo|folha|"
-        r"valor economico|valor|o globo|globo|veja|exame|"
+    venues_pattern = (
+        # Sufixos compostos PRIMEIRO (mais especificos)
+        r"forbes brasil|bloomberg linea brasil|bloomberg linea|"
+        r"brazil journal|epoca negocios|folha de s paulo|folha de sao paulo|"
+        r"valor economico|o globo|cnn brasil|estadao blue studio|"
+        r"el economista|el financiero|"
+        # Sufixos simples
+        r"estadao|folha|valor|globo|veja|exame|"
         r"reuters|bloomberg|cnbc|forbes|ft|wsj|"
-        r"neofeed|epoca negocios|infomoney|poder360|jota|"
-        r"brazil journal|bloomberg linea)$",
-        "",
-        t,
+        r"neofeed|infomoney|poder360|jota|"
+        r"pipelinevalor|pipeline|"
+        r"o globo|o globo brasil"
     )
+    for _ in range(3):  # ate 3 sufixos encadeados
+        new_t = re.sub(rf"\s+({venues_pattern})$", "", t)
+        if new_t == t:
+            break
+        t = new_t
     return t.strip()
 
 
@@ -519,9 +592,7 @@ def parse_entry(entry, source: str) -> Optional[Article]:
     try:
         title = (entry.get("title") or "").strip()
         url = (entry.get("link") or "").strip()
-        # Limpa URL antes de salvar no Article
         url = clean_url(url)
-        # Bloqueia URLs de dominios excluidos (UOL puro, etc.)
         if is_blocked_url(url):
             return None
         raw_summary = entry.get("summary") or entry.get("description") or ""
@@ -615,7 +686,16 @@ def dedup_articles(articles: List[Article]) -> List[Article]:
             continue
         if key in by_title:
             existing = by_title[key]
-            if a.published and (not existing.published or a.published > existing.published):
+            # Prefere URL nativa sobre Google News (mesmo se Google News
+            # for mais recente). Se ambos forem do mesmo tipo, mantem o
+            # mais novo.
+            existing_is_gn = 'news.google.com' in existing.url
+            new_is_gn = 'news.google.com' in a.url
+            if existing_is_gn and not new_is_gn:
+                by_title[key] = a
+            elif not existing_is_gn and new_is_gn:
+                pass  # mantem o existing nativo
+            elif a.published and (not existing.published or a.published > existing.published):
                 by_title[key] = a
         else:
             by_title[key] = a
@@ -742,7 +822,6 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             if is_junk_title(a_dict.get("title", "")):
                 dropped += 1
                 continue
-            # Filtra dominios bloqueados (UOL puro, etc.) durante rescore
             cleaned_existing_url = clean_url(a_dict.get("url", ""))
             if is_blocked_url(cleaned_existing_url):
                 dropped += 1
