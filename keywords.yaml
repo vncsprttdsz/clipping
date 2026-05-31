@@ -423,31 +423,77 @@ sectors:
   # ECONOMIA
   # ------------------------------------------------------------
   Economia:
-    # Trabalho - termos especificos, baixo risco de falso positivo
-    - escala 6x1
-    - escala 5x2
-    - jornada 40 horas
-    - jornada 44 horas
-    - jornada de trabalho
-    - redução de jornada
-    - carga horária
-    # Tributário
-    - ibs
-    - cbs
-    - imposto seletivo
-    - cesta básica nacional
-    - subvenção
-    - créditos fiscais
-    - benefícios fiscais
+    # Trabalho - tópico recorrente, relevante, mas com cap no JSON final
+    - alias: escala 6x1
+      topic: jornada_trabalho
+    - alias: escala 5x2
+      topic: jornada_trabalho
+    - alias: jornada 40 horas
+      topic: jornada_trabalho
+    - alias: jornada 44 horas
+      topic: jornada_trabalho
+    - alias: jornada de trabalho
+      topic: jornada_trabalho
+    - alias: redução de jornada
+      topic: jornada_trabalho
+    - alias: carga horária
+      topic: jornada_trabalho
+
+    # Tributário - termos ambíguos precisam de contexto
+    - alias: ibs
+      topic: reforma_tributaria
+      requires_any: [reforma tributária, cbs, imposto sobre bens e serviços,
+                     comitê gestor, tributo, tributária, alíquota, imposto,
+                     consumo, lc 214, lei complementar]
+    - alias: cbs
+      topic: reforma_tributaria
+      requires_any: [reforma tributária, ibs, imposto sobre bens e serviços,
+                     contribuição sobre bens e serviços, tributo, tributária,
+                     alíquota, imposto, consumo, lc 214, lei complementar]
+      requires_none: [segundo cbs, cbs news, emissora cbs, entrevista à cbs,
+                      entrevista a cbs, according to cbs]
+    - alias: imposto seletivo
+      topic: reforma_tributaria
+    - alias: cesta básica nacional
+      topic: reforma_tributaria
+    - alias: reforma tributária
+      topic: reforma_tributaria
+      requires_any: [varejo, consumo, ibs, cbs, alíquota, regulamentação,
+                     supermercado, cesta básica, imposto seletivo, subvenção,
+                     setor produtivo, comércio, indústria, tributos sobre consumo,
+                     indústria de bebidas, refrigerantes, tabaco, álcool]
+      requires_none: [petrobras, petróleo, gás natural, gasolina, diesel,
+                      combustível, combustíveis, refinaria, óleo, pré-sal]
+    - alias: subvenção
+      requires_any: [icms, crédito presumido, benefício fiscal, benefícios fiscais,
+                     incentivo fiscal, lei 14.789, varejo, comércio, consumo,
+                     base de cálculo, pis, cofins, irpj, csll]
+      requires_none: [gasolina, diesel, combustível, combustíveis, petróleo,
+                      gás natural, etanol, fertilizantes, agro, rural]
+    - alias: créditos fiscais
+      requires_any: [icms, crédito presumido, benefício fiscal, benefícios fiscais,
+                     incentivo fiscal, lei 14.789, varejo, comércio, consumo,
+                     pis, cofins, irpj, csll]
+      requires_none: [gasolina, diesel, combustível, combustíveis, petróleo,
+                      gás natural, etanol, fertilizantes, agro, rural]
+    - alias: benefícios fiscais
+      requires_any: [icms, crédito presumido, varejo, comércio, consumo, indústria,
+                     reforma tributária, subvenção, irpj, csll, pis, cofins,
+                     incentivo fiscal]
+      requires_none: [igrejas, defesa, vorcaro, brb, fertilizantes, combustível,
+                      combustíveis]
     - substituição tributária
     - icms-st
     - difal
     - convênio icms
-    # Macro consumo - termos especificos
-    - pmc
+
+    # Macro consumo - Economia agora só considera título e lead, não body
+    - alias: pmc
+      requires_any: [ibge, pesquisa mensal do comercio, pesquisa mensal do comércio,
+                     varejo, comércio, vendas no varejo]
     - pesquisa mensal do comercio
+    - pesquisa mensal do comércio
     - vendas no varejo
-    - varejo físico
     - massa salarial
     - renda real
     - endividamento das famílias
@@ -461,19 +507,19 @@ sectors:
     - apostas online
     - apostas esportivas
     - bettors
-    - renegociação de dívidas
-    # Tendências de mercado
-    - vestuário
-    - calçadista
-    - varejo de moda
-    - lei da moda
-    - fast fashion
+    - alias: renegociação de dívidas
+      requires_any: [consumidor, consumidores, pessoa física, famílias,
+                     endividamento, inadimplência, desenrola, fgts, bancos,
+                     crédito, cartão, varejo]
+      requires_none: [rural, rurais, agro, agronegócio, estados, municípios,
+                      clubes, empresas, recuperação judicial]
 
     # AMBÍGUOS - termos genéricos com contexto BR ou tema relevante
     - alias: desenrola
-      # Pesquisas eleitorais (Datafolha, Genial/Quaest, Futura/Apex) sao
-      # frequentemente sobre intencao de voto e mencionam "Desenrola" como
-      # um dos topicos avaliados, mas nao sao sobre o programa em si.
+      topic: desenrola
+      requires_any: [desenrola brasil, renegociação, renegociar, dívida, dívidas,
+                     inadimplência, consumidor, consumidores, pessoa física,
+                     famílias, bancos, varejo, crédito, cartão]
       requires_none:
         - "datafolha:"
         - "genial/quaest:"
@@ -488,13 +534,6 @@ sectors:
         - eleições presidenciais
         - desaprovação do governo
         - aprovação do governo
-    - alias: reforma tributária
-      requires_any: [varejo, consumo, ibs, cbs, alíquota, regulamentação,
-                     supermercado, cesta básica, imposto seletivo, subvenção,
-                     setor produtivo, comércio, indústria, tributos sobre consumo,
-                     indústria de bebidas, refrigerantes, tabaco, álcool]
-      requires_none: [petrobras, petróleo, gás natural, gasolina, diesel,
-                      combustível, refinaria, óleo, pré-sal]
     - alias: bolsa família
       requires_any: [aumento, ajuste, programa social, transferência de renda,
                      revisão, reforma, expansão, beneficiários, miseráveis,
@@ -514,13 +553,14 @@ sectors:
                       eua, estados unidos, conference board, japão,
                       china, alemanha, frança, reino unido, eurozona]
     - alias: bets
-      requires_any: [varejo, consumo, regulamentação, lei das bets,
-                     vício, apostas online, apostadores, jogadores,
-                     ministério da fazenda, banco central, sigap, senacon,
-                     impacto no varejo, gastos das famílias]
+      requires_any: [varejo, consumo, endividamento, inadimplência, regulamentação,
+                     lei das bets, vício, apostas online, apostas esportivas,
+                     apostadores, jogadores, ministério da fazenda, banco central,
+                     sigap, senacon, impacto no varejo, gastos das famílias]
       requires_none: [dono de bets, empresário de bets, jatinho,
-                      hugo motta, ciro nogueira]
-
+                      hugo motta, ciro nogueira, patrocínio, patrocinios,
+                      time de futebol, clubes de futebol, mercado de previsão,
+                      prediction markets]
   # ------------------------------------------------------------
   # MATERIAL DE CONSTRUÇÃO
   # ------------------------------------------------------------
