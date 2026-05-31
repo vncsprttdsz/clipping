@@ -45,6 +45,11 @@ USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36
 
 FEED_TIMEOUT = 10
 
+# Scoring por região do texto (reduz falso positivo de RSS longo)
+LEAD_CHARS = 500
+BODY_CHARS = 3000
+ECONOMY_SECTOR = "Economia"
+
 JUNK_TITLES = {
     "curtas", "giro", "resumo", "resumo do dia", "giro do dia",
     "painel", "noticias em tempo real", "últimas notícias",
@@ -58,6 +63,44 @@ BR_ONLY_SECTORS = {
     "Cosméticos", "Farmácias", "Economia", "Material de Construção",
     "Eletrônicos", "Viagens", "Pet", "Wellness e Esportes",
 }
+
+# Limita excesso de matérias de tópicos recorrentes no JSON final.
+TOPIC_CAPS = {
+    "jornada_trabalho": 12,
+    "desenrola": 8,
+    "reforma_tributaria": 10,
+}
+
+# Se a matéria cita diretamente empresas cobertas no título, ela não deve
+# ser limitada pelo cap de tópico.
+TOPIC_CAP_BYPASS_TERMS = {
+    "mercado livre", "mercadolibre", "meli", "mercado pago",
+    "magalu", "mglu", "casas bahia", "amazon", "shopee",
+    "shein", "temu", "aliexpress",
+    "renner", "lren", "c&a", "ceab", "riachuelo", "guararapes",
+    "azzas", "arezzo", "hering", "havan", "farm rio",
+    "assai", "assaí", "gpa", "pao de acucar", "pão de açúcar",
+    "carrefour", "atacadao", "atacadão", "grupo mateus",
+    "rd saude", "rd saúde", "raia", "drogasil", "pague menos",
+    "panvel", "natura", "boticario", "boticário", "vivara",
+    "track&field", "track field", "smart fit", "petz", "cobasi",
+}
+# Nota: termos genéricos demais (reserva, farm, life, soma) foram retirados
+# do bypass de propósito. Como substring/palavra eles casavam contexto errado
+# ("reserva de energia", "farmácia", "lifestyle", "somando") e furavam o cap
+# por engano. As marcas reais (Farm, Reserva) entram no clipping pelo próprio
+# matching de setor (Fashion), que não tem topic capado, então o bypass é
+# irrelevante para elas. "farm rio" fica como termo inequívoco da marca.
+
+# Regex de bypass com fronteira de palavra. Usamos (?<!\w) ... (?!\w) em vez
+# de \b porque alguns termos têm "&" (c&a, track&field), onde \b se comporta
+# de forma inesperada.
+_TOPIC_CAP_BYPASS_RE = re.compile(
+    "|".join(
+        rf"(?<!\w){re.escape(_t)}(?!\w)"
+        for _t in sorted(TOPIC_CAP_BYPASS_TERMS, key=len, reverse=True)
+    )
+)
 
 # Dominios bloqueados - URLs desses sites sao descartadas
 # UOL puro foi removido pois puxa muitas materias antigas.
@@ -93,25 +136,50 @@ def load_keywords():
     except yaml.YAMLError as e:
         sys.exit(f"Erro no YAML (verifique indentacao): {e}")
 
+    def _kw_normalize(text: str) -> str:
+        nfkd = unicodedata.normalize("NFKD", (text or "").lower())
+        return "".join(c for c in nfkd if not unicodedata.combining(c))
+
     sectors_raw = data.get("sectors", {}) or {}
     sectors = {}
+
     for sector_name, entries in sectors_raw.items():
         rules = []
+
         for item in entries:
             if isinstance(item, str):
-                rules.append({"alias": item, "requires_any": None, "requires_none": None})
+                alias = item
+                req_any = []
+                req_none = []
+                topic = None
             elif isinstance(item, dict) and "alias" in item:
+                alias = item["alias"]
                 req_any = item.get("requires_any") or []
                 req_none = item.get("requires_none") or []
-                rules.append({
-                    "alias": item["alias"],
-                    "requires_any": req_any,
-                    "requires_none": req_none,
-                })
+                topic = item.get("topic")
             else:
                 sys.exit(f"Setor {sector_name}: entrada invalida {item}")
+
+            alias_n = _kw_normalize(alias)
+            rules.append({
+                "alias": alias,
+                "requires_any": req_any,
+                "requires_none": req_none,
+                "topic": topic,
+                "_alias_re": re.compile(rf"\b{re.escape(alias_n)}\b"),
+                "_requires_any_re": [
+                    re.compile(rf"\b{re.escape(_kw_normalize(req))}\b")
+                    for req in req_any
+                ],
+                "_requires_none_re": [
+                    re.compile(rf"\b{re.escape(_kw_normalize(ban))}\b")
+                    for ban in req_none
+                ],
+            })
+
         sectors[sector_name] = rules
         print(f"[sector] {sector_name}: {len(rules)} aliases", file=sys.stderr)
+
     return sectors
 
 
@@ -238,6 +306,7 @@ class Article:
     source: str = ""
     matched_sectors: List[str] = field(default_factory=list)
     matched_aliases: List[str] = field(default_factory=list)
+    matches: List[dict] = field(default_factory=list)
     score: float = 0.0
 
     def to_json(self) -> dict:
@@ -280,7 +349,6 @@ def _decode_google_news_via_batchexecute(gn_art_id: str) -> Optional[str]:
     if not HAS_HTML or not gn_art_id:
         return None
 
-    # Passo 1: extrai signature e timestamp do HTML do artigo
     try:
         r = requests.get(
             f"https://news.google.com/rss/articles/{gn_art_id}",
@@ -298,7 +366,6 @@ def _decode_google_news_via_batchexecute(gn_art_id: str) -> Optional[str]:
     except Exception:
         return None
 
-    # Passo 2: POST batchexecute pra obter URL real
     try:
         from urllib.parse import quote
         articles_req = [
@@ -320,7 +387,6 @@ def _decode_google_news_via_batchexecute(gn_art_id: str) -> Optional[str]:
         )
         if r.status_code != 200:
             return None
-        # Resposta vem como ")]}'\n\n[[...]]"
         parts = r.text.split("\n\n", 1)
         if len(parts) < 2:
             return None
@@ -355,7 +421,6 @@ def _resolve_redirect(url: str, max_hops: int = 3) -> Optional[str]:
 
     final_url = None
 
-    # Para Google News, usa o decoder dedicado
     if 'news.google.com' in url:
         m = re.search(r'/articles/([^?/]+)', url)
         if m:
@@ -366,7 +431,6 @@ def _resolve_redirect(url: str, max_hops: int = 3) -> Optional[str]:
         _REDIRECT_CACHE[url] = final_url
         return final_url
 
-    # Para outras URLs (redir, etc.) usa HEAD
     try:
         r = requests.head(url, headers={"User-Agent": USER_AGENT},
                           allow_redirects=True, timeout=8)
@@ -391,19 +455,15 @@ def clean_url(url: str) -> str:
     if not url:
         return ""
 
-    # Folha: o link real vem apos '/rss091/*'
     if '/rss091/*' in url:
         parts = url.split('/rss091/*', 1)
         if len(parts) == 2 and parts[1].startswith('http'):
             url = parts[1]
 
-    # UOL: remove query string em paginas .htm
     if 'economia.uol.com.br' in url and '.htm' in url:
         url = url.split('?')[0]
 
-    # Google News
     if 'news.google.com' in url:
-        # Primeiro tenta query string ?url= (formato antigo)
         if 'url=' in url:
             try:
                 from urllib.parse import urlparse, parse_qs
@@ -412,7 +472,6 @@ def clean_url(url: str) -> str:
                     return q['url'][0].rstrip('/')
             except Exception:
                 pass
-        # Senao, segue redirect HTTP (formato novo /articles/<base64>)
         resolved = _resolve_redirect(url)
         if resolved and 'news.google.com' not in resolved:
             url = resolved
@@ -453,19 +512,17 @@ def normalize_title_for_dedup(title: str) -> str:
     t = re.sub(r"[^\w\s]", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
     venues_pattern = (
-        # Sufixos compostos PRIMEIRO (mais especificos)
         r"forbes brasil|bloomberg linea brasil|bloomberg linea|"
         r"brazil journal|epoca negocios|folha de s paulo|folha de sao paulo|"
         r"valor economico|o globo|cnn brasil|estadao blue studio|"
         r"el economista|el financiero|"
-        # Sufixos simples
         r"estadao|folha|valor|globo|veja|exame|"
         r"reuters|bloomberg|cnbc|forbes|ft|wsj|"
         r"neofeed|infomoney|poder360|jota|"
         r"pipelinevalor|pipeline|"
         r"o globo|o globo brasil"
     )
-    for _ in range(3):  # ate 3 sufixos encadeados
+    for _ in range(3):
         new_t = re.sub(rf"\s+({venues_pattern})$", "", t)
         if new_t == t:
             break
@@ -526,62 +583,185 @@ def save_seen(urls: set) -> None:
 # Matching
 # ============================================================
 
-def _alias_matches(pattern: str, scope_text: str,
-                   requires_any: Optional[list],
-                   requires_none: Optional[list],
+def _alias_matches(alias_re, scope_text: str,
+                   requires_any_re: Optional[list],
+                   requires_none_re: Optional[list],
                    full_text: str) -> bool:
-    if not re.search(pattern, scope_text):
+    if not alias_re.search(scope_text):
         return False
-    if requires_any:
-        any_match = False
-        for req in requires_any:
-            req_n = normalize(req)
-            req_pat = rf"\b{re.escape(req_n)}\b"
-            if re.search(req_pat, full_text):
-                any_match = True
-                break
-        if not any_match:
-            return False
-    if requires_none:
-        for ban in requires_none:
-            ban_n = normalize(ban)
-            ban_pat = rf"\b{re.escape(ban_n)}\b"
-            if re.search(ban_pat, full_text):
-                return False
+    if requires_any_re and not any(req.search(full_text) for req in requires_any_re):
+        return False
+    if requires_none_re and any(ban.search(full_text) for ban in requires_none_re):
+        return False
     return True
 
 
+def _search_rule(scope_text: str, rule: dict, context_text: str) -> bool:
+    """Aplica alias + requisitos dentro de um contexto controlado."""
+    return _alias_matches(
+        alias_re=rule["_alias_re"],
+        scope_text=scope_text,
+        requires_any_re=rule.get("_requires_any_re"),
+        requires_none_re=rule.get("_requires_none_re"),
+        full_text=context_text,
+    )
+
+
 def score_article(a: Article) -> None:
+    """
+    Score determinístico por setor.
+
+    Mudanças principais:
+    - Separa title, lead e body para reduzir falso positivo vindo de RSS longo.
+    - Economia ignora body. O setor só entra se o termo aparecer no título
+      ou nos primeiros LEAD_CHARS caracteres do summary.
+    - Salva matches detalhados para auditoria e ajustes futuros.
+    """
+    a.matched_sectors = []
+    a.matched_aliases = []
+    a.matches = []
+    a.score = 0.0
+
     title_n = normalize(a.title)
+    summary_n = normalize(a.summary or "")
+    lead_n = summary_n[:LEAD_CHARS]
+    body_n = summary_n[LEAD_CHARS:LEAD_CHARS + BODY_CHARS]
+
     full_n = normalize(f"{a.title} {a.summary}")
+    economy_context_n = normalize(f"{a.title} {summary_n[:LEAD_CHARS]}")
+
     matched_aliases = set()
+    matched_sectors = []
+    matches = []
+    total_score = 0.0
+
     article_is_english = is_english(f"{a.title} {a.summary}")
 
     for sector_name, rules in SECTORS.items():
         if article_is_english and sector_name in BR_ONLY_SECTORS:
             continue
 
-        hit_in_title = False
-        hit_in_body = False
+        sector_score = 0.0
+        sector_has_match = False
+        context_n = economy_context_n if sector_name == ECONOMY_SECTOR else full_n
+
         for rule in rules:
-            al_n = normalize(rule["alias"])
-            pattern = rf"\b{re.escape(al_n)}\b"
-            req_any = rule.get("requires_any")
-            req_none = rule.get("requires_none")
-
-            if _alias_matches(pattern, title_n, req_any, req_none, full_n):
-                hit_in_title = True
+            if _search_rule(title_n, rule, context_n):
+                sector_score += 20
+                sector_has_match = True
                 matched_aliases.add(rule["alias"])
-                break
-            if _alias_matches(pattern, full_n, req_any, req_none, full_n):
-                hit_in_body = True
+                matches.append({
+                    "sector": sector_name,
+                    "alias": rule["alias"],
+                    "field": "title",
+                    "score": 20,
+                    "topic": rule.get("topic"),
+                })
+                continue
+
+            if _search_rule(lead_n, rule, context_n):
+                sector_score += 8
+                sector_has_match = True
                 matched_aliases.add(rule["alias"])
+                matches.append({
+                    "sector": sector_name,
+                    "alias": rule["alias"],
+                    "field": "lead",
+                    "score": 8,
+                    "topic": rule.get("topic"),
+                })
+                continue
 
-        if hit_in_title or hit_in_body:
-            a.matched_sectors.append(sector_name)
-            a.score += 20 if hit_in_title else 10
+            if sector_name != ECONOMY_SECTOR and _search_rule(body_n, rule, context_n):
+                sector_score += 2
+                sector_has_match = True
+                matched_aliases.add(rule["alias"])
+                matches.append({
+                    "sector": sector_name,
+                    "alias": rule["alias"],
+                    "field": "body",
+                    "score": 2,
+                    "topic": rule.get("topic"),
+                })
 
+        if sector_has_match:
+            matched_sectors.append(sector_name)
+            total_score += sector_score
+
+    a.matched_sectors = matched_sectors
     a.matched_aliases = sorted(matched_aliases)
+    a.matches = matches
+    a.score = total_score
+
+
+# ============================================================
+# Topic caps
+# ============================================================
+
+def _parse_published_for_sort(a_dict: dict) -> float:
+    try:
+        published = a_dict.get("published")
+        if not published:
+            return 0.0
+        return datetime.fromisoformat(published).timestamp()
+    except Exception:
+        return 0.0
+
+
+def _article_topic_ids(a_dict: dict) -> List[str]:
+    topics = []
+    for m in a_dict.get("matches", []) or []:
+        topic = m.get("topic")
+        if topic and topic not in topics:
+            topics.append(topic)
+    return topics
+
+
+def _bypass_topic_cap(a_dict: dict) -> bool:
+    title_n = normalize(a_dict.get("title", ""))
+    return bool(_TOPIC_CAP_BYPASS_RE.search(title_n))
+
+
+def apply_topic_caps(articles: List[dict]) -> List[dict]:
+    """
+    Limita excesso de matérias de tópicos recorrentes.
+
+    Regras:
+    - Preserva matérias sem tópico.
+    - Preserva matérias que citam empresa coberta no título.
+    - Para artigos com tópico, mantém os de maior score e mais recentes.
+    """
+    if not TOPIC_CAPS:
+        return articles
+
+    ordered = sorted(
+        articles,
+        key=lambda x: (x.get("score", 0), _parse_published_for_sort(x)),
+        reverse=True,
+    )
+
+    topic_counts = {topic: 0 for topic in TOPIC_CAPS}
+    kept = []
+
+    for a in ordered:
+        topics = [t for t in _article_topic_ids(a) if t in TOPIC_CAPS]
+
+        if not topics:
+            kept.append(a)
+            continue
+
+        if _bypass_topic_cap(a):
+            kept.append(a)
+            continue
+
+        if all(topic_counts[t] >= TOPIC_CAPS[t] for t in topics):
+            continue
+
+        kept.append(a)
+        for t in topics:
+            topic_counts[t] += 1
+
+    return kept
 
 
 # ============================================================
@@ -686,15 +866,12 @@ def dedup_articles(articles: List[Article]) -> List[Article]:
             continue
         if key in by_title:
             existing = by_title[key]
-            # Prefere URL nativa sobre Google News (mesmo se Google News
-            # for mais recente). Se ambos forem do mesmo tipo, mantem o
-            # mais novo.
             existing_is_gn = 'news.google.com' in existing.url
             new_is_gn = 'news.google.com' in a.url
             if existing_is_gn and not new_is_gn:
                 by_title[key] = a
             elif not existing_is_gn and new_is_gn:
-                pass  # mantem o existing nativo
+                pass
             elif a.published and (not existing.published or a.published > existing.published):
                 by_title[key] = a
         else:
@@ -903,6 +1080,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
 
     keep_cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
     merged = [a for a in existing if (not a.get("published")) or a["published"] >= keep_cutoff]
+    merged = apply_topic_caps(merged)
     merged.sort(key=lambda a: (-a.get("score", 0), a.get("published") or ""), reverse=False)
 
     path.write_text(json.dumps({
