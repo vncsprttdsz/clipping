@@ -76,12 +76,18 @@ sectors:
     - vivara
     - life by vivara
     - joalheria
-    - diamante
     - cartier
     - rolex
-    - tiffany
     - tiffany & co
     - pandora
+    - alias: diamante
+      requires_any: [joia, joalheria, anel, colar, brinco, vivara, luxo,
+                     quilate, lapidado, joalheiro, aliança, noivado]
+      requires_none: [terras raras, recursos minerais, minério, mineração]
+    - alias: tiffany
+      requires_any: [joia, joalheria, anel, colar, luxo, lvmh, marca,
+                     alta joalheria, relógio, diamante, joalheria de luxo]
+      requires_none: [tiffany young, formatura, universidade, cantora, sing]
 
     # Ambíguos
     - alias: joias
@@ -94,7 +100,9 @@ sectors:
                       patrimônio, lavagem, sequestro de bens]
     - alias: ouro
       requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
-      requires_none: [medal, medalha]
+      requires_none: [medal, medalha, bife de ouro, bife ouro, moedas de ouro,
+                      moeda de ouro, reservas de ouro, terras raras,
+                      minério, mineração, garimpo, barra de ouro, lingote]
     - alias: prata
       requires_any: [joia, joalheria, luxo, vivara, relógio, anel, colar, brinco]
       requires_none: [medal, medalha]
@@ -108,7 +116,10 @@ sectors:
     - mercado pago
     - mercado crédito
     - meli
-    - shopee
+    - alias: shopee
+      # Esportivo: álbum/figurinhas da Copa = ação de marketing, não e-commerce
+      requires_none: [álbum de figurinhas, album de figurinhas, álbum da copa,
+                      album da copa, figurinha da copa, figurinhas inspirada]
     - shein
     - temu
     - aliexpress
@@ -119,12 +130,10 @@ sectors:
     - ponto frio
     - bhia3
     - mglu3
-    - nubank
     - ualá
     - naranjax
     - revolut
     - ecommerce
-    - marketplace
     - vendas online
     - remessa conforme
     - keeta
@@ -145,10 +154,22 @@ sectors:
     # Ambíguos
     - alias: mercado livre
       # "mercado livre de energia" eh setor eletrico, nao e-commerce.
-      # Precisa de contexto de varejo/marketplace.
+      # Esportivo: "Mercado Livre Arena", figurinha/álbum da Copa = patrocínio.
       requires_none: [mercado livre de energia, energia elétrica,
                       comercializadora de energia, distribuidora de energia,
-                      consumidores cativos, setor elétrico]
+                      consumidores cativos, setor elétrico,
+                      mercado livre arena, arena pacaembu, álbum da copa,
+                      album da copa, figurinha, figurinhas, álbum de figurinhas,
+                      reprodução/mercado livre]
+    - alias: nubank
+      # Naming rights ("estádio do Nubank", "Nubank Parque/ex-Allianz") e
+      # menções incidentais em listas são esporte/futebol, não fintech.
+      requires_none: [estádio do nubank, nubank parque, allianz parque,
+                      maracanã, vélez sarsfield, neo química, arena,
+                      álbum da copa, figurinha]
+    - alias: marketplace
+      requires_none: [marketplace de classificados, marketplace de combustível,
+                      marketplace de energia]
     - alias: galpões
       requires_any: [logístic, vacância, distribuição, e-commerce, varejo,
                      mercado livre, shopee, amazon, magalu, fulfillment,
@@ -158,6 +179,8 @@ sectors:
       requires_any: [galpão, galpões, vacância, centro de distribuição,
                      fulfillment, last mile, mercado livre, shopee, amazon,
                      magalu, varejo, e-commerce, comércio eletrônico]
+      requires_none: [pcc, comando vermelho, facção, facções, terrorista,
+                      terroristas, narcotráfico, tráfico de drogas, crime organizado]
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, logística]
     - alias: americanas
@@ -175,6 +198,8 @@ sectors:
       requires_any: [banco, digital, conta, fintech, crédito, investimento, maquininha]
     - alias: amazon
       requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue]
+      requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
+                      valuation da anthropic, segundo o papa, openai, nvidia]
     - alias: tiktok
       requires_any: [shop, ecommerce, vendas, marketplace, live commerce]
 
@@ -199,7 +224,11 @@ sectors:
     - grupo koch
     - martminas
     - supermercados bh
-    - bretas
+    - alias: bretas
+      requires_any: [supermercado, supermercados, atacarejo, varejo, rede,
+                     loja, lojas, alimentar, cencosud, grupo, supermercadista]
+      requires_none: [marcelo bretas, juiz bretas, desembargador, lava-jato,
+                      lava jato, operação, magistrado]
     - komprão
     - super koch
     - walmart brasil
@@ -576,8 +605,19 @@ sectors:
     - abc da construção
     - home center
     - material de construção
-    - construção civil
-    - minha casa minha vida
+    - alias: construção civil
+      requires_any: [varejo, lojas, material de construção, cimento, tinta,
+                     reforma, obra, home center, construtora, incorporadora,
+                     leroy merlin, telhanorte, quero-quero, cassol, obramax,
+                     índice de preços, custo da construção, sinapi, cub,
+                     vendas, ferramentas, argamassa, revestimento]
+      requires_none: [emprego informal, deportação, imigrantes, vagas formais,
+                      desemprego, operário devolve, pnad]
+    - alias: minha casa minha vida
+      requires_any: [habitação, moradia, imóvel, imóveis, financiamento,
+                     caixa, construtora, incorporadora, unidades, faixa,
+                     subsídio, programa habitacional, déficit habitacional,
+                     mcmv, casa verde]
     - casa verde e amarela
 
   # ------------------------------------------------------------
@@ -608,6 +648,8 @@ sectors:
                      iphone, xiaomi, motorola, realme,
                      vendas de smartphones, mercado de smartphones,
                      preço de smartphones, distribuidora de smartphones]
+      requires_none: [mls, transmissão, câmeras de iphone, jogo, partida,
+                      gravado com, filmado com]
     - alias: linha branca
       requires_any: [varejo, vendas, magalu, casas bahia, mercado,
                      eletrodoméstico, geladeira, fogão, máquina de lavar]
@@ -640,8 +682,10 @@ sectors:
       requires_any: [rede, diária, hóspede, hospedagem, temporada, férias,
                      resort, hotelaria, viagem, cadeia, acomodação,
                      marriott, accor, ibis]
-      requires_none: [hotel em hannover, hotel onde, hotel de luxo
-                      em viagem oficial]
+      requires_none: [hotel em hannover, hotel onde, hotel de luxo em viagem oficial,
+                      flávio bolsonaro, eduardo bolsonaro, vorcaro, castro,
+                      casa branca, trump, the willard, lobista, cpi,
+                      delator, lava-jato, lava jato, deportação, criminalizada]
     - alias: hotelaria
       requires_any: [rede, setor, industria, viagem, hóspede, resort]
     - alias: airbnb
@@ -665,8 +709,17 @@ sectors:
     - life pet hub
     - petcamp
     - vetlove
-    - pet shop
-    - ração
+    - alias: pet shop
+      requires_any: [varejo, rede, loja, lojas, mercado pet, mercado de pet,
+                     franquia, faturamento, expansão, vendas, setor pet,
+                     petz, cobasi, petlove, banho e tosa]
+      requires_none: [clandestino, queimado, maus-tratos, maus tratos,
+                      cão queimado, denúncia, polícia, preso, crueldade]
+    - alias: ração
+      requires_any: [pet, cachorro, gato, animal, animais, petz, cobasi,
+                     petlove, mercado pet, fabricante de ração, marca de ração,
+                     premium, super premium]
+      requires_none: [obsessão por gatos, japão]
     - produtos para pet
 
   # ------------------------------------------------------------
@@ -748,7 +801,9 @@ sectors:
       requires_any: [luxury, market, sales, brand, demand, price]
     - alias: amazon
       requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue,
-                     bezos, jassy, earnings, antitrust, anthropic]
+                     bezos, jassy, earnings, antitrust]
+      requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
+                      valuation da anthropic, segundo o papa, openai, nvidia]
     - alias: walmart
       requires_any: [earnings, stores, revenue, us, retailer, stock, shares,
                      guidance, inflation, bentonville, sam's club]
