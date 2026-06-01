@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T14:45:32.872178+00:00",
-  "count": 217,
-  "new_this_run": 9,
+  "generated_at": "2026-06-01T15:46:01.697119+00:00",
+  "count": 219,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Quando a Ozivy, concorrente do Ozempic feita no Brasil, deve custar — e quando a caneta chegará às farmácias",
@@ -707,37 +707,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "O critério espacial do IBS e da CBS",
-      "summary": "Norma concretiza princípio do destino e redefine parâmetros de arrecadação entre entes federativos",
-      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-criterio-espacial-do-ibs-e-da-cbs",
-      "published": "2026-05-25T15:00:49+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Fim da escala 6x1: Veja o que pode mudar para os trabalhadores se a redução de jornada for aprovada",
@@ -1481,6 +1450,37 @@
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Fundo vende imóveis de Assaí e Carrefour ao BTG por R$ 672 milhões",
+      "summary": "Fundo recicla portfólio com venda de R$ 672 milhões e reforça aposta em saúde premium com ativo de R$ 328 milhões",
+      "url": "https://exame.com/mercado-imobiliario/fundo-vende-imoveis-de-assai-e-carrefour-ao-btg-por-r-672-milhoes",
+      "published": "2026-06-01T12:15:56+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "assai",
+        "assaí"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assai",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 40.0
@@ -4317,6 +4317,52 @@
       "url": "https://www1.folha.uol.com.br/mercado/2026/06/inadimplencia-no-agronegocio-brasileiro-encerra-2025-em-82-aponta-serasa.shtml",
       "published": "2026-06-01T13:00:00+00:00",
       "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Depois de 5 Mil Entregas Aéreas em Sergipe, iFood Inaugura Rota de Drones em São Paulo",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com início em Barueri, plataforma integra robôs autônomos, aeronaves da Speedbird Aero e entregadores para contornar a alta rejeição de pedidos em condomínios O post Depois de 5 Mil Entregas Aéreas em Sergipe, iFood Inaugura Rota de Drones em São Paulo apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-tech/2026/06/depois-de-5-mil-entregas-aereas-em-sergipe-ifood-inaugura-rota-de-drones-em-sao-paulo",
+      "published": "2026-06-01T15:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência no Agro Atinge 8,2% no Fechamento de 2025, Aponta Serasa Experian",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Levantamento mostra avanço de um ponto percentual nas dívidas vencidas há mais de 180 dias por causa de margens apertadas O post Inadimplência no Agro Atinge 8,2% no Fechamento de 2025, Aponta Serasa Experian apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-agro/2026/06/inadimplencia-no-agro-atinge-82-no-fechamento-de-2025-aponta-serasa-experian",
+      "published": "2026-06-01T15:32:28+00:00",
+      "source": "https://forbes.com.br/feed/",
       "matched_sectors": [
         "Economia"
       ],
