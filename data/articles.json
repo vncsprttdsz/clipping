@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-01T15:46:01.697119+00:00",
-  "count": 219,
-  "new_this_run": 10,
+  "generated_at": "2026-06-02T08:55:42.879350+00:00",
+  "count": 225,
+  "new_this_run": 38,
   "articles": [
     {
       "title": "Quando a Ozivy, concorrente do Ozempic feita no Brasil, deve custar — e quando a caneta chegará às farmácias",
@@ -128,6 +128,61 @@
         }
       ],
       "score": 68.0
+    },
+    {
+      "title": "Rivais investem em cupons e entrega rápida contra iFood, e restaurantes veem alta na demanda",
+      "summary": "Um levantamento feito em abril pela Abrasel (Associação Brasileira de Bares e Restaurantes) retrata o tamanho da dominância do iFood : entre os estabelecimentos que fazem entregas com apps no país, 99,1% usam a plataforma líder. Mas a empresa já não está mais tão sozinha: estão na lista 99Food (23,1%), Rappi (2%) e Keeta (1,8%). Leia mais (06/01/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/rivais-investem-em-cupons-e-entrega-rapida-contra-ifood-e-restaurantes-veem-alta-na-demanda.shtml",
+      "published": "2026-06-02T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "entrega rápida",
+        "ifood",
+        "keeta",
+        "rappi"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "rappi",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "entrega rápida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 64.0
     },
     {
       "title": "'Ozempic da EMS', Ozivy deve ser 30% mais barato: saiba quando chega às farmácias - Exame",
@@ -490,84 +545,6 @@
       "score": 52.0
     },
     {
-      "title": "Salários acima de R$ 21,1 mil não terão limite de jornada de trabalho e controle de ponto, prevê PEC da escala 6x1",
-      "summary": "O relatório da Proposta de Emenda Constitucional (PEC) que acaba com a escala 6x1 e fixa carga horária semanal 40 horas, sem corte de salário, estabelece não que se aplicam as regras relativas à duração do trabalho e ao controle da jornada para trabalhadores com curso superior e que ganham acima de R$ 21.188. Jornada de 40 horas, transição de um ano e dois dias de folga: veja detalhes do texto da Câmara que prevê o fim da escala 6x1 Fim da escala 6x1: como foi a transição em outros países? Prazo variou entre 4 e 5 anos O valor representa duas vezes e meia o teto do INSS (em R$ 8.475,55). Segundo o texto, isso poderá ser alterado por liberalidade do empregador ou se houver previsão em acordo ou convenção coletiva de trabalho. O parecer do relator, deputado Leo Prates (Republicanos-BA), foi apresentado à comissão especial que analisa a proposta nesta segunda-feira. Na semana passada, Prates já havia anunciado a medida. Segundo ele, o Estado deve se preocupar com os trabalhadores que ganham menos ao estabelecer o limite da nova jornada. Jornada de trabalho: você trabalha mais ou menos do que a média no Brasil? E no mundo? Confira — O Estado tem que estar mais presente nas relações mais assimétricas, como quem está na escala 6x1 hoje, ganha muito pouco e é pobre e a maioria é mulher e, tem que estar menos presente quando as relações são menos assimétricas — afirmou o relator. O relatório da PEC reduz a jornada de trabalho de 44 horas semanais para 40 horas dentro de um ano, sem corte de salário. O texto prevê redução de duas horas em 2026 e mais duas horas em 2027. Haverá prazo de 60 dias para que as novas regras entrem em vigor a partir da promulgação da PEC pelo Congresso. Imposto de Renda: Como funciona a fila da restituição do IR? Saiba como consultar o lote de pagamento O texto deixa claro que quem já tem jornada inferior a 40 horas semanais não terá redução automática de jornada. \"A entrada em vigor desta Emenda Constitucional não implicará redução proporcional automática das jornadas de trabalho já fixadas em patamar igual ou inferior a quarenta horas semanais\". Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/05/25/salarios-acima-de-r-211-mil-nao-terao-limite-de-jornada-de-trabalho-e-controle-de-ponto-preve-pec-da-escala-6x1.ghtml",
-      "published": "2026-05-25T21:47:16+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "carga horária",
-        "escala 6x1",
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "carga horária",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 48.0
-    },
-    {
-      "title": "Divórcio na moda: futuro da Farm está no centro da disputa para redivisão do grupo Azzas 2154",
-      "summary": "Responsável por 41,5% da receita bruta do Azzas 2154 no primeiro trimestre, o maior conglomerado de moda da América Latina, a Farm está no centro da disputa pela redivisão do grupo, após uma grave crise de gestão entre Arezzo&amp;Co e Soma. A marca feminina carioca, porém, pode sair do divórcio litigioso em carreira solo na Bolsa, afirmam pessoas a par das negociações. O esforço de seus criadores é seguir em voo solo, segundo fontes, numa operação com ações pulverizadas no mercado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/05/26/divorcio-na-moda-futuro-da-farm-esta-no-centro-da-disputa-para-redivisao-do-grupo-azzas-2154.ghtml",
-      "published": "2026-05-26T07:00:57+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "arezzo",
-        "azzas",
-        "farm"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "arezzo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "azzas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "farm",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 48.0
-    },
-    {
       "title": "Acusação de espionagem é cortina de fumaça, diz vice-presidente da chinesa Keeta",
       "summary": "A acusação de espionagem feita pelo iFood , empresa dominante no mercado de delivery brasileiro, contra a recém-chegada Keeta não passa de cortina de fumaça, diz o vice-presidente da empresa de capital chinês, Danilo Mansano. Leia mais (05/27/2026 - 12h16)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/05/acusacao-de-espionagem-e-cortina-de-fumaca-diz-vice-presidente-da-chinesa-keeta.shtml",
@@ -646,6 +623,46 @@
       "score": 48.0
     },
     {
+      "title": "A aposta certa da Cimed no Tiktok",
+      "summary": "Carmed estreia no TikTok Shop com live commerce e mostra como marcas de consumo começam a transformar audiência digital em canal de conversão",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/a-aposta-certa-da-cimed-no-tiktok",
+      "published": "2026-06-01T19:18:23+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "E-commerce",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed",
+        "tiktok",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Ozempic pode estar remodelando o cérebro, dizem cientistas",
       "summary": "Medicamentos da classe GLP-1, como Ozempic, Wegovy e Mounjaro, ficaram conhecidos mundialmente pelos efeitos no emagrecimento e no controle do diabetes. Agora, cientistas começam a investigar uma possibilidade ainda mais ampla: a de que esses remédios também estejam alterando o funcionamento do cérebro humano. A discussão ganhou força após uma reportagem publicada pelo Washington Post, que reúne estudos preliminares, relatos de pacientes e entrevistas com pesquisadores que investigam os impactos neurológicos dos chamados GLP-1s. Segundo especialistas ouvidos pelo jornal, os medicamentos podem estar influenciando circuitos ligados à atenção, recompensa, prazer, compulsão, desejo e até motivação. Uma das pesquisas citadas envolve adolescentes e mulheres jovens com uma condição hormonal relacionada aos ovários. Ao analisar exames cerebrais de pacientes antes e depois do uso dos medicamentos, a pesquisadora Allison Shapiro, da University of Colorado Anschutz, encontrou mudanças inesperadas nas conexões neurais. “Não esperávamos ver esse efeito, e realmente ainda não sabemos o que ele significa”, afirmou ao jornal. Segundo a reportagem, em poucos meses houve aumento das conexões na chamada “rede de saliência” do cérebro, responsável por ajudar o organismo a decidir para onde direcionar atenção e foco. Os GLP-1s atuam imitando hormônios ligados ao controle da fome, da glicose e da digestão. Mas cientistas destacam que os receptores desses hormônios não estão apenas no sistema digestivo: eles também aparecem em regiões profundas do cérebro, além de órgãos como o coração. A partir disso, pesquisadores passaram a investigar se os medicamentos poderiam ter efeitos sobre vícios, ansiedade, cognição, prazer e até doenças neurodegenerativas como Alzheimer e Parkinson. Um dos fenômenos mais relatados por pacientes é a redução do chamado “food noise”, termo em inglês usado para descrever a sensação constante de pensar em comida. Mas o efeito pode ir além. Alguns usuários relatam diminuição no desejo por álcool, cigarro e apostas, enquanto outros descrevem uma espécie de “achatamento emocional”, com menos prazer, menos motivação e redução até do desejo sexual. “Se você pensar do ponto de vista da sobrevivência, comportamentos fundamentais como comer e sexo podem ser impactados”, disse Lorenzo Leggio, pesquisador do National Institute on Drug Abuse, ao Washington Post. A hipótese principal é que os medicamentos estejam afetando os sistemas de recompensa do cérebro, ligados à dopamina, neurotransmissor associado à sensação de prazer e repetição de comportamentos. Outra linha de investigação sugere que os remédios possam reduzir inflamações cerebrais, consideradas um dos fatores ligados ao declínio cognitivo e a transtornos neurológicos. Grandes farmacêuticas já começaram a expandir os estudos. A Eli Lilly, fabricante do Mounjaro e do Zepbound, conduz um ensaio clínico para avaliar se a tirzepatida pode ajudar no tratamento do alcoolismo. Outros estudos investigam impactos sobre dependência de nicotina, opioides, cocaína, compulsão alimentar e até jogos de azar. Ao mesmo tempo, os resultados ainda estão longe de serem conclusivos. Um dos estudos mais aguardados da área, conduzido pela Novo Nordisk sobre Alzheimer, falhou em demonstrar melhora significativa no declínio cognitivo de pacientes. Ainda assim, pesquisadores identificaram sinais biológicos que podem indicar algum efeito neurológico relevante, embora insuficiente para mudar o quadro clínico observado. Além da neurologia, cresce o interesse sobre possíveis impactos psiquiátricos dos GLP-1s. Pesquisadores investigam relatos de melhora na ansiedade, pensamentos compulsivos e sintomas depressivos. Há também estudos explorando potenciais aplicações em esquizofrenia e nos sintomas cognitivos da covid longa. Para especialistas, porém, ainda existem mais perguntas do que respostas, especialmente quando o uso envolve adolescentes e jovens, cujos cérebros ainda estão em desenvolvimento. “Não podemos assumir que a forma como adultos respondem será igual em adolescentes”, afirmou Shapiro. Mais Lidas",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/05/ozempic-pode-estar-remodelando-o-cerebro-dizem-cientistas.ghtml",
@@ -707,37 +724,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Fim da escala 6x1: Veja o que pode mudar para os trabalhadores se a redução de jornada for aprovada",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/fim-da-escala-6x1-veja-o-que-pode-mudar-para-os-trabalhadores-se-a-reducao-de-jornada-for-aprovada",
-      "published": "2026-05-25T22:38:38+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1",
-        "redução de jornada"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "redução de jornada",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "CEO do Airbnb admite que plataforma pode ser problema em cidades com crise habitacional",
@@ -1486,6 +1472,37 @@
       "score": 40.0
     },
     {
+      "title": "Amazon moves Prime Day back to June, keeps it a four-day event - Reuters",
+      "summary": "Amazon moves Prime Day back to June, keeps it a four-day event &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-moves-prime-day-back-june-keeps-it-four-day-event-2026-06-02",
+      "published": "2026-06-02T05:06:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Governo repassa R$ 5,7 bilhões de dinheiro esquecido para o Desenrola; veja como resgatar",
       "summary": "O Ministério da Fazenda informou, nesta quarta-feira (27), que repassou R$ 5,7 bilhões do dinheiro esquecido em bancos para o FGO (Fundo de Garantia de Operações), que será usado para assegurar casos de inadimplência no programa de renegociação de dívidas Desenrola Brasil . Leia mais (05/27/2026 - 13h39)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/05/governo-repassa-r-57-bilhoes-de-dinheiro-esquecido-para-o-desenrola-veja-como-resgatar.shtml",
@@ -1690,99 +1707,6 @@
       "score": 32.0
     },
     {
-      "title": "Uso do FGTS para quitar dívida do Desenrola Brasil 2.0 tem fila no app",
-      "summary": "O governo federal liberou, a partir desta segunda-feira, o uso de parte do saldo do Fundo de Garantia do Tempo de Serviço (FGTS) dos trabalhadores na renegociação de dívidas do novo Desenrola Brasil. Mas o grande volume de acessos ao App FGTS está gerando fila de espera virtual para a consulta das informações. Desenrola 2.0: FGTS para quitar dívidas vai suspender saque-aniversário e terá 'fila'; entenda Como quitar dívida no Desenrola Brasil 2.0? Veja como fica desconto do rotativo do cartão de crédito Na manhã desta segunda-feira, o GLOBO fez duas tentativas de acessar o aplicativo. Na primeira delas, a fila de espera era de 5 minutos. Na segunda, de 7 minutos. Ao final do tempo estimado, o aplicativo precisou ser atualizado, mas a consulta pôde ser concluída. A fila de espera virtual para acessar o aplicativo do FGTS Reprodução O interessado precisa entrar no aplicativo para autorizar o banco a utilizar 20% do saldo disponível na conta vinculada ou até R$ 1 mil (o que for maior) para quitar ou amortizar dívidas em atraso. Desenrola Brasil 2.0: Calcule o quanto você pode economizar na dívida do crédito pessoal Como proceder Primeiramente, o interessado deve consultará seu saldo de FGTS para então autorizar a instituição financeira à qual está devendo a buscar o valor do saldo disponível para negociação. Deve também entrar em contato com o canal oficial do banco e verificar a oferta para o pagamento da dívida com desconto, informando sua intenção de usar o FGTS como parte do pagamento. O banco, então, entrará em contato com a Caixa Econômica Federal, a quem cabe gerir os recursos do FGTS. Após a consulta do saldo, a instituição terá um prazo estimado de até 30 dias para formalizar o contrato e registrar as informações nos sistemas da Caixa Econômica Federal. Concluída a validação, a Caixa fará o repasse dos recursos do FGTS diretamente à instituição credora. Initial plugin text Para usar o FGTS no Desenrola, é preciso: Ter saldo disponível na conta do Fundo de Garantia; Ter renda mensal de até cinco salários mínimos (R$ 8.105); Possuir dívidas vencidas elegíveis no cartão de crédito, cheque especial e/ou empréstimos.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/05/25/uso-do-fgts-para-quitar-divida-do-desenrola-brasil-20-tem-fila-no-app.ghtml",
-      "published": "2026-05-25T15:49:27+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Desenrola 2.0: No 1º dia, 1,4 milhão acessam app FGTS para quitar dívida",
-      "summary": "No primeiro dia em que foi liberado o uso de parte do saldo do Fundo de Garantia do Tempo de Serviço (FGTS) na renegociação de dívidas do novo Desenrola Brasil, a Caixa informou no começo da noite que 1,4 milhão de trabalhadores acessaram o aplicativo FGTS e autorizaram instituições financeiras a consultar o saldo do Fundo. Desenrola 2.0: FGTS para quitar dívidas vai suspender saque-aniversário e terá 'fila'; entenda Como quitar dívida no Desenrola Brasil 2.0? Veja como fica desconto do rotativo do cartão de crédito O grande volume de acessos ao app FGTS gerou fila de espera virtual para consulta de informações. Na manhã desta segunda-feira, O GLOBO fez duas tentativas de acessar o app. Na primeira, a fila de espera era de cinco minutos. Na segunda, de sete minutos. Ao fim do prazo estimado, o aplicativo precisou ser atualizado, mas a consulta pôde ser concluída. O interessado precisa entrar no app para autorizar o banco a usar 20% do saldo disponível na conta vinculada ou até R$ 1 mil (o que for maior) para quitar ou amortizar dívidas. Desenrola Brasil 2.0: Calcule o quanto você pode economizar na dívida do crédito pessoal No entanto, a utilização do valor máximo não é obrigatória. De acordo com o valor da dívida renegociada, o trabalhador pode definir, junto à instituição financeira, o valor a ser utilizado, inclusive inferior ao limite disponível. Após a consulta, os bancos terão prazo de 30 dias para formalizar contrato com a Caixa, que fará a transferência do valor diretamente à instituição financeira para pagar dívida, que pode ser quitada na íntegra ou parcelada. O valor das operações de crédito renegociadas no âmbito do programa está limitado a R$ 15 mil por beneficiário e por instituição financeira. De acordo com a Caixa, Se um trabalhador possuir saldo total de R$ 100 mil no FGTS, o limite individual de utilização será de até R$ 20 mil (20% do saldo). Nesse cenário, considerando a existência de dívidas renegociadas em mais de uma instituição financeira, o trabalhador poderá, conforme negociação: Utilizar até R$ 15.000,00 para amortização ou quitação junto a uma instituição financeira credora; e Utilizar o valor remanescente dentro do limite do FGTS junto a outras instituições financeiras, Segundo a Caixa, ainda não há valor consolidado do recurso que efetivamente será utilizado no pagamento das dívidas de cada trabalhador, já que a autorização concedida no APP não representa, necessariamente, contratação ou utilização do saldo do FGTS. Saque-aniversário Em outra frente, a Caixa antecipou para hoje o pagamento de valores desbloqueados do saque-aniversário do FGTS. Os créditos seriam feitos automaticamente nas contas bancárias cadastradas no app FGTS para os trabalhadores elegíveis. A previsão é pagar R$ 8,5 bilhões para cerca de 10,5 milhões de trabalhadores. O crédito ocorre após a incorporação da rentabilidade mensal do FGTS (juros e atualização monetária). Têm direito a receber aqueles que aderiram à modalidade saque-aniversário e tiveram contrato de trabalho suspenso ou encerrado entre 1º de janeiro de 2020 e 23 de dezembro de 2025. Trabalhadores que ainda não possuem conta cadastrada poderão realizar o saque nos canais físicos de atendimento, como agências, lotéricas e terminais de autoatendimento, até 1º de junho. (*Estagiária sob supervisão de Danielle Nogueira) Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/05/25/no-1o-dia-14-milhao-acessam-app-fgts-para-quitar-divida.ghtml",
-      "published": "2026-05-25T23:59:32+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Quais bancos tomaram a frente no Desenrola — um deles está em metade das negociações",
-      "summary": "Programa já soma mais de 1,1 milhão de renegociações e movimenta grandes bancos em meio à preocupação crescente com a inadimplência",
-      "url": "https://exame.com/invest/mercados/quais-bancos-tomaram-a-frente-no-desenrola-um-deles-esta-em-metade-das-negociacoes",
-      "published": "2026-05-26T05:00:27+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Descuentos en Carrefour hoy: qué promociones hay este martes 26 de mayo y cómo aprovecharlas",
       "summary": "El hipermercado tiene este martes 26 de mayo importantes descuentos y cuotas sin interés en indumentaria, calzado de su nueva línea otoño-invierno 2026.",
       "url": "https://www.ambito.com/economia/descuentos-carrefour-hoy-que-promociones-hay-este-martes-26-mayo-y-como-aprovecharlas-n6280575",
@@ -1970,299 +1894,35 @@
       "score": 28.0
     },
     {
-      "title": "Marcas brasileiras ganham espaço nos EUA e investem em crescimento internacional",
-      "summary": "O que era para ser apenas uma parceria entre a Adidas e uma marca com DNA brasileiro para a Copa do Mundo no Brasil em 2014 se transformou numa grande oportunidade de negócio. A colaboração assinada pela gigante alemã com a Farm Rio foi um sucesso, com peças vendidas em todos os países onde a Adidas atua. — Não tínhamos dimensão da aderência de nossas estampas fora do Brasil — diz Fabio Barreto, CEO da Farm Rio Internacional. — Descobrimos que tínhamos um produto desejado, mas faltava estrutura para sustentar a demanda. Acima do esperado: Comércio varejista brasileiro cresce 0,5% em março, em terceiro resultado positivo seguido Guerra do delivery: iFood afirma que ex-funcionário admitiu à polícia ter conversado com representantes da Keeta Uma coleção com dez peças exclusivas para a varejista de moda Anthropologie marcou em 2017 a chegada da fabricante carioca ao varejo dos Estados Unidos. Foi o impulso para a estruturação da expansão. — O mercado americano é maduro e competitivo. Estudamos no detalhe como a marca iria se posicionar, faixa de preço adequada e como ampliar a percepção de valor do produto — revela Barreto. Seis anos depois da abertura da primeira loja no bairro nova-iorquino SoHo, a Farm conta com sete unidades físicas, está nas principais lojas de departamento e tem no e-commerce seu principal canal, com 50% das vendas. — Os EUA representam 70% dos negócios internacionais e há espaço para abrirmos de três a cinco lojas por ano até 2032. Segundo Felipe Wasserman, professor de comportamento de marketing e vendas da ESPM, “o Brasil é mais conhecido do que pensa, mas não tem uma estratégia estruturada de marca como país”. — As empresas que conseguirem externalizar com propriedade o DNA brasileiro terão mais chances de sucesso. A penetração no mercado dos EUA está só começando. Initial plugin text 8 mil pontos de venda Sinônimo de Brasil, a Havaianas foi eleita o produto de moda mais desejado em 2025 pelo The Lyst Index. — Somos fiéis ao design que nos tornou icônicos, nosso grande diferencial é a autenticidade — afirma Sandro Ribeiro, presidente da Havaianas América do Norte. — Realizamos uma curadoria de portfólio minuciosa para o consumidor americano, alinhando nossos produtos às tendências, adaptando cores, estampas e modelos para garantir que a brasilidade seja relevante e desejável em cada região. Presente nos EUA desde os anos 2000 com foco no varejo multicanal e lojas de departamento, a Havaianas soma 8 mil pontos de venda e deve avançar mais. — Firmamos parceria com o Eastman Group para distribuição exclusiva a fim de escalar as vendas em canais estratégicos para todos os estados. A mudança na sazonalidade do novo modelo de negócio gerou uma expansão de 161,4% no volume, alcançando 1,2 milhão de pares no primeiro trimestre de 2026. Foi com o propósito de afinar a logística que a Ofner criou a Ofner América, que desde 2022 responde pelas vendas no mercado americano. — Entramos de maneira tímida, em 2017, via distribuidor, com apenas 2 mil panetones. Cinco anos depois, já eram 20 mil e em 2025, 120 mil. Trabalhamos com distribuidores, supermercados, e-commerce e lojas próprias temporárias — revela o CEO Denilson Moraes. — O mercado americano responde por 2% do faturamento da companhia. A ideia é triplicar a participação em três anos. Não há um levantamento de quantas marcas brasileiras estão presentes no varejo americano, o que se sabe é que o interesse continua alto. De acordo com o Relatório do Varejo 2025, realizado pela Adyen, provedora de tecnologia de pagamentos, 21% das empresas nacionais planejam expandir suas operações para novos mercados em 2026 — dessas, 41%, para os EUA. O diferencial encontrado pelo estaleiro paranaense Triton Yachts, que atua nos EUA com a marca Hanover, foi a escolha de um representante local — conhecedor da legislação e das preferências do consumidor americano —, aliada à customização dos barcos vendidos sob encomenda. Os EUA respondem por 45% da produção anual, estimada em 55 unidades em 2026. — Personalizamos desde a pintura e material de acabamento até a configuração do projeto. Um barco não sai igual ao outro — diz o diretor Allan Cechelero. Brasil Soberano 2: BNDES somará R$ 21 bi para empresas afetadas por tarifaço de Trump e guerra no Irã Flórida como destino A Flórida é o destino preferido por 70% das marcas brasileiras, seguida de Texas e Califórnia, segundo mapeamento da ApexBrasil. É o chamado cinturão do sol, caminho percorrido pela marca de moda carioca Dress To, que em 2021 fez as primeiras vendas. Hoje está presente em mais de 40 estados e 320 pontos de venda, com 20% do mix composto por produtos exclusivos. — Abrimos a primeira loja própria em agosto de 2025, em Coral Gables. A ideia é inaugurar mais três até 2027, entre Miami, Texas e Califórnia — revela o CEO Rodrigo Braga.",
-      "url": "https://oglobo.globo.com/economia/summit-brazil-eua/noticia/2026/05/26/marcas-brasileiras-ganham-espaco-nos-eua-e-investem-em-crescimento-internacional.ghtml",
-      "published": "2026-05-26T08:06:50+00:00",
+      "title": "Fim da escala 6x1 e pagamento por hora trabalhada: entenda propostas do governo e da oposição em discussão no Senado",
+      "summary": "O Senado Federal tem duas propostas de emenda à Constituição (PECs) que mudam as regras da jornada de trabalho no Brasil e que devem ser avaliadas nas próximas semanas. Encabeçada pelo governo Lula, há a proposta de PEC que prevê o fim da escala 6x1. O projeto é uma das principais bandeiras da gestão petista em busca da reeleição. Escala 12hx36h, contratações e busca de crédito: Como pequenas empresas tentam se adaptar ao fim da 6x1? Pergunte ao GLOBO: Envie sua dúvida sobre o fim da escala 6x1 Em outra frente, senadores da oposição apresentaram uma PEC que permite a adoção de jornada flexível. Limitada a 44 horas semanais, essa jornada será definida em contrato individual a ser firmado entre empregado e empregador. Entenda a PEC aprovada na Câmara: Como será a folga aos domingos? Hora em dobro segue valendo? Ambas as propostas serão ansiadas pela Comissão de Constituição e Justiça da Casa. Haverá um relator, que pode unificá-las ou não. Entenda, abaixo, as diferenças entre as propostas do governo e da oposição. Initial plugin text Projeto da oposição Em reação à aprovação do fim da escala 6 por 1 na Câmara, o líder da oposição no Senado, Rogério Marinho (PL-RN) apresentou uma PEC para permitir a flexibilização da jornada de trabalho. Pela proposta, seria possível escolher entre o regime comum previsto pela Consolidação das Leis do Trabalho (CLT) ou um regime flexível baseado em horas trabalhadas, em que a empresa paga ao empregado somente as horas efetivamente trabalhadas. Fim da escala 6x1: Você trabalha mais ou menos do que a média no Brasil? E no mundo? Confira A PEC deixa claro que o contrato individual vai prevalecer sobre possíveis acordos coletivos. Os benefícios como FGTS, férias e 13º salário também seriam proporcionais às horas trabalhadas. De acordo com o senador Rogerio Marinho, a proposta busca ampliar a liberdade e a autonomia do trabalhador na escolha de sua jornada de trabalho e, consequentemente, na definição proporcional de sua remuneração. Veja detalhes do texto que avançou na Câmara Já o projeto defendido pelo governo prevê o fim da escala 6x1 e reduz a duração da jornada semanal para 40 horas. O que diz a regra geral A duração do trabalho normal não pode ser superior a 8 diárias e 40 horas semanais, facultada a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho. Hoje, o limite máximo é de 44 horas semanais, seis dias por semana Haverá dois dias de repouso semanal remunerado, um dos quais preferencialmente aos domingos. Hoje é obrigatório um dia de descanso. Excepcionalmente, convenção ou acordo coletivo de trabalho poderão, inclusive para os trabalhadores sujeitos a regimes diferenciados de trabalho estabelecidos em lei ou norma regulamentadora, estabelecer regime compensatório que assegure, na média, dois dias de repouso semanal remunerado dentro do mês, garantido o usufruto de pelo menos um dos dias dentro do período máximo de uma semana de trabalho. Uma nova lei vai dispor sobre hipóteses e condições em que a duração do trabalho e os dias de repouso semanal remunerado poderão observar regimes diferenciados, respeitados os limites previstos na PEC. Não haverá redução de salários e nem de pisos salariais. O que diz a regra de transição A PEC entra em vigor 60 dias após ser aprovada na Câmara e no Senado. A redução da duração do trabalho normal para 40 horas semanais será implementada de forma progressiva: 60 dias após a publicação da PEC, a duração do trabalho normal não excederá a 42 horas semanais; 12 meses depois desses 60 dias, a duração do trabalho normal não excederá a 40 horas semanais. No prazo de 60 dias após a aprovação da PEC, convenção ou acordo coletivo de trabalho poderão ampliar a duração diária do trabalho normal para viabilizar a distribuição da duração semanal do trabalho. Ou seja, absorver as horas que estão sobrando na jornada diária. Diferença para quem ganha mais de R$ 21.188 por mês Pelo texto, ao empregado com diploma de nível superior e que receba remuneração mensal igual ou superior a 2,5 vezes o teto do INSS (hoje, o equivalente a R$ 21.188 por mês), não se aplicam as regras relativas à duração do trabalho e ao controle da jornada. Isso poderá ser alterado por liberalidade do empregador ou se houver previsão em acordo ou convenção coletiva de trabalho. Isso não se aplica aos empregados públicos da administração direta e indireta de quaisquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios. Compete à Justiça do Trabalho processar e julgar as ações relativas ao tema. . Initial plugin text",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/02/fim-da-escala-6x1-e-pagamento-por-hora-trabalhada-entenda-propostas-do-governo-e-da-oposicao-em-discussao-no-senado.ghtml",
+      "published": "2026-06-02T03:01:13+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Fashion",
-        "E-commerce",
-        "Wellness e Esportes",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "adidas",
-        "farm",
-        "ifood",
-        "keeta",
-        "logística"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "farm",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "logística",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "adidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "keeta",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 24.0
-    },
-    {
-      "title": "Mais uma aquisição no setor de tintas: Renner Herrmann compra Mekal",
-      "summary": "A Renner Herrmann — empresa gaúcha especializada em tintas industriais e cuja família controladora é a mesma que, um século atrás, fundou a varejista de moda Renner — está comprando 100% da concorrente Mekal Tintas, também do Rio Grande do Sul, apurou a coluna. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/05/mais-uma-aquisicao-no-setor-de-tintas-renner-herrmann-compra-mekal.ghtml",
-      "published": "2026-05-25T19:15:55+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "renner"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "renner",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Banorte evaluará impugnar sanción impuesta por la CNA tras operación con Rappi - El Economista",
-      "summary": "Banorte evaluará impugnar sanción impuesta por la CNA tras operación con Rappi &nbsp;&nbsp; El Economista",
-      "url": "https://www.eleconomista.com.mx/sectorfinanciero/banorte-evaluara-impugnar-sancion-impuesta-cna-operacion-rappi-20260525-815241.html",
-      "published": "2026-05-25T19:31:09+00:00",
-      "source": "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "rappi"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "rappi",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Sephora abre 13ª unidade em São Paulo e avança no país com foco na alta renda - Bloomberg Línea Brasil",
-      "summary": "Sephora abre 13ª unidade em São Paulo e avança no país com foco na alta renda &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/sephora-abre-13-unidade-em-sao-paulo-e-avanca-no-pais-com-foco-na-alta-renda",
-      "published": "2026-05-25T21:13:42+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "sephora"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "sephora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Azzas diz à CVM que desconhece decisões sobre cisão ou segregação de ativos entre controladores",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/negocios/azzas-diz-a-cvm-que-desconhece-decisoes-sobre-cisao-ou-segregacao-de-ativos-entre-controladores",
-      "published": "2026-05-25T23:05:43+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "azzas"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "azzas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold slips as US-Iran tensions lift oil, stoke inflation fears - Reuters",
-      "summary": "Gold slips as US-Iran tensions lift oil, stoke inflation fears &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/gold-slips-us-iran-tensions-lift-oil-stoke-inflation-fears-2026-05-26",
-      "published": "2026-05-26T01:18:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo - O GLOBO",
-      "summary": "A canetinha empacou? Cientistas descobrem por que efeito de remédios como Ozempic pode desacelerar com o tempo &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/05/26/a-canetinha-empacou-cientistas-descobrem-por-que-efeito-de-remedios-como-ozempic-pode-desacelerar-com-o-tempo.ghtml",
-      "published": "2026-05-26T07:02:09+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold Edges Higher Despite Persisting Middle East Uncertainty",
-      "summary": "Gold prices rose despite a rebound in oil prices following fresh U.S. attacks on Iran and persistent concerns over inflation and higher-for-longer interest rates.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-lower-as-traders-weigh-u-s-iran-deals-developments-bd37a475?mod=rss_markets_main",
-      "published": "2026-05-26T07:23:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Cosmético ‘gourmand’ ganha força e dita lançamentos",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/05/26/cosmetico-gourmand-ganha-forca-e-dita-lancamentos.ghtml",
-      "published": "2026-05-26T08:00:44+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "cosmético"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "cosmético",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Inadimplência e crédito não-bancário preocupam BC",
-      "summary": "A liquidação do conglomerado Master trouxe pouca p...",
-      "url": "https://valor.globo.com/opiniao/coluna/inadimplencia-e-credito-nao-bancario-preocupam-bc.ghtml",
-      "published": "2026-05-26T08:02:16+00:00",
-      "source": "https://pox.globo.com/rss/valor",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
-        "inadimplência"
+        "escala 6x1",
+        "jornada de trabalho"
       ],
       "matches": [
         {
           "sector": "Economia",
-          "alias": "inadimplência",
+          "alias": "escala 6x1",
           "field": "title",
           "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Azzas diz não haver decisão sobre cisão",
-      "summary": "A Azzas 2154, empresa formada a partir da fusão en...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/05/26/azzas-diz-nao-haver-decisao-sobre-cisao.ghtml",
-      "published": "2026-05-26T08:02:51+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "azzas"
-      ],
-      "matches": [
+          "topic": "jornada_trabalho"
+        },
         {
-          "sector": "Fashion",
-          "alias": "azzas",
-          "field": "title",
-          "score": 20,
-          "topic": null
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
         }
       ],
-      "score": 20.0
+      "score": 28.0
     },
     {
       "title": "Reforma tributária e o impacto direto na indústria",
@@ -4105,6 +3765,29 @@
       "score": 20.0
     },
     {
+      "title": "Vício em bets e jogos online faz explodir afastamentos no trabalho - O Globo",
+      "summary": "Vício em bets e jogos online faz explodir afastamentos no trabalho &nbsp;&nbsp; O Globo",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/05/vicio-em-bets-e-jogos-online-faz-explodir-afastamentos-no-trabalho.ghtml",
+      "published": "2026-05-31T11:20:33+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Fundeb reduz desigualdade na educação, mas verba vai para farmácia e até igreja - Folha de S.Paulo",
       "summary": "Fundeb reduz desigualdade na educação, mas verba vai para farmácia e até igreja &nbsp;&nbsp; Folha de S.Paulo",
       "url": "https://www1.folha.uol.com.br/educacao/2026/05/fundeb-reduz-desigualdade-na-educacao-mas-verba-vai-para-farmacia-e-ate-igreja.shtml",
@@ -4358,6 +4041,29 @@
       "score": 20.0
     },
     {
+      "title": "Inadimplência rural fecha 2025 no maior patamar da série trimestral, aponta Serasa",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/agronegocios/inadimplencia-rural-2025-maior-patamar-serie-trimestral-serasa",
+      "published": "2026-06-01T15:15:08+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/negocios/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Inadimplência no Agro Atinge 8,2% no Fechamento de 2025, Aponta Serasa Experian",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Levantamento mostra avanço de um ponto percentual nas dívidas vencidas há mais de 180 dias por causa de margens apertadas O post Inadimplência no Agro Atinge 8,2% no Fechamento de 2025, Aponta Serasa Experian apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-agro/2026/06/inadimplencia-no-agro-atinge-82-no-fechamento-de-2025-aponta-serasa-experian",
@@ -4381,35 +4087,372 @@
       "score": 20.0
     },
     {
-      "title": "Por Que os Mini Relógios São a Tendência de Luxo do Momento",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Entre as principais marcas a embarcarem nesse movimento estão a Cartier, Audermars Piguet, Chopard e Longines O post Por Que os Mini Relógios São a Tendência de Luxo do Momento apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-life/2026/05/por-que-os-mini-relogios-sao-a-tendencia-de-luxo-do-momento",
-      "published": "2026-05-26T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
+      "title": "iFood inicia entregas por drone em São Paulo",
+      "summary": "O iFood iniciou nesta segunda-feira, 1º de junho, uma operação de entregas por drone em Barueri, na Grande São Paulo. A rota conecta restaurantes do shopping Iguatemi Alphaville a condomínios residenciais da região, em um modelo autorizado pela Anac e pelo Decea. A operação foi criada para atender uma área considerada complexa para o delivery tradicional. Segundo a empresa, quase 50% dos pedidos destinados à região eram recusados por entregadores devido à dificuldade de acesso e ao tempo de espera nas portarias. Drone do iFood sobrevoa região de Barueri Divulgação No novo modelo, a entrega combina diferentes modais. O pedido é retirado no shopping por um mensageiro ou pela robô autônoma ADA. Depois, o drone percorre um trecho aéreo de 3,6 quilômetros em cerca de cinco minutos até um droneport instalado no condomínio. A etapa final, até a casa do consumidor, continua sendo feita por um entregador parceiro. De acordo com o iFood, a ideia é complementar o trabalho dos entregadores, e não substituí-los. “O drone amplia as possibilidades de rotas e melhora a produtividade da operação, especialmente em áreas complexas de acesso”, afirma Mariana Werneck, diretora sênior de Logística do iFood. O drone usado na operação foi desenvolvido pela brasileira Speedbird Aero. O equipamento pode transportar até 5 kg, voar a 50 km/h e atingir altitude de até 60 metros. A aeronave também conta com GPS integrado, monitoramento em tempo real e paraquedas de emergência. Segundo o iFood, a rota em Barueri marca a primeira operação de delivery por drone autorizada no país a sobrevoar áreas residenciais densamente povoadas. A operação funcionará diariamente, das 10h30 às 22h30, sem custo adicional para o consumidor. Drone do iFood Divulgação A empresa testa entregas por drone desde 2019. Antes da chegada a São Paulo, o iFood já operava uma rota entre Aracaju e Barra dos Coqueiros, em Sergipe, onde mais de 5 mil pedidos foram realizados. Na operação nordestina, um trajeto terrestre de 36 quilômetros foi substituído por um voo de menos de 4 quilômetros, feito em cerca de três minutos. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/06/ifood-inicia-entregas-por-drone-em-sao-paulo.ghtml",
+      "published": "2026-06-01T16:19:47+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
       "matched_sectors": [
-        "Joias",
-        "Global Consumer"
+        "E-commerce"
       ],
       "matched_aliases": [
-        "cartier"
+        "ifood"
       ],
       "matches": [
         {
-          "sector": "Joias",
-          "alias": "cartier",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "cartier",
-          "field": "lead",
-          "score": 8,
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "iFood inicia entregas por drones em condomínio de Alphaville, em São Paulo; veja vídeo",
+      "summary": "Desde o meio-dia desta segunda-feira, os 2.500 moradores do condomínio Alphaville Residencial Zero, em Barueri (SP), passaram a receber pedidos do iFood com ajuda de drones. A operação conecta restaurantes do shopping Iguatemi Alphaville ao residencial, localizado a 3,5 quilômetros de distância, percurso que a aeronave completa em cerca de cinco minutos. É a primeira vez que o modelo chega a um condomínio da Grande São Paulo. Além de reduzir o tempo de deslocamento, o modelo tenta resolver um problema comum nas entregas para residenciais fechados, que é a demora para que entregadores façam o cadastro na portaria. O modelo funciona assim: depois de preparar o pedido, o restaurante entrega a sacola para a ADA, robô terrestre do iFood, que leva o pacote até a base de decolagem. Lá, o drone é carregado e segue até o condomínio, onde um entregador espera e conclui o último trecho até o cliente. Ifood inicia entrega com drones em Alphaville No mapa, será possível acompanhar o pedido da mesma forma que o consumidor pode acompanhar entregas convencionais. Os drones operam de forma automatizada, supervisionados por um operador humano. As aeronaves têm autonomia de até 10 quilômetros em trajetos de ida e volta ou 23 quilômetros em apenas um sentido, com velocidades de até 50 km/h. A nova rota contará com dois drones. Cada aeronave suporta até 10 quilos, mas a certificação atual autoriza apenas o transporte de cargas de até 5 quilos. Ou seja, a quantidade de pedidos por viagem varia conforme o peso e o volume dos pacotes. A nova rota segue um modelo semelhante ao que o iFood já mantém em Recife. Lá, os drones ajudaram a superar a barreira de área de mata nativa entre restaurantes e condomínios, o que tornava as entregas mais lentas. Em setembro do ano passado, a empresa retomou comercialmente as entregas por drones após obter a primeira autorização permanente do país para voos sobre áreas povoadas, em Aracaju. Em uma das rotas da cidade, o tempo total de deslocamento caiu de cerca de uma hora para 30 minutos com a integração aérea. A expectativa do iFood é que a nova rota realize cerca de 500 entregas por mês. Em Aracaju, a operação supera mil pedidos mensais. A empresa espera que o modelo possa ser replicado em outros empreendimentos próximos ao shopping: — A ideia é ter um shopping grande com vários restaurantes e vários condomínios em volta. Nosso sonho é que essa rota consiga destravar novos condomínios e que a empresa consiga, com essa mesma estrutura aqui, abrir novos pontos de pouso e atender novos pedidos — diz Arnaldo Bertolaccini, VP de Logística do iFood, acrescentando que a nova modalidade não terá custo extra para os consumidores em relação às entregas convencionais. Em Barueri, o problema era o tempo e cadastro previsto nos procedimentos de acesso ao condomínio. Segundo o iFood, aproximadamente metade dos entregadores prefere recusar corridas para o local por conta da demora. A empresa afirma ainda que a mudança não deverá trazer perdas financeiras aos entregadores. Segundo o iFood, o tempo antes gasto aguardando autorização para entrar nos condomínios tende a ser compensado pelo aumento do volume de entregas disponíveis dentro da área atendida. — Além da velocidade, temos um ingrediente adicional (nessa nova rota), que é o tempo de espera do entregador para fazer o cadastro dentro dos condomínios. Isso gerava uma perda de renda para o entregador e um tempo adicional de entrega — conclui Bertolaccini. Manoel Coelho, cofundador e CEO da Speedbird Aero, diz que a rota em Barueri está entre as mais complexas já desenvolvidas pela companhia, que fabrica os drones usados pelo IFood. Ele lembra que o Brasil tem o segundo espaço aéreo mais congestionado do mundo. — Para voar no Brasil, é preciso tecnologia, segurança e confiança no equipamento. Nós começamos (a testar) em locais que não eram tão complexos como aqui, em vários lugares do mundo. Voltamos agora para essa rota que é, sem dúvida, a mais desafiadora. A rota de cada um dos drones, que altitude nós vamos voar, isso tudo é predeterminado para que sempre haja uma consistência nas operações. Coelho acrescenta que a empresa trabalha em uma tecnologia para aumentar a precisão da previsão das condições climáticas ao longo das rotas. O desafio, segundo ele, é que os drones operam mais próximos do solo do que as aeronaves convencionais, para as quais foram desenvolvidos os sistemas tradicionais de monitoramento aéreo. A ferramenta ainda está em fase de testes. Mesmo assim, ele diz que as aeronaves já demonstraram resistência em condições adversas nos outros países onde são usadas.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/01/ifood-inicia-entregas-por-drones-em-condominio-de-alphaville-em-sao-paulo.ghtml",
+      "published": "2026-06-01T18:04:07+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O Triunfo da Cor: Prada Traz Sua Fine Jewelry Pela Primeira Vez Ao Brasil",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com a coleção Couleur Vivante, Miuccia Prada e Raf Simons transpõem o jogo cromático das passarelas para as gemas O post O Triunfo da Cor: Prada Traz Sua Fine Jewelry Pela Primeira Vez Ao Brasil apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/06/o-triunfo-da-cor-prada-traz-sua-fine-jewelry-pela-primeira-vez-ao-brasil",
+      "published": "2026-06-01T18:21:29+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "prada"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "prada",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank nomeia Rob Livingston como Diretor Financeiro, em substituição a Guilherme Lago",
+      "summary": "Executivo com passagem por Visa e Capital One assumirá a liderança financeira global do banco digital em julho, enquanto Guilherme Lago passará a atuar como conselheiro especial",
+      "url": "https://exame.com/invest/mercados/nubank-nomeia-rob-livingston-como-diretor-financeiro-em-substituicao-a-guilherme-lago",
+      "published": "2026-06-01T18:57:59+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Oposição no Senado pressiona por PEC sobre hora trabalhada em contraposição ao fim da escala 6x1",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/oposicao-no-senado-pressiona-por-pec-sobre-hora-trabalhada-em-contraposicao-ao-fim-da-escala-6x1",
+      "published": "2026-06-01T20:55:18+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "iFood inicia serviço de entrega com drone na Grande SP; veja vídeo",
+      "summary": "O iFood começou a realizar entregas por drone no estado de São Paulo nesta segunda-feira (1º), informou a empresa. A cidade escolhida pelo grupo para inaugurar o serviço é Barueri , na região da Grande São Paulo. Leia mais (06/01/2026 - 18h27)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/ifood-inicia-servico-de-entrega-com-drone-na-grande-sp-veja-video.shtml",
+      "published": "2026-06-01T21:27:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "BREAKING: Nubank troca CFO: Lago vai empreender; novo nome vem da Visa - Brazil Journal",
+      "summary": "BREAKING: Nubank troca CFO: Lago vai empreender; novo nome vem da Visa &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/breaking-nubank-troca-cfo-lago-vai-empreender-novo-nome-vem-da-visa",
+      "published": "2026-06-01T21:27:55+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank anuncia ex-Visa como novo diretor-financeiro, em substituição a Guilherme Lago",
+      "summary": "O Nubank anunciou a nomeação de Rob Livingston com...",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/01/nubank-anuncia-ex-visa-como-novo-diretor-financeiro-em-substituicao-a-guilherme-lago.ghtml",
+      "published": "2026-06-01T21:30:05+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank: Guilherme Lago deixará o cargo de diretor financeiro; veja quem é o substituto",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/nubank-guilherme-lago-deixara-o-cargo-de-diretor-financeiro-veja-quem-e-o-substituto",
+      "published": "2026-06-01T21:49:28+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank contrata Rob Livingston, da Visa, como CFO - Bloomberg Línea Brasil",
+      "summary": "Nubank contrata Rob Livingston, da Visa, como CFO &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/2026/06/02/nubank-contrata-rob-livingston-da-visa-como-cfo",
+      "published": "2026-06-02T00:51:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank contrata executivo da Visa, veterano do mercado americano de serviços financeiros",
+      "summary": "O Nubank contratou o executivo americano Rob Livingston, como seu novo diretor financeiro (CFO). Ele ocupava o mesmo cargo na gigante americana de pagamentos Visa. A contratação traz para a cúpula da fintech brasileira um veterano de empresas do setor na América do Norte no momento em que o banco digital liderado por David Vélez avança na construção de seu futuro banco nos Estados Unidos. De novo no vermelho: Correios têm prejuízo de R$ 3,1 bilhões no início de 2026 e ampliam perdas Durigan: Classificação de CV e PCC como terroristas vai encarecer serviços de bancos, diz ministro Livingston, que era CFO da Visa para a América do Norte e anteriormente ocupou cargos de gestão na Capital One, sucederá Guilherme Lago, que deixará o posto de CFO do Nubank em 13/julho, segundo comunicado da companhia divulgado nesta segunda-feira. Lago, que decidiu deixar o cargo, passará a atuar como assessor especial da administração e dos comitês de auditoria e risco. Ele ingressou no Nubank em 2019, ajudou na oferta pública inicial de ações (IPO) da companhia na Bolsa de Nova York, em 2021. O Nubank tem hoje mais de 135 milhões de clientes na América Latina. A fintech busca agora expandir sua atuação para além da América Latina e, no início deste ano, recebeu aprovação condicional para estabelecer um banco nos EUA, onde Livingston ficará baseado. O novo CFO do Nubank “tem muito conhecimento sobre instituições financeiras globais e uma visão clara dos EUA”, disse o CEO David Vélez em entrevista. Formado em Economia pela Universidade de Yale, uma das mais prestigiadas dos EUA, Rob Livingston tem mais de 30 anos de experiência em serviços financeiros na América do Norte, Europa e Ásia, informou hoje o Nubank. O executivo atuou por 12 anos na Visa, onde também liderou as áreas de Finanças Corporativas e Relações com Investidores e foi diretor financeiro na unidade da Europa. Ele também ocupou cargos de liderança de negócios na China e no Canadá. Antes da Visa, atuiu por 18 anos na Capital One, onde chegou à presidência da operação do Canadá e diretor sênior de Crédito da companhia. No Nubank, o novo diretor financeiro supervisionará os executivos responsáveis pelas áreas financeiras de cada um dos países em que o Nubank opera, incluindo o Brasil, onde será criado um novo cargo local de CFO. O executivo que ocupará essa função, ainda não anunciado, se reportará a Livingston, assim como os CFOs do México e da Colômbia. Embora o Nubank esteja concentrado em suas operações atuais, a empresa não descarta uma expansão adicional nos próximos anos. — Os problemas que estamos solucionando não são problemas só do Brasil ou do México — disse Vélez na entrevista sobre as oportunidades de mercado para serviços bancários digitais. As ações do Nubank caíam 0,6%, para US$ 12,91, nas negociações pós-fechamento às 17h11 em Nova York. Os papéis acumulam queda de 22% neste ano até o encerramento do pregão regular.",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/06/01/nubank-contrata-executivo-da-visa-veterano-do-mercado-americano-de-servicos-americanos.ghtml",
+      "published": "2026-06-02T01:02:57+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Luxury brands seek to lure America's AI super-rich - Reuters",
+      "summary": "Luxury brands seek to lure America's AI super-rich &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/luxury-brands-seek-lure-americas-ai-super-rich-2026-06-02",
+      "published": "2026-06-02T04:03:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxury brands"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "luxury brands",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "STMicroelectronics Shares Rally After Chip Maker Raises Data-Center Revenue Target",
+      "summary": "Paris-listed shares jumped 8.2%, adding to a rally that has led the stock to nearly triple its value since the start of the year.",
+      "url": "https://www.wsj.com/business/stmicroelectronics-shares-rally-after-chip-maker-raises-data-center-revenue-target-9d9a9ba1?mod=rss_markets_main",
+      "published": "2026-06-02T07:59:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "target"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "target",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O Desafio do Boticário em Criar Narrativas Culturalmente Relevantes",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Campanha de Dia dos Namorados tem como base o comportamento de casais na era digital, tanto nas interações quanto na hora de presentear O post O Desafio do Boticário em Criar Narrativas Culturalmente Relevantes apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-mkt/2026/06/o-desafio-do-boticario-em-criar-narrativas-culturalmente-relevantes",
+      "published": "2026-06-02T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold replaces US Treasuries as world’s top reserve asset, ECB says",
+      "summary": "Historic bullion rally boosts metal’s share of reserves to 27% while central banks diversify away from dollar",
+      "url": "https://www.ft.com/content/87ef8f25-eb81-4eed-919c-fe5b49a1ac2c",
+      "published": "2026-06-02T08:00:03+00:00",
+      "source": "https://www.ft.com/rss/home",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mercado põe em dúvida se Roche pode se reinventar",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso...",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/02/mercado-poe-em-duvida-se-roche-pode-se-reinventar.ghtml",
+      "published": "2026-06-02T08:01:39+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "roche"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "roche",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "Rede D'Or amplia parceria com Bradsaúde e terá novo hospital no Rio",
@@ -4704,75 +4747,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Intenção de Consumo atinge maior patamar desde março de 2015, diz CNC",
-      "summary": "A Intenção de Consumo das Famílias (ICF), calculad...",
-      "url": "https://valor.globo.com/brasil/noticia/2026/05/25/intencao-de-consumo-atinge-maior-patamar-desde-marco-de-2015-diz-cnc.ghtml",
-      "published": "2026-05-25T17:21:17+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "consumo das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "consumo das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Copa do Mundo deve aumentar fluxo de turistas nos EUA",
-      "summary": "A política anti-imigração do atual governo dos Estados Unidos não impactou de forma relevante o fluxo de turistas brasileiros ao país. O total de viajantes ao território americano cresceu 0,3% em 2025, para 1,9 milhão de pessoas, com um volume de geração de gastos estimado em US$ 9,8 bilhões, ante uma retração de 5,5% no fluxo de visitantes internacionais no mesmo período (de 72,3 milhões para 68,2 milhões de pessoas), segundo o Escritório Nacional de Viagem e Turismo dos EUA (NTTO, na sigla em inglês). A expectativa é de um desembarque maior de brasileiros este ano por causa da Copa do Mundo, que começa em 11 de junho. Política anti-imigração de Trump: Cerca de 145 mil crianças e adolescentes americanos foram separados dos pais, aponta estudo Impactos da guerra: Combustível sobe mesmo com subsídio, puxa inflação e vira obstáculo para corte de juro O ligeiro incremento do turismo brasileiro ocorre em meio a notícias sobre prisões realizadas por agentes do Serviço de Imigração e Alfândega (ICE, na sigla em inglês), deportações e restrição de vistos de turismo para cidadãos de vários países, incluindo aqueles cujas seleções de futebol se classificaram para o torneio organizado pela Fifa, como Marrocos e Haiti, adversários da seleção brasileira. Sede da competição, ao lado do México e do Canadá, os EUA serão palco de 78 do total de 104 jogos programados. Os dados do NTTO posicionam o Brasil na quarta colocação do ranking de emissores internacionais de turismo para os EUA, atrás de México, Índia e China. As cidades de Nova York, Orlando e Miami concentraram mais de 62% de todas as chegadas de visitantes brasileiros em 2025. Indicam também que, apesar do cenário de política imigratória mais rígida, o desejo de viajar ao país é grande. Vistos menos recusados Para se ter ideia, dos 594 mil de vistos emitidos para brasileiros entre janeiro e agosto do ano passado, 93,3% foram da categoria B1/B2 (turismo/negócio, que tem validade de dez anos). As emissões de vistos dessa categoria deram um salto em 2022, quanto totalizaram 748.595 em 2022 (ante 71.661 em 2021), evoluíram para 1.094.633 no ano seguinte e apresentaram um ligeiro recuo em 2024, para 1.088.407. Política migratória mais restritiva é direcionada ao controle da imigração irregular e não ao visitante que cumpre todos os requisitos legais de entrada, afirma Kayan Almeida, especialista em mobilidade global do Viva América, assessoria especializada em serviços para pessoas que desejam trabalhar e estudar nos EUA. —São dinâmicas distintas, com impactos pouco correlacionados — ressalta. Ele ressalta que, apesar do endurecimento da política de imigração, a taxa de recusa de vistos B1/B2 a brasileiros em 2025 (14,8%) foi ligeiramente inferior à registrada em 2024 (15,4%), último ano da gestão Joe Biden, conforme dados do Departamento de Estado. Em janeiro deste ano, mais de 199 mil turistas brasileiros visitaram os EUA. Com a proximidade do início da Copa do Mundo, o setor de agenciamento de turismo espera aumento significativo na procura por pacotes que ofereçam experiências completas dentro e fora dos estádios de futebol. —O brasileiro deixa tudo para a última hora — observa Ana Carolina Medeiros, presidente da Associação Brasileira de Agências de Viagens (ABAV), acrescentando que o setor preparou diferentes ofertas de pacotes. Initial plugin text Segundo Paulo Castello Branco Filho, diretor de negócios do Projeto Copa do Mundo da Golden Goal, que atua como um canal oficial de vendas de hospitalidade no Brasil, até abril foram comercializados 10 mil ingressos dessa modalidade no Brasil, considerando diferentes jogos, fases e categorias de experiência. O volume supera em 150% as vendas registradas no mesmo período na edição de 2022 do torneio, no Catar. Serviços personalizados Pacotes de hospitalidade oferecem comodidades tais como assentos premium nos estádios, áreas confortáveis de descanso ou espera (lounges) exclusivas, gastronomia de alto padrão, entretenimento e serviços personalizados para o público em geral e para empresas que utilizam o evento esportivo como plataforma de relacionamento e negócios. O fato de a seleção brasileira jogar na Costa Leste — contra Marrocos (dia 13, em Nova York), Haiti (dia 19, na Filadélfia) e Escócia (dia 24, em Miami) — cria um atrativo adicional para os brasileiros irem ao mundial da Fifa. Convocados: Veja a lista de todas as seleções para a Copa do Mundo de 2026 A expectativa é de forte aceleração das vendas de ingressos, especialmente com a recente abertura da venda individual de pacotes de hospitalidade para o jogo da final, que trouxe uma nova camada de demanda. — Historicamente, as fases decisivas e partidas da seleção brasileira são as primeiras a apresentar maior restrição de disponibilidade. A tendência é de ocupação de toda a oferta destinada ao mercado brasileiro — diz o executivo da Golden Goal.",
-      "url": "https://oglobo.globo.com/economia/summit-brazil-eua/noticia/2026/05/26/copa-do-mundo-deve-aumentar-fluxo-de-turistas-nos-eua.ghtml",
-      "published": "2026-05-26T03:15:35+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "“Meu avô saiu de Pernambuco em um pau de arara”: a origem da loja que lidera o delivery no Brasil",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Esfiha Imigrantes é a loja única que mais vende delivery no Brasil no iFood e agora prepara expansão para chegar a 10 unidades até 2031 O post “Meu avô saiu de Pernambuco em um pau de arara”: a origem da loja que lidera o delivery no Brasil apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/05/meu-avo-saiu-de-pernambuco-em-um-pau-de-arara-a-origem-da-loja-que-lidera-o-delivery-no-brasil",
-      "published": "2026-05-26T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "'Preço cai à metade, mas volume dobra', diz CEO da RD sobre 'Ozempic' brasileiro",
@@ -5304,43 +5278,96 @@
       "score": 8.0
     },
     {
-      "title": "Boston cresce com imigrantes: Comunidade brasileira em Massachusetts pode chegar a 400 mil pessoas",
-      "summary": "A trajetória clássica do imigrante brasileiro nos Estados Unidos — do trabalho de baixa qualificação ao empreendedorismo — deixou de ser uma narrativa individual para ganhar dimensão macroeconômica. Em Massachusetts, especialmente na região de Boston, esse movimento transformou a comunidade em um agente relevante da economia local, com impacto bilionário em produção, consumo e geração de empregos. Pnad: desemprego sobe em 15 estados, mas ainda está abaixo de 4% em 6 unidades da federação Guerra do delivery: iFood afirma que ex-funcionário admitiu à polícia ter conversado com representantes da Keeta Trabalhadores brasileiros contribuíram com cerca de US$ 8 bilhões para a atividade econômica do Estado de Massachusetts em 2022. Empresas fundadas por brasileiros responderam por cerca de US$ 5,7 bilhões em atividade econômica, com impacto estimado sobre 82,5 mil empregos diretos e indiretos. Os dados vêm de estudos da University of Massachusetts Boston em parceria com o Instituto Diáspora Brasil, com base no American Community Survey (ACS). Segundo o ACS, cerca de 140 mil brasileiros vivem em Massachusetts, mas estimativas do Ministério das Relações Exteriores e do Consulado-Geral do Brasil em Boston, que consideram subnotificações e imigrantes indocumentados, apontam um contingente maior. —Aproximadamente 400 mil nacionais vivem no Estado de Massachusetts. Na região da Grande Boston, estima-se uma população de 80 mil brasileiros — afirma o vice-cônsul Lauro Beltrão. Perfil empreendedor A discrepância reflete limitações metodológicas — o censo americano não identifica brasileiros diretamente — e a presença de indocumentados. Os brasileiros se concentram em setores como construção civil, restaurantes, serviços domésticos, estética e comércio de pequeno porte. Um estudo de 2024 conduzido por pesquisadores ligados ao Diáspora Brasil mostra a existência de cerca de 25 mil negócios ligados à comunidade brasileira. A presença brasileira no estado remonta aos anos 1970, impulsionada por crises econômicas no Brasil. Nos últimos anos, o perfil migratório se diversificou, com maior presença de famílias e empreendedores, que consolidaram a transição de uma comunidade temporária para um grupo estabelecido. A mudança se reflete na sofisticação dos negócios e na diversidade de trajetórias. Parte relevante do processo ocorre em setores ligados diretamente ao consumo da própria comunidade. Initial plugin text É o caso da empresária Flávia Leal, fundadora da Flávia Leal Beauty School, uma escola de formação em estética voltada a imigrantes. Ela chegou jovem aos Estados Unidos e passou por diferentes empregos antes de empreender. A empresária conta que identificou uma demanda na comunidade brasileira por serviços e formação na área de beleza. Em 2025, Flávia faturou US$ 2 milhões apenas com a escola de beleza. Ela também tem negócios nos segmentos têxtil e de construção: — A escola cresceu além da expectativa inicial. Já foram quase 20 mil profissionais formados ao longo de quase 16 anos. O caso ilustra um padrão: a identificação de nichos pouco atendidos e a criação de negócios voltados tanto à comunidade brasileira quanto a outros públicos. Renato Valentim, empresário, fundador do Boston City Group Divulgação Segundo Renato Valentim, empresário com atuação nos setores de hospitalidade e desenvolvimento imobiliário, a experiência inicial em funções operacionais pode servir como base e impulso para a criação de negócios próprios. Valentim começou lavando pratos em um restaurante. Mais tarde, fundou o Boston City Group, grupo multissetorial com operações nos Estados Unidos e no Brasil que emprega cerca de quatro mil pessoas e registra uma receita anual superior a US$ 200 milhões. No setor imobiliário, a estrutura dos negócios também evoluiu. Victor Queiros, fundador da Checkmate Real Estate, diz que há uma crescente profissionalização. Segundo ele, a empresa atua de forma verticalizada, desde a captação de recursos até a execução e monetização dos projetos, seguindo as regras do mercado americano. Victor Queiros, fundador da Checkmate Real Estate Group Divulgação —Nas obras, trabalhamos com equipes subcontratadas formadas por brasileiros, americanos e hispânicos, ultrapassando cem profissionais envolvidos por projeto — diz Queiros. Política migratória Apesar do avanço, a relevância econômica convive com fragilidades. Parte da comunidade ainda enfrenta barreiras de acesso a crédito, serviços financeiros e regularização migratória, o que limita o potencial de expansão e formalização. Além disso, a concentração em setores sensíveis ao ciclo econômico, como construção e serviços, expõe os brasileiros a oscilações em períodos de desaceleração. Representantes da comunidade apontam que mudanças no ambiente político e migratório já influenciam consumo e contratação. —As políticas migratórias restritivas dos EUA têm causado impactos significativos pela escassez de mão de obra, em razão dos deportados, retornados e pessoas com medo de sair de casa para trabalhar — analisa Álvaro Lima, diretor do Diáspora Brasil. SpaceX: Quanto Elon Munsk vai ganhar por criar colônia em Marte com 1 milhão de habitantes? Ainda assim, em cidades como Framingham, Marlborough e Worcester, a presença brasileira tem sido associada à revitalização econômica local, com abertura de negócios, ocupação de imóveis e dinamização do comércio. Para Mariana Dutra, que em abril organizou um evento com empreendedores brasileiros em Boston, o fenômeno já ultrapassou a lógica de nicho. — Além de essa comunidade ser numericamente grande, ela tem um impacto econômico muito grande no mercado de trabalho e na economia — avalia.",
-      "url": "https://oglobo.globo.com/economia/summit-brazil-eua/noticia/2026/05/26/boston-cresce-com-imigrantes-comunidade-brasileira-em-massachusetts-pode-chegar-a-400-mil-pessoas.ghtml",
-      "published": "2026-05-26T05:30:33+00:00",
+      "title": "GoPro alerta para risco de sobrevivência em meio à disparada dos custos com memória",
+      "summary": "O aumento acelerado dos custos com memória está levando a fabricante de câmeras de ação GoPro a uma situação crítica. A empresa, fundada por Nicholas Woodman, alertou para riscos à sua capacidade de continuar operando e está buscando financiamento para evitar uma possível inadimplência, de acordo com um documento recente. Com sede em San Mateo, Califórnia, a empresa registrou uma queda de 26% na receita no primeiro trimestre e informou, na ocasião, que havia obtido dispensas de seu credor após descumprir cláusulas de seus contratos de empréstimo. Em um documento adicional divulgado nesta segunda-feira, a companhia afirmou que existe uma “dúvida substancial sobre a capacidade da empresa de continuar operando” e que espera apresentar uma atualização de suas demonstrações financeiras. As ações da empresa chegaram a cair até 14% na segunda-feira. A GoPro já havia comentado anteriormente sobre algumas das razões para suas dificuldades. No mês passado, a empresa informou que sua previsão de resultados foi “significativamente impactada” por fatores como um aumento de 80% a 115% nos preços da memória. A crise enfrentada pela empresa é um dos efeitos colaterais do boom global da inteligência artificial, que elevou a demanda por memórias e impulsionou os preços. Fabricantes de celulares, automóveis e dispositivos eletrônicos também relataram impactos, à medida que fornecedores direcionam uma parcela maior da produção para chips de servidores de IA, que oferecem margens de lucro mais elevadas, em detrimento de produtos de consumo. A GoPro informou que foi avisada por fornecedores, em abril, sobre uma redução planejada no fornecimento de memória, o que deverá diminuir sua projeção de vendas. A empresa também afirmou que não espera cumprir diversas cláusulas de seus contratos de empréstimo. Além disso, disse não acreditar que terá liquidez suficiente para honrar suas obrigações caso sejam acionadas cláusulas de inadimplência ou de inadimplência cruzada, tornando exigível o pagamento imediato de suas dívidas em aberto. A companhia contratou consultores para avaliar alternativas estratégicas, incluindo uma possível venda ou fusão do negócio, conforme já havia divulgado anteriormente. Também está explorando oportunidades nos setores de defesa e aeroespacial para desenvolver “novos mercados e categorias de produtos”. A GoPro já anunciou planos para reduzir cerca de 23% de sua força de trabalho global, medida divulgada em abril. A empresa possui uma linha de crédito de segunda garantia de US$ 50 milhões concedida pela Farallon Capital Management. Também conta com uma linha de crédito rotativo, na qual o Wells Fargo Bank atua como agente.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/01/gopro-alerta-para-risco-de-sobrevivencia-em-meio-a-disparada-dos-custos-de-memoria.ghtml",
+      "published": "2026-06-01T20:28:15+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
+        "Economia"
       ],
       "matched_aliases": [
-        "ifood",
-        "keeta"
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Acesso a crédito não é sinônimo de bem-estar financeiro",
+      "summary": "O alto endividamento das famílias brasileiras -que compromete cerca de 30% da renda- ocorre simultaneamente ao processo de inclusão financeira observado nos últimos anos. A abertura das informações de crédito por modalidade e faixa de renda deixa evidente que essa transformação está associada ao perfil de endividamento das famílias de baixa renda, bastante distinto do restante da população. Leia mais (06/01/2026 - 18h58)",
+      "url": "https://www1.folha.uol.com.br/colunas/cecilia-machado/2026/06/acesso-a-credito-nao-e-sinonimo-de-bem-estar-financeiro.shtml",
+      "published": "2026-06-01T21:58:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Inteligência artificial facilita acesso a crédito e expõe jovens a endividamento",
+      "summary": "O estudante de farmácia Christyan Pereira, 23, deve mais de R$ 4.000 e está impedido de buscar novos empréstimos no sistema financeiro. Aos 18 anos, recebeu limites de crédito quase cinco vezes maiores que a renda mensal que conseguia trabalhando como jovem aprendiz em Florianópolis . Leia mais (06/01/2026 - 23h01)",
+      "url": "https://www1.folha.uol.com.br/tec/2026/06/inteligencia-artificial-facilita-acesso-a-credito-e-expoe-jovens-a-endividamento.shtml",
+      "published": "2026-06-02T02:01:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "“Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sob a liderança da brasileira Thaís Fishberg, holandesa de pagamentos por trás de empresas como Uber, iFood e Amazon registrou maior crescimento global na real O post “Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/06/eu-nao-via-ninguem-parecido-comigo-a-brasileira-que-levou-a-adyen-a-crescer-26-na-america-latina",
+      "published": "2026-06-02T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
       ],
       "matches": [
         {
           "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
           "alias": "ifood",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "keeta",
-          "field": "body",
-          "score": 2,
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
-      "score": 6.0
+      "score": 8.0
     },
     {
       "title": "Como a Omni Saúde quer usar IA para reduzir desperdícios no sistema de saúde (e crescer enquanto isso)",
@@ -5494,6 +5521,45 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "oxxo",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "'Faça você mesmo': negócios apostam no modelo em que o consumidor participa da produção",
+      "summary": "De hambúrgueres a cafés, novos modelos de negócios movimentam o mercado com o lema \"faça você mesmo\". O consumidor, nesses casos, participa do processo de produção e criação do próprio alimento, em vez de comprar já pronto. Pode até parecer contraditório, mas os compradores optaram por pagar preços mais altos para ter a experiência de produzir a própria comida. E se isso acontece em cafeterias sofisticadas onde é o cliente quem passa o café coado em filtros de papel à mesa, o modelo já chegou aos negócios populares. Franquia de bolos: Dona da Fleischmann e Ovomaltine compra Casa de Bolos Negócios: GPA, do Pão de Açúcar, vende sua fatia no programa de fidelidade Stix Em São Gonçalo, no Grande Rio, Trailer do Berg é uma hamburgueria que resolveu inovar permitindo que o consumidor monte seu próprio lanche, desde as escolhas do pão e da carne até os acompanhamentos. O comprador vai até o trailer, faz o pedido do tamanho do hambúrguer (de uma a quatro fatias de carne), escolhe se a proteína será comum ou artesanal e o tipo de pão. Então, recebe em uma embalagem de lanche, o pão escolhido e a carne pronta, e complementa o lanche da sua forma, colocando os acompanhamentos e os molhos na quantidade e na ordem que desejar. Virou um sucesso. Fundado em 2011 já com o objetivo de ser uma lanchonete “faça você mesmo”, o Trailer do Berg conta com 20 opções de acompanhamentos, ao todo, são mais de 336 combinações diferentes de hambúrgueres, segundo a idealizadora do negócio, Cíntia Santos, que vendeu sua parte na empresa no último ano. Hoje, os preços dos hambúrgueres variam de R$ 12,00 para a opção mais simples, com pão e uma carne comuns, até R$ 54,00 para o lanche com quatro carnes artesanais. Fim da escala 6x1: Você trabalha mais ou menos do que a média no Brasil? E no mundo? Confira — O negócio começou por causa de uma dificuldade financeira, precisávamos aumentar a renda familiar. Eu vi uma lanchonete fazendo a dinâmica \"monte você mesmo\" e me inspirei, como na região ainda não tinha um negócio assim, eu resolvi investir. Eu ganhava na quantidade pois fidelizava o cliente na liberdade que dava a ele em colocar somente o que gostava, ele mesmo montava como achava melhor, e acabava pagando mais só para ter essa experiência — conta Santos. Jovem gosta de mão na massa De acordo com o especialista em negócios, Filipe Brandão, a experiência de participar do processo de criação de um produto ou alimento, é uma dinâmica impulsionada pelas novas formas de consumo da geração Z (pessoas nascidas entre 1997 e 2012). A produção artesanal é mais valorizada e, consequentemente, o produto tem mais valor agregado. — A lógica de consumo mudou: antes o produto era o centro, hoje o cliente é o centro. Negócios baseados em experiência e personalização conseguem cobrar mais porque não vendem “o que”, vendem o “como” e o “porquê”. Quando o valor percebido supera o valor cobrado, o preço deixa de ser barreira e se torna parte natural da experiência premium — explica Brandão. Foco na experiência de produção atrai consumidores Localizada na capital paulista, a cafeteria Santo Grão atrai clientes ao transformar o consumo de café em uma experiência personalizada em que os consumidores participam do preparo da bebida e aprendem sobre diferentes tipos de grãos, torra, moagem e métodos de extração. Durante a experiência, os compradores recebem orientações de baristas especializados, escolhem combinações de diferentes grãos de café, participam da torra dos grãos e ainda levam para casa o café produzido por eles mesmos. Nas redes sociais, o negócio soma mais de 16,6 mil seguidores no Instagram e aposta na “experiência sensorial e personalizada como diferencial para conquistar apreciadores de cafés especiais”, segundo comunicado encaminhado pela marca. Veja novidades: Brasil atrai os maiores lançamentos da aviação executiva global Em Niterói, no Grande Rio, uma sorveteria também nasceu em 2023 com a proposta “faça você mesmo”. A Império Açaiteria conta com 42 opções entre sorvetes e açaí, além de 18 sabores de caldas e 20 complementos entre jujubas, chocolates, granulados, entre outros. A dinâmica do negócio consiste em pagar pelo tamanho que você quer consumir: os copos variam de 100 ml até 1 litro, com preços de R$ 8,00 a R$ 30,00. Ao realizar o pagamento, o consumidor recebe o pote do tamanho solicitado e uma colher, então, vai até os quatro freezers da loja e monta a sobremesa da forma que quiser. Cliente se serve em açaiteria em Niterói (RJ) Esther Gama Daniel Lucas Silva, de 18 anos, conta que soube do local por meio dos amigos e decidiu ir ver como funcionava. Ele relata que, se fosse comprar um copo de sorvete de 100 ml em uma lanchonete perto, gastaria cerca de R$ 5,00, mas prefere ir ao negócio pela dinâmica de montar o próprio doce. — Eu resolvi começar a vir aqui pois posso comer relativamente mais e isso não vai mudar o valor. Gosto da liberdade de montar do meu jeito, sem ter alguém para fazer o serviço — compartilha o jovem. Projeto: Acelen vai investir R$ 7,5 bilhões em biorrefinaria para produzir diesel renovável e querosene de aviação Viralizada no Instagram, pizzaria deixa cliente montar Localizada na Tijuca, no Rio de Janeiro, e fundada em 2015, a pizzaria Borda & Lenha aposta no conceito de personalização total, permitindo que cada cliente monte sua pizza individual de acordo com as próprias preferências. Nas redes sociais, a pizzaria acumula mais de 56,6 mil seguidores no Instagram e afirma ser um negócio voltado à experiência do consumidor e ao conceito de “faça você mesmo”. Pizzaria Borda & Lenha aposta no conceito de personalização total, permitindo que cada cliente monte sua pizza reprodução Pizzaria Borda & Lenha “Um dos nossos maiores diferenciais é o ‘Monte sua Pizza’, no qual o cliente escolhe entre inúmeras opções de ingredientes a forma que quer montar sua pizza. Nosso lema é: ‘Sua pizza, suas regras’”, relata a rede Borda & Lenha em nota. Influência das redes sociais: nova forma de consumo da geração Z De acordo com o especialista em vendas e marketing digital, Lucas Trindade, quando as empresas transformam o consumidor em coautor, elas potencializam a criação de conteúdo viral de forma orgânica, nas redes sociais, o que gera maior rentabilidade para o negócio. — A geração Z busca autenticidade e personalização, não é mais sobre somente vender um produto, é sobre criar ecossistemas onde o consumidor é protagonista, é uma nova forma de consumir. As pessoas postam mais naturalmente o processo de construção do que apenas o resultado final. Isso gera um alcance que nenhuma campanha paga consegue replicar, é “Instagramável”. Além de aumentar o ticket médio, porque as pessoas voltam mais vezes, e criar um ciclo de recomendação orgânica poderoso — destaca Trindade. (*Estagiária sob supervisão de Danielle Nogueira)",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/02/faca-voce-mesmo-negocios-apostam-no-modelo-em-que-o-consumidor-participa-da-producao.ghtml",
+      "published": "2026-06-02T07:00:42+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "pao de acucar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pao de acucar",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
           "field": "body",
           "score": 2,
           "topic": null
@@ -5657,73 +5723,35 @@
       "score": 4.0
     },
     {
-      "title": "Política tarifária de Trump agravou cenário desafiador para a indústria siderúrgica brasileira",
-      "summary": "A política tarifária implementada nos Estados Unidos pelo presidente Donald Trump agravou um cenário já bastante desafiador para a indústria siderúrgica brasileira. Segundo maior fornecedor de produtos semiacabados de aço para os EUA, o Brasil exportou no ano passado 3,4 milhões de toneladas para o país, uma queda de 1,3% em relação a 2024. Neste ano, o quadro segue piorando: os embarques de janeiro a abril recuaram 52% na comparação com mesmo período de 2025. Míriam Leitão: Empresas brasileiras precisam entender que requisitos ambientais são condições básicas para exportar hoje, diz especialista Brasil Soberano 2: BNDES somará R$ 21 bi para empresas afetadas por tarifaço de Trump e guerra no Irã O faturamento já vinha em queda: de aproximadamente US$ 2,6 bilhões em 2023, caiu para US$ 2,2 bilhões em 2024, atingindo, no ano passado, US$ 1,9 bilhão. Os semiacabados são o principal item da pauta e os EUA são os maiores clientes do Brasil no exterior para estes produtos. O tarifaço de Trump se somou ao excesso de oferta, à forte competição global e a outros fatores que já derrubaram em 18% os preços do aço desde dezembro de 2023. O Brasil também está se defendendo da competição e, em fevereiro, a Câmara de Comércio Exterior (Camex) aprovou a aplicação de direito antidumping definitivo às importações de laminados da China. Após tomar posse no ano passado, Trump assinou um decreto elevando a tarifa sobre as importações de produtos de aço e alumínio para 25%. Ele também cancelou isenções e cotas para grandes fornecedores, como Brasil, Canadá, México e outros países. O alcance das restrições é ainda mais amplo para o Brasil se for considerado o efeito indireto sobre as exportações de aço mexicanas. Empresas como a Ternium e a ArcelorMittal exportam do Brasil para suas fábricas no México para acessar o mercado americano. O México é o segundo maior destino do aço brasileiro (3,2 milhões de toneladas em 2025). As duas empresas não quiseram se pronunciar. Initial plugin text 'Início fraco' Em fevereiro, a Suprema Corte dos EUA derrubou as tarifas de Trump sob o argumento de que ele excedeu seus poderes. Em resposta, o presidente agora ameaça acionar a Seção 301 da Lei de Comércio dos EUA — um mecanismo já usado no passado contra o Brasil —, que permite a abertura de investigação por práticas consideradas prejudiciais ao comércio internacional. O mercado financeiro tem acompanhado os movimentos com cautela. Em abril, quando as empresas divulgaram os balanços do primeiro trimestre, gestores e corretoras como BTG Pactual e Goldman Sachs usaram as expressões “ceticismo” e “início fraco” em relação às perspectivas de recuperação do setor. Marco Polo de Mello Lopes, presidente do Instituto Aço Brasil, lamenta que o governo americano tenha colocado fim a um sistema de cotas negociado em 2018, durante a primeira gestão Trump, e que, em sua visão, era benéfico para ambos os lados. Pelo acordo, o Brasil tinha uma cota de cerca de 3,5 milhões de toneladas de semiacabados e em torno de 600 mil toneladas de produtos acabados com tarifa zero. A lógica era que os EUA precisam das placas semiacabadas por não serem autossuficientes nessa matéria-prima fundamental para as indústrias de transformação e para a construção civil. — Isso dava previsibilidade para as indústrias siderúrgicas brasileiras e, ao mesmo tempo, as siderúrgicas americanas também tinham previsibilidade no recebimento de uma matéria-prima de qualidade e com garantias. Era um fornecedor de confiança para a indústria americana. No caso dos laminados, a queda nas vendas aos EUA após o fim das cotas foi ainda mais expressiva, quase 45% — das 639 mil toneladas previstas no acordo de cotas, para 346 mil toneladas em 2025. A economista Lia Valls Pereira lembra que “o setor de siderurgia sempre foi muito protegido. Pesquisadora do Instituto Brasileiro de Economia da Fundação Getulio Vargas, ela não vê muitas mudanças no cenário à frente devido aos problemas estruturais que atingem o setor siderúrgico mundial. A expectativa é que os governos recuperem o acordo de cotas, o que será positivo para o Brasil.",
-      "url": "https://oglobo.globo.com/economia/summit-brazil-eua/noticia/2026/05/26/politica-tarifaria-de-trump-agravou-cenario-desafiador-para-a-industria-siderurgica-brasileira.ghtml",
-      "published": "2026-05-26T03:30:36+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "Accor vira sócia de Alex Allard na Mata Holding e aporta quase R$ 300 milhões",
+      "summary": "Após a experiência com o desenvolvimento do complexo Matarazzo, o empresário francês Alex Allard está expandindo as operações. A Mata Holding, sua empresa de investimento, anunciou uma parceria com o grupo Accor para criar uma plataforma global de hospitalidade e lazer no Brasil e no exterior, que já nasce com o Complexo Matarazzo como ativo em operação. “A nova fase da Mata reforça sua ambição de criar empreendimentos que ofereçam experiência e valorizem a cultura local e a natureza”, diz Allard ao Pipeline. O grupo Accor, de quase seis mil hotéis em 110 países, agregará a experiência global na operação de hotelaria e hospitalidade para ajudar o grupo Mata, que tem hoje mais de três mil funcionários só em São Paulo, a gerir os empreendimentos. TRX compra prédio do Emiliano no Rio CTF, sócia do hotel Rosewood, afasta Allard do conselho e abre processo Pelo acordo, a Accor realizará um investimento minoritário na Mata Holding no valor de 50 milhões de euros (cerca de R$ 293 milhões), passando a deter entre 20% e 24% do capital social da empresa de Allard. “O grupo Accor será o operador, o que permitirá eu me concentrar mais nos projetos fora de São Paulo, mantendo a independência criativa do grupo Mata”, diz Allard. Allard, do Complexo Matarazzo: \"futuro da indústria da hospitalidade está na experiência\" Gabriel Reis/Valor A plataforma nasce com a marca Mata. “O nome já estava lá e remete à floresta que cura, algo inerente a nossos projetos, que buscam integrar natureza, patrimônio e cultura, com grande influência do hemisfério Sul e foco na economia regenerativa”, diz Allard, que recentemente comprou a parte da Gafisa na parte comercial do complexo paulistano, que é gerido pela BM Varejo, e ficou só com minoritários como o fundo Autonomy. A nova parceria engloba tanto o ecossistema comercial da Cidade Matarazzo, controlado pela BM Varejo e agora inserido no Mata São Paulo, como outros projetos em desenvolvimento como o Mata Maravilha, com quatro hotéis e estimado em R$ 5 bilhões na região portuária do Rio, e o Mata Pelourinho, em Salvador, no lugar do Palácio do Governo, orçado em R$ 2 bilhões. Ex-XP cria ‘Maldivas brasileira’ com aposta de R$ 5 bi no Nordeste O prédio de luxo de Carlos Sanchez com a Liv Kopstein O Mata São Paulo será o laboratório para as futuras expansões que integrarão seis biomas: cultura, gastronomia, moda/ beleza e design, entretenimento, hospitalidade e negócios da economia regenerativa. Instalado em um hospital abandonado, próximo à Avenida Paulista, o complexo Matarazzo, que foi adquirido em 2010, já se tornou um ponto turístico da capital paulista. O complexo reúne áreas de lazer, comércio e escritórios, incluindo o Aya Hub, voltado para negócios de transição climática e economia verde, com mais de 100 parceiros. Cercado por paisagismo restaurado da Mata Atlântica, o ecossistema abriga o Rosewood, a Soho House e a Casa Bradesco e o Mata Lab, que reúne mais de 300 criadores de moda beleza e design, principalmente brasileiros. Como a JHSF se transformou em uma multinacional do luxo Luxo para quem? Consultoria quer melhorar o alvo das incorporadoras Com 80% da área comercial e de lazer já em operação, o projeto deve ser concluído até o fim de 2026 e pode atingir receita anual entre R$ 1,7 bilhão e R$ 1,8 bilhão. Hoje, reúne 16 restaurantes e prevê novas inaugurações como o africano Preta Maria, da Bela Gil, a rede libanesa Em Sherif, um boteco da chefe Janaína Torres, um restaurante japonês e um novo espaço para shows e experiências imersivas. No fim do ano passado, Allard teve a sua participação no hotel diluída após não ter quitado uma dívida com o a sócia Chow Tai Fook (CTF), holding de Hong Kong, sócio, mas ele não pensa em vender sua fatia no negócio. “Quando pensei no projeto, imaginei um ecossistema, com o hotel fazendo parte desse complexo”, diz. O anúncio do acordo com a Accor, agendado há semanas, acontece com a infeliz coincidência de uma fatalidade no hotel, onde uma turista americana foi encontrada morta. A Polícia investiga o caso, com suspeita de overdose, e o Rosewood afirma que está colaborando com as autoridades.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/accor-vira-socia-de-alex-allard-na-mata-holding-e-aporta-quase-r-300-milhoes.ghtml",
+      "published": "2026-06-01T15:52:14+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
       "matched_sectors": [
-        "Material de Construção"
+        "Viagens"
       ],
       "matched_aliases": [
-        "construção civil"
+        "hotel",
+        "hotelaria"
       ],
       "matches": [
         {
-          "sector": "Material de Construção",
-          "alias": "construção civil",
+          "sector": "Viagens",
+          "alias": "hotel",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "hotelaria",
           "field": "body",
           "score": 2,
           "topic": null
         }
       ],
-      "score": 2.0
-    },
-    {
-      "title": "Empresas brasileiras miram no mercado de franquias nos EUA; setor projeta faturamento de US$ 921 bilhões em 2026",
-      "summary": "Disputar uma fatia do mercado de franquias dos Estados Unidos não é para amadores. São 3.500 marcas que juntas deverão somar 845 mil operações em 2026. Estima-se que o faturamento do setor saltará de US$ 907,3 bilhões no ano passado para US$ 921,4 bilhões, de acordo com o estudo “2026 Franchising Economic Outlook”, divulgado pela International Franchising Association (IFA). A expectativa é da entrada em operação de 12 mil novos negócios franqueados até dezembro, boa parte deles de marcas estrangeiras. — Apesar de desafiador, o mercado americano é o segundo principal destino das franquias brasileiras em número de marcas, são 66, e o quarto em volume de unidades, abrigando 307 operações — afirma Gustavo Freitas, diretor internacional da Associação Brasileira de Franchising (ABF). — A penetração, porém, já foi maior. Em 2023 eram 76 marcas franqueadoras brasileiras, o que comprova que é preciso uma estratégia muito bem estruturada para se manter ativo. Negócios: Airbnb vai oferecer entrega de comida, aluguel de carro e reserva em hotéis Capital: Apple está prestes a ‘invadir’ empresas do Brasil, prevê maior distribuidora do país Na mão inversa a participação de franquias americanas no Brasil é significativa e não menos desafiadora. Das 122 marcas estrangeiras em operação no país, 47 são dos Estados Unidos. Em 2024 eram 59. Com 3.300 marcas, 202 mil operações e um faturamento de R$ 301,7 bilhões no ano passado, o franchising brasileiro tem no número de unidades por franqueado uma diferença significativa em relação aos americanos. Enquanto aqui a média é de 60 franquias para uma base de 60 a 70 mil franqueados, lá os cerca de 234 mil operadores têm em média 500 unidades. Segundo levantamento da CommUnit, comunidade de franqueados e multifranqueados, apenas 300 franqueados brasileiros têm mais de 50 franquias, o equivalente a 8% dos operadores. Os 200 maiores franqueadores americanos movimentam US$ 55 bilhões, cerca de 91% do faturamento do franchising no Brasil em 2025. Opção estratégica Isabel Lima, diretora de operações internacionais do CCLS, braço internacional do CCAA Divulgação Presente nos EUA desde 1991, a rede de ensino de idiomas CCAA conta com 9 escolas instaladas na Flórida, Texas, Nova York e arredores, todas voltadas ao ensino de inglês a alunos internacionais com visto de estudante. — No Brasil crescemos como franquia e nos EUA com licenciamento. Trata-se de uma opção estratégica, por ser mais fácil de operar — diz Isabel Lima, diretora de operações internacionais do CCLS, braço internacional da rede. — Um dos principais desafios no mercado americano é a legislação, que muda de estado para estado, de região para região. A meta para 2026 é acelerar a expansão com a integração da plataforma de ensino 100% digital a novas operações do CCLS. Com 700 unidades no Brasil e 11 no exterior, o CCAA espera faturar R$ 700 milhões este ano. — Os Estados Unidos deverão alcançar US$ 11,5 milhões, o equivalente a 85% do faturamento do braço internacional. Porta de entrada das franquias brasileiras, a Flórida está entre os dez estados americanos com previsão de expansão mais rápida para franquias em 2026, segundo o relatório da IFA. — Abrimos a primeira loja em 2019, em Orlando, para atender à comunidade latina — afirma Fábio Araujo, diretor-geral da Sodiê Doces. — O primeiro desafio foi acostumar o paladar dos americanos ao tipo de bolo que produzimos, que não leva pasta americana e é bem mais recheado. Manter a originalidade das receitas também exige esforço. A maioria dos insumos, principalmente leite condensado, é despachada do Brasil. Brasil Soberano 2: BNDES somará R$ 21 bi para empresas afetadas por tarifaço de Trump e guerra no Irã Segundo o executivo, foram mais de cinco anos de maturação e aprendizado. Hoje, 20% do faturamento das duas operações dos EUA, estimado em R$ 14 milhões, tem origem nas vendas a consumidores americanos. — Diante dos resultados, contratamos uma consultoria para mapear todo o território a partir da Flórida — revela. — O resultado apontou capacidade de instalação de 45 unidades. A ideia é expandir via master franqueado para estados com grande presença de latinos. Com 401 franquias, a Sodiê prevê crescimento de 7% em 2026, atingindo um faturamento de R$ 840 milhões. Quem também escolheu Orlando para dar início à internacionalização foi a 3,2,1 GO!, agência especializada em experiências completas para os parques de Orlando e destinos nacionais e internacionais. A rede conta com 16 unidades nos EUA — destas, 14 em Orlando —, que respondem por 10% do faturamento, que este ano deverá somar R$ 6 milhões. — Criamos a franquia em 2019 com o propósito de ser uma empresa de nicho. Em 2025 chegamos aos Estados Unidos, com unidades home based operadas por brasileiros — diz o CEO Marco Lisboa. — Em 2027 iniciaremos a expansão via licenciamento para operadores americanos, respeitando o passo a passo da legislação americana. Segundo Lisboa, bons resultados num mercado tão concorrido exigem investimentos de longo prazo, atenção à legislação local e um plano de marketing bem estruturado. — Nossa estratégia inclui participação em feiras e patrocínio de eventos para a comunidade brasileira. Initial plugin text Joint venture A estratégia adotada por Alexandre Barreiro, CEO da N2 Extreme Gelato para a América Latina, foi desembarcar nos EUA através de uma joint venture firmada com uma empresa americana. A primeira loja, aberta em 2018 em Nova York, atraiu a atenção de investidores, graças ao produto lúdico preparado na hora. — Somos a única franquia no mundo de gastronomia molecular, apresentamos dois sabores exclusivos por semana, sem repetição — afirma. — Demoramos dois anos para operar no modelo de franquia nos EUA. A expansão é cuidadosa, temos seis unidades, entre Nova York, Flórida e Utah. A expectativa é que as operações americanas faturem US$ 1,8 milhão. Em 2025 a receita foi de US$ 1,6 milhão.",
-      "url": "https://oglobo.globo.com/economia/summit-brazil-eua/noticia/2026/05/26/empresas-brasileiras-miram-no-mercado-de-franquias-nos-eua-setor-projeta-faturamento-de-us-921-bilhoes-em-2026.ghtml",
-      "published": "2026-05-26T06:15:33+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "reserva"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "reserva",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "De Spielberg a Federer: Forbes lista 22 celebridades mais ricas do mundo em 2026; veja ranking",
-      "summary": "A revista Forbes, referência mundial em finanças, negócios e economia, divulgou o ranking das 'celebridades' mais ricas do mundo. Em 2026, a revista identificou 22 personalidades, entre atletas e artistas, na lista de bilionários do mundo, com patrimônio conjunto estimado em US$ 48,1 bilhões, cerca de R$ 241,5 bilhões. Em 2025, eram 18 nomes, somando US$ 39 bilhões, o equivalente a R$ 195,8 bilhões. Cabine de luxo, asas futuristas e tecnologia inédita: conheça o Phantom 3500, jato ‘fantasma’ que promete revolucionar a aviação executiva Carro voador brasileiro? Veja como funciona novo veículo flutuante da Embraer As novas entradas no ranking são Beyoncé Knowles-Carter, Roger Federer, Dr. Dre e James Cameron. Eles se juntam a nomes já conhecidos da lista, como Steven Spielberg, George Lucas e Oprah Winfrey, que estrearam entre os bilionários da Forbes entre os anos 1990 e o início dos anos 2000, além de celebridades incorporadas mais recentemente, como Kim Kardashian, Taylor Swift e Rihanna. A Forbes define “celebridade” como alguém que ficou famoso antes de se tornar extremamente rico — critério que privilegia artistas e atletas. A lista não inclui pessoas conhecidas principalmente por sua fortuna ou pelo sucesso nos negócios, como o presidente dos Estados Unidos, Donald Trump, e Mark Cuban. Os patrimônios foram calculados com base em estimativas de 1º de março de 2026. Veja ranking das celebridades bilionárias Em 22º lugar, Dr. Dre aparece com patrimônio estimado em US$ 1 bilhão, cerca de R$ 5,02 bilhões. O rapper e produtor foi cofundador da Beats Electronics e da Beats Music, vendidas à Apple por cerca de US$ 3 bilhões, ou R$ 15,1 bilhões, em dinheiro e ações em 2014. Ele também fundou a gravadora Aftermath Entertainment em 1996 e ajudou a lançar as carreiras de nomes como Eminem, 50 Cent e Kendrick Lamar. O rapper Dr Dre Reprodução: Instagram Beyoncé Knowles-Carter ocupa a 21ª posição, também com US$ 1 bilhão, cerca de R$ 5,02 bilhões. A maior parte da fortuna da cantora vem de cerca de três décadas de carreira, como artista solo e integrante do Destiny’s Child. Ela detém o recorde de maior número de Grammys, com 35, e venceu seu primeiro prêmio de Álbum do Ano em 2025. Em 2023, Beyoncé e o marido Jay-Z compraram uma mansão de US$ 200 milhões, cerca de R$ 1 bilhão, em Malibu, na venda residencial mais cara da história da Califórnia. Beyoncé no Grammy 2023 Frazer Harrison / AFP Rihanna aparece em 20º lugar, com US$ 1 bilhão, o equivalente a R$ 5,02 bilhões. Embora mantenha os fãs à espera de músicas inéditas após dez anos sem lançar um álbum, sua fortuna foi construída principalmente fora dos palcos. O principal ativo é a Fenty Beauty, empresa de cosméticos que ela coadministra com a LVMH. O conglomerado de luxo estaria avaliando vender sua participação na marca em um negócio que poderia avaliar a companhia entre US$ 1 bilhão e US$ 2 bilhões, ou entre R$ 5,02 bilhões e R$ 10,04 bilhões. A cantora Rihanna mostra gravidez no baile do Met Gala, nos EUA Andrea Renault/AFP James Cameron, uma das novidades de 2026, está em 19º lugar, com US$ 1,1 bilhão, cerca de R$ 5,52 bilhões. O cineasta dirigiu três dos quatro filmes de maior bilheteria da história: Titanic, Avatar e Avatar: O Caminho da Água. Ele é o segundo diretor de maior arrecadação da história, atrás apenas de Steven Spielberg, com quase US$ 9 bilhões, cerca de R$ 45,2 bilhões, gerados nas bilheterias globais. Quando Avatar faturou quase US$ 3 bilhões, ou R$ 15,1 bilhões, nos cinemas, além de milhões com DVDs e streaming, Cameron recebeu uma estimativa de US$ 350 milhões, cerca de R$ 1,76 bilhão, antes de impostos e taxas. James Cameron em première de \"Avatar: Fogo & cinzas\" em Paris Bertrand GUAY / AFP Roger Federer ocupa a 18ª posição, com US$ 1,1 bilhão, cerca de R$ 5,52 bilhões. O suíço conquistou 20 títulos de Grand Slam antes de se aposentar, em 2022, e construiu uma das carteiras de patrocínio mais valiosas da história do esporte. No auge, chegou a ganhar US$ 100 milhões, cerca de R$ 502 milhões, fora das quadras em um único ano, com marcas como Uniqlo, Rolex e Mercedes. Seu maior acerto, segundo a Forbes, foi uma participação estimada em 3% na marca suíça On, que abriu capital em 2021 e hoje tem valor de mercado de quase US$ 15 bilhões, cerca de R$ 75,3 bilhões. Roger Federer Adrian DENNIS / AFP Jerry Seinfeld aparece em 17º lugar, com US$ 1,1 bilhão, cerca de R$ 5,52 bilhões. O comediante ainda lucra com a série Seinfeld, sucesso dos anos 1990. Ele e o cocriador Larry David recebem, segundo a Forbes, 15% da receita de distribuição da sitcom, incluindo vendas para emissoras locais e plataformas de streaming. Em 2019, a Netflix adquiriu os direitos globais de exibição da série por cinco anos, em um acordo de mais de US$ 500 milhões, cerca de R$ 2,51 bilhões. Jerry Seinfeld Landon Nordeman/NYT Arnold Schwarzenegger está em 16º lugar, com US$ 1,2 bilhão, cerca de R$ 6,02 bilhões. Um dos atores mais bem pagos da história de Hollywood, o ex-governador da Califórnia recebeu cerca de US$ 500 milhões, ou R$ 2,51 bilhões, antes de impostos e taxas, em cachês e participações nos lucros de seus filmes. Ele ganhou ainda mais com investimentos em imóveis na Califórnia e em empresas como a Dimensional Fund Advisors, na qual comprou uma participação minoritária quando a gestora administrava US$ 12 bilhões, cerca de R$ 60,2 bilhões. Hoje, a DFA tem mais de US$ 1 trilhão sob gestão, o equivalente a R$ 5,02 trilhões. Arnold Schwarzenegger Guito Moreto / Agência O Globo Bruce Springsteen ocupa a 15ª posição, com US$ 1,2 bilhão, cerca de R$ 6,02 bilhões. Integrante do Hall da Fama do Rock and Roll, o músico vendeu mais de 140 milhões de álbuns no mundo ao longo de 50 anos de gravações e turnês. Seu maior pagamento veio em 2021, quando vendeu seu catálogo musical à Sony Music Entertainment por US$ 500 milhões, cerca de R$ 2,51 bilhões. Bruce Springsteen canta do lado de fora do Capitólio do Estado de Minnesota durante o dia nacional de protesto \"No Kings\" em Saint Paul, Minnesota, em 28 de março de 2026 Kerem Yucel / AFP LeBron James aparece em 14º lugar, com US$ 1,4 bilhão, cerca de R$ 7,03 bilhões. O astro da NBA recebeu mais de US$ 500 milhões, cerca de R$ 2,51 bilhões, em salários antes de impostos por passagens por Cleveland Cavaliers, Miami Heat e Los Angeles Lakers. Fora das quadras, arrecadou mais de US$ 1 bilhão, ou R$ 5,02 bilhões, com negócios e contratos publicitários com marcas como PepsiCo, Nike e Beats by Dre. Aos 41 anos, LeBron segue brilhando e é eleito Jogador da Semana na NBA Sean M. Haffey/AFP Tyler Perry está em 13º lugar, com US$ 1,4 bilhão, cerca de R$ 7,03 bilhões. Diretor, ator, produtor e roteirista, ele é conhecido pela franquia Madea, que arrecadou mais de US$ 660 milhões, cerca de R$ 3,31 bilhões. A fortuna vem tanto de sua participação como produtor quanto de uma biblioteca iniciada no começo dos anos 1990. Perry possui 100% do conteúdo que criou. Tyler Perry Reprodução Dick Wolf ocupa a 12ª posição, com US$ 1,5 bilhão, cerca de R$ 7,53 bilhões. O produtor é o nome por trás das franquias Law & Order, Chicago e FBI. Sua empresa, Wolf Entertainment, mantém desde 2004 um acordo de participação nos lucros com a Universal Television, que lhe permite reter quase metade dos ganhos de seus programas quando são vendidos para distribuição. O produtor executivo Dick Wolf Reprodução: Instagram Tiger Woods aparece em 11º lugar, com US$ 1,5 bilhão, cerca de R$ 7,53 bilhões. O golfista acumulou cerca de US$ 1,9 bilhão, cerca de R$ 9,54 bilhões, antes de impostos durante a carreira profissional, incluindo US$ 121 milhões, cerca de R$ 607,4 milhões, em prêmios no PGA Tour, um recorde da competição. A fortuna foi construída apesar de ele ter recusado uma oferta “inacreditavelmente enorme” da LIV Golf, que, segundo o ex-CEO Greg Norman, teria ficado na casa dos “altos nove dígitos”. O golfista americano Tiger Woods durante o 152º Campeonato Britânico de Golfe no Royal Troon, na Escócia Glyn Kirk / AFP Magic Johnson está em 10º lugar, com US$ 1,6 bilhão, cerca de R$ 8,03 bilhões. O ex-jogador recebeu cerca de US$ 40 milhões, aproximadamente R$ 200,8 milhões, em salários durante a carreira, principalmente no Los Angeles Lakers, e menos de US$ 4 milhões por ano, cerca de R$ 20,1 milhões, em publicidade. Hoje, é sócio minoritário de quatro equipes esportivas profissionais, incluindo Los Angeles Dodgers e Washington Commanders, mas a maior parte de sua riqueza vem da participação majoritária na Equitrust, seguradora de vida com quase US$ 34 bilhões em ativos, cerca de R$ 170,7 bilhões. O ex-jogador de basquete Magic Johnson Reprodução: AFP Peter Jackson ocupa a 9ª posição, com US$ 1,9 bilhão, cerca de R$ 9,54 bilhões. Conhecido por dirigir as trilogias O Senhor dos Anéis e O Hobbit, o cineasta se tornou bilionário em 2021, após vender a divisão de tecnologia de sua empresa de efeitos visuais Wētā FX para a Unity Software por US$ 1,6 bilhão, cerca de R$ 8,03 bilhões, em dinheiro e ações. Ele deve voltar à franquia que o tornou famoso ainda neste ano, como produtor do filme The Lord of the Rings: The Hunt for Gollum. O diretor, roteirista e produtor neozelandês Peter Jackson recebe sua Palma de Ouro honorária Sameer AL-DOUMY / AFP Kim Kardashian aparece em 8º lugar, também com US$ 1,9 bilhão, cerca de R$ 9,54 bilhões. A empresária ganhou fama como estrela do reality show Keeping Up with the Kardashians, mas se tornou bilionária graças à Skims, marca de roupas modeladoras avaliada por investidores privados em US$ 5 bilhões, cerca de R$ 25,1 bilhões, na rodada de financiamento mais recente, em 2025. A empresária e modelo Kim Kardashian Bertrand Guay/AFP Taylor Swift ocupa a 7ª posição, com US$ 2 bilhões, cerca de R$ 10,04 bilhões. A cantora se tornou bilionária em 2023, impulsionada pelos ganhos da turnê Eras e pelo valor de seu catálogo musical. Sua fortuna inclui quase US$ 1 bilhão, cerca de R$ 5,02 bilhões, acumulado com royalties e turnês, além de um catálogo avaliado em aproximadamente US$ 900 milhões, cerca de R$ 4,52 bilhões, e US$ 100 milhões, cerca de R$ 502 milhões, em imóveis. Show da cantora Taylor Swift no estádio Nilton Santos Alexandre Cassiano Jay-Z está em 6º lugar, com US$ 2,8 bilhões, cerca de R$ 14,06 bilhões. Desde que se tornou o primeiro bilionário do hip-hop, em 2019, o rapper quase triplicou sua fortuna, impulsionado por negócios no setor de bebidas. Ele vendeu 50% da marca de champanhe Armand de Brignac, conhecida como Ace of Spades, para a LVMH em 2021, e a maior parte de sua participação no conhaque D’Ussé para a Bacardi em 2023. O rapper Jay-Z Chris Delmas/AFP Oprah Winfrey aparece em 5º lugar, com US$ 3,2 bilhões, cerca de R$ 16,06 bilhões. A apresentadora transformou seu talk show, exibido por 25 anos até 2011, em um império de mídia e negócios. Parte dos lucros foi reinvestida em um amplo portfólio imobiliário, que inclui mais de uma dúzia de propriedades e 2.100 acres de terra no Havaí. A apresentadora Oprah Winfrey durante a conferência deste ano Bloomberg Vince McMahon ocupa a 4ª posição, com US$ 3,6 bilhões, cerca de R$ 18,07 bilhões. Ele transformou a World Wrestling Entertainment, a WWE, de uma operação regional em um fenômeno global. McMahon combinou a WWE com o UFC para formar o TKO Group Holdings em uma fusão de US$ 21 bilhões, cerca de R$ 105,4 bilhões, em 2023. Em 2024, deixou o cargo de presidente executivo da TKO em meio a acusações de má conduta sexual, que ele nega. Vince McMahon Bloomberg Michael Jordan aparece em 3º lugar, com US$ 4,3 bilhões, cerca de R$ 21,59 bilhões. O salário do ex-jogador durante a carreira na NBA somou apenas US$ 90 milhões, cerca de R$ 451,8 milhões, mas ele acumulou mais de US$ 2 bilhões, cerca de R$ 10,04 bilhões, antes de impostos com parceiros comerciais como Nike, Hanes e Gatorade. Em 2023, vendeu a maior parte de sua participação majoritária no Charlotte Hornets, em um acordo que avaliou o time em cerca de US$ 3 bilhões, ou R$ 15,1 bilhões, mas teria mantido uma fatia minoritária da franquia. Jogador americano de basquete Michael Jordan FRANCK FIFE / AFP George Lucas está em 2º lugar, com US$ 5,2 bilhões, cerca de R$ 26,1 bilhões. Criador de Star Wars e Indiana Jones, ele vendeu a Lucasfilm para a Disney em 2012 por US$ 4 bilhões, cerca de R$ 20,08 bilhões, em dinheiro e ações. Hoje, está mais dedicado à filantropia e ao desenvolvimento do Lucas Museum of Narrative Art, previsto para abrir em Los Angeles neste ano. George Lucas na 77ª edição do Festival de Cannes LOIC VENANCE / AFP Steven Spielberg lidera o ranking, com US$ 7,1 bilhões, cerca de R$ 35,64 bilhões. Cofundador da DreamWorks e diretor de cinema de maior bilheteria de todos os tempos, Spielberg ainda recebe uma fatia de cada ingresso vendido nos parques da Universal, graças a sucessos como Tubarão, Jurassic Park e Indiana Jones. Seu novo filme, o thriller de ficção científica Disclosure Day, tem lançamento previsto para maio. O diretor Steven Spielberg também esteve na festa promovida pela Louis Vuitton Divulgação/AFP",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/05/26/de-spielberg-a-federer-forbes-lista-22-celebridades-mais-ricas-do-mundo-em-2026-veja-ranking.ghtml",
-      "published": "2026-05-26T07:02:18+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "lvmh"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "lvmh",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
+      "score": 4.0
     },
     {
       "title": "Fenômeno global, Labubu estreia no Brasil com chegada da chinesa Pop Mart",
@@ -6040,6 +6068,75 @@
         {
           "sector": "Fashion",
           "alias": "reserva",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Regra que exige acordo coletivo para trabalho em feriados no comércio entra em vigor após adiamentos",
+      "summary": "Entrou em vigor nesta segunda-feira a regra do Ministério do Trabalho e Emprego (MTE) que condiciona o funcionamento de parte do comércio em feriados à existência de convenção coletiva entre empregadores e trabalhadores. A medida, publicado orginalmente em 2023 e adida diversas vezes desde então, passa a valer a partir deste mês. Dias de folga: Corpus Christi é feriado nacional? Quem trabalha recebe dobrado? Dados do IR revelam: Quantos brasileiros têm a mesma profissão que você? E qual é o ganho deles? Pela regra, empresas do comércio só podem escalar funcionários para trabalhar em feriados quando houver autorização prevista em negociação coletiva entre patrões e trabalhadores e desde que sejam observadas as normas municipais. Na prática, a decisão unilateral das empresas deixa de ser suficiente para autorizar o funcionamento em feriados em determinadas atividades comerciais. As condições para o trabalho nesses dias, como pagamento adicional, compensação de jornada ou concessão de folgas, deverão ser definidas por meio de negociação coletiva. A entrada em vigor da portaria foi postergada ao menos cinco vezes diante da resistência de representantes do setor empresarial e de parlamentares. Em fevereiro deste ano, o governo chegou a adiar sua implementação por mais 90 dias e anunciou a criação de uma comissão bipartite, formada por representantes de empregadores e trabalhadores, para buscar consenso sobre o tema. PEC 6x1: Alcolumbre deve reunir líderes para definir rito no Senado da proposta que reduz a jornada de trabalho A mudança não atinge todas as atividades autorizadas a funcionar em feriados. Entre os segmentos que passam a depender de convenção coletiva estão supermercados, hipermercados, farmácias, lojas em geral, atacadistas e distribuidores de produtos industrializados, além de estabelecimentos localizados em portos, aeroportos, rodoviárias e hotéis. Empresas que descumprirem a exigência poderão ser alvo de fiscalização e aplicação de multas administrativas pelo Ministério do Trabalho. Initial plugin text",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/01/regra-que-exige-acordo-coletivo-para-trabalho-em-feriados-no-comercio-entra-em-vigor-apos-adiamentos.ghtml",
+      "published": "2026-06-01T15:44:05+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Anthropic inicia processo para abrir capital nos EUA e intensifica disputa com a OpenAI",
+      "summary": "A empresa de inteligência artificial Anthropic protocolou de forma confidencial a documentação preliminar para uma oferta pública inicial de ações (IPO), enquanto acelera a disputa com sua principal rival, a OpenAI, para estrear em Wall Street já neste outono no hemisfério norte, entre setembro e dezembro. Corrida de gigantes: Anthropic ultrapassa valor de mercado da OpenAI, aos US$ 965 bilhões Quem vai gritar gol antes nesta Copa? TV aberta e streaming apostam corrida pelo ‘spoiler’ \"O número de ações a serem ofertadas e o preço ainda não foram definidos\", informou a companhia em publicação em seu blog nesta segunda-feira. Criadora do chatbot Claude, a Anthropic levantou recentemente US$ 65 bilhões em uma rodada de financiamento que avaliou a empresa em US$ 965 bilhões, incluindo o novo aporte. Com isso, a companhia superou pela primeira vez o valor de mercado atribuído à OpenAI. Temu: app chinês é multado em US$ 232 milhões pela UE por venda de brinquedos e carregadores inseguros A Anthropic tem registrado forte aumento na demanda por suas ferramentas, à medida que clientes utilizam suas soluções para otimizar programação e outras tarefas. Nos últimos meses, Anthropic e OpenAI vêm intensificando a concorrência enquanto ambas avançam em planos para abrir capital. Segundo a Bloomberg, a OpenAI também estaria preparando o envio confidencial de documentos para seu IPO nas próximas semanas, com expectativa de estrear na bolsa ainda neste outono.",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/06/01/anthropic-inicia-processo-para-abrir-capital-nos-eua-e-intensifica-disputa-com-a-openai.ghtml",
+      "published": "2026-06-01T16:28:33+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "temu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "temu",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Proximidade com Mario Frias, moradora da periferia, filme sobre Bolsonaro: quem é Karina Gama, alvo de operação policial em SP",
+      "summary": "Moradora da Brasilândia, na Zona Norte de São Paulo, Karina Ferreira da Gama, de 47 anos, nunca havia produzido um filme antes de “Dark Horse”, sobre o ex-presidente Jair Bolsonaro (PL). Sua experiência principal era no terceiro setor, mas nos últimos anos ela passou a firmar contratos de cifras altas com a prefeitura de São Paulo, diversificou os negócios e abriu uma holding em Aracaju. Tudo isso coincide com uma aproximação com o deputado federal Mário Frias (PL-SP). Foi Frias quem emplacou a Go Up Entertainment como a produtora do filme sobre o ex-presidente. Em 2022, Karina prestou serviços de assessoria de imprensa para a campanha do deputado, pelo valor de R$ 54 mil. Na diplomação do deputado, esteve ao seu lado e de sua família, e os dois chegaram a posar juntos para fotos. A parceria dos dois, que se conheceram em 2020, quando ele era secretário de Cultura de Bolsonaro, se refletiu também nas emendas do parlamentar, que enviou R$ 2 milhões para o Instituto Conhecer Brasil. Uma das emendas destinou-se à capacitação de adultos e adolescentes em \"letramento digital\" para o ensino digital a alunos de 4º e 5º anos de escolas públicas municipais, e a outra para implementação do projeto de artes marciais \"Lutando pela Vida\", em São Paulo. Nesta segunda-feira (1º), o endereço residencial de Karina e a sede de sua ONG Instituto Conhecer Brasil e da produtora Go Up foram alvos de busca e apreensão no âmbito de uma operação deflagrada pela Polícia Civil de São Paulo, que apura suspeitas de irregularidades na contratação da ONG pela gestão Ricardo Nunes (MDB). Frias reagiu à operação contra a aliada, disse que ela “não ficará sozinha” e disse que ela é “humilde, honesta e trabalhadora”. “Confiamos irrestritamente nela. Karina está sendo usada politicamente. Tudo será amplamente explicado”, disse à coluna Bela Megale. Em fevereiro deste ano, Karina também abriu uma holding, a Gama Participações LTDA, em Aracaju (SE), com capital social de R$ 100 mil, que tem ela como única sócia. Ela também virou sócia da Upcon Serviços Especializados LTDA, uma construtora, que tem sede em Salvador (BA). Com a sua ONG Instituto Conhecer Brasil, ela conseguiu firmar um contrato de R$ 108 milhões com a Secretaria Municipal de Inovação e Tecnologia (SMIT), em 2024, para instalar 5 mil pontos de Wi-Fi em vias públicas da cidade. Não foi o único contrato público que ela angariou: a mesma entidade firmou um convênio de R$ 300 mil com a Secretaria Municipal de Direitos Humanos para fazer projetos de ensino profissionalizante de maquiagem para mulheres de baixa renda da Zona Leste da capital, em 2024. O GLOBO procurou Karina para comentar sobre a operação desta segunda, e não recebeu resposta. A Prefeitura de São Paulo, por sua vez, nega irregularidades na contratação da ONG para implementação de pontos de Wi-Fi e disse que está colaborando com as investigações.",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/06/01/proximidade-com-mario-frias-moradora-da-periferia-filme-sobre-bolsonaro-quem-e-karina-gama-alvo-de-operacao-policial-em-sp.ghtml",
+      "published": "2026-06-01T20:03:50+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
           "field": "body",
           "score": 2,
           "topic": null
