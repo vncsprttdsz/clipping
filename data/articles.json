@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T09:46:05.543063+00:00",
+  "generated_at": "2026-06-02T11:05:20.028669+00:00",
   "count": 227,
-  "new_this_run": 10,
+  "new_this_run": 11,
   "articles": [
     {
       "title": "Quando a Ozivy, concorrente do Ozempic feita no Brasil, deve custar — e quando a caneta chegará às farmácias",
@@ -1803,37 +1803,6 @@
       "score": 32.0
     },
     {
-      "title": "Descuentos en Carrefour hoy: qué promociones hay este martes 26 de mayo y cómo aprovecharlas",
-      "summary": "El hipermercado tiene este martes 26 de mayo importantes descuentos y cuotas sin interés en indumentaria, calzado de su nueva línea otoño-invierno 2026.",
-      "url": "https://www.ambito.com/economia/descuentos-carrefour-hoy-que-promociones-hay-este-martes-26-mayo-y-como-aprovecharlas-n6280575",
-      "published": "2026-05-26T11:00:00+00:00",
-      "source": "https://www.ambito.com/rss/economia.xml",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "carrefour",
-        "hipermercado"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "hipermercado",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Ozempic genérico deve ter preço menor que R$ 1.000",
       "summary": "O medicamento Ozivy, primeira semaglutida sintétic...",
       "url": "https://valor.globo.com/empresas/noticia/2026/05/27/ozempic-generico-deve-ter-preco-menor-que-r-1000.ghtml",
@@ -2052,18 +2021,26 @@
       "score": 28.0
     },
     {
-      "title": "Reforma tributária e o impacto direto na indústria",
-      "summary": "A reforma tributária entra, a partir de 2027, em um estágio que deixará de ser apenas projeção e passará a integrar a rotina operacional das empresas. Os impactos serão não apenas na forma de apuração e recolhimento dos tributos, mas também nas formas de atuação das indústrias, nas escolhas de suas cadeias produtivas, fornecedores e mercados consumidores. Esse cenário trará grandes desafios, pois teremos uma dinâmica de tributação distinta da atual e, como sabemos, erros no início desse processo podem ser fatais para as indústrias que não estiverem preparadas. Leia mais (05/26/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/05/reforma-tributaria-e-o-impacto-direto-na-industria.shtml",
-      "published": "2026-05-26T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "title": "Controle dos preços de transferência na reforma tributária",
+      "summary": "Dentre os vários temas dos regulamentos da CBS e d...",
+      "url": "https://valor.globo.com/legislacao/fio-da-meada/post/2026/06/controle-dos-precos-de-transferencia-na-reforma-tributaria.ghtml",
+      "published": "2026-06-02T10:00:54+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
+        "cbs",
         "reforma tributária"
       ],
       "matches": [
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
         {
           "sector": "Economia",
           "alias": "reforma tributária",
@@ -2072,30 +2049,46 @@
           "topic": "reforma_tributaria"
         }
       ],
-      "score": 20.0
+      "score": 28.0
     },
     {
-      "title": "Renda do domicílio reduz inadimplência em até 31%, aponta estudo da Serasa - Bloomberg Línea Brasil",
-      "summary": "Renda do domicílio reduz inadimplência em até 31%, aponta estudo da Serasa &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/brasil/renda-do-domicilio-reduz-inadimplencia-em-ate-31-aponta-estudo-da-serasa",
-      "published": "2026-05-26T11:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "title": "Com aprovação da Anvisa, versão mais potente e barata de caneta emagrecedora chega ao mercado",
+      "summary": "Poviztra, medicamento à base de semaglutida, agora poderá alcançar a dose de 7,2 mg por semana, a mesma do Wegovy",
+      "url": "https://veja.abril.com.br/saude/com-aprovacao-da-anvisa-versao-mais-potente-e-barata-de-caneta-emagrecedora-chega-ao-mercado",
+      "published": "2026-06-02T09:50:46+00:00",
+      "source": "https://veja.abril.com.br/feed",
       "matched_sectors": [
-        "Economia"
+        "Farmácias"
       ],
       "matched_aliases": [
-        "inadimplência"
+        "medicamento",
+        "semaglutida",
+        "wegovy"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
-      "score": 20.0
+      "score": 24.0
     },
     {
       "title": "Caneta nacional: Anvisa aprova 1º ‘genérico’ do Ozempic; entenda como funciona - O GLOBO",
@@ -4605,6 +4598,29 @@
       "score": 20.0
     },
     {
+      "title": "Reforma tributária redefine o papel dos marketplaces e amplia responsabilidades fiscais",
+      "summary": "A reestruturação da tributação sobre o consumo no Brasil trouxe impactos que vão muito além da simples substituição de tributos. Um dos pontos mais sensíveis dessa transformação está na redefinição do papel dos marketplaces dentro da dinâmica de arrecadação. Com a entrada em vigor da Lei Complementar nº 214/2025, posteriormente ajustada pela Lei Complementar nº 227/2026, as plataformas digitais deixam de atuar apenas como intermediárias e passam a ocupar uma posição relevante na lógica de recolhimento do IBS e da CBS. Leia mais (06/02/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/06/reforma-tributaria-redefine-o-papel-dos-marketplaces-e-amplia-responsabilidades-fiscais.shtml",
+      "published": "2026-06-02T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Rede D'Or amplia parceria com Bradsaúde e terá novo hospital no Rio",
       "summary": "A Rede D'Or e a Atlântica Hospitais, braço hospitalar da Bradsaúde, informaram nesta terça-feira um acordo de investimentos para a abertura de um novo hospital no Rio. A unidade, já em obras, será estabelecida no bairro de São Conrado, na Zona Sul, como parte da parceria das duas empresas, a Atlântica D'Or. Divórcio na moda: futuro da Farm está no centro da disputa para redivisão do grupo Azzas 2154 Empresas brasileiras miram no mercado de franquias nos EUA; setor projeta faturamento de US$ 921 bilhões em 2026 Segundo comunicado enviado ao mercado, a Rede D'Or terá 50,01% do hospital, enquanto a Atlântica ficará com 49,99%. Quando concluída a construção da unidade, a gestão médica ficará sob a responsabilidade da Rede D’Or. Na data de fechamento da transação, a Atlântica pagará à Rede D’Or R$ 59,2 milhões em dinheiro, sendo parte à vista e parte em até seis meses. O futuro São Conrado D'Or é a décima unidade hospitalar no portfólio da joint venture entre Bradsaúde e Rede D'Or, que soma 2,1 mil leitos. No movimento mais recente, em novembro passado, a Maternidade Star — unidade premium inclui o quarto hospitalar mais luxuoso do Brasil — foi transferida para a Atlântica D'Or numa transação de R$ 223 milhões paga pela Atlântica ao grupo hospitalar da família Moll. Ainda em 2025, a Atlântica pagou R$ 440 milhões por metade do Glória D'Or. Também entrou na carteira conjunta das empresas o Hospital e Maternidade São Luiz Campinas. A sociedade entre as empresas foi criada em 2024, a partir de um investimento inicial de R$ 1,15 bilhão e de um plano para financiar a construção de três hospitais: São Luiz Guarulhos (SP), São Luiz Alphaville (SP) e Macaé D’Or (RJ). As unidades foram inauguradas no fim de 2024. Outros dois hospitais estão em construção em Ribeirão Preto e em Taubaté, no interior de São Paulo. Segundo a Bradsaúde, a expansão da parceria \"está alinhada com a estratégia da Atlântica de investir na cadeia de valor do setor de saúde por meio de parcerias com players estabelecidos na operação de hospitais\". Analistas do BTG ressaltaram em relatório que o anúncio é uma demonstração do \"fortalecimento consistente\" do relacionamento entre os dois grupos empresariais. \"Essa transação não apenas reforça o alinhamento estratégico entre os dois grupos, como também aumenta a possibilidade de que novos projetos sejam financiados por meio da joint venture no futuro. Em nossa visão, essa parceria deverá continuar se expandindo ao longo do tempo\", destacaram Samuel Alves e Maria Resende. Negócios em expansão O anúncio de expansão da parceria com a Rede D'Or, acontece cerca de três meses após a consolidação de todos os negócios em saúde do Bradesco sob um mesmo guarda-chuva, da Bradsaúde. A nova empresa incorpora a seguradora Bradesco Saúde, as operadoras de planos Mediservice e Odontoprev e a Atlântica. Em teleconferência com analistas no início de maio, o CEO da Bradsaúde, Carlos Marinelli, afirmou que um dos focos da companhia estava justamente na ampliação da operação hospitalar, que representa ainda apenas 1% dos resultados apurados no primeiro trimestre. A empresa registrou lucro líquido de R$ 1,3 bilhão até março. Em relatório publicado nesta terça-feira sobre o desempenho da Bradsaúde, os analistas Caio Moscardini e Eyzo Lima, do Santander, destacaram que a plataforma de crescimento do grupo é o braço hospitalar. \"Na nossa visão, os ativos hospitalares devem continuar atraindo investimentos da BradSaúde. Por isso, projetamos que a participação desse segmento no resultado líquido da companhia aumente de cerca de 7% em 2026 para aproximadamente 13% nos próximos cinco anos\", projetam os analistas. A Rede D'Or, no entanto, não é a única parceira da Bradsaúde nessa frente. Junto do Hospital Israelita Albert Einstein, a Atlântica deve inaugurar um hospital geral de 300 leitos na Vila Mariana, Zona Sul de São Paulo, até o ano que vem. Há ainda uma joint venture com o grupo mineiro Mater Dei, que prevê a inauguração de uma unidade no bairro de Santana, Zona Norte da capital paulista, até 2028.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/05/26/rede-dor-amplia-parceria-com-bradsaude-e-tera-novo-hospital-no-rio.ghtml",
@@ -5520,45 +5536,6 @@
       "score": 8.0
     },
     {
-      "title": "Vammo levanta R$ 75 mi para triplicar motos elétricas em São Paulo",
-      "summary": "A Vammo fechou a captação de R$ 75 milhões em dívida para financiar a produção das suas motos elétricas azuis e surfar a guerra do delivery e a alta da gasolina. O aporte é liderado pela EXT Capital, que já havia alocado R$ 30 milhões na empresa em julho de 2024, em um fundo de cogestão com a Solis Investimentos. A linha de crédito pode chegar a R$ 170 milhões até o fim do ano se a Vammo cumprir as metas de crescimento acordadas com os investidores. O capital vem de um Fidc da EXT estruturado para a Vammo. Com R$ 1 bilhão sob gestão hoje, a casa já alocou mais de R$ 2,2 bilhões desde o início, sendo R$ 900 milhões para mobilidade. Com Fidcs próprios, o portfólio inclui ainda Turbi e Fretadão. 99 investe R$ 45 milhões em fundo de eletromobilidade da Yvy iFood aposta em entrega por drones com US$ 1 mi na Speedbird “Tenho as perspectivas mais positivas possíveis com a Vammo, e esperamos continuar o crescimento do negócio em ritmo acelerado”, diz Gabriel Sidi, sócio-fundador da EXT Capital. “O grande desafio da empresa hoje é a capacidade de entrega de motos”, acrescenta. O financiamento deve ajudar a Vammo a triplicar a frota de motos elétricas em São Paulo, chegando a 15 mil veículos na cidade até o fim do ano ante as 18 mil previstas em janeiro. Na revisão, o CEO e cofundador Jack Sarvary diz que esse número deve ser alcançado no primeiro trimestre de 2027. Vammo, de motos elétricas, levanta R$ 75 mi com EXT Capital Divulgação/Vammo “Não é que estamos crescendo devagar”, explica o americano, cofundador da Vammo ao lado do conterrâneo Billy Blaustein – a dupla fundou a Vammo em 2022 em São Paulo, onde quer criar uma Tesla de motos elétricas. “Precisamos escalar o ecossistema de carregamento, troca de bateria, manutenção. Até podemos fabricar o dobro de motos, mas o gargalo está nos gabinetes de energia.” A startup opera com modelo de locação por assinatura, com planos mensais ou anuais a partir de R$ 179 por semana, conforme a quilometragem. A principal rival, a Mottu, também atua no segmento, mas com motocicletas a combustão, depois de frear a expansão de elétricas por conta do alto custo de investimento. A tese da Vammo é que o veículo elétrico em um modelo de assinatura reduz o custo total do motoboy ao eliminar despesas como IPVA, licenciamento e seguro. A taxa de ocupação da frota é de 97%. ‘Uber blindado’ recebe aporte com corridas corporativas no alvo Mototáxi no Brasil supera transporte de carro de outros mercados da Uber A Vammo tem se beneficiado diretamente da guerra do delivery, que aumentou o número de motos nas ruas da capital com a chegada da chinesa Keeta e a retomada da operação da 99Food. Recentemente, o modelo ganhou um impulso com a alta da gasolina, que pressiona as margens dos entregadores. O setor de delivery representa cerca de 80% da base de clientes da empresa. A Vammo também quer crescer entre os “commuters”: as pessoas que usam moto para ir ao trabalho. “Os fatores macroeconômicos ajudam a gente, mas oferecemos um serviço muito bom para os usuários”, diz Sarvary. “Existe muita oportunidade de crescimento aí também.” Mottu bate R$ 1 bilhão com 100 mil motos, mira expansão global e entra em crédito iFood dá nome aos bois e processa Keeta por espionagem corporativa O follow-on da EXT vem depois de uma rodada de equity fechada em outubro, quando a Vammo levantou US$ 45 milhões em série B com um grupo liderado pelo Ecosystem Integrity Fund (EIF), fundo americano especializado em tecnologias limpas. A rodada contou ainda com 2150, Qualcomm Ventures, Construct Capital, Monashees, Maniv Mobility, Endeavor Catalyst e ex-funcionários da Tesla. O capital de equity vem também para expandir a infraestrutura de carregadores por São Paulo, onde há 250 estações de carga. Além disso, a startup está desenvolvendo um novo modelo híbrido flex de moto, para ser lançado até o fim do ano.",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/vammo-levanta-r-75-mi-para-triplicar-motos-eletricas-em-sao-paulo.ghtml",
-      "published": "2026-05-26T10:00:37+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ifood",
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "keeta",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 6.0
-    },
-    {
       "title": "Pax levanta US$ 40 mi com sistema de segurança pública no Brasil",
       "summary": "Até então desconhecida do público, a startup Pax levantou uma rodada de US$ 40 milhões com a Greenoaks e Benchmark, um dos maiores investimentos seed da América Latina. A rodada foi realizada no ano passado, quando o negócio se chamava Palladium, e só agora está sendo anunciada pela companhia. A Pax usa visão computacional e inteligência artificial para conectar câmeras, registros policiais e bases de dados criminais em um único sistema de inteligência para governos. A companhia opera no mesmo segmento que a startup Gabriel, que levantou no ano passado R$ 60 milhões com Astella, Qualcomm, Globo Ventures e Alter Global. As duas companhias querem usar tecnologia para combater o crime, em parcerias com empresas e governos. No caso da Gabriel, os contratos são com o setor privado e as imagens captadas são cedidas a órgãos públicos, como Polícia Militar, por demanda, ajudando a solucionar crimes. No caso da Pax, o cliente direto, ou seja, o contrato é com o setor público. Enter vira primeiro unicórnio de IA da América Latina com nova rodada Victor Lazarte aloca metade do novo fundo em sete meses: 'máxima exposição a IA' Seguindo em operação discreta desde o ano passado, a firma tem contratos com prefeituras e estados. No ano passado, a companhia firmou um contrato de R$ 35 milhões com o governo de Goiás. A Pax afirma que está presente em 30 cidades do país e afirma que reduziu o crime em 27% nessas localidades. “Resolver crimes é um problema de dados”, afirma o fundador e CEO da Pax, David Peixoto. Fundador da Isaac, ele se juntou a Fernando Czapski, ex-executivo de cripto do Nubank, e Phyllipe Medeiros, brasileiro que largou um cargo na Meta para fundar a Pax. A Greenoaks tem no portfólio nomes como Coupang, Brex, Revolut, Flock Safety e Anthropic. Já a Benchmark, que tinha o brasileiro Victor Lazarte como sócio até o ano passado, é investidora de Uber, eBay, Instagram e Snap. Pax levanta rodada de US$ 40 mi com Greenoaks e Benchmark Reprodução/Pax",
       "url": "https://pipelinevalor.globo.com/startups/noticia/pax-levanta-us-40-mi-para-desatar-o-no-da-seguranca-publica-no-brasil.ghtml",
@@ -6248,6 +6225,29 @@
         {
           "sector": "Cosméticos",
           "alias": "maquiagem",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Menopausa movimenta bilhões e abre nova fronteira de negócios para empresas",
+      "summary": "Todos os anos, segundo a Organização Mundial da Saúde (OMS), 47 milhões de mulheres entram na menopausa - representando o fim da fase reprodutiva feminina. Até 2030, esse número será de 1,2 bilhão. Com tanta gente vivendo essa fase da vida, a menopausa vem se consolidando como um mercado de grande potencial, impulsionando oportunidades em setores como saúde, bem-estar, beleza, moda e tecnologia. Para se ter uma ideia, levantamento da consultoria Grand View Research mostra que o setor global de produtos para menopausa foi estimado em US$ 17,79 bilhões em 2024 (aproximadamente R$ 89,7 bilhões na cotação atual). Projeta-se que alcance US$ 24,35 bilhões (R$ 122,8 bilhões) em quatro anos, impulsionado por mudanças demográficas e uma crescente conscientização sobre as necessidades de saúde e bem-estar das mulheres na terceira idade. A América do Norte é a região que domina. Em 2024, representou a maior fatia de receita, com 37,40%. Para a América do Sul, a previsão é que registre a taxa de crescimento anual composta (CAGR) mais rápida até 2030. O Brasil é o grande destaque do continente. Levantamento do data8, hub de inteligência sobre Economia Prateada da América Latina, em parceria com a startup NoPaulsa, revela que a Economia Climatérica - abrange perimenopausa, menopausa e pós-menopausa - já movimenta mais de US$ 384 milhões (R$ 1,9 bilhão) no país e deve ultrapassar US$ 527 milhões (R$ 2,6 bilhões) até 2030. “Esse é um mercado enorme, tem muito espaço, mas a gente ainda olha pouco. E as marcas ainda vão muito no óbvio. Por exemplo, pelos nossos dados, 99% do crescimento do setor vai ser em suplemento alimentar. É um avanço, claro, mas se, no Brasil, potencializarmos outros tipos de produtos e, também, serviços, vamos nadar de braçada. Grande parte das empresas ainda não acordaram para isso”, diz Adriana de Queiroz, coordenadora do estudo do data8. Uma companhia que não faz parte desse grupo é a Riachuelo. Em maio, ela lançou a coleção cápsula Menopausa, composta de peças confeccionadas com tecidos e tecnologias que prometem proporcionar frescor, respirabilidade e liberdade de movimento. Peças da coleção cápsula Menopausa, lançada pela Riachuelo em maio deste ano Divulgação A linha noite, usa modal com elastano, com sensação refrescante ao toque, ideal para o conforto térmico durante o sono. Já a linha íntima utiliza poliamida com fio LYCRA® ADAPTIV, que, como explica Constanza Pedrassani, diretora criativa de Estilo e Produto da empresa, acompanha diferentes biotipos e as mudanças naturais do corpo com mais flexibilidade e conforto. “Fizemos esse lançamento como parte do nosso olhar contínuo para o comportamento e para as transformações reais na vida da mulher brasileira. Dentro dessa estratégia, faz muito sentido desenvolver uma coleção voltada para uma fase ainda pouco abordada pelo varejo de moda nacional, mas extremamente relevante para muitas mulheres”, afirma a executiva. Ainda segundo ela, o retorno tem sido positivo, “principalmente pelo nível de identificação das consumidoras com a proposta da coleção”. Ela acrescenta que “o plano é acompanhar a aceitação da cliente, colher percepções e dar consistência na proposta de coleção, e que, enquanto isso, \"o time de produto analisa as possibilidades de extensão de linha e novas tecnologias\". Outra companhia que segue a tendência da menopausa é a L’Oreal. Por meio da marca Vichy, o grupo desenvolveu o creme facial Neovadiol, focado em minimizar os efeitos visíveis na pele – rugas, flacidez, perda de densidade, tom irregular e pele seca - causados pela variação hormonal característica dessa fase da vida. Creme facial Neovadiol, da Vichy, tem como foco minimizar os efeitos visíveis na pele causados pela variação hormonal característica da menopausa Reprodução/Vichy São três opções: Neovadiol Creme Uniformizador de Tom PFS50, Neovadiol Creme Nutritivo Redensificador e Neovadiol Creme Leve Efeito Lifting. A indústria farmacêutica também acompanha o aumento da demanda por tratamentos específicos para os sintomas da menopausa. Um dos medicamentos que mais têm chamado atenção é o não hormonal fezolinetanto (vendido como Veozah). Desenvolvido pela Astellas Pharma, foi aprovado nos Estados Unidos em 2023 para o controle de ondas de calor (fogachos) e suores noturnos moderados e severos. Atualmente, está disponível em 47 países. No Brasil, está sob análise da Agência Nacional de Vigilância Sanitária (Anvisa). “Esperamos que a decisão final seja anunciada em breve”, dizThais Ushikusa, ginecologista e diretora médica da companhia. “Como uma opção não hormonal para o tratamento de ondas de calor e suores noturnos associados à menopausa, o fezolinetanto representa uma inovação muito aguardada pela classe médica e pelas mulheres nessa fase da vida.” A médica acrescenta que o avanço é especialmente relevante diante de uma lacuna importante de cuidado: “Atualmente, 43% das brasileiras não recebem tratamento para os sintomas citados, mesmo após buscarem ajuda médica”, afirma. “Isso reforça a necessidade de ampliar o acesso a novas opções terapêuticas no país alinhada às referências internacionais em saúde da mulher.” Menopausa vira tema de programas internos nas empresas O avanço do número de mulheres na perimenopausa, menopausa e pós-menopausa também impacta o ambiente corporativo. Tanto que empresas de diferentes setores têm criado programas internos voltados ao acolhimento de funcionárias nessa vida da vida. Uma delas é a Nestlé, que estima que 30% da sua população feminina já esteja passando por transições como a menopausa. A indústria alimentícia possui o Programa Viver Bem, uma jornada de 11 sessões online para colaboradores entre 40 e 60 anos, abordando temas como saúde e alimentação. Junto a isso, tem promovido melhorias em conforto térmico nas suas instalações para mitigar sintomas físicos da menopausa e, desde 2024, conta com o Guia Global para Menopausa no Trabalho, programa que inclui letramento e ações de acolhimento e conscientização. Outra companhia que entra na lista é a Gerdau. Em 2024, ela lançou o Projeto Ciclos, para, como explica Renata de Vargas, diretora de Pessoas Brasil, quebrar o tabu e oferecer acolhimento integral para as colaboradoras que passam pela menopausa e climatério. “Em torno de 25% das nossas funcionárias no Brasil estão vivenciando essas fases. São mulheres que têm sintomas físicos, incluindo fogacho, névoa mental, insônia... Como empresa, decidimos tratar o tema, e não do ponto de vista de produtividade, mas de respeito às pessoas”, diz Vargas. Nascido dos Grupos de Afinidade de Gênero e Geração, o programa se insere na estratégia de cuidado com a saúde e promoção da diversidade e inclusão da siderúrgica. A diretora de Pessoas explica que ele proporciona suporte multidisciplinar com encontros, rodas de conversa e atendimento virtual com psicólogos, médicos e nutricionistas. “Fizemos um check-up de qualidade do Ciclos, e o NPS (Net Promoter Score) dele foi de 95. Um índice bastante alto, e que mostra que estamos no caminho certo”, conta Vargas. A Diageo, do setor de bebidas, é mais uma a incorporar a menopausa nas suas políticas internas. A empresa desenvolveu há alguns anos o guia “Prosperar com a Menopausa”, inicialmente para Estados Unidos, Canadá, Ilhas Virgens Americanas, Reino Unido e Irlanda, e que, mais tarde, chegou ao Brasil. “A menopausa ainda é um tema pouco discutido no ambiente corporativo, apesar de impactar diretamente a experiência e o bem-estar das mulheres no trabalho. Muitas vezes, isso faz com que elas não se sintam confortáveis para pedir apoio”, diz Viviane Besani, diretora executiva de Recursos Humanos (CHRO). “Como parte da nossa ambição de acelerar a equidade de gênero até 2030, disponibilizamos recursos para apoiar colaboradoras que estejam passando por essa fase.” O guia, de acordo com ela, apresenta diversos direcionais para que as lideranças se capacitem para compreender, apoiar e minimizar os obstáculos para as colaboradoras que enfrentam sintomas da menopausa. “Algumas das determinações práticas incluem ajustes no ambiente de trabalho, como melhoria na ventilação do local; flexibilidade do dress code, com a adaptação de uniformes; flexibilização da rotina de trabalho, com gestão de ausências de forma empática; e a abertura para diálogos confidenciais com as lideranças, oferecendo escuta ativa.\" Ela complementa que, junto a isso, a Diageo Brasil promove conversas internas e ações de conscientização, especialmente no Dia Mundial da Menopausa, em 18 de outubro. “Essas iniciativas incluem palestras, rodas de conversa e encontros com lideranças e executivas da empresa para ampliar o diálogo e incentivar a troca de experiências”, finaliza.",
+      "url": "https://epocanegocios.globo.com/empresas/tendencias-para-o-futuro/noticia/2026/06/menopausa-movimenta-bilhoes-e-abre-nova-fronteira-de-negocios-para-empresas.ghtml",
+      "published": "2026-06-02T10:01:05+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "riachuelo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "riachuelo",
           "field": "body",
           "score": 2,
           "topic": null
