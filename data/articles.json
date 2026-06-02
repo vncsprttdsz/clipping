@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-02T12:34:47.607028+00:00",
+  "generated_at": "2026-06-02T13:01:31.720288+00:00",
   "count": 228,
-  "new_this_run": 7,
+  "new_this_run": 8,
   "articles": [
     {
       "title": "Quando a Ozivy, concorrente do Ozempic feita no Brasil, deve custar — e quando a caneta chegará às farmácias",
@@ -81,53 +81,6 @@
         }
       ],
       "score": 70.0
-    },
-    {
-      "title": "Anvisa aprova versão da EMS para o Ozempic, a primeira semaglutida produzida no Brasil",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou a primeira caneta emagrecedora de semaglutida produzida no País. Será da farmacêutica EMS e o medicamento vai se chamar Ozivy. A empresa tem a expectativa de comercializar 1,2 milhão de unidades do produto no primeiro ano, com faturamento acima de R$ 500 milhões. Agora, com a aprovação, [&#8230;] O post Anvisa aprova versão da EMS para o Ozempic, a primeira semaglutida produzida no Brasil apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/negocios/anvisa-aprova-versao-da-ems-para-o-ozempic-a-primeira-semaglutida-produzida-no-brasil",
-      "published": "2026-05-26T12:40:25+00:00",
-      "source": "https://neofeed.com.br/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ems",
-        "medicamento",
-        "ozempic",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ems",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 68.0
     },
     {
       "title": "Rivais investem em cupons e entrega rápida contra iFood, e restaurantes veem alta na demanda",
@@ -2047,6 +2000,37 @@
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "En busca del ahorro: qué promociones y descuentos se pueden aprovechar este martes 2 de junio en el supermercado",
+      "summary": "Los beneficios vigentes para hoy en Carrefour incluyen rebajas con tarjetas propias, beneficios online y descuentos especiales para jubilados.",
+      "url": "https://www.ambito.com/economia/en-busca-del-ahorro-que-promociones-y-descuentos-se-pueden-aprovechar-este-martes-2-junio-el-supermercado-n6283864",
+      "published": "2026-06-02T12:32:00+00:00",
+      "source": "https://www.ambito.com/rss/economia.xml",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "carrefour",
+        "supermercado"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "supermercado",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 28.0
