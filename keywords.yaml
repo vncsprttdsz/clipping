@@ -184,24 +184,47 @@ sectors:
     - alias: magazine luiza
       requires_any: [varejo, digital, marketplace, logística]
     - alias: americanas
+      # A empresa Americanas (varejo). Risco: gentilico "empresas americanas",
+      # "residencias americanas", "grandes americanas". Tratado via requires_none.
+      # requires_any usa termos especificos da empresa (nao genericos de negocio,
+      # que casariam qualquer materia + gentilico solto).
       requires_any: [recuperação judicial, b2w, submarino, shoptime,
                      fraude contábil, mhirdaui, rodrigo saraiva,
-                     amer3, lasa11, americanas s.a., americanas sa]
+                     amer3, lasa11, americanas s.a., americanas sa,
+                     lojas americanas, varejista, marketplace, e-commerce,
+                     ecommerce, comércio eletrônico, reestruturação,
+                     credores, crediário]
       requires_none: [companhias americanas, empresas americanas,
                       montadoras americanas, big techs americanas,
                       empresas norte-americanas, tecnologia americanas,
-                      tecnologias americanas, firmas americanas]
+                      tecnologias americanas, firmas americanas,
+                      gigantes americanas, varejistas americanas,
+                      fabricantes americanas, marcas americanas,
+                      grandes americanas, residências americanas,
+                      residencias americanas, ações americanas,
+                      acoes americanas, universidades americanas,
+                      autoridades americanas, forças americanas]
     - alias: lojas americanas
       requires_any: [recuperação judicial, b2w, submarino, shoptime,
                      fraude contábil, rj, crediário, amer3, lasa11]
     - alias: c6
       requires_any: [banco, digital, conta, fintech, crédito, investimento, maquininha]
     - alias: amazon
-      requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue]
+      # Amazon Brasil: aceita contexto BR (varejo, investimento, logística,
+      # país, brasil) além dos termos globais. Sem isso, "Amazon mantém
+      # expansão no país" não casava (título sem termo em inglês).
+      requires_any: [ecommerce, e-commerce, cloud, aws, retail, prime, stock,
+                     revenue, varejo, varejista, marketplace, logística,
+                     logistica, centro de distribuição, investimento, investir,
+                     aporte, brasil, no país, no pais, vendas, comércio eletrônico,
+                     loja, lojas, fulfillment, aws no brasil]
       requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
-                      valuation da anthropic, segundo o papa, openai, nvidia]
+                      valuation da anthropic, segundo o papa, openai, nvidia,
+                      rio amazonas, floresta amazônica, floresta amazonica,
+                      desmatamento, bioma]
     - alias: tiktok
-      requires_any: [shop, ecommerce, vendas, marketplace, live commerce]
+      requires_any: [shop, ecommerce, e-commerce, vendas, marketplace,
+                     live commerce, comércio eletrônico]
 
   # ------------------------------------------------------------
   # VAREJO ALIMENTAR
@@ -302,7 +325,9 @@ sectors:
 
     # Ambíguos
     - alias: smart fit
-      requires_any: [academia, fitness, musculação, bem-estar, saúde, ações]
+      requires_any: [academia, fitness, musculação, bem-estar, saúde, ações,
+                     aluno, alunos, unidade, unidades, expansão, rede,
+                     franquia, smft3, balanço, trimestre, receita]
 
   # ------------------------------------------------------------
   # COSMÉTICOS
@@ -332,6 +357,16 @@ sectors:
     - sallve
     - cosmético
     - perfumaria
+    - alias: perfume
+      requires_any: [natura, boticário, boticario, eudora, avon, renner,
+                     o boticário, sephora, lançamento, lança, marca própria,
+                     marca propria, coleção, linha de, fragrância, fragrancia,
+                     beleza, cosmético, mercado de perfumaria,
+                     l'oréal, loreal, alchemia]
+    - alias: fragrância
+      requires_any: [natura, boticário, boticario, eudora, avon, renner,
+                     perfume, perfumaria, lançamento, lança, coleção,
+                     beleza, cosmético, sephora]
     - maquiagem
     - skincare
 
@@ -442,7 +477,9 @@ sectors:
       requires_any: []
     - alias: hypera
       requires_any: [farmacêutica, ações, balanço, trimestre, hyera, brasil,
-                     receita, mercado farmacêutico, distribuição]
+                     receita, mercado farmacêutico, distribuição, bolsa,
+                     projeção, guidance, lucro, prejuízo, dívida, hype3,
+                     genérico, medicamento, ebitda]
     - alias: prati-donaduzzi
       requires_any: []
     - alias: prati donaduzzi
@@ -655,7 +692,9 @@ sectors:
                      eletrodoméstico, geladeira, fogão, máquina de lavar]
     - alias: allied
       requires_any: [tecnologia, distribuidora, eletronicos, samsung, iphone,
-                     trocafy, varejo, xiaomi, smartphone]
+                     trocafy, varejo, xiaomi, smartphone, alld3, ações,
+                     balanço, trimestre, receita, serviços financeiros,
+                     fintech, crédito, expansão]
 
   # ------------------------------------------------------------
   # VIAGENS
@@ -695,7 +734,9 @@ sectors:
                      airbnb expande, airbnb reporta, airbnb lanca,
                      regulação airbnb, multa airbnb]
     - alias: cvc
-      requires_any: [viagem, turismo, pacote, agência]
+      requires_any: [viagem, turismo, pacote, agência, dívida, caixa,
+                     ações, cvcb3, balanço, trimestre, receita, prejuízo,
+                     reservas, capital de giro, alavancagem]
     - alias: decolar
       requires_any: [viagem, turismo]
 
