@@ -126,6 +126,28 @@ def is_blocked_url(url: str) -> bool:
 # Carrega keywords
 # ============================================================
 
+def _compile_context_term(term_n: str):
+    """
+    Compila um termo de contexto (requires_any/requires_none) com tolerância
+    a plural. Cada palavra alfabética com 4+ letras ganha um 's?' opcional no
+    fim, então 'loja' casa 'loja' e 'lojas', 'hipermercado' casa o plural etc.
+
+    Só mexe em termos de CONTEXTO, nunca no alias principal (que é exato).
+    Palavras curtas (<4 letras), com número, ou já terminadas em 's' ficam
+    como estão, pra evitar falsos casamentos (ex: 'ibs', 'pis', 'aws').
+    """
+    palavras = term_n.split()
+    partes = []
+    for w in palavras:
+        esc = re.escape(w)
+        # plural opcional só pra palavras alfabéticas, 4+ letras, sem 's' final
+        if w.isalpha() and len(w) >= 4 and not w.endswith('s'):
+            esc += 's?'
+        partes.append(esc)
+    padrao = r'\b' + r'\s+'.join(partes) + r'\b'
+    return re.compile(padrao)
+
+
 def load_keywords():
     """Carrega os setores do keywords.yaml."""
     if not KEYWORDS_FILE.exists():
@@ -168,11 +190,11 @@ def load_keywords():
                 "topic": topic,
                 "_alias_re": re.compile(rf"\b{re.escape(alias_n)}\b"),
                 "_requires_any_re": [
-                    re.compile(rf"\b{re.escape(_kw_normalize(req))}\b")
+                    _compile_context_term(_kw_normalize(req))
                     for req in req_any
                 ],
                 "_requires_none_re": [
-                    re.compile(rf"\b{re.escape(_kw_normalize(ban))}\b")
+                    _compile_context_term(_kw_normalize(ban))
                     for ban in req_none
                 ],
             })
