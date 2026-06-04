@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-04T12:25:14.145191+00:00",
-  "count": 228,
-  "new_this_run": 5,
+  "generated_at": "2026-06-04T14:02:28.737089+00:00",
+  "count": 232,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -874,6 +874,38 @@
       "score": 40.0
     },
     {
+      "title": "O primeiro perfume da Renner: rede estreia nesse mercado com marca própria Alchemia",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/06/o-primeiro-perfume-da-renner-rede-estreia-nesse-mercado-com-marca-propria-alchemia.ghtml",
+      "published": "2026-06-02T09:00:39+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Fashion",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "perfume",
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "perfume",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Ozivy: Caneta da EMS chega às farmácias por menos de R$ 500 por mês - Exame",
       "summary": "Ozivy: Caneta da EMS chega às farmácias por menos de R$ 500 por mês &nbsp;&nbsp; Exame",
       "url": "https://exame.com/invest/mercados/ozivy-caneta-da-ems-chega-as-farmacias-por-menos-de-r-500-por-mes",
@@ -959,6 +991,37 @@
         {
           "sector": "E-commerce",
           "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Concorrente brasileiro do Ozempic chega às farmácias a partir de junho por R$ 452 a caneta - Folha de S.Paulo",
+      "summary": "Concorrente brasileiro do Ozempic chega às farmácias a partir de junho por R$ 452 a caneta &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/concorrente-brasileiro-do-ozempic-chega-as-farmacias-a-partir-de-junho-por-r-452-a-caneta.shtml",
+      "published": "2026-06-02T20:11:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias",
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
           "field": "title",
           "score": 20,
           "topic": null
@@ -3210,29 +3273,6 @@
       "score": 20.0
     },
     {
-      "title": "O primeiro perfume da Renner: rede estreia nesse mercado com marca própria Alchemia",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/06/o-primeiro-perfume-da-renner-rede-estreia-nesse-mercado-com-marca-propria-alchemia.ghtml",
-      "published": "2026-06-02T09:00:39+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "renner"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "renner",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Reforma tributária redefine o papel dos marketplaces e amplia responsabilidades fiscais",
       "summary": "A reestruturação da tributação sobre o consumo no Brasil trouxe impactos que vão muito além da simples substituição de tributos. Um dos pontos mais sensíveis dessa transformação está na redefinição do papel dos marketplaces dentro da dinâmica de arrecadação. Com a entrada em vigor da Lei Complementar nº 214/2025, posteriormente ajustada pela Lei Complementar nº 227/2026, as plataformas digitais deixam de atuar apenas como intermediárias e passam a ocupar uma posição relevante na lógica de recolhimento do IBS e da CBS. Leia mais (06/02/2026 - 07h00)",
       "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/06/reforma-tributaria-redefine-o-papel-dos-marketplaces-e-amplia-responsabilidades-fiscais.shtml",
@@ -3578,29 +3618,6 @@
       "score": 20.0
     },
     {
-      "title": "Concorrente brasileiro do Ozempic chega às farmácias a partir de junho por R$ 452 a caneta - Folha de S.Paulo",
-      "summary": "Concorrente brasileiro do Ozempic chega às farmácias a partir de junho por R$ 452 a caneta &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/concorrente-brasileiro-do-ozempic-chega-as-farmacias-a-partir-de-junho-por-r-452-a-caneta.shtml",
-      "published": "2026-06-02T20:11:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Ação do Nubank Desaba 10% após Mudança de CFO Surpreender; BofA Vê Mais Incerteza e Corta para “Underperform”",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O Nubank nomeou o norte-americano Rob Livingston como seu novo CFO, em substituição ao brasileiro Guilherme Lago, que ocupava o cargo desde 2021 O post Ação do Nubank Desaba 10% após Mudança de CFO Surpreender; BofA Vê Mais Incerteza e Corta para &#8220;Underperform&#8221; apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-money/2026/06/acao-do-nubank-desaba-10-apos-mudanca-de-cfo-surpreender-bofa-ve-mais-incerteza-e-corta-para-underperform",
@@ -3764,7 +3781,7 @@
     {
       "title": "¿Quién es el fundador de Revolut, que convirtió 500 mil dólares en una fortuna de 76 mil mdd? - El Financiero",
       "summary": "¿Quién es el fundador de Revolut, que convirtió 500 mil dólares en una fortuna de 76 mil mdd? &nbsp;&nbsp; El Financiero",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPSHFRQV9QeXlVNm1xdXNTN3daSlBlRFNtdVVBSlFPeWZIQ2ZydDZhZjl2cjlGTEtFSGR5NVpqOFdXOUdQU0N0MWdiTzJ3TFJKcWZfWTFGOFpaTEJHbkZvQ3R4SmZSSVJ2SmpBMGJRaWNwTmdTUTlVVldmQmlUUmpXVkRNdjhTOXc0YkZlQmFtSS1UajZ6djBSbkZtVm5hMUl3YmFQeEpSNlk5OE9fUHhsUjUtUnp0OE51OUZ5Q29vdFRPLWdPVERBZF9rdE1DcHBzNmtSNjN3R3h5Nzg?oc=5",
+      "url": "https://www.elfinanciero.com.mx/empresas/2026/06/02/quien-es-el-fundador-de-revolut-que-convirtio-500-mil-dolares-en-una-fortuna-de-76-mil-mdd",
       "published": "2026-06-03T02:24:00+00:00",
       "source": "https://news.google.com/rss/search?q=site:elfinanciero.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
       "matched_sectors": [
@@ -3823,6 +3840,29 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "kopenhagen",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Após aporte R$ 19 bi em 2025, Amazon mantém forte expansão no país",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso...",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/03/apos-aporte-r-19-bi-em-2025-amazon-mantem-forte-expansao-no-pais.ghtml",
+      "published": "2026-06-03T08:02:27+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
           "field": "title",
           "score": 20,
           "topic": null
@@ -4268,6 +4308,29 @@
       "score": 20.0
     },
     {
+      "title": "Gold Rises After Israel-Lebanon Ceasefire But Remains Rangebound",
+      "summary": "Gold prices ticked higher as traders reassessed expectations for a U.S.-Iran peace deal after Israel and Lebanon agreed to a conditional ceasefire.",
+      "url": "https://www.wsj.com/finance/banking/gold-rises-amid-mild-dollar-weakness-2448af71?mod=rss_markets_main",
+      "published": "2026-06-04T07:57:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Prédio da antiga Renner no Centro do Rio será transformado em residencial - O Globo",
       "summary": "Prédio da antiga Renner no Centro do Rio será transformado em residencial &nbsp;&nbsp; O Globo",
       "url": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/06/predio-da-antiga-renner-no-centro-do-rio-sera-transformado-em-residencial.ghtml",
@@ -4337,35 +4400,73 @@
       "score": 20.0
     },
     {
-      "title": "Novo medicamento contra o colesterol pode atacar causa oculta de infartos",
-      "summary": "Uma nova classe de medicamentos está prestes a enfrentar uma das causas mais persistentes de infartos e derrames: a lipoproteína(a), conhecida pela sigla Lp(a). Trata-se de uma partícula gordurosa no sangue que endurece artérias, favorece a formação de coágulos e está associada a doenças cardíacas graves. O problema: décadas de pesquisa não produziram nenhum tratamento aprovado especificamente para reduzi-la. Isso pode mudar em breve. Novartis, Amgen e Eli Lilly estão em estágios avançados de desenvolvimento de medicamentos que reduzem os níveis de Lp(a) no organismo. O candidato mais adiantado, desenvolvido pela Novartis em parceria com a Ionis Pharmaceuticals, pode ter seus resultados clínicos divulgados ainda neste verão (no hemisfério norte) e chegar à aprovação regulatória já em 2027, segundo informações do The Wall Street Journal. Uma ameaça silenciosa e herdada A Lp(a) é uma variante do LDL, o chamado colesterol ruim, mas com características próprias que a tornam especialmente perigosa. Diferentemente do LDL convencional, ela não responde a mudanças na dieta nem à prática de exercícios. Cerca de 90% do nível de Lp(a) de uma pessoa é determinado ao nascer, por herança genética. Aproximadamente uma em cada cinco pessoas no mundo tem níveis perigosamente elevados da partícula, segundo o cardiologista Steven Nissen, da Cleveland Clinic, envolvido em vários dos ensaios clínicos em curso. Nos Estados Unidos, estima-se que dezenas de milhões de pessoas tenham Lp(a) elevada sem saber. A maioria nunca foi testada. Médicos têm relutado em pedir o exame justamente porque não havia tratamento disponível para reduzir diretamente a partícula. No início deste ano, entidades médicas atualizaram suas diretrizes para recomendar a realização do teste de Lp(a) como parte da avaliação cardiovascular de rotina. Um detalhe que complica ainda mais o quadro: as estatinas, medicamentos amplamente prescritos para controle do colesterol, podem elevar os níveis de Lp(a), não reduzi-los. Como as novas drogas funcionam As abordagens em desenvolvimento usam tecnologias baseadas em genes para agir diretamente na produção da partícula pelo organismo. Os candidatos da Amgen e da Eli Lilly utilizam um mecanismo que silencia o gene responsável pela produção de Lp(a). Já o tratamento da Novartis com a Ionis age de forma diferente: bloqueia o sinal que instrui o fígado a fabricar a partícula. O prazo para os resultados varia conforme o estágio de cada ensaio. A Novartis pode anunciar dados ainda neste verão. A Amgen espera resultados em um ou dois anos. A Lilly, por sua vez, só deve concluir sua fase avançada em 2029. O entusiasmo com os novos candidatos carrega uma ressalva importante. No passado, pesquisadores desenvolveram medicamentos que conseguiram reduzir os níveis de Lp(a) em alguma medida, mas não foram capazes de diminuir efetivamente os casos de infarto e derrame nos estudos clínicos. A hipótese central agora é que esses tratamentos anteriores simplesmente não reduziram a partícula o suficiente. \"Era um enigma que ninguém conseguia resolver\", disse Monica Florio, pesquisadora da Amgen envolvida no desenvolvimento do candidato da empresa. \"Agora acredito que esses ensaios vão nos trazer uma resposta.\" Para que os medicamentos funcionem de forma clinicamente relevante, os cientistas acreditam que é preciso reduzir os níveis de Lp(a) de maneira significativa, não apenas moderada. A Amgen defende que a eliminação quase total da partícula é o que pode, de fato, reduzir infartos e mortes. Potencial de mercado e questões de acesso Se os ensaios confirmarem eficácia, o mercado de medicamentos para Lp(a) pode ser expressivo. Analistas do Citi estimam que o segmento pode movimentar até US$ 25 bilhões por ano globalmente. A questão do preço, porém, é um ponto de atenção. Há pouco mais de uma década, planos de saúde americanos resistiram a cobrir uma geração anterior de redutores de colesterol, os inibidores de PCSK9, cujo custo inicial era de cerca de US$ 1.000 por mês. Fabricantes precisaram reduzir o valor para aproximadamente US$ 200 mensais para ampliar o acesso. Analistas projetam que os medicamentos para Lp(a) devem ter precificação semelhante à dos PCSK9 já aprovados, mas muito depende dos resultados que estão por vir. Há ainda a questão de quem, exatamente, se beneficiaria do tratamento. Os medicamentos podem se mostrar claramente eficazes apenas para pessoas com níveis muito elevados de Lp(a). Se os benefícios para pacientes com elevações menores forem inconclusivos, as coberturas de planos de saúde podem ser restritas aos casos de maior risco, limitando o alcance terapêutico.",
-      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/05/novo-medicamento-contra-o-colesterol-pode-atacar-causa-oculta-de-infartos.ghtml",
-      "published": "2026-05-28T12:45:00+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
+      "title": "Gold gains as Middle East peace optimism pushes dollar, oil prices lower - Reuters",
+      "summary": "Gold gains as Middle East peace optimism pushes dollar, oil prices lower &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/gold-rises-softer-dollar-oil-markets-weigh-us-iran-peace-optimism-2026-06-04",
+      "published": "2026-06-04T12:07:51+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
       "matched_sectors": [
-        "Farmácias",
         "Global Consumer"
       ],
       "matched_aliases": [
-        "eli lilly"
+        "gold"
       ],
       "matches": [
         {
-          "sector": "Farmácias",
-          "alias": "eli lilly",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
           "sector": "Global Consumer",
-          "alias": "eli lilly",
-          "field": "lead",
-          "score": 8,
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "Nubank Anuncia Recompra de Ações no Valor de US$1 Bi",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O programa terá início imediato e duração prevista de 12 meses O post Nubank Anuncia Recompra de Ações no Valor de US$1 Bi apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/06/nubank-anuncia-recompra-de-acoes-no-valor-de-us1-bi",
+      "published": "2026-06-04T13:01:16+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank anuncia recompra de ações de US$ 1 bilhão",
+      "summary": "O Nubank anunciou que seu conselho de administraçã...",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/04/nubank-anuncia-recompra-de-aes-de-us-1-bilho.ghtml",
+      "published": "2026-06-04T13:19:20+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "Câmara aprova PEC que amplia imunidade tributária de igrejas",
@@ -4399,6 +4500,37 @@
       "score": 16.0
     },
     {
+      "title": "“Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sob a liderança da brasileira Thaís Fishberg, holandesa de pagamentos por trás de empresas como Uber, iFood e Amazon registrou maior crescimento global na real O post “Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/06/eu-nao-via-ninguem-parecido-comigo-a-brasileira-que-levou-a-adyen-a-crescer-26-na-america-latina",
+      "published": "2026-06-02T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Reforma se tornou experimento inédito de cooperação entre autoridades tributárias",
       "summary": "A reforma tributária se tornou um experimento inédito de cooperação entre as autoridades tributárias brasileiras. Isso pode ser visto tanto na elaboração das leis complementares como no regulamento feito em conjunto por integrantes da Receita Federal e do Comitê Gestor do IBS (Imposto sobre Bens e Serviços). Leia mais (06/03/2026 - 07h00)",
       "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/06/reforma-se-tornou-experimento-inedito-de-cooperacao-entre-autoridades-tributarias.shtml",
@@ -4425,6 +4557,68 @@
           "field": "lead",
           "score": 8,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "Uma cidade flutuante para 80 mil pessoas? Conheça o projeto para criar o maior navio do planeta",
+      "summary": "Uma embarcação de quase 1,6 quilômetro de comprimento, capacidade para 80 mil pessoas e estrutura suficiente para funcionar como uma cidade inteira. Essa é a proposta do Freedom Ship, projeto que voltou aos holofotes e promete transformar o conceito de moradia e turismo em alto-mar. Parques de diversão fazem parte do projeto Reprodução/Tangram 3DS + Hotel sem funcionários? China prepara primeiro empreendimento operado só por robôs, que será aberto em 2027 + Prestes a se tornar trilionário, Elon Musk ganha R$ 18 milhões por hora. Já imaginou o que daria para comprar com esse dinheiro? + Vitrine para startups de IA, Copa do Mundo coloca a América Latina no radar da inovação esportiva Orçado em cerca de £ 12 bilhões (aproximadamente R$ 88 bilhões), o empreendimento prevê um navio com 30 andares, residências permanentes para 50 mil moradores, além de espaço para outros 10 mil visitantes e operação conduzida por cerca de 20 mil tripulantes. O plano inclui escolas, hospital de pesquisa, hotéis, restaurantes, lojas, bancos, centro de convenções, museus, parque aquático e até um estádio com capacidade para 15 mil pessoas. Arte do Freedom Ship Reprodução, Tangram 3DS Diferentemente dos cruzeiros tradicionais, o Freedom Ship não teria porto fixo. Grande demais para atracar em cidades costeiras, a embarcação permaneceria em águas internacionais e receberia passageiros por meio de balsas e embarcações auxiliares. O objetivo é completar uma volta ao mundo a cada dois anos, navegando continuamente. Um shopping dentro de um navio Reprodução, Tangram 3DS A ideia surgiu nos anos 1990 com o engenheiro americano Norman Nixon, mas nunca saiu do papel. Agora, o projeto ganhou novo impulso sob liderança da Freedom Cruise Line International, que afirma já montar equipe técnica e buscar investidores para tirar o plano do papel. Segundo os responsáveis, a construção aconteceria na Indonésia e poderia levar entre três e quatro anos, embora os primeiros moradores pudessem ocupar áreas concluídas ainda durante as obras. A proposta é fazer com que os hóspedes se sintam em uma cidade Reprodução, Tangram 3DS Entre os diferenciais mais controversos está o plano de utilizar energia nuclear como fonte principal para reduzir emissões e garantir autonomia energética. Outro ponto que chama atenção é a intenção de instalar um hospital voltado também à pesquisa médica, aproveitando o fato de a embarcação operar fora de jurisdições nacionais tradicionais. O projeto inclui até mesmo um estádio de futebol Reprodução, Tangram 3DS Se sair do papel, o Freedom Ship superaria em escala qualquer navio de passageiros já construído atualmente, e se aproximaria mais de uma cidade móvel do que de um cruzeiro convencional. Por enquanto, porém, o desafio continua sendo o mesmo há três décadas: encontrar capital suficiente para transformar o conceito em realidade. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/06/uma-cidade-flutuante-para-80-mil-pessoas-conheca-o-projeto-para-criar-o-maior-navio-do-planeta.ghtml",
+      "published": "2026-06-03T15:18:12+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "hotel",
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "hotel",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "MBRF usa IA para alterar rotas em tempo real e reduzir atrasos de entrega",
+      "summary": "A MBRF, empresa por trás de marcas como marcas como Sadia, Perdigão e Qualy, desenvolveu um sistema de inteligência artificial para reordenar, em tempo real, as rotas de sua frota de logística secundária — os caminhões que partem dos centros de distribuição e chegam diretamente aos clientes. O piloto, conduzido na região Sul no último trimestre de 2025, envolveu 16 mil entregas e registrou redução de 5% nos atrasos e ganho de 7% no tempo total de operação. Os resultados levaram a companhia a expandir o sistema para todo o país. A solução, chamada de Resequenciamento Dinâmico de Rotas, trabalha junto com outro sistema anterior da empresa para otimizar o percurso dos motoristas. \"A gente tem um software que faz a roteirização, todo o planejamento de rotas, e essa solução é justamente para lidar com os imprevistos que acontecem durante o dia a dia\", diz Antônio Cesco, diretor de Transformação Digital da MBRF. A distinção em relação a aplicativos de navegação como Waze ou Google Maps é o ponto de partida para entender por que a empresa optou por desenvolver a ferramenta do zero. Cesco conta que o processo começa sempre pela busca de soluções já disponíveis no mercado; quando não há nada aderente, entra em cena o Digital Lab da companhia — um hub de inovação sediado em Curitiba onde o time interno trabalha com startups e parceiros em experimentos e provas de conceito. Foi lá que o Resequenciamento Dinâmico de Rotas nasceu. \"Identificamos que, apesar de ter soluções no mercado mais voltadas à otimização de rotas, nós, devido às nossas particularidades na operação logística, precisamos de variáveis adicionais para compor o algoritmo\", diz. Essas variáveis incluem o tempo de descarga em cada cliente e as janelas de recebimento, somadas a dados de trânsito, clima e velocidade das vias em tempo real. O modelo de IA processa tudo simultaneamente, e ao detectar um imprevisto, recalcula a sequência de entregas e envia uma notificação ao motorista pelo smartphone. E além dos principais usuários da ferramenta, os motoristas participam ativamente da avaliação do sistema. A empresa coleta feedbacks a respeito do seu funcionamento por meio de um canal dentro do próprio aplicativo, e também realiza visitas presenciais em que membros do time acompanham os motoristas durante a rota para identificar oportunidades de melhoria. Para desenvolver a solução, a MBRF utilizou a plataforma IBM Watson e as APIs da Google, com o suporte da própria IBM e da RCI, parceira da IBM — além do time interno de tecnologia e logística. A missão do Resequenciamento de Rotas é grande, assim como a operação da empresa: são 22 centros de distribuição espalhados pelo país, com cerca de 2,5 mil veículos, 26 mil entregas diárias, 2 mil viagens e 7 mil toneladas de alimentos transportadas por dia — boa parte delas perecível. A expectativa da empresa é que, no melhor cenário de adoção, a solução reduza em até 20% o tempo da operação de logística secundária em todo o país, considerando um volume mensal superior a 35 mil rotas na frota leve. Quase dez anos de parceria O Resequenciamento é só uma aplicação dentro de uma trajetória mais longa na MBRF. A empresa incorporou a inteligência artificial nas suas operações em 2017, quando iniciou com assistentes virtuais. Hoje, eles estão evoluindo para agentes de IA. \"O mais importante é não fazer IA por IA. É sempre atrelada a um desafio, a uma oportunidade dentro da companhia\", diz Cesco. Nos últimos meses, a empresa implementou agentes que interagem com fornecedores para conduzir negociações e gerar pedidos automaticamente, e outros voltados ao atendimento do técnico extensionista que atua no campo. Além disso, na logística primária — o transporte entre fábricas e centros de distribuição —, está em desenvolvimento um sistema de leilão de cargas com transportadores, que visa automatizar a oferta e o fechamento do frete. \"Essa conexão do negócio com a tecnologia é primordial para avançar com uma estratégia de IA aplicada, que faça sentido e que gere resultados\", conclui Cesco. *Com supervisão de Rennan Julio Banner da Série IA na Prática Clayton Rodrigues Mais Lidas",
+      "url": "https://epocanegocios.globo.com/inteligencia-artificial/ia-na-pratica/noticia/2026/06/mbrf-usa-ia-para-alterar-rotas-em-tempo-real-e-reduzir-atrasos-de-entrega.ghtml",
+      "published": "2026-06-04T10:00:44+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "centros de distribuição",
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 16.0
@@ -4989,29 +5183,6 @@
       "score": 8.0
     },
     {
-      "title": "“Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sob a liderança da brasileira Thaís Fishberg, holandesa de pagamentos por trás de empresas como Uber, iFood e Amazon registrou maior crescimento global na real O post “Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/06/eu-nao-via-ninguem-parecido-comigo-a-brasileira-que-levou-a-adyen-a-crescer-26-na-america-latina",
-      "published": "2026-06-02T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
       "title": "MBOOM aposta em marca própria para a Geração Z e projeta faturamento superior a R$ 200 milhões",
       "summary": "Empresa que lidera o mercado brasileiro de maquiagem amplia estratégia além das collabs com influenciadoras e investe em marca autoral",
       "url": "https://veja.abril.com.br/economia/mboom-aposta-em-marca-propria-para-a-geracao-z-e-projeta-faturamento-superior-a-r-200-milhoes",
@@ -5096,29 +5267,6 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Uma cidade flutuante para 80 mil pessoas? Conheça o projeto para criar o maior navio do planeta",
-      "summary": "Uma embarcação de quase 1,6 quilômetro de comprimento, capacidade para 80 mil pessoas e estrutura suficiente para funcionar como uma cidade inteira. Essa é a proposta do Freedom Ship, projeto que voltou aos holofotes e promete transformar o conceito de moradia e turismo em alto-mar. Parques de diversão fazem parte do projeto Reprodução/Tangram 3DS + Hotel sem funcionários? China prepara primeiro empreendimento operado só por robôs, que será aberto em 2027 + Prestes a se tornar trilionário, Elon Musk ganha R$ 18 milhões por hora. Já imaginou o que daria para comprar com esse dinheiro? + Vitrine para startups de IA, Copa do Mundo coloca a América Latina no radar da inovação esportiva Orçado em cerca de £ 12 bilhões (aproximadamente R$ 88 bilhões), o empreendimento prevê um navio com 30 andares, residências permanentes para 50 mil moradores, além de espaço para outros 10 mil visitantes e operação conduzida por cerca de 20 mil tripulantes. O plano inclui escolas, hospital de pesquisa, hotéis, restaurantes, lojas, bancos, centro de convenções, museus, parque aquático e até um estádio com capacidade para 15 mil pessoas. Arte do Freedom Ship Reprodução, Tangram 3DS Diferentemente dos cruzeiros tradicionais, o Freedom Ship não teria porto fixo. Grande demais para atracar em cidades costeiras, a embarcação permaneceria em águas internacionais e receberia passageiros por meio de balsas e embarcações auxiliares. O objetivo é completar uma volta ao mundo a cada dois anos, navegando continuamente. Um shopping dentro de um navio Reprodução, Tangram 3DS A ideia surgiu nos anos 1990 com o engenheiro americano Norman Nixon, mas nunca saiu do papel. Agora, o projeto ganhou novo impulso sob liderança da Freedom Cruise Line International, que afirma já montar equipe técnica e buscar investidores para tirar o plano do papel. Segundo os responsáveis, a construção aconteceria na Indonésia e poderia levar entre três e quatro anos, embora os primeiros moradores pudessem ocupar áreas concluídas ainda durante as obras. A proposta é fazer com que os hóspedes se sintam em uma cidade Reprodução, Tangram 3DS Entre os diferenciais mais controversos está o plano de utilizar energia nuclear como fonte principal para reduzir emissões e garantir autonomia energética. Outro ponto que chama atenção é a intenção de instalar um hospital voltado também à pesquisa médica, aproveitando o fato de a embarcação operar fora de jurisdições nacionais tradicionais. O projeto inclui até mesmo um estádio de futebol Reprodução, Tangram 3DS Se sair do papel, o Freedom Ship superaria em escala qualquer navio de passageiros já construído atualmente, e se aproximaria mais de uma cidade móvel do que de um cruzeiro convencional. Por enquanto, porém, o desafio continua sendo o mesmo há três décadas: encontrar capital suficiente para transformar o conceito em realidade. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/06/uma-cidade-flutuante-para-80-mil-pessoas-conheca-o-projeto-para-criar-o-maior-navio-do-planeta.ghtml",
-      "published": "2026-06-03T15:18:12+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -5280,29 +5428,6 @@
         {
           "sector": "Economia",
           "alias": "renda real",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "MBRF usa IA para alterar rotas em tempo real e reduzir atrasos de entrega",
-      "summary": "A MBRF, empresa por trás de marcas como marcas como Sadia, Perdigão e Qualy, desenvolveu um sistema de inteligência artificial para reordenar, em tempo real, as rotas de sua frota de logística secundária — os caminhões que partem dos centros de distribuição e chegam diretamente aos clientes. O piloto, conduzido na região Sul no último trimestre de 2025, envolveu 16 mil entregas e registrou redução de 5% nos atrasos e ganho de 7% no tempo total de operação. Os resultados levaram a companhia a expandir o sistema para todo o país. A solução, chamada de Resequenciamento Dinâmico de Rotas, trabalha junto com outro sistema anterior da empresa para otimizar o percurso dos motoristas. \"A gente tem um software que faz a roteirização, todo o planejamento de rotas, e essa solução é justamente para lidar com os imprevistos que acontecem durante o dia a dia\", diz Antônio Cesco, diretor de Transformação Digital da MBRF. A distinção em relação a aplicativos de navegação como Waze ou Google Maps é o ponto de partida para entender por que a empresa optou por desenvolver a ferramenta do zero. Cesco conta que o processo começa sempre pela busca de soluções já disponíveis no mercado; quando não há nada aderente, entra em cena o Digital Lab da companhia — um hub de inovação sediado em Curitiba onde o time interno trabalha com startups e parceiros em experimentos e provas de conceito. Foi lá que o Resequenciamento Dinâmico de Rotas nasceu. \"Identificamos que, apesar de ter soluções no mercado mais voltadas à otimização de rotas, nós, devido às nossas particularidades na operação logística, precisamos de variáveis adicionais para compor o algoritmo\", diz. Essas variáveis incluem o tempo de descarga em cada cliente e as janelas de recebimento, somadas a dados de trânsito, clima e velocidade das vias em tempo real. O modelo de IA processa tudo simultaneamente, e ao detectar um imprevisto, recalcula a sequência de entregas e envia uma notificação ao motorista pelo smartphone. E além dos principais usuários da ferramenta, os motoristas participam ativamente da avaliação do sistema. A empresa coleta feedbacks a respeito do seu funcionamento por meio de um canal dentro do próprio aplicativo, e também realiza visitas presenciais em que membros do time acompanham os motoristas durante a rota para identificar oportunidades de melhoria. Para desenvolver a solução, a MBRF utilizou a plataforma IBM Watson e as APIs da Google, com o suporte da própria IBM e da RCI, parceira da IBM — além do time interno de tecnologia e logística. A missão do Resequenciamento de Rotas é grande, assim como a operação da empresa: são 22 centros de distribuição espalhados pelo país, com cerca de 2,5 mil veículos, 26 mil entregas diárias, 2 mil viagens e 7 mil toneladas de alimentos transportadas por dia — boa parte delas perecível. A expectativa da empresa é que, no melhor cenário de adoção, a solução reduza em até 20% o tempo da operação de logística secundária em todo o país, considerando um volume mensal superior a 35 mil rotas na frota leve. Quase dez anos de parceria O Resequenciamento é só uma aplicação dentro de uma trajetória mais longa na MBRF. A empresa incorporou a inteligência artificial nas suas operações em 2017, quando iniciou com assistentes virtuais. Hoje, eles estão evoluindo para agentes de IA. \"O mais importante é não fazer IA por IA. É sempre atrelada a um desafio, a uma oportunidade dentro da companhia\", diz Cesco. Nos últimos meses, a empresa implementou agentes que interagem com fornecedores para conduzir negociações e gerar pedidos automaticamente, e outros voltados ao atendimento do técnico extensionista que atua no campo. Além disso, na logística primária — o transporte entre fábricas e centros de distribuição —, está em desenvolvimento um sistema de leilão de cargas com transportadores, que visa automatizar a oferta e o fechamento do frete. \"Essa conexão do negócio com a tecnologia é primordial para avançar com uma estratégia de IA aplicada, que faça sentido e que gere resultados\", conclui Cesco. *Com supervisão de Rennan Julio Banner da Série IA na Prática Clayton Rodrigues Mais Lidas",
-      "url": "https://epocanegocios.globo.com/inteligencia-artificial/ia-na-pratica/noticia/2026/06/mbrf-usa-ia-para-alterar-rotas-em-tempo-real-e-reduzir-atrasos-de-entrega.ghtml",
-      "published": "2026-06-04T10:00:44+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "centros de distribuição"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "centros de distribuição",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -5539,6 +5664,38 @@
         {
           "sector": "Viagens",
           "alias": "hotelaria",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 4.0
+    },
+    {
+      "title": "De bananada a arma de fogo: Michelle é autora de mais de 70 pedidos de registro de marcas com o nome Bolsonaro",
+      "summary": "A ex-primeira-dama Michelle Bolsonaro é autora de 75 pedidos de registro de marca que levam ou fazem referência ao sobrenome do marido, o ex-presidente Jair Bolsonaro, segundo mostra a base de dados do Instituto Nacional da Propriedade Industrial (Inpi). Na lista, estão variações e versões abreviadas do nome da família. Leia mais: Flávio refaz estratégia sobre tarifaço e usa carta a Rubio para tentar conter efeito político que beneficiou Lula em 2025 Política: TSE começa a julgar recursos sobre decisão que tornou Castro inelegível até 2030 Os pedidos abrangem uma gama ampla de produtos, que incluem cosméticos, café, coleiras, alimentos para animais, bananada, facas, bolsas de couro, instrumentos musicais, bebidas alcóolicas, armas de fogo. Além de \"Jair Bolsonaro\" e \"Michelle Bolsonaro\", consta na base de dados do Inpi pedidos para produtos batizados de \"Bolsonaro\", \"Bolsomito\" e \"Bolsonaro Mito\". A maioria dos pedidos feitos por Michelle data de 2024. Desde então, alguns já foram confirmados e outros seguem em andamento. Em 2026, a ex-primeira-dama obteve a titularidade de marcas como \"Jair Bolsonaro\" para perfumes e \"Michelle Bolsonaro\" para artigos de joalheria. Nem sempre, no entanto, a ex-primeira-dama tem sucesso. No dia 2 de junho, o Inpi indeferiu um pedido de registro para itens como bolsas de couro. Na justificativa, consta que ela \"não exerce atividade lícita e efetiva compatível com os produtos/serviços reivindicados\". Em relação ao pedido de registro da marca \"Bolsomito\" para produtos descritos como \"armas de fogo; explosivos; fogos de artifício; munições\", ela enfrenta problema similar. O órgão solicitou que a ex-primeira-dama comprove atuação na exploração comercial desse tipo de produto, regulado por norma especial e que depende de autorização do Comando do Exército. O registro de uma marca não significa que o autor tem interesse imediato na exploração comercial do produto. A busca pela titularidade de uma marca no Inpi pode fazer parte de uma estratégia de proteção dos donos. Em nota divulgada em março, o PL Mulher afirmou que pedidos foram feitos para \"impedir que o nome de Michelle ou de Jair Bolsonaro sejam utilizados para venda de produtos que não condizem com os valores e princípios defendidos por ambos\". O nome da família é explorado na comercialização de produtos ao menos desde 2024. Naquele ano, o maquiador Agustin Fernandez, amigo de Michelle, colocou a venda em seu site um perfume batizado com o nome do ex-presidente. No momento, o produto consta como esgotado. Em 2024, Eduardo Bolsonaro passou a ser titular da marca de vinhos \"Bolsonaro 'Il Mito'\", que já havia sido registrada por empresários. Em maio, o irmão do ex-presidente, Renato Bolsonaro, que é pré-candidato a deputado federal por São Paulo, registrou a marca \"Clube Bolsonaro\" para itens de vestuário.",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/06/03/de-bananada-a-arma-de-fogo-michelle-e-autora-de-mais-de-70-pedidos-de-registro-de-marcas-com-o-nome-bolsonaro.ghtml",
+      "published": "2026-06-03T06:30:33+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Joias",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "joalheria",
+        "perfume"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joalheria",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "perfume",
           "field": "body",
           "score": 2,
           "topic": null
@@ -5938,29 +6095,6 @@
         {
           "sector": "Global Consumer",
           "alias": "silver",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "De bananada a arma de fogo: Michelle é autora de mais de 70 pedidos de registro de marcas com o nome Bolsonaro",
-      "summary": "A ex-primeira-dama Michelle Bolsonaro é autora de 75 pedidos de registro de marca que levam ou fazem referência ao sobrenome do marido, o ex-presidente Jair Bolsonaro, segundo mostra a base de dados do Instituto Nacional da Propriedade Industrial (Inpi). Na lista, estão variações e versões abreviadas do nome da família. Leia mais: Flávio refaz estratégia sobre tarifaço e usa carta a Rubio para tentar conter efeito político que beneficiou Lula em 2025 Política: TSE começa a julgar recursos sobre decisão que tornou Castro inelegível até 2030 Os pedidos abrangem uma gama ampla de produtos, que incluem cosméticos, café, coleiras, alimentos para animais, bananada, facas, bolsas de couro, instrumentos musicais, bebidas alcóolicas, armas de fogo. Além de \"Jair Bolsonaro\" e \"Michelle Bolsonaro\", consta na base de dados do Inpi pedidos para produtos batizados de \"Bolsonaro\", \"Bolsomito\" e \"Bolsonaro Mito\". A maioria dos pedidos feitos por Michelle data de 2024. Desde então, alguns já foram confirmados e outros seguem em andamento. Em 2026, a ex-primeira-dama obteve a titularidade de marcas como \"Jair Bolsonaro\" para perfumes e \"Michelle Bolsonaro\" para artigos de joalheria. Nem sempre, no entanto, a ex-primeira-dama tem sucesso. No dia 2 de junho, o Inpi indeferiu um pedido de registro para itens como bolsas de couro. Na justificativa, consta que ela \"não exerce atividade lícita e efetiva compatível com os produtos/serviços reivindicados\". Em relação ao pedido de registro da marca \"Bolsomito\" para produtos descritos como \"armas de fogo; explosivos; fogos de artifício; munições\", ela enfrenta problema similar. O órgão solicitou que a ex-primeira-dama comprove atuação na exploração comercial desse tipo de produto, regulado por norma especial e que depende de autorização do Comando do Exército. O registro de uma marca não significa que o autor tem interesse imediato na exploração comercial do produto. A busca pela titularidade de uma marca no Inpi pode fazer parte de uma estratégia de proteção dos donos. Em nota divulgada em março, o PL Mulher afirmou que pedidos foram feitos para \"impedir que o nome de Michelle ou de Jair Bolsonaro sejam utilizados para venda de produtos que não condizem com os valores e princípios defendidos por ambos\". O nome da família é explorado na comercialização de produtos ao menos desde 2024. Naquele ano, o maquiador Agustin Fernandez, amigo de Michelle, colocou a venda em seu site um perfume batizado com o nome do ex-presidente. No momento, o produto consta como esgotado. Em 2024, Eduardo Bolsonaro passou a ser titular da marca de vinhos \"Bolsonaro 'Il Mito'\", que já havia sido registrada por empresários. Em maio, o irmão do ex-presidente, Renato Bolsonaro, que é pré-candidato a deputado federal por São Paulo, registrou a marca \"Clube Bolsonaro\" para itens de vestuário.",
-      "url": "https://oglobo.globo.com/politica/noticia/2026/06/03/de-bananada-a-arma-de-fogo-michelle-e-autora-de-mais-de-70-pedidos-de-registro-de-marcas-com-o-nome-bolsonaro.ghtml",
-      "published": "2026-06-03T06:30:33+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "joalheria"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joalheria",
           "field": "body",
           "score": 2,
           "topic": null
