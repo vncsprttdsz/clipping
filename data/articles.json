@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-06T10:38:33.767280+00:00",
-  "count": 221,
-  "new_this_run": 2,
+  "generated_at": "2026-06-06T11:13:24.010695+00:00",
+  "count": 222,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -1584,6 +1584,37 @@
           "field": "lead",
           "score": 8,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Carf estuda criar turmas especializadas para julgar CBS",
+      "summary": "Conselho se prepara para analisar novo tributo federal criado pela reforma tributária. Julgamentos na área administrativa ficarão com a 3ª Seção do Carf",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/carf-estuda-criar-turmas-especializadas-para-julgar-cbs",
+      "published": "2026-06-06T10:46:01+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 28.0
