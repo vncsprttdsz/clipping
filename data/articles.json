@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T09:52:05.811847+00:00",
-  "count": 225,
-  "new_this_run": 0,
+  "generated_at": "2026-06-07T10:19:33.194733+00:00",
+  "count": 227,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -4463,6 +4463,29 @@
       "score": 20.0
     },
     {
+      "title": "Natura fecha acordo com governo para oferecer cursos para 3 milhões do CadÚnico",
+      "summary": "A Natura assinou parceria com o Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome para ampliar a qualificação profissional, empreendedorismo e geração de renda dos inscritos no CadÚnico do governo federal. Leia mais (06/07/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/06/natura-fecha-acordo-com-governo-para-oferecer-cursos-para-3-milhoes-do-cadunico.shtml",
+      "published": "2026-06-07T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "“Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Sob a liderança da brasileira Thaís Fishberg, holandesa de pagamentos por trás de empresas como Uber, iFood e Amazon registrou maior crescimento global na real O post “Eu não via ninguém parecido comigo”: a brasileira que levou a Adyen a crescer 26% na América Latina apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-money/2026/06/eu-nao-via-ninguem-parecido-comigo-a-brasileira-que-levou-a-adyen-a-crescer-26-na-america-latina",
@@ -5209,6 +5232,29 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Governo Milei vai privatizar hotéis populares de US$ 10 a diária em ponto turístico",
+      "summary": "Um complexo estatal de hotéis à beira-mar onde trabalhadores argentinos hospedavam-se por cerca de US$ 10 a diária está prestes a ser transferido para o setor privado pelo governo libertário de Javier Milei , sinalizando o fim de uma era de \"turismo social\" peronista. Leia mais (06/07/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/governo-milei-vai-privatizar-hoteis-populares-de-us-10-a-diaria-em-ponto-turistico.shtml",
+      "published": "2026-06-07T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
           "field": "lead",
           "score": 8,
           "topic": null
