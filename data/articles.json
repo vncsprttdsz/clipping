@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-07T10:19:33.194733+00:00",
-  "count": 227,
-  "new_this_run": 2,
+  "generated_at": "2026-06-07T10:53:14.773085+00:00",
+  "count": 228,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -976,6 +976,37 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Justiça estadual e federal divergem em decisões sobre suspensão de CBS e IBS",
+      "summary": "Ações foram levadas à Justiça para questionar dispositivo da LC 214, que trata de suspensão tributária em exportações indiretas",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/justica-estadual-e-federal-divergem-em-decisoes-sobre-suspensao-de-cbs-e-ibs",
+      "published": "2026-06-07T10:10:30+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 40.0
