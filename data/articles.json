@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T11:28:24.984231+00:00",
+  "generated_at": "2026-06-08T12:18:00.076060+00:00",
   "count": 231,
-  "new_this_run": 11,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -428,37 +428,6 @@
         }
       ],
       "score": 48.0
-    },
-    {
-      "title": "Fundo vende imóveis de Assaí e Carrefour ao BTG por R$ 672 milhões",
-      "summary": "Fundo recicla portfólio com venda de R$ 672 milhões e reforça aposta em saúde premium com ativo de R$ 328 milhões",
-      "url": "https://exame.com/mercado-imobiliario/fundo-vende-imoveis-de-assai-e-carrefour-ao-btg-por-r-672-milhoes",
-      "published": "2026-06-01T12:15:56+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "assai",
-        "assaí"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "assaí",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "assai",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Amazon moves Prime Day back to June, keeps it a four-day event - Reuters",
@@ -4579,6 +4548,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Eli Lilly, dona do Mounjaro, vê avanço de novo remédio contra obesidade",
+      "summary": "Analistas veem potencial para Eli Lilly ampliar liderança em mercado bilionário",
+      "url": "https://exame.com/invest/mercados/eli-lilly-dona-do-mounjaro-ve-avanco-de-novo-remedio-contra-obesidade",
+      "published": "2026-06-08T09:02:24+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
           "field": "title",
           "score": 20,
           "topic": null
