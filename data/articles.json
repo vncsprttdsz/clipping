@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T09:36:01.222332+00:00",
-  "count": 225,
-  "new_this_run": 1,
+  "generated_at": "2026-06-08T11:28:24.984231+00:00",
+  "count": 231,
+  "new_this_run": 11,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -210,6 +210,45 @@
           "alias": "eurofarma",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística",
+      "summary": "A manhã desta segunda-feira, 8 de junho, vai ser diferente para os mais de 8,4 milhões de clientes que acessam o site da Amazon diariamente. Aqueles que buscarem por televisão, geladeira ou tênis de corrida vão se deparar com produtos vendidos pelo Magalu &#8211; e entregues pela Magalog, a transportadora do grupo. O acordo entre [&#8230;] O post União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/uniao-de-gigantes-magalu-e-amazon-viram-parceiras-nas-vendas-e-na-logistica",
+      "published": "2026-06-08T10:56:10+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "logística",
+        "magalu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -1673,29 +1712,6 @@
       "score": 22.0
     },
     {
-      "title": "Ele largou carreira de M&A e hoje fatura vendendo artigos esportivos para financiar rede global",
-      "summary": "Jan van Hövell abandonou advocacia de elite em Amsterdã e tocou como DJ para fundar a KLABU; com plano de assinatura de € 1 por mês, negócio social mira o Brasil e quer superar o Bayern de Munique",
-      "url": "https://exame.com/negocios/ele-largou-carreira-de-ma-e-hoje-fatura-vendendo-artigos-esportivos-para-financiar-rede-global",
-      "published": "2026-06-01T10:51:19+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "artigos esportivos"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "artigos esportivos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Exclusive: EU cloud rules to curb Amazon, Google access to strategic tenders, draft document shows - Reuters",
       "summary": "Exclusive: EU cloud rules to curb Amazon, Google access to strategic tenders, draft document shows &nbsp;&nbsp; Reuters",
       "url": "https://www.reuters.com/business/retail-consumer/eu-cloud-rules-curb-amazon-google-access-strategic-tenders-draft-document-shows-2026-06-01",
@@ -2565,29 +2581,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Alcolumbre descarta votação apressada da PEC do fim da escala 6x1",
-      "summary": "O presidente do Senado, Davi Alcolumbre (União-AP)...",
-      "url": "https://valor.globo.com/politica/noticia/2026/06/02/alcolumbre-descarta-levar-pec-do-fim-da-escala-6x1-direto-ao-plenario-do-senado.ghtml",
-      "published": "2026-06-02T20:54:11+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -4548,6 +4541,29 @@
       "score": 20.0
     },
     {
+      "title": "Senado tem semana de esforço concentrado e pode avançar em PEC do fim da escala 6x1",
+      "summary": "Depois de duas semanas esvaziado e em regime remot...",
+      "url": "https://valor.globo.com/politica/noticia/2026/06/08/senado-tem-semana-de-esforco-concentrado.ghtml",
+      "published": "2026-06-08T08:01:02+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Gold Falls on Rate-Hike Fears as Middle East Hostilities Escalate",
       "summary": "Gold prices fell as fresh strikes between Israel and Iran dimmed hopes for a near-term deal in the Middle East, reinforcing expectations of higher interest rates.",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-long-term-view-remains-positive-734209fe?mod=rss_markets_main",
@@ -4563,6 +4579,121 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Eli Lilly Shares Rise Premarket on Late-Stage Weight Loss Trial Success",
+      "summary": "A late-stage trial showed retatrutide was effective in weight loss and in alleviating obesity-linked conditions.",
+      "url": "https://www.wsj.com/health/pharma/eli-lilly-shares-rise-premarket-on-late-stage-weight-loss-trial-success-473a3569?mod=rss_markets_main",
+      "published": "2026-06-08T09:35:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Espaçolaser expande na Colômbia, terceiro maior centro de turismo estético da América Latina",
+      "summary": "A Espaçolaser abriu no final de maio a oitava unidade em Bogotá , na Colômbia . A empresa busca ampliar a operação no país em que afirma ter registrado no último ano crescimento de 45% nas vendas. Leia mais (06/08/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/06/espacolaser-expande-na-colombia-terceiro-maior-centro-de-turismo-estetico-da-america-latina.shtml",
+      "published": "2026-06-08T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "espaçolaser"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "espaçolaser",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Atrio planeja expansão da rede hoteleira",
+      "summary": "Operadora vai lançar sete unidades em quatro das cinco regiões",
+      "url": "https://veja.abril.com.br/brasil/atrio-planeja-expansao-da-rede-hoteleira",
+      "published": "2026-06-08T10:30:51+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "rede hoteleira"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "rede hoteleira",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O comercial para bets que irritou Mbappé e outros jogadores da França",
+      "summary": "Conteúdo publicitário foi veiculado sem consentimento dos atletas",
+      "url": "https://veja.abril.com.br/esporte/o-comercial-para-bets-que-irritou-mbappe-e-outros-jogadores-da-franca",
+      "published": "2026-06-08T11:00:10+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Caneta emagrecedora criada por empresa chinesa junto à dona do Ozempic reduz quase 20% do peso com rapidez",
+      "summary": "Possível concorrente da aguardada retatrutida exibe a que vem em estudo clínico",
+      "url": "https://veja.abril.com.br/saude/caneta-emagrecedora-criada-por-empresa-chinesa-junto-a-dona-do-ozempic-reduz-quase-20-do-peso-com-rapidez",
+      "published": "2026-06-08T11:00:16+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
           "field": "title",
           "score": 20,
           "topic": null
@@ -4725,29 +4856,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "O experimento na Holanda que transformou santuário de animais em campo de extermínio",
-      "summary": "Oostvaardersplassen é um dos projetos mais polêmicos — e inspiradores — de reintrodução da vida selvagem na Europa BBC News fonte Getty ImagesOostvaardersplassen é um dos projetos mais polêmicos — e inspiradores — de reintrodução da vida selvagem na Europa Em fevereiro de 2018, os passageiros que viajavam de trem entre as cidades holandesas de Almere e Amsterdã ficaram horrorizados ao observarem das suas janelas carcaças de animais mortos, espalhados pela reserva natural de Oostvaardersplassen. Desde os anos 1980, a proposta da reserva era de não intervenção, deixando a natureza seguir seu próprio rumo. Esta filosofia pioneira influenciou projetos de reflorestamento em toda a Europa. Mas o projeto sofreu uma reviravolta durante o rigoroso inverno de 2017-18 no hemisfério norte. Um dos mais conhecidos projetos de reintrodução da vida selvagem na Europa, concebido como lar de vacas, cervos e cavalos selvagens, decidiu sacrificar milhares de animais antes que eles morressem de fome. As imagens da época mostram o que parecia mais um pântano desolado que uma vibrante zona de conservação, com ossos espalhados pelo solo escurecido e sem nenhum sinal de árvores ou arbustos. \"Era uma imagem totalmente diferente... uma pradaria monótona\", conta o meu guia pela reserva, o guarda do serviço florestal holandês Hans-Erik Kuypers. Atualmente, uma assombrosa variedade de aves caminha por entre as poças de águas claras, enquanto grupos de sabugueiros, salgueiros e espinheiros marcam a paisagem. Uma águia-rabalva corta o céu e esbeltos cavalos selvagens trotam sobre a relva. Grandes touros se alimentam com a exuberante vegetação. O canto dos pássaros invade o ar e fica difícil acreditar que estamos a apenas 40 minutos de carro do movimentado centro de Amsterdã. O ocorrido em 2018 gerou uma mudança de gestão no local. Agora, os guardas intervêm ativamente para evitar a fome. Eles plantam árvores, alimentam os animais quando necessário e mantêm sua população sob controle. Mas alguns ainda defendem que a reserva deveria ser mantida livre da intervenção humana. \"O reflorestamento depende dos seus propósitos, mas também da sua filosofia. Quais são os objetivos humanos que projetamos sobre a natureza?\", questiona Kuypers. Este é um debate fundamental para o próprio reflorestamento, o movimento de restauração da natureza que se estendeu por todo o mundo nas últimas décadas — e que teve em Oostvaardersplassen um dos seus momentos mais críticos. Gansos e herbívoros A reserva de Oostvaardersplassen foi criada em 1968, após a drenagem de um mar interior para a construção de duas novas cidades, Lelystad e Almere, na província holandesa de Flevoland. O plano inicial era utilizar o terreno restante para a construção de indústrias, mas logo se percebeu que os pântanos do local passaram a atrair uma grande quantidade de gansos. As aves migratórias começaram a se alimentar nos caniçais da região nos meses de maio e junho, quando trocam suas penas. Os gansos exerceram o importante papel de engenheiros do ecossistema. Eles preservavam o pântano para os outros pássaros, mantendo os caniçais abertos e criando pequenas poças de água limpa que recebiam diversas espécies aquáticas, conta o professor aposentado de gestão da natureza Frank Berendse, da Universidade de Wageningen, na Holanda. A região se transformou em \"um paraíso para as aves do pântano\", segundo Berendse. Ele foi um dos primeiros defensores da restauração da natureza no local. O rico ecossistema pantanoso era um campo fértil para a reprodução de muitas espécies de aves, como a garça-pequena, a garça-pequena-europeia e o colhereiro. \"Era uma das regiões de observação de aves mais belas da Holanda e da Europa\", recorda Berendse. Oostvaardersplassen é um habitat importante para os gansos entre maio e junho BBC News fonte Getty ImagesOostvaardersplassen é um habitat importante para os gansos entre maio e junho Em 1979, o biólogo holandês Frans Vera, ex-aluno de doutorado de Berendse, escreveu um artigo intitulado \"Oostvaardersplassen: um experimento ecológico único\". Nele, Vera defendeu que o local havia se transformado em uma das regiões mais importantes para as populações europeias de aves aquáticas e pantanosas. \"Era inacreditável, um rico tesouro\", ele conta. \"Mas ninguém defendia sua proteção, quando tanta natureza já havia sido perdida na Holanda.\" Vera liderou um movimento para que a área fosse declarada reserva natural, o que finalmente ocorreu em 1983. Com 56 km² (cerca de duas vezes a região central da cidade de São Paulo), a reserva protege pântanos e pastos secos e úmidos, administrados pelo serviço florestal holandês. No início dos anos 1990, 60 mil gansos-bravos visitaram Oostvaardersplassen, que passou a ser o local de muda mais importante daquelas aves na Europa. Os responsáveis precisaram enfrentar o desafio de manter o local aberto para os gansos que se alimentavam por ali, antes e depois da estação da muda. Mas a vegetação invadia rapidamente o local e havia a preocupação de que a área acabasse sendo coberta por uma densa floresta, se não houvesse intervenção humana. Por muitos anos, a política na reserva de Oostvaardersplassen foi de nunca intervir nos processos naturais BBC News fonte Getty ImagesPor muitos anos, a política na reserva de Oostvaardersplassen foi de nunca intervir nos processos naturais Vera trabalhava no serviço florestal nacional e sugeriu introduzir grandes herbívoros para evitar que isso acontecesse. Sua ação serviria para criar uma paisagem paleolítica de pastagens arborizadas. Ele acreditava que, antes da prática da agricultura humana nos tempos pré-históricos, a Europa não era coberta pela floresta de canópias (a visão dominante da época), mas por \"pastagens arborizadas dinâmicas\". Em um estudo, ele defendeu que, antes da intervenção humana, os tarpans e auroques (os ancestrais selvagens dos cavalos e vacas domesticadas) criaram as pastagens, impedindo que as árvores cobrissem o continente. Vera propôs a introdução de animais análogos aos grandes herbívoros pré-históricos, como o uro, para reproduzir este tipo de pastagem em um cenário diverso. As ideias de Vera colidiam com a opinião predominante na época, segundo a qual, para isso, seriam necessárias vacas domésticas e criadores que cuidassem delas. Vera decidiu testar sua teoria e, em 1983, introduziu 32 cabeças do gado bovino alemão Heck, uma raça criada por seleção artificial na década de 1920 por dois irmãos alemães, que tentavam fazer reviver o extinto uro. Um ano depois, ele trouxe 18 cavalos konik da Polônia e, em 1994, fez soltar em Oostvaardersplassen 44 cervos-vermelhos. O cervo-vermelho foi uma das espécies animais trazidas por Vera para a reserva Oostvaardersplassen, na Holanda BBC News fonte Getty ImagesO cervo-vermelho foi uma das espécies animais trazidas por Vera para a reserva Oostvaardersplassen, na Holanda A ideia de Vera era limitar a intervenção humana na paisagem e fazer com que a natureza seguisse seu curso. \"Funcionou\", segundo ele, e surgiram \"belos caniçais\" para os gansos. \"A população de animais de pasto cresceu rapidamente e havia uma enorme quantidade de aves\", relembra Vera. Em outras reservas naturais, as populações de animais eram mantidas sob controle. Para isso, eles eram sacrificados regularmente a tiros. Mas a filosofia em Oostvaardersplassen era de não intervir de nenhuma forma e só sacrificar os animais se houvesse certeza de que eles não sobreviveriam ao inverno. Nunca se forneceu alimentação adicional e os animais eram livres para perambular pelas pastagens, sempre dentro dos limites das cercas da reserva. O objetivo ecológico era permitir que os processos naturais, com a escassez de alimentos e a competição, dessem forma à paisagem, sem controle pela intervenção humana. O trabalho de restauração de Oostvaardersplassen foi \"muito inovador\", segundo Frans Schepers, diretor-executivo da organização sem fins lucrativos Rewilding Europe. Na época, havia \"muito poucas inovações no setor de conservação\" na Europa, relembra ele. \"Só se falava em espécies, habitats e corrigir lugares, não sobre os processos\", explica Schepers. \"Oostvaardersplassen foi um grande despertar e o início de um novo movimento.\" A revista alemã Der Spiegel chamou a reserva natural holandesa de \"Serengeti por trás dos diques\". E, em 2010, Oostvaardersplassen entrou para a rede de conservação Natura 2000 da União Europeia, como um habitat importante para as aves pantaneiras e seu enfoque único de conservação foi elogiado no documentário The New Wilderness (2013). Altos e baixos Mas, paralelamente às homenagens ao projeto de Vera, surgiria uma crise que acabaria testando os limites do seu enfoque sobre a conservação da natureza. Entre 2005 e 2015, as populações de animais de pasto na reserva dispararam, dizimando a vegetação. \"O cenário original, que era um oásis de sabugueiros, espinheiros, salgueiros, cardos e gramas, passou a ser uma imensa pradaria\", conta Berendse. Ao mesmo tempo, o rápido aumento da população de gansos fez crescer muito a pressão sobre o pântano, prejudicando a biodiversidade e a fauna aviária que ali residia, explica ele. Diversas espécies de aves raras da região, como a garça-pequena e a garça-branca comum, foram extintas. Uma pesquisa realizada em 2020 por Berendse e outros ecologistas concluiu que até 22 espécies de aves raras haviam desaparecido das partes secas de Oostvaardersplassen entre 1997 e 2016. O crescimento explosivo dos animais de pasto levou a \"uma enorme escassez de alimentos\" e muitos animais moribundos precisaram ser sacrificados. Morreram 1.613 animais herbívoros entre dezembro de 2015 e abril de 2016. Os guardas florestais abateram 90% dos animais. Este episódio foi seguido por outro \"evento de mortalidade em massa\" no inverno extremamente frio e úmido de 2018 no hemisfério norte. A população de herbívoros caiu então em cerca de 3 mil animais, de um total de 5.230 em outubro de 2017. A maioria deles foi abatida para que não morressem de fome. A reserva holandesa foi descrita como o 'Serengeti por trás dos diques' BBC News fonte Getty ImagesA reserva holandesa foi descrita como o 'Serengeti por trás dos diques' Berendse conta que, inicialmente, apoiou o trabalho de Vera, mas mudou de opinião ao testemunhar o impacto negativo sobre a fauna aviária da região. Os animais mortos eram claramente visíveis para os passageiros de trem que passavam pela reserva. As fotos das carcaças viralizaram rapidamente nas redes sociais, provocando enorme indignação pública. As pessoas começaram a viajar para Oostvaardersplassen lançando fardos de feno para os animais. Os guardas que trabalhavam na reserva natural foram acusados de promover maus-tratos e chegaram a receber ameaças de morte. \"Chegaram a ameaçar minha família\", recorda Vera. \"Foi absolutamente terrível.\" A maior parte das ameaças, segundo ele, veio de caçadores e fazendeiros. Mortes em massa Vera conta que a mortalidade em massa de 2017-18 não foi uma surpresa. \"É parte da natureza\", explica ele. \"No ano anterior, o número de mortes foi quase zero. Por isso, pode-se dizer que foi uma espécie de correção natural.\" Os eventos de mortalidade em massa por escassez de alimento são comuns na natureza, destaca Vera. \"Isso ocorre naturalmente nas populações selvagens\", explica o ecologista dinamarquês Jens-Christian Svenning, professor do Departamento de Biologia da Universidade de Aarhus, na Dinamarca. \"A mortalidade dos gnus no Serengeti pode atingir 60% por inanição e ninguém diz que eles deve ser gerenciados ou sacrificados\", explica Svenning. Um estudo concluiu que a desnutrição foi a principal causa de mortalidade (75% dos casos) entre os gnus migratórios do Serengeti entre 1958 e 1998. Em Yellowstone, nos Estados Unidos, o estresse e a fome durante os meses de inverno também são uma causa comum da morte de bisões, segundo Svenning. Mas Berendse e outros especialistas afirmam que não é possível estabelecer comparação direta entre Oostvaardersplassen e os locais selvagens onde animais de pasto perambulam livremente, como as savanas da África oriental, os pampas da América do Sul ou as estepes da Mongólia. \"Nestes casos, estamos falando de milhares de quilômetros quadrados, enquanto Oostvaardersplassen é uma área pequena e rodeada de cercas\", explica Berendse. O isolamento geográfico e a falta de conexão com outros habitats é uma limitação, segundo Schepers. Para ele, \"a reserva se beneficiaria com corredores para a vida selvagem e conectividade com outros ambientes, pois os animais poderiam, então, se movimentar\". \"Os cavalos konik, por exemplo, poderiam migrar para outras florestas no inverno, onde há maior disponibilidade de alimentos e abrigo.\" O aumento da população de animais de pasto gerou escassez de alimentos na reserva e milhares de animais famintos precisaram ser sacrificados BBC News fonte Getty ImagesO aumento da população de animais de pasto gerou escassez de alimentos na reserva e milhares de animais famintos precisaram ser sacrificados E outro problema, segundo Schepers, é a falta de predadores, como os lobos. Os lobos regressaram da Alemanha para a Holanda em 2019, após 150 anos de ausência. Existem atualmente 13 alcateias no país e 45 filhotes nasceram entre janeiro e outubro de 2025. Os lobos, na Holanda, costumam se alimentar de javalis, cervos-vermelhos e corças. Mas um estudo de 2023, realizado por pesquisadores da Universidade de Leiden, na Holanda, revelou que eles também mataram herbívoros usados em projetos de conservação. Os lobos se estabeleceram em áreas próximas e \"parece ser apenas uma questão de tempo para os encontrarmos em Oostvaardersplassen\", afirma Schepers. Isso não só reduziria o número de animais de pasto, mas criaria um comportamento totalmente diferente. \"Isso criaria o que chamamos de 'ecologia do medo'\", explica ele. \"Os animais de pasto se dividiriam em grupos e se movimentariam muito mais. Com isso, a vegetação mudaria, já que eles não ficariam em um só lugar, comendo tudo.\" \"Haveria também impactos ao equilíbrio energético, de forma que a reprodução diminuiria e, talvez, grande parte da prole serviria de alimento\", prossegue Schepers. Mas não há planos de introduzir lobos em Oostvaardersplassen, segundo Kuypers. \"Se eles chegarem, será por via natural\", afirma o especialista. Moldado por seres humanos Em abril de 2018, após os protestos do público, as autoridades da província de Flevoland pediram mudanças de gestão e ordenaram que os animais de pasto fossem alimentados em Oostvaardersplassen. Atualmente, os animais da reserva são cuidadosamente monitorados e alimentados por seres humanos quando é detectada perda de massa corporal significativa. Nenhum animal morreu de inanição no local desde 2018, segundo Kuypers. As autoridades de Flevoland também decidiram limitar em 1,5 mil por ano o número de espécimes de grandes herbívoros, para reduzir as mortes no inverno. Para manter as populações sob controle, todos os anos, os animais são transportados para novas áreas ou sacrificados. Seus restos são vendidos como carne ou destruídos, segundo Kuypers. Os guardas, agora, também administram a paisagem, alterando a quantidade de água que entra nos diferentes habitats. Atualmente, eles estão \"reinicializando os pântanos\", o que inclui o rebaixamento dos níveis de água em parte do pântano para dar mais espaço aos caniçais, incentivando as aves a retornar à região. Eles plantaram árvores novas, rodeadas de pequenas barreiras para mantê-las fora do alcance dos animais de pasto. E também criaram pequenas poças na área de pastagem, onde se reúnem garças e aves migratórias. \"Não há mais nada dos processos e objetivos ecológicos que sustentavam Oostvaardersplassen\", afirma Vera. \"Existe intervenção humana, mas não é uma mudança total de paradigma\", segundo Kuypers. \"É um cenário moldado por seres humanos, onde criamos espaço para os processos naturais.\" Durante o inverno de 2017-2018, as pessoas iam até a reserva lançar fardos de feno para alimentar os animais BBC News fonte Getty ImagesDurante o inverno de 2017-2018, as pessoas iam até a reserva lançar fardos de feno para alimentar os animais Para Svenning, o limite anual do número de herbívoros é \"muito antinatural\". Uma população fixa \"não é como funcionam naturalmente os ecossistemas\", explica ele. Svenning destaca que isso prejudica certas funções positivas dos animais de pasto, como colaborar com a erosão natural e a fragmentação da vegetação. \"Se você monitorar o sistema, pode observar os anos [de mortes em massa] se aproximarem e ser proativo, antes que aquilo aconteça\", defende ele. Do ponto de vista evolutivo, Svenning afirma que também é importante \"não eliminar as forças naturais que prejudicam a evolução. Caso contrário, com o passar do tempo, os herbívoros serão degradados, até se tornarem apenas animais domésticos.\" Se os cavalos selvagens tivessem evoluído com \"muita comida, sem estresse nem predação, eles não teriam patas tão longas. Teriam sido outro tipo de animal, mais lento e atarracado\", explica ele. \"Cientificamente, acredito que não permitir que as coisas sigam adiante com a menor interferência possível seja uma oportunidade perdida. Nós aprendemos com os experimentos.\" Visão mais moderada Mas Schepers defende que o pragmatismo também é importante, quando o assunto é reflorestamento. \"Existem limitações, como a paisagem física, a infraestrutura e o clima, mas também há o elemento social\", explica ele. \"É preciso encontrar uma forma de fazer com que as pessoas aceitem a ideia.\" Berendse afirma que, inicialmente, concordava em permitir que a natureza seguisse seu próprio curso na reserva, mas depois mudou de opinião. Para ele, o trabalho de Vera \"gerou enorme consternação e foi desenvolvido às custas do apoio popular à conservação da natureza\". Vera acredita que a ira dos manifestantes se deveu, em parte, ao fato de que os herbívoros de Oostvaardersplassen nunca foram considerados animais selvagens. Schepers concorda que este é um desafio para projetos de reflorestamento como Oostvaardersplassen. \"Nós crescemos com vacas e cavalos domesticados e muitas pessoas não conseguem mudar de mentalidade e dizer: 'OK, este é um animal selvagem'\", explica ele. Apesar das controvérsias em torno do seu trabalho, a visão de Vera sobre a natureza teve enorme influência e ajudou a dar forma a outras iniciativas de reflorestamento na Europa. Atualmente, os animais de Oostvaardersplassen são cuidadosamente monitorados e alimentados quando necessário BBC News fonte Getty ImagesAtualmente, os animais de Oostvaardersplassen são cuidadosamente monitorados e alimentados quando necessário Knepp Estate, na Inglaterra, passou a ser, em 2001, o primeiro grande projeto de reflorestamento em planícies no Reino Unido. Ali, os animais perambulam em rebanhos naturais, em um cenário de pastagens arborizadas, mantendo o ecossistema com o pastoreio, roçado, desgaste e pisoteamento, espalhando nutrientes com a passagem dos animais. \"Os holandeses tiveram uma ideia inovadora para idealizar um programa como Oostvaardersplassen\", afirma Charlie Burrell, um dos proprietários de Knepp Estate. Ele iniciou o projeto ao lado da sua esposa, Isabella Tree. \"A ideia de que podemos simplesmente deixar a natureza sem controle e ver o que acontece é muito interessante e emocionante\", segundo ele. Inspirados pelo trabalho de Vera na Holanda, Burrell e Tree decidiram introduzir \"animais de pastoreio e que se alimentam de arbustos para impulsionar novos habitats para o futuro\", em 1,4 mil hectares de antigas terras de cultivo. Mas, diferentemente do ocorrido em Oostvaardersplassen, a população de herbívoros em Knepp foi mantida sob controle desde o princípio. Na verdade, a premissa de Knepp é demonstrar uma forma de produzir carne mais de acordo com a restauração da natureza. Os animais são abatidos e processados para a obtenção de carne. A fazenda vende anualmente 75 toneladas de carne orgânica, de animais alimentados no pasto com livre pastoreio. \"Acredito que o ciclo de altos e baixos, sem grandes predadores e sem um cenário africano, é de difícil compreensão para as pessoas\", afirma Burrell, em referência à visão de Vera para Oostvaardersplassen. Knepp adotou um enfoque diferente, mas Burrell afirma que o trabalho de Vera em Oostvaardersplassen foi \"de grande valentia e aprendemos muito com ele\". Knepp Estate chegou a realizar uma conferência em 2017, em homenagem ao trabalho de Frans Vera. Ideia radical Oostvaardersplassen também inspirou outros projetos de reflorestamento na Europa. Nas Serranías Ibéricas, na Espanha, a Rewilding Europe reintroduziu cavalos selvagens, touros e outros grandes animais de pasto, para ajudar a restaurar os processos naturais. \"Estamos observando mais incêndios florestais na região e um dos motivos é que não há mais pastoreio\", explica Frans Schepers. E o aumento da vegetação alimenta o fogo, que queima com mais força. Por isso, a presença dos animais ajuda a reduzir o risco de incêndios, segundo ele. O projeto holandês de reflorestamento e a indignação pública gerada por ele deixaram uma marca na visão de conservação de muitas pessoas e continuam causando acalorados debates sobre como gerenciar a natureza. Para Charlie Burrell, \"permitir que grandes populações flutuem com períodos de escassez e abundância foi uma ideia muito radical. Ela inspirou uma verdadeira efervescência de discussões, com opiniões favoráveis e contrárias.\" Frans Vera também acredita que o projeto trouxe uma mudança de perspectiva. Ele afirma que \"agora, mais pessoas pensam na natureza como um sistema dinâmico, onde os grandes herbívoros são os arquitetos da paisagem\", em vez de um cenário estável. Oostvaardersplassen \"certamente plantou uma semente e causou grandes impactos à natureza\", segundo ele. Schepers afirma que Vera foi um pioneiro e um lutador. \"O Oostvaardersplassen trouxe uma verdadeira mudança de paradigma no pensamento\", indica ele. \"Não observamos mais a natureza como algo que precise ser curado, mas como uma força incrível por si própria.\" Leia aqui a versão original desta reportagem (em inglês). BBC FOOTER NOVO BBC Mais Lidas",
-      "url": "https://epocanegocios.globo.com/mundo/noticia/2026/06/cdatao-experimento-na-holanda-que-transformou-santuario-de-animais-em-campo-de-exterminio.ghtml",
-      "published": "2026-06-01T11:15:34+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "reserva"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "reserva",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "GoPro alerta para risco de sobrevivência em meio à disparada dos custos com memória",
@@ -5364,37 +5472,6 @@
       "score": 6.0
     },
     {
-      "title": "Ex-DM9 lança ‘Waze do marketing’ com rodada de até R$ 20 milhões",
-      "summary": "Criada por executivos que fizeram carreira em publicidade, tecnologia e operações de mídia, a startup brasileira Biglink está lançando uma plataforma SaaS de marketing mix modeling (MMM) voltada à integração de dados de mídia, vendas, CRM, retail media, e-commerce e redes sociais em uma única interface. A empresa foi fundada no ano passado por Bruno Brambilla, ex-chief data officer da DM9 e atual CEO da companhia, ao lado de Marcelo Chuquer, Jader Rossetto e Thiago Rodrigues, projeta faturamento de R$ 12 milhões no seu primeiro ano completo e abriu uma rodada de investimento com um pré-seed estimado em R$ 20 milhões. Copiloto dos CMOs, Media Hero mira R$ 20 bi com chegada de bancos Após aporte da Crescera, Nava inicia aquisições com martech GH A plataforma utiliza inteligência artificial para análises preditivas e recomendações estratégicas em tempo real, integrando dados de canais como Meta, Google, LinkedIn, TikTok, CRM, retail media, mídia offline, influenciadores, imprensa e vendas. “Percebemos que o mercado estava cheio de dashboards bonitos, mas vazios de inteligência prática. As empresas tinham acesso aos números, mas não conseguiam tomar decisões efetivas a partir deles”, diz Brambilla. Thiago Rodrigues, Jader Rossetto, Bruno Brambilla e Marcelo Chuquer: os sócios da Biglink Divulgação A empresa compara a ferramenta a um “Waze do marketing”, por buscar indicar caminhos de otimização de campanhas, redução de custo de aquisição de clientes (CAC), aumento de retorno sobre investimento (ROI) e identificação de oportunidades de receita. Mesmo antes do lançamento oficial da nova plataforma, a Biglink já tem no seu portfólio operações de mais de R$ 4 bilhões em mídia para clientes como Nubank, Betano, Bradesco, Chilli Beans, Sebrae, Nescafé Dolce Gusto, Abbraccio e Unica. O segredo da Minancora: da 4ª geração ao TikTok Além da frente enterprise, a companhia aposta em um modelo SaaS voltado também para pequenas e médias empresas, com a proposta de ampliar o acesso a ferramentas de integração de dados e inteligência preditiva antes concentradas em grandes anunciantes.",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/ex-dm9-lanca-waze-do-marketing-com-rodada-de-ate-r-20-milhoes.ghtml",
-      "published": "2026-06-01T10:00:43+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank",
-        "tiktok"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 4.0
-    },
-    {
       "title": "Accor vira sócia de Alex Allard na Mata Holding e aporta quase R$ 300 milhões",
       "summary": "Após a experiência com o desenvolvimento do complexo Matarazzo, o empresário francês Alex Allard está expandindo as operações. A Mata Holding, sua empresa de investimento, anunciou uma parceria com o grupo Accor para criar uma plataforma global de hospitalidade e lazer no Brasil e no exterior, que já nasce com o Complexo Matarazzo como ativo em operação. “A nova fase da Mata reforça sua ambição de criar empreendimentos que ofereçam experiência e valorizem a cultura local e a natureza”, diz Allard ao Pipeline. O grupo Accor, de quase seis mil hotéis em 110 países, agregará a experiência global na operação de hotelaria e hospitalidade para ajudar o grupo Mata, que tem hoje mais de três mil funcionários só em São Paulo, a gerir os empreendimentos. TRX compra prédio do Emiliano no Rio CTF, sócia do hotel Rosewood, afasta Allard do conselho e abre processo Pelo acordo, a Accor realizará um investimento minoritário na Mata Holding no valor de 50 milhões de euros (cerca de R$ 293 milhões), passando a deter entre 20% e 24% do capital social da empresa de Allard. “O grupo Accor será o operador, o que permitirá eu me concentrar mais nos projetos fora de São Paulo, mantendo a independência criativa do grupo Mata”, diz Allard. Allard, do Complexo Matarazzo: \"futuro da indústria da hospitalidade está na experiência\" Gabriel Reis/Valor A plataforma nasce com a marca Mata. “O nome já estava lá e remete à floresta que cura, algo inerente a nossos projetos, que buscam integrar natureza, patrimônio e cultura, com grande influência do hemisfério Sul e foco na economia regenerativa”, diz Allard, que recentemente comprou a parte da Gafisa na parte comercial do complexo paulistano, que é gerido pela BM Varejo, e ficou só com minoritários como o fundo Autonomy. A nova parceria engloba tanto o ecossistema comercial da Cidade Matarazzo, controlado pela BM Varejo e agora inserido no Mata São Paulo, como outros projetos em desenvolvimento como o Mata Maravilha, com quatro hotéis e estimado em R$ 5 bilhões na região portuária do Rio, e o Mata Pelourinho, em Salvador, no lugar do Palácio do Governo, orçado em R$ 2 bilhões. Ex-XP cria ‘Maldivas brasileira’ com aposta de R$ 5 bi no Nordeste O prédio de luxo de Carlos Sanchez com a Liv Kopstein O Mata São Paulo será o laboratório para as futuras expansões que integrarão seis biomas: cultura, gastronomia, moda/ beleza e design, entretenimento, hospitalidade e negócios da economia regenerativa. Instalado em um hospital abandonado, próximo à Avenida Paulista, o complexo Matarazzo, que foi adquirido em 2010, já se tornou um ponto turístico da capital paulista. O complexo reúne áreas de lazer, comércio e escritórios, incluindo o Aya Hub, voltado para negócios de transição climática e economia verde, com mais de 100 parceiros. Cercado por paisagismo restaurado da Mata Atlântica, o ecossistema abriga o Rosewood, a Soho House e a Casa Bradesco e o Mata Lab, que reúne mais de 300 criadores de moda beleza e design, principalmente brasileiros. Como a JHSF se transformou em uma multinacional do luxo Luxo para quem? Consultoria quer melhorar o alvo das incorporadoras Com 80% da área comercial e de lazer já em operação, o projeto deve ser concluído até o fim de 2026 e pode atingir receita anual entre R$ 1,7 bilhão e R$ 1,8 bilhão. Hoje, reúne 16 restaurantes e prevê novas inaugurações como o africano Preta Maria, da Bela Gil, a rede libanesa Em Sherif, um boteco da chefe Janaína Torres, um restaurante japonês e um novo espaço para shows e experiências imersivas. No fim do ano passado, Allard teve a sua participação no hotel diluída após não ter quitado uma dívida com o a sócia Chow Tai Fook (CTF), holding de Hong Kong, sócio, mas ele não pensa em vender sua fatia no negócio. “Quando pensei no projeto, imaginei um ecossistema, com o hotel fazendo parte desse complexo”, diz. O anúncio do acordo com a Accor, agendado há semanas, acontece com a infeliz coincidência de uma fatalidade no hotel, onde uma turista americana foi encontrada morta. A Polícia investiga o caso, com suspeita de overdose, e o Rosewood afirma que está colaborando com as autoridades.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/accor-vira-socia-de-alex-allard-na-mata-holding-e-aporta-quase-r-300-milhoes.ghtml",
@@ -5512,6 +5589,37 @@
         {
           "sector": "Viagens",
           "alias": "hotelaria",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 4.0
+    },
+    {
+      "title": "Lev leva bikes elétricas a Paris na primeira pedalada fora do país",
+      "summary": "Com 43 lojas pelo Brasil, a carioca Lev vai abrir uma unidade em Paris, a primeira pedalada da marca de bicicletas e scooters elétricas fora do país. A inauguração está prevista para agosto, entre o 16º e o 17º arrondissements da capital francesa. Nos próximos dois anos, a brasileira pretende inaugurar outras quatro lojas na Europa, que tem mercados com demanda maior por bikes elétricas e scooters. Alemanha, Holanda e Espanha estão no radar da Lev, que vai monitorar o desempenho da loja francesa antes de continuar a expansão. Vammo levanta R$ 75 mi para triplicar motos elétricas em São Paulo 99 investe R$ 45 milhões em fundo de eletromobilidade da Yvy “Temos 16 anos fazendo o produto, que está testado, temos custo baixo, moldes são nossos, o desenho é nosso, a patente é nossa. Estamos maduros para expandir”, afirma Rodrigo Affonso, cofundador e CEO da Lev. Ele abriu o negócio em 2007 com o irmão, Bruno Affonso, no Rio de Janeiro. Lev, de bikes elétricas, dá primeira pedalada na expansão internacional Divulgação A dupla tentou internacionalizar a marca em 2018, por Miami, mas desistiu para focar no Brasil. A pandemia, pouco depois, minguou qualquer plano. E, em 2024, a Lev mandou um funcionário para Austin para ir a campo ver a possibilidade de abrir uma loja por lá. A eleição de Donald Trump, somada ao tarifaço, travou novamente os planos. Paris não surgiu como iniciativa da própria Lev. A ideia partiu dos executivos brasileiros Gerhard Franz e Armindo Mota, radicados na capital francesa, que enxergaram potencial para o negócio por lá, na modalidade de franquia, outra novidade. O negócio não prevê investimento dos irmãos, que receberão royalties e fornecerão bikes direto do Brasil, fabricadas em Manaus. iFood aposta em entrega por drones com US$ 1 mi na Speedbird “Se essa parceria der certo, vamos ter um percentual de investimento, e aí deixa de ser franquia e vira sociedade”, explica Aneliza Lima, CFO da Lev. “Paris é uma das cidades mais conhecidas por conta da mobilidade elétrica, e isso nos chamou a atenção. É uma exposição global”. No Brasil, a empresa projeta abrir 12 novas lojas até o fim do primeiro semestre, mirando Rio, São Paulo e Vitória. A rede opera sob duas marcas: a Lev, de bicicletas elétricas, e a Onn, marca de scooters lançada em junho de 2024 e hoje com quatro lojas dedicadas. O grupo também representa a chinesa Niu Technologies, de scooters e motos elétricas, no país. O foco da companhia está em crescer o segmento B2B, uma área ainda pouco explorada. Recentemente, a Lev assinou um contrato com o Magalu para vender seus produtos na rede, mirando 900 lojas até o fim do ano. Também está em conversas avançadas para fechar um contrato de locação de mil e-bikes com uma locadora internacional e mantém as portas abertas com empresas de delivery, um segmento interessado nesse tipo de solução. Capitalizada, Jet vai duplicar os patinetes azuis na calçada Como a russa Whoosh quer evitar o tombo dos patinetes da Grow e Lime A Lev registrou R$ 150 milhões em faturamento em 2025 e projeta R$ 270 milhões em vendas em 2026. Em 2020, quando ainda era bootstrap, a empresa foi procurada pela Vinci Compass para um aporte, mas o negócio não avançou. Entre 2021 e 2024, levantou o equivalente a R$ 41 milhões em dívida estruturada com o Itaú BBA. Atualmente, a companhia está em conversas avançadas para uma nova operação “com um player relevante”, diz Lima.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/lev-leva-bikes-eletricas-a-paris-na-primeira-pedalada-fora-do-pais.ghtml",
+      "published": "2026-06-08T10:31:34+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood",
+        "magalu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "body",
           "score": 2,
           "topic": null
@@ -5869,6 +5977,52 @@
       "summary": "O Operador Nacional do Sistema Elétrico (ONS) informou hoje que acionou, pela primeira vez, o plano para gestão de excedentes de energia do sistema nacional. Ao todo, foi solicitada a suspensão da geração de 1.000 mega watts de energia entre 10h e 14h deste domingo, período de maior incidência solar e, consequentemente, geração de energia superior dessa fonte. Pela primeira vez desde que o ONS passou a adotar essa medida para manter a segurança do sistema elétrico o corte de geração (chamado curtailment no setor) se estendeu a pequenas usinas geradoras conectadas a distribuidoras de energia, num sinal de desequilíbrio maior que o que vinha sendo registrado pelo órgão. A paralisação de geradoras que estão diretamente ao seu alcance, por meio do sistema interligado nacional, como as grandes hidrelétricas, não foi suficiente. Leilão de energia vai gerar custo extra de R$ 48 bi por ano na conta de luz: impacto será de 7,5% em 2032 Certame: Aneel confirma contratação de termelétricas de leilão de reserva de energia e usinas poderão operar a partir de agosto O ONS acionou 12 distribuidoras para que reduzissem a geração em pequenas usinas conectadas diretamente às suas redes em suas áreas de concessão, uma vez que o operador não possui controle direto sobre essas fontes. Esse grupo foi priorizado por concentrar cerca de 80% de toda a potência instalada das usinas pequenas, inseridas o plano. As distribuidoras tiveram que cortar cerca de 23,5% da geração de usinas de pequeno porte, conectadas diretamente à rede de distribuição e que não são controladas pelo ONS. Foram afetadas as chamadas unidades geradoras centralizadas, como usinas solares e eólicas de menor porte, Pequenas Centrais Hidrelétricas (PCHs) e usinas a biomassa, que vendem a energia gerada. A medida foi comunicada no sábado às distribuidoras, e ocorreu por conta da forte produção de energia, principalmente de matriz solar. Somou-se a isso o consumo baixo, ocasionado principalmente pelas temperaturas amenas (menos ventiladores e aparelhos de ar condicionado ligados), pelo fato de ser um domingo — quando há muito menos demanda da indústria e do comércio —, e pelo feriado prolongado. Essa demanda mais baixa coincide com uma grande quantidade de geração que o sistema não consegue controlar (como a energia de fonte renovável) e com baixa capacidade de inércia, de controle de frequência e de controle de tensão — que são fundamentais para manter a segurança do sistema, evitando, por exemplo, apagões. Empresas brasileiras taxadas agora por Trump têm dificuldades de vender para outros países: veja a diferença do 1º tarifaço Essas situações podem afetar a capacidade de o ONS manter a operação segura. Uma data considerada emblemática desse cenário foi o Dia dos Pais do ano passado, quando o sistema passou perto de um colapso momentâneo. Foi uma situação causada por um excesso de geração de energia por painéis solares e a falta de controle que o operador do sistema tem sobre esses aparelhos. Coordenador-geral do Grupo de Estudos do Setor Elétrico (Gesel), da UFRJ, Nivalde de Castro explica que, diariamente, o ONS estima qual deve ser a demanda de energia em todo o país. A partir daí, o órgão faz o manejo dos recursos da geração centralizada, que são as grandes usinas e que estão sob sua responsabilidade, como grandes hidrelétricas. A partir de setembro: UE formaliza restrição a carnes e produtos de origem animal do Brasil Para este domingo, o ONS solicitou a redução da geração desses recursos dentro da sua gestão, mas não foi suficiente. Foi necessário também colocar em prática o Plano Emergencial de Gestão de Excedentes de Energia na Rede de Distribuição, aprovado pela Agência Nacional de Energia Elétrica (Aneel) no ano passado para evitar o colapso do sistema devido à sobreoferta de energia renovável. — O crescimento da oferta, notadamente de plantas solares, por conta dos subsídios, tem crescido muito acima da necessidade de consumo. Se temos um desequilíbrio de muita oferta e pouca demanda, o sistema entra em blecaute, gera um apagão. Assim, em fins de semana em que a demanda cai, o operador obriga as geradoras a cortar a produção nesse período de 10h às 14h, quando há incidência de muito sol e vento — observa o especialista. Doze distribuidoras afetadas Veja as 12 usinas acionadas pelo ONS neste domingo para interromper parte da geração: CPFL Paulista Cemig (Cemig D) Energisa MT Copel (Copel D) Neoenergia Elektro (Elektro) Celesc Equatorial GO Energisa MS Neoenergia Coelba (Coelba) RGE EDP Espírito Santo (EDP ES) Neoenergia Pernambuco (Neoenergia PE) Impacto financeiro Desse modo, a medida não atingiu microgeradores que usam a própria energia gerada, como os consumidores residenciais e de pequenos empreendimentos comerciais que instalam placas solares nos telhados, que são as chamadas unidades descentralizadas. É um contingente crescente que o ONS não tem como interferir. Castro, da UFRJ, observa que as distribuidoras têm autonomia para fazer a gestão dos cortes nas geradoras sob sua gestão, a partir de critérios técnicos. É a primeira vez que têm de seguir uma determinação do ONS. Para o especialista, no entanto, essa situação não deve provocar impactos financeiros significativos ao consumidor final, seja ele residencial ou de maior porte. Quem deve sofrer perdas são as pequenas centrais hidrelétricas (PCHs), fazendas solares ou outros negócios de geração de energia que tiveram a operação paralisada pela distribuidora da área. Isso porque essas empresas têm contratos de fornecimento a clientes, via mercado livre de energia. Em caso de interrupção da operação, esses geradores deixam de receber pela energia que seria produzida e ainda precisam pagar pelo fornecimento aos clientes, que é assumido pela distribuidora. Por exemplo: uma rede de supermercados tem um contrato mensal com uma pequena central hidrelétrica que fornece energia para abastecimento das lojas. Caso essa PCH tenha sofrido um corte de geração, as unidades do supermercado continuam abastecidas, mas pela distribuidora da região, que repassa a fatura à geradora afetada pelo corte. — Essas empresas vão ter um prejuízo. Muitas dessas empresas devem levar isso à Justiça — prevê Nivalde de Castro. 'Gargalo estrutural' O operador disse, em nota, que seguirá acompanhando e coordenando ações no sistema, fazendo a gestão dos recursos disponíveis, de acordo com a demanda da sociedade em comunicação direta com os agentes do setor. “Segue também atento à nova realidade eletroenergética e trabalhando para garantir a segurança e a eficiência do sistema, de acordo com os procedimentos de rede vigentes\". Também em nota, a Associação Brasileira de Distribuidores de Energia Elétrica (Abradee) afirmou que as empresas de energia elétrica estavam preparadas para executar o plano. \"Do ponto de vista operacional, a Abradee ressalta a necessidade de maior detalhamento dos procedimentos, permitindo que os eventuais cortes sejam feitos pelos geradores de acordo com critérios claros, robustos e definidos. A ausência desses pontos, na visão da Associação, pode trazer insegurança jurídica para todo o setor elétrico\", afirma a associação. A entidade diz ainda que o desafio de operar o sistema em momentos de baixo consumo, em especial nos jogos do Brasil na Copa do Mundo e nos demais feriados civis e religiosos do ano, o segmento de distribuição entende que os problemas decorrentes do excesso de geração renovável já são uma realidade, sendo urgente e necessário o aprofundamento de políticas públicas que possam reorganizar o sistema e solucionar os gargalos existentes para evitar apagões. Já a Associação Brasileira de Energia Solar Fotovoltaica afirmou, em comunicado, que as medidas emergenciais estabelecidas pelo ONS, \"embora necessárias\", evidenciam um \"gargalo estrutural de aprimoramentos setoriais\". Para a entidade, faltam investimentos em mecanimsmos de flexibilidade, armazenamento de energia elétrica e controle de carga. \"A conjuntura deste domingo, com alta irradiação solar combinada à baixa demanda do feriado prolongado, não é uma anomalia: é um cenário previsível, recorrente em países que avançaram com sucesso na transição energética. A diferença é que esses países já se adaptaram a este novo normal, adotando instrumentos de flexibilidade e armazenamento de energia elétrica adequados. O governo brasileiro, por outro lado, ainda não entregou o que o setor elétrico reivindica há anos\", diz o texto.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/07/excesso-de-energia-leva-ons-a-estender-cortes-de-geracao-a-pequenas-usinas-pela-primeira-vez.ghtml",
       "published": "2026-06-07T21:39:53+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "reserva"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "reserva",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "General Atlantic põe IPO no forno",
+      "summary": "A gestora americana General Atlantic está retomando os planos para um IPO, apurou o Pipeline. A firma de private equity reativou um mandato que tinha com um grupo de bancos coordenadores há dois anos e quer chegar à bolsa de Nova York nos próximos meses. No fim de 2023, a GA chegou a registrar um pedido confidencial na SEC para um IPO, mas acabou não seguindo adiante com a operação devido a mudanças nas condições de mercado. Quanto XP e GA investiram na LiveMode, dona da CazéTV General Atlantic compra Actis para avançar em infraestrutura Outras grandes gestoras concorrentes, como KKR, Blackstone e TPG, já são listadas em bolsa. Além de abrir um novo canal de funding para o negócio, uma listagem cria a possibilidade de uma tranche secundária pelos sócios da firma. Procurada pelo Pipeline sobre a retomada dos planos de IPO, a GA disse que \"não comenta rumores ou especulações de mercado.\" Martín Escobari, o rosto conhecido da GA na América Latina, é copresidente Arquivo Alguns dos maiores retornos da GA foram alcançados no Brasil, como o investimento na XP Investimentos, liderado por Martin Escobari - o que impulsionou a carreira do executivo boliviano na firma, onde hoje é copresidente e diretor global de Growth Capital da GA. Entre os investimentos mais recentes dos fundos da casa em companhias brasileiras estão Starian, Live Mode e QiTech. Nos EUA, os fundos têm investimentos em companhias de IA, como Anthropic e Liftoff, investe em empresas asiáticas como Shein e Hai Robotics. Private equity avança em crédito estruturado Fundos fazem oferta para fechar capital da Arco A GA foi criada na década de 80 como um family office do empresário e filantropo Chuck Feeney, que se manteve como único investidor por uma década. A partir de 1993, a gestora passou a investir capital de outras famílias, fundações e endowments. Atualmente, são mais de US$ 120 bilhões sob gestão, em fundos de private equity e growth, com escritório em mais de 15 países. A companhia também adquiriu a britânica Actis, em 2024, para expandir para investimento privado em infraestrutura. À época do primeiro registro para um IPO, em 2023, a GA tinha US$ 77 bilhões sob gestão.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/general-atlantic-poe-ipo-no-forno.ghtml",
+      "published": "2026-06-08T09:30:34+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Petróleo dispara após Irã e Israel trocarem novos ataques apesar dos apelos de Trump",
+      "summary": "O petróleo disparou depois que Irã e Israel voltaram a trocar ataques, apesar dos apelos do presidente dos Estados Unidos, Donald Trump, para que ambos os lados interrompessem os combates. A nova escalada ocorre em uma guerra que já ultrapassou a marca de 100 dias. Entenda: Por que o petróleo ainda não bateu US$ 200 diante do maior choque de oferta da História? Petróleo: Opep+ eleva meta de produção de petróleo, mas guerra no Irã limita efeito da decisão O petróleo Brent, referência global, chegou a subir até 5,4%, ultrapassando US$ 98 por barril. No momento, o barril do Brent é negociado a US$ 96,62, com alta de 3,79%. Já o petróleo tipo Texas (WTI), referência do mercado americano de petróleo bruto, estava cotado a US$ 94,41 o barril, alta de 4,27%. Israel informou que atingiu alvos militares no Irã em retaliação aos ataques anteriores com mísseis lançados por Teerã, mesmo após o presidente Trump ter pedido ao primeiro-ministro Benjamin Netanyahu que evitasse uma resposta militar. “Ambos os países devem parar de atirar imediatamente”, reiterou Trump nesta segunda-feira, em uma publicação na rede Truth Social. Initial plugin text Os rebeldes houthis do Iêmen afirmaram que imporão uma proibição total à navegação de embarcações israelenses no Mar Vermelho. No entanto, uma importante associação do setor marítimo avaliou que a medida provavelmente terá pouco impacto adicional sobre o transporte marítimo, já que muitas embarcações já vêm evitando essa rota. Não é só o combustível: Aéreas reclamam de fabricantes e dizem que atraso de novos aviões dificulta cortar emissões Trump havia pedido anteriormente que Teerã retornasse às negociações após os ataques contra Israel, informou a Fox News. Separadamente, o presidente dos EUA disse ao Axios que pressionaria Netanyahu para que não realizasse retaliações. As Forças de Defesa de Israel avaliam que a campanha militar contra o Irã poderá durar vários dias e estão se preparando para mobilizar soldados da reserva, segundo informou a Army Radio. Embora o petróleo tenha registrado forte alta no dia, permaneceu abaixo de US$ 100 por barril, sinal de que o mercado conseguiu evitar os piores impactos do que a Agência Internacional de Energia (AIE) descreve como a maior interrupção de oferta já registrada. No auge do conflito, o Brent, referência global, chegou perto de US$ 130 por barril. Passagens aéreas vão subir mais? Veja a previsão dos líderes globais das companhias que se reúnem hoje no Rio Ainda assim, com os ataques voltando a ocorrer, o risco de novos bombardeios contra a infraestrutura energética voltou ao centro das atenções. — Apesar do otimismo recorrente da administração dos EUA, um acordo de paz duradouro parece cada vez mais difícil de alcançar — afirmou Ole Hansen, chefe de estratégia de commodities do Saxo Bank A/S. — A contínua falta de progresso na restauração dos fluxos normais de energia provenientes do Oriente Médio está reforçando as expectativas de um período prolongado de preços elevados do petróleo. Na última semana, houve uma nova escalada das hostilidades em todo o Oriente Médio, ameaçando comprometer uma trégua e dificultar as negociações para encerrar a guerra. O conflito levou ao quase fechamento do estratégico Estreito de Ormuz, interrompendo grande parte do fornecimento de petróleo bruto, combustíveis e gás natural para consumidores em todo o mundo. No fim de semana, o Comando Central dos Estados Unidos informou ter abatido dois drones iranianos de ataque que representavam ameaça ao tráfego marítimo internacional no Estreito de Ormuz. O incidente ocorreu após o lançamento de seis mísseis balísticos contra Bahrein e Kuwait na sexta-feira. Esses mísseis foram interceptados, enquanto os EUA atacaram instalações de radar de vigilância costeira do Irã. Gás natural em alta na Europa O principal índice de referência do gás natural na Europa também registrou forte alta nesta segunda-feira, à medida que o risco de um conflito prolongado ameaça interromper as exportações globais de gás natural liquefeito (GNL), justamente em um momento em que a região deveria estar recompondo seus estoques. No ano eleitoral: Governadores aumentam gastos, e estados devem somar déficit de R$ 6 bi O presidente dos Estados Unidos disse ao Financial Times que o líder israelense terá de aceitar qualquer acordo que os EUA venham a firmar com o Irã. — Eu dou as cartas. Eu tomo todas as decisões — afirmou Trump. Na semana passada, Israel e o Líbano concordaram com uma trégua, condicionada à interrupção das hostilidades por parte do Hezbollah. No entanto, a milícia apoiada pelo Irã rejeitou o cessar-fogo. Os combates entre as tropas israelenses e o Hezbollah continuaram durante o fim de semana. Mesmo que um acordo de paz entre os Estados Unidos e o Irã seja alcançado, diversos obstáculos dificultarão a retomada normal dos fluxos de petróleo. Entre eles estão a remoção de minas no Estreito de Ormuz, a reativação de campos de produção que foram interrompidos — um processo que pode levar meses — e a necessidade de reparar os danos causados à infraestrutura energética por ataques com drones e mísseis. Initial plugin text",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/08/petroleo-dispara-apos-ira-e-israel-trocarem-novos-ataques-apesar-dos-apelos-de-trump.ghtml",
+      "published": "2026-06-08T11:02:59+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "Fashion"
