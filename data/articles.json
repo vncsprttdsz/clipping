@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T12:18:00.076060+00:00",
-  "count": 231,
-  "new_this_run": 3,
+  "generated_at": "2026-06-08T12:54:10.210263+00:00",
+  "count": 233,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -1679,29 +1679,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Exclusive: EU cloud rules to curb Amazon, Google access to strategic tenders, draft document shows - Reuters",
-      "summary": "Exclusive: EU cloud rules to curb Amazon, Google access to strategic tenders, draft document shows &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/eu-cloud-rules-curb-amazon-google-access-strategic-tenders-draft-document-shows-2026-06-01",
-      "published": "2026-06-01T12:35:37+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Inadimplência no agronegócio brasileiro encerra 2025 em 8,2%, aponta Serasa",
@@ -4257,6 +4234,29 @@
       "score": 20.0
     },
     {
+      "title": "Eli Lilly says next-gen obesity drug curbs sleep apnea, among other benefits - Reuters",
+      "summary": "Eli Lilly says next-gen obesity drug curbs sleep apnea, among other benefits &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/eli-lilly-says-next-gen-obesity-drug-curbs-sleep-apnea-among-other-benefits-2026-06-06",
+      "published": "2026-06-06T19:17:19+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Bets duplicam faturamento no país e já recolhem impostos igual a tabaco e agricultura",
       "summary": "Desde que começou a operar de forma legal no país em janeiro de 2025, a indústria de bets e cassinos online cresce em faturamento, arrecadação de impostos, número de jogadores e de empresas -e deve ganhar um impulso extra com a Copa do Mundo Leia mais (06/06/2026 - 23h00)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/06/bets-duplicam-faturamento-no-pais-e-ja-recolhem-impostos-igual-a-tabaco-e-agricultura.shtml",
@@ -4686,6 +4686,52 @@
         {
           "sector": "Global Consumer",
           "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Roche fecha acordo de US$ 2,3 bilhões para remédio contra câncer",
+      "summary": "A Roche informou que firmou um acordo exclusivo de...",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/08/roche-fecha-acordo-de-us-23-bilhes-para-remdio-contra-cncer.ghtml",
+      "published": "2026-06-08T12:36:42+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "roche"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "roche",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Revolut alcanza medio millón de clientes en México a seis meses de lanzamiento - El Economista",
+      "summary": "Revolut alcanza medio millón de clientes en México a seis meses de lanzamiento &nbsp;&nbsp; El Economista",
+      "url": "https://www.eleconomista.com.mx/sectorfinanciero/revolut-alcanza-medio-millon-clientes-mexico-seis-meses-lanzamiento-20260608-817370.html",
+      "published": "2026-06-08T12:47:19+00:00",
+      "source": "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
           "field": "title",
           "score": 20,
           "topic": null
