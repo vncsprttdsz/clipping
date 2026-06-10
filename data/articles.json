@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T10:10:40.249554+00:00",
+  "generated_at": "2026-06-10T10:48:35.783395+00:00",
   "count": 219,
-  "new_this_run": 10,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Medicamentos como Ozempic e Mounjaro reduzem necessidade de cirurgia de joelho, mostra estudo",
@@ -1384,29 +1384,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "France fines Shein $26 million over consumer rule breaches; Shein to challenge - Reuters",
-      "summary": "France fines Shein $26 million over consumer rule breaches; Shein to challenge &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/france-fines-shein-22-million-shein-calls-fines-disproportionate-2026-06-03",
-      "published": "2026-06-03T10:21:37+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Na Copa da Casas Bahia, a defesa é o melhor ataque",
@@ -3931,6 +3908,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O entrave à entrada de farmácias em supermercados - Bloomberg Línea Brasil",
+      "summary": "O entrave à entrada de farmácias em supermercados &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/mercados/o-entrave-a-entrada-de-farmacias-em-supermercados",
+      "published": "2026-06-10T10:14:21+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
           "field": "title",
           "score": 20,
           "topic": null
