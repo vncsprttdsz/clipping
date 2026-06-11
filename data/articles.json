@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T09:02:49.778936+00:00",
-  "count": 215,
-  "new_this_run": 37,
+  "generated_at": "2026-06-11T09:43:28.287493+00:00",
+  "count": 218,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística",
@@ -711,6 +711,37 @@
       "score": 40.0
     },
     {
+      "title": "Guerra no Oriente Médio já encarece tênis no Brasil, diz CEO da Vulcabras, dona da Olympikus",
+      "summary": "Pedro Bartelle afirma que a alta do petróleo elevou o custo das matérias-primas e obrigou a companhia a reajustar preços de alguns modelos. Depois da virada impulsionada pelos tênis de corrida, a companhia busca manter a trajetória de crescimento em 2026",
+      "url": "https://exame.com/negocios/guerra-no-oriente-medio-ja-encarece-tenis-no-brasil-diz-ceo-da-vulcabras-dona-da-olympikus",
+      "published": "2026-06-11T06:01:37+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "olympikus",
+        "vulcabras"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "vulcabras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "olympikus",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "A fila das canetas emagrecedoras anda: Ávita Care deve ser a próxima a ter sua versão do Ozempic",
       "summary": "Após a aprovação do registro da caneta emagrecedora Ozivy, da EMS, em 26 de maio, primeira semaglutida que será fabricada no Brasil, os técnicos da Agência Nacional de Vigilância Sanitária (Anvisa) agora se debruçam para liberar o próximo pedido da lista, que é o da Ávita Care. Nos últimos dias, a empresa prestou os últimos [&#8230;] O post A fila das canetas emagrecedoras anda: Ávita Care deve ser a próxima a ter sua versão do Ozempic apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/a-fila-das-canetas-emagrecedoras-anda-avita-care-deve-ser-a-proxima-a-ter-sua-versao-do-ozempic",
@@ -1091,6 +1122,38 @@
         {
           "sector": "Economia",
           "alias": "consumo das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Temu e outras quatro empresas são convocadas por autoridades na China por suspeita de publicidade enganosa",
+      "summary": "Os gigantes chineses do comércio eletrônico Temu e JD.com estão entre as cinco plataformas convocadas pelas autoridades nesta quinta-feira para prestar esclarecimentos sobre suspeitas de publicidade enganosa, informou o órgão regulador do mercado de Pequim. Também foram chamados representantes da Pinduoduo, que pertence ao mesmo grupo controlador da Temu, além das redes sociais Douyin e RedNote, esta última conhecida como o \"Instagram chinês\". As reuniões, organizadas pela Administração Municipal de Regulação do Mercado de Pequim, ocorrem em um momento em que o governo chinês intensifica medidas contra a chamada concorrência do tipo \"involução\". O termo é usado na China para descrever uma disputa cada vez mais agressiva entre empresas que, apesar do aumento dos esforços e dos investimentos, não produz avanços efetivos e pode se tornar contraproducente para o mercado. Nos últimos meses, a campanha das autoridades contra esse tipo de prática já atingiu grandes empresas dos setores de comércio eletrônico, entrega de refeições e veículos elétricos. Segundo comunicado oficial, o órgão regulador identificou problemas envolvendo publicidade enganosa relacionada a eventos promocionais, regras irregulares e a ausência de informações claras sobre os comerciantes que atuam nas plataformas. As autoridades estabeleceram \"exigências de correção\" com o objetivo de prevenir e reduzir riscos durante o festival de compras online conhecido como \"6.18\", realizado neste mês e considerado um dos maiores da China. De acordo com o documento, algumas plataformas anunciaram campanhas com \"10 bilhões de yuans em subsídios\" — o equivalente a mais de US$ 1,4 bilhão — sem detalhar os valores efetivamente disponibilizados aos consumidores nem a duração real das promoções. A convocação ocorre em meio ao aumento da fiscalização sobre práticas comerciais adotadas pelas gigantes chinesas da tecnologia, especialmente durante períodos de grandes liquidações, quando empresas disputam consumidores com descontos agressivos e campanhas de marketing de grande alcance.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/11/temu-e-outras-quatro-empresas-sao-convocadas-por-autoridades-na-china-por-suspeita-de-publicidade-enganosa.ghtml",
+      "published": "2026-06-11T08:59:30+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "pinduoduo",
+        "temu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "temu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "pinduoduo",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -5352,6 +5415,29 @@
         {
           "sector": "E-commerce",
           "alias": "amazon",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "A Copa que vai mostrar a inteligência artificial fora do mundo virtual",
+      "summary": "Estadio Azteca, palco da primeira cerimônia de abertura da Copa do Mundo FIFA 2026 Getty Images Na Copa do Mundo de 2026, a bola não será apenas uma bola. Ela terá um sensor capaz de capturar dados de movimento em alta frequência e ajudar a arbitragem a identificar, com mais precisão, o momento exato em que um jogador toca nela. Não há um “robô dentro da bola”, como parte do imaginário popular pode sugerir. Há algo mais interessante: um dos objetos mais simples e simbólicos do esporte sendo transformado em fonte de dados em tempo real. Ao redor dela, o jogo também estará mais tecnológico. Sistemas de impedimento semiautomático, câmeras de rastreamento, avatares 3D de jogadores, visão do árbitro com estabilização por IA, plataformas de análise de desempenho e assistentes digitais para torcedores farão parte de uma experiência que mostra, de forma concreta, como a inteligência artificial saiu dos laboratórios, dos relatórios de tendência e das conversas especializadas para entrar no campo, na transmissão, na mobilidade, no turismo e na relação das pessoas com serviços. A Copa sempre foi uma vitrine do seu tempo. Em outras edições, vimos a televisão em cores, a evolução dos replays, a chegada do VAR e a transformação do futebol em um produto global de mídia. Em 2026, a vitrine será outra: a de um mundo em que quase tudo pode ser medido, interpretado e traduzido por sistemas inteligentes. Quando a bola gera dados, a câmera ajuda a explicar uma decisão e o torcedor usa um assistente virtual para chegar ao estádio, a inteligência artificial deixa de parecer distante e passa a fazer parte da engrenagem do cotidiano, atuando nos bastidores de experiências que as pessoas já vivem. Assim como a internet mudou a forma como acessamos informação, compramos, trabalhamos e nos relacionamos, a IA começa a mudar a forma como interpretamos dados, tomamos decisões, aprendemos, produzimos e resolvemos problemas. A diferença é que essa virada parece mais rápida, mais silenciosa e, em alguns casos, mais difícil de acompanhar. É por isso que a conversa sobre educação precisa mudar de patamar. Durante muito tempo, falar de tecnologia era falar de especialistas. Programadores, engenheiros, cientistas de dados, times de produto. Hoje, essa fronteira já não dá conta da realidade. A IA afeta jornalistas, médicos, advogados, profissionais de marketing, professores, gestores, empreendedores, atletas, servidores públicos e qualquer pessoa que dependa de informação para trabalhar melhor. A nova divisão não será entre quem trabalha com tecnologia e quem não trabalha. Será entre quem consegue atuar nesse novo ambiente e quem ainda olha para ele como algo distante. Há uma diferença enorme entre usar uma ferramenta de IA para ganhar produtividade e entender como essa ferramenta muda a lógica do trabalho. Uma coisa é pedir um texto, uma imagem ou uma análise. Outra é saber formular um problema, organizar dados, fazer perguntas melhores, validar respostas, automatizar processos, criar agentes, testar hipóteses e transformar tecnologia em solução real. Esse é o ponto que mais importa agora: a IA não exige que todos se tornem programadores, mas exige que mais pessoas desenvolvam fluência tecnológica. Fluência para usar, questionar, adaptar, criar e decidir melhor. A Copa de 2026 ajuda a tornar isso visível porque traduz um tema abstrato em imagens simples. Uma bola conectada. Uma decisão de impedimento reconstruída em 3D. Um assistente digital orientando visitantes. Um sistema de análise apoiando seleções. Tudo isso mostra que a IA não está chegando apenas para substituir tarefas. Ela está reorganizando a forma como a informação circula e vira ação. Essa é uma boa notícia quando olhamos para a disseminação do conhecimento. Tecnologias que antes estavam restritas a grandes empresas, seleções com estruturas robustas ou centros avançados de pesquisa começam a se tornar mais acessíveis. Uma equipe com menos recursos pode ter melhores dados. Um profissional pode aprender mais rápido. Uma pequena empresa pode automatizar processos que antes exigiam estruturas inteiras. Uma pessoa pode criar soluções que, até pouco tempo atrás, pareciam distantes da sua realidade. Mas o acesso, sozinho, não resolve. A ferramenta ficou mais acessível, mas transformar ferramenta em repertório, repertório em decisão e decisão em impacto continua dependendo de educação. É nesse ponto que muitas conversas sobre IA se perdem: tratam a tecnologia como mágica, quando ela deveria ser tratada como linguagem. E a linguagem se aprende. O momento pede menos medo e mais preparo. Menos deslumbramento e mais repertório. Menos discussão sobre se a IA vai mudar o mundo e mais atenção sobre como cada pessoa pode se posicionar melhor dentro dessa mudança. Porque a tecnologia vai avançar de qualquer forma. A diferença estará em quem consegue aprender com velocidade, adaptar habilidades e construir com as novas ferramentas. Em um mercado de trabalho cada vez mais atravessado por sistemas inteligentes, atualização deixou de ser uma vantagem pontual. Passou a ser condição para continuar participando das melhores oportunidades. Há cerca de uma década, a formação de talentos para a economia digital ainda parecia uma agenda restrita a alguns setores. Hoje, o desafio mudou de escala. Milhões de pessoas precisam aprender a criar com IA — produtos, agentes, sistemas, processos e soluções — e não apenas entender o conceito de forma superficial. A Copa de 2026 será lembrada por gols, seleções e momentos de emoção coletiva. Mas também pode ser lembrada como uma imagem muito clara da fase em que entramos: a tecnologia deixou de estar nos bastidores e passou a participar da experiência em tempo real. No futebol, isso pode significar decisões mais precisas. Na sociedade, pode significar acesso mais amplo à informação, serviços mais inteligentes e novas formas de aprender, produzir e trabalhar. Mas, para que essa transformação gere inclusão de verdade, não basta celebrar a inovação. É preciso formar pessoas para ela. A IA já está em campo. O próximo passo é garantir que mais pessoas tenham repertório para jogar. Leandro Herrera é fundador e CEO da Tera",
+      "url": "https://epocanegocios.globo.com/colunas/coluna/2026/06/a-copa-que-vai-mostrar-a-inteligencia-artificial-fora-do-mundo-virtual.ghtml",
+      "published": "2026-06-11T09:00:39+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
           "field": "body",
           "score": 2,
           "topic": null
