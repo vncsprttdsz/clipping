@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-11T12:04:17.199603+00:00",
+  "generated_at": "2026-06-11T12:46:10.811753+00:00",
   "count": 219,
-  "new_this_run": 7,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística",
@@ -750,6 +750,37 @@
       "score": 40.0
     },
     {
+      "title": "Some US employers to drop coverage of GLP-1 obesity drugs in 2027 as use increases - Reuters",
+      "summary": "Some US employers to drop coverage of GLP-1 obesity drugs in 2027 as use increases &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/legal/litigation/some-us-employers-drop-coverage-glp-1-obesity-drugs-2027-use-increases-2026-06-11",
+      "published": "2026-06-11T11:01:35+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "glp-1",
+        "obesity drugs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "obesity drugs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "A fila das canetas emagrecedoras anda: Ávita Care deve ser a próxima a ter sua versão do Ozempic",
       "summary": "Após a aprovação do registro da caneta emagrecedora Ozivy, da EMS, em 26 de maio, primeira semaglutida que será fabricada no Brasil, os técnicos da Agência Nacional de Vigilância Sanitária (Anvisa) agora se debruçam para liberar o próximo pedido da lista, que é o da Ávita Care. Nos últimos dias, a empresa prestou os últimos [&#8230;] O post A fila das canetas emagrecedoras anda: Ávita Care deve ser a próxima a ter sua versão do Ozempic apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/a-fila-das-canetas-emagrecedoras-anda-avita-care-deve-ser-a-proxima-a-ter-sua-versao-do-ozempic",
@@ -1286,52 +1317,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Revolut's co-founder to leave CTO role - Reuters",
-      "summary": "Revolut's co-founder to leave CTO role &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/finance/revoluts-co-founder-leave-cto-role-2026-06-04",
-      "published": "2026-06-04T12:04:35+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "revolut"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold gains as Middle East peace optimism pushes dollar, oil prices lower - Reuters",
-      "summary": "Gold gains as Middle East peace optimism pushes dollar, oil prices lower &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/gold-rises-softer-dollar-oil-markets-weigh-us-iran-peace-optimism-2026-06-04",
-      "published": "2026-06-04T12:07:51+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Nubank Anuncia Recompra de Ações no Valor de US$1 Bi",
@@ -3767,6 +3752,29 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Hugo Boss shares jump after Frasers' $2.3 billion takeover bid - Reuters",
+      "summary": "Hugo Boss shares jump after Frasers' $2.3 billion takeover bid &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/legal/transactional/hugo-boss-shares-jump-after-frasers-23-billion-takeover-bid-2026-06-11",
+      "published": "2026-06-11T07:41:25+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "hugo boss"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "hugo boss",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
