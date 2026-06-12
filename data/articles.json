@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T11:19:55.217670+00:00",
-  "count": 225,
-  "new_this_run": 2,
+  "generated_at": "2026-06-12T12:07:33.857265+00:00",
+  "count": 227,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística",
@@ -35,6 +35,46 @@
         {
           "sector": "E-commerce",
           "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Panvel reinventa marca própria de maquiagem e acelera expansão com 60 novas farmácias - Exame",
+      "summary": "Panvel reinventa marca própria de maquiagem e acelera expansão com 60 novas farmácias &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/negocios/panvel-reinventa-marca-propria-de-maquiagem-e-acelera-expansao-com-60-novas-farmacias",
+      "published": "2026-06-10T18:08:46+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias",
+        "maquiagem",
+        "panvel"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "panvel",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1283,6 +1323,37 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "LVMH, Kering e Hermès sobem com perspectiva de cessar-fogo entre EUA e Irã",
+      "summary": "Acordo inclui reabertura do Estreito de Ormuz e levantamento de sanções, impulsionando LVMH, Hermès, Kering, Richemont e Burberry",
+      "url": "https://exame.com/invest/mercados/lvmh-kering-e-hermes-sobem-com-perspectiva-de-cessar-fogo-entre-eua-e-ira",
+      "published": "2026-06-12T08:25:44+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "kering",
+        "richemont"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "kering",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "richemont",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 28.0
