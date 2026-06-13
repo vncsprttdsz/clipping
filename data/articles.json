@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-12T12:37:33.690055+00:00",
-  "count": 228,
-  "new_this_run": 4,
+  "generated_at": "2026-06-13T08:13:48.177797+00:00",
+  "count": 242,
+  "new_this_run": 35,
   "articles": [
     {
       "title": "União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística",
@@ -81,6 +81,139 @@
         }
       ],
       "score": 60.0
+    },
+    {
+      "title": "Rolex sobe novamente preços dos relógios de ouro com consumo resiliente dos ‘super-ricos’",
+      "summary": "A Rolex aumentou o preço global de seus relógios d...",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/12/rolex-sobe-novamente-precos-dos-relogios-de-ouro-com-consumo-resiliente-dos-super-ricos.ghtml",
+      "published": "2026-06-12T17:53:15+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Joias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ouro",
+        "rolex"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "rolex",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Joias",
+          "alias": "ouro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "rolex",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Rolex raises gold watch prices again as super-rich buyers are undeterred - Reuters",
+      "summary": "Rolex raises gold watch prices again as super-rich buyers are undeterred &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/rolex-raises-gold-watch-prices-again-super-rich-buyers-are-undeterred-2026-06-12",
+      "published": "2026-06-12T23:28:57+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Joias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold",
+        "rolex"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "rolex",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "rolex",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
+      "summary": "A aprovação pela Agência Nacional de Vigilância Sanitária (Anvisa) do registro da primeira semaglutida nacional, no fim de maio, que será produzida pela EMS, acirrou a guerra pela queda do preço das canetas emagrecedoras no mercado brasileiro. Agora, a líder do mercado, a americana Eli Lilly, dona do Mounjaro, caneta análoga ao GLP-1 à base [&#8230;] O post Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/dona-do-mounjaro-corta-precos-e-acirra-a-disputa-das-canetas-emagrecedoras-no-brasil",
+      "published": "2026-06-12T22:03:39+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "eli lilly",
+        "ems",
+        "glp-1",
+        "mounjaro",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "eli lilly",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 52.0
     },
     {
       "title": "Fim da escala 6x1: planejamento tributário pode mitigar parte dos impactos da redução de jornada",
@@ -167,68 +300,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "TikTok Shop cresce 102 vezes em um ano e acelera compras por vídeo no Brasil",
-      "summary": "Plataforma de e-commerce do TikTok registrou alta de 102 vezes no volume de vendas em seu primeiro ano no país, impulsionada por lives, criadores de conteúdo e pelo modelo de compra por descoberta",
-      "url": "https://exame.com/negocios/tiktok-shop-cresce-102-vezes-em-um-ano-e-acelera-compras-por-video-no-brasil",
-      "published": "2026-06-05T19:12:18+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "tiktok",
-        "tiktok shop"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok shop",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Como a Nabis Se Tornou o Amazon Prime da Indústria da Cannabis",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Ex-engenheiros da Meta e da Microsoft transformaram a empresa na maior distribuidora de maconha dos Estados Unidos, movimentando bilhões em mercadorias e expandindo a atuação para novos estados O post Como a Nabis Se Tornou o Amazon Prime da Indústria da Cannabis apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-agro/2026/06/como-a-nabis-se-tornou-o-amazon-prime-da-industria-da-cannabis",
-      "published": "2026-06-06T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Cimed investe R$ 200 milhões para levar os torcedores da Copa às farmácias",
@@ -782,6 +853,99 @@
         {
           "sector": "Wellness e Esportes",
           "alias": "adidas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Área técnica do Cade aprova venda de fatia na Stix Fidelidade para Raia Drogasil",
+      "summary": "A Superintendência Geral do Conselho Administrativ...",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/12/rea-tcnica-do-cade-aprova-venda-de-fatia-na-stix-fidelidade-para-raia-drogasil.ghtml",
+      "published": "2026-06-12T16:30:23+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "drogasil",
+        "raia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "raia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "drogasil",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Estrutura do vídeo impulsiona vendas no TikTok Shop",
+      "summary": "Funcionalidade que permite a venda de diferentes t...",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/12/estrutura-do-video-impulsiona-vendas-no-tiktok-shop-1.ghtml",
+      "published": "2026-06-12T16:52:05+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "tiktok",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "C6 Bank é elevado pelo BC para categoria que reúne Nubank, XP e Safra",
+      "summary": "O C6 Bank afirmou que foi promovido pelo Banco Cen...",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/12/c6-bank-e-elevado-pelo-bc-para-categoria-que-reune-nubank-xp-e-safra.ghtml",
+      "published": "2026-06-12T22:42:33+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "c6",
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "c6",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1506,282 +1670,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Cofundador e diretor de tecnologia da fintech Revolut deixará o cargo",
-      "summary": "Vlad Yatsenko, diretor de tecnologia da Revolut e...",
-      "url": "https://valor.globo.com/financas/noticia/2026/06/05/cofundador-e-diretor-de-tecnologia-da-fintech-revolut-deixara-o-cargo.ghtml",
-      "published": "2026-06-05T13:06:28+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "revolut"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Primeiro funcionário da Revolut deixará cargo de CTO e assumirá assento no conselho - Bloomberg Línea Brasil",
-      "summary": "Primeiro funcionário da Revolut deixará cargo de CTO e assumirá assento no conselho &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/tech/primeiro-funcionario-da-revolut-deixara-cargo-de-cto-e-assumira-assento-no-conselho",
-      "published": "2026-06-05T13:28:19+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "revolut"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Citi eleva recomendação da Magalu para neutra, mas mantém classificação de alto risco - Bloomberg Línea Brasil",
-      "summary": "Citi eleva recomendação da Magalu para neutra, mas mantém classificação de alto risco &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/citi-eleva-recomendacao-da-magalu-para-neutra-mas-mantem-classificacao-de-alto-risco",
-      "published": "2026-06-05T16:05:35+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "magalu"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "magalu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Skincare em pele negra exige cuidados especiais",
-      "summary": "A pele negra apresenta características próprias qu...",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/05/skincare-em-pele-negra-exige-cuidados-especiais-1.ghtml",
-      "published": "2026-06-05T16:16:11+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "O investimento da Roche em esclerose múltipla no Brasil",
-      "summary": "Farmacêutica destinou R$ 190 milhões a pesquisas",
-      "url": "https://veja.abril.com.br/coluna/radar-economico/o-investimento-da-roche-em-esclerose-multipla-no-brasil",
-      "published": "2026-06-05T16:51:44+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "roche"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "roche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Copa do Mundo impulsiona contratações nos EUA e cria 70 mil vagas em hotelaria e alimentação",
-      "summary": "Setor de hospitalidade liderou a geração de empregos em maio, à medida que empresas se preparam para receber milhões de turistas durante o Mundial de 2026",
-      "url": "https://veja.abril.com.br/economia/copa-do-mundo-impulsiona-contratacoes-nos-eua-e-cria-70-mil-vagas-em-hotelaria-e-alimentacao",
-      "published": "2026-06-05T16:53:40+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "hotelaria"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "hotelaria",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Fundador do Nubank entra em lista da ‘Forbes’ ao lado de Buffett e Musk como ‘líder que muda o jogo’",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/fundador-nubank-lista-forbes-buffett-musk-lider-muda-jogo",
-      "published": "2026-06-05T16:57:47+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Camisa da Seleção impulsiona vendas online e ajuda e-commerce a faturar R$ 1,2 bilhão",
-      "summary": "Às vésperas da Copa do Mundo de 2026, lançamento do novo uniforme do Brasil elevou em mais de 80% as vendas de camisas de futebol",
-      "url": "https://veja.abril.com.br/economia/camisa-da-selecao-impulsiona-vendas-online-e-ajuda-e-commerce-a-faturar-r-12-bilhao",
-      "published": "2026-06-05T18:26:54+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "vendas online"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "vendas online",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "CNP anuncia parceria com Casas Bahia Pay para oferta de seguro prestamista",
-      "summary": "A seguradora francesa CNP firmou parceria com a Ca...",
-      "url": "https://valor.globo.com/financas/noticia/2026/06/05/cnp-anuncia-parceria-com-casas-bahia-pay-para-oferta-de-seguro-prestamista.ghtml",
-      "published": "2026-06-05T19:21:58+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Fundador do Nubank entra em lista da Forbes com líderes disruptivos; Elon Musk e Sam Altman também são citados",
-      "summary": "Empresário colombiano é reconhecido por apostar em banco digital contra filas em agências e captar 135 milhões de clientes",
-      "url": "https://veja.abril.com.br/economia/fundador-do-nubank-entra-em-lista-da-forbes-com-lideres-disruptivos-elon-musk-e-sam-altman-tambem-sao-citados",
-      "published": "2026-06-05T20:49:29+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bets, Cassinos Online e o Vício em Jogos: Uma Crise Silenciosa de Saúde Mental em Expansão - O Globo",
-      "summary": "Bets, Cassinos Online e o Vício em Jogos: Uma Crise Silenciosa de Saúde Mental em Expansão &nbsp;&nbsp; O Globo",
-      "url": "https://oglobo.globo.com/patrocinado/pulse-brand/noticia/2026/06/05/bets-cassinos-online-e-o-vicio-em-jogos-uma-crise-silenciosa-de-saude-mental-em-expansao-1.ghtml",
-      "published": "2026-06-05T23:03:34+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "A canetinha tem seus favoritos? Cientistas descobrem por que Ozempic pode não funcionar para algumas pessoas; entenda - O Globo",
-      "summary": "A canetinha tem seus favoritos? Cientistas descobrem por que Ozempic pode não funcionar para algumas pessoas; entenda &nbsp;&nbsp; O Globo",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/06/06/a-canetinha-tem-seus-favoritos-cientistas-descobrem-por-que-ozempic-pode-nao-funcionar-para-algumas-pessoas-entenda.ghtml",
-      "published": "2026-06-06T07:01:38+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Qué promociones hay este sábado 6 de junio en un importante supermercado y cómo aprovecharlas",
@@ -3348,29 +3236,6 @@
       "score": 20.0
     },
     {
-      "title": "Lula sinaliza a auxiliares que deve receber Alcolumbre e discutir fim escala 6x1",
-      "summary": "O presidente Lula sinalizou a auxiliares que deve atender ao pedido do presidente do Senado, Davi Alcolumbre (União Brasil-AP), e recebê-lo para conversar. Entre os temas está a proposta de emenda à Constituição (PEC) do fim da jornada 6x1, prioridade do Palácio do Planalto para as eleições, mas certamente outros tópicos entrarão no cardápio. A relação entre Planalto e Senado se deteriorou depois da articulação feita pelo senador para derrubar a indicação de Jorge Messias ao Supremo Tribunal Federal (STF), impondo derrota histórica ao governo Lula. O presidente não tem escondido de aliados o descontentamento com Alcolumbre. A despeito do incômodo generalizado com a atuação de Alcolumbre no episódio Messias e de outras estocadas no governo, como travar projetos como o do Redata (incentivo para o setor de data centers, uma importante fronteira de novos investimentos), há diferenças de visão sobre como lidar com o chefe do Congresso. Uma ala do governo aposta em buscar reabrir o diálogo e tentar reconstruir a ponte entre os dois chefes de Poderes, sob o argumento de que é preciso dar andamento à agenda governista, além de evitar ruídos com o Congresso em ano eleitoral. Outra ala, no entanto, entende que Lula não deveria receber Alcolumbre em um contexto no qual o senador estaria colocando “a faca no pescoço” do governo para tentar arrancar concessões em um momento mais delicado politicamente para ele em seu estado, o Amapá. Esses aliados, da ala considerada mais política, dizem que é preciso entender como se daria essa aproximação, de forma a não mostrar o petista cedendo à pressão do senador. A falta de uma data concreta para o encontro entre as duas autoridades parece derivar desse conflito sobre qual seria a melhor estratégia para o Planalto. Em meio às discussões, a melhora de Lula nas pesquisas eleitorais e também de aprovação do governo, em um contexto de baixa em seu estados, são apontados por alguns interlocutores do governo como fatores que podem forçar Alcolumbre a baixar mais a guarda e tentar acelerar um processo de reaproximação com o governo. Por enquanto, contudo, para além de um pedido para encontrar o presidente, o chefe dos senadores não fez nada de concreto mais relevante para mostrar uma bandeira branca ao Planalto, na avaliação de governistas. A mais recente canelada, a despeito de justificada por uma pressão exacerbada da bancada ruralista, foi a aprovação do projeto de renegociação de dívidas do agro, mesmo com os fortes apelos da equipe econômica para que o tema não fosse levado à votação.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/10/lula-sinaliza-a-auxiliares-que-deve-receber-alcolumbre-e-discutir-fim-escala-6x1.ghtml",
-      "published": "2026-06-11T01:14:27+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "SP cria cadastro positivo para incentivar pagamento de dívidas tributárias por empresas",
       "summary": "O governo de São Paulo vai lançar uma ferramenta para reforçar a cobrança da dívida ativa, o Cadastro Fiscal Positivo. As empresas que estiverem na lista terão incentivos para manter o pagamento em dia de valores que já foram alvo de negociação com o estado, oferecer garantias de pagamento das parcelas restantes e encerrar discussões sobre outras cobranças. Leia mais (06/10/2026 - 23h00)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/06/sp-cria-cadastro-positivo-para-incentivar-pagamento-de-dividas-tributarias-por-empresas.shtml",
@@ -3389,29 +3254,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Direita subestimou trabalhador sobre escala 6x1",
-      "summary": "Sensível ao termômetro das redes sociais , o senador Cleitinho (Republicanos-MG) percebeu rapidamente a cilada que é a PEC que autoriza a contratação por hora trabalhada , apresentada pelos bolsonaristas em reação ao fim da escala 6x1 . Leia mais (06/10/2026 - 23h00)",
-      "url": "https://www1.folha.uol.com.br/opiniao/2026/06/direita-subestimou-trabalhador-sobre-escala-6x1.shtml",
-      "published": "2026-06-11T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -3969,6 +3811,420 @@
       "score": 20.0
     },
     {
+      "title": "Família Birman contrata BTG para tentar pôr fim à crise societária no grupo Azzas - O Globo",
+      "summary": "Família Birman contrata BTG para tentar pôr fim à crise societária no grupo Azzas &nbsp;&nbsp; O Globo",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/06/familia-birman-contrata-btg-para-tentar-por-fim-a-crise-societaria-no-grupo-azzas.ghtml",
+      "published": "2026-06-12T10:24:08+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Juiz suspende auto de infração contra o iFood e afasta vínculo com entregadores",
+      "summary": "Autos suspensos pelo magistrado exigiam o reconhecimento de vínculo de emprego com mais de 9 mil usuários da plataforma",
+      "url": "https://www.jota.info/trabalho/juiz-suspende-auto-de-infracao-contra-o-ifood-e-afasta-vinculo-com-entregadores",
+      "published": "2026-06-12T13:31:03+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Hugo Motta inclui PL enviado pelo governo para fim da escala 6x1 na pauta do plenário da Câmara",
+      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (...",
+      "url": "https://valor.globo.com/politica/noticia/2026/06/12/hugo-motta-inclui-pl-enviado-pelo-governo-para-fim-da-escala-6x1-na-pauta-do-plenario-da-camara.ghtml",
+      "published": "2026-06-12T14:56:18+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank envia mensagem falsa sobre encerramento do banco digital e preocupa clientes",
+      "summary": "Por volta do meio-dia desta sexta-feira (12), clientes do Nubank receberam mensagens no telefone celular que diziam que o banco digital tinha sido encerrado. Outra parcela dos depositantes foi alertada por email de que o BC (Banco Central) tinha decretado a liquidação extrajudicial do Nubank. As notificações ainda informavam que o FGC (Fundo Garantidor de Créditos) cobriria investimentos de até R$ 250 mil. Todas as notícias, porém, eram inverídicas, mesmo tendo partido de dentro do banco. Leia mais (06/12/2026 - 12h46)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/nubank-nega-encerramento-depois-que-clientes-recebem-notificacao-sobre-fechamento.shtml",
+      "published": "2026-06-12T15:46:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Clientes do Nubank são surpreendidos com falsa mensagem de liquidação extrajudicial",
+      "summary": "Usuários do Nubank estão relatando problemas no ap...",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/12/clientes-do-nubank-relatam-mensagens-suspeitas-no-app-e-e-mail.ghtml",
+      "published": "2026-06-12T15:51:41+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Primeiro trilionário da história: fortuna de Musk supera patrimônio somado do fundador da Amazon e criadores do Google",
+      "summary": "Elon Musk se tornou nesta sexta-feira o primeiro trilionário da história. Impulsionada pela estreia das ações da SpaceX na Bolsa de Nova York, sua fortuna alcançou cerca de US$ 1,05 trilhão, segundo o Índice de Bilionários da Bloomberg, valor superior à soma dos patrimônios de Jeff Bezos, fundador da Amazon, e dos cofundadores do Google, Larry Page e Sergey Brin, cerca de US$ 849 bilhões . Os papéis da SpaceX abriram o primeiro dia de negociações cotados a US$ 150, alta de 11% em relação ao preço definido na oferta pública inicial (IPO). Com isso, a empresa fundada por Musk passou a valer aproximadamente US$ 2 trilhões, consolidando-se entre as companhias mais valiosas do mundo. A riqueza de Musk agora supera em mais de três vezes a do segundo colocado no ranking global, o cofundador do Google, Larry Page. O avanço reforça uma trajetória que transformou o empresário sul-africano, de 54 anos, em uma das figuras mais influentes e controversas do mundo dos negócios. Há menos de uma década, a Bloomberg registrava pela primeira vez uma fortuna superior a US$ 100 bilhões. Musk ultrapassou essa marca em 2020 e, desde então, ampliou sua liderança graças à valorização da Tesla e, mais recentemente, ao crescimento acelerado da SpaceX. A companhia espacial, criada em 2002, tornou-se líder global no mercado de lançamentos orbitais e expandiu sua atuação com o serviço de internet via satélite Starlink. Avaliada em cerca de US$ 100 bilhões em 2021, a empresa viu seu valor disparar nos últimos anos, impulsionado pelo interesse de investidores em negócios ligados à inteligência artificial e infraestrutura espacial. O IPO da SpaceX, que levantou US$ 75 bilhões e se tornou o maior da história, foi decisivo para o salto patrimonial de Musk. A participação do empresário no grupo responde por mais de 70% de sua fortuna. Apesar do patrimônio trilionário, grande parte da riqueza de Musk permanece concentrada em participações acionárias. Segundo a Bloomberg, a maior parcela de seus ativos está vinculada às empresas que controla, incluindo SpaceX, Tesla, X e xAI. A ascensão ao posto de primeiro trilionário ocorre após anos marcados por controvérsias. Musk enfrentou críticas pela compra do Twitter, posteriormente rebatizado de X, disputas judiciais relacionadas à sua remuneração na Tesla e questionamentos sobre seu envolvimento político nos Estados Unidos. Ainda assim, o empresário conseguiu preservar e ampliar seu patrimônio à medida que investidores mantiveram apostas em seus projetos de inteligência artificial, robótica e exploração espacial. O patrimônio de US$ 1 trilhão equivale aproximadamente ao Produto Interno Bruto (PIB) anual da Suíça, ilustrando a dimensão inédita da fortuna acumulada por Musk. (com Bloomberg)",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/musk-se-torna-o-primeiro-trilionario-da-historia-apos-estreia-da-spacex-na-bolsa-americana.ghtml",
+      "published": "2026-06-12T16:02:31+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Banco Central: 'não procede a informação sobre liquidação extrajudicial do Nubank'",
+      "summary": "Após alguns clientes do Nubank terem recebido, na manhã desta sexta-feira, notificações e email informando que o banco estaria passando por uma “liquidação extrajudicial”, a instituição financeira divulgou nota atribuindo as mensagens a um “erro operacional pontual, já identificado e solucionado”. Histórico: Banco Central Europeu eleva juros pela primeira vez em quase três anos diante da pressão inflacionária 'Dinheiro esquecido': sistema tem R$ 10,3 bilhões disponíveis para resgate; veja como consultar Em nota, o Banco Central também esclareceu que “não procede a informação” de que o BC decretou a liquidação extrajudicial do Nubank. O banco, por sua vez, disse que as mensagens indevidas foram enviadas a \"uma parcela de sua base de clientes\": “A instituição permanece com todas as suas licenças ativas e sem qualquer impacto para sua operação, que segue com segurança e estabilidade. Pedimos desculpas aos nossos clientes pelo ocorrido e reforçamos nosso compromisso em manter a qualidade dos serviços prestados e a transparência na relação com todos\", afirma a nota do Nubank. Os clientes receberam mensagens afirmando que o banco teria passado por uma liquidação extrajudicial pelo BC. O texto afirmava ainda que investimentos na instituição seriam cobertos pelo Fundo Garantidor de Crédito (FGC). Banco envia notificação sobre liquidação extra judicial aos clientes Reprodrução/X: @Aldb26 Em uma das notificações compartilhadas por clientes em redes sociais, o texto afirmava o seguinte: \"Aviso importante: NUBANK. Este emissor teve suas atividades encerradas pelo Banco Central. Sua custódia aqui no Nubank será ajustada quando você receber a cobertura do FGC. Entenda como solicitar o FGC\". Alerta falso do Nubank assusta clientes ao citar recuperação extrajudicial em mensagem Rperodução/X: @LontraDaBahia",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/06/12/banco-central-nao-procede-a-informacao-sobre-liquidacao-extrajudicial-do-nubank.ghtml",
+      "published": "2026-06-12T16:13:33+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Trafigura, de Cingapura, entra no mercado livre de eletricidade do Brasil",
+      "summary": "A Trafigura recebeu da Agência Nacional de Energia...",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/12/trafigura-de-cingapura-entra-no-mercado-livre-de-eletricidade-do-brasil.ghtml",
+      "published": "2026-06-12T16:24:02+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "TCU recebe denúncia e vai analisar uso de recursos esquecidos nos bancos no novo Desenrola",
+      "summary": "O Tribunal de Contas da União (TCU) recebeu uma de...",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/12/tcu-recebe-denncia-e-vai-analisar-uso-de-recursos-esquecidos-no-novo-desenrola.ghtml",
+      "published": "2026-06-12T16:26:07+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "title",
+          "score": 20,
+          "topic": "desenrola"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Veja o que diz o Nubank após enviar e-mail sobre liquidação extrajudicial",
+      "summary": "Em nota, o Nubank confirmou o envio do comunicado, mas informou que se tratou de um erro operacional",
+      "url": "https://veja.abril.com.br/economia/nubank-quebrou-veja-o-que-diz-o-banco-apos-e-mail-sobre-liquidacao-extrajudicial",
+      "published": "2026-06-12T16:55:16+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fim da escala 6x1 demanda planejamento das empresas",
+      "summary": "A Câmara dos Deputados aprovou, no dia 27 de maio,...",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/12/fim-da-escala-6x1-demanda-planejamento-das-empresas-1.ghtml",
+      "published": "2026-06-12T17:30:12+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank investiga falso aviso de liquidação extrajudicial enviado a clientes - Bloomberg Línea Brasil",
+      "summary": "Nubank investiga falso aviso de liquidação extrajudicial enviado a clientes &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/2026/06/12/nubank-investiga-falso-aviso-de-liquidacao-extrajudicial-enviado-a-clientes",
+      "published": "2026-06-12T18:31:57+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank envia mensagens sobre liquidação a clientes e diz ter havido erro operacional",
+      "summary": "Banco Central confirmou que não procede a informação de que o regulador decretou a liquidação extrajudicial do banco",
+      "url": "https://www.jota.info/tributos-e-empresas/mercado/nubank-envia-mensagens-sobre-liquidacao-a-clientes-e-diz-ter-havido-erro-operacional",
+      "published": "2026-06-12T18:32:44+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Liquidação Extrajudicial: Nubank esclarece erro operacional",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O banco digital enviou um e-mail informando que o BC teria liquidado extrajudicialmente a instituição financeira O post Liquidação Extrajudicial: Nubank esclarece erro operacional apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/06/liquidacao-extrajudicial-o-que-aconteceu-com-o-nubank",
+      "published": "2026-06-12T19:10:08+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Banco Central: 'Não procede a informação sobre liquidação extrajudicial do Nubank'. \"Foi um erro operacional pontual\", diz empresa",
+      "summary": "Prédio do Nubank — Foto: Divulgação Divulgação Após alguns clientes do Nubank terem recebido, na manhã desta sexta-feira, notificações e e-mails informando que o banco estaria passando por uma “liquidação extrajudicial”, a instituição financeira divulgou nota atribuindo as mensagens a um “erro operacional pontual, já identificado e solucionado”. Em nota, o Banco Central também esclareceu que “não procede a informação” de que o BC decretou a liquidação extrajudicial do Nubank. O banco, por sua vez, disse que as mensagens indevidas foram enviadas a \"uma parcela de sua base de clientes\": “A instituição permanece com todas as suas licenças ativas e sem qualquer impacto para sua operação, que segue com segurança e estabilidade. Pedimos desculpas aos nossos clientes pelo ocorrido e reforçamos nosso compromisso em manter a qualidade dos serviços prestados e a transparência na relação com todos\", afirma a nota do Nubank. Os clientes receberam mensagens afirmando que o banco teria passado por uma liquidação extrajudicial pelo BC. O texto afirmava ainda que investimentos na instituição seriam cobertos pelo Fundo Garantidor de Crédito (FGC). Clientes receberam notificação sobre liquidação extra judicial do Nubank Reprodrução/X: @Aldb26 Em uma das notificações compartilhadas por clientes em redes sociais, o texto afirmava o seguinte: \"Aviso importante: NUBANK. Este emissor teve suas atividades encerradas pelo Banco Central. Sua custódia aqui no Nubank será ajustada quando você receber a cobertura do FGC. Entenda como solicitar o FGC\". Alerta falso do Nubank assusta clientes ao citar recuperação extrajudicial em mensagem Reprodução/@LontraDaBahia",
+      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/06/banco-central-nao-procede-a-informacao-sobre-liquidacao-extrajudicial-do-nubank.ghtml",
+      "published": "2026-06-12T20:29:41+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Especialistas em cibersegurança tentam entender falha do Nubank que gerou mensagem falsa",
+      "summary": "Especialistas em cibersegurança ainda estão tentan...",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/12/especialistas-em-cibersegurana-tentam-entender-falha-do-nubank-que-gerou-mensagem-falsa.ghtml",
+      "published": "2026-06-12T21:33:18+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Morre Alberone Júnior, aos 48 anos, o rei do crossfit - VEJA",
+      "summary": "Morre Alberone Júnior, aos 48 anos, o rei do crossfit &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/esporte/morre-alberone-junior-aos-48-anos-o-rei-do-crossfit",
+      "published": "2026-06-12T21:46:41+00:00",
+      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "crossfit"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "crossfit",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mercado Pago realiza primeira venda de carteira inadimplida",
+      "summary": "A DebitumX concluiu com êxito o processo competiti...",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/12/mercado-pago-realiza-primeira-venda-de-carteira-inadimplida-1.ghtml",
+      "published": "2026-06-12T22:01:57+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Tênis de 'Kill Bill' é sucesso em vendas e Onitsuka Tiger terá operação própria",
       "summary": "A Asics fará a cisão da Onitsuka Tiger, a marca japonesa de calçados de 77 anos que vem experimentando uma retomada de popularidade em meio ao boom do turismo e ao crescente interesse global por tênis de estilo retrô. Empresas já entram em campo para Copa: Publicidade deve movimentar R$ 4,6 bi só nos EUA Liderança global: Zara supera Nike e se torna a marca de moda mais valiosa do mundo pela primeira vez O conselho de administração da Asics aprovou um plano para transferir o negócio da Onitsuka Tiger —tênis que fez sucesso na telona nos pés da atriz Uma Thurman, em \"Kill Bill\", de Quentin Tarantino —para a OT Group, uma subsidiária integral, por meio de uma cisão societária do tipo incorporação. A conclusão da operação está prevista para 1º de janeiro de 2027, informou a fabricante japonesa de artigos esportivos nesta quarta-feira. A empresa também planeja separar o negócio da Onitsuka Tiger em suas subsidiárias regionais e consolidar essas operações sob a OT Group. A Asics afirmou que não está considerando uma oferta pública inicial de ações (IPO) para a unidade. A marca prevê que suas vendas anuais alcancem eventualmente ¥200 bilhões (US$ 1,3 bilhão), disse o diretor-presidente (CEO) da OT GROUP, Ryoji Shoda, durante uma coletiva de imprensa em Tóquio. As vendas líquidas da Onitsuka Tiger no primeiro trimestre aumentaram 34% em relação ao mesmo período do ano anterior, atingindo ¥ 37,8 bilhões. Ryoji Shoda (à esquerda) e Yasuhito Hirota, CEo da Asics, durante coletiva concedida em Tóquio, nesta quinta-feira Kiyoshi Ota/Bloomberg Segundo a Asics, a transição da Onitsuka Tiger para uma estrutura operacional mais independente permitirá uma tomada de decisões mais rápida. A marca também planeja utilizar inteligência artificial em funções de gestão, incluindo análise de grandes volumes de dados e operações rotineiras. Copa do Mundo: Chineses faturam alto com 'cabra' de Messi às vésperas do Mundial nos EUA O CEO da Asics, Yasuhito Hirota, afirmou que a reestruturação foi concebida para acelerar o crescimento da Onitsuka Tiger, ao mesmo tempo em que aumenta o valor de todo o grupo Asics. — Essa cisão não é apenas uma reorganização corporativa — disse ele. Quais são as profissões mais bem pagas no Brasil? Ranking interativo revela ganhos com salário, bônus e verbas extras Popularizada inicialmente pela atriz Uma Thurman nos filmes 'Kill Bill', a Onitsuka Tiger começou como uma marca de calçados esportivos e posteriormente se tornou uma referência de moda sob o comando da Asics. Tênis da marca Onitsuka Tiger se tornou popular ao ser usado pela atriz Popularizada inicialmente pela atriz Uma Thurman nos filmes 'Kill Bill', do diretor Quentin Tarantino Divulgação Embora a marca tenha fechado suas lojas de varejo nos Estados Unidos em 2023 para melhorar a rentabilidade, a Onitsuka anunciou que retornará ao mercado americano com a inauguração de uma loja em Los Angeles em fevereiro de 2027. A empresa também anunciou futuras aberturas de lojas em regiões como Xangai, Milão e Seul. As ações da Asics chegaram a cair até 2% nesta quarta-feira. Ainda assim, acumulam valorização de aproximadamente 17% em 2026 até o momento.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/11/tenis-de-kill-bill-e-sucesso-em-vendas-e-onitsuka-tiger-tera-operacao-propria.ghtml",
@@ -4063,6 +4319,37 @@
         {
           "sector": "Wellness e Esportes",
           "alias": "adidas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "Esqueça as seleções, marketing desta Copa é sobre ídolos",
+      "summary": "A “kardashianização” do marketing de artigos esportivos, em que o poder das estrelas individuais se sobrepõe às lealdades a clubes ou seleções, está em plena exibição enquanto gigantes do setor Nike e Adidas disputam a dominância na Copa do Mundo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/12/copa-do-mundo-acirra-disputa-entre-nike-e-adidas-na-corrida-bilionaria-do-marketing-esportivo.ghtml",
+      "published": "2026-06-12T15:07:12+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "artigos esportivos",
+        "nike"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "artigos esportivos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -4241,75 +4528,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "O grande negócio de encontrar dinheiro escondido em processos, heranças e falências",
-      "summary": "Quando a Allied Tecnologia anunciou ao mercado que havia vendido a um fundo gerido pelo Itaú os direitos sobre um crédito tributário, a operação passou quase despercebida fora dos círculos especializados. Mas o que estava por trás da decisão da empresa liderada por Silvio Stagni ajuda a explicar o surgimento de uma indústria que cresce [&#8230;] O post O grande negócio de encontrar dinheiro escondido em processos, heranças e falências apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/insiders/o-grande-negocio-de-encontrar-dinheiro-escondido-em-processos-herancas-e-falencias",
-      "published": "2026-06-05T14:30:01+00:00",
-      "source": "https://neofeed.com.br/feed/",
-      "matched_sectors": [
-        "Eletrônicos"
-      ],
-      "matched_aliases": [
-        "allied"
-      ],
-      "matches": [
-        {
-          "sector": "Eletrônicos",
-          "alias": "allied",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Família de apostador compulsivo diz que empresa estimulou vício com promoções e busca indenização",
-      "summary": "A família de um apostador compulsivo acusa a empresa Betfair de usar ferramentas para mantê-lo viciado em bets, o que teria contribuído para seu suicídio, argumentaram advogados em um julgamento histórico que está sendo realizado em Londres. Leia mais (06/05/2026 - 11h54)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/06/familia-de-apostador-compulsivo-diz-que-empresa-estimulou-vicio-com-promocoes-e-busca-indenizacao.shtml",
-      "published": "2026-06-05T14:54:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Receita com Exportação de Frango do Brasil Supera Us$1 Bi Ao Mês Pela 1ª Vez, Diz ABPA",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O total registrado para todos os produtos (in natura e processados) somou US$1,009 bilhão O post Receita com Exportação de Frango do Brasil Supera Us$1 Bi Ao Mês Pela 1ª Vez, Diz ABPA apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-agro/2026/06/receita-com-exportacao-de-frango-do-brasil-supera-us1-bi-ao-mes-pela-1a-vez-diz-abpa",
-      "published": "2026-06-05T15:23:22+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "natura"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Total de empresas inadimplentes cresce 1,5 milhão em um ano no Brasil, aponta Serasa",
@@ -4887,6 +5105,29 @@
       "score": 8.0
     },
     {
+      "title": "Linha de crédito para entregadores deve ter carência de dois meses para início de pagamento",
+      "summary": "O governo dará dois meses de carência para que os entregadores comecem a pagar o financiamento de motocicletas, nova linha o que o presidente Luiz Inácio Lula da Silva vai lançar nesta sexta-feira, de olho nesse público no ano eleitoral. Para ter acesso ao crédito é preciso que esses trabalhadores prestem serviço para as plataformas, como iFood, pelo menos nos últimos seis meses. Combustíveis: Governo deve aprovar aumento de etanol na gasolina de 30% para 32%, diz Silveira Sem impedimento: Aneel confirma resultado de leilão de 'reserva' de energia Segundo técnicos do governo a par das discussões, a taxa de juros do financiamento será de 12,5% ao ano e cada trabalhador poderá tomar até R$ 20 mil emprestados. O volume total da linha ficará próximo a R$ 4 bilhões. Liberação da pauta: Motta pede ao governo para retirar urgência de projeto sobre o fim da escala 6x1, após Câmara aprovar PEC A expectativa é que possam ser financiadas motos de até 200 cilindradas e elétricas, fabricadas por empresas nacionais e estrangeiras. O governo avalia beneficiar trabalhadores autônomos e trabalhadores com carteira assinada. Dario Durigan: 'PEC das Igrejas' aprovada pela Câmara vai elevar alíquota da Reforma Tributária em 1 ponto Diante do risco de inadimplência, decorrente do perfil desses trabalhadores, informais e com baixa remuneração, em média de R$ 1,7 mil e sujeitos a acidentes, o governo usará recursos do Fundo de Garantia de Operações (FGO) para cobrir eventuais calotes. A exigência de estar conveniado a uma plataforma tem por objetivo permitir o desconto da parcela do empréstimo na remuneração a ser creditada na conta bancária do trabalhador. Técnicos estimam que há um público potencial entre 700 mil a 1,2 milhão de entregadores em todo o país. O valor médío da moto é de R$ 17,8 mil. A linha será muito semelhante ao Move Aplicativos, criada pelo governo para atender motoristas de aplicativos e taxistas.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/linha-de-credito-para-entregadores-deve-ter-carencia-de-dois-meses-para-inicio-de-pagamento.ghtml",
+      "published": "2026-06-12T03:00:52+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Adeus, lixo: máquina chinesa 'aspira' rodovias a 60 km/h e limpa 180 km em apenas 5 horas; vídeo",
       "summary": "Uma máquina capaz de limpar rodovias em velocidades de até 60 km/h está transformando a manutenção viária na China e chamando atenção nas redes sociais. Vídeos que mostram o equipamento percorrendo pistas expressas enquanto remove sujeira do asfalto acumulam milhões de visualizações e impressionam pela rapidez da operação. Companhia aérea é investigada por cobrar taxa para pais cumprirem regra de acompanhar filhos menores em voos; entenda Anel de ouro romano de 1.700 anos achado por caminhoneiro aposentado é adquirido por museu na Inglaterra por R$ 580 mil A tecnologia já é usada em províncias como Zhejiang, Jiangsu e Guangdong, além da região metropolitana de Xangai. Desenvolvida para operar sem a necessidade de interditar faixas, a varredeira consegue acompanhar o fluxo normal do trânsito, reduzindo os impactos das operações de limpeza. Initial plugin text O ganho de produtividade é um dos principais atrativos. Enquanto equipes de limpeza manual avançam a cerca de 2 km/h e equipamentos convencionais operam em torno de 15 km/h, as novas máquinas alcançam até 60 km/h e conseguem percorrer entre 150 e 200 quilômetros por dia. Segundo a publicação especializada Highways Today, um canteiro central de 180 quilômetros que exigia cerca de 480 horas de trabalho manual passou a ser limpo em aproximadamente cinco horas com o novo sistema. O equipamento combina sucção de alta potência, escovas de alcance ampliado e sistemas de controle de poeira que mantêm a eficiência mesmo em velocidades elevadas. A operação é acompanhada por veículos de sinalização posicionados à frente da máquina para alertar os motoristas. A tecnologia já foi utilizada em rodovias com fluxo diário próximo de 80 mil veículos, além da rede de túneis de Qinling e das pistas do Aeroporto Internacional de Pudong, em Xangai.",
       "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/06/12/adeus-lixo-maquina-chinesa-aspira-rodovias-a-60-kmh-e-limpa-180-km-em-apenas-5-horas-video.ghtml",
@@ -4902,6 +5143,29 @@
         {
           "sector": "Joias",
           "alias": "ouro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Com US$ 1 trilhão de Elon Musk, dá comprar todas as montadoras dos EUA, Europa e Japão",
+      "summary": "Ainda no verão de 2024, Elon Musk, Jeff Bezos e Bernard Arnault revezavam quase diariamente o título de pessoa mais rica do mundo, com patrimônios líquidos em torno de US$ 200 bilhões. Agora, menos de dois anos depois, Musk, de 54 anos, já possui a primeira fortuna de US$ 1 trilhão da história, valendo o dobro do patrimônio combinado de Bezos e Arnault. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/quao-rico-e-um-trilionario-entenda-dimensao-da-fortuna-de-elon-musk.ghtml",
+      "published": "2026-06-12T17:48:26+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "bernard arnault"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "bernard arnault",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -5895,6 +6159,144 @@
         {
           "sector": "E-commerce",
           "alias": "amazon",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Com vendas em alta de mais de 20%, produção de carros no Brasil, em maio, é a maior desde 2019, diz Anfavea",
+      "summary": "A produção de veículos no país cresceu 15,2% em maio, o melhor resultado para o mês desde 2019. Os números foram divulgados nesta sexta-feira pela Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea), que representa as principais montadoras do país. Novidade chinesa: BYD lança primeiro SUV compacto plug in no Brasil com preço a partir de R$ 149 mil 'Copa do delivery': com jogos durante a noite, empresas fazem lançamentos especiais para evento Esse número foi puxado por automóveis e comerciais leves, e levou país a bater a marca de 1 milhão de unidades produzidas no ano, no mês passado.em 2025, a casa de 1 milhão d eunidades só havia sido atingida em junho. De acordo com a entidade, o ritmo de vendas do mercado interno vem surpreendendo, o que leva a produção a crescer, mesmo com queda das exportações e alta das importações, especialmente de carros chineses. De acordo com os dados da Anfavea, em maio, foram produzidos 253,6 mil autoveículos, alta de 15,2% sobre o mesmo mês de 2025 e melhor resultado para o mês desde 2019, antes da pandemia. Até o mês passado, saíram das fábricas nacionais 1,126 milhão de unidades, uma alta de 7,1% em relação aos cinco primeiros meses de 2025. Vendas aquecidas Segundo a Anfavea, esse ritmo de produção forte, é decorrente da alta nas vendas de automóveis, que cresceram 21,5% no mês passado, incluindo o desempenho positivo dos carros de entrada com o programa do governo federal Carro Sustentável. Esse programa reduz a zero o Imposto sobre Produtos Industrializados (IPI) para carros compactos e de entrada fabricados no Brasil, que emitam menos poluentes e contenham mais de 80% de material reciclável em sua produção. A venda de veículos comerciais leves, como picapes, vans e furgões, também vêm crescendo, com alta de 7,7%, em maio. Na contramão, as vendas de caminhões (-15,1%) e de ônibus (-16,3%) ainda continuam em queda. A Anfavea espera uma melhora para estes dois segmentos com o ingresso de recursos de financiamento facilitado dentro do programa Move Brasil 2, que prevê juros mais baixos e recursos do BNDES para o financiamento. Quem vai gritar gol antes nesta Copa? TV aberta e streaming apostam corrida pelo ‘spoiler’ Maio teve a melhor média diária de vendas desde dezembro de 2014, com 13,7 mil autoveículos (soma de leves e pesados). Os emplacamentos totais em maio foram de 274,7 mil unidades, alta de 10,6% sobre abril e 21,7% sobre maio/25. O acumulado das vendas também superou a casa de 1 milhão um mês antes de 2025, com 1.148,2 mil unidades emplacadas, crescimento acumulado 16,4%. Eletrificados batem recorde de venda Os veículos eletrificados representaram uma parte importante das vendas, com o recorde de participação de 19,5% em maio. Elétricos puros tiveram 21 mil unidades emplacadas, número recorde. Híbridos de todos os tipos somaram 30,7 mil no mês. As vendas de importados chegaram a 55 mil unidades em maio, totalizando 223 mil nos cinco primeiros meses do ano, elevação de 17,4%. A China se destaca como principal país de origem dos veículos importados, alta de 86,6% em maio, ante uma queda de 16,8% dos modelos vindos da Argentina. As exportações continuam sendo um dos pontos de preocupação do setor automotivo. Em maio foram embarcados 37,4 mil autoveículos, segundo mês consecutivo de queda. No acumulado do ano, foram 180 mil unidades exportadas, recuo de 20% sobre 2025. Houve crescimento de embarques apenas para a Colômbia, de 14,5%. Mas o tombo de 33,3% dos envios para a Argentina, de 34,5% para o Uruguai e de 19,6% para o Chile derrubaram o resultado geral.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/com-vendas-em-alta-de-mais-de-20percent-producao-de-carros-no-brasil-em-maio-e-a-maior-desde-2019-diz-anfavea.ghtml",
+      "published": "2026-06-12T15:46:56+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "vans"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "vans",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Já é possível investir no IPO bilionário da SpaceX: saiba qual é o ticker e o preço das ações da empresa na B3",
+      "summary": "A SpaceX começou a negociar suas ações na bolsa de valores americana no começo da tarde desta sexta-feira (12). O valor das ações abriu em US$ 150 — acima dos US$ 135 praticados na venda de 555,6 milhões de ações da companhia na oferta inicial da última quinta-feira (11) —, e já alcançou alta de até US$ 168 até a publicação desta reportagem. Segundo o Wall Street Journal, o IPO da companhia de exploração espacial, que foi avaliada em US$ 1,77 trilhão, captou US$ 75 bilhões. A B3 já disponibilizou o BDR da SpaceX. Para o investidor brasileiro, o acesso acontece pelo ticker (código) SPCX34, diretamente no home broker das plataformas das corretoras de valores ou bancos de investimento associados à bolsa. A oferta é feita em reais, sem necessidade de conta no exterior ou remessa internacional. No Brasil, a estrutura do BDR foi definida com paridade de 1:15 — ou seja, cada ação negociada nos EUA equivale a 15 recibos na B3. O resultado é um preço de entrada entre R$ 50 e R$ 70 por unidade, bem abaixo dos cerca de R$ 675 correspondentes ao preço do papel no IPO. Expectativa em alta A SpaceX tem a maior parte de sua receita ligada à unidade de internet via satélite e um negócio ainda inicial de inteligência artificial, de acordo com o WSJ. O desempenho das ações nesta sexta também será lido pelo mercado como um termômetro para as ofertas do OpenAI e da Anthropic, ambas esperadas ainda em 2026. A abertura do pregão não deve ser imediata. Nos IPOs de alta demanda, os bancos coordenadores precisam casar compradores e vendedores — tipicamente em torno de 10% das ações da oferta — antes de liberar a negociação. No caso da SpaceX, isso representa cerca de 55 milhões de papéis, ou US$ 7,5 bilhões. A Figma, um dos lançamentos de maior perfil do ano passado, abriu pouco antes das 14h, conforme o WSJ. Especialistas pregam cautela A grande participação de investidores individuais na oferta, no entanto, é apontada por especialistas como um fator de risco — já que a mesma velocidade com que podem comprar pode levá-los a vender em caso de oscilação brusca. Quedas ou altas acima de 10% acionam mecanismos automáticos que pausam a negociação por cinco minutos. Os bancos coordenadores têm um instrumento para conter quedas abruptas, chamado green shoe. A estratégia consiste em vender ao mercado cerca de 15% a mais de ações do que o total da oferta. Se o preço cair, o banco estabilizador — no caso da SpaceX, o Morgan Stanley — compra os papéis no mercado aberto, o que ajuda a sustentar a cotação. A expressão vem da primeira empresa a usar o mecanismo, uma fabricante de calçados. Outro ponto fora do padrão na oferta pública da companhia de Musk foi a precificação das ações. Em vez de apresentar uma faixa de preço e ajustá-la com base no interesse dos investidores, a SpaceX fixou o valor de US$ 135 desde o início. Se as ações subirem com força, críticos devem argumentar que a empresa deixou dinheiro na mesa; se caírem, a leitura será de que a demanda foi superestimada. A Nasdaq realizou simulações do processo de abertura para evitar falhas técnicas. Quando o Facebook abriu capital em 2012, um problema nos sistemas impediu a confirmação de ordens de cancelamento, contribuindo para a queda das ações no primeiro dia — que só voltaram ao preço do IPO mais de um ano depois. *Com supervisão de Marisa Adán Gil Mais Lidas",
+      "url": "https://epocanegocios.globo.com/economia/noticia/2026/06/quem-investir-no-ipo-trilionario-da-spacex-saiba-qual-e-o-ticker-e-o-preco-das-acoes-da-empresa-na-b3.ghtml",
+      "published": "2026-06-12T16:40:33+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "marisa"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marisa",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Importações de pequeno valor disparam no Brasil com fim da ‘taxa das blusinhas’",
+      "summary": "A importação de produtos de pequeno valor dispararam após o fim da chamada “taxa das blusinhas”, que estabelecia cobrança de 20% para produtos importados de até US$ 50. Segundo a Receita Federal, em maio e abril houve uma alta de 50% e 43%, respectivamente, em relação ao ano passado. O fim da taxa das blusinhas foi implementado pelo governo via medida provisória, publicada em 12 de maio. No dia seguinte o imposto de 20% deixou de ser cobrado. No mês, os dados da Receita indicam que 19,6 milhões de produtos que se enquadrariam na taxação foram recebidos no país, contra 13 milhões em maio de 2025. Em abril, com o mês inteiro com a taxa zerada, a Receita registrou a entrada de 15,7 milhões de remessas internacionais até US$ 50. No ano passado foram 10,9 milhões. A MP também beneficiou compras entre US$ 50 e US$ 3.0000, já que houve uma dedução de US$ 30, que antes era de US$ 20. Com isso, remessas entre US$ 50 e US$ 100 foram beneficiadas. De acordo com dados da Receita Federal, nos quatro primeiros meses de 2026, o governo arrecadou R$ 1,78 bilhão em imposto de importação com as encomendas. Foi uma alta de 25% na comparação com o mesmo período do ano passado. Ou seja, mesmo antes do fim da taxa as compras já vinham em alta. O debate sobre o assunto voltou diante do anseio do Palácio do Planalto de ampliar a popularidade do presidente Luiz Inácio Lula da Silva frente à maior competitividade da candidatura de Flavio Bolsonaro (PL) nas pesquisas. O cenário de zerar totalmente a taxa era defendido por uma ala do governo com assento no Palácio do Planalto que argumenta que a mudança precisa ter impacto efetivo nas compras de valores mais baixos e com isso impactar a população de renda mais baixa. Nos levantamentos internos do Palácio do Planalto, a \"taxa da blusinhas\" é apontada como um dos principais pontos negativos do governo, junto com segurança pública e temas como combate à corrupção. Essas aferições têm motivado a ala política do governo a rever a medida. A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas. O principal receio para redução da taxa das blusinhas era a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras. Foi esse discurso que levou o Congresso a aprovar a cobrança com votos da direita à esquerda. Há também preocupação com o sinal de política econômica, especialmente no campo fiscal, ainda que o impacto direto sobre a arrecadação seja bem limitado, dado que o tributo arrecada menos de R$ 2 bilhões. Criado em 2024 A “taxa das blusinhas” foi criada em 2024. Naquele momento, havia reclamações do varejo nacional porque compras abaixo de US$ 50 vinham ao Brasil sem cobrança de imposto, disfarçadas de encomendas pessoais. Por conta disso, foi criado o chamado \"Remessa Conforme”, que facilitou o desembaraço aduaneiro das empresas inscritas. Também é necessário pagar o ICMS, que é 17% a 20%, a depender do estado.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/importacoes-de-pequeno-valor-disparam-no-brasil-com-fim-da-taxa-das-blusinhas.ghtml",
+      "published": "2026-06-12T18:49:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "remessa conforme"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "remessa conforme",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "O mundo não é para todos: para investidores, startups latino-americanas precisam se preparar para a internacionalização",
+      "summary": "Ainda considerada uma espécie de depositária e fornecedora preferencial de matérias-primas e alimentos, a América Latina não está condenada a ficar a reboque do desenvolvimento tecnológico dos países do Norte Global, ainda que tenha ainda muitas vulnerabilidades a superar para exercer plenamente seu potencial criativo e produtivo. Créditos de carbono: o capitalismo e os bilhões das big techs podem salvar a Amazônia? Investimento de US$ 550 milhões: Prefeitura anuncia expansão de hub de data centers A região tem uma série de empresas de tecnologia que já estão entre as mais influentes do mundo quando se fala em inovação, mas como pode avançar mais em um mundo cada vez mais competitivo? A expansão das empresas de tecnologia da América Latina para o cenário global foi tema ontem do painel “A América Latina pode conquistar o mundo?\" no Web Summit Rio 2026. Participaram da sessão conduzida por Maria Luiza Filgueiras, editora-chefe do Valor Pipeline, Marcello Gonçalves cofundador e sócio da DOMO VC, Izabel Gallera, sócia da Canary, e Marcelo Lima, sócio da Monashees. Izabel Gallera, sócia da Canary Lucas Tavares/Especial para O Globo Para ilustrar o momento atual de expansão dessas empresas para o cenário global, a mediadora usou a figura da “complexa estratégia do tabuleiro do jogo “War”, em que, ao alcançar escala internacional, os negócios inovadores da América Latina entram na disputa pelo aporte massivo de capital geralmente designado para a elite do Vale do Silício, nos EUA. O que a mineração tem a ver com o futuro da IA? Tudo, diz líder de empresa que inova no setor Marcello Gonçalves, da DOMO VC, uma das principais empresas de venture capital (capital de risco) a investir em negócios em estágio inicial, com mais de 100 startups em seu portfólio, incluindo Hotmart, Loggi e Gympass, concordou com a analogia: Marcello Gonçalves, cofundador e sócio da DOMO VC Lucas Tavares/Especial para O Globo — Sempre que vemos chance de uma empresa se tornar global, a incentivamos. Pensando globalmente, como no “War” Risk” , conquiste a América Latina primeiro, como as duas peças da rodada na América do Sul, e então conquiste o mundo. A conquista dos EUA Filgueiras observou que muitas empresas brasileiras já passam a ter foco direcionado para \"conquistar\" o mercado dos Estados Unidos, ao passo que antes começavam pela América Latina. Izabel Gallera, da Canary, empresa de venture capital com foco em negócios em estágio inicial na América Latina que lidera muitos investimentos na região, acrescentou que atualmente as barreiras geográficas estão menores do que antes. Ela classificou esse movimento de busca de outros mercados por empresas latino-americanas como “diáspora latina” (todos indo da América Latina para os EUA). Copa do Mundo Feminina de 2027: evento no Brasil terá protagonismo das mulheres também fora de campo — Não há solução única para todos. Para vender em outro país, depende do seu negócio, da indústria e da equipe que você está construindo e da vantagem que se pode ter ao sair do país de origem. É preciso ter as conexões ou acesso ao talento específico para isso. A barreira do produto hoje em dia, dada a IA, está próxima de zero, mas ainda existe uma barreira de distribuição. As barreiras geográficas estão menores que antes, mas não há volta. Empreender no maior mercado do mundo Marcelo Lima, sócio da Monashees, que atua com foco em IA, fintechs e softwares corporativos B2B (para a relação de uma empresa com outra empresa) observa que há também um movimento de latino-americanos e brasileiros sediando suas empresas no exterior. Entre os exemplos estão a Brex, fundada em São Francisco, no Vale do Silício, por brasileiros, em 2017, e a Music AI, fundada originalmente como Moises em João Pessoa (PB), e que hoje tem sua sede corporativa em Salt Lake City, também nos EUA. “A América Latina pode conquistar o mundo?\": Painel foi mediado por Maria Luiza Filgueiras, editora-chefe do Valor Pipeline, com a participação de Marcello Gonçalves, cofundador e sócio da DOMO VC, Izabel Gallera, sócia da Canary, e Marcelo Lima, sócio da Monashees Lucas Tavares/Especial para O Globo -- A qualidade dos nossos fundadores nos permite fazer isso e estamos tentando ser parceiros deles. Embora não haja solução única, é possível investir em empresas locais que eventualmente irão para o exterior, mas também em fundadores que já começaram no exterior — afirmou Lima. Bilionária brasileira: Luana Lopes Lara diz no Web Summit que Kalshi quer chegar ao Brasil e promete diálogo com governo após veto Izabel acrescentou que mais da metade dos unicórnios (startups que superam avaliação de mercado de US$ 1 bilhão) nos EUA foram construídos por empreendedores imigrantes e que os brasileiros estão indo para lá em maior volume, mesmo com as restrições do governo de Donald Trump à imigração. Grande demais para sair daqui Por sua vez, Marcelo Gonzalez, da DOMO VC, ressaltou que é preciso haver adaptação da vontade do empreendedor de se tornar internacional, o que representa um teste mais agudo de competitividade. Para ele, isso é “o mais difícil de encontrar no Brasil”: — Em geral, os empreendedores brasileiros dizem que o Brasil é grande o suficiente e não têm ambição de serem globais, ou às vezes simplesmente não têm a preparação ou educação certa para isso. É um espécime muito raro. Se você olhar o número de empresas internacionais de tecnologia fora do Brasil, talvez sejam 10 ou 12. Todos esses empreendedores são muito especiais. Não que quem não queira ir não seja especial. Temos empresas incríveis que são grandes o suficiente no Brasil. Mas é necessário algo diferente, que é essa ambição de realmente cruzar limites. Initial plugin text Lima, por outro lado, alertou para a alta incidência de casos de empresas tentaram expandir seus limites e falharam. Cada passo precisa ser bem calculado. — Geralmente o questionamento que trazemos aos fundadores é que você precisa provar seu conceito em pelo menos um lugar, caso contrário, a complexidade de atacar três ou quatro mercados simultaneamente será muito difícil. Você precisa priorizar quando fará isso — afirmou. — Temos um cemitério de empresas na América Latina que tentaram ir além de um país e falharam. Marcelo Lima, sócio da Monashees, fala no Web Summit Rio 2026 Lucas Tavares/Especial para O Globo Ele explica que o tamanho da economia brasileira acaba deixando os empreendedores mais confortáveis no mercado doméstico. O mesmo não acontece em outros países latino-americanos, que têm mercados mais limitados para crescer. — Se você está no Brasil, ninguém questionará o quão grande essa empresa pode ser, então geralmente as empresas brasileiras esperam mais tempo. Já empresas no Chile ou na Colômbia, se não forem globais, terão muita dificuldade em atrair capital internacional, a menos que sejam uma fintech ou foquem em um mercado muito grande — afirmou Lima. Web Summit Rio 2026: Brasil corre risco de ficar dependente de IA estrangeira, alertam especialistas Lições e mitos Dos casos de sucesso às histórias de fracasso sobre o tema de se tornar global, extraem-se lições e surgem alguns mitos, que foram abordados pelos convidados no painel do último dia do Web Summit Rio 2026. Izabel destacou a resiliência dos empreendedores latinos, em média, “muito mais resilientes do que os de outros países”: -- Historicamente, não há muita liquidez ou dinheiro disponível na América Latina, então você tem que fazer muito com pouco. Essa é uma força que podemos exportar para sobreviver e prosperar em diferentes geografias. Mas não acho que ser global seja extremamente simples. É preciso ter fundamentos. Você deve pensar bem e garantir que tem um bom motivo não apenas para atuar no exterior, mas para ter a chance de vencer com seus atributos e modelo de negócio. Contra o 'mito do mercado grande' Para Gonzalez, as soluções criadas no Brasil, ainda que locais, precisam ter o contexto global: — Se existe um mito é o de que o Brasil é grande o suficiente e que impede as empresas de pensarem globalmente. Às vezes, as soluções são muito brasileiras ou muito latino-americanas. Isso é bom, mas se você está em Israel, Chile, Equador ou Colômbia, precisa ser global desde o primeiro momento. Mercados pequenos geram empresas pequenas, então você precisa buscar um mercado grande. O mito do mercado grande é o que impede os brasileiros de crescerem internacionalmente. Por outro lado, ele observou que, se a empresa decide se internacionalizar e começa a ter parte da receita em dólares no exterior, fica mais valorizada, mas isso pode ser uma armadilha que acomoda o empreendedor, achando que já é \"grande o suficiente\". Para Marcelo Lima a decisão de internacionalizar um negócio deve vir após uma série de considerações. E citou algumas: — Se o empreendedor faz isso apenas para fins de financiamento e não por ambição ou capacidade de expandir o produto, geralmente vai falhar. Outro ponto é priorizar. Por vezes, decide ir para o México e envia alguém júnior da equipe. Ou você coloca um fundador e gasta o tempo certo priorizando, ou será muito difícil ter sucesso. Anos atrás, empresas no Brasil pensariam naturalmente na Argentina primeiro. Depois talvez no México, que é longe, quase como os EUA. Agora vemos fundadores incríveis pensando que o trabalho para ir ao México às vezes é o mesmo que ir para os EUA, então decidem se provar lá. Não é para todas as empresas, depende do modelo de negócio, mas é um aprendizado natural. Ele destacou o aumento da experiência internacional dos executivos brasileiros: — Há 15 anos, quando uma empresa do portfólio decidia ser global, tentávamos contratar alguém com essa experiência no Brasil e havia pouquíssimas pessoas. Hoje temos mais conhecimento e experiência, o que tornará isso mais comum no futuro. Ambiente desfavorável Mas o caminho do sucesso ainda enfrenta algumas barreiras, a mediadora lembrou que algumas startups latino-americanas são avaliadas abaixo de startups similares dos EUA, no Vale do Silício e até da Índia. Gonzalez explicou que há exceções, mas em geral as empresas latino-americanas têm que ser avaliadas a um valor muito menor do que qualquer empresa americana ou europeia porque o ambiente de venture capital é diferente. — Eles têm IPOs (oferta pública incial de ações em Bolsa, uma forma como fundos de venture capital podem sair de um negócio com lucro), séries C, D, E, e nós, não. No fim das contas, a empresa aqui deve fazer muito mais com muito menos por muito mais tempo. Empresas com acesso a capital que podem crescer mais rápido terão melhores avaliações. Um dos erros que cometemos como mercado nestes 15 anos é nos compararmos aos Estados Unidos. Não somos os EUA, e nosso capital de risco será fundamentalmente diferente, terá que ser \"tropicalizado\". Uma forma de saída dos investidores de risco mais usada no Brasil é por meio de fusões e aquisições (M&amp;A, na sigla em inglês), o que na avaliação do especialista acaba reduzindo a avaliação de mercado dos cardápio de negócios disponíveis. Exportação de talentos Por outro lado, Maria Luiza Filgueiras lembrou que há muitas empresas globais de tecnologia contratando talentos na América Latina, inclusive via teletrabalho, indagando o impacto para as empresas locais. Izabel destacou que a oferta dos salários em dólares ou euros para um custo de vida em reais torna essa disputa mais acirrada. — Algumas de nossas empresas focadas em IA e tecnologia perdem talentos para empresas nos EUA ou Europa por causa dessa discrepância. Talvez a cultura, o fato de estarem juntos em um escritório e terem uma proposta de valor de proximidade possa, de alguma forma, diminuir essa lacuna, mas veremos com o tempo — concluiu. A cobertura do Web Summit Rio 2026 na Editora Globo é apresentada pelo Itaú. Initial plugin text",
+      "url": "https://oglobo.globo.com/rio/web-summit-rio/noticia/2026/06/12/o-mundo-nao-e-para-todos-para-investidores-startups-latino-americanas-precisam-se-preparar-para-a-internacionalizacao.ghtml",
+      "published": "2026-06-12T18:50:37+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "gympass"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "gympass",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "IPOs trilionários reforçam apostas na elite da IA",
+      "summary": "A lista de IPOs trilionários, com Anthropic e OpenAI na sequência da SpaceX, avaliada em US$ 1,8 trilhão, não deve inflar de forma generalizada o valuation de startups de IA, mas pode trazer impacto se houver forte correção após as listagens. Estudo do JP Morgan mostra que os preços dos mega IPOs da última década caíram, em média, 32% um ano após a listagem. A Meta, dona de Facebook, Instagram e WhatsApp, chegou a cair 50% meses após a listagem e levou um ano para voltar a negociar nos níveis do IPO. Alibaba, dono da AliExpress, acumulou perda de 30% no ano após a estreia. Estreia da SpaceX mexe com regras de índices acionários No IPO da SpaceX, meio bilhão de dólares em comissão para bancos A OpenAI, que tem a Microsoft como acionista, entrou com pedido para listagem nos Estados Unidos mirando um valor de mercado de US$ 1 trilhão. A Anthropic foi avaliada em US$ 965 bilhões na rodada série H realizada neste ano, que atraiu players de infraestrutura e fornecedores de IA como Amazon, Google, Microsoft, Samsung, SK Hynix e Micron. Casos como o da fabricante de tênis Allbirds, cujas ações chegaram a subir 580% em abril, após o anúncio de que a companhia estaria pivotando para infraestrutura de IA podem sugerir que há uma bolha no mercado, explica o investidor-anjo Zuca Palladino, cofundador e sócio-diretor da operação norte-americana do grupo Woke. Anthropic: Amazon, Google, Microsoft Azure e Samsung investiram na empresa Bloomberg “A empresa vendeu todo o estoque de calçados por US$ 39 milhões e mudou de nome para NewBirdAI, mas ela não fez qualquer movimento para mostrar uma estratégia concreta para o negócio”, o que resultou no derretimento das ações, ele conta. Para Palladino, que tem negócios na economia criativa, o que está acontecendo do mercado é uma onda de FOMO, o “medo de ficar de fora”, em que os investidores entram na onda, mas depois os fundamentos prevalecem. Anthropic passa na frente da OpenAI em corrida à bolsa “O sucesso dessas ofertas não vai criar um hype para investir em startups de IA. Vejo os investidores ainda muito seletivos”, diz o sócio-diretor da Valor Capital, Pablo Alencar, que descarta um aumento generalizado de valuations de empresas de IA como visto em 2021 com a indústria de venture capital, a começar pelo cenário de juros mais altos e medo de inflação devido à guerra no Irã. Para Alencar, companhias como a SpaceX, Anthropic e OpenAI devem concentrar os investimentos porque, mais do que a tecnologia, eles têm como vantagem competitiva o acesso à infraestrutura – maior gargalo da indústria –, com energia, chips de última geração e armazenamento de dados em nuvens. Não à toa, a Alphabet, dona do Google, ficou com 7% da SpaceX antes do IPO. Anthropic, do Claude, ultrapassa OpenAI e vira maior startup de IA X, a fábrica de ‘moonshots’ da Alphabet A receita anual da Anthropic pulou de US$ 14 bilhões para US$ 47 bilhões entre fevereiro e maio. Focado em empresas, o Claude leva vantagem sobre os maiores provedores de nuvem – Microsoft Azure, Google Cloud Vertex e AWS Bedrock – por permitir operar com os três simultaneamente. Enquanto isso, a OpenAI, ganhou o varejo com o ChatGPT, mas é a empresa mais cara pelo PitchBook.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/ipos-trilionarios-reforcam-apostas-na-elite-da-ia.ghtml",
+      "published": "2026-06-12T19:12:18+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "aliexpress"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "aliexpress",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "SoulCode leva formação em IA para o WhatsApp para alcançar populações excluídas da transformação digital",
+      "summary": "Os fundadores da SoulCode: Fabricio Cardoso, diretor geral, Silvio Genesini, cofundador e conselheiro, e Carmela Borst, CEO Divulgação De acordo com o Banco Mundial, apenas 3% da população brasileira tem competências digitais avançadas, um dos índices mais baixos da América Latina. Com o objetivo de ajudar na transformação dessa realidade, a SoulCode Academy apresentou, na última terça-feira (9), durante o Web Summit Rio 2026, uma metodologia de letramento digital e inteligência artificial projetada para funcionar inteiramente pelo WhatsApp. O programa usa trilhas de aprendizagem adaptadas ao nível de cada participante e tem como peça central a Eva, tutora virtual desenvolvida pela SoulCode. A metodologia já foi aplicada em iniciativas de diferentes escalas: o CorrePlay, por exemplo, implementado em parceria com o iFood, formou mais de 5 mil entregadores em desenvolvimento de games em duas semanas; o SoulCode Kids leva o programa a crianças e adolescentes de 7 a 12 anos em organizações sociais em São Paulo e Minas Gerais. O público-alvo da iniciativa passa por mulheres empreendedoras, artesãs, agricultoras, pescadoras, marisqueiras, quilombolas e jovens de periferias. Ao todo, a empresa contabiliza mais de 210 mil pessoas impactadas, 8,5 mil profissionais inseridos no mercado e R$ 842 milhões movimentados na economia por geração de renda e empregabilidade. Fabricio Cardoso, cofundador e diretor geral da SoulCode Academy, contou mais detalhes sobre o projeto à Época NEGÓCIOS. Fabrício Cardoso, cofundador e Diretor-Geral da SoulCode Divulgação ÉPOCA NEGÓCIOS — Como o programa funciona, na prática? O que o usuário vai aprender em cada etapa, e o que se espera da aprendizagem dos participantes? FABRICIO CARDOSO — O Brasil está entre os países com menor nível de competências digitais da América Latina, segundo o relatório Conectados: Tecnologias Digitais para a Inclusão e o Crescimento, do Banco Mundial. Mais do que ampliar o acesso à tecnologia, o desafio é desenvolver competências digitais e letramento em Inteligência Artificial, habilidades cada vez mais essenciais para a sociedade atual. Por isso, utilizamos o WhatsApp, ferramenta já presente na rotina da maioria dos brasileiros, como um dos canais de aprendizagem. Na jornada de letramento digital em IA, os conteúdos foram desenvolvidos para qualificar os participantes a compreender o funcionamento da inteligência artificial, explorar aplicações práticas no dia a dia e utilizar essas ferramentas de forma consciente, crítica e produtiva, ampliando sua possibilidade de geração de renda e participação na sociedade digital. Um dos principais diferenciais da nossa metodologia é a personalização da aprendizagem, com trilhas adaptadas aos objetivos de cada parceiro e ao nível de conhecimento dos participantes. NEGÓCIOS — Considerando que o público-alvo do projeto é composto, em grande parte, por pessoas em condição de vulnerabilidade social, como implementar o programa sem torná-lo um peso financeiro para seus participantes? CARDOSO — Uma pesquisa da Opinion Box revelou que 99% dos celulares com acesso à internet no Brasil têm o WhatsApp instalado. Além disso, diversas operadoras oferecem acesso ao aplicativo sem consumo da franquia de dados, o que amplia ainda mais seu alcance. Esse cenário foi determinante para a escolha do WhatsApp como um dos canais da nossa plataforma de ensino. Ao utilizar uma ferramenta já presente no dia a dia das pessoas, facilitamos o acesso ao aprendizado e ampliamos o alcance da formação para públicos que, muitas vezes, ficam à margem dos processos de transformação digital. Além disso, todos os programas feitos com clientes e parceiros da SoulCode são 100% gratuitos e as jornadas também utilizam ferramentas amplamente acessíveis, muitas delas com versões gratuitas, como Gemini, Copilot, ChatGPT e a IA do WhatsApp, para que os participantes possam continuar aprendendo e aplicando os conhecimentos adquiridos sem custos adicionais. NEGÓCIOS — A Eva é um modelo de linguagem proprietário, desenvolvido do zero pela SoulCode, ou utiliza a infraestrutura de outro modelo existente? CARDOSO — A Eva, nossa tutora virtual, utiliza a infraestrutura do Google Gemini e combina essa capacidade com uma camada de inteligência pedagógica desenvolvida pela SoulCode. O diferencial está na personalização da experiência de aprendizagem: a Eva foi projetada para atuar como tutora digital, utilizando conteúdos curados e metodologias próprias da SoulCode para oferecer interações mais relevantes, seguras e alinhadas aos objetivos de cada jornada educacional. NEGÓCIOS — Como foi a jornada de aprendizagem dos participantes nos outros projetos desenvolvidos pela SoulCode, como o CorrePlay? CARDOSO — Os participantes foram convidados a ingressar no programa por meio do próprio aplicativo de entregas e direcionados para uma jornada de aprendizagem personalizada. Aqueles com maior familiaridade em tecnologia e IA puderam seguir diretamente para o LMS da SoulCode, com conteúdos mais técnicos. Já os demais iniciaram sua formação pelo WhatsApp, desenvolvendo competências de letramento digital e literacia em IA antes de avançar para as etapas mais especializadas. Dessa forma, cada participante pôde aprender a partir do seu nível de conhecimento e evoluir no próprio ritmo. A metodologia foi estruturada para tornar o aprendizado acessível e compatível com a rotina dos entregadores e entregadoras, permitindo que cada aluno avançasse no seu próprio ritmo. Como resultado, muitos alunos desenvolveram seu primeiro jogo digital e tiveram contato prático com a área. NEGÓCIOS — E no caso do SoulCode Kids, qual foi o formato adotado? CARDOSO — Com o SoulCode Kids, crianças e adolescentes de 7 a 12 anos têm contato responsável com a tecnologia. A iniciativa vem sendo implementada em organizações sociais como a Fundação Crescer Criança, o Instituto Verdescola (SP) e a Associação Casa da Criança Maria Antônia (MG). O programa introduz conceitos de programação, desenvolvimento web e inteligência artificial de maneira progressiva. A gamificação é utilizada como recurso didático para estruturar desafios, acompanhar o desempenho e estimular a evolução contínua dos alunos, mantendo foco nos resultados pedagógicos. Outro ponto de destaque é a qualificação dos professores, que não precisam ser especialistas em tecnologia. Antes do início das aulas, eles recebem treinamento completo, planos de aula detalhados e vídeos explicativos para aplicar o conteúdo com segurança e autonomia. NEGÓCIOS — Quais cuidados foram necessários na implementação do SoulCode Kids, considerando os debates atuais sobre uso de telas por crianças e o crescimento da IA? CARDOSO — As atividades são realizadas em um ambiente digital fechado, seguro e monitorado, seguindo protocolos de proteção de dados e diretrizes específicas para o público infantil. O programa integra a grade de atividades extracurriculares dos estudantes e foi desenvolvido para proporcionar uma experiência de aprendizagem responsável e adequada à faixa etária, com a jornada estruturada em etapas progressivas, permitindo o desenvolvimento gradual de competências digitais, pensamento lógico, criatividade e resolução de problemas. A cobertura do Web Summit Rio 2026 na Editora Globo é apresentada pelo Itaú. *Com supervisão de Marisa Adán Gil Mais Lidas",
+      "url": "https://epocanegocios.globo.com/especiais/web-summit/noticia/2026/06/soulcode-leva-formacao-em-ia-para-o-whatsapp-para-alcancar-populacoes-excluidas-da-transformacao-digital.ghtml",
+      "published": "2026-06-12T21:06:47+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "body",
           "score": 2,
           "topic": null
