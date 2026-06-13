@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T11:10:31.797388+00:00",
-  "count": 243,
-  "new_this_run": 3,
+  "generated_at": "2026-06-13T11:37:57.490273+00:00",
+  "count": 245,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística",
@@ -1486,6 +1486,37 @@
           "alias": "richemont",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "CEO da Amazon Brasil: 'Com a Copa do Mundo, esperamos uma Black Friday de seis meses'",
+      "summary": "Juliana Sztrajtman afirma que o Mundial deve acelerar investimentos da companhia em logística, crédito e tecnologia. Nos últimos anos, a empresa já aportou mais de R$ 55 bilhões no país e diz que manterá o ritmo de investimento neste ano",
+      "url": "https://exame.com/negocios/ceo-da-amazon-brasil-com-a-copa-do-mundo-esperamos-uma-black-friday-de-seis-meses",
+      "published": "2026-06-13T08:03:57+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -4225,6 +4256,29 @@
         {
           "sector": "E-commerce",
           "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Eles construíram o 2º melhor hotel do mundo em Gramado — agora vão abrir unidades pelo Brasil",
+      "summary": "Erguido num bairro residencial, com 33 suítes, o Colline de France superou resorts de luxo no Travellers' Choice 2026. Os fundadores agora investem R$ 168 milhões na primeira unidade fora do Rio Grande do Sul",
+      "url": "https://exame.com/negocios/eles-construiram-o-2o-melhor-hotel-do-mundo-em-gramado-agora-vao-abrir-unidades-pelo-brasil",
+      "published": "2026-06-13T08:14:27+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "hotel"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "hotel",
           "field": "title",
           "score": 20,
           "topic": null
