@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T10:19:17.324635+00:00",
+  "generated_at": "2026-06-13T11:10:31.797388+00:00",
   "count": 243,
   "new_this_run": 3,
   "articles": [
@@ -1117,37 +1117,6 @@
         }
       ],
       "score": 32.0
-    },
-    {
-      "title": "Carf estuda criar turmas especializadas para julgar CBS",
-      "summary": "Conselho se prepara para analisar novo tributo federal criado pela reforma tributária. Julgamentos na área administrativa ficarão com a 3ª Seção do Carf",
-      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/carf-estuda-criar-turmas-especializadas-para-julgar-cbs",
-      "published": "2026-06-06T10:46:01+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "‘Ozempic mensal’: com uma picada por mês, medicamento para emagrecer avança em estudos",
@@ -5205,6 +5174,29 @@
         {
           "sector": "Global Consumer",
           "alias": "bernard arnault",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Sergio Zimerman sobre empresa que ninguém encontra no Google: 'Negócio que não cresce, morre'",
+      "summary": "No Choque de Gestão, fundador da Petz explicou por que o boca a boca é um ativo valioso, mas pode se tornar um freio para empresas que desejam crescer",
+      "url": "https://exame.com/negocios/sergio-zimerman-sobre-empresa-que-ninguem-encontra-no-google-negocio-que-nao-cresce-morre",
+      "published": "2026-06-13T07:07:45+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Pet"
+      ],
+      "matched_aliases": [
+        "petz"
+      ],
+      "matches": [
+        {
+          "sector": "Pet",
+          "alias": "petz",
           "field": "lead",
           "score": 8,
           "topic": null
