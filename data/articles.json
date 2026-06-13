@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T09:44:55.522977+00:00",
-  "count": 242,
-  "new_this_run": 2,
+  "generated_at": "2026-06-13T10:19:17.324635+00:00",
+  "count": 243,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "União de gigantes: Magalu e Amazon viram parceiras nas vendas e na logística",
@@ -1633,6 +1633,45 @@
         {
           "sector": "Global Consumer",
           "alias": "keeta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
+      "title": "7 estratégias de marcas brasileiras para lucrar durante a Copa",
+      "summary": "Vans, Maria Filó e Foxton lançam coleções cápsula inspiradas no futebol, enquanto Rio e São Paulo recebem arenas de transmissão ao vivo",
+      "url": "https://exame.com/bussola/7-estrategias-de-marcas-brasileiras-para-lucrar-durante-a-copa",
+      "published": "2026-06-13T07:00:36+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "foxton",
+        "maria filó",
+        "vans"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "foxton",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "maria filó",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "vans",
           "field": "lead",
           "score": 8,
           "topic": null
