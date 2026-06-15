@@ -136,6 +136,11 @@ sectors:
     - ecommerce
     - vendas online
     - remessa conforme
+    # Cross-border / taxação de importados (tema central da tese)
+    - taxa das blusinhas
+    - taxa das blusinha
+    - imposto das blusinhas
+    - cross-border
     - keeta
     - 99 food
     - 99compras
@@ -401,6 +406,16 @@ sectors:
     - ems
     - medley
     - cimed
+    # Canetas emagrecedoras - termo coloquial BR para GLP-1, inequívoco.
+    # A imprensa brasileira usa muito mais isso que os nomes técnicos.
+    - canetas emagrecedoras
+    - caneta emagrecedora
+    - canetas do emagrecimento
+    - canetas para emagrecer
+    - canetas antiobesidade
+    - canetas anti-obesidade
+    - remédio para emagrecer
+    - remédios para emagrecer
 
     # Ambíguos
     - alias: raia
@@ -428,20 +443,26 @@ sectors:
                      prescrição, receita médica, fabricante brasileira,
                      preço no brasil, eurofarma, hypera, ems, medley, cimed,
                      prati-donaduzzi, parceria farmacêutica,
-                     parceria com a novo nordisk]
+                     parceria com a novo nordisk,
+                     canetas emagrecedoras, caneta emagrecedora, emagrecimento,
+                     no brasil, preço, preços, mercado brasileiro, disputa]
     - alias: wegovy
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, distribuição, distribuir,
                      prescrição, receita médica, fabricante brasileira,
                      preço no brasil, eurofarma, hypera, ems, medley, cimed,
                      prati-donaduzzi, parceria farmacêutica,
-                     parceria com a novo nordisk]
+                     parceria com a novo nordisk,
+                     canetas emagrecedoras, caneta emagrecedora, emagrecimento,
+                     no brasil, preço, preços, mercado brasileiro, disputa]
     - alias: mounjaro
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, distribuição, distribuir,
                      prescrição, eurofarma, hypera, ems, medley, cimed,
                      prati-donaduzzi, parceria farmacêutica,
-                     parceria com a eli lilly]
+                     parceria com a eli lilly,
+                     canetas emagrecedoras, caneta emagrecedora, emagrecimento,
+                     no brasil, preço, preços, mercado brasileiro, disputa]
     - alias: zepbound
       requires_any: [anvisa, sus, farmácia, distribuição, distribuir,
                      prescrição, eurofarma, hypera, ems, medley, cimed,
