@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T22:08:31.126357+00:00",
-  "count": 248,
-  "new_this_run": 27,
+  "generated_at": "2026-06-16T09:36:59.311321+00:00",
+  "count": 258,
+  "new_this_run": 25,
   "articles": [
     {
       "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
@@ -546,6 +546,45 @@
       "score": 48.0
     },
     {
+      "title": "Amazon quer transformar a Copa em motor de vendas no Prime Day: 'vamos superar a Black Friday'",
+      "summary": "Evento será realizado de 1º a 7 de julho e terá apostas em ofertas, logística, frete grátis e categorias essenciais para os consumidores durante os jogos",
+      "url": "https://exame.com/invest/mercados/amazon-quer-transformar-a-copa-em-motor-de-vendas-no-prime-day-queremos-superar-a-black-friday",
+      "published": "2026-06-16T06:00:31+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Receita faz leilão com carro por R$ 10,5 mil, joias da Tiffany e eletrônicos apreendidos em São Paulo",
       "summary": "Um carro com lance inicial de R$ 10,5 mil, joias da Tiffany, eletrônicos e até uma colheitadeira estão entre os itens disponíveis em um leilão eletrônico da Receita Federal em São Paulo. O certame reúne 207 lotes de mercadorias apreendidas ou abandonadas e recebe propostas até as 18h desta sexta-feira. A sessão de lances está marcada para o próximo domingo. Toyota Hilux lidera ranking de carros mais vendidos em mais de 40 países; veja a lista Ex-piloto da Air Canada é acusado de comandar 900 voos ao longo de 16 anos sem possuir licença obrigatória Podem participar pessoas físicas e jurídicas com conta Gov.br de nível prata ou ouro. O acesso é feito pelo Sistema de Leilão Eletrônico da Receita Federal, onde os interessados devem selecionar o edital nº 0800100/000008/2026 e registrar suas propostas. Entre os destaques está um Toyota Premio fabricado em 2007, com lance mínimo de R$ 10,5 mil. Também aparecem um Chevrolet Onix Plus 2025, com valor inicial de R$ 18 mil, uma van Peugeot Boxer 2009 por R$ 8,6 mil e um micro-ônibus Mercedes-Benz 2011 com preço mínimo de R$ 22 mil. O edital inclui ainda veículos elétricos. Uma motocicleta Voltz EVS Work sem bateria tem lance inicial de R$ 2,9 mil, enquanto um patinete elétrico aparece por R$ 1,2 mil. Além dos automóveis, o leilão reúne máquinas e equipamentos de maior porte. Uma colheitadeira usada da fabricante americana John Deere, produzida em 2008, está entre os itens mais valiosos, com lance mínimo de R$ 90 mil. Há também lotes voltados para quem busca produtos de menor valor. Um par de brincos de prata da Tiffany tem preço inicial de R$ 180. Outro lote reúne dois micro-ondas, duas cafeteiras, duas fritadeiras elétricas e uma fritadeira convencional por R$ 800. Um aspirador de pó da Nilfisk pode ser arrematado a partir de R$ 650. Na área de eletrônicos, a Receita oferece computadores, tablets, relógios inteligentes, telas e outros equipamentos apreendidos em operações de fiscalização. Os produtos estão distribuídos em diferentes lotes e podem ser consultados individualmente no portal do leilão. Os interessados podem visitar presencialmente os bens antes da disputa, mediante agendamento e observando as condições estabelecidas no edital. A Receita informa que alguns lotes são destinados exclusivamente a pessoas jurídicas, enquanto outros podem ser adquiridos por pessoas físicas. Após o encerramento da etapa de propostas, apenas os participantes que apresentarem os maiores valores para cada lote serão habilitados para a sessão de lances, quando ocorre a disputa final pelos produtos.",
       "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/06/11/receita-faz-leilao-com-carro-por-r-105-mil-joias-da-tiffany-e-eletronicos-apreendidos-em-sao-paulo.ghtml",
@@ -591,130 +630,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "Os argumentos da EMS para pedir que o Cade aprove a compra da Medley",
-      "summary": "O Conselho Administrativo de Defesa Econômica (Cade) deu início ao processo de análise da aquisição da farmacêutica Medley pela EMS. A companhia da família Sanchez anunciou no início de março a compra da unidade brasileira de genéricos da francesa Sanofi por cerca de US$ 600 milhões. A aquisição oficial será feita pela Novamed, uma das [&#8230;] O post Os argumentos da EMS para pedir que o Cade aprove a compra da Medley apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/negocios/os-argumentos-da-ems-para-pedir-que-o-cade-aprove-a-compra-da-medley",
-      "published": "2026-06-08T22:15:18+00:00",
-      "source": "https://neofeed.com.br/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ems",
-        "medley"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ems",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "medley",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Magazine Luiza passa a vender produtos no site da Amazon do Brasil",
-      "summary": "O Magazine Luiza e a Amazon anunciaram uma parceria para que os produtos da varejista brasileira sejam vendidos no site da empresa americana a partir desta segunda-feira (8). Leia mais (06/08/2026 - 21h27)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/06/magazine-luiza-passa-a-vender-produtos-no-site-da-amazon-do-brasil.shtml",
-      "published": "2026-06-09T00:27:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "amazon",
-        "magazine luiza"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "magazine luiza",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Fim da escala 6x1: qual é a carga horária de outros países do mundo?",
-      "summary": "Dados internacionais mostram que a carga horária brasileira está acima da observada nas principais economias desenvolvidas",
-      "url": "https://exame.com/mundo/fim-da-escala-6x1-qual-e-a-carga-horaria-de-outros-paises-do-mundo",
-      "published": "2026-06-09T06:01:29+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "carga horária",
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "carga horária",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Exclusivo: ‘Com a Copa do Mundo, vamos acelerar o turismo no Brasil’, diz nova CEO da Decolar",
-      "summary": "Com meta para crescer 40% neste ano e patrocínio firmado com a Cazé TV para o mundial, Rafaela Rezende fala em sua primeira entrevista como pretende acelerar o negócio bilionário no país: ‘O Brasil é a nossa maior aposta’",
-      "url": "https://exame.com/negocios/com-a-copa-do-mundo-vamos-acelerar-o-turismo-no-brasil-diz-nova-ceo-da-decolar",
-      "published": "2026-06-09T06:09:10+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "decolar",
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "decolar",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Pelo menos metade do mercado de canetas emagrecedoras é informal, diz EMS - Exame",
@@ -2280,98 +2195,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Costco reduz preço de produtos de marca própria para turbinar seu clube de assinaturas",
-      "summary": "O combo de cachorro-quente e refrigerante por US$...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/08/costco-reduz-preco-de-produtos-de-marca-propria-para-turbinar-seu-clube-de-assinaturas.ghtml",
-      "published": "2026-06-09T00:12:34+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "costco"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "costco",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold Edges Lower as Traders Await Clarity on Middle East",
-      "summary": "Gold prices slipped in early trading after Israel and Iran halted attacks on each other, easing immediate concerns over regional escalation.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-geopolitical-tensions-spark-inflation-concerns-18d4be4a?mod=rss_markets_main",
-      "published": "2026-06-09T07:56:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nubank terá centro cultural na Avenida Paulista com foco em experiências imersivas",
-      "summary": "Banco amplia investimentos em cultura em São Paulo com o novo Nubank Arte Lab; espaço terá programação contínua e experiências interativas",
-      "url": "https://exame.com/marketing/nubank-tera-centro-cultural-na-avenida-paulista-com-foco-em-experiencias-imersivas",
-      "published": "2026-06-09T09:00:08+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Boca a boca não basta: fundador da Petz dá choque de gestão numa empresa de cortinas de SP",
-      "summary": "No novo episódio do 'Choque de Gestão', Sérgio Zimerman analisa empresa familiar com 19 anos de mercado e aponta por que viver de indicação só garante estabilidade, não crescimento",
-      "url": "https://exame.com/negocios/boca-a-boca-nao-basta-fundador-da-petz-da-choque-de-gestao-numa-empresa-de-cortinas-de-sp",
-      "published": "2026-06-09T09:00:36+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Pet"
-      ],
-      "matched_aliases": [
-        "petz"
-      ],
-      "matches": [
-        {
-          "sector": "Pet",
-          "alias": "petz",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Imposto Seletivo: bebidas alcoólicas terão duas alíquotas, mas modelo segue indefinido",
@@ -4927,6 +4750,374 @@
       "score": 20.0
     },
     {
+      "title": "Executivo de Valor: André Farber, da Riachuelo, é premiado na categoria Indústria da Moda - Valor Econômico",
+      "summary": "Executivo de Valor: André Farber, da Riachuelo, é premiado na categoria Indústria da Moda &nbsp;&nbsp; Valor Econômico",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-andre-farber-da-riachuelo-e-premiado-na-categoria-industria-da-moda.ghtml",
+      "published": "2026-06-16T01:01:39+00:00",
+      "source": "https://news.google.com/rss/search?q=site:valor.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "riachuelo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "riachuelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Executivo de Valor: Fernando Modé, do Grupo Boticário, é premiado na categoria Indústria farmacêutica e de cosméticos e beleza - Valor Econômico",
+      "summary": "Executivo de Valor: Fernando Modé, do Grupo Boticário, é premiado na categoria Indústria farmacêutica e de cosméticos e beleza &nbsp;&nbsp; Valor Econômico",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-fernando-mode-do-grupo-boticario-e-premiado-na-categoria-industria-farmaceutica-e-de-cosmeticos-e-beleza.ghtml",
+      "published": "2026-06-16T01:09:05+00:00",
+      "source": "https://news.google.com/rss/search?q=site:valor.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Executivo de Valor - André Farber, da Riachuelo: com ‘brasilidade’ e sustentabilidade - Valor Econômico",
+      "summary": "Executivo de Valor - André Farber, da Riachuelo: com ‘brasilidade’ e sustentabilidade &nbsp;&nbsp; Valor Econômico",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-andre-farber-da-riachuelo-com-brasilidade-e-sustentabilidade.ghtml",
+      "published": "2026-06-16T01:09:55+00:00",
+      "source": "https://news.google.com/rss/search?q=site:valor.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "riachuelo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "riachuelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Percepção dos brasileiros de que bets e jogos online são vício oscila para cima, diz Datafolha",
+      "summary": "Pesquisa Datafolha realizada nos dias 20 e 21 de maio aponta uma oscilação positiva na percepção dos brasileiros de que as apostas e jogos online são um vício. O levantamento também indica uma redução no uso de recursos como poupança e dinheiro emprestado para bancar a prática. Leia mais (06/15/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/percepcao-dos-brasileiros-de-que-bets-e-jogos-online-sao-vicio-oscila-para-cima-diz-datafolha.shtml",
+      "published": "2026-06-16T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Executivo de Valor: Diego Barreto, do Ifood, é premiado na categoria Serviços Digitais",
+      "summary": "O CEO do Ifood, Diego Barreto, foi premiado na cat...",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-diego-barreto-do-ifood-e-premiado-na-categoria-servicos-digitais.ghtml",
+      "published": "2026-06-16T02:12:48+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Executivo de Valor: Diego Barreto, CEO do iFood, e as novas ferramentas para resolver problemas reais",
+      "summary": "Paulo Vitale/Valor Uma das manifestações precoces...",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-diego-barreto-ceo-do-ifood-e-as-novas-ferramentas-para-resolver-problemas-reais.ghtml",
+      "published": "2026-06-16T02:13:27+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Executivo de Valor: Rafael Vasto, da Daki, é premiado na categoria Jovem Liderança",
+      "summary": "O CEO da Daki, Rafael Vasto, foi premiado na categ...",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-rafael-vasto-da-daki-e-premiado-na-categoria-jovem-lideranca.ghtml",
+      "published": "2026-06-16T02:14:03+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "daki"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "daki",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Executivo de Valor - Rafael Vasto, da Daki: transformação com energia e tecnologia",
+      "summary": "Paulo Vitale/Valor Rafael Vasto carrega no próprio...",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-rafael-vasto-da-daki-transformacao-com-energia-e-tecnologia.ghtml",
+      "published": "2026-06-16T02:14:27+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "daki"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "daki",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fim da escala 6x1: Câmara deve votar hoje projeto de lei com o mesmo texto da PEC",
+      "summary": "A Câmara dos Deputados deve votar nesta hoje o projeto de lei do governo federal que trata do fim da escala 6x1 com o mesmo texto da Proposta de Emenda à Constituição (PEC) já aprovado na Casa. O objetivo é destravar a pauta do plenário da Casa, bloqueada desde o último dia 30. O projeto de lei foi enviado pelo governo em regime de urgência constitucional, o que obriga a deliberação dos parlamentares em até 45 dias, com risco de bloquear a pauta de votações. Escala 12hx36h, contratações e busca de crédito: Como pequenas empresas tentam se adaptar ao fim da 6x1? Atraso: Senado terá sessões remotas e pauta esvaziada enquanto votação da PEC 6x1 segue indefinida O presidente da Câmara, Hugo Motta (Republicanos-PB), chegou a pedir na semana passada a integrantes do Palácio do Planalto que retirassem essa urgência para destravar a pauta, uma vez que a Casa já havia votado a PEC. O presidente da Câmara, Hugo Motta (Republicanos-PB) Bruno Spada / Câmara dos Deputados O pedido, no entanto, não foi atendido. A avaliação de governistas era que eventual recuo do Executivo no tema poderia fazer com que o assunto não ficasse na ordem do dia do Congresso. O Planalto trabalha para que a PEC seja aprovada antes do recesso parlamentar, que inicia oficialmente em 18 de julho, mas ainda há uma indefinição de como o tema será discutido no Senado. O presidente do Senado, Davi Alcolumbre (União Brasil-AP) ainda não despachou o texto da PEC, que foi aprovada em maio na Câmara, à Comissão de Constituição e Justiça (CCJ), primeira etapa da tramitação. Fim da escala 6x1: como será a folga aos domingos? Hora em dobro segue valendo? O que diz a PEC Considerada prioritária pelo governo Luiz Inácio Lula da Silva (PT), a proposta está parada desde então. Na última quinta-feira, Motta designou o deputado Leo Prates (Republicanos-BA), que foi relator da PEC, para relatar também o projeto de lei. A ideia, dizem aliados, era destravar o plenário da Casa, ao mesmo tempo que serviria de recado ao Executivo. Autonomia da Câmara em xeque Um aliado de primeira hora do presidente da Câmara diz que não há disposição da cúpula da Casa em tensionar com Lula. Mas, ressalta, era importante que Motta se posicionasse para defender a autonomia da Câmara. O presidente do Senado, Davi Alcolumbre Carlos Moura/Agência Senado “Vamos manter o mesmo texto da PEC 6x1, aprovada em 27/5 pela Câmara dos Deputados, agora em análise pelo Senado. Isso demonstra nosso compromisso com a classe trabalhadora e com as prioridades do país. O objetivo é destravar a pauta da Casa para avançarmos em outras matérias de relevância, como o Marco Legal da IA e o aumento do limite de faturamento do MEI”, escreveu Motta em publicação nas redes sociais na semana passada. Fim da escala 6x1: você trabalha mais ou menos do que a média no Brasil? E no mundo? Confira A expectativa é que Leo Prates replique o texto aprovado pelos deputados na PEC, evitando se debruçar sobre categorias específicas, que seriam regulamentadas em momento posterior. Isso porque é preciso aguardar a votação da PEC no Senado e eventuais modificações na norma que serão feitas pelos senadores antes de tratar das categorias específicas. Prates se reuniu com consultores da Câmara nos últimos dias para fazer um pente-fino na proposta e avaliar eventuais ajustes. Ele deverá apresentar o texto em reunião de líderes nesta terça-feira. Alcolumbre se queixa da pressão Alcolumbre tem se queixado da pressão que tem sofrido para dar celeridade à discussão da PEC no Senado. O tema é prioritário para o governo Lula, já que é visto como uma possível marca da gestão petista e potencial bandeira a ser explorada no processo eleitoral. Segundo relatos de interlocutores, Alcolumbre quer uma conversa com Lula antes de dar andamento à PEC. As duas autoridades estão afastadas desde que o Senado rejeitou a indicação de Jorge Messias ao Supremo Tribunal Federal (STF), impondo derrota histórica ao governo federal. O Palácio do Planalto avalia que Alcolumbre foi um dos responsáveis por orquestrar essa derrota. Fim da escala 6x1: jornada menor avança na América Latina; veja os casos de outros países Na semana passada, o parlamentar indicou que se reuniria com líderes do Senado para discutir a tramitação do texto. O encontro, no entanto, não ocorreu. Ainda não há definição se o texto tramitará em mais de uma comissão ou qual será o relator no Senado. Nos bastidores, diversos nomes são apontados como possíveis relatores, entre eles os senadores Camilo Santana (PT-CE), ex-ministro da Educação de Lula, Rodrigo Pacheco (PSB-MG) e Omar Aziz (PSD-AM). Governistas avaliam como remotas as chances de o tema avançar nesta semana no Senado. Isso porque Alcolumbre determinou que as sessões nos próximos dias serão semipresenciais, ou seja, senadores poderão votar à distância, esvaziando o plenário. A tendência é que sejam apreciadas somente propostas de consenso entre os parlamentares. Initial plugin text",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/16/fim-da-escala-6x1-camara-deve-votar-hoje-projeto-de-lei-com-o-mesmo-texto-da-pec.ghtml",
+      "published": "2026-06-16T03:00:35+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Agência de Comunicação - Ambev oferece crédito assistido e renegociação de dívidas para 250 - Estadão Blue Studio",
+      "summary": "Agência de Comunicação - Ambev oferece crédito assistido e renegociação de dívidas para 250 &nbsp;&nbsp; Estadão Blue Studio",
+      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/releases/releases-economia/ambev-oferece-credito-assistido-e-renegociacao-de-dividas-para-250",
+      "published": "2026-06-16T04:32:30+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "renegociação de dívidas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "China: vendas no varejo caem pela primeira vez em 4 anos",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/china-vendas-no-varejo-caem-pela-primeira-vez-desde-2022-npr",
+      "published": "2026-06-16T04:56:19+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "vendas no varejo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vendas no varejo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Como a Farm conquistou os EUA e transformou o mercado internacional em 40% do faturamento",
+      "summary": "Direto da sede da companhia, o cofundador Marcello Bastos revela à EXAME os erros, os desafios e a estratégia que fez a marca levar a essência brasileira à uma escala global, sendo hoje usada por artistas como Anne Hathaway e Taylor Swift",
+      "url": "https://exame.com/negocios/como-a-farm-conquistou-os-eua-e-transformou-o-mercado-internacional-em-40-do-faturamento",
+      "published": "2026-06-16T06:06:49+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold Holds Monday’s Gains as Markets Await Clarity on U.S.-Iran Deal",
+      "summary": "Gold prices held near Monday’s gains as hopes for improved energy flows and lower oil prices eased concerns about inflation and further interest-rate increases.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-edges-higher-extending-gains-after-u-s-iran-ceasefire-79496232?mod=rss_markets_main",
+      "published": "2026-06-16T06:51:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Em Nova Fase, a Osklen Revigora Seu Luxo Esportivo com a Força do Clã Metsavaht",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Ao lado dos filhos Caetana, Thomas e Felipe, Oskar Metsavaht diz que a marca está pronta para o futuro O post Em Nova Fase, a Osklen Revigora Seu Luxo Esportivo com a Força do Clã Metsavaht apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/06/em-nova-fase-a-osklen-revigora-seu-luxo-esportivo-com-a-forca-do-cla-metsavaht",
+      "published": "2026-06-16T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "osklen"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "osklen",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Natura abre inscrições para programa que acelera startups de beleza na América Latina",
+      "summary": "A Natura abriu as inscrições para a edição 2026 do Natura Innovation Challenge (NIC), programa de aceleração voltado para startups, marcas independentes e negócios de beleza e bem-estar da América Latina. A iniciativa é realizada em formato equity-free, sem participação societária ou aporte financeiro, e busca empresas que já tenham produtos ou serviços lançados e estejam prontas para ganhar escala. As inscrições ficam abertas até 28 de junho. As selecionadas participarão de uma jornada de mentorias, testes e provas de conceito para validar soluções em ambientes reais, com acesso à infraestrutura, a especialistas e ao centro de pesquisa e desenvolvimento da Natura. Segundo a companhia, o programa é voltado tanto para marcas de beleza e cuidados pessoais quanto para empresas de tecnologia, incluindo beautytechs, femtechs e plataformas digitais que atendam o setor. Entre os critérios de seleção estão a existência de uma operação comercial estruturada, base ativa de clientes e potencial de crescimento. Nesta edição, o programa será dividido em duas frentes. A primeira é focada na cocriação de produtos e no desenvolvimento de novos conceitos alinhados às tendências do mercado de beleza e bem-estar. A segunda busca promover colaborações entre marcas, permitindo que startups testem novas formas de ativação e ampliem sua presença utilizando os canais da Natura. De acordo com José Manuel Silva, vice-presidente de Novos Negócios da Natura, o objetivo é conectar negócios inovadores ao ecossistema da companhia para acelerar o desenvolvimento de soluções e novos modelos de negócio. Ao longo do programa, os participantes poderão explorar oportunidades de cocriação, collabs, testes de mercado e possíveis parcerias futuras. Entre 7 e 10 empresas serão selecionadas para a fase de aceleração. A Natura afirma que aspectos como diversidade de gênero, raça e representatividade regional também serão considerados durante o processo de escolha. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/empresas/inovacao-aberta/noticia/2026/06/natura-abre-inscricoes-para-programa-que-acelera-startups-de-beleza-na-america-latina.ghtml",
+      "published": "2026-06-16T09:00:56+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Central Banks Are Rethinking Where They Store Their Gold",
+      "summary": "Fewer central banks now store bullion in London and New York—a reflection of growing geopolitical concerns and the desire to ensure greater control and access to reserves.",
+      "url": "https://www.wsj.com/economy/global/central-banks-are-rethinking-where-they-store-their-gold-916b79d8?mod=rss_markets_main",
+      "published": "2026-06-16T09:23:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Tênis de 'Kill Bill' é sucesso em vendas e Onitsuka Tiger terá operação própria",
       "summary": "A Asics fará a cisão da Onitsuka Tiger, a marca japonesa de calçados de 77 anos que vem experimentando uma retomada de popularidade em meio ao boom do turismo e ao crescente interesse global por tênis de estilo retrô. Empresas já entram em campo para Copa: Publicidade deve movimentar R$ 4,6 bi só nos EUA Liderança global: Zara supera Nike e se torna a marca de moda mais valiosa do mundo pela primeira vez O conselho de administração da Asics aprovou um plano para transferir o negócio da Onitsuka Tiger —tênis que fez sucesso na telona nos pés da atriz Uma Thurman, em \"Kill Bill\", de Quentin Tarantino —para a OT Group, uma subsidiária integral, por meio de uma cisão societária do tipo incorporação. A conclusão da operação está prevista para 1º de janeiro de 2027, informou a fabricante japonesa de artigos esportivos nesta quarta-feira. A empresa também planeja separar o negócio da Onitsuka Tiger em suas subsidiárias regionais e consolidar essas operações sob a OT Group. A Asics afirmou que não está considerando uma oferta pública inicial de ações (IPO) para a unidade. A marca prevê que suas vendas anuais alcancem eventualmente ¥200 bilhões (US$ 1,3 bilhão), disse o diretor-presidente (CEO) da OT GROUP, Ryoji Shoda, durante uma coletiva de imprensa em Tóquio. As vendas líquidas da Onitsuka Tiger no primeiro trimestre aumentaram 34% em relação ao mesmo período do ano anterior, atingindo ¥ 37,8 bilhões. Ryoji Shoda (à esquerda) e Yasuhito Hirota, CEo da Asics, durante coletiva concedida em Tóquio, nesta quinta-feira Kiyoshi Ota/Bloomberg Segundo a Asics, a transição da Onitsuka Tiger para uma estrutura operacional mais independente permitirá uma tomada de decisões mais rápida. A marca também planeja utilizar inteligência artificial em funções de gestão, incluindo análise de grandes volumes de dados e operações rotineiras. Copa do Mundo: Chineses faturam alto com 'cabra' de Messi às vésperas do Mundial nos EUA O CEO da Asics, Yasuhito Hirota, afirmou que a reestruturação foi concebida para acelerar o crescimento da Onitsuka Tiger, ao mesmo tempo em que aumenta o valor de todo o grupo Asics. — Essa cisão não é apenas uma reorganização corporativa — disse ele. Quais são as profissões mais bem pagas no Brasil? Ranking interativo revela ganhos com salário, bônus e verbas extras Popularizada inicialmente pela atriz Uma Thurman nos filmes 'Kill Bill', a Onitsuka Tiger começou como uma marca de calçados esportivos e posteriormente se tornou uma referência de moda sob o comando da Asics. Tênis da marca Onitsuka Tiger se tornou popular ao ser usado pela atriz Popularizada inicialmente pela atriz Uma Thurman nos filmes 'Kill Bill', do diretor Quentin Tarantino Divulgação Embora a marca tenha fechado suas lojas de varejo nos Estados Unidos em 2023 para melhorar a rentabilidade, a Onitsuka anunciou que retornará ao mercado americano com a inauguração de uma loja em Los Angeles em fevereiro de 2027. A empresa também anunciou futuras aberturas de lojas em regiões como Xangai, Milão e Seul. As ações da Asics chegaram a cair até 2% nesta quarta-feira. Ainda assim, acumulam valorização de aproximadamente 17% em 2026 até o momento.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/11/tenis-de-kill-bill-e-sucesso-em-vendas-e-onitsuka-tiger-tera-operacao-propria.ghtml",
@@ -5168,60 +5359,6 @@
         }
       ],
       "score": 14.0
-    },
-    {
-      "title": "Após 60 mil agentes de IA, a Prosus escreveu um manual corporativo — e compartilhou",
-      "summary": "Depois de criar 60 mil agentes de inteligência artificial em apenas 18 meses, a partir de seus 40 mil funcionários globais, a holding holandesa Prosus publicou o que pode ser a análise mais completa (e pública) até agora feita sobre agentes de IA operados em escala por uma empresa cujo negócio principal não é vender IA. A dona do iFood, Decolar, PayU e Just Eat Takeaway não comenta somente sua trilha em “The Coming Age of AI Colleagues”, mas escreveu praticamente um manual para outras organizações que não sabem por onde começar. Na companhia, os agentes estão começando a se parecer menos com software e mais com funcionários: como uma força de trabalho digital completa, passou a classificá-los por senioridade. Existem agentes-estagiários, agentes júnior, pleno e sênior. Os mais avançados utilizam mais de 11 ferramentas diferentes e executam tarefas complexas, enquanto os mais simples desempenham funções pontuais e repetitivas. Quase 20 mil funcionários da Prosus utilizam agentes classificados como sênior. Anthropic, do Claude, ultrapassa OpenAI e vira maior startup de IA Despenca o volume de aporte de fundos em empresas de software Mas a fotografia muda quando a companhia observa o uso diário, por meio da plataforma interna Toqan. Embora os agentes mais sofisticados concentrem a maior base de usuários, metade da atividade cotidiana acontece em agentes relativamente simples. São assistentes que organizam agendas, produzem relatórios, resumem documentos ou ajudam funcionários a executar tarefas rotineiras. Na IA agência, o percentual transformacional lembra a estratégia dos fundos de VC Pixabay A descoberta mais relevante, porém, foi a identificação do que a companhia chama de power law agents. Assim como poucos fundos de venture capital concentram a maior parte dos retornos em um pequeno número de empresas vencedoras, apenas cerca de 2% dos agentes ativos geram impacto econômico transformacional. São eles que recebem a maior parte da atenção da companhia. A chave está em identificar esses outliers o mais cedo possível e redobrar os investimentos neles. Softbank aposta 75 bilhões de euros em data centers para IA na França Os exemplos ajudam a explicar por quê. Em uma das empresas do portfólio, um conjunto de agentes assumiu sozinho a comunicação, seleção e onboarding de parceiros de um novo marketplace de afiliados. O valor individual de cada afiliado era tão pequeno que o modelo simplesmente não fechava economicamente quando dependia de pessoas. Com a IA fazendo a maior parte do trabalho e escalando apenas casos excepcionais para humanos, a operação tornou-se viável. A expectativa é que o marketplace gere US$ 83 milhões em receita anual. Em outra empresa do grupo, um agente foi criado para atender a chamada “cauda longa” de pequenos restaurantes que não justificavam a dedicação de um gerente de contas humano. O resultado foi um aumento de 119% nos pedidos e uma melhora de 73% na retenção desses estabelecimentos. Há também o caso de um assistente capaz de responder perguntas extremamente específicas sobre imóveis de temporada — se a casa tem uma mesa adequada para trabalho remoto, qualidade da internet ou características da vizinhança. Clientes que interagem com o agente apresentam uma taxa de reserva 138% maior. Banco de dados para IA, ClickHouse chega ao Brasil avaliada em US$ 15 bi Strattum atrai Onevc e Maya para preparar empresas para a era da IA O relatório traz ainda algumas conclusões que contrariam parte do discurso dominante da indústria. A primeira delas é que o modelo de IA utilizado importa menos do que parece. A Prosus afirma que a introdução do Claude Sonnet 4 representou um salto relevante de capacidade, mas que os avanços posteriores passaram a apresentar retornos decrescentes. Para a maioria dos casos de uso corporativos, os modelos mais avançados já são simplesmente “bons o suficiente”. O problema passou a ser menos desempenho e mais custo. Fabricio Bloisi, CEO da Prosus: 40 mil funcionários usando e treinando 60 mi agentes Silvia Costanti / Valor Outra lição veio de uma tentativa fracassada. A companhia tentou implementar memória de longo prazo em seus agentes, permitindo que eles acumulassem contexto e histórico ao longo do tempo. O resultado foi um sistema excessivamente complexo, que crescia sem controle e acabou sendo abandonado pelos próprios usuários. A experiência levou a Prosus a desenvolver uma nova abordagem focada apenas em informações consideradas permanentes ou duradouras — uma solução que se transformou em uma das principais recomendações técnicas do relatório. Mas depois de levar os agentes para dentro das estruturas existentes, a Prosus começou a testar o movimento inverso: reorganizar estruturas inteiras em torno da inteligência artificial. A companhia diz estar experimentando cenários em que funções como vendas, operações e atendimento deixam de ser apenas apoiadas por IA e passam a ser coordenadas por ela. Enter vira primeiro unicórnio de IA da América Latina com nova rodada A analogia utilizada é a da eletrificação das fábricas no início do século passado. Os ganhos de produtividade não surgiram quando as empresas simplesmente trocaram motores a vapor por motores elétricos. Eles apareceram quando todo o processo produtivo foi redesenhado em torno da nova tecnologia. Para a Prosus, a inteligência artificial está entrando exatamente nessa fase: os agentes já chegaram às empresas e a próxima disputa será reconstruir a organização ao redor deles. Pontos altos do relatório: uma lista de 20 IAs agênticas para sua empresa iniciar sua trilha; como mensurar o ROI da IA; a lógica classificação de agentes por níveis de senioridade; o teste \"delete o agente esta noite\". Para acessar o documento completo, clique aqui",
-      "url": "https://pipelinevalor.globo.com/mercado/noticia/apos-60-mil-agentes-de-ia-a-prosus-escreveu-um-manual-corporativo-e-compartilhou.ghtml",
-      "published": "2026-06-09T09:00:13+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood",
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 10.0
-    },
-    {
-      "title": "Câmara prevê que partidos quitem dívidas em parcelas 40% menores que a média cobrada de brasileiros endividados",
-      "summary": "Aprovado a toque de caixa na Câmara no mês passado, o projeto que prevê um pacote de benefícios a partidos políticos estabelece que as legendas poderão pagar suas dívidas em parcelas que representam, no máximo, 40% do cobrado, em média, por brasileiros endividados. As regras são válidas, por exemplo, para multas eleitorais aplicadas pela Justiça Eleitoral a legendas que apresentam irregularidades em suas contas. A comparação considera dados do Banco Central sobre o endividamento das famílias, que apontam para um comprometimento médio de 29,7% da renda para o pagamento de empréstimos, financiamentos e outras obrigações financeiras. Para quem recebe um salário mínimo, isso representa R$ 419 por mês. Enquanto isso, a proposta aprovada na Câmara prevê um limite de R$ 30 mil para as penalidades aplicadas às legendas, que poderão ser pagas no prazo de 15 anos. Ou seja, os partidos políticos poderão quitar multas eleitorais pagando cerca de R$ 166 por mês durante 15 anos. O levantamento é do Pacto pela Democracia, consórcio que reúne mais de 200 entidades da sociedade civil. As condições atraentes para o pagamento de dívidas fazem parte de uma ampla reforma das regras que tratam da fiscalização das contas partidárias. Além de reduzir o valor máximo das multas, o projeto prevê a renegociação de pendências já existentes \"independentemente do valor e a critério do partido solicitante\", mesmo quando houver um acordo de pagamento em vigor. Hoje, partidos condenados pela Justiça Eleitoral podem sofrer descontos nos recursos recebidos do Fundo Partidário para quitar valores devidos. Pela proposta aprovada pela Câmara, o pagamento das multas passaria a ocorrer de forma parcelada ao longo de até 180 meses, reduzindo significativamente o impacto financeiro das punições sobre as legendas. Outra mudança afrouxa critérios de análise das prestações de contas. Pela proposta, falhas que representem até 10% das receitas do partido poderão resultar apenas na aprovação das contas com ressalvas, sem punições mais severas. O projeto ainda reduz de quatro para três anos o prazo para que técnicos da Justiça Eleitoral apontem inconsistências nas contas apresentadas pelas legendas. Se o julgamento não for realizado nesse prazo, o processo de prestação de contas será extinto. Críticos da proposta afirmam que as mudanças reduzem a capacidade de fiscalização da Justiça Eleitoral e dificultam as punições para irregularidades envolvendo dinheiro público. — Enquanto milhões de brasileiros comprometem uma parcela significativa da própria renda para quitar dívidas, o Congresso discute permitir que partidos políticos parcelem multas eleitorais em condições extremamente favorecidas — afirma Natália Neris, gerente de incidência política do Pacto pela Democracia. Defensores da proposta, por outro lado, argumentam que as regras atuais são excessivamente rígidas e que as mudanças trazem mais segurança jurídica aos partidos, além de tornar as punições proporcionais às irregularidades identificadas. O texto foi incluído na pauta do plenário da Câmara de surpresa em 19 de maio e aprovado duas horas depois, em votação simbólica — modalidade em que o posicionamento individual dos deputados não é identificado. Apenas PSOL, Novo e Missão se posicionaram de forma contrária à medida. A proposta ainda será analisada pelo Senado. Se os senadores aprovarem o texto sem alterações, ele seguirá para sanção presidencial. Caso seja modificado, retornará à Câmara para nova votação.",
-      "url": "https://oglobo.globo.com/politica/noticia/2026/06/09/camara-preve-que-partidos-quitem-dividas-em-parcelas-40percent-menores-que-a-media-cobrada-de-brasileiros-endividados.ghtml",
-      "published": "2026-06-09T09:00:27+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Pentágono acusa BYD e Alibaba de ajudarem exército da China; Pequim reage",
@@ -5731,6 +5868,75 @@
       "score": 8.0
     },
     {
+      "title": "Com acordo entre EUA e Irã, petróleo fecha em queda de 4,7%, aos US$ 83",
+      "summary": "O barril do tipo Brent para agosto (referência internacional), commodity que foi o principal guia dos indicadores ao longo dos últimos 100 dias, encerrou a segunda-feira em baixa de 4,76%, cotado a US$ 83,17. O movimento refletiu o acordo para reabrir o Estreito de Ormuz, por onde passa 20% do fluxo global do óleo. A queda do barril impulsionou uma forte alta dos ativos de maior risco no exterior, movimento que não foi captado no Brasil. Erro 'bizarro', diz fundadora do Nubank sobre alerta falso de liquidação enviado a clientes Entenda: depois de abrir capital com volume recorde, SpaceX vai pagar zero de comissão a bancos Por aqui, o principal índice da Bolsa foi pressionado pelas ações de petrolíferas e do setor financeiro, fechando em baixa de 0,42%, aos 170.415 pontos. Já o câmbio encerrou em ligeira alta de 0,06%, aos R$ 5,06. Ainda que leve, o alívio dos juros futuros não reverteu as projeções futuras adotadas desde a semana passada. Para analistas, o não aproveitamento do bom humor global foi apagado pelo pessimismo local. Além do impacto na previsão da inflação por conta do preço do petróleo beirando os US$ 100 há dois meses, o aumento dos gastos públicos neste ano eleitoral voltou às conversas nas mesas de operações e nos relatórios de grandes instituições financeiras. O Boletim Focus, documento que ouve participantes do mercado financeiro e é realizado pelo Banco Central, mostrou nova rodada de piora das projeções para a inflação e juros neste e nos próximos anos: — É um ambiente que vai melhorar em geral por conta da redução do conflito, acalma. Mas, no caso brasileiro, houve uma piora importante, relacionada à expansão fiscal, com gasto adicional de R$ 215 bilhões — ele diz, afirmando que o aumento dos gastos públicos tendem a “atrapalhar o Banco Central a reduzir os juros”: — O Banco Central tem, então, que abortar grande parte da queda (da Taxa Selic). E isso tudo está sendo realizado à margem do arcabouço fiscal, num momento em que se precisava de moderação dos gastos — disse ele. Na curva de juros, o mercado ainda estimava um terreno restritivo para a Taxa Selic. A taxa de Depósito Interfinanceiro (DI) para janeiro de 2027 caiu a 14,24%, ante 14,36% na última sexta-feira. Para janeiro de 2029, o DI aliviou para 14,33%, de 14,455% na sessão anterior. Initial plugin text Para a próxima reunião do Comitê de Política Monetária (Copom), na próxima quarta-feira, os operadores previam uma redução de 0,25 ponto percentual, a 14,25%, mas ainda havia dúvidas quanto a magnitude total do ciclo de cortes até o fim do ano. Pesquisa eleitoral divulgada nesta segunda-feira, mostrando perda de competitividade do senador Flávio Bolsonaro (PL) frente a Lula, também reforçou o cenário de cautela para o investidor. A avaliação é de Felipe Tavares, economista-chefe da BGC Liquidez, que também vê com preocupação a pressão criada pelos recentes indicadores macroeconômicos: — A nova pesquisa mostrou adversidades para as chances de um candidato reformista. E estamos num cenário em que é preciso uma correção de rumo. Sem reformas, você caminha para um cenário mais adverso por conta do aumento da relação entre dívida pública e PIB. E, atribui-se que, para haver uma agenda reformista, seria necessário a troca da condução política — ele diz. Ontem, apesar da ligeira desvalorização, o real foi a segunda moeda que mais se desvalorizou frente ao dólar dentre as 31 moedas mais negociadas do mundo, ficando atrás apenas da coroa norueguesa. Em linha com a queda firme do petróleo, as ações preferenciais das petrolíferas encerraram o dia em queda firme, pressionando o Ibovespa: os papéis preferenciais da Petrobras (PN, sem voto) caíram 5,15%, aos R$ 39,06, maior queda diária desde agosto do ano passado. Os papéis ordinários (ON, com voto) desvalorizaram 5,3%, aos R$ 43,74. A empresa perdeu R$ 30 bilhões em valor de mercado. As ações da Prio também fecharam em baixa de 6,91%, aos R$ 57,10. IA drena recursos Apesar do fim do conflito se refletir num aumento do apetite a investimentos de maior risco, o retorno das apostas em inteligência artificial também contribuiu para a redução do investimento internacional nos papéis brasileiros. Desde o pico do ingresso do estrangeiro no segmento de ações brasileiras, em meados de abril, os bolsos internacionais já retiraram, em dois meses, quase R$ 32 bilhões da B3 em dois meses. Para Marcel Andrade, responsável pela área de soluções na SulAmérica Investimentos, as aberturas de capital (IPOs, na sigla em inglês) tendem a drenar recursos que apostaram nas companhias dos mercados emergentes: — Toda aquela dúvida que existia no mercado sobre os resultados das empresas de inteligência artificial ficou para trás. Os balanços mostram que os investimentos estão se pagando. E há esse movimento de euforia dos IPOs, como o da SpaceX, e os que virão, como Anthropic e OpenAI. O fluxo de capitais que tinha deixado os EUA está voltando — ele disse. Initial plugin text Em seu segundo dia de negociações, a SpaceX subiu 19,6%, aos US$ 192,50. De acordo com a consultoria Vanda Research, as pessoas físicas compraram só em ações da companhia o mesmo volume que negociaram em todo o mercado americano na semana passada. Em Nova York, as Bolsas registraram alta firme, e o índice Dow Jones alcançou nova máxima histórica. O S&amp;P 500, índice de referência americano, subiu 1,65%, aos 7.554 pontos, enquanto o Nasdaq, de papéis ligados à tecnologia, avançou 3,07%, aos 26.684 pontos: — A volatilidade pode persistir no curto prazo, enquanto os mercados avaliam a implementação e a durabilidade do acordo, mas mantemos nossa visão de que o crescimento resiliente e os lucros corporativos robustos devem continuar impulsionando as ações — afirmou Ulrike Hoffmann-Burchardi, do UBS. Com a queda do petróleo, operadores americanos passaram a atribuir menor probabilidade a uma alta de juros por lá até dezembro. O Federal Reserve (Fed, o BC americano) também se reúne na quarta-feira para decidir os juros, com apostas na manutenção na faixa atual, entre 3,5% e 3,75%, enquanto avalia de que forma o choque nos preços da energia afetará a economia do país. (com Bloomberg News) Initial plugin text",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/06/15/petroleo-dolar-ibovespa-hoje.ghtml",
+      "published": "2026-06-15T23:09:55+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Coco de piaçava: como o produto tradicional da Bahia ganhou espaço no mercado islâmico",
+      "summary": "A piaçava, famosa no passado, quando suas fibras eram uma popular matéria-prima para a fabricação de vassouras, hoje é virtualmente ignorada por grande parte dos brasileiros, além de estar ameaçada de extinção por causa do desmatamento da Mata Atlântica. Mas a espécie continua a ser um elemento importante na economia do sul da Bahia, sua região de origem. Semente de Araucária: Pinhão sai da festa junina e ganha espaço na culinária e no turismo gastronômico Colheita tardia e frio deixam as maçãs desta safra mais doces: entenda o chamado ‘pingo de mel’ nas frutas O plástico pode ter roubado espaço da fibra da palmeira nas vassouras dos lares brasileiros, mas outro item da cultura tem conquistado adeptos no mundo islâmico: o coco da piaçava tem sido alternativa ao marfim na confecção da masbaha, uma espécie de terço usado nas orações diárias dos fiéis. A Cooperativa dos Agricultores Familiares do Baixo Sul (Coopafbasul), de Ituberá (BA), trabalhava com outras 120 culturas, além da palmeira, quando começou a vender ao Egito em 2020. Hoje, ela é líder nas exportações. Os embarques de coco da cooperativa somaram 390 toneladas em 2025 e chegaram a 233,5 toneladas no cinco primeiros meses deste ano. Em 2026, a cooperativa espera exportar 500 toneladas. Investimento: Mesmo com preço e demanda em alta, falta crédito para plantar cacau — A gente não conhecia a dimensão desse trabalho e o quão importante ele seria para região toda — afirma Gileno Araújo dos Santos, diretor-executivo da Coopafbasul. Inicialmente, a cooperativa só trabalhava com a fibra da piaçava, mas ela passou a olhar com mais atenção para o coco em 2020, após ter sido procurada por um comerciante egípcio que atuava no ramo. Interessado na estrutura logística da cooperativa, o comerciante encomendou já no primeiro ano 42 contêineres de 28 toneladas. Gileno Araújo dos Santos, diretor-executivo da Coopafbasul (Cooperativa dos Agricultores Familiares do Baixo Sul) Divulgação — Ele queria um contrato de três mil toneladas por ano, e fomos atrás desse volume. Fizemos um levantamento de quantos cooperados tinham coco e percebemos que o volume era bem expressivo — recorda Santos. Hoje com 3,8 mil cooperados, a Coopafbasul passou a vender também para China, Turquia e Indonésia, além do Egito. Cremes que vêm da vaca: cosméticos usam sebo bovino e conquistam adeptos de ingredientes naturais Também cresceu o valor agregado dos embarques. A partir da seleção prévia dos cocos que tinham mais qualidade e características mais propícias para a produção da masbaha, a Coopafbasul passou a vender o coco de piaçava não mais por milheiro, mas por quilo. Com isso, o preço por quilo, que era de R$ 0,20 até então, subiu para R$ 2,80. O volume do embarques, em contrapartida, caiu pela metade, já que a cooperativa passou a descartar os cocos avaliados como de qualidade inferior. A Coopafbasul criou quatro classificações para o coco da piaçava para exportação, e mais da metade da produção passou a se destinar para a queima na indústria. Santos relata que o coco que vai para a exportação tem que ter no mínimo cinco centímetros de diâmetro, já que o trabalho que a produção da masbaha no Egito é manual, detalha. A participação da piaçava no faturamento da cooperativa já é de 10%, mas, se considerada também a queima, a fatia chega a cerca de 20%. Drinks novos: Umbu, licuri, mangaba e outros ingredientes típicos dão origem a nova coquetelaria nordestina Mohamad Al Bukai, sheik da Mesquita Brasil, diz que o comércio do coco de piaçava para produção de masbaha tem um valor especial, dada a simbologia do item religioso. — Isso começa com motivos comerciais, mas acaba também servindo como ponte para transportar também culturas e, às vezes, práticas religiosas— afirma Bukai. Segundo ele, o próprio termo Bahia é de origem árabe, que sugere “brilho”, “beleza”. Sem mudanças genéticas: Guardiões de sementes preservam cultura alimentar em pequenas propriedades — Baya, um nome árabe, foi o termo que os primeiros escravizados usaram para fazer referência à região quando chegaram ao Estado — diz. De fato, parte dos africanos escravizados que chegaram à Bahia seguia a religião mulçumana. Eles saíram da África Ocidental e do Sudão Central, regiões onde hoje ficam os territórios de países como Nigéria, Benin, Togo e Senegal. — O mundo islâmico é muito maior do que o mundo árabe. São mais de 60 países islâmicos, e 80% deles não são árabes— comenta Bukai.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/16/coco-de-piacava-como-o-produto-tradicional-da-bahia-ganhou-espaco-no-mercado-islamico.ghtml",
+      "published": "2026-06-16T07:00:43+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "'Juros são a faca no pescoço do Brasil', diz Rubens Menin",
+      "summary": "A perspectiva de um ciclo menor de corte de juros, com a taxa Selic em patamar ainda elevado por mais tempo, deve resultar em novos impactos para empresas e consumidores – mesmo já tendo ocorrido uma leva de reestruturações corporativas e uma piora no endividamento das famílias. “Os juros são a faca no pescoço do Brasil”, diz o empresário Rubens Menin. “Estamos há cinco anos convivendo com juros muito elevados. O reflexo começou a aparecer agora e não vai melhorar, vai piorar porque a queda foi muito pequena.” Ele avalia que o país ainda enfrentar mais dois anos de crédito caro. “É o consumidor ainda mais endividado, empresas investindo menos e crescimento mais lento. O juro está matando o nosso futuro”, diz Menin, reconhecendo que a guerra entre Israel e Irã foi o cisne negro que os Bancos Centrais não contavam para a inflação. De banco a incorporadora, Menin ocupa cadeiras de presidente de conselhos Valor Menin divide seu tempo na presidência de diferentes companhias em que é acionista controlador: é chairman do Banco Inter, da MRV&amp;Co, LOG, CNN Brasil e Rádio Itatiaia. No terceiro setor, fundou o Movimento Bem Maior. É também dono da Menin Wine Company e um dos maiores acionistas da Galo Holding, controladora da SAF do Atlético Mineiro – onde é conselheiro e já compartilhou a mesa com Daniel Vorcaro. Além de excluído do conselho do clube, Vorcaro foi diluído em um aporte recente de Menin e outros sócios. “Eu conheço o Daniel, mas não conheço demais, encontrei com ele umas quatro ou cinco vezes, como ele é sócio no Atlético, através de um fundo. Acho que eu e o Brasil inteiro fomos surpreendidos pela magnitude desse negócio”, diz ele. “Eu imaginava que o Master queria fazer operações de banco: pegar dinheiro e emprestar. Claramente não foi isso que foi feito. A ramificação para tudo me deixou assustado”, emenda Menin, referindo-se principalmente às conexões políticas. Por falar em Brasília... “A população não está satisfeita, os três poderes não estão bem avaliados. Temos que melhorar a política. Eu acho que o dia que a gente tiver um Congresso à altura, com mais pessoas de qualidade. Tem muito político hoje que está só olhando o umbigo.” Em ano eleitoral, o empresário teme que uma constante polarização acabe desviando os debates e as decisões dos eleitores dos temas que deviam ser avaliados de fato. “A polarização tirou o racional da coisa e a gente ficou um pouco burro. As pessoas tinham partidos diferentes, ideologias diferentes, mas argumentavam, conversavam de forma harmoniosa”, diz. “Qualquer um que ganhar, nós temos que estar juntos, apoiar. O Brasil é tão bom, se a gente fizer o dever de casa, a gente arrebenta.” Meses depois de completar seus 70 anos, Menin diz que ainda “não caiu a ficha” da idade. A agenda segue puxada: em uma mesma semana, passa por Belo Horizonte, Rio de Janeiro e São Paulo para reuniões nas companhias. À noite, costuma reservar mais duas horas de trabalho, isolado em casa, para “botar a vida em dia”. O que mudou nos últimos anos foi sua relação com a saúde. A leitura de “Outlive”, do médico Peter Attia, despertou maior interesse sobre manter uma longevidade saudável. Além da família, ele tem dado cada vez mais valor às amizades. “A vida é uma reflexão. Família é fundamental, mas eu gosto muito de amizade. Por exemplo, eu tenho uma turminha boa, que há anos a gente joga tênis, todo sábado. Cada ano a gente é mais lento, né? Mas na roda não pode falar de negócios. E gente chata também não entra.”",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/juros-sao-a-faca-no-pescoco-do-brasil-diz-rubens-menin.ghtml",
+      "published": "2026-06-16T09:00:13+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Zema minimiza fala do atual governador de MG para desistir da candidatura e apoiar Flávio: 'mera ideia'",
       "summary": "O pré-candidato à Presidência da República pelo Novo, Romeu Zema, minimizou as declarações do atual governador de Minas Gerais, Mateus Simões (PSD), para que ele fizesse uma composição com Flávio Bolsonaro (PL) e não se candidatasse diretamente à eleição. Para Zena, a declaração de Simões é uma \"mera conjugação, uma mera ideia\". Zema disse que o mundo perfeito sempre existe na cabeça das pessoas e que, para ele, o mundo perfeito seria ser candidato único. — Recebo as declarações (de Simões) com muita naturalidade. Quem acompanhou a fala toda sabe que isso é uma mera conjugação, uma mera ideia. O mundo perfeito sempre existe nas nossas cabeças e pra mim o mundo perfeito seria ser candidato único também, então isso pra mim não afeta em nada, continuo dando o meu total apoio a ele. PSD e Novo em Minas Gerais estão caminhando lado a lado — declarou Zema, que participou de evento em São Paulo realizado pelo Instituto Diálogos, criado pela senadora e ex-ministra da Agricultura, Tereza Cristina, para discutir o cenário geopolítico atual. Sobre o contexto geopolítico, Zema disse que o Brasil tem se aproximado cada vez mais da China e se distanciado do Ocidente. Ele atribuiu esse posicionamento à atuação do Itamaraty na gestão do presidente Lula. Para o pré-candidato, o governo Lula vem \"questionando os Estados Unidos e cria uma dependência perigosa da China\". — Nós estamos vendo, há muito tempo, um Brasil cada vez mais próximo da China e mais distante do Ocidente. E o tarifaço está dentro desse contexto. O Itamaraty tem atuado principalmente desde que o PT assumiu o país há 22 anos na direção de questionar Estados Unidos e de se distanciar de países do Ocidente numa clara aproximação à China. A China é importantíssima, todo parceiro comercial precisa ser muito bem tratado, mas o Brasil está criando uma dependência perigosa com a China — afirmou. Para Zema, se a China começar a reduzir a importação de alguns produtos brasileiros, o país vai enfrentar dificuldades muito grandes. Oriundo do varejo, Zema disse que sua estratégia no ramo sempre foi não concentração em nenhum cliente. — A partir do momento em que você depende de um cliente você fica vulnerável e me parece que o PT escolheu essa opção — declarou. Zema acredita que o novo tarifaço imposto pelos EUA ao Brasil teve influência do governo Lula e do PT, que têm afrontado os Estados Unidos. Ele afirmou que como a família Bolsonaro é muito próximo do Trump, que ajudem a resolver essa questão. Sobre a possível adoção da lei de reciprocidade pelo Brasil em relação aos EUA, Zema disse que a medida deve ser vista com cautela. — Quando você fala: eu vou fazer com você o que você está fazendo comigo, talvez o tiro saia pela culatra. No caso dos vistos, claramente se prejudica o turismo, a rede hoteleira sofre, o brasileiro como um todo sofre porque acaba recebendo menos turistas aqui. E com as questões comerciais, isso tem que ser visto também. Às vezes na hora que você aplicar mesmo a lei quem vai pagar é o brasileiro que vai pagar mais caro por produtos que vêm desses países. Então é algo que deve ser sempre colocado sobre a mesa, mas não de maneira automática. É preciso ponderar e calibrar muito bem isso — disse.",
       "url": "https://oglobo.globo.com/politica/noticia/2026/06/09/zema-minimiza-fala-do-atual-governador-de-mg-para-desistir-da-candidatura-e-apoiar-flavio-mera-ideia.ghtml",
@@ -5917,52 +6123,6 @@
         }
       ],
       "score": 4.0
-    },
-    {
-      "title": "Brasil já tem mais festivais do que dias no ano",
-      "summary": "O Brasil tem festival o ano inteiro, mas nem todos chegam à segunda edição. Foram 366 eventos em 2025, de acordo com a pesquisa Panorama Mapa dos Festivais, lançada no mês de março, que catalogou ainda mais de 3,7 mil artistas e 958 marcas patrocinadoras e foi discutida durante o Rio2C 2026. O número de eventos cresceu cerca de 20% em relação a 2023, embora tenha se estabilizado na comparação com 2024. Mas toda essa estabilidade engana. Por trás dela, a cena fervilha e se desfaz no mesmo passo: 174 festivais realizados em 2024 não voltaram no ano seguinte, enquanto 58 marcas novas surgiram para ocupar o vazio. A conta que derruba a maioria foi resumida por Juli Baldi, diretora criativa do Mapa dos Festivais, na mesa “A Tendência dos Festivais no Brasil”. — A maioria deixa de acontecer por falta de patrocínio ou por não conseguir montar um line-up forte o suficiente para justificar a venda de ingresso. Sabor local Os grandes eventos, destacou Juli, são minoria: 56% recebem até 15 mil pessoas e apenas 8% se enquadram no maior porte. O país dos festivais é, sobretudo, um país de festivais pequenos. A expansão fora do eixo Sudeste, que hoje responde por cerca de 40% da cena, paga caro pela descentralização. Gabriela Parente, sócia-fundadora e diretora criativa do Festival Zepelim, de Fortaleza, lembrou que levar artistas e equipes para o Ceará pode custar tanto quanto uma viagem à Europa. — Às vezes uma banda local precisa fazer sucesso primeiro em São Paulo para depois fazer sucesso no Ceará. O diferencial dos festivais fora do eixo acaba sendo também uma dificuldade financeira e logística — disse Gabriela. Gerson Dias, diretor do Festival Psica, de Belém, tenta inverter a lógica: coloca os artistas locais no centro da grade, não como atração de abertura. O resultado é um evento que virou destino para o público de fora do Pará, atraído pela imersão na cultura amazônica, do tecnobrega às aparelhagens. — O regional é o novo nacional — resumiu Dias, antes de adiantar que o Psica prepara uma edição gratuita em julho, no Marajó, parte de uma expansão pelo estado. Risco da repetição Se a sobrevivência é um problema, a semelhança é outro. À medida que a oferta cresce, as grades se repetem, pautadas pelos algoritmos de sites e aplicativos. Em outra mesa do Rio2C, “A estafa algorítmica e as marcas: como ajudar os consumidores a furar suas bolhas”, curadores e executivos atacaram a ideia de que número de seguidores se converte em plateia. A métrica que enche um feed, argumentaram, não é a mesma que enche a frente de um palco. Apostar só nela cobra seu preço na bilheteria. — Uma agência estava trabalhando a carreira de uma tiktoker que virou artista de música — contou o curador Lucio Ribeiro, da Popload. — A jovem tem milhões de seguidores no TikTok, mas não leva 20 pessoas ao festival. Como uma menina com um canhão de comunicação não consegue encher um show? A efetividade da comunicação vem do entendimento do que é a sua comunidade. Para Alexandra Pain, CMO do C6 Bank, patrocinador do C6 Fest, em São Paulo, o programador que “não transita por lugares variados sempre fica igual e não descobre o diferente”. A saída, defende, é a pesquisa de campo em festivais mundo afora, não o ranking gerado por Spotify ou YouTube. A resposta mais radical a esse “excesso de palcos” abre mão justamente daquilo que a pesquisa do Mapa dos Festivais aponta como decisivo para a venda de ingresso: a lista de atrações. Para o No Line-Up Festival, o público compra a entrada sem saber quem vai tocar. — Este é o primeiro festival que ninguém sabe quem vai se apresentar — disse Guilherme Bailão, diretor de experiência de marcas e patrocínio da cervejaria Heineken. — A gente vê uma grande padronização dos festivais, e o No Line-Up nasce dessa reflexão. Todo brasileiro hoje, além de técnico de futebol, virou também curador artístico. Não tem mais line-up para ser discutido: as pessoas descobrem, na hora, o que vai tocar. E vai ter bandas que o público não gosta, nunca ouviu falar. A beleza está aí. O elo entre as duas conversas é a descoberta, ou a falta dela. Para Melina Leal Hickson, diretora da Fina Produção e criadora do Porto Musical, que mediou a mesa sobre tendências, os festivais independentes nasceram como espaços de revelação, mas parte deles parou de apostar em nomes novos depois da pandemia. — É urgente que os festivais e as curadorias voltem a olhar para os novos artistas. Esse é o DNA dos festivais independentes — afirmou. Juli Baldi prefere falar em “personalidade” a “regionalismo”. Segundo a pesquisa, 30% do público viaja para festivais de música e costuma repetir a viagem de duas a seis vezes por ano. Um sinal de que o evento deixou de ser uma grade de shows para virar motivo de deslocamento, turismo e descoberta cultural. A curadoria, no fim, decide quem sobrevive. Gabriela Parente contou como precisou recalcular a rota do Zepelim ao perceber que envelhecia junto com o público. — Cheguei à conclusão de que meu público principal tinha de 25 a 35 anos, e o festival vai fazer cinco anos — disse a diretora criativa. — Pensei: “o mais novo já está com 30, o outro com 35 e já tem filho. Me lasquei, vai acabar o festival!” Tive que reestruturar o line-up para baixar a faixa etária, e consegui: para 18 anos.",
-      "url": "https://oglobo.globo.com/economia/tecnologia/rio2c/noticia/2026/06/09/brasil-ja-tem-mais-festivais-do-que-dias-no-ano.ghtml",
-      "published": "2026-06-09T05:00:21+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "c6"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "c6",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "Ano que vem a Copa é aqui: Mundial Feminino no Brasil traz oportunidades econômicas e legados sociais",
-      "summary": "Enquanto o planeta volta os olhos para a Copa do Mundo, o Brasil se prepara para a versão feminina, a ser realizada pela primeira vez no país, em 2027. O tema ganhou destaque no Rio2C, com painéis sobre o avanço recente da modalidade, que leva milhares de pessoas aos estádios, principalmente na Europa, e tem grande potencial econômico. Caso bem-sucedido: No Rio, roteirista de 'La casa de papel' fala do fracasso que precedeu o sucesso da série Lançamentos à vista: TV Globo anuncia novidades e mira 'pluralidade singular' do Brasil de várias telas A transmissão da última Copa feminina na Globo alcançou 56 milhões de pessoas, há três anos. Mesmo assim, convencer uma marca a patrocinar equipes femininas ainda exige esforço, afirmou Dani Schneider, CEO da Agência de Atletas, empresa de marketing esportivo. — A audiência é subestimada. Não é mais filantropia, mas ainda é preciso explicar a força do produto ao mercado — disse ela. Marcas que entenderam esse ativo saíram na frente. Na última Copa, o iFood fez uma parceria com a Cazé TV para transmitir jogos no próprio aplicativo. Na época, a proposta se baseou em três argumentos, frisou Mairá Mendonça, head de marketing da empresa: dados e resultados efetivos, posicionamento estratégico e conexão cultural e emocional. — O projeto mostrou um olhar visionário que as marcas podem ter. Ir para o esporte é ir a um lugar emocional, sair só do transacional e consumo. Cria conexão com a comunidade — explicou Mairá, na mesa “A Nova Economia do Esporte Feminino: Protagonismo, Marcas e Patrocínio”. As parcerias podem ir além dos patrocínios em transmissões de eventos. Com investimentos da Petrobras, por exemplo, a Ferroviária está construindo o primeiro Centro de Treinamento do Brasil dedicado exclusivamente ao futebol feminino. Outra iniciativa apoiada pela estatal foi a versão feminina do Cartola. Em 2025 foram criados 220 mil times no fantasy game. — A gente precisa ter referências para mudar uma cultura. Conforme a gente vai abrindo os espaços, o futebol feminino vai ficando natural — afirmou Ana Claudia Esteves, gerente de publicidade e mídia da Petrobras. Para Juliana Agatte, secretária da Copa do Mundo Feminina de 2027 no Ministério dos Esportes, o Mundial é uma plataforma de política pública no Brasil, com o objetivo de profissionalizar o esporte em todas suas fases. — Diferente da Copa de 2014, e suas grandes infraestruturas, temos focado no legado social e esportivo, para que a gente consiga dar o recado e desconstruir preconceitos que permeiam o futebol feminino — afirmou Agatte, na mesa “Copas do Mundo: Mídia, Cultura e o Futuro do Futebol”. Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/tecnologia/rio2c/noticia/2026/06/09/ano-que-vem-a-copa-e-aqui-mundial-feminino-no-brasil-traz-oportunidades-economicas-e-legados-sociais.ghtml",
-      "published": "2026-06-09T06:30:20+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
     },
     {
       "title": "Tensão com preços nos balanços é a maior desde o pós-pandemia",
@@ -6739,6 +6899,52 @@
         {
           "sector": "E-commerce",
           "alias": "amazon",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Na era ‘figital’, bancos trocam grandes agências por pontos de atendimento",
+      "summary": "A intensa digitalização dos bancos está redesenhando o setor financeiro no país. Segundo a \"Pesquisa Febraban de Tecnologia Bancária 2025\", realizada pela Deloitte, 82% das transações bancárias são feitas por canais digitais, sendo 75% delas pelo celular. Essa evolução tem impacto direto sobre a rede física dos bancos, que encolheu 37% entre 2010 e 2025, segundo levantamento baseado em dados do Banco Central e do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese). Hoje, 2.649 municípios brasileiros, o equivalente a 48% do total, já não contam com atendimento bancário presencial. Nesse cenário, grandes agências perdem espaço para um modelo mais enxuto e com maior capilaridade. A tendência é de menos unidades concentradas em grandes metrópoles e mais micro agências — ou pontos de atendimento — espalhadas pelos bairros, funcionando como apoio à jornada digital dos clientes e como alternativa para demandas que ainda exigem algum tipo de contato presencial. Initial plugin text Esse movimento indica que a digitalização não elimina a necessidade de presença física, mas redefine sua função. Em vez de espaços voltados principalmente a transações do dia a dia, cada vez mais absorvidas pelos dispositivos móveis, as unidades presenciais tendem a assumir um papel consultivo e de apoio em momentos de maior complexidade, como empréstimos e investimento”, aponta a pesquisa “Principais Tendências Bancárias da Accenture para 2026”. Maurício Barbosa, da Accenture Divulgação A agência do futuro, nesse contexto, deixa de ser apenas um local para resolver operações bancárias e passa a funcionar como ponto de relacionamento, orientação financeira e integração entre serviços digitais e atendimento humano. A tendência também responde a um desafio estratégico dos bancos: reduzir custos operacionais sem romper a relação de confiança com os clientes. “As micro agências ou pontos de encontro tendem a oferecer ao cliente aquilo que os canais digitais não conseguem entregar: o atendimento humano. As instituições financeiras estão cada vez mais enxergando a necessidade de combinar o físico com o digital”, afirma Maurício Barbosa, líder da área de Serviços Financeiros da Accenture. Relacionamento com cliente A mudança tende a ser bem recebida pelos clientes diante das limitações dos canais digitais e do atendimento automatizado. O estudo mostra que 89% dos brasileiros usariam micro agências ou “cabines inteligentes”, enquanto 74% aprovam a ideia de um banco físico como centro de confiança, no qual espaços presenciais e tecnologia convergem para apoiar decisões importantes da vida, como comprar uma casa ou planejar a família, e não apenas realizar transações financeiras pontuais. O modelo tradicional de agência, com segurança reforçada, portas rotativas, caixas e gerentes disponíveis para atendimento presencial, deve se tornar mais restrito aos grandes centros urbanos e mais segmentado por renda e perfil de consumo. “Devem surgir cada vez mais inovações voltadas a públicos específicos, como produtores rurais e nativos digitais, além de pacotes criados em parceria com outras instituições financeiras e empresas de outros setores, como turismo e seguros”, acrescenta o líder da Accenture. Caixas eletrônicos em ponto de atendimento do BB em Belém, no Pará Divulgação O Banco do Brasil é uma das instituições financeiras que aposta na fusão do digital com o presencial para ganhar eficiência e capilaridade sem perder o relacionamento com os clientes. Segundo Paula Sayão, diretora de atendimento e experiência figital, o banco está implementando formatos mais “leves, flexíveis e especializados” de agências. Na prática, são espaços menores, mas que oferecem uma comunicação mais dinâmica com os clientes. “Um dos principais exemplos dessa transformação é o .BB [Ponto BB], que representa um novo conceito de presença física, já testado e em expansão, com resultados positivos na experiência do cliente e na eficiência operacional. Esses espaços são desenhados para apoiar jornadas digitais, oferecer orientação e reforçar o relacionamento, em linha com tendências globais de formatos mais compactos e funcionais”, diz Paula. Em linha com a pesquisa da Accenture, a executiva afirma que o Banco do Brasil já opera com diferentes formatos de agência, que vão de estruturas compactas a unidades completas e especializadas, como as voltadas a investidores, ao agronegócio e a empreendedores. Na avaliação de Paula, os modelos compactos foram criados para aproximar o atendimento do banco da realidade de cada região do país, permitindo adaptações ao perfil, à cultura e às necessidades locais. “O modelo reforça uma presença próxima, útil e genuinamente brasileira”, destaca. Paula Sayão, diretora do BB Divulgação Personalização do atendimento O Banco do Brasil não é o único a promover esse tipo de adaptação. O Bradesco também vem revendo seu modelo de atendimento, com a transformação de agências em “unidades de negócio”, além de adequações de layout e, quando necessário, ajustes de porte e localização. Em nota, o banco afirmou que conta com unidades voltadas às necessidades de cada perfil de cliente, com o objetivo de oferecer um atendimento mais personalizado. Na mesma direção, as redes de autoatendimento também estão se adaptando ao novo comportamento dos consumidores. O Banco24Horas passou a apostar em versões menores de seus terminais e lançou em 2024 maquininhas pensadas para ocupar a bancada de estabelecimentos comerciais. A estratégia acompanha um cenário em que parte das transações migrou para o Pix e para o celular, mas ainda há demanda por serviços presenciais e de conveniência, como saques, consultas, pagamentos e recargas. A lógica é semelhante à das microagências: estar mais perto do cliente, com menor custo operacional e maior capilaridade, especialmente em regiões distantes dos grandes centros urbanos. Mini Banco24Horas Divulgação “A grande diferença do mini Banco24Horas em relação ao caixa eletrônico tradicional é que ele não armazena dinheiro. O valor usado no saque sai do caixa do próprio estabelecimento comercial. A solução beneficia tanto o cliente, que consegue retirar dinheiro perto de casa, quanto o lojista, que dá vazão ao numerário e recebe o crédito de forma imediata”, afirma Karine Barros, diretora comercial e de produtos da Tecban, dona da marca Banco24Horas. Atualmente, a empresa conta com mais de 2.300 unidades do mini Banco24Horas em funcionamento no país e prevê chegar a 3.000 até o fim deste ano. Ao todo, a rede soma quase 5.000 máquinas de autoatendimento, entre modelos compactos, tradicionais e completos com depósito, distribuídas por locais como supermercados, clubes e estações de metrô. Karine Barros, da Tecban Divulgação Banner da Série Tendências para o Futuro Clayton Rodrigues",
+      "url": "https://epocanegocios.globo.com/empresas/tendencias-para-o-futuro/noticia/2026/06/na-era-figital-bancos-trocam-grandes-agencias-por-pontos-de-atendimento.ghtml",
+      "published": "2026-06-16T09:00:59+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Pesquisadores brasileiros desenvolvem anticorpo monoclonal em gel para tratar dermatite atópica",
+      "summary": "A dermatite atópica, doença inflamatória crônica da pele caracterizada por ressecamento, vermelhidão e lesões que causam coceira intensa e dor, afeta cerca de 20% das crianças e até 10% dos adultos no mundo, de acordo com o Global Atopic Dermatitis Atlas (GADA). O tratamento convencional consiste em boa hidratação da pele e uso de fármacos anti-inflamatórios, anti-histamínicos e imunomoduladores. Há alguns anos, também foram adicionados à lista anticorpos monoclonais (mAb), que são proteínas criadas em laboratório para serem clones das células do sistema imunológico. Até hoje, a aplicação desses anticorpos é feita diretamente em clínicas ou hospitais por via intravenosa (na veia) ou subcutânea (injeção), e os pacientes precisam dispor de tempo e dinheiro. Uma nova formulação no entanto, poderá chegar ao mercado para facilitar — e baratear — esse processo. Pesquisadores da Universidade Federal do ABC (UFABC) e da Universidade Federal de São Paulo (Unifesp) desenvolveram um anticorpo monoclonal que é um gel para ser aplicado diretamente na região afetada pela dermatite atópica. O trabalho começou com Luciano Puzer, pesquisador da UFABC. Há anos, ele busca inibidores enzimáticos para as calicreínas, uma família composta por 15 enzimas distribuídas por diferentes tecidos do corpo humano, cada uma com sua função fisiológica. Uma delas é a calicreína 7 (KLK7), responsável por regular a descamação natural da pele. Quando sua atividade está fora de controle, causa descamação excessiva, ressecamento e coceira, fatores centrais em doenças inflamatórias como a dermatite atópica. Após uma temporada na Alemanha, para fazer estágio na Universidade Técnica de Braunschweig, Puzer retornou ao Brasil com alguns anticorpos capazes de reconhecer e inibir a atividade da calicreína 7. Em 2018, ele decidiu montar uma startup, a Krabs, para focar no desenvolvimento de um fármaco fora do ambiente acadêmico. A empresa foi fundada oficialmente no final de 2019 e está incubada na ITUFABC (Incubadora Tecnológica da UFABC). O sócio Marcelo Zani, pesquisador de pós-doutorado na Unifesp, explica que o produto criado combina um novo anticorpo recombinante (um mAb gerado pela inserção de sequências de genes de anticorpos modificados) capaz de inibir a KLK7. Testes em cães No momento, o medicamento está sendo testado em 54 cães, em um experimento conduzido na Universidade Federal de Uberlândia (UFU) por veterinários especializados em dermatologia. “Normalmente, os testes são feitos em roedores. Mas, como os cães têm dermatite atópica, eles faziam mais sentido. E, dessa forma, não temos de provocar a doença no bicho, apenas oferecemos uma alternativa de tratamento”, destaca Jair Chagas, sócio da Krabs e professor aposentado da Unifesp. Elle complementa que justamente pelos cachorros terem dermatite atópica, abriu-se outro mercado para o medicamento da Krabs, além do humano: o veterinário. Zani acrescenta que a finalização dos testes com os animais está prevista para agosto, e os resultados iniciais revelam boa indicação de eficácia e segurança. “Não foi reportado nenhum caso de efeitos colaterais sérios.” Os próximos passos são mais ensaios em animais, regulamentados pelo Ministério da Agricultura e Pecuária (Mapa). Mais para a frente, serão feitos os ensaios pré-clínicos em humanos em ambientes regularizados pela Agência Nacional de Vigilância Sanitária (Anvisa) e, posteriormente, os testes clínicos fase 1, 2 e 3. “O obstáculo agora são os altos custos desses testes. Precisamos de R$ 10 milhões só para começar. Mas, como os nossos resultados têm mostrado que o medicamento é eficaz e seguro, esperamos que isso convença as indústrias farmacêutica e veterinária e investidores de que vale a pena investir”, salienta Chagas. A Krabs também entrou com pedido de patente na Europa — a expectativa é que saia ainda este ano — e no Brasil. Aqui, o processo pode levar cerca de 10 anos. Contudo, como já houve o registro aprovado nos Estados Unidos, deve haver uma aceleração. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/inovacao-nas-universidades/noticia/2026/06/pesquisadores-brasileiros-desenvolvem-anticorpo-monoclonal-em-gel-para-tratar-dermatite-atopica.ghtml",
+      "published": "2026-06-16T09:01:03+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
           "field": "body",
           "score": 2,
           "topic": null
