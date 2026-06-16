@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-16T13:22:01.757752+00:00",
-  "count": 263,
-  "new_this_run": 9,
+  "generated_at": "2026-06-16T14:36:59.845817+00:00",
+  "count": 260,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
@@ -577,6 +577,45 @@
         {
           "sector": "Global Consumer",
           "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Ozivy: primeira caneta de semaglutida brasileira chega às farmácias; veja preços",
+      "summary": "Produzida no Brasil pela EMS, Ozivy chega às farmácias e oferece suporte a pacientes com diabetes tipo 2 por menos de R$ 500",
+      "url": "https://exame.com/invest/mercados/ozivy-primeira-caneta-de-semaglutida-brasileira-chega-as-farmacias-veja-precos",
+      "published": "2026-06-16T10:16:30+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ems",
+        "farmácias",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
           "field": "title",
           "score": 20,
           "topic": null
@@ -2335,98 +2374,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Durigan: Mais de 6 milhões de pessoas já renegociaram dívidas no Novo Desenrola",
-      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nest...",
-      "url": "https://valor.globo.com/financas/noticia/2026/06/09/durigan-mais-de-6-milhes-de-pessoas-e-famlias-j-renegociaram-dvidas-no-novo-desenrola.ghtml",
-      "published": "2026-06-09T14:07:23+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mais de 6 milhões de pessoas e famílias já renegociaram dívidas no Novo Desenrola, diz Durigan",
-      "summary": "O ministro da Fazenda, Dario Durigan , informou nesta terça-feira (9) que mais de 6 milhões de pessoas e famílias renegociaram dívidas bancárias no âmbito do programa Novo Desenrola. Leia mais (06/09/2026 - 11h22)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/06/mais-de-6-milhoes-de-pessoas-e-familias-ja-renegociaram-dividas-no-novo-desenrola-diz-durigan.shtml",
-      "published": "2026-06-09T14:22:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Em Ofensiva Física, Nubank Anuncia Espaço Próprio de Arte na Avenida Paulista",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Após naming rights do estádio do Palmeiras e Cine Copan, fintech aposta em hub cultural para fortalecer marca O post Em Ofensiva Física, Nubank Anuncia Espaço Próprio de Arte na Avenida Paulista apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/06/nubank-arte-lab-avenida-paulista",
-      "published": "2026-06-09T14:25:18+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Desenrola 2.0 renegociou dívidas de 6 milhões de pessoas, diz ministro da Fazenda",
-      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta terça-feira que o programa Desenrola Brasil. renegociou dívidas de seis milhões de pessoas. Segundo o ministro, a expectativa é alcançar até 10 milhões de negociações até o fim de junho. O programa vai até agosto 'Dinheiro esquecido': Sistema tem R$ 10,3 bilhões disponíveis para resgate; veja como consultar Conversações: Durigan diz que se reunirá com representante do comércio dos EUA nos próximos dias para tratar de novo tarifaço Segundo o ministro, do total, 4 milhões de pessoas já quitaram suas dívidas. — Hoje (terça-feira), nesta manhã, temos mais de 6 milhões de pessoas e famílias beneficiadas pelo novo Desenrola. Fizemos agora o Desenrola, 6 milhões de famílias beneficiadas nos primeiros dias, vai ser uma mobilização nacional até o dia 2 de agosto. Quatro milhões de pessoas já estão desnegativadas, 1,1 milhão já pagaram à vista a sua dívida com desconto de mais de 80% na média, já liquidaram, estão aptas a trocar seu carro, comprar eletrodoméstico. Outros 1,7 milhão foram renegociadas — detalhou, em entrevista ao site Uol. Lançado no início do mês, o novo programa de renegociação de dívidas do governo tem seu foco principal nas famílias. Consumidores que ganham até cinco salários mínimos (R$ 8.105) poderão renegociar, diretamente com os bancos, dívidas de cartão de crédito, cheque especial ou crédito pessoal sem garantia. — Acho que muito em breve, ainda em junho, a gente chega em 10 milhões de pessoas — disse Dario. Initial plugin text No último balanço apresentado na semana passada, a ministra da Casa Civil, Miriam Belchior, informou que o programa havia renegociado um total de R$ 20 bilhões em dívidas. Com descontos que chegam até 85%, dívida recuou de R$ 20 bilhões para R$ 2,7 bilhões. Desenrola Brasil 2.0: Calcule o quanto você pode economizar na dívida do crédito pessoal No final de março, foi disponibilizado o uso do FGTS para pagar as dívidas. Será possível o saque de até R$ 1 mil por titular ou 20% do saldo disponível nas contas de FGTS, o que for maior. Além do programa para as famílias, o pacote de renegociação de dívidas também inclui ações para micro e pequenas empresas, inclusive microempreendedores individuais, para estudantes com empréstimos do Fies e para produtores rurais. A renegociação para estudantes do Fies entrará em operação neste mês também. Como funciona o Desenrola 2.0? Crédito novo para pagar, com descontos, dívidas contratadas até 31 de janeiro de 2026 e que estejam atrasadas entre 90 dias e 2 anos, com cartão de crédito, cheque especial e crédito pessoal (CDC). A dívida renegociada terá: Descontos entre 30 a 90%; Taxa de juro máxima de 1,99% ao mês; Até 48 meses de prazo; Prazo de até 35 dias para pagamento da primeira parcela; Limite da nova dívida (após descontos) até R$ 15 mil por pessoa, por instituição financeira; Garantia do FGO. Para entrarem no Desenrola, as pessoas devem procurar os canais oficiais dos bancos. Quem pode participar do Desenrola 2.0? Brasileiros com renda até 5 salários-mínimos (R$ 8.105). Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/09/desenrola-20-renegociou-dividas-de-6-milhoes-de-pessoas-diz-ministro-da-fazenda.ghtml",
-      "published": "2026-06-09T14:30:53+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Mercado Livre perde R$ 263 mil em golpe de pastores, diz investigação",
@@ -4545,29 +4492,6 @@
       "score": 20.0
     },
     {
-      "title": "Fim da escala 6x1: com PEC travada no Senado, Câmara deve votar PL do governo",
-      "summary": "A versão do texto enviada pelo Executivo será votada na Câmara dos Deputados ainda nesta semana",
-      "url": "https://exame.com/brasil/fim-da-escala-6x1-com-pec-travada-no-senado-camara-deve-votar-pl-do-governo",
-      "published": "2026-06-15T16:40:02+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "EMS começa a vender Ozivy, caneta para diabetes, nesta segunda (15) - Folha de S.Paulo",
       "summary": "EMS começa a vender Ozivy, caneta para diabetes, nesta segunda (15) &nbsp;&nbsp; Folha de S.Paulo",
       "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/ems-comeca-a-vender-ozivy-caneta-para-diabetes-nesta-segunda-15.shtml",
@@ -5258,6 +5182,78 @@
       "score": 20.0
     },
     {
+      "title": "Comércio recua 1,5% em abril, com queda nas vendas de combustíveis",
+      "summary": "As vendas no comércio varejista brasileiro caíram 1,5% em abril deste ano, puxadas pelo grupo de combustíveis e lubrificantes. Em março, o setor teve alta de 0,7%. O resultado da Pesquisa Mensal de Comércio (PMC) foi divulgado nesta terça-feira pelo IBGE e veio menor que a mediana estimada pelo Valor Data, que projetava queda de 0,6%. Entenda: Acordo para o fim da guerra no Oriente Médio leva governo Lula a prever alívio na inflação e nos juros Fim da escala 6x1: Câmara deve votar hoje projeto de lei com o mesmo texto da PEC Nos últimos 12 meses, o setor acumula alta de 1,5%, enquanto o avanço no ano chega a 2,0%. Em comparação com o mesmo mês do ano anterior, o crescimento foi de 1,0%. Das oito atividades analisadas pela pesquisa, seis tiveram recuo nas vendas em abril. A principal delas foi combustíveis e lubrificantes, com queda de 6,2%. Também houve retração nos grupos de outros artigos de uso pessoal e doméstico (-4,6%), equipamentos e material para escritório, informática e comunicação (-4,5%), Móveis e eletrodomésticos (-0,8%), tecidos, vestuário e calçados (-0,1%) e artigos farmacêuticos, médicos, ortopédicos e de perfumaria (-0,1%). O gerente da pesquisa Cristiano Santos explicou que a queda vem após uma base de comparação elevada, uma vez que os três meses anteriores haviam sido de alta. Segundo ele, o que estava antes estava puxando o índice pra cima foi justamente o que caiu em abril. Equilíbrio fiscal: empresários apontam 7 propostas de coalizão para o debate eleitoral \"O ponto é que, se antes um consumo mais intensivo em bens não essenciais vinha sustentando a alta, agora essas mesmas atividades devolveram o crescimento”, ressalta Santos. Por outro lado, teve crescimento o grupo de hiper, supermercados, produtos alimentícios, bebidas e fumo (1,3%), que possui o maior peso para o índice, além de livros, jornais, revistas e papelaria (1,1%). Já no comércio varejista ampliado — que inclui as atividades de veículos, motos, partes e peças; material de construção; e atacado especializado em produtos alimentícios, bebidas e fumo — teve queda de 0,7% nas vendas em abril, após registrar estabilidade em março.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/16/comercio-varejista-tem-queda-de-15percent-em-abril-com-recuo-nas-vendas-de-combustiveis.ghtml",
+      "published": "2026-06-16T13:13:39+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Cosméticos",
+        "Economia",
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "material de construção",
+        "perfumaria",
+        "pmc"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "perfumaria",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "pmc",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Material de Construção",
+          "alias": "material de construção",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Desequilíbrio econômico da China se agrava com primeira queda nas vendas no varejo desde 2022",
+      "summary": "A economia da China apresentou um desequilíbrio crescente em maio, com as vendas no varejo caindo pela primeira vez em mais de três anos e o investimento em queda , enquanto a produção industrial ganhou ritmo. Leia mais (06/16/2026 - 11h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/desequilibrio-economico-da-china-se-agrava-com-primeira-queda-nas-vendas-no-varejo-desde-2022.shtml",
+      "published": "2026-06-16T14:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "vendas no varejo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vendas no varejo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Tênis de 'Kill Bill' é sucesso em vendas e Onitsuka Tiger terá operação própria",
       "summary": "A Asics fará a cisão da Onitsuka Tiger, a marca japonesa de calçados de 77 anos que vem experimentando uma retomada de popularidade em meio ao boom do turismo e ao crescente interesse global por tênis de estilo retrô. Empresas já entram em campo para Copa: Publicidade deve movimentar R$ 4,6 bi só nos EUA Liderança global: Zara supera Nike e se torna a marca de moda mais valiosa do mundo pela primeira vez O conselho de administração da Asics aprovou um plano para transferir o negócio da Onitsuka Tiger —tênis que fez sucesso na telona nos pés da atriz Uma Thurman, em \"Kill Bill\", de Quentin Tarantino —para a OT Group, uma subsidiária integral, por meio de uma cisão societária do tipo incorporação. A conclusão da operação está prevista para 1º de janeiro de 2027, informou a fabricante japonesa de artigos esportivos nesta quarta-feira. A empresa também planeja separar o negócio da Onitsuka Tiger em suas subsidiárias regionais e consolidar essas operações sob a OT Group. A Asics afirmou que não está considerando uma oferta pública inicial de ações (IPO) para a unidade. A marca prevê que suas vendas anuais alcancem eventualmente ¥200 bilhões (US$ 1,3 bilhão), disse o diretor-presidente (CEO) da OT GROUP, Ryoji Shoda, durante uma coletiva de imprensa em Tóquio. As vendas líquidas da Onitsuka Tiger no primeiro trimestre aumentaram 34% em relação ao mesmo período do ano anterior, atingindo ¥ 37,8 bilhões. Ryoji Shoda (à esquerda) e Yasuhito Hirota, CEo da Asics, durante coletiva concedida em Tóquio, nesta quinta-feira Kiyoshi Ota/Bloomberg Segundo a Asics, a transição da Onitsuka Tiger para uma estrutura operacional mais independente permitirá uma tomada de decisões mais rápida. A marca também planeja utilizar inteligência artificial em funções de gestão, incluindo análise de grandes volumes de dados e operações rotineiras. Copa do Mundo: Chineses faturam alto com 'cabra' de Messi às vésperas do Mundial nos EUA O CEO da Asics, Yasuhito Hirota, afirmou que a reestruturação foi concebida para acelerar o crescimento da Onitsuka Tiger, ao mesmo tempo em que aumenta o valor de todo o grupo Asics. — Essa cisão não é apenas uma reorganização corporativa — disse ele. Quais são as profissões mais bem pagas no Brasil? Ranking interativo revela ganhos com salário, bônus e verbas extras Popularizada inicialmente pela atriz Uma Thurman nos filmes 'Kill Bill', a Onitsuka Tiger começou como uma marca de calçados esportivos e posteriormente se tornou uma referência de moda sob o comando da Asics. Tênis da marca Onitsuka Tiger se tornou popular ao ser usado pela atriz Popularizada inicialmente pela atriz Uma Thurman nos filmes 'Kill Bill', do diretor Quentin Tarantino Divulgação Embora a marca tenha fechado suas lojas de varejo nos Estados Unidos em 2023 para melhorar a rentabilidade, a Onitsuka anunciou que retornará ao mercado americano com a inauguração de uma loja em Los Angeles em fevereiro de 2027. A empresa também anunciou futuras aberturas de lojas em regiões como Xangai, Milão e Seul. As ações da Asics chegaram a cair até 2% nesta quarta-feira. Ainda assim, acumulam valorização de aproximadamente 17% em 2026 até o momento.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/11/tenis-de-kill-bill-e-sucesso-em-vendas-e-onitsuka-tiger-tera-operacao-propria.ghtml",
@@ -5530,29 +5526,6 @@
         }
       ],
       "score": 14.0
-    },
-    {
-      "title": "'Dinheiro esquecido': sistema tem R$ 10,3 bilhões disponíveis para resgate; veja como consultar",
-      "summary": "O Banco Central (BC) informou nesta terça-feira que ainda restam R$ 10,3 bilhões em valores disponíveis para resgates que foram esquecidos em bancos. Se encerrou em março o prazo para que as instituições financeiras transfiram os recursos para o Sistema Valores a Receber (SVR), que destinará até R$ 8 milhões para financiar o novo Desenrola Brasil. Fabio Graner: BC aperta regras para funcionamento de fintechs, que apontam risco de crédito ao consumidor ficar mais caro Encontro virtual: Durigan diz que se reunirá com representante do comércio dos EUA nos próximos dias para tratar de novo tarifaço O prazo oficial para resgatar os valores, em tese, se encerrou em outubro de 2024. Já foram devolvidos R$ 15 bilhões em dinheiro esquecido aos brasileiros. No começo de maio, o governo do presidente Lula anunciou que vai usar de R$ 5 bilhões a R$ 8 bilhões em recursos esquecidos nos bancos para viabilizar as renegociações no novo Desenrola. Com a previsão do uso dos recursos no programa de renegociação de dívidas, o governo informou que vai publicar um edital, com um prazo de 30 dias corridos para que clientes possam solicitar os recursos. Initial plugin text Segundo as estatísticas de valores a receber, o dinheiro esquecido pertence a 45 milhões de pessoas físicas (R$ 7,9 bilhões) e 5 milhões de empresas (R$ 2,4 bilhões). Do total a ser devolvido, R$ 5,9 bilhões estão nos bancos, enquanto R$ 2,6 bilhões estão em administradoras de consórcio e R$ 978 milhões em cooperativas. Congelamento de verbas: Bloqueio do orçamento de novo órgão de segurança nuclear ameaça fiscalização de serviços como os de radiologia Em relação aos valores, a imensa maioria (64,5%) é de até R$ 10. Uma parcela de 23,4% é de quantias entre R$ 10,01 e R$ 100 e 9,91%, entre R$ 100,01 e R$ 1.000. Apenas 2,1% é de valores superiores a R$ 1.000. O SVR é um serviço do BC no qual é possível consultar se pessoas físicas, inclusive falecidas, e empresas (pessoas jurídicas) têm algum \"dinheiro esquecido\" em banco, consórcio ou outra instituição. O único site no qual é possível fazer a consulta e saber como solicitar a devolução dos valores é o site oficial estabelecido pelo Banco Central para isso: https://valoresareceber.bcb.gov.br. Veja como consultar dinheiro esquecido: Clique em “Consulte valores a receber”; Preencha os campos com os seus dados; Clique em “Consultar” e confira; Caso você tenha valores a receber, basta clicar em “Acessar o SVR”. É preciso ter uma conta gov.br de nível prata ou ouro para entrar SVR. Preste atenção à data que o Sistema de Valores a Receber vai informar. Essa data será um agendamento, e você poderá consultar os valores e informar os dados para a transferência nesse dia. O agendamento será feito de acordo com sua data de nascimento. No caso das empresas, de acordo com a data de criação da companhia; Na data agendada, acesse novamente o site valoresareceber.bcb.gov.br, usando seu login gov.br para saber qual o valor disponível para saque e solicitar a transferência;",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/09/dinheiro-esquecido-sistema-tem-r-103-bilhoes-disponiveis-para-resgate-veja-como-consultar.ghtml",
-      "published": "2026-06-09T14:12:23+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Ahorro en supermercados: las ofertas que se pueden aprovechar este martes 9 de junio",
@@ -6108,6 +6081,29 @@
       "score": 8.0
     },
     {
+      "title": "Ambev e Abrasel miram bares endividados de olho no caixa da Copa",
+      "summary": "Parceria nacional vai oferecer renegociação de dívidas, crédito e capacitação financeira a até 250 mil bares e restaurantes",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/ambev-e-abrasel-miram-bares-endividados-de-olho-no-caixa-da-copa",
+      "published": "2026-06-16T14:00:43+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "renegociação de dívidas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Febre dos peptídeos: entenda o que são e quais os riscos",
       "summary": "sem descrição BBC News fonte Getty Images Um anjo chega ao céu e informa Deus sobre a onda de peptídeos que está se popularizando na Terra. \"O que tá rolando em story de influencer e clínica de estética são peptídeos antienvelhecimento, pra pele, ganho de massa... e esses aí não são aprovados nem pela Anvisa\", diz o anjo. A conversa é parte de um vídeo de humor publicado no Instagram por Mari Krüger, divulgadora científica e criadora de conteúdo. A publicação já teve mais de 5,6 milhões de visualizações e soma quase sete mil comentários. A ironia usada por Krüger em seu vídeo não é à toa. Os peptídeos se transformaram em uma das palavras mais populares do mercado de estética, longevidade e performance física nos últimos anos. Divulgados em redes sociais, grupos de conversas e clínicas de estética, eles são apresentados como substâncias capazes de acelerar a recuperação muscular, estimular a produção de colágeno, melhorar a composição corporal e até retardar o envelhecimento. No entanto, especialistas fazem um alerta: apesar das promessas, muitos dos benefícios atribuídos aos peptídeos não têm nenhuma comprovação científica e grande parte dessas substâncias não possui aprovação regulatória para uso clínico. \"Eu fiz o vídeo em um formato que já é conhecido no meu perfil que é o dos Anjos e Deus, em que eu mostro em tom de humor como as notícias, os absurdos da Terra chegam ao céu. A repercussão desse vídeo foi completamente inesperada. Não é uma bobagem, é um assunto muito sério. A gente trouxe o humor sem tirar a seriedade do assunto para conseguir explicar isso melhor para as pessoas. Esse perigo [do uso indiscriminado] e o quão urgente é falar sobre isso\", diz Mari. O que são os peptídeos? Peptídeos são moléculas produzidas e formadas pelo nosso organismo. Eles são pequenas cadeias de aminoácidos, que são os mesmos componentes que formam as proteínas. A diferença está no tamanho: enquanto proteínas costumam ser estruturas maiores e mais complexas, os peptídeos possuem cadeias menores. Essas moléculas desempenham funções importantes no organismo. Algumas atuam como hormônios, outras participam da comunicação entre células ou regulam processos biológicos como crescimento, metabolismo, cicatrização e resposta imunológica. \"Esses peptídeos, resumindo, funcionam como mensageiros biológicos e enviam uma mensagem para a célula realizar determinada função\", explica Elisa Minami, cirurgiã plástica e membro titular da Sociedade Brasileira de Cirurgia Plástica (SBCP). Nas últimas décadas, pesquisadores passaram a estudar versões sintéticas desses compostos, ou seja, desenvolvidas em laboratório para reproduzir ou potencializar determinadas funções naturais do corpo. Um dos peptídeos mais conhecidos é a insulina. Ela foi o primeiro peptídeo a ser descoberto e ajuda as pessoas com diabetes do tipo 1 e algumas do tipo 2 a administrar o nível de açúcar no sangue, controlando a doença. Um dos peptídeos mais conhecidos é a insulina BBC News fonte Getty ImagesUm dos peptídeos mais conhecidos é a insulina Outros peptídeos que ganharam espaço são os GLP-1s, como a semaglutida e tirzepatida, que são medicamentos que imitam o hormônio peptídeo similar a glucagon-1, que produzimos naturalmente no corpo e ajuda a regular o nível de saciedade. Tanto a insulina quanto os análogos do GLP-1 são peptídeos da classe dos medicamentos e passaram por extensos e robustos testes em humanos até serem aprovados por órgãos regulamentadores, como a Agência Nacional de Vigilância Sanitária (Anvisa). A existência desses medicamentos aprovados, porém, não significa que todos os peptídeos disponíveis no mercado apresentem o mesmo nível de segurança ou eficácia. No Brasil, os peptídeos aprovados pela Anvisa e com circulação autorizada incluem apenas medicamentos injetáveis como a insulina, os para obesidade com semaglutida (Ozempic, Wegovy) liraglutida (Saxenda) e tirzepatida (Mounjaro), e cremes com peptídeos. Há um mercado paralelo de outros peptídeos, injetáveis ou comercializados como suplementos alimentares com foco na beleza e estética e que não possuem comprovação científica e nem regulamentação. Em 2024, por exemplo, a Anvisa também baniu a comercialização e manipulação dos chamados \"chips da beleza\", implantes hormonais que poderiam conter peptídeos e eram colocados sob a pele. Quais são os principais tipos de peptídeos? Esse universo dos peptídeos é amplo e reúne centenas de moléculas diferentes. O corpo produz peptídeos naturalmente. Peptídeos sintéticos são fabricados para imitar ou potencializar essas funções naturais. Peptídeos como GHK-Cu, BPC-157 e TB-500 estão entre os mais difundidos no Brasil e, apesar de não serem aprovados pela Anvisa, podem ser encontrados em sites, plataformas de vendas e em clínicas de estética. \"Estes produtos não estão regularizados na Anvisa em nenhuma categoria, sendo ilegais para qualquer uso em saúde, inclusive estético. Produtos como estes não têm qualquer garantia de segurança, origem e composição\", disse a Anvisa, em nota. A principal propaganda para a venda desses produtos é de que eles podem aumentar a produção de colágeno, acelerar a reparação da pele, reduzir rugas e até mesmo reverter aspectos do envelhecimento biológico. Eles também são frequentemente promovidos como agentes capazes de acelerar a cicatrização de lesões musculares, tendíneas e articulares. No entanto, esses peptídeos não possuem evidências científicas de seus efeitos em humanos ou esses resultados ainda são limitados. Alegações de que esses peptídeos citados (GHK-Cu, BPC-157 e TB-500) ajudam a regenerar e reparar tecidos e a reduzir a inflamação baseiam-se em poucos estudos de laboratório feitos em células ou animais. O GHK-Cu, também conhecido como peptídeo de cobre, é um peptídeo produzido pelo nosso corpo e é responsável pela estimulação da produção de colágeno. Ele pode ser usado topicamente, ou seja, uso externo, em cremes e séruns para a pele para reduzir as linhas finas, e nesse caso é autorizado. A proibição é para a injeção, pois ele não é considerado seguro para ser usado em injetáveis devido à falta de pesquisas científicas e aos riscos de despertar reações imunológicas que podem ser perigosas. Cremes cosméticos que possuem peptídeos em suas fórmulas ser comercializados BBC News fonte Getty ImagesCremes cosméticos que possuem peptídeos em suas fórmulas ser comercializados Da mesma forma, algumas pesquisas sugerem que o BPC-157 e o TB-500 podem promover o crescimento de novas células sanguíneas, reduzir a inflamação e cicatrizar tecidos em ratos. Mas não há estudos robustos sobre seus efeitos em humanos e com grupos de controle adequados. Por isso o seu uso como injetável também não é autorizado. \"Embora existam estudos laboratoriais e em animais mostrando resultados interessantes, as evidências clínicas em seres humanos ainda são limitadas. Isso significa que precisamos seguir estudando e informar a nossos pacientes sobre este tipo de medicina sempre com segurança\", diz Patricia Erazo, Coordenadora Científica Cosmiatria da Sociedade Brasileira de Cirurgia Plástica (SBCP) e membro da Federação Ibero Latinoamericana de Cirurgia Plástica (FILACP). Nenhum desses peptídeos citados possui registro na Anvisa para serem comercializados no Brasil. \"Os produtos que se apresentam como 'peptídeos' denominados 'GHK-CU, BPC-157, TB500', que prometem melhoras estéticas, não se encontram registrados perante a Anvisa. Da mesma forma não foram localizados registros de medicamentos contendo estes princípios ativos. Portanto, não há informações sobre a segurança de uso desses supostos produtos\", disse o órgão em nota. \"Apesar de suposta finalidade estética, esses produtos também não são cosméticos. Produtos cosméticos são unicamente para uso externo. Não existem cosméticos injetáveis e se o produto for oferecido desta forma, trata-se, com certeza, de produto irregular\", acrescentou a nota da Anvisa. O que é regulamentado? Uma das principais confusões para consumidores é a diferença entre peptídeos aprovados por agências reguladoras, como a Anvisa, e substâncias comercializadas sem autorização para uso clínico. Medicamentos peptídicos que passaram por estudos clínicos rigorosos e receberam aprovação de órgãos reguladores podem ser prescritos para indicações específicas. Neste grupo estão alguns hormônios, medicamentos para diabetes, obesidade e algumas terapias voltadas para doenças raras. Todos eles precisam ser prescritos por um médico e o uso é feito apenas com acompanhamento desse profissional. Outro grupo que pode ser comercializado são os cosméticos que possuem peptídeos em suas fórmulas. Esses podem ser em creme ou séruns, sempre de uso externo na pele, nunca injetável. Já outros peptídeos divulgados em clínicas de performance ou vendidos pela internet permanecem classificados como substâncias experimentais. No Brasil, não há liberação para nenhum tipo de peptídeo injetável para fins estéticos, de modo que procedimentos que consistem em injetar essas substâncias na pele não são seguros. Especialistas destacam que a ausência de aprovação regulatória não representa apenas uma questão burocrática. Ela indica que ainda não existem evidências suficientes para garantir que os potenciais benefícios superem os riscos. \"Os riscos dos injetados são muito sérios. Pode haver contaminação, reação inflamatória ou infecção. A pessoa não sabe usar a dose certa, então usa a dose errada e também há ausência de estudos robustos e segurança. Então, por isso eles são ilegais\", acrescenta Minami. Quais são os riscos do uso sem orientação? A percepção de que peptídeos seriam alternativas \"naturais\" ou livres de riscos é considerada equivocada pelos médicos. Como qualquer substância biologicamente ativa, eles podem provocar efeitos colaterais. Entre os problemas relatados estão retenção de líquidos, alterações hormonais, dores articulares, aumento da pressão arterial, alterações metabólicas e reações no local da aplicação. Como qualquer substância biologicamente ativa, peptídeos podem provocar efeitos colaterais como retenção de líquidos, alterações hormonais e dores articulares BBC News fonte Getty ImagesComo qualquer substância biologicamente ativa, peptídeos podem provocar efeitos colaterais como retenção de líquidos, alterações hormonais e dores articulares Outro risco importante está relacionado à procedência dos produtos. Peptídeos não regulamentados podem ser rotulados incorretamente, contaminados ou dosados ​​de forma inadequada. Também existem riscos biológicos. Peptídeos que influenciam o crescimento, o reparo muscular ou as vias hormonais também podem estimular processos indesejados. Em teoria, isso poderia incluir o crescimento de tumores existentes ou a interrupção da função endócrina normal. Esse risco de câncer é amplificado pela alta presença de metais pesados ​​nos mercados ilícitos de drogas para aprimoramento. Além disso, quando não regulamentados pela Anvisa, esses peptídeos não passam por controles rigorosos de qualidade, podendo haver concentração incorreta, contaminação microbiológica e até presença de substâncias diferentes das declaradas nos rótulos. Existe ainda a preocupação com efeitos desconhecidos de longo prazo. Como esses compostos não foram amplamente estudados em humanos, possíveis impactos após anos de uso ainda são incertos. \"Os riscos maiores seriam falsificação e de produtos sem procedência. Pode haver infecção por bactérias, a maneira de fabricação não ser adequada. Além disso, a gente não sabe se mais para frente vai ter algum prejuízo do uso desses produtos de maneira injetável, porque eles não são estudados\", acrescenta Alessandra Romiti, dermatologista, assessora do Departamento de Cosmiatria da Sociedade Brasileira de Dermatologia (SBD). BBC FOOTER NOVO BBC",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/06/cdatafebre-dos-peptideos-entenda-o-que-sao-e-quais-os-riscos.ghtml",
@@ -6145,37 +6141,6 @@
         }
       ],
       "score": 6.0
-    },
-    {
-      "title": "Zema minimiza fala do atual governador de MG para desistir da candidatura e apoiar Flávio: 'mera ideia'",
-      "summary": "O pré-candidato à Presidência da República pelo Novo, Romeu Zema, minimizou as declarações do atual governador de Minas Gerais, Mateus Simões (PSD), para que ele fizesse uma composição com Flávio Bolsonaro (PL) e não se candidatasse diretamente à eleição. Para Zena, a declaração de Simões é uma \"mera conjugação, uma mera ideia\". Zema disse que o mundo perfeito sempre existe na cabeça das pessoas e que, para ele, o mundo perfeito seria ser candidato único. — Recebo as declarações (de Simões) com muita naturalidade. Quem acompanhou a fala toda sabe que isso é uma mera conjugação, uma mera ideia. O mundo perfeito sempre existe nas nossas cabeças e pra mim o mundo perfeito seria ser candidato único também, então isso pra mim não afeta em nada, continuo dando o meu total apoio a ele. PSD e Novo em Minas Gerais estão caminhando lado a lado — declarou Zema, que participou de evento em São Paulo realizado pelo Instituto Diálogos, criado pela senadora e ex-ministra da Agricultura, Tereza Cristina, para discutir o cenário geopolítico atual. Sobre o contexto geopolítico, Zema disse que o Brasil tem se aproximado cada vez mais da China e se distanciado do Ocidente. Ele atribuiu esse posicionamento à atuação do Itamaraty na gestão do presidente Lula. Para o pré-candidato, o governo Lula vem \"questionando os Estados Unidos e cria uma dependência perigosa da China\". — Nós estamos vendo, há muito tempo, um Brasil cada vez mais próximo da China e mais distante do Ocidente. E o tarifaço está dentro desse contexto. O Itamaraty tem atuado principalmente desde que o PT assumiu o país há 22 anos na direção de questionar Estados Unidos e de se distanciar de países do Ocidente numa clara aproximação à China. A China é importantíssima, todo parceiro comercial precisa ser muito bem tratado, mas o Brasil está criando uma dependência perigosa com a China — afirmou. Para Zema, se a China começar a reduzir a importação de alguns produtos brasileiros, o país vai enfrentar dificuldades muito grandes. Oriundo do varejo, Zema disse que sua estratégia no ramo sempre foi não concentração em nenhum cliente. — A partir do momento em que você depende de um cliente você fica vulnerável e me parece que o PT escolheu essa opção — declarou. Zema acredita que o novo tarifaço imposto pelos EUA ao Brasil teve influência do governo Lula e do PT, que têm afrontado os Estados Unidos. Ele afirmou que como a família Bolsonaro é muito próximo do Trump, que ajudem a resolver essa questão. Sobre a possível adoção da lei de reciprocidade pelo Brasil em relação aos EUA, Zema disse que a medida deve ser vista com cautela. — Quando você fala: eu vou fazer com você o que você está fazendo comigo, talvez o tiro saia pela culatra. No caso dos vistos, claramente se prejudica o turismo, a rede hoteleira sofre, o brasileiro como um todo sofre porque acaba recebendo menos turistas aqui. E com as questões comerciais, isso tem que ser visto também. Às vezes na hora que você aplicar mesmo a lei quem vai pagar é o brasileiro que vai pagar mais caro por produtos que vêm desses países. Então é algo que deve ser sempre colocado sobre a mesa, mas não de maneira automática. É preciso ponderar e calibrar muito bem isso — disse.",
-      "url": "https://oglobo.globo.com/politica/noticia/2026/06/09/zema-minimiza-fala-do-atual-governador-de-mg-para-desistir-da-candidatura-e-apoiar-flavio-mera-ideia.ghtml",
-      "published": "2026-06-09T13:53:44+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "rede hoteleira",
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "rede hoteleira",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 4.0
     },
     {
       "title": "'Hoje, nenhuma marca se sustenta sem formar uma comunidade', afirma Jade Picon em sua versão empresária",
