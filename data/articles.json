@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-16T09:36:59.311321+00:00",
+  "generated_at": "2026-06-16T11:44:18.197851+00:00",
   "count": 258,
-  "new_this_run": 25,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
@@ -1316,6 +1316,68 @@
       "score": 40.0
     },
     {
+      "title": "SpaceX pode ultrapassar Amazon e se tornar 5ª empresa mais valiosa do mundo",
+      "summary": "Até a abertura do dia em Wall Street, empresa de Elon Musk pode ultrapassar varejista fundada por Jeff Bezos em valor de mercado",
+      "url": "https://exame.com/invest/mercados/spacex-pode-ultrapassar-amazon-e-se-tornar-5a-empresa-mais-valiosa-do-mundo",
+      "published": "2026-06-16T07:29:55+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Stock Market Today: SpaceX Set to Overtake Amazon by Market Cap",
+      "summary": "Dow futures waver, oil falls as investors seek further clarity on U.S.-Iran deal",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-16-2026?mod=rss_markets_main",
+      "published": "2026-06-16T08:26:28+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Remédios como Ozempic emagrecem, mas reduzem atividade física",
       "summary": "Perder peso sem aumentar o nível de atividade física é o resultado contraintuitivo que um novo estudo associa ao uso de medicamentos populares para obesidade. A pesquisa, apresentada no ENDO 2026, congresso anual da Endocrine Society, revelou que adultos com obesidade em tratamento com remédios como Ozempic, Wegovy, Mounjaro e Zepbound se tornaram significativamente menos ativos depois de iniciar as medicações, mesmo registrando perda de peso ao longo do período. Os dados são de um comunicado da Endocrine Society. A conclusão contraria uma suposição comum: a de que emagrecer facilita naturalmente o movimento. Entre os participantes do estudo, esse efeito não foi observado. O que os rastreadores de atividade revelaram Para chegar aos resultados, pesquisadores analisaram dados do programa All of Us, do Instituto Nacional de Saúde dos Estados Unidos (NIH), que combina prontuários médicos com informações coletadas por dispositivos vestíveis, como os rastreadores da marca Fitbit. De 1.950 adultos com obesidade que começaram a usar medicamentos GLP-1, 753 tinham registros suficientes para integrar a análise final. A maioria era mulher (78,6%) e a idade média era de 52,7 anos. Os resultados mostraram queda clara na movimentação após o início do tratamento. A média de passos diários recuou de 5.047 para 4.487, uma redução de cerca de 560 passos. O tempo de atividade física moderada a vigorosa também diminuiu: de 28 para 22 minutos por dia. As quedas mais expressivas foram registradas entre homens e entre pessoas que relatavam dores articulares ou musculares. Fatores como idade, insuficiência cardíaca ou histórico de acidente vascular cerebral não alteraram os resultados. Não foram encontradas evidências de que a perda de peso com esses medicamentos tenha levado ao aumento da prática de exercícios. Por que a musculatura entra nessa conta Os medicamentos analisados pertencem à classe dos agonistas do receptor de GLP-1 (peptídeo semelhante ao glucagon-1), que inclui a semaglutida (Ozempic e Wegovy), a tirzepatida (Mounjaro e Zepbound), além de liraglutida e dulaglutida. Além de eficazes para a perda de peso, esses fármacos também podem reduzir a massa muscular magra, não apenas a gordura corporal. Por isso, manter a prática de atividade física durante o tratamento é considerado essencial para preservar a força e a saúde geral. \"Proteger a musculatura é uma parte fundamental da perda de peso saudável\", afirmou Sajana Maharjan, médica do HSHS St. John's Hospital, em Springfield (Illinois), e líder do estudo. \"Embora muitos assumam que emagrecer leva naturalmente ao aumento da atividade física, nossa pesquisa indica o contrário. Os resultados reforçam que o exercício não pode ser opcional para quem usa esses medicamentos. As pessoas precisam de intervenções direcionadas que estimulem a prática em paralelo ao tratamento para obesidade.\" De acordo com os autores, este é o primeiro estudo de grande escala a usar dados de rastreadores de atividade para avaliar os padrões de movimento entre adultos em uso de agonistas GLP-1, o que o diferencia de avaliações conduzidas em ambientes clínicos controlados.",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/06/remedios-como-ozempic-emagrecem-mas-reduzem-atividade-fisica.ghtml",
@@ -1449,35 +1511,51 @@
       "score": 32.0
     },
     {
-      "title": "Bets e instituto condenam sigilo a documentos imposto pelo governo federal",
-      "summary": "Não foi bem recebida por bets ouvidas pela coluna a decisão do governo federal de impor sigilo de até 100 anos a documentos de processos de autorização e outorga de apostas esportivas. Leia mais (06/09/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/06/bets-e-instituto-condenam-sigilo-a-documentos-imposto-pelo-governo-federal.shtml",
-      "published": "2026-06-09T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "title": "Ele vendeu uma startup para o Rappi e agora aposta no SEO turbinado",
+      "summary": "Depois de criar a Avocado, empresa de entregas rápidas que foi adquirida pelo Rappi e rebatizada como Rappi Turbo, o empreendedor Ramon Silva está estruturando uma nova operação. Ele acaba de levantar R$ 10 milhões com a Pear VC, fundo de venture capital que investiu em empresas como DoorDash, Cognition, Gusto e Vanta, para sua recém-criada Hexagon. A Hexagon vai usar os recursos para desenvolver a tecnologia de GEO (Generative Engine Optimization) – que busca aumentar a presença de marcas nas respostas geradas por ferramentas de inteligência artificial, como ChatGPT. É semelhante ao trabalho realizado pelo SEO nos mecanismos de busca tradicionais, mas voltada para plataformas de IA generativa, ajudando marcas a serem compreendidas, referenciadas e incluídas nas respostas produzidas por esses sistemas. Tako desafia unicórnio Enter em guerra da IA trabalhista Rappi pede para entrar na briga entre Keeta e 99Food “O foco foi construir uma solução robusta que resolva um problema que está surgindo agora e é fruto de uma tecnologia que já está no dia a dia das pessoas e das empresas”, diz o ex-aluno de Stanford. Entre os clientes da Hexagon estão Loft, Getnet, Buser, BTG Pactual e Tako. A empresa mantém equipes no Brasil e nos Estados Unidos e pretende ampliar sua base de clientes nos dois mercados. Criador da Avocado, que deu origem ao Rappi Turbo, Silva também fundou a Hexagon Divulgação Além do GEO, a companhia acompanha o desenvolvimento do chamado Agentic Commerce Protocol (ACP), tecnologia que permite a realização de compras diretamente em interfaces de IA generativa. Segundo a startup, ela já opera estratégias ligadas a essa frente nos Estados Unidos. A Hexagon quer continuar investindo no desenvolvimento da plataforma e na expansão comercial, além de atuar na divulgação do uso de ferramentas de otimização voltadas para sistemas de inteligência artificial.",
+      "url": "https://pipelinevalor.globo.com/startups/noticia/ele-vendeu-uma-startup-para-o-rappi-e-agora-aposta-no-seo-turbinado.ghtml",
+      "published": "2026-06-16T10:56:38+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
       "matched_sectors": [
-        "Economia"
+        "E-commerce",
+        "Global Consumer"
       ],
       "matched_aliases": [
-        "apostas esportivas",
-        "bets"
+        "doordash",
+        "keeta",
+        "rappi"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "apostas esportivas",
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "rappi",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "doordash",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "body",
+          "score": 2,
           "topic": null
         }
       ],
-      "score": 28.0
+      "score": 32.0
     },
     {
       "title": "Alcolumbre se reúne com governo, mas adia definição sobre PEC do fim da escala 6x1",
@@ -1970,6 +2048,37 @@
       "score": 28.0
     },
     {
+      "title": "Como a IA facilita a vida dos balconistas de farmácia (e a dos clientes)",
+      "summary": "A ferramenta Mar.IA, das Farmácias São João, reduziu tempo de atendimento em 30% e chegou a participar de 20% das vendas em uma das 1250 lojas",
+      "url": "https://veja.abril.com.br/coluna/planeta-ia/como-a-ia-facilita-a-vida-dos-balconistas-de-farmacia-e-a-dos-clientes",
+      "published": "2026-06-16T11:04:18+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "De Telões nos Escritórios a Figurinhas da Equipe: A Copa do Mundo Toma Conta das Empresas",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Companhias como Cimed, Amazon e iFood aproveitam o clima de torcida para promover experiências coletivas, engajar colaboradores e fortalecer a cultura organizacional O post De Telões nos Escritórios a Figurinhas da Equipe: A Copa do Mundo Toma Conta das Empresas apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/carreira/2026/06/de-telao-no-escritorio-a-figurinhas-da-equipe-a-copa-do-mundo-toma-conta-das-empresas",
@@ -2195,75 +2304,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Imposto Seletivo: bebidas alcoólicas terão duas alíquotas, mas modelo segue indefinido",
-      "summary": "Será cobrado um percentual por litro de álcool puro presente na bebida e mais uma alíquota, que poderá variar",
-      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/imposto-seletivo-bebidas-alcoolicas-terao-duas-aliquotas-mas-modelo-segue-indefinido",
-      "published": "2026-06-09T09:53:48+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "imposto seletivo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "imposto seletivo",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Reforma tributária exige previsibilidade para preservar competitividade e evitar novos desequilíbrios no varejo de moda",
-      "summary": "A regulamentação da reforma tributária avança no Brasil com o objetivo legítimo de simplificar regras, reduzir distorções e modernizar o sistema de arrecadação. No entanto, à medida que novas leis complementares entram em vigor, cresce também a necessidade de atenção aos impactos práticos sobre setores altamente sensíveis a custos e margens, como é o caso da cadeia da moda. Leia mais (06/09/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/06/reforma-tributaria-exige-previsibilidade-para-preservar-competitividade-e-evitar-novos-desequilibrios-no-varejo-de-moda.shtml",
-      "published": "2026-06-09T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Musk's Starlink leads Bezos' Amazon as airlines rush to boost in-flight Wi-Fi - Reuters",
-      "summary": "Musk's Starlink leads Bezos' Amazon as airlines rush to boost in-flight Wi-Fi &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/musks-starlink-leads-bezos-amazon-airlines-rush-boost-in-flight-wi-fi-2026-06-09",
-      "published": "2026-06-09T10:26:36+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Nubank inaugura espaço de arte imersiva na Avenida Paulista",
@@ -3370,29 +3410,6 @@
       "score": 20.0
     },
     {
-      "title": "Hugo Motta inclui PL enviado pelo governo para fim da escala 6x1 na pauta do plenário da Câmara",
-      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (...",
-      "url": "https://valor.globo.com/politica/noticia/2026/06/12/hugo-motta-inclui-pl-enviado-pelo-governo-para-fim-da-escala-6x1-na-pauta-do-plenario-da-camara.ghtml",
-      "published": "2026-06-12T14:56:18+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Nubank envia mensagem falsa sobre encerramento do banco digital e preocupa clientes",
       "summary": "Por volta do meio-dia desta sexta-feira (12), clientes do Nubank receberam mensagens no telefone celular que diziam que o banco digital tinha sido encerrado. Outra parcela dos depositantes foi alertada por email de que o BC (Banco Central) tinha decretado a liquidação extrajudicial do Nubank. As notificações ainda informavam que o FGC (Fundo Garantidor de Créditos) cobriria investimentos de até R$ 250 mil. Todas as notícias, porém, eram inverídicas, mesmo tendo partido de dentro do banco. Leia mais (06/12/2026 - 12h46)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/06/nubank-nega-encerramento-depois-que-clientes-recebem-notificacao-sobre-fechamento.shtml",
@@ -3549,29 +3566,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Fim da escala 6x1 demanda planejamento das empresas",
-      "summary": "A Câmara dos Deputados aprovou, no dia 27 de maio,...",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/12/fim-da-escala-6x1-demanda-planejamento-das-empresas-1.ghtml",
-      "published": "2026-06-12T17:30:12+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -4750,6 +4744,29 @@
       "score": 20.0
     },
     {
+      "title": "'É uma questão de saúde pública', diz leitora sobre fim da escala 6x1 - 15/06/2026 - Painel do Leitor - Folha de S.Paulo",
+      "summary": "'É uma questão de saúde pública', diz leitora sobre fim da escala 6x1 - 15/06/2026 - Painel do Leitor &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/paineldoleitor/2026/06/e-uma-questao-de-saude-publica-diz-leitora-sobre-fim-da-escala-6x1.shtml",
+      "published": "2026-06-16T01:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Executivo de Valor: André Farber, da Riachuelo, é premiado na categoria Indústria da Moda - Valor Econômico",
       "summary": "Executivo de Valor: André Farber, da Riachuelo, é premiado na categoria Indústria da Moda &nbsp;&nbsp; Valor Econômico",
       "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-andre-farber-da-riachuelo-e-premiado-na-categoria-industria-da-moda.ghtml",
@@ -4811,6 +4828,29 @@
         {
           "sector": "Fashion",
           "alias": "riachuelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Executivo de Valor - Fernando Modé, do Grupo Boticário, um arquiteto de soluções corporativas - Valor Econômico",
+      "summary": "Executivo de Valor - Fernando Modé, do Grupo Boticário, um arquiteto de soluções corporativas &nbsp;&nbsp; Valor Econômico",
+      "url": "https://valor.globo.com/executivo-de-valor/noticia/2026/06/15/executivo-de-valor-fernando-mode-do-grupo-boticario-um-arquiteto-de-solucoes-corporativas.ghtml",
+      "published": "2026-06-16T01:10:02+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
           "field": "title",
           "score": 20,
           "topic": null
@@ -5072,6 +5112,29 @@
       "score": 20.0
     },
     {
+      "title": "Governo manterá urgência para PL sobre fim da escala 6x1",
+      "summary": "O governo do presidente Luiz Inácio Lula da Silva...",
+      "url": "https://valor.globo.com/politica/noticia/2026/06/16/governo-mantera-urgencia-para-o-pl-da-6x1.ghtml",
+      "published": "2026-06-16T08:01:21+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Natura abre inscrições para programa que acelera startups de beleza na América Latina",
       "summary": "A Natura abriu as inscrições para a edição 2026 do Natura Innovation Challenge (NIC), programa de aceleração voltado para startups, marcas independentes e negócios de beleza e bem-estar da América Latina. A iniciativa é realizada em formato equity-free, sem participação societária ou aporte financeiro, e busca empresas que já tenham produtos ou serviços lançados e estejam prontas para ganhar escala. As inscrições ficam abertas até 28 de junho. As selecionadas participarão de uma jornada de mentorias, testes e provas de conceito para validar soluções em ambientes reais, com acesso à infraestrutura, a especialistas e ao centro de pesquisa e desenvolvimento da Natura. Segundo a companhia, o programa é voltado tanto para marcas de beleza e cuidados pessoais quanto para empresas de tecnologia, incluindo beautytechs, femtechs e plataformas digitais que atendam o setor. Entre os critérios de seleção estão a existência de uma operação comercial estruturada, base ativa de clientes e potencial de crescimento. Nesta edição, o programa será dividido em duas frentes. A primeira é focada na cocriação de produtos e no desenvolvimento de novos conceitos alinhados às tendências do mercado de beleza e bem-estar. A segunda busca promover colaborações entre marcas, permitindo que startups testem novas formas de ativação e ampliem sua presença utilizando os canais da Natura. De acordo com José Manuel Silva, vice-presidente de Novos Negócios da Natura, o objetivo é conectar negócios inovadores ao ecossistema da companhia para acelerar o desenvolvimento de soluções e novos modelos de negócio. Ao longo do programa, os participantes poderão explorar oportunidades de cocriação, collabs, testes de mercado e possíveis parcerias futuras. Entre 7 e 10 empresas serão selecionadas para a fase de aceleração. A Natura afirma que aspectos como diversidade de gênero, raça e representatividade regional também serão considerados durante o processo de escolha. Mais Lidas",
       "url": "https://epocanegocios.globo.com/empresas/inovacao-aberta/noticia/2026/06/natura-abre-inscricoes-para-programa-que-acelera-startups-de-beleza-na-america-latina.ghtml",
@@ -5110,6 +5173,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Agenda do dia: Vendas no varejo no Brasil são destaque",
+      "summary": "Na véspera das decisões de juros no Brasil e nos E...",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/16/agenda-do-dia-vendas-no-varejo-no-brasil-sao-destaque.ghtml",
+      "published": "2026-06-16T10:54:51+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "vendas no varejo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vendas no varejo",
           "field": "title",
           "score": 20,
           "topic": null
@@ -5359,29 +5445,6 @@
         }
       ],
       "score": 14.0
-    },
-    {
-      "title": "Pentágono acusa BYD e Alibaba de ajudarem exército da China; Pequim reage",
-      "summary": "O Pentágono acusou algumas das maiores empresas da China, incluindo BYD, Alibaba e Baidu, de apoiarem as Forças Armadas chinesas, reforçando uma decisão anterior de classificar joias da coroa do mundo corporativo do país como ameaças à segurança nacional dos Estados Unidos. Nova investigação: EUA acusam Brasil de usar trabalho forçado na criação de gado e usam isso como pretexto para taxar a China Em pé de guerra com os EUA no comércio: China cria barreiras para evitar perder negócios para o Ocidente O Departamento de Defesa anunciou as designações na segunda-feira em uma atualização de uma lista de empresas que, segundo sua avaliação, auxiliam o Exército de Libertação Popular da China. As empresas já haviam sido incluídas em uma versão anterior da lista, publicada brevemente em fevereiro antes de ser retirada poucos minutos depois, sem qualquer explicação, gerando confusão sobre as intenções do Pentágono. Com essa medida, os Estados Unidos passaram a declarar que três dos mais importantes campeões chineses da inteligência artificial — Alibaba, Baidu e Tencent — estão auxiliando as forças armadas do país asiático. A Tencent foi adicionada à lista em 2025 e vem buscando sua remoção. A designação da BYD destaca a principal fabricante chinesa de veículos elétricos. Após a divulgação da decisão do Pentágono, as ações da Alibaba caíram até 1,4% nas negociações em Hong Kong nesta terça-feira, enquanto a Baidu reduziu os ganhos anteriores e passou a ser negociada com alta de 1,2%. A reação relativamente moderada dos mercados asiáticos sugere que os investidores se acostumaram aos recorrentes ataques regulatórios vindos de Washington. — Acredito que isso seja apenas uma demonstração de posicionamento geopolítico. Em termos fundamentais, há impacto limitado nas operações de negócios dessas empresas — disse Nigel Peh, gestor de portfólio da Timefolio Asset Management, em Cingapura. Initial plugin text A versão mais recente da chamada lista 1260H do Pentágono também reincorporou duas fabricantes chinesas de chips de memória — ChangXin Memory Technologies e Yangtze Memory Technologies — que haviam sido anteriormente designadas pelo Departamento de Defesa, mas foram removidas da versão que apareceu brevemente em fevereiro. Outros fabricantes de hardware, incluindo a desenvolvedora de robôs Unitree Robotics — identificada na lista como Hangzhou Yushu Technology — também foram incluídos na relação ampliada. Fabio Graner: Lula pisca para China em reação ao novo tarifaço dos EUA Embora a lista tenha poucas consequências legais imediatas, o Pentágono tem usado cada vez mais esse instrumento para restringir a capacidade das empresas de firmar contratos com as Forças Armadas dos Estados Unidos ou de receber financiamento para pesquisa. Uma designação na lista 1260H também funciona como um alerta para investidores americanos e é amplamente considerada um sinal de risco que pode anteceder restrições comerciais mais severas. Apesar do impacto comercial imediato limitado, algumas das empresas designadas divulgaram fortes contestações às acusações. Reação do governo chinês e das empresas O Ministério das Relações Exteriores da China criticou a medida, acusando os Estados Unidos de extrapolar questões de segurança para prejudicar empresas comerciais chinesas. — Instamos os Estados Unidos a corrigirem seus erros e a cessarem a repressão infundada contra empresas chinesas — afirmou o porta-voz do ministério, Lin Jian, durante uma coletiva de imprensa regular em Pequim, nesta terça-feira. — China tomará as medidas necessárias para salvaguardar firmemente os direitos e interesses legítimos e legais das empresas chinesas. As empresas também reagiram à medida anunciada pelo Pentágono. “A Alibaba não é uma empresa militar chinesa nem faz parte de qualquer estratégia de fusão militar-civil”, afirmou a companhia em comunicado enviado por e-mail à Bloomberg. “Tomaremos todas as medidas legais disponíveis contra tentativas de deturpar nossa empresa.” OCDE: China lidera 'doping industrial' no mundo em ano em que subsídios ao setor chegaram a US$ 108 bi A Baidu também rejeitou a avaliação do Pentágono, comprometendo-se, em comunicado, a “usar todas as opções disponíveis” para que a empresa seja removida da lista. A BYD contestou a designação e prometeu proteger seus interesses “por todos os meios administrativos e legais viáveis”. A Unitree não respondeu imediatamente aos pedidos de comentário. A WuXi AppTec classificou sua inclusão na lista do Pentágono como um erro. “Não atendemos aos critérios legais para sermos designados como uma ‘empresa militar chinesa’”, afirmou a companhia em uma declaração enviada por e-mail à Bloomberg, acrescentando que a WuXi AppTec não é controlada nem afiliada a qualquer entidade militar ou governamental chinesa. Disputa acirrada: 'Competição entre EUA e China em IA definirá arquitetura do poder global', diz autor de livro sobre a rivalidade entre os países A lista foi divulgada menos de um mês após o presidente Donald Trump se reunir com seu homólogo chinês, Xi Jinping, em Pequim, onde os dois líderes discutiram alguns dos principais pontos de atrito nas relações comerciais entre as duas maiores economias do mundo. A cúpula, acompanhada de perto pelos mercados, não resultou em uma redução significativa das tensões relacionadas à tecnologia avançada, especialmente à inteligência artificial. — A lista republicada pelo Pentágono de empresas chinesas ligadas às Forças Armadas serve como um teste de realidade após a cúpula — afirmou Craig Singleton, pesquisador sênior especializado em China da Foundation for Defense of Democracies. — A reunião entre Xi e Trump não interrompeu a competição; ela esclareceu onde essa competição continuará — acrescentou Singleton, que acompanha de perto as designações da lista 1260H. Ao divulgar sua lista atualizada, o Pentágono afirmou que as entidades nomeadas se qualificam como “empresas militares chinesas” que operam direta ou indiretamente nos Estados Unidos, com base em suas supostas atividades de “prestação de serviços comerciais, fabricação, produção ou exportação”. Vantagem: Aposta em aplicações práticas leva China à dianteira da corrida global de IA Em maio, a Bloomberg News informou que a decisão inicial do Pentágono de remover a YMTC e a CXMT foi o motivo pelo qual a lista foi rapidamente retirada em fevereiro. Autoridades de segurança nacional do governo Trump consideraram que remover as fabricantes de chips — especialmente antes de uma reunião planejada entre os líderes dos Estados Unidos e da China, então prevista para o fim de março — poderia sugerir incorretamente que os EUA já não as consideravam uma ameaça, segundo pessoas familiarizadas com o assunto. As autoridades também temiam que a medida fortalecesse as empresas chinesas em detrimento da Micron e de outras duas grandes fabricantes de memória da Coreia do Sul, aliada dos Estados Unidos: Samsung Electronics e SK Hynix, segundo as fontes. Imediatamente após a publicação da lista, uma alta autoridade da Casa Branca telefonou para o Pentágono para manifestar insatisfação pelo fato de suas preocupações terem sido ignoradas, informou a Bloomberg. Autoridades da Defesa correram para retirar a lista do ar apenas alguns minutos depois de ela ter sido publicada. O incidente deu às empresas uma oportunidade de vários meses para pressionar por novas alterações por meio de uma combinação de lobby e estratégias jurídicas. No final, a versão publicada em junho foi substancialmente semelhante à versão divulgada em fevereiro e posteriormente retirada — com exceção da reinclusão das duas fabricantes de chips. Aprovação prévia: China amplia restrições de viagem para os principais talentos de IA em empresas privadas, como Alibaba O Congresso dos Estados Unidos determinou pela primeira vez, em 1999, que o Departamento de Defesa elaborasse uma lista de empresas militares chinesas que operam nos EUA. O Pentágono só começou a fazê-lo mais de duas décadas depois, após parlamentares e o primeiro governo Trump retomarem a questão. Devido à política chinesa de “fusão militar-civil”, pela qual Pequim exige a colaboração do setor privado com as forças armadas do país, o Pentágono poderia, teoricamente, justificar a designação de quase qualquer empresa chinesa com presença nos Estados Unidos. A versão que foi brevemente publicada em fevereiro e essencialmente republicada na segunda-feira está entre as atualizações mais significativas da história da lista, abrangendo quase 200 empresas — muitas delas entre as mais proeminentes da China. John McEntee, ex-alto funcionário da Casa Branca durante o governo Trump e atualmente lobista da Tencent, criticou a permanência da empresa na lista. — Ao expandirem a lista para incluir montadoras chinesas como BYD e NIO, eles estão revelando o quão absurda é a justificativa. Pela lógica deles, Ford e GM também deveriam ser classificadas como empresas militares americanas — afirmou McEntee. Um ponto de confusão que permanece após a atualização mais recente é a inclusão da TP-Link Technologies, sediada na China e focada na venda de produtos para clientes chineses, em vez da TP-Link Systems, sediada nos Estados Unidos, que tem sido alvo de escrutínio por parte das autoridades americanas devido aos possíveis riscos à segurança nacional decorrentes de sua posição dominante no mercado de roteadores sem fio. Para ser incluída na lista, uma empresa deve operar direta ou indiretamente nos Estados Unidos. — Como uma empresa sediada nos EUA e incorporada no estado da Califórnia, a TP-Link Systems, não está sujeita a esta publicação nem às restrições associadas a ela — declarou uma porta-voz da empresa. Ela acrescentou que o fundador e CEO da TP-Link, Jeffrey Chao, reside na Califórnia “e não é, nem jamais foi, membro” do Partido Comunista Chinês.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/09/pentagono-acusa-byd-e-alibaba-de-ajudarem-exercito-da-china-pequim-reage.ghtml",
-      "published": "2026-06-09T10:52:04+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "joias"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "'Dinheiro esquecido': sistema tem R$ 10,3 bilhões disponíveis para resgate; veja como consultar",
@@ -6123,29 +6186,6 @@
         }
       ],
       "score": 4.0
-    },
-    {
-      "title": "Tensão com preços nos balanços é a maior desde o pós-pandemia",
-      "summary": "A discussão sobre repasse de preços, pressão de margem e capacidade de precificação atingiu o maior nível desde o choque inflacionário dos primeiros trimestres de 2022 entre companhias brasileiras listadas nos Estados Unidos, mostra levantamento da consultoria de inteligência de mercado Bridgewise. A consultoria identificou 2,1 mil menções ligadas a pricing, inflação, repasse de custos e affordability nos releases de resultados divulgados no primeiro trimestre – relativos ao último de 2025. O número superou com folga o pico anterior, observado dois anos antes, em torno de 1,5 mil vezes e se aproxima do recorde de três mil registros no primeiro trimestre de 2022. Goldberg: ‘Dimensão de passivos fora de balanços é impressionante’ Americanas reduz prejuízo no trimestre e vende lojas do Natural da Terra No período mais longo analisado, desde dezembro de 2024, foram encontradas 4,42 mil referências a pricing power, repasse de custos, pressão de margem e affordability, num universo de 50 emissoras que publicam relatórios em inglês, se firmando como o segundo maior tema defensivo, atrás de eficiência operacional (4,61 mil menções) e à frente de gestão de dívida (3,77 mil). A Vale lidera a lista, com 704 menções ligadas a pricing, inflação, repasse de custos e pressão de margem no último ano e meio, seguida por Braskem, com 333 citações, CSN com 90 registros, Cosan com 80, Nu Holdings com 69 e PagSeguro com 63, segundo a plataforma ThemeX Search. A Petrobras aparece com volume relevante (262 vezes) nas discussões sobre preços. Daltozo, da BridgeWise: realidade econômica é diferente Divulgação Segundo a deeptech israelense, o pico não é sazonal. “O release de resultados deixou de ser apenas prestação de contas e virou um canal de sinalização. As companhias estão usando o documento para mostrar ao mercado como pretendem defender margem em um ambiente de juro alto e inflação resistente”, explica Carlos Daltozo, especialista da BridgeWise. Também é significativo que o cenário atual seja comparável ao choque de oferta do começo de 2022, “uma outra realidade econômica”, segundo Daltozo, com a combinação de inflação global elevada – no Brasil, IPCA de 12% ao ano em abril –, disparada de commodities e aperto acelerado de juros após o período mais duro da pandemia e a invasão da Ucrânia pela Rússia. Sem Master, Le Lis e Dudalina puxam retomada da Veste Os clubes de futebol com maior receita – e os com cartão vermelho No segundo trimestre daquele ano, os balanços das brasileiras registraram 2.604 menções relativas a preços e afins. O estudo mostra ainda que as empresas falaram muito mais sobre preservação de margens do que sobre expansão. Termos ligados a investimentos, como capex, greenfield, brownfield, ROIC e payback, apareceram apenas 985 vezes desde o fim de 2024, numa proporção de 4,5 menções a preço para cada menção a crescimento no período.",
-      "url": "https://pipelinevalor.globo.com/mercado/noticia/tensao-com-precos-nos-balancos-e-a-maior-desde-o-pos-pandemia.ghtml",
-      "published": "2026-06-09T10:00:36+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "le lis"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "le lis",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
     },
     {
       "title": "A visão dos jovens — o futuro que queremos",
