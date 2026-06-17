@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T09:26:30.591247+00:00",
-  "count": 263,
-  "new_this_run": 48,
+  "generated_at": "2026-06-17T10:07:33.933886+00:00",
+  "count": 265,
+  "new_this_run": 13,
   "articles": [
     {
       "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
@@ -1254,6 +1254,37 @@
         {
           "sector": "Joias",
           "alias": "ouro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Por que o Rolex de Neymar na Copa dita o novo ritmo da alta relojoaria",
+      "summary": "Jogador apareceu na partida contra o Marrocos com um modelo feminino, cravejado de diamantes, com valor estimado em R$ 750 mil",
+      "url": "https://exame.com/casual/por-que-o-rolex-de-neymar-na-copa-dita-o-novo-ritmo-da-alta-relojoaria",
+      "published": "2026-06-17T06:31:33+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Joias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "rolex"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "rolex",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "rolex",
           "field": "title",
           "score": 20,
           "topic": null
@@ -7116,6 +7147,29 @@
         {
           "sector": "E-commerce",
           "alias": "amazon",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Um novo prêmio de risco no Rio de Janeiro",
+      "summary": "Investidores de títulos de dívidas e algumas instituições financeiras têm considerado um novo indicador ao avaliar os riscos de perda de um tomador: se a sede ou a maior parte da operação da empresa acontece no Rio de Janeiro. Não se trata da violência do estado nem de seu histórico político. “O TJ-RJ está se tornando território hostil para os credores, onde grandes empresas com advogados influentes conseguem decisões inéditas e inusitadas”, diz um gestor. Outros seis corroboram. \"Empresto, mas vai ser mais caro.\" Entre as grandes recuperações judiciais recentes baseadas no Rio estão Americanas, Oi e Ambipar. No Rio, Judiciário assusta credores Paulo Duarte/Pixabay",
+      "url": "https://pipelinevalor.globo.com/mercado/noticia/um-novo-premio-de-risco-no-rio-de-janeiro.ghtml",
+      "published": "2026-06-17T09:30:12+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "americanas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
           "field": "body",
           "score": 2,
           "topic": null
