@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T12:05:33.234440+00:00",
-  "count": 266,
-  "new_this_run": 16,
+  "generated_at": "2026-06-17T12:55:55.902699+00:00",
+  "count": 265,
+  "new_this_run": 14,
   "articles": [
     {
       "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
@@ -1418,6 +1418,45 @@
       "score": 36.0
     },
     {
+      "title": "Na Colômbia, jornada de trabalho cairá para 42 horas semanais no mês que vem",
+      "summary": "Enquanto o Brasil discute o fim da escala 6x1 , a vizinha Colômbia está prestes a implementar a redução de jornada de trabalho no país. A partir de 15 de julho, os trabalhadores assalariados colombinanos passarão a trabalhar no máximo 42 horas semanais, seis horas a menos do que era estabelecido há cinco anos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/17/na-colombia-jornada-de-trabalho-caira-para-42-horas-semanais-no-mes-que-vem.ghtml",
+      "published": "2026-06-17T12:19:39+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "jornada de trabalho",
+        "redução de jornada"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "redução de jornada",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Anel de ouro romano de 1.700 anos achado por caminhoneiro aposentado é adquirido por museu na Inglaterra por R$ 580 mil",
       "summary": "Um anel de ouro maciço enterrado há cerca de 1.700 anos durante um dos períodos mais turbulentos da Britânia Romana foi adquirido pelo South West Heritage Trust por £ 78.010, o equivalente a cerca de R$ 580 mil. Conhecida como \"Anel de Ilminster\", em referência à cidade do condado de Somerset próxima ao local da descoberta, a peça é considerada uma das mais importantes joias romanas já encontradas no Reino Unido. Audi Nuvolari: conheça o hipercarro que usa tecnologia da Fórmula 1 e ultrapassa mais de 350 km/h Receita faz leilão com carro por R$ 10,5 mil, joias da Tiffany e eletrônicos apreendidos em São Paulo O objeto pesa aproximadamente 48 gramas e foi encontrado em 2018 por Kevin Minto, de 68 anos, caminhoneiro aposentado e ex-militar que pratica detecção de metais. Apesar da descoberta ter ocorrido há oito anos, o caso só veio a público agora porque o processo de avaliação e aquisição seguiu os trâmites previstos pela legislação britânica para tesouros arqueológicos. — É difícil explicar a sensação de encontrar algo assim. Foi como ser atingido por um trem expresso. Primeiro pensei que fosse uma moeda, depois um broche, até perceber que era um anel — contou Minto ao jornal britânico The Guardian. A joia possui uma gema do tipo nicolo gravada com a imagem da deusa romana Vitória, símbolo do triunfo militar no Império Romano. Segundo especialistas, o anel provavelmente foi enterrado por volta de 297 d.C., durante a revolta de Caráusio, comandante que rompeu com Roma e se autoproclamou governante da Britânia e de parte da Gália. A hipótese é que o proprietário tenha escondido seus bens durante o período de instabilidade política e militar e nunca retornado para recuperá-los. Pela legislação britânica, o valor pago pelo museu foi dividido entre o proprietário do terreno e o descobridor. Minto recebeu pouco mais de £ 19.500, cerca de R$ 145 mil, após repartir sua parte com um amigo que participava das buscas. Os pesquisadores agora tentam determinar se a peça foi produzida na própria Britânia Romana ou importada de outra região do Império. Depois de passar por exposições locais, o anel será incorporado ao acervo permanente do Museum of Somerset, em Taunton.",
       "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/06/11/anel-de-ouro-romano-de-1700-anos-achado-por-caminhoneiro-aposentado-e-adquirido-por-museu-na-inglaterra-por-r-580-mil.ghtml",
@@ -2320,29 +2359,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Sigma Healthcare confirma conversas para adquirir rede de farmácias britânica Boots",
-      "summary": "A australiana Sigma Healthcare informou, por meio...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/10/sigma-healthcare-confirma-conversas-para-adquirir-rede-de-farmacias-britanica-boots.ghtml",
-      "published": "2026-06-10T12:12:10+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Pfizer alerta que investimentos na Alemanha estão em risco devido às políticas de preços",
@@ -4829,29 +4845,6 @@
       "score": 20.0
     },
     {
-      "title": "Fim da escala 6x1: Motta deve trocar relator de projeto após governo aceitar retirada de urgência",
-      "summary": "A retirada do regime de urgência do projeto que põe fim ao regime de trabalho com escala 6x1 deve resultar em uma mudança na relatoria da proposta na Câmara dos Deputados. Embora ainda não haja uma definição formal, a avaliação nos bastidores é que o deputado Leo Prates (Republicanos-BA) tem poucas chances de permanecer à frente do texto. Agências reguladoras: bloqueio de cerca de 20% nos seus orçamentos interrompe fiscalização Míriam Leitão: Estimativa para a Selic sobe pela segunda semana consecutiva às vésperas da reunião do Copom A escolha de Prates ocorreu em meio às negociações para que o projeto fosse analisado diretamente pelo plenário, uma vez que estava trancando a pauta da Casa. O acordo construído entre lideranças previa que o parlamentar elaborasse um parecer em linha com o texto da proposta de emenda à Constituição (PEC) que trata da redução da jornada de trabalho e do fim da escala 6x1, aprovada pela Câmara no mês passado, e da qual fora relator. O deputado Leo Prates (Republicanos-BA) Kayo Magalhães / Câmara dos Deputados A escolha dele inicialmente foi interpretada como um gesto do presidente da Câmara, Hugo Motta (Republicanos-PB) ao parlamentar, que se filiou à sua legenda na janela partidária, além de indicar que gostaria de ter o comando sobre o texto que tramitaria. Mercadante: BNDES poderá captar recursos no exterior para ampliar financiamento a minerais críticos Motta quer usar a pauta do fim da escala 6x1 como um dos legados de sua gestão à frente da Câmara, além de ser um tema popular que poderá ajudá-lo eleitoralmente em seu estado, a Paraíba, onde o presidente Lula lidera as pesquisas. Novo cenário O entendimento de Motta ao manter Prates à frente das tratativas ocorreu em razão da necessidade de produzir um parecer em curto espaço de tempo. Com a sinalização de retirada da urgência pelo governo, porém, o cenário mudou, e Prates já indicou a interlocutores que não acredita que permanecerá na função. Na avaliação do parlamentar a aliados, com a matéria retornando ao rito convencional, é natural que Hugo Motta abra espaço para outro deputado assumir a tarefa. Pessoas próximas às conversas relatam que Prates considera essa possibilidade “justa” diante da nova fase da tramitação. Além disso, o deputado também nunca demonstrou grande entusiasmo em assumir a relatoria do projeto de lie depois de um mês intenso de trabalho na relatoria da PEC. Nos bastidores, a missão era vista mais como uma necessidade política da Casa naquele momento do que como uma atribuição desejada por ele, embora o cargo tenha lhe rendido maior visibilidade. Cearense cotado para a relatoria Ainda não há nomes oficialmente colocados na mesa para substituí-lo. Entre interlocutores, no entanto, Prates tem mencionado o nome do deputado Luiz Gastão (PSD-CE) como uma alternativa natural para assumir a função. O parlamentar cearense foi relator da subcomissão criada pela Câmara para discutir mudanças na jornada de trabalho, acompanha projetos cuja temática se relacionam com o trabalho há anos e possui bom trânsito junto ao setor produtivo, característica considerada importante para a construção de consensos em torno de uma pauta que divide empresários e trabalhadores. Além disso, é aliado do governo no Ceará. Initial plugin text Interlocutores envolvidos nas discussões afirmam que Gastão é visto como um nome de equilíbrio para tocar uma negociação complexa e que sua eventual escolha seria recebida com naturalidade por diferentes setores da Câmara. Apesar disso, não há qualquer definição sobre a relatoria, que dependerá das negociações políticas após a reorganização da tramitação da proposta. A retirada da urgência também tem um efeito prático imediato, uma vez que destrava a pauta de votações da Câmara, que estava bloqueada em razão do regime especial concedido ao projeto. Com isso, o texto já não deve ser mais votado nesta semana, como foi anunciado pelo presidente na segunda-feira. Pressão sobre Alcolumbre Nos bastidores do Congresso, a justificativa usada por governistas e pelo próprio governo para manter a urgência em vigor no projeto era fazer pressão sobre o Senado Federal, onde a PEC do fim da 6x1 segue travada e sem sinalizações do presidente Davi Alcolumbre (União Brasil-AP) de que a fará andar com celeridade. O presidente do Senado, Davi Alcolumbre Carlos Moura/Agência Senado Segundo interlocutores de Alcolumbre, o senador está indo “no seu tempo” e não deve levar a proposta tão cedo ao plenário. A votação no Senado, contudo, também reflete nos desdobramentos do projeto de lei na Câmara. A expectativa na cúpula da Casa é que a votação do projeto de lei que vai regulamentar pontos específicos de escala e jornada de trabalho seja apreciada somente depois da aprovação da PEC no Senado.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/16/fim-da-escala-6x1-motta-deve-trocar-relator-de-projeto-apos-governo-aceitar-retirada-de-urgencia.ghtml",
-      "published": "2026-06-16T17:34:20+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Loja de departamentos francesa BHV encerra parceria com a Shein",
       "summary": "A loja de departamentos francesa BHV está encerran...",
       "url": "https://valor.globo.com/empresas/noticia/2026/06/16/loja-de-departamentos-francesa-bhv-encerra-parceria-com-a-shein.ghtml",
@@ -4962,29 +4955,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Motta diz que governo sinalizou retirar urgência do PL da escala 6x1, mas medida ainda não foi oficializada",
-      "summary": "O presidente da Câmara dos Deputados, Hugo Motta (...",
-      "url": "https://valor.globo.com/politica/noticia/2026/06/16/motta-diz-que-governo-sinalizou-retirar-urgencia-do-pl-da-escala-6x1-mas-oficialmente-nada-fez.ghtml",
-      "published": "2026-06-16T19:33:27+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -5468,6 +5438,29 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Justiça manda governo suspender anúncios pagos sobre fim da escala 6x1",
+      "summary": "A Justiça Federal determinou nesta terça-feira que o governo federal suspenda, em até 48 horas a partir da intimação, os anúncios patrocinados nas redes sociais em defesa do fim da escala de trabalho 6x1. A decisão liminar foi proferida pela juíza federal Pollyanna Kelly Maciel Medeiros Martins Alves, da 1ª Vara Federal Cível do Distrito Federal, em ação popular movida pelo deputado federal Carlos Jordy (PL-RJ). Ao conceder a medida, a magistrada entendeu que há indícios de que recursos públicos possam ter sido utilizados para promover uma proposta legislativa que ainda depende de aprovação definitiva pelo Congresso Nacional. Segundo a decisão, o ponto central da discussão não é o mérito do fim da escala 6x1, mas os limites da publicidade institucional do governo federal. A ação questiona campanhas patrocinadas pelo governo em plataformas como Instagram, Facebook, YouTube e X. De acordo com o processo, foram identificados investimentos de ao menos R$ 1,5 milhão em conteúdos relacionados à proposta de redução da jornada de trabalho. Na avaliação da juíza, um dos elementos mais relevantes para justificar a suspensão dos anúncios foi o momento em que parte desses recursos foi aplicada. “O elemento mais relevante para o juízo de plausibilidade é o dado temporal: de acordo com o levantamento apresentado na inicial, R$ 881 mil foram investidos entre 15 e 18 de abril de 2026, período que coincidiu com a votação da matéria na Comissão de Constituição e Justiça da Câmara dos Deputados. Essa concomitância enfraquece a tese do caráter meramente informativo e evidencia, em cognição sumária, aparente incompatibilidade com a finalidade constitucional no processo legislativo, com uso potencialmente irregular de recursos públicos”, diz a decisão. A juíza também citou entendimento anterior do Tribunal de Contas da União (TCU) segundo o qual a utilização de recursos públicos para divulgar projetos de lei não atende aos requisitos constitucionais exigidos para a publicidade institucional, que deve possuir caráter educativo, informativo ou de orientação social. Segundo a magistrada, normas internas da Secretaria de Comunicação Social (Secom) que autorizam campanhas voltadas ao debate de políticas públicas não alcançam, em princípio, o impulsionamento pago de uma proposta legislativa específica ainda em discussão no Parlamento. \"A Instrução Normativa SECOM n. 2/2023, ao incluir entre as finalidades da publicidade institucional o estímulo ao debate e à formulação de políticas públicas, não alcança, em princípio, o impulsionamento pago de proposta legislativa específica ainda pendente de aprovação, pois não é essa a função constitucionalmente reservada à publicidade institucional\", registrou. Procurada, a Secom não comentou. O que fica proibido A decisão determina que a União, por meio da Secom, suspenda os impulsionamentos pagos relacionados ao fim da escala 6x1 e deixe de realizar novos aportes financeiros para promover conteúdos com o mesmo objetivo enquanto a matéria continuar pendente de deliberação definitiva pelo Congresso. A magistrada, no entanto, limitou o alcance da medida aos conteúdos patrocinados. O governo continua autorizado a publicar informações sobre o tema em seus canais oficiais sem impulsionamento pago. \"A presente medida não impede a veiculação orgânica (não patrocinada) de conteúdo institucional, nem alcança pronunciamentos presidenciais em cadeia nacional de radiodifusão ou qualquer outro meio de comunicação que não o impulsionamento pago nas plataformas digitais acima identificadas\", afirma a decisão. Na prática, Lula, ministros e demais integrantes do governo continuam podendo defender publicamente o fim da escala 6x1. O que a Justiça suspendeu foi apenas o uso de recursos públicos para ampliar o alcance dessas mensagens nas plataformas digitais. Justiça rejeita argumentos da União Antes de analisar o pedido de liminar, a juíza rejeitou os argumentos da União de que o caso deveria ser julgado pela Justiça Eleitoral. Segundo ela, a ação não discute eventual propaganda eleitoral antecipada, mas sim a legalidade dos gastos públicos realizados pelo governo federal. A magistrada também afastou a tese de que a suspensão dos anúncios representaria censura prévia. Para ela, a medida é \"estritamente delimitada\" e não impede a comunicação institucional regular do Estado nem futuros pronunciamentos do presidente da República. “A medida ora concedida é estritamente delimitada: abrange apenas o impulsionamento pago nas plataformas digitais relativo à proposta de extinção da escala de trabalho 6x1, delimitado pelo objeto do conteúdo promovido. Trata-se de restrição pontual, específica e reversível, que não alcança a atividade comunicacional ordinária da Administração Pública, os pronunciamentos institucionais do Chefe do Poder Executivo, nem qualquer publicidade que não seja o patrocínio pago da pauta legislativa identificada. Afasta-se, por isso, o perigo de irreversibilidade inversa no escopo definido”, diz a decisão. O processo continuará tramitando na Justiça Federal. Lula, o ministro da Secom, Sidônio Palmeira, e a União serão citados para apresentar defesa. Além disso, a magistrada determinou que o governo entregue documentos relativos à campanha, incluindo contratos, comprovantes de pagamento, ordens de veiculação e demais registros relacionados aos gastos com publicidade.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/17/justica-manda-governo-suspender-anuncios-pagos-sobre-fim-da-escala-6x1.ghtml",
+      "published": "2026-06-17T11:56:38+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
