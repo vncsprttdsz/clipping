@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T09:09:21.117604+00:00",
-  "count": 265,
-  "new_this_run": 42,
+  "generated_at": "2026-06-18T09:31:01.107941+00:00",
+  "count": 266,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
@@ -5225,6 +5225,29 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold firms on easing oil prices after US-Iran ceasefire deal - Reuters",
+      "summary": "Gold firms on easing oil prices after US-Iran ceasefire deal &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/world/india/gold-climbs-over-1-oil-drops-us-iran-interim-deal-2026-06-18",
+      "published": "2026-06-18T03:06:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
