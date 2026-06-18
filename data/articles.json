@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T11:07:44.919768+00:00",
-  "count": 263,
-  "new_this_run": 9,
+  "generated_at": "2026-06-18T11:31:59.092671+00:00",
+  "count": 265,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
@@ -2052,29 +2052,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Coreana Coupang recebe multa recorde de US$ 410 mi por vazamento de dados",
-      "summary": "A Comissão de Proteção de Informações Pessoais da...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/11/coreana-coupang-recebe-multa-recorde-de-us-410-mi-por-vazamento-de-dados.ghtml",
-      "published": "2026-06-11T11:31:24+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "coupang"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "coupang",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Na era da AI, iFood valoriza educação com incentivo à capacitação de colaboradores - Brazil Journal",
@@ -4193,6 +4170,29 @@
       "score": 20.0
     },
     {
+      "title": "El \"cepo\" de Apple en Argentina: Mercado Pago y MODO protestan - iProUP",
+      "summary": "El \"cepo\" de Apple en Argentina: Mercado Pago y MODO protestan &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/68525-apple-bloquea-chip-nfc-obliga-usuarios-iphone-pagar-qr-argentina-junio-2026",
+      "published": "2026-06-16T17:59:20+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Outra ‘taxa das blusinhas’: governos estaduais mantêm imposto de até 20% sobre importações",
       "summary": "Lula cedeu à pressão e zerou o imposto federal para compras de até US$ 50, mas os governos estaduais seguem com a tributação",
       "url": "https://veja.abril.com.br/economia/outra-taxa-das-blusinhas-governos-estaduais-mantem-imposto-de-ate-20-sobre-importacoes",
@@ -4648,6 +4648,29 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mercado Libre prepara una IA que compra, invierte y paga por vos - iProUP",
+      "summary": "Mercado Libre prepara una IA que compra, invierte y paga por vos &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/68836-mercado-libre-plan-secreto-mago-ia-manejar-plata-compras-inteligencia-artificial",
+      "published": "2026-06-17T09:48:12+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado libre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado libre",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
@@ -5197,6 +5220,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Estudo aponta benefício inesperado do Ozempic para os ossos",
+      "summary": "Análise de quase 60 mil pacientes encontrou menos fraturas entre usuários de semaglutida, mesmo com maior perda de peso",
+      "url": "https://exame.com/ciencia/estudo-aponta-beneficio-inesperado-do-ozempic-para-os-ossos",
+      "published": "2026-06-18T08:09:00+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
           "field": "title",
           "score": 20,
           "topic": null
