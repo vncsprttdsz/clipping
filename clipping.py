@@ -289,8 +289,11 @@ FEED_URLS = [
 
 EXPERIMENTAL_FEEDS = [
     "https://pox.globo.com/rss/oglobo/negocios",
-    "https://www.ambito.com/rss/economia.xml",
-    "https://www.iproup.com/feed",
+    # Ámbito e iProUP (Argentina) bloqueiam o feed direto com HTTP 403 a
+    # partir dos IPs do runner (WAF regional). A via Google News site: é
+    # servida pela infra do Google e contorna o bloqueio.
+    "https://news.google.com/rss/search?q=site:ambito.com&hl=es-419&gl=AR&ceid=AR:es-419",
+    "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
     "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://news.google.com/rss/search?q=site:elfinanciero.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/",
