@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T11:17:12.623487+00:00",
-  "count": 306,
-  "new_this_run": 7,
+  "generated_at": "2026-06-19T11:59:40.834773+00:00",
+  "count": 308,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Com chegada de concorrente, Eurofarma faz nova redução de até 48% no preço de canetas emagrecedoras",
@@ -1439,6 +1439,37 @@
         {
           "sector": "Farmácias",
           "alias": "eurofarma",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Ozempic: maioria dos pacientes que param GLP-1 volta ao tratamento, diz estudo",
+      "summary": "Pesquisa identificou altas taxas de interrupção, mas também um retorno frequente ao tratamento nos anos seguintes",
+      "url": "https://exame.com/ciencia/ozempic-maioria-dos-pacientes-que-param-glp-1-volta-ao-tratamento-diz-estudo",
+      "published": "2026-06-19T08:09:52+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "glp-1",
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
           "field": "title",
           "score": 20,
           "topic": null
@@ -7324,6 +7355,37 @@
         {
           "sector": "Farmácias",
           "alias": "medicamento",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 4.0
+    },
+    {
+      "title": "Agenda de empresas: B3 anuncia R$ 1,1 bi em proventos; Cemig e Embraer também aprovam pagamentos",
+      "summary": "B3 O conselho de administração da B3 aprovou o pagamento de juros sobre capital próprio no valor total bruto de R$ 1,1 bilhão, equivalente a R$ 0,208 por ação. CSN A venda da unidade de cimento da siderúrgica CSN entra na reta final com um possível entrave: o preço pedido pela empresa, considerado acima do esperado e capaz de reduzir o número de interessados, disseram à Reuters três pessoas próximas ao processo. Armac A Armac informou que José Augusto Carvalho Aragão, Lúcia Rosa Pereira Aragão e Fernando Pereira Aragão assinaram um novo acordo de acionistas que terá a duração de 30 anos. Copasa O conselho de administração da Copasa aprovou a distribuição de juros sobre o capital próprio (JCP) no valor total dos proventos será de R$ 142,5 milhões, ou R$ 0,375873 por ação. Cemig O conselho de administração da Cemig aprovou o pagamento de R$ 630,5 milhões em juros sobre o capital próprio, equivalentes a R$ 0,220405 por ação. Embraer O conselho de administração da Embraer aprovou o pagamento de juros sobre o capital próprio, referentes ao segundo trimestre, no valor total de R$ 200 milhões, equivalentes a R$ 0,280964 por ação. Neoenergia O conselho de administração da Neoenergia aprovou a distribuição de juros sobre o capital próprio no valor de R$ 262 milhões. Lojas Renner O conselho de administração da Lojas Renner aprovou a distribuição de juros sobre o capital próprio no valor bruto de R$ 220,4 milhões, equivalentes a R$ 0,229299 por ação. Sanepar O conselho de administração da Sanepar aprovou a eleição de Ozires Kloster para exercer o cargo de diretor financeiro e de relações com investidores da companhia, em substituição a Abel Demetrio, em razão do término do mandato. Aura Minerals O conselho de administração da Aura Minerals aprovou um programa de recompra de ações de até US$ 200 milhões, abrangendo ações ordinárias e Brazilian Depositary Receipts (BDRs), negociados na B3. Banrisul O Banrisul informou que chegou a um acordo com o governo do Rio Grande do Sul para administrar a folha de pagamento do Estado por cinco anos. O banco vai pagar R$ 70 por CPF, totalizando R$ 1,264 bilhão. Victor Moriyama/Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/19/agenda-de-empresas-b3-anuncia-r-11-bi-em-proventos-cemig-e-embraer-tambem-aprovam-pagamentos.ghtml",
+      "published": "2026-06-19T11:12:38+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "lojas renner",
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "lojas renner",
           "field": "body",
           "score": 2,
           "topic": null
