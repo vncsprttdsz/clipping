@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T13:06:48.834892+00:00",
-  "count": 310,
-  "new_this_run": 2,
+  "generated_at": "2026-06-20T08:13:06.152232+00:00",
+  "count": 313,
+  "new_this_run": 40,
   "articles": [
     {
       "title": "Com chegada de concorrente, Eurofarma faz nova redução de até 48% no preço de canetas emagrecedoras",
@@ -175,33 +175,75 @@
       "score": 100.0
     },
     {
-      "title": "Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil",
-      "summary": "A aprovação pela Agência Nacional de Vigilância Sanitária (Anvisa) do registro da primeira semaglutida nacional, no fim de maio, que será produzida pela EMS, acirrou a guerra pela queda do preço das canetas emagrecedoras no mercado brasileiro. Agora, a líder do mercado, a americana Eli Lilly, dona do Mounjaro, caneta análoga ao GLP-1 à base [&#8230;] O post Dona do Mounjaro corta preços e acirra a disputa das canetas emagrecedoras no Brasil apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/negocios/dona-do-mounjaro-corta-precos-e-acirra-a-disputa-das-canetas-emagrecedoras-no-brasil",
-      "published": "2026-06-12T22:03:39+00:00",
-      "source": "https://neofeed.com.br/feed/",
+      "title": "‘Caneta emagrecedora é Santo Graal para academias’, diz CEO da Panobianco",
+      "summary": "A Panobianco, segunda maior rede de academias do país, prevê que o barateamento das chamadas canetas emagrecedoras e a evolução para versões em comprimido vão trazer até 4,5 milhões de novos alunos para o setor no Brasil até 2030. Ou seja, a companhia espera que, em um intervalo de apenas quatro anos, medicamentos da categoria GLP-1 ampliem em quase um terço o segmento de academias, que tem cerca de 15 milhões de alunos hoje, segundo estimativa do CEO, Felipe Barth de Castro. LEIA MAIS: Novo Nordisk quer barrar rival nacional do Ozempic acusando EMS de violar marcas Bio Ritmo, academia ‘premium’ do grupo SmartFit, prepara ofensiva no Rio — começando pelo Copacabana Palace — Vai ser uma espécie de Santo Graal, um momento áureo para os números do setor. Hoje, o GLP-1 ainda é pouco acessível, mas as versões nacionais e a chegada dos comprimidos vão atingir em cheio a classe C, trazendo esse público para as academias. Nossa previsão é que esse fenômeno será um grande indutor do aumento da penetração das academias, que hoje é de apenas 7% no Brasil. Nos EUA, é superior a 25% — diz Castro, que, no começo da carreira, trabalhou na Novo Nordisk, fabricante de Ozempic e Wegovy. Menos esteiras O CEO admite que pode parecer contraintuitivo prever que um medicamento que proporciona perda de peso acelerada aumente a atividade física. Mas ele explica que os medicamentos promovem mudanças de hábito que têm impacto direto na relação dos usuários com o corpo. — Acontece que, ao perder peso, a pessoa começa a se sentir bem e a desejar ir para a academia. Em paralelo, ela também perde massa magra e entende que, para potencializar o efeito da droga, o exercício é necessário. Mas adaptações serão necessárias. Nos EUA, por exemplo, as academias estão reduzindo o número de esteiras e privilegiando equipamentos de musculação — pondera o CEO da Panobianco, que tem cerca de 1 milhão de clientes e 435 unidades pelo país, com a meta de encerrar o ano com 550 unidades. A estimativa da Panobianco sobre o efeito de Ozempic e afins é baseada em uma modelagem da consultoria Visagio, contratada para traçar o plano da rede para os próximos cinco anos, e em dados de levantamentos prévios de instituições como Morgan Stanley, UBS, Vigitel, IBGE e Health & Fitness Association (HFA).",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/06/caneta-emagrecedora-e-santo-graal-para-academias-diz-ceo-da-panobianco.ghtml",
+      "published": "2026-06-19T21:41:11+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
-        "Farmácias"
+        "Academias",
+        "Farmácias",
+        "Global Consumer"
       ],
       "matched_aliases": [
+        "bio ritmo",
+        "caneta emagrecedora",
         "canetas emagrecedoras",
-        "eli lilly",
         "ems",
         "glp-1",
-        "mounjaro",
-        "semaglutida"
+        "novo nordisk",
+        "ozempic",
+        "panobianco",
+        "rede de academias",
+        "smartfit",
+        "wegovy"
       ],
       "matches": [
         {
-          "sector": "Farmácias",
-          "alias": "ems",
+          "sector": "Academias",
+          "alias": "smartfit",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "bio ritmo",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "panobianco",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "rede de academias",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
           "sector": "Farmácias",
+          "alias": "ems",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
           "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
           "field": "title",
           "score": 20,
           "topic": null
@@ -215,27 +257,34 @@
         },
         {
           "sector": "Farmácias",
-          "alias": "mounjaro",
-          "field": "title",
-          "score": 20,
+          "alias": "ozempic",
+          "field": "body",
+          "score": 2,
           "topic": null
         },
         {
           "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "lead",
-          "score": 8,
+          "alias": "wegovy",
+          "field": "body",
+          "score": 2,
           "topic": null
         },
         {
           "sector": "Farmácias",
-          "alias": "eli lilly",
+          "alias": "novo nordisk",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
           "field": "lead",
           "score": 8,
           "topic": null
         }
       ],
-      "score": 72.0
+      "score": 84.0
     },
     {
       "title": "Canetas emagrecedoras: Novo Nordisk propõe semaglutida no SUS com desconto de 59%",
@@ -362,84 +411,6 @@
         }
       ],
       "score": 64.0
-    },
-    {
-      "title": "Rolex sobe novamente preços dos relógios de ouro com consumo resiliente dos ‘super-ricos’",
-      "summary": "A Rolex aumentou o preço global de seus relógios d...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/12/rolex-sobe-novamente-precos-dos-relogios-de-ouro-com-consumo-resiliente-dos-super-ricos.ghtml",
-      "published": "2026-06-12T17:53:15+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Joias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ouro",
-        "rolex"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "rolex",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "ouro",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "rolex",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
-    },
-    {
-      "title": "Rolex raises gold watch prices again as super-rich buyers are undeterred - Reuters",
-      "summary": "Rolex raises gold watch prices again as super-rich buyers are undeterred &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/rolex-raises-gold-watch-prices-again-super-rich-buyers-are-undeterred-2026-06-12",
-      "published": "2026-06-12T23:28:57+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Joias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold",
-        "rolex"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "rolex",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "rolex",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Keeta contra-ataca iFood e decide pagar multa de exclusividade de restaurantes. Mas veta (em partes) 99Food",
@@ -793,99 +764,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "Área técnica do Cade aprova venda de fatia na Stix Fidelidade para Raia Drogasil",
-      "summary": "A Superintendência Geral do Conselho Administrativ...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/12/rea-tcnica-do-cade-aprova-venda-de-fatia-na-stix-fidelidade-para-raia-drogasil.ghtml",
-      "published": "2026-06-12T16:30:23+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "drogasil",
-        "raia"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "raia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "drogasil",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Estrutura do vídeo impulsiona vendas no TikTok Shop",
-      "summary": "Funcionalidade que permite a venda de diferentes t...",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/12/estrutura-do-video-impulsiona-vendas-no-tiktok-shop-1.ghtml",
-      "published": "2026-06-12T16:52:05+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "tiktok",
-        "tiktok shop"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok shop",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "C6 Bank é elevado pelo BC para categoria que reúne Nubank, XP e Safra",
-      "summary": "O C6 Bank afirmou que foi promovido pelo Banco Cen...",
-      "url": "https://valor.globo.com/financas/noticia/2026/06/12/c6-bank-e-elevado-pelo-bc-para-categoria-que-reune-nubank-xp-e-safra.ghtml",
-      "published": "2026-06-12T22:42:33+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "c6",
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "c6",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Keeta testa o limite da regulação",
@@ -1509,6 +1387,192 @@
       "score": 40.0
     },
     {
+      "title": "Shein, Temu y Amazon: las compras puerta a puerta se duplicaron en Argentina en 2026 - iProUP",
+      "summary": "Shein, Temu y Amazon: las compras puerta a puerta se duplicaron en Argentina en 2026 &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/economia-digital/69029-compras-shein-temu-amazon-argentina-record-boom-junio-2026",
+      "published": "2026-06-19T13:18:34+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein",
+        "temu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "temu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Susana Werner revela tratamento com retatrutida, caneta emagrecedora que não é aprovada pela Anvisa; entenda os riscos - O Globo",
+      "summary": "Susana Werner revela tratamento com retatrutida, caneta emagrecedora que não é aprovada pela Anvisa; entenda os riscos &nbsp;&nbsp; O Globo",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/06/19/susana-werner-revela-tratamento-com-retatrutida-caneta-emagrecedora-que-nao-e-aprovada-pela-anvisa-entenda-os-riscos.ghtml",
+      "published": "2026-06-19T13:58:19+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora",
+        "retatrutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "retatrutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "EXCLUSIVO: Azzas 2154 contrata Morgan Stanley para vender a Farm",
+      "summary": "Nos últimos meses, as conversas sobre uma separação da sociedade entre Roberto Jatahy e Alexandre Birman se intensificaram. Os dois contrataram assessores financeiros para desatar os nós que os unem no Azzas 2154, o maior grupo de moda da América Latina. Enquanto não definem o caminho a ser seguido, uma decisão foi tomada: vender a [&#8230;] O post EXCLUSIVO: Azzas 2154 contrata Morgan Stanley para vender a Farm apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/exclusivo-azzas-2154-contrata-morgan-stanley-para-vender-a-farm",
+      "published": "2026-06-19T18:40:45+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas",
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Azzas 2154 contrata Morgan Stanley para avaliar venda da Farm",
+      "summary": "Grupo confirma contratação do banco americano para estudar venda da Farm Rio a grupos internacionais, mas afirma que ainda não há proposta formal. A operação internacional já corresponde a 40% do faturamento da marca carioca",
+      "url": "https://exame.com/negocios/azzas-2154-contrata-morgan-stanley-para-avaliar-venda-da-farm",
+      "published": "2026-06-19T18:50:55+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas",
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Azzas: Estudos para venda da Farm e trégua jurídica entre sócios reforçam tendência de cisão",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/azzas-estudos-para-venda-da-farm-e-tregua-juridica-entre-socios-reforcam-tendencia-de-cisao",
+      "published": "2026-06-19T23:14:17+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas",
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Azzas 2154 diz que avalia alternativas para a marca Farm em meio a disputa entre sócios",
+      "summary": "A Azzas 2154 informou nesta sexta-feira (19) que contratou o banco Morgan Stanley para avaliar opções para a marca Farm Rio. O anúncio ocorre em meio a uma disputa entre os dois principais sócios do grupo, os empresários Alexandre Birman e Roberto Jatahy. Leia mais (06/19/2026 - 23h37)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/azzas-2154-diz-que-avalia-alternativas-para-a-marca-farm-em-meio-a-disputa-entre-socios.shtml",
+      "published": "2026-06-20T02:37:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas",
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Remédios como Ozempic emagrecem, mas reduzem atividade física",
       "summary": "Perder peso sem aumentar o nível de atividade física é o resultado contraintuitivo que um novo estudo associa ao uso de medicamentos populares para obesidade. A pesquisa, apresentada no ENDO 2026, congresso anual da Endocrine Society, revelou que adultos com obesidade em tratamento com remédios como Ozempic, Wegovy, Mounjaro e Zepbound se tornaram significativamente menos ativos depois de iniciar as medicações, mesmo registrando perda de peso ao longo do período. Os dados são de um comunicado da Endocrine Society. A conclusão contraria uma suposição comum: a de que emagrecer facilita naturalmente o movimento. Entre os participantes do estudo, esse efeito não foi observado. O que os rastreadores de atividade revelaram Para chegar aos resultados, pesquisadores analisaram dados do programa All of Us, do Instituto Nacional de Saúde dos Estados Unidos (NIH), que combina prontuários médicos com informações coletadas por dispositivos vestíveis, como os rastreadores da marca Fitbit. De 1.950 adultos com obesidade que começaram a usar medicamentos GLP-1, 753 tinham registros suficientes para integrar a análise final. A maioria era mulher (78,6%) e a idade média era de 52,7 anos. Os resultados mostraram queda clara na movimentação após o início do tratamento. A média de passos diários recuou de 5.047 para 4.487, uma redução de cerca de 560 passos. O tempo de atividade física moderada a vigorosa também diminuiu: de 28 para 22 minutos por dia. As quedas mais expressivas foram registradas entre homens e entre pessoas que relatavam dores articulares ou musculares. Fatores como idade, insuficiência cardíaca ou histórico de acidente vascular cerebral não alteraram os resultados. Não foram encontradas evidências de que a perda de peso com esses medicamentos tenha levado ao aumento da prática de exercícios. Por que a musculatura entra nessa conta Os medicamentos analisados pertencem à classe dos agonistas do receptor de GLP-1 (peptídeo semelhante ao glucagon-1), que inclui a semaglutida (Ozempic e Wegovy), a tirzepatida (Mounjaro e Zepbound), além de liraglutida e dulaglutida. Além de eficazes para a perda de peso, esses fármacos também podem reduzir a massa muscular magra, não apenas a gordura corporal. Por isso, manter a prática de atividade física durante o tratamento é considerado essencial para preservar a força e a saúde geral. \"Proteger a musculatura é uma parte fundamental da perda de peso saudável\", afirmou Sajana Maharjan, médica do HSHS St. John's Hospital, em Springfield (Illinois), e líder do estudo. \"Embora muitos assumam que emagrecer leva naturalmente ao aumento da atividade física, nossa pesquisa indica o contrário. Os resultados reforçam que o exercício não pode ser opcional para quem usa esses medicamentos. As pessoas precisam de intervenções direcionadas que estimulem a prática em paralelo ao tratamento para obesidade.\" De acordo com os autores, este é o primeiro estudo de grande escala a usar dados de rastreadores de atividade para avaliar os padrões de movimento entre adultos em uso de agonistas GLP-1, o que o diferencia de avaliações conduzidas em ambientes clínicos controlados.",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/06/remedios-como-ozempic-emagrecem-mas-reduzem-atividade-fisica.ghtml",
@@ -1718,37 +1782,6 @@
         }
       ],
       "score": 32.0
-    },
-    {
-      "title": "CEO da Amazon Brasil: 'Com a Copa do Mundo, esperamos uma Black Friday de seis meses'",
-      "summary": "Juliana Sztrajtman afirma que o Mundial deve acelerar investimentos da companhia em logística, crédito e tecnologia. Nos últimos anos, a empresa já aportou mais de R$ 55 bilhões no país e diz que manterá o ritmo de investimento neste ano",
-      "url": "https://exame.com/negocios/ceo-da-amazon-brasil-com-a-copa-do-mundo-esperamos-uma-black-friday-de-seis-meses",
-      "published": "2026-06-13T08:03:57+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "amazon",
-        "logística"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "logística",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Alta do ouro leva relógios de luxo a serem derretidos por valor do metal",
@@ -2116,43 +2149,83 @@
       "score": 28.0
     },
     {
-      "title": "7 estratégias de marcas brasileiras para lucrar durante a Copa",
-      "summary": "Vans, Maria Filó e Foxton lançam coleções cápsula inspiradas no futebol, enquanto Rio e São Paulo recebem arenas de transmissão ao vivo",
-      "url": "https://exame.com/bussola/7-estrategias-de-marcas-brasileiras-para-lucrar-durante-a-copa",
-      "published": "2026-06-13T07:00:36+00:00",
-      "source": "https://exame.com/feed/",
+      "title": "Santander ultrapassa dona da Zara como empresa mais valiosa da Espanha",
+      "summary": "O banco Santander ultrapassou a gigante da moda Inditex, dona da Zara, e se tornou a empresa de capital aberto mais valiosa da Espanha pela primeira vez em oito anos, impulsionado por uma recente alta nas ações do setor bancário. Leia mais (06/19/2026 - 11h24)",
+      "url": "https://aovivo.folha.uol.com.br/mercado/2026/06/01/6449-dolar-empresas-e-bolsas-acompanhe-ao-vivo-o-mercado.shtml#post454482",
+      "published": "2026-06-19T14:24:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
-        "Fashion"
+        "Global Consumer"
       ],
       "matched_aliases": [
-        "foxton",
-        "maria filó",
-        "vans"
+        "inditex",
+        "zara"
       ],
       "matches": [
         {
-          "sector": "Fashion",
-          "alias": "foxton",
+          "sector": "Global Consumer",
+          "alias": "inditex",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
-          "sector": "Fashion",
-          "alias": "maria filó",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "vans",
-          "field": "lead",
-          "score": 8,
+          "sector": "Global Consumer",
+          "alias": "zara",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 24.0
+      "score": 28.0
+    },
+    {
+      "title": "iFood Benefícios alcança R$ 1 bi ao mês, perto de 10% do mercado",
+      "summary": "O iFood Benefícios processou R$ 1 bilhão em pagamentos em março, um crescimento de 82% em 12 meses, com a aposta em IA para ampliar a base de empresas clientes. A plataforma soma 1,5 milhão de usuários ativos mensais de 65 mil empresas de todos os portes, incluindo B3, Ambev e XP. A vertical de vale-alimentação e vale-refeição criada em 2020 tem participação de mercado em torno de 10% e usa IA para ampliar a carteira de PMEs, concentrando os esforços humanos nas grandes contas, segundo o CEO do iFood Benefícios, Arthur Freitas. iFood dá nome aos bois e processa Keeta por espionagem corporativa Após 60 mil agentes de IA, a Prosus escreveu um manual — e compartilhou “Cerca de 40% das vendas hoje passam por IA. Atingimos o breakeven em março, temos crescido dois dígitos e devemos continuar assim nos próximos anos” . A empresa espera acelerar o crescimento com a entrada em vigor das novas regras do Programa de Alimentação do Trabalhador (PAT), como a abertura do arranjo de pagamentos, que visam tornar o segmento mais competitivo, disse o executivo em entrevista ao Pipeline. Hoje, grande parte do mercado opera em modelo fechado, em que as grandes empresas como Alelo, Ticket e Pluxee têm parcerias com grandes bancos e concentram quase todas as etapas da operação. A limitação das taxas cobradas dos estabelecimentos comerciais (MDR) e da taxa de intercâmbio deve inibir incentivos para a prática de rebate, ele acredita. “A competição passa a ser por melhor produto, serviço e atendimento.” Arthur Freitas, CEO do iFood Benefícios: novas regras do PAT limitam rebate Divulgação Outros benefícios oferecidos pelo iFood são serviços de saúde, pet, cultura, educação, mobilidade, custos com home office, além de uma parceria para com o Wellhub. “As empresas estão buscando soluções tecnológicas mais eficientes e produtivas\", diz Freitas. iFood volta à mira do Cade por contratos de exclusividade CEO do iFood lança escola para formar o 1% mais rico em impacto No ano passado, a empresa de benefícios chegou a negociar a compra da Alelo por R$ 5 bilhões, como antecipou o Valor. A esse respeito, o executivo não quis comentar e frisou que o foco no momento está no crescimento orgânico.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/ifood-beneficios-quase-dobra-em-um-ano-e-bate-r-1-bi-por-mes.ghtml",
+      "published": "2026-06-19T15:50:03+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "E-commerce",
+        "Academias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ifood",
+        "keeta",
+        "wellhub"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 26.0
     },
     {
       "title": "Guerra do delivery no Brasil chega a um novo “palco”",
@@ -2192,37 +2265,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "Importações de pequeno valor disparam no Brasil com fim da ‘taxa das blusinhas’",
-      "summary": "A importação de produtos de pequeno valor dispararam após o fim da chamada “taxa das blusinhas”, que estabelecia cobrança de 20% para produtos importados de até US$ 50. Segundo a Receita Federal, em maio e abril houve uma alta de 50% e 43%, respectivamente, em relação ao ano passado. O fim da taxa das blusinhas foi implementado pelo governo via medida provisória, publicada em 12 de maio. No dia seguinte o imposto de 20% deixou de ser cobrado. No mês, os dados da Receita indicam que 19,6 milhões de produtos que se enquadrariam na taxação foram recebidos no país, contra 13 milhões em maio de 2025. Em abril, com o mês inteiro com a taxa zerada, a Receita registrou a entrada de 15,7 milhões de remessas internacionais até US$ 50. No ano passado foram 10,9 milhões. A MP também beneficiou compras entre US$ 50 e US$ 3.0000, já que houve uma dedução de US$ 30, que antes era de US$ 20. Com isso, remessas entre US$ 50 e US$ 100 foram beneficiadas. De acordo com dados da Receita Federal, nos quatro primeiros meses de 2026, o governo arrecadou R$ 1,78 bilhão em imposto de importação com as encomendas. Foi uma alta de 25% na comparação com o mesmo período do ano passado. Ou seja, mesmo antes do fim da taxa as compras já vinham em alta. O debate sobre o assunto voltou diante do anseio do Palácio do Planalto de ampliar a popularidade do presidente Luiz Inácio Lula da Silva frente à maior competitividade da candidatura de Flavio Bolsonaro (PL) nas pesquisas. O cenário de zerar totalmente a taxa era defendido por uma ala do governo com assento no Palácio do Planalto que argumenta que a mudança precisa ter impacto efetivo nas compras de valores mais baixos e com isso impactar a população de renda mais baixa. Nos levantamentos internos do Palácio do Planalto, a \"taxa da blusinhas\" é apontada como um dos principais pontos negativos do governo, junto com segurança pública e temas como combate à corrupção. Essas aferições têm motivado a ala política do governo a rever a medida. A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas. O principal receio para redução da taxa das blusinhas era a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras. Foi esse discurso que levou o Congresso a aprovar a cobrança com votos da direita à esquerda. Há também preocupação com o sinal de política econômica, especialmente no campo fiscal, ainda que o impacto direto sobre a arrecadação seja bem limitado, dado que o tributo arrecada menos de R$ 2 bilhões. Criado em 2024 A “taxa das blusinhas” foi criada em 2024. Naquele momento, havia reclamações do varejo nacional porque compras abaixo de US$ 50 vinham ao Brasil sem cobrança de imposto, disfarçadas de encomendas pessoais. Por conta disso, foi criado o chamado \"Remessa Conforme”, que facilitou o desembaraço aduaneiro das empresas inscritas. Também é necessário pagar o ICMS, que é 17% a 20%, a depender do estado.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/importacoes-de-pequeno-valor-disparam-no-brasil-com-fim-da-taxa-das-blusinhas.ghtml",
-      "published": "2026-06-12T18:49:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "remessa conforme",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "remessa conforme",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 22.0
     },
     {
       "title": "Veja a divisão acionária do GPA, após Silvio Tini ultrapassar os Coelho Diniz em participação",
@@ -2285,351 +2327,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Juiz suspende auto de infração contra o iFood e afasta vínculo com entregadores",
-      "summary": "Autos suspensos pelo magistrado exigiam o reconhecimento de vínculo de emprego com mais de 9 mil usuários da plataforma",
-      "url": "https://www.jota.info/trabalho/juiz-suspende-auto-de-infracao-contra-o-ifood-e-afasta-vinculo-com-entregadores",
-      "published": "2026-06-12T13:31:03+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nubank envia mensagem falsa sobre encerramento do banco digital e preocupa clientes",
-      "summary": "Por volta do meio-dia desta sexta-feira (12), clientes do Nubank receberam mensagens no telefone celular que diziam que o banco digital tinha sido encerrado. Outra parcela dos depositantes foi alertada por email de que o BC (Banco Central) tinha decretado a liquidação extrajudicial do Nubank. As notificações ainda informavam que o FGC (Fundo Garantidor de Créditos) cobriria investimentos de até R$ 250 mil. Todas as notícias, porém, eram inverídicas, mesmo tendo partido de dentro do banco. Leia mais (06/12/2026 - 12h46)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/06/nubank-nega-encerramento-depois-que-clientes-recebem-notificacao-sobre-fechamento.shtml",
-      "published": "2026-06-12T15:46:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Clientes do Nubank são surpreendidos com falsa mensagem de liquidação extrajudicial",
-      "summary": "Usuários do Nubank estão relatando problemas no ap...",
-      "url": "https://valor.globo.com/financas/noticia/2026/06/12/clientes-do-nubank-relatam-mensagens-suspeitas-no-app-e-e-mail.ghtml",
-      "published": "2026-06-12T15:51:41+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Primeiro trilionário da história: fortuna de Musk supera patrimônio somado do fundador da Amazon e criadores do Google",
-      "summary": "Elon Musk se tornou nesta sexta-feira o primeiro trilionário da história. Impulsionada pela estreia das ações da SpaceX na Bolsa de Nova York, sua fortuna alcançou cerca de US$ 1,05 trilhão, segundo o Índice de Bilionários da Bloomberg, valor superior à soma dos patrimônios de Jeff Bezos, fundador da Amazon, e dos cofundadores do Google, Larry Page e Sergey Brin, cerca de US$ 849 bilhões . Os papéis da SpaceX abriram o primeiro dia de negociações cotados a US$ 150, alta de 11% em relação ao preço definido na oferta pública inicial (IPO). Com isso, a empresa fundada por Musk passou a valer aproximadamente US$ 2 trilhões, consolidando-se entre as companhias mais valiosas do mundo. A riqueza de Musk agora supera em mais de três vezes a do segundo colocado no ranking global, o cofundador do Google, Larry Page. O avanço reforça uma trajetória que transformou o empresário sul-africano, de 54 anos, em uma das figuras mais influentes e controversas do mundo dos negócios. Há menos de uma década, a Bloomberg registrava pela primeira vez uma fortuna superior a US$ 100 bilhões. Musk ultrapassou essa marca em 2020 e, desde então, ampliou sua liderança graças à valorização da Tesla e, mais recentemente, ao crescimento acelerado da SpaceX. A companhia espacial, criada em 2002, tornou-se líder global no mercado de lançamentos orbitais e expandiu sua atuação com o serviço de internet via satélite Starlink. Avaliada em cerca de US$ 100 bilhões em 2021, a empresa viu seu valor disparar nos últimos anos, impulsionado pelo interesse de investidores em negócios ligados à inteligência artificial e infraestrutura espacial. O IPO da SpaceX, que levantou US$ 75 bilhões e se tornou o maior da história, foi decisivo para o salto patrimonial de Musk. A participação do empresário no grupo responde por mais de 70% de sua fortuna. Apesar do patrimônio trilionário, grande parte da riqueza de Musk permanece concentrada em participações acionárias. Segundo a Bloomberg, a maior parcela de seus ativos está vinculada às empresas que controla, incluindo SpaceX, Tesla, X e xAI. A ascensão ao posto de primeiro trilionário ocorre após anos marcados por controvérsias. Musk enfrentou críticas pela compra do Twitter, posteriormente rebatizado de X, disputas judiciais relacionadas à sua remuneração na Tesla e questionamentos sobre seu envolvimento político nos Estados Unidos. Ainda assim, o empresário conseguiu preservar e ampliar seu patrimônio à medida que investidores mantiveram apostas em seus projetos de inteligência artificial, robótica e exploração espacial. O patrimônio de US$ 1 trilhão equivale aproximadamente ao Produto Interno Bruto (PIB) anual da Suíça, ilustrando a dimensão inédita da fortuna acumulada por Musk. (com Bloomberg)",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/musk-se-torna-o-primeiro-trilionario-da-historia-apos-estreia-da-spacex-na-bolsa-americana.ghtml",
-      "published": "2026-06-12T16:02:31+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Banco Central: 'não procede a informação sobre liquidação extrajudicial do Nubank'",
-      "summary": "Após alguns clientes do Nubank terem recebido, na manhã desta sexta-feira, notificações e email informando que o banco estaria passando por uma “liquidação extrajudicial”, a instituição financeira divulgou nota atribuindo as mensagens a um “erro operacional pontual, já identificado e solucionado”. Histórico: Banco Central Europeu eleva juros pela primeira vez em quase três anos diante da pressão inflacionária 'Dinheiro esquecido': sistema tem R$ 10,3 bilhões disponíveis para resgate; veja como consultar Em nota, o Banco Central também esclareceu que “não procede a informação” de que o BC decretou a liquidação extrajudicial do Nubank. O banco, por sua vez, disse que as mensagens indevidas foram enviadas a \"uma parcela de sua base de clientes\": “A instituição permanece com todas as suas licenças ativas e sem qualquer impacto para sua operação, que segue com segurança e estabilidade. Pedimos desculpas aos nossos clientes pelo ocorrido e reforçamos nosso compromisso em manter a qualidade dos serviços prestados e a transparência na relação com todos\", afirma a nota do Nubank. Os clientes receberam mensagens afirmando que o banco teria passado por uma liquidação extrajudicial pelo BC. O texto afirmava ainda que investimentos na instituição seriam cobertos pelo Fundo Garantidor de Crédito (FGC). Banco envia notificação sobre liquidação extra judicial aos clientes Reprodrução/X: @Aldb26 Em uma das notificações compartilhadas por clientes em redes sociais, o texto afirmava o seguinte: \"Aviso importante: NUBANK. Este emissor teve suas atividades encerradas pelo Banco Central. Sua custódia aqui no Nubank será ajustada quando você receber a cobertura do FGC. Entenda como solicitar o FGC\". Alerta falso do Nubank assusta clientes ao citar recuperação extrajudicial em mensagem Rperodução/X: @LontraDaBahia",
-      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/06/12/banco-central-nao-procede-a-informacao-sobre-liquidacao-extrajudicial-do-nubank.ghtml",
-      "published": "2026-06-12T16:13:33+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Trafigura, de Cingapura, entra no mercado livre de eletricidade do Brasil",
-      "summary": "A Trafigura recebeu da Agência Nacional de Energia...",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/12/trafigura-de-cingapura-entra-no-mercado-livre-de-eletricidade-do-brasil.ghtml",
-      "published": "2026-06-12T16:24:02+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado livre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "TCU recebe denúncia e vai analisar uso de recursos esquecidos nos bancos no novo Desenrola",
-      "summary": "O Tribunal de Contas da União (TCU) recebeu uma de...",
-      "url": "https://valor.globo.com/financas/noticia/2026/06/12/tcu-recebe-denncia-e-vai-analisar-uso-de-recursos-esquecidos-no-novo-desenrola.ghtml",
-      "published": "2026-06-12T16:26:07+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Veja o que diz o Nubank após enviar e-mail sobre liquidação extrajudicial",
-      "summary": "Em nota, o Nubank confirmou o envio do comunicado, mas informou que se tratou de um erro operacional",
-      "url": "https://veja.abril.com.br/economia/nubank-quebrou-veja-o-que-diz-o-banco-apos-e-mail-sobre-liquidacao-extrajudicial",
-      "published": "2026-06-12T16:55:16+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nubank investiga falso aviso de liquidação extrajudicial enviado a clientes - Bloomberg Línea Brasil",
-      "summary": "Nubank investiga falso aviso de liquidação extrajudicial enviado a clientes &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/2026/06/12/nubank-investiga-falso-aviso-de-liquidacao-extrajudicial-enviado-a-clientes",
-      "published": "2026-06-12T18:31:57+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nubank envia mensagens sobre liquidação a clientes e diz ter havido erro operacional",
-      "summary": "Banco Central confirmou que não procede a informação de que o regulador decretou a liquidação extrajudicial do banco",
-      "url": "https://www.jota.info/tributos-e-empresas/mercado/nubank-envia-mensagens-sobre-liquidacao-a-clientes-e-diz-ter-havido-erro-operacional",
-      "published": "2026-06-12T18:32:44+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Liquidação Extrajudicial: Nubank esclarece erro operacional",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O banco digital enviou um e-mail informando que o BC teria liquidado extrajudicialmente a instituição financeira O post Liquidação Extrajudicial: Nubank esclarece erro operacional apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/06/liquidacao-extrajudicial-o-que-aconteceu-com-o-nubank",
-      "published": "2026-06-12T19:10:08+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Banco Central: 'Não procede a informação sobre liquidação extrajudicial do Nubank'. \"Foi um erro operacional pontual\", diz empresa",
-      "summary": "Prédio do Nubank — Foto: Divulgação Divulgação Após alguns clientes do Nubank terem recebido, na manhã desta sexta-feira, notificações e e-mails informando que o banco estaria passando por uma “liquidação extrajudicial”, a instituição financeira divulgou nota atribuindo as mensagens a um “erro operacional pontual, já identificado e solucionado”. Em nota, o Banco Central também esclareceu que “não procede a informação” de que o BC decretou a liquidação extrajudicial do Nubank. O banco, por sua vez, disse que as mensagens indevidas foram enviadas a \"uma parcela de sua base de clientes\": “A instituição permanece com todas as suas licenças ativas e sem qualquer impacto para sua operação, que segue com segurança e estabilidade. Pedimos desculpas aos nossos clientes pelo ocorrido e reforçamos nosso compromisso em manter a qualidade dos serviços prestados e a transparência na relação com todos\", afirma a nota do Nubank. Os clientes receberam mensagens afirmando que o banco teria passado por uma liquidação extrajudicial pelo BC. O texto afirmava ainda que investimentos na instituição seriam cobertos pelo Fundo Garantidor de Crédito (FGC). Clientes receberam notificação sobre liquidação extra judicial do Nubank Reprodrução/X: @Aldb26 Em uma das notificações compartilhadas por clientes em redes sociais, o texto afirmava o seguinte: \"Aviso importante: NUBANK. Este emissor teve suas atividades encerradas pelo Banco Central. Sua custódia aqui no Nubank será ajustada quando você receber a cobertura do FGC. Entenda como solicitar o FGC\". Alerta falso do Nubank assusta clientes ao citar recuperação extrajudicial em mensagem Reprodução/@LontraDaBahia",
-      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/06/banco-central-nao-procede-a-informacao-sobre-liquidacao-extrajudicial-do-nubank.ghtml",
-      "published": "2026-06-12T20:29:41+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Especialistas em cibersegurança tentam entender falha do Nubank que gerou mensagem falsa",
-      "summary": "Especialistas em cibersegurança ainda estão tentan...",
-      "url": "https://valor.globo.com/financas/noticia/2026/06/12/especialistas-em-cibersegurana-tentam-entender-falha-do-nubank-que-gerou-mensagem-falsa.ghtml",
-      "published": "2026-06-12T21:33:18+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Morre Alberone Júnior, aos 48 anos, o rei do crossfit - VEJA",
-      "summary": "Morre Alberone Júnior, aos 48 anos, o rei do crossfit &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/esporte/morre-alberone-junior-aos-48-anos-o-rei-do-crossfit",
-      "published": "2026-06-12T21:46:41+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Academias"
-      ],
-      "matched_aliases": [
-        "crossfit"
-      ],
-      "matches": [
-        {
-          "sector": "Academias",
-          "alias": "crossfit",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mercado Pago realiza primeira venda de carteira inadimplida",
-      "summary": "A DebitumX concluiu com êxito o processo competiti...",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/12/mercado-pago-realiza-primeira-venda-de-carteira-inadimplida-1.ghtml",
-      "published": "2026-06-12T22:01:57+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Eles construíram o 2º melhor hotel do mundo em Gramado — agora vão abrir unidades pelo Brasil",
@@ -4288,29 +3985,6 @@
       "score": 20.0
     },
     {
-      "title": "Relator faz ajuste em cálculo da hora trabalhada em parecer do projeto de lei sobre escala 6x1",
-      "summary": "O relator do projeto de lei sobre o fim da escala...",
-      "url": "https://valor.globo.com/politica/noticia/2026/06/16/relator-faz-ajuste-em-calculo-da-hora-trabalhada-em-parecer-do-projeto-de-lei-sobre-escala-6x1.ghtml",
-      "published": "2026-06-16T21:36:56+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Desenrola para informais adimplentes deve ter taxa abaixo de 4% e demandar até R$ 2 bi do FGO",
       "summary": "A rodada adicional do novo Desenrola Brasil, que p...",
       "url": "https://valor.globo.com/financas/noticia/2026/06/16/desenrola-para-informais-adimplentes-deve-demandar-entre-r-1-bi-e-r-2-bi-do-fgo.ghtml",
@@ -4329,29 +4003,6 @@
           "field": "title",
           "score": 20,
           "topic": "desenrola"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Governo espera recuo de Motta com 'pautas-bomba', após retirada da urgência do PL do fim da escala 6x1",
-      "summary": "O governo do presidente Luiz Inácio Lula da Silva...",
-      "url": "https://valor.globo.com/politica/noticia/2026/06/16/governo-espera-recuo-de-motta-com-pautas-bomba-apos-retirada-da-urgencia-do-pl-do-fim-da-escala-6x1.ghtml",
-      "published": "2026-06-16T22:50:29+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -5622,6 +5273,29 @@
       "score": 20.0
     },
     {
+      "title": "‘Wegovy brasileiro’ tem nova redução de preço e fica quase 50% mais barato - VEJA",
+      "summary": "‘Wegovy brasileiro’ tem nova redução de preço e fica quase 50% mais barato &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/wegovy-brasileiro-tem-nova-reducao-de-preco-e-fica-quase-50-mais-barato",
+      "published": "2026-06-18T23:34:29+00:00",
+      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Farmácia de Alto Custo Maria Zélia: leitor reclama de dificuldade para obter medicamentos - Estadão",
       "summary": "Farmácia de Alto Custo Maria Zélia: leitor reclama de dificuldade para obter medicamentos &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/sao-paulo/seus-direitos/farmacia-de-alto-custo-maria-zelia-leitor-reclama-de-dificuldade-para-obter-medicamentos",
@@ -5806,6 +5480,282 @@
       "score": 20.0
     },
     {
+      "title": "Sueldo en Mercado Pago o YPF App: un negocio millonario - iProUP",
+      "summary": "Sueldo en Mercado Pago o YPF App: un negocio millonario &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/69016-sueldo-en-mercado-pago-o-ypf-app-un-negocio-millonario",
+      "published": "2026-06-19T10:03:22+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fazenda vai destinar recursos de bets ilegais para Fundo Nacional de Segurança Pública",
+      "summary": "O ministro da Fazenda, Dario Durigan, anunciou, nesta sexta-feira (19), a publicação de um decreto que visa a bloquear os recursos de empresas ilegais de apostas. Os recursos congelados serão destinados ao Fundo Nacional de Segurança Pública, com ajuda das instituições financeiras. “O Ministério da Fazenda e o Ministério da Justiça vão, administrativamente, bloquear preventivamente recursos que vem do jogo irresponsável. A Fazenda vem construindo essa inteligência com a Secretaria de Prêmios e Apostas e a Receita [Federal]”, disse Durigan, em vídeo publicado nas redes sociais. O ministro declarou que, quando for identificada uma ilegalidade, os bancos serão comunicados para que o bloqueio seja feito. “Qualquer conta que você tenha que trate de recursos destas bets aqui, irresponsáveis, você trate de congelar. E, a partir disso, nós vamos mandar o processo para o Ministério da Justiça”, declarou. O Ministério da Justiça vai “cuidar” do processo de transferência dos bancos para o fundo, “respeitado o devido processo legal”, segundo Durigan. Para o ministro, os recursos vão fortalecer o combate à corrupção e ao crime organizado. O ministro da Justiça, Wellington César Lima, disse que a medida foi possível com a Lei Antifacção. “Essa é mais uma ferramenta para fazermos asfixia financeira contra o crime organizado”, afirmou. O presidente Luiz Inácio Lula da Silva compartilhou um vídeo nas redes sociais com o anúncio da medida. Segundo a postagem, a nova Lei Antifacção e a inteligência acumulada no combate a crimes financeiros permitem os ministérios da Fazenda e da Justiça e a Advocacia-Geral da União (AGU) sufocarem o fluxo de recursos de bets ilegais. “Cumprido o devido processo, os recursos bloqueados serão destinados ao Fundo Nacional de Segurança Pública e reforçarão o combate às estruturas financeiras do crime organizado no país”, disse o presidente. Os sites que oferecem jogos de cota fixa de forma irregular serão derrubados pela Agência Nacional de Telecomunicações (Anatel). As instituições financeiras serão notificadas e terão até 48 horas para fazer o bloqueio dos recursos nas contas dos operadores. Segundo Durigan, quase 50 mil sites já foram derrubados, envolvendo cerca de 350 operadores que utilizaram 37 instituições financeiras de menor porte, com baixa supervisão, para movimentar os recursos. A notificação às instituições financeiras será informada ao Banco Central (BC). O Ministério da Justiça vai abrir espaço para o contraditório dos interessados nos recursos das contas. Durigan afirmou que, normalmente, os elementos que sustentam a defesa são “pobres” e o bloqueio deverá ser confirmado. O secretário da Receita Federal, Robinson Barreirinhas, disse que, mesmo que o operador seja estrangeiro, os recursos de apostadores precisam passar por um \"caminho\" do apostador até o dono da bet ilegal. Com isso, a fintech que movimentar esses recursos será responsabilizada com as obrigações tributárias de uma bet regulada. Assim, a instituição financeira assume a responsabilidade de pagar pelos tributos que são de obrigação de uma casa de aposta legal. \"Se essa fintech movimentar recursos da bet, nós vamos cobrar aquele imposto que não é pago pela bet, nós vamos cobrar dessa fintech. Vamos cobrar imposto de renda, PIS-Cofins, contribuição destinada ao Ministério da Saúde. É isso que significa essa responsabilidade solidária das instituições financeiras e de instituição de pagamento\", declarou. A responsabilidade tributária também vale para influencer que faz propaganda de bets ilegais no Brasil. Além de sanções administrativas da Secretaria de Prêmios e Apostas, o Fisco vai cobrar o Imposto de Renda, Programa de Integração Social (PIS), Contribuição para o Financiamento da Seguridade Social (Cofins) e outras cobranças necessárias. O secretário Nacional de Direitos Digitais do Ministério da Justiça, Victor Fernandes, disse que o governo identificou 120 aplicativos de bets ilegais nas duas maiores lojas de aplicativos de ecossistemas móveis. Na quinta-feira (18), a Receita Federal realizou a Operação “Conto da Sorte” em parceria com o Ministério Público dos Estados do Rio Grande do Norte e Pernambuco. As estimativas apontam para uma movimentação de até R$ 50 bilhões. Foram cumpridos 14 mandados de busca e apreensão em Pernambuco, Ceará, Rio Grande do Norte e São Paulo. Segundo Durigan, esse é uma das operações que “vão seguir acontecendo no país”. Em abril, o Ministério da Fazenda bloqueou plataformas que operam o chamado “mercado de preditivos” no Brasil. São sites que permitem negociar contratos cujo valor está atrelado à ocorrência de um evento futuro e incerto, como indicadores econômicos ou resultados esportivos, políticos ou de entretenimento. Ministro da Fazenda, Dario Durigan Wenderson Araujo/Valor",
+      "url": "https://valor.globo.com/brasil/noticia/2026/06/19/fazenda-vai-destinar-recursos-de-bets-ilegais-para-fundo-nacional-de-segurana-pblica.ghtml",
+      "published": "2026-06-19T13:36:07+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Governo Lula anuncia que instituições financeiras terão de bloquear dinheiro de bets ilegais",
+      "summary": "O presidente Luiz Inácio Lula da Silva (PT) assinou nesta sexta-feira (19) um decreto que prevê o bloqueio de recursos financeiros das casas de apostas ilegais, que operam sem autorização do Ministério da Fazenda . Leia mais (06/19/2026 - 11h03)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/governo-lula-anuncia-que-bancos-terao-de-bloquear-recursos-de-bets-ilegais.shtml",
+      "published": "2026-06-19T14:03:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O Fim da Escala 6X1: A Retomada da Dignidade e o Novo Horizonte do Trabalho no Brasil - Estadão",
+      "summary": "O Fim da Escala 6X1: A Retomada da Dignidade e o Novo Horizonte do Trabalho no Brasil &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/economia/o-seguro-morreu-de-velho/o-fim-da-escala-6x1-a-retomada-da-dignidade-e-o-novo-horizonte-do-trabalho-no-brasil",
+      "published": "2026-06-19T14:20:06+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fim da escala 6x1: quem ocupará as vagas no campo?",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/teresa-vendramini/fim-escala-6x1-quem-ocupara-vagas-campo",
+      "published": "2026-06-19T15:44:45+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/negocios/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Influenciadores que divulgarem bets ilegais terão que pagar tributos das empresas irregulares",
+      "summary": "O Ministério da Fazenda vai cobrar tributos de influenciadores de redes sociais que divulguem bets ilegais no Brasil. O secretário da Receita Federal, Robinson Barreirinhas, disse nesta sexta-feira (19) que uma portaria publicada no dia anterior transfere a reponsabilidade das obrigações tributárias a pessoas que façam propaganda de casas de apostas de quota fixa sem autorização no país. Segundo ele, os influencers poderão ter que pagar pelo Imposto de Renda, Programa de Integração Social (PIS), Contribuição para o Financiamento da Seguridade Social (Cofins) e outras obrigações tributárias destas plataformas, que podem não ​ser brasileiras. A mesma responsabilização valerá para as fintechs que “insistam” em fazer movimentações de recursos para os operadores das bets ilegais mesmo com notificações da Secretaria de Prêmios e Apostas (SPA) do Ministério da Fazenda. “A bet ilegal não existiria se não houvesse essa movimentação financeira. A bet está lá no exterior, mas esse recurso precisa de algum caminho para chegar na mão desses criminosos”, disse. “Se um influencer entrar na rede social e fizer propaganda de uma bet ilegal, além de todas as sanções já administrativas da SPA, a Receita Federal vai cobrar o Imposto de Renda e PIS/Cofins”, completou. Barreirinhas defendeu, em entrevista a jornalistas, que a medida é justa. “Se o influencer está ganhando dinheiro da bet ilegal, ele que pague, então, o Imposto de Renda dessa bet ilegal que está no exterior”, afirmou. A secretária de Prêmios e Apostas, Daniele Cardoso, declarou que tem ajuda do Conselho Nacional de Autorregulamentação Publicitária (Conar) para identificar os influencers que divulgam bets ilegais. “Com essa portaria do ministro, em conjunto com a receita, a gente vai estreitar os laços e pensar em outros mecanismos mais efetivos”, disse. O governo Luiz Inácio Lula da Silva anunciou a publicação de um decreto que visa a bloquear os recursos de empresas ilegais de apostas. Os recursos congelados serão destinados ao Fundo Nacional de Segurança Pública, com ajuda das instituições financeiras. Os sites que oferecem jogos de cota fixa de forma irregular serão derrubados pela Agência Nacional de Telecomunicações (Anatel). As instituições financeiras que têm contas de operadores atrelados aos sites serão notificadas e terão até 48 horas para fazer o bloqueio dos recursos. A notificação às instituições financeiras será informada ao Banco Central (BC). O Ministério da Justiça vai abrir espaço para o contraditório dos interessados nos recursos das contas. O ministro da Fazenda, Dario Durigan, afirmou que, normalmente, os elementos que sustentam a defesa são “pobres” e o bloqueio deverá ser confirmado. O Conselho Monetário Nacional (CMN) publicará uma resolução para detalhar as ações dos processos administrativos pelo não cumprimento das instituições do sistema financeiro. Gabriel Reis/Valor",
+      "url": "https://valor.globo.com/brasil/noticia/2026/06/19/influenciadores-que-divulgarem-bets-ilegais-terao-que-pagar-tributos-das-empresas-irregulares.ghtml",
+      "published": "2026-06-19T15:51:57+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold coin salesmen orchestrated plot to set up rival, court finds",
+      "summary": "Ex-employees of Hattons of London took confidential customer data amid a booming market for bullion",
+      "url": "https://www.ft.com/content/ee9b45d2-88db-4136-a95c-7230fdaede7b",
+      "published": "2026-06-19T17:03:35+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Arquitetura bioclimática reduz emissões na construção civil",
+      "summary": "As emissões globais de gases de efeito estufa (GEE) atingiram novo recorde em 2025, chegando a 60,6 bilhões de toneladas de CO2 equivalente, segundo o Climate TRACE. Parte disso foi gerada pela construção civil mundial, responsável por 21% das emissões de carbono, de acordo com relatório do Programa das Nações Unidas para o Meio Ambiente (Pnuma). Diante desse cenário, as empresas do setor têm investido em novas abordagens arquitetônicas e na compensação das emissões para mitigar o impacto da atividade no planeta. Uma das estratégias é a adoção da arquitetura bioclimática no desenho dos projetos. O conceito considera as condições climáticas locais, soluções menos intensivas de energia e recursos naturais disponíveis, resultando em empreendimentos de baixo impacto ambiental — mas sem abrir mão do design e da rentabilidade do negócio. Circulação entre edificações do Distrito Itaqui, em Itapevi, a cerca de 30 minutos de distância da capital paulista FGMF/DIVULGAÇÃO Em Manaus (AM), o Botânica Office, do escritório Troost+Pessoa Architects, que será entregue no final do ano, já faturou 11 prêmios nacionais e internacionais por suas soluções arquitetônicas, como o paisagismo da manauara Hana Eto Gall. Ela usou seis espécies de trepadeiras em jardineiras na fachada, para filtrar o excesso de luz solar da Amazônia e ajudar na temperatura das salas comerciais. “A baixa luminosidade proporcionada pelas plantas nos permitiu usar vidros comuns nas janelas, o que foi uma economia importante para o incorporador. A temperatura no interior do prédio será mais baixa e isso vai refletir também no valor da conta de luz”, afirma Laurent Troost, sócio do escritório. O prédio tem apenas 15 pavimentos (dez a menos que o permitido), com redução de 10% na área construída. Ainda assim, tem 11 mil metros quadrados de área líquida vendável. “O preço do metro quadrado do Botânica bateu recorde histórico na cidade, chegando a R$ 22 mil. Custou menos, vai economizar energia, mas rentabilizou mais que seus concorrentes”, afirma Vitor Pessoa, também sócio do escritório. Em Itapevi, próximo à capital paulista, a FGMF Arquitetos desenvolve para o Grupo Itaqui o primeiro projeto verde de inovação e tecnologia do país: o Distrito Itaqui. A área de um milhão de metros quadrados combinará espaços corporativos, escola, espaço para eventos e hospitalidade de curta duração. “A premissa foi manter a natureza como protagonista, ocupando o mínimo de área e construindo edificações em respeito à paisagem”, explica Lourenço Gimenes, sócio da FGMF. A disposição dos prédios tem parte semienterrada e acompanha a topografia montanhosa do terreno. “Os tetos-jardins também são importantes: não prejudicam a fauna local e permitem isolamento térmico nos ambientes internos”, diz. No Habitarte 2, CO2 emitido na construção foi neutralizado em projeto ambiental no Mato Grosso STAN DI/DIVULGAÇÃO Compensação Na capital paulista, a Stan Desenvolvimento Imobiliário tem investido em áreas verdes em seus empreendimentos. Nos residenciais Habitarte 1 e 2, por exemplo, praças arborizadas com cerca de dois mil metros quadrados, concebidas pelo paisagista Luiz Carlos Orsini, reforçam o conceito biofílico aplicado aos projetos. A companhia criou em 2009 o Selo Carbon Control, que monitora e compensa as emissões de carbono dos prédios. Já são 19 projetos compensados, que neutralizaram 116 mil toneladas de CO2 equivalente. “É o mesmo que plantar 830 mil árvores ou retirar das ruas 29 mil veículos por um ano inteiro”, afirma Sandra Germanos, diretora de Marketing da empresa. Os dois condomínios produziram cerca de 27 mil toneladas de CO2, principalmente na fase construtiva, volume que foi compensado com créditos de carbono em dois projetos de preservação em Santa Catarina e Mato Grosso. “As incorporadoras começam a despertar para isso, buscando compensar suas emissões, industrializar o canteiro de obras e pensar na preservação do meio ambiente como um todo. Uma tendência positiva que faz bem para as pessoas, as cidades e o planeta”, resume Sandra. Fachada verde do edifício Botânica Office, em Manaus (AM): filtro de luxo natural TROOST+PESSOA ARCHITECTS/DIVULGAÇÃO",
+      "url": "https://valor.globo.com/patrocinado/imoveis-de-valor/noticia/2026/06/19/arquitetura-bioclimatica-reduz-emissoes-na-construcao-civil.ghtml",
+      "published": "2026-06-19T17:43:48+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "construção civil"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "construção civil",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Grupo Carrefour encontra no CadÚnico resposta à falta de mão de obra",
+      "summary": "Grupo já contratou 140 mil pessoas inscritas no cadastro social do governo; movimento ocorre em meio à dificuldade do varejo alimentar para preencher vagas",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/carrefour-encontra-no-cadunico-resposta-a-falta-de-mao-de-obra",
+      "published": "2026-06-19T18:00:25+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "carrefour"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência de aluguel cresce mais nas faixas de até R$ 1 mil e acima de R$ 13 mil",
+      "summary": "Após registrar o menor índice em um ano (3,18%), a inadimplência de aluguel no Brasil ficou estável na margem (leve alta de 0,04 ponto percentual) e fechou maio em 3,22%. Em relação a maio de 2025, quando a taxa era de 3,33%, houve queda de 0,11 ponto percentual. Os dados são do Índice de Inadimplência Locatícia, da Superlógica, plataforma de soluções imobiliárias. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/06/inadimplencia-de-aluguel-cresce-mais-nas-faixas-de-ate-r-1-mil-e-acima-de-r-13-mil.ghtml",
+      "published": "2026-06-19T20:03:49+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Azzas: Birman pede para encerrar arbitragem que abriu contra Jatahy",
+      "summary": "Alexandre Birman, diretor-presidente da Azzas 2154, pediu o encerramento de um procedimento arbitral que havia requerido, para concentrar a discussão em outra arbitragem aberta pelo sócio, Roberto Jatahy. A informação foi divulgada pela companhia em comunicado ao mercado na noite desta sexta-feira (19). O Valor antecipou, em maio, que Birman havia entrado com pedido de instauração de procedimento arbitral junto à Câmara de Arbitragem do Mercado (CAM), da B3, alegando que Jatahy violou o acordo de acionistas entre as partes. A discussão agora ficará concentrada no procedimento arbitral CAM nº 326/26, requerido por Jatahy. Segundo o informado pela Azzas, “a demanda decorre de divergências surgidas no contexto da gestão e governança da Azzas 2154”. O “requerente pleiteia a declaração de ilegalidade de certos atos de reorganização interna da Companhia adotados pelo requerido na qualidade de diretor-presidente”, informa. Alexandre Birman Claudio Belli/Valor",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/19/azzas-birman-pede-para-encerrar-arbitragem-que-abriu-contra-jatahy.ghtml",
+      "published": "2026-06-19T21:14:28+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Azzas: Alexandre Birman encerra arbitragem para unificar disputa societária com Roberto Jatahy",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/azzas-alexandre-birman-encerra-arbitragem-para-unificar-disputa-societaria-com-roberto-jatahy",
+      "published": "2026-06-19T22:13:20+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Undav, Pavlović e Havertz: camisas alemãs na Copa do Mundo esgotam por falta da letra 'V'",
       "summary": "Após a forte procura dos torcedores, camisas da Copa do Mundo de vários jogadores da seleção da Alemanha ficaram temporariamente indisponíveis. O motivo: a falta da letra “V”, informou a Adidas nesta quarta-feira. De acordo com a gigante de artigos esportivos, os torcedores correram para comprar camisas de Kai Havertz, Deniz Undav e Aleksandar Pavlović, esgotando os estoques da letra. Copa do Mundo: Venda de chuteiras rosa disparam. Procura cresce até 50% Escolha diferente: Messi é o único jogador de linha da Argentina sem chuteira rosa na Copa do Mundo; entenda o motivo Um porta-voz da Adidas, que fornece os uniformes da seleção alemã de futebol, confirmou que \"houve uma escassez temporária da letra V\", acrescentando que “essas faltas foram rapidamente resolvidas” e que as camisas de futebol com a “letra ‘V’ estarão novamente disponíveis em breve para encomenda on-line”. A AFP reportou que uma tentativa de comprar uma camisa do jogador Kai Havertz na loja on-line da Adidas não teve sucesso mais cedo nesta quarta-feira. No site, aparecia a seguinte mensagem: “Desculpe, estamos atualmente sem estoque dos seguintes caracteres: V.” Mais tarde, porém, as camisas voltaram a ficar disponíveis horas depois, ao custo de € 170 (o equivalente a US$ 198 ou R$ 1.000). Messi mania: Figurinha dourada do craque sai a preço de ouro na Argentina A Adidas fornece uniformes para 14 das 48 seleções que disputam a Copa do Mundo deste ano e obtém enormes lucros com a venda de produtos relacionados ao torneio. No entanto, diz a AFP, a seleção da Alemanha deixará de usar a Adidas como fornecedora de seus uniformes a partir de 2027, encerrando uma parceria que durou mais de 70 anos e incluiu quatro títulos mundiais. Ela vai passar a utilizar os produtos da Nike.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/06/17/undav-pavlovic-e-havertz-camisas-alemas-na-copa-do-mundo-esgotam-por-falta-da-letra-v.ghtml",
@@ -5843,37 +5793,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Esqueça as seleções, marketing desta Copa é sobre ídolos",
-      "summary": "A “kardashianização” do marketing de artigos esportivos, em que o poder das estrelas individuais se sobrepõe às lealdades a clubes ou seleções, está em plena exibição enquanto gigantes do setor Nike e Adidas disputam a dominância na Copa do Mundo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/12/copa-do-mundo-acirra-disputa-entre-nike-e-adidas-na-corrida-bilionaria-do-marketing-esportivo.ghtml",
-      "published": "2026-06-12T15:07:12+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "artigos esportivos",
-        "nike"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "artigos esportivos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "nike",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Vozinha, goleiro de Cabo Verde, dá prejuízo de US$ 1 milhão a apostador da Polymarket",
@@ -6090,6 +6009,140 @@
       "score": 16.0
     },
     {
+      "title": "Paulo Guedes abre ciclo de debates sobre economia e varejo na Eletrolar Show 2026",
+      "summary": "A Eletrolar Show All Connected 2026 não será só uma feira de negócios. Entre os dias 22 e 25 de junho, a Arena Eletrolar, espaço dedicado à programação de palestras dentro do evento, vai reunir economistas, executivos e especialistas para discutir as forças que devem moldar o varejo e a indústria no segundo semestre do ano. A abertura, no dia 22, traz Paulo Guedes, ex-ministro da Economia, apresentando sua leitura sobre perspectivas macroeconômicas, competitividade e os impactos do ambiente econômico sobre investimentos e consumo a partir das 15h. Além dele, o primeiro dia da Arena abre espaço para debater expansão de vendas B2B, crédito estruturado e finanças embarcadas como novas fontes de receita, temas que interessam diretamente aos distribuidores e fabricantes que circulam pelos 100 mil m² de exposição do Anhembi. A feira espera receber mais de 300 grandes redes varejistas com representantes de todos os 26 estados e do Distrito Federal. Construtoras, engenheiros, arquitetos, designers e gestores de manutenção também integram a audiência esperada, o que explica a amplitude dos temas na programação. Entre os convidados da Arena Eletrolar estão executivos de empresas como Mercado Livre, TikTok Shop, Magalu, KaBuM!, Nuvemshop, Canva, Infracommerce, ClearSale e Confi. Os painéis vão cobrir desde inteligência artificial e marketplace até reforma tributária, social commerce, logística e monetização de dados. Na segunda-feira (23), o foco recai sobre comércio eletrônico e plataformas digitais, com debate sobre algoritmos de marketplace, omnicanalidade e os impactos da reforma tributária no varejo digital. Na terça (24), a pauta muda para comportamento do consumidor, marketing digital e empreendedorismo feminino. No último dia (25), especialistas do TikTok Shop, ClearSale e Confi apresentam casos sobre uso de dados, precificação e social commerce. O debate sobre plataformas digitais acontece num momento em que a Eletrolar Show amplia sua presença no universo do comércio conectado. A feira reúne este ano mais de 1.000 empresas expositoras e 5 mil marcas, com expectativa de R$ 2 bilhões em negócios fechados ao longo dos quatro dias, volume que depende cada vez mais de decisões tomadas com base em dados, algoritmos e estratégias de canal que serão discutidas nos painéis. Para Carlos Clur, CEO do Grupo Eletrolar, tecnologia e presença física não são forças opostas. \"As relações humanas estão além da inteligência artificial\", afirma. \"É ao caminhar pela feira, encontrar parceiros, apresentar produtos e estar frente a frente que se constroem as melhores parcerias e os melhores negócios.\" A Eletrolar Show espera receber até 55 mil profissionais na edição de 2026, segundo a organização. O evento concentra também encontros paralelos como Interior Lifestyle South America, Future Mobility, AirCon e Packaging Pack, iniciativas que ampliam seu alcance para além do universo de eletrônicos de consumo, incorporando mobilidade elétrica, climatização, design de interiores e embalagens. A programação completa de palestras está disponível no site da Eletrolar Show. SERVIÇO ELETROLAR SHOW ALL CONNECTED 2026 Datas: 22 a 25 de junho de 2026 Horário: das 13h às 21h (exposição) das 14h às 19h (ciclo de palestras) Local: Distrito Anhembi – Av. Olavo Fontoura, 1205 - Santana",
+      "url": "https://valor.globo.com/conteudo-de-marca/eletrolar-show/noticia/2026/06/19/paulo-guedes-abre-ciclo-de-debates-sobre-economia-e-varejo-na-eletrolar-show-2026.ghtml",
+      "published": "2026-06-19T18:07:16+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce",
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "eletrônicos",
+        "logística",
+        "magalu",
+        "marketplace",
+        "mercado livre",
+        "tiktok",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Eletrônicos",
+          "alias": "eletrônicos",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 14.0
+    },
+    {
+      "title": "Aumento de uso de IA em compras on-line muda dinâmicas de varejista, diz BTG",
+      "summary": "O aumento de uso de agentes de inteligência artificial no comércio eletrônico está mudando as dinâmicas das varejistas, que passam a focar também em melhorar a visibilidade para os algoritmos dentro das suas plataformas, diz o BTG Pactual. Os analistas Luiz Guanais, Yan Cesquim e Beatriz Cendon escrevem que o tráfego vindo de IA generativa para sites de varejo saltou cerca de 4.700% no último ano e a expectativa é que os agentes viabilizem cerca de 25% de todas as transações até 2030. Essa evolução para o novo formato ocorre em cinco estágios, culminando em um cenário onde os agentes de IA dos clientes negociarão diretamente com os agentes das marcas, dispensando qualquer envolvimento humano na transação. Para o setor varejista, a adoção da inteligência artificial se consolidou como um motor de resultados, com 89% das empresas relatando crescimento de receita e 95% observando redução de custos atrelados ao uso da tecnologia. No mercado brasileiro, o Mercado Livre aposta na força de sua infraestrutura e no controle de todo o ecossistema, unindo marketplace, pagamentos, crédito e logística, para que as transações via IA ocorram de forma fluida. O Magazine Luiza, por sua vez, adota uma abordagem voltada diretamente ao consumidor em uma arquitetura que permite que a jornada de compra seja feita inteiramente por conversas naturais via IA dentro do aplicativo de mensagens WhatsApp. Paralelamente, a Amazon acelera sua atuação no país, acumulando investimentos de R$ 55 bilhões desde sua chegada, e expande suas capacidades logísticas enquanto avança globalmente com seu próprio assistente de compras inteligente, o Rufus. Apesar do forte potencial de ganhos de eficiência, o avanço rápido da IA traz riscos estratégicos, como a desintermediação, um fenômeno no qual as empresas perdem o relacionamento direto com o consumidor. Além disso, a capacidade dos agentes autônomos de escanear a internet otimizando cada centavo cria um ambiente de transparência radical de preços, o que ameaça comprimir as margens de lucro em diversas categorias. Pexels",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/19/aumento-de-uso-de-ia-em-compras-on-line-muda-dinmicas-de-varejista-diz-btg.ghtml",
+      "published": "2026-06-19T14:54:03+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "logística",
+        "magazine luiza",
+        "marketplace",
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 12.0
+    },
+    {
       "title": "Neymar ainda manda nos patrocínios, mas é o feed de Vini Jr. que mais bomba",
       "summary": "Neymar ainda é o jogador com mais contratos de patrocínios entre os atletas da Seleção brasileira, estando a frente inclusive de Vinícius Júnior, o jogador mais caro do elenco, avaliado em 140 milhões de euros (R$ 821,8 milhões), e atual destaque do Brasil, que joga nesta sexta-feira (19) contra o Haiti. Ao ser convocado para a Copa do Mundo da Fifa, no último dia 18 de maio, as primeiras celebrações de Neymar em suas redes sociais vieram em publicações junto às marcas parceiras. A varejista Mercado Livre publicou um vídeo explorando o conceito de entrega, conectando a promessa do atleta de dar o máximo pelo Brasil. Já a Canção, marca brasileira de alimentos, respondeu a uma provocação do Burger King, que dizia que Neymar não estaria entre os presentes no álbum da Copa do Mundo, produzido pela Panini. No vídeo, o atacante aparece dizendo que ele “virou” figurinha mais uma vez. A Red Bull mostrou o atacante chutando bolas que representam todos os anos que foi para o torneio, já a Puma mostrou Neymar rasgando um papel que dizia que ele não estava na lista final, marcando sua presença na Seleção. Desde então, o jogador do Santos também fez publicações em parceria com a casa de apostas Blaze, o jogo de futebol virtual Efootball, desenvolvido pela produtora Konami, e a Loovi, uma empresa de tecnologia voltada ao mercado de seguros. Mesmo sem entrar em campo, o que diminui a exposição do atleta, Neymar lidera o ranking elaborado pela PressFC consultorias, e soma 20 contratos com patrocinadores diferentes. Enquanto isso, Vini Jr., titular da seleção, vem em segundo lugar, contando com 16 parcerias. Feed de Vini Jr. está mais movimentado Após a convocação, porém, é o feed de Vini Jr. que tem se movimentado mais. Apesar de ter feito menos publicações, 12 desde a primeira em colaboração com a Vivo um dia depois da convocação, o Instagram do atleta do Real Madrid divulgou campanhas de 10 anunciantes diferentes, enquanto Neymar fez 17 publicações, mas de apenas 7 marcas diferentes. A Apple lançou uma campanha publicitária global estrelada por Vini Jr. para promover os novos fones de ouvido AirPods Pro 3. Já o Fortnite, da Epic Games, um dos cinco jogos mais acessados do mundo, lançou um personagem utilizável do Vini Jr. para a Copa do Mundo. Marriott Bonvoy, o programa de fidelidade global da Marriott International, a maior rede de hotéis do mundo, lançou uma campanha em parceria com a Visa e Vini Jr para a Copa do Mundo Fifa, na qual o jogador aparece ao lado do astro norueguês Erling Haaland. Outras marcas que apareceram nas redes do atacante foram Rexona, Nike, Visit Dubai, Lego e Havaianas. Confira o ranking de atletas com mais patrocinadores da seleção brasileira: Neymar (20) - Canção, Mercado Livre, Loovi, Viva Sorte, Faanz, Popper, Next 10, Blaze, Puma, Sintta Stay, Lavitan, Ixina Kitchen, Due Incorporadora, Pley by Ney, Aiwa, Ibrahim Al.Qurashi, Campline Horses, Tropicool, Aspetar e Red Bull Vini Jr (16) - Clear, Omo, Gatorade, Rexona, Playstation, Pepsi, Betnacional, Vivo, Prada, Dubai Tourism, Bos, Unesco (agência especializada da ONU), Havainas, Nike, Visa e Marriott Bonvoy Raphinha (9) - Gillette, Rayovac, Dream League Soccer, UFL, Adidas, Coristina D, Realme, Modelo e Calvin Klein Endrick (6) - Gillete, New Balance, Red Bull, Hypera/Neosaldina, Sicoob e EA Sports Alisson (5) - JBL, Tommy Hilfiger, Nike, Reusch Goalkeeper Gloves e AXA Seguros Matheus Cunha (4) - Nike, Jordan, Azul Linhas Aéreas e Qualcomm Snapdragon Casemiro (2) - Adidas e Azul Linhas Aéreas Weverton (2) - Puma e Poker Luiz Henrique (2) - Philips e Adidas Gabriel Martinelli (1) - Adidas e One Hyperbarics Ederson (1) - Puma Wesley (1) - Nike Marquinhos (1) - Nike Gabriel Magalhães (1) - Adidas Bremer (1) - Adidas Léo Pereira (1) - Nike Bruno Guimarães (1) - Adidas Lucas Paquetá (1) - Nike Danilo Santos (1) - Gênesis Benefícios *Estagiário sob supervisão de Diogo Max",
       "url": "https://valor.globo.com/empresas/noticia/2026/06/19/neymar-ainda-manda-nos-patrocinios-mas-e-o-feed-de-vini-jr-que-mais-bomba.ghtml",
@@ -6144,52 +6197,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Com US$ 1 trilhão de Elon Musk, dá comprar todas as montadoras dos EUA, Europa e Japão",
-      "summary": "Ainda no verão de 2024, Elon Musk, Jeff Bezos e Bernard Arnault revezavam quase diariamente o título de pessoa mais rica do mundo, com patrimônios líquidos em torno de US$ 200 bilhões. Agora, menos de dois anos depois, Musk, de 54 anos, já possui a primeira fortuna de US$ 1 trilhão da história, valendo o dobro do patrimônio combinado de Bezos e Arnault. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/quao-rico-e-um-trilionario-entenda-dimensao-da-fortuna-de-elon-musk.ghtml",
-      "published": "2026-06-12T17:48:26+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "bernard arnault"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "bernard arnault",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Sergio Zimerman sobre empresa que ninguém encontra no Google: 'Negócio que não cresce, morre'",
-      "summary": "No Choque de Gestão, fundador da Petz explicou por que o boca a boca é um ativo valioso, mas pode se tornar um freio para empresas que desejam crescer",
-      "url": "https://exame.com/negocios/sergio-zimerman-sobre-empresa-que-ninguem-encontra-no-google-negocio-que-nao-cresce-morre",
-      "published": "2026-06-13T07:07:45+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Pet"
-      ],
-      "matched_aliases": [
-        "petz"
-      ],
-      "matches": [
-        {
-          "sector": "Pet",
-          "alias": "petz",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Por que tantas chuteiras rosas na Copa do Mundo?",
@@ -6907,6 +6914,98 @@
       "score": 8.0
     },
     {
+      "title": "Isenção de imposto para igrejas aumenta alíquota do IVA em 1 ponto percentual, diz Durigan",
+      "summary": "O ministro da Fazenda, Dario Durigan, disse que a isenção de tributos sobre o consumo das entidades religiosas tem impacto de 1 ponto percentual (p.p.) sobre a alíquota do Imposto sobre Valor Agregado (IVA) implementado na reforma tributária. O ministro concedeu entrevista ao JOTA. Ele comentou sobre a Proposta de Emenda à Constituição (PEC) 5 de 2023, conhecida como a PEC dos Templos. Segundo o ministro da Fazenda, a medida estende a imunidade tributária, que hoje já existe sobre patrimônio e renda, para os impostos de consumo. Na prática, templos, igrejas e lideranças religiosas deixariam de pagar tributos na compra de microfones para culto, cimento para reformas e advogados para determinados serviços, por exemplo. “Não pagaria ICMS e não pagaria ISS”, disse Durigan. “As entidades associadas às igrejas, as próprias lideranças religiosas, pessoas físicas, ficariam imunes de tributos sobre o consumo, mas o restante da sociedade ficaria impactada em 1 ponto percentual do IVA”, acrescentou. Em maio, a Câmara dos Deputados aprovou a PEC dos Templos. O texto está agora no Senado. Ministro da Fazenda, Dario Durigan Washington Costa/MF",
+      "url": "https://valor.globo.com/brasil/noticia/2026/06/19/isencao-de-imposto-para-igrejas-aumenta-aliquota-do-iva-em-1-ponto-percentual-diz-durigan.ghtml",
+      "published": "2026-06-19T17:32:06+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Nude Code estreia no mercado de beleza com marca inspirada em memórias e sensações",
+      "summary": "Ex-executivos da L'Oréal apostam em house of brands e lançam marca de body splash focada nas brasileiras",
+      "url": "https://veja.abril.com.br/economia/nude-code-estreia-no-mercado-de-beleza-com-marca-inspirada-em-memorias-e-sensacoes",
+      "published": "2026-06-19T19:49:08+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "l'oréal"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "l'oréal",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Azul economizaria R$ 3 mi por mês se cada passageiro emagrecesse 2 kg, diz CEO da empresa",
+      "summary": "O CEO da Azul , John Rodgerson, disse em 9 de junho que a companhia economizaria R$ 3 milhões por mês se cada passageiro perdesse 2 quilos. O executivo participou, na ocasião, de um evento promovido pelo Itaú BBA e pela Pague Menos. Leia mais (06/19/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/azul-economizaria-r-3-mi-por-mes-se-cada-passageiro-emagrecesse-2-kg-diz-ceo-da-empresa.shtml",
+      "published": "2026-06-20T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "pague menos"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "pague menos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Parceria impulsiona a empregabilidade no Brasil",
+      "summary": "A TOTVS, empresa de tecnologia do Brasil, juntamente com a Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), o Serviço Nacional de Aprendizagem Comercial (Senac) e o Serviço Social do Comércio (Sesc), assinam, em Brasília (DF), um Acordo de Cooperação Técnica de abrangência nacional. A iniciativa prevê impulsionar a educação profissional no país ao integrar as soluções de gestão da TOTVS ao ambiente de aprendizagem do Senac para preparar milhares de estudantes para as reais demandas do mercado de trabalho. Segundo o Fórum Econômico Mundial, devido à transformação tecnológica e organizacional das empresas, cerca de 39% das habilidades exigidas no mercado vão mudar até 2030. A parceria visa responder a esse que é um dos maiores desafios da economia digital: a necessidade de profissionais qualificados. \"Nosso compromisso com o Brasil vai muito além da tecnologia. Acreditamos que o verdadeiro desenvolvimento do país passa pela capacitação do seu capital humano e fomento à empregabilidade e inclusão produtiva\", afirma a vice-presidente de Relações Humanas e Marketing da TOTVS, Vivian Broge. \"Ao integrar nossas soluções de gestão ao ambiente educacional do Senac, estamos investindo na formação de uma geração de profissionais prontos para os desafios da economia digital. É a nossa contribuição para construir um ecossistema mais qualificado, fortalecer a empregabilidade e garantir mais produtividade e inovação às empresas brasileiras\", continua. Para o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, a união de esforços é uma alavanca para democratizar o acesso à inovação e acelerar o desenvolvimento social e econômico do país. \"O avanço tecnológico exige que a formação profissional esteja plenamente conectada com as dinâmicas reais do setor produtivo\", destaca o executivo. \"Esta cooperação aproxima a educação das práticas corporativas modernas, reduzindo desigualdades digitais e preparando trabalhadores para os desafios do amanhã\", completa. Para viabilizar a iniciativa e atingir esses objetivos, a TOTVS fornecerá, sem custos, licenças de suas plataformas e sistemas para serem utilizadas em salas de aula e laboratórios do Senac. A proposta é que os estudantes aprendam na prática, em ambientes simulados, a operar os mesmos softwares de gestão empresarial que devem encontrar no mercado de trabalho. Essa capacitação prévia deverá aumentar as chances de empregabilidade e a aderência às exigências das vagas que serão concorridas por esses estudantes. \"Esta parceria é uma resposta direta à dificuldade dos empresários em encontrar profissionais que já conheçam as ferramentas de gestão que movem seus negócios\", aponta o vice-presidente de Atendimento e Relacionamento da TOTVS, Alexandre Apendino. \"A nossa ideia é criar um atalho para a produtividade, formando talentos que chegarão ao mercado prontos para gerar valor desde o primeiro dia\", diz. Segundo o Plano de Trabalho do acordo, o propósito da parceria é viabilizar a incorporação de soluções tecnológicas de gestão ao contexto educacional, alinhando a formação profissional às demandas reais do mercado. A iniciativa adota os princípios da Educação 4.0, com metodologias ativas que conectam teoria e prática. Com vigência inicial de 24 meses, a parceria terá início com um projeto-piloto de sete meses para consolidação de metodologias e capacitação de docentes. Após essa fase, o projeto poderá ser expandido para os Departamentos Regionais do Senac em todo o Brasil.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/20/parceria-impulsiona-a-empregabilidade-no-brasil-1.ghtml",
+      "published": "2026-06-20T03:00:58+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Febre dos peptídeos: entenda o que são e quais os riscos",
       "summary": "sem descrição BBC News fonte Getty Images Um anjo chega ao céu e informa Deus sobre a onda de peptídeos que está se popularizando na Terra. \"O que tá rolando em story de influencer e clínica de estética são peptídeos antienvelhecimento, pra pele, ganho de massa... e esses aí não são aprovados nem pela Anvisa\", diz o anjo. A conversa é parte de um vídeo de humor publicado no Instagram por Mari Krüger, divulgadora científica e criadora de conteúdo. A publicação já teve mais de 5,6 milhões de visualizações e soma quase sete mil comentários. A ironia usada por Krüger em seu vídeo não é à toa. Os peptídeos se transformaram em uma das palavras mais populares do mercado de estética, longevidade e performance física nos últimos anos. Divulgados em redes sociais, grupos de conversas e clínicas de estética, eles são apresentados como substâncias capazes de acelerar a recuperação muscular, estimular a produção de colágeno, melhorar a composição corporal e até retardar o envelhecimento. No entanto, especialistas fazem um alerta: apesar das promessas, muitos dos benefícios atribuídos aos peptídeos não têm nenhuma comprovação científica e grande parte dessas substâncias não possui aprovação regulatória para uso clínico. \"Eu fiz o vídeo em um formato que já é conhecido no meu perfil que é o dos Anjos e Deus, em que eu mostro em tom de humor como as notícias, os absurdos da Terra chegam ao céu. A repercussão desse vídeo foi completamente inesperada. Não é uma bobagem, é um assunto muito sério. A gente trouxe o humor sem tirar a seriedade do assunto para conseguir explicar isso melhor para as pessoas. Esse perigo [do uso indiscriminado] e o quão urgente é falar sobre isso\", diz Mari. O que são os peptídeos? Peptídeos são moléculas produzidas e formadas pelo nosso organismo. Eles são pequenas cadeias de aminoácidos, que são os mesmos componentes que formam as proteínas. A diferença está no tamanho: enquanto proteínas costumam ser estruturas maiores e mais complexas, os peptídeos possuem cadeias menores. Essas moléculas desempenham funções importantes no organismo. Algumas atuam como hormônios, outras participam da comunicação entre células ou regulam processos biológicos como crescimento, metabolismo, cicatrização e resposta imunológica. \"Esses peptídeos, resumindo, funcionam como mensageiros biológicos e enviam uma mensagem para a célula realizar determinada função\", explica Elisa Minami, cirurgiã plástica e membro titular da Sociedade Brasileira de Cirurgia Plástica (SBCP). Nas últimas décadas, pesquisadores passaram a estudar versões sintéticas desses compostos, ou seja, desenvolvidas em laboratório para reproduzir ou potencializar determinadas funções naturais do corpo. Um dos peptídeos mais conhecidos é a insulina. Ela foi o primeiro peptídeo a ser descoberto e ajuda as pessoas com diabetes do tipo 1 e algumas do tipo 2 a administrar o nível de açúcar no sangue, controlando a doença. Um dos peptídeos mais conhecidos é a insulina BBC News fonte Getty ImagesUm dos peptídeos mais conhecidos é a insulina Outros peptídeos que ganharam espaço são os GLP-1s, como a semaglutida e tirzepatida, que são medicamentos que imitam o hormônio peptídeo similar a glucagon-1, que produzimos naturalmente no corpo e ajuda a regular o nível de saciedade. Tanto a insulina quanto os análogos do GLP-1 são peptídeos da classe dos medicamentos e passaram por extensos e robustos testes em humanos até serem aprovados por órgãos regulamentadores, como a Agência Nacional de Vigilância Sanitária (Anvisa). A existência desses medicamentos aprovados, porém, não significa que todos os peptídeos disponíveis no mercado apresentem o mesmo nível de segurança ou eficácia. No Brasil, os peptídeos aprovados pela Anvisa e com circulação autorizada incluem apenas medicamentos injetáveis como a insulina, os para obesidade com semaglutida (Ozempic, Wegovy) liraglutida (Saxenda) e tirzepatida (Mounjaro), e cremes com peptídeos. Há um mercado paralelo de outros peptídeos, injetáveis ou comercializados como suplementos alimentares com foco na beleza e estética e que não possuem comprovação científica e nem regulamentação. Em 2024, por exemplo, a Anvisa também baniu a comercialização e manipulação dos chamados \"chips da beleza\", implantes hormonais que poderiam conter peptídeos e eram colocados sob a pele. Quais são os principais tipos de peptídeos? Esse universo dos peptídeos é amplo e reúne centenas de moléculas diferentes. O corpo produz peptídeos naturalmente. Peptídeos sintéticos são fabricados para imitar ou potencializar essas funções naturais. Peptídeos como GHK-Cu, BPC-157 e TB-500 estão entre os mais difundidos no Brasil e, apesar de não serem aprovados pela Anvisa, podem ser encontrados em sites, plataformas de vendas e em clínicas de estética. \"Estes produtos não estão regularizados na Anvisa em nenhuma categoria, sendo ilegais para qualquer uso em saúde, inclusive estético. Produtos como estes não têm qualquer garantia de segurança, origem e composição\", disse a Anvisa, em nota. A principal propaganda para a venda desses produtos é de que eles podem aumentar a produção de colágeno, acelerar a reparação da pele, reduzir rugas e até mesmo reverter aspectos do envelhecimento biológico. Eles também são frequentemente promovidos como agentes capazes de acelerar a cicatrização de lesões musculares, tendíneas e articulares. No entanto, esses peptídeos não possuem evidências científicas de seus efeitos em humanos ou esses resultados ainda são limitados. Alegações de que esses peptídeos citados (GHK-Cu, BPC-157 e TB-500) ajudam a regenerar e reparar tecidos e a reduzir a inflamação baseiam-se em poucos estudos de laboratório feitos em células ou animais. O GHK-Cu, também conhecido como peptídeo de cobre, é um peptídeo produzido pelo nosso corpo e é responsável pela estimulação da produção de colágeno. Ele pode ser usado topicamente, ou seja, uso externo, em cremes e séruns para a pele para reduzir as linhas finas, e nesse caso é autorizado. A proibição é para a injeção, pois ele não é considerado seguro para ser usado em injetáveis devido à falta de pesquisas científicas e aos riscos de despertar reações imunológicas que podem ser perigosas. Cremes cosméticos que possuem peptídeos em suas fórmulas ser comercializados BBC News fonte Getty ImagesCremes cosméticos que possuem peptídeos em suas fórmulas ser comercializados Da mesma forma, algumas pesquisas sugerem que o BPC-157 e o TB-500 podem promover o crescimento de novas células sanguíneas, reduzir a inflamação e cicatrizar tecidos em ratos. Mas não há estudos robustos sobre seus efeitos em humanos e com grupos de controle adequados. Por isso o seu uso como injetável também não é autorizado. \"Embora existam estudos laboratoriais e em animais mostrando resultados interessantes, as evidências clínicas em seres humanos ainda são limitadas. Isso significa que precisamos seguir estudando e informar a nossos pacientes sobre este tipo de medicina sempre com segurança\", diz Patricia Erazo, Coordenadora Científica Cosmiatria da Sociedade Brasileira de Cirurgia Plástica (SBCP) e membro da Federação Ibero Latinoamericana de Cirurgia Plástica (FILACP). Nenhum desses peptídeos citados possui registro na Anvisa para serem comercializados no Brasil. \"Os produtos que se apresentam como 'peptídeos' denominados 'GHK-CU, BPC-157, TB500', que prometem melhoras estéticas, não se encontram registrados perante a Anvisa. Da mesma forma não foram localizados registros de medicamentos contendo estes princípios ativos. Portanto, não há informações sobre a segurança de uso desses supostos produtos\", disse o órgão em nota. \"Apesar de suposta finalidade estética, esses produtos também não são cosméticos. Produtos cosméticos são unicamente para uso externo. Não existem cosméticos injetáveis e se o produto for oferecido desta forma, trata-se, com certeza, de produto irregular\", acrescentou a nota da Anvisa. O que é regulamentado? Uma das principais confusões para consumidores é a diferença entre peptídeos aprovados por agências reguladoras, como a Anvisa, e substâncias comercializadas sem autorização para uso clínico. Medicamentos peptídicos que passaram por estudos clínicos rigorosos e receberam aprovação de órgãos reguladores podem ser prescritos para indicações específicas. Neste grupo estão alguns hormônios, medicamentos para diabetes, obesidade e algumas terapias voltadas para doenças raras. Todos eles precisam ser prescritos por um médico e o uso é feito apenas com acompanhamento desse profissional. Outro grupo que pode ser comercializado são os cosméticos que possuem peptídeos em suas fórmulas. Esses podem ser em creme ou séruns, sempre de uso externo na pele, nunca injetável. Já outros peptídeos divulgados em clínicas de performance ou vendidos pela internet permanecem classificados como substâncias experimentais. No Brasil, não há liberação para nenhum tipo de peptídeo injetável para fins estéticos, de modo que procedimentos que consistem em injetar essas substâncias na pele não são seguros. Especialistas destacam que a ausência de aprovação regulatória não representa apenas uma questão burocrática. Ela indica que ainda não existem evidências suficientes para garantir que os potenciais benefícios superem os riscos. \"Os riscos dos injetados são muito sérios. Pode haver contaminação, reação inflamatória ou infecção. A pessoa não sabe usar a dose certa, então usa a dose errada e também há ausência de estudos robustos e segurança. Então, por isso eles são ilegais\", acrescenta Minami. Quais são os riscos do uso sem orientação? A percepção de que peptídeos seriam alternativas \"naturais\" ou livres de riscos é considerada equivocada pelos médicos. Como qualquer substância biologicamente ativa, eles podem provocar efeitos colaterais. Entre os problemas relatados estão retenção de líquidos, alterações hormonais, dores articulares, aumento da pressão arterial, alterações metabólicas e reações no local da aplicação. Como qualquer substância biologicamente ativa, peptídeos podem provocar efeitos colaterais como retenção de líquidos, alterações hormonais e dores articulares BBC News fonte Getty ImagesComo qualquer substância biologicamente ativa, peptídeos podem provocar efeitos colaterais como retenção de líquidos, alterações hormonais e dores articulares Outro risco importante está relacionado à procedência dos produtos. Peptídeos não regulamentados podem ser rotulados incorretamente, contaminados ou dosados ​​de forma inadequada. Também existem riscos biológicos. Peptídeos que influenciam o crescimento, o reparo muscular ou as vias hormonais também podem estimular processos indesejados. Em teoria, isso poderia incluir o crescimento de tumores existentes ou a interrupção da função endócrina normal. Esse risco de câncer é amplificado pela alta presença de metais pesados ​​nos mercados ilícitos de drogas para aprimoramento. Além disso, quando não regulamentados pela Anvisa, esses peptídeos não passam por controles rigorosos de qualidade, podendo haver concentração incorreta, contaminação microbiológica e até presença de substâncias diferentes das declaradas nos rótulos. Existe ainda a preocupação com efeitos desconhecidos de longo prazo. Como esses compostos não foram amplamente estudados em humanos, possíveis impactos após anos de uso ainda são incertos. \"Os riscos maiores seriam falsificação e de produtos sem procedência. Pode haver infecção por bactérias, a maneira de fabricação não ser adequada. Além disso, a gente não sabe se mais para frente vai ter algum prejuízo do uso desses produtos de maneira injetável, porque eles não são estudados\", acrescenta Alessandra Romiti, dermatologista, assessora do Departamento de Cosmiatria da Sociedade Brasileira de Dermatologia (SBD). BBC FOOTER NOVO BBC",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/06/cdatafebre-dos-peptideos-entenda-o-que-sao-e-quais-os-riscos.ghtml",
@@ -7433,107 +7532,17 @@
       "score": 4.0
     },
     {
-      "title": "Com vendas em alta de mais de 20%, produção de carros no Brasil, em maio, é a maior desde 2019, diz Anfavea",
-      "summary": "A produção de veículos no país cresceu 15,2% em maio, o melhor resultado para o mês desde 2019. Os números foram divulgados nesta sexta-feira pela Associação Nacional dos Fabricantes de Veículos Automotores (Anfavea), que representa as principais montadoras do país. Novidade chinesa: BYD lança primeiro SUV compacto plug in no Brasil com preço a partir de R$ 149 mil 'Copa do delivery': com jogos durante a noite, empresas fazem lançamentos especiais para evento Esse número foi puxado por automóveis e comerciais leves, e levou país a bater a marca de 1 milhão de unidades produzidas no ano, no mês passado.em 2025, a casa de 1 milhão d eunidades só havia sido atingida em junho. De acordo com a entidade, o ritmo de vendas do mercado interno vem surpreendendo, o que leva a produção a crescer, mesmo com queda das exportações e alta das importações, especialmente de carros chineses. De acordo com os dados da Anfavea, em maio, foram produzidos 253,6 mil autoveículos, alta de 15,2% sobre o mesmo mês de 2025 e melhor resultado para o mês desde 2019, antes da pandemia. Até o mês passado, saíram das fábricas nacionais 1,126 milhão de unidades, uma alta de 7,1% em relação aos cinco primeiros meses de 2025. Vendas aquecidas Segundo a Anfavea, esse ritmo de produção forte, é decorrente da alta nas vendas de automóveis, que cresceram 21,5% no mês passado, incluindo o desempenho positivo dos carros de entrada com o programa do governo federal Carro Sustentável. Esse programa reduz a zero o Imposto sobre Produtos Industrializados (IPI) para carros compactos e de entrada fabricados no Brasil, que emitam menos poluentes e contenham mais de 80% de material reciclável em sua produção. A venda de veículos comerciais leves, como picapes, vans e furgões, também vêm crescendo, com alta de 7,7%, em maio. Na contramão, as vendas de caminhões (-15,1%) e de ônibus (-16,3%) ainda continuam em queda. A Anfavea espera uma melhora para estes dois segmentos com o ingresso de recursos de financiamento facilitado dentro do programa Move Brasil 2, que prevê juros mais baixos e recursos do BNDES para o financiamento. Quem vai gritar gol antes nesta Copa? TV aberta e streaming apostam corrida pelo ‘spoiler’ Maio teve a melhor média diária de vendas desde dezembro de 2014, com 13,7 mil autoveículos (soma de leves e pesados). Os emplacamentos totais em maio foram de 274,7 mil unidades, alta de 10,6% sobre abril e 21,7% sobre maio/25. O acumulado das vendas também superou a casa de 1 milhão um mês antes de 2025, com 1.148,2 mil unidades emplacadas, crescimento acumulado 16,4%. Eletrificados batem recorde de venda Os veículos eletrificados representaram uma parte importante das vendas, com o recorde de participação de 19,5% em maio. Elétricos puros tiveram 21 mil unidades emplacadas, número recorde. Híbridos de todos os tipos somaram 30,7 mil no mês. As vendas de importados chegaram a 55 mil unidades em maio, totalizando 223 mil nos cinco primeiros meses do ano, elevação de 17,4%. A China se destaca como principal país de origem dos veículos importados, alta de 86,6% em maio, ante uma queda de 16,8% dos modelos vindos da Argentina. As exportações continuam sendo um dos pontos de preocupação do setor automotivo. Em maio foram embarcados 37,4 mil autoveículos, segundo mês consecutivo de queda. No acumulado do ano, foram 180 mil unidades exportadas, recuo de 20% sobre 2025. Houve crescimento de embarques apenas para a Colômbia, de 14,5%. Mas o tombo de 33,3% dos envios para a Argentina, de 34,5% para o Uruguai e de 19,6% para o Chile derrubaram o resultado geral.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/12/com-vendas-em-alta-de-mais-de-20percent-producao-de-carros-no-brasil-em-maio-e-a-maior-desde-2019-diz-anfavea.ghtml",
-      "published": "2026-06-12T15:46:56+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "Horas antes do jogo, clima de Copa movimenta bares paulistanos e impulsiona ativações de marcas",
+      "summary": "A poucas horas do jogo da seleção brasileira pela Copa do Mundo, bares de regiões como Vila Madalena e Baixo Pinheiros ꟷ zona oeste ꟷ já registravam intensa movimentação de torcedores na capital paulista. O aumento do fluxo de consumidores também abriu espaço para ativações promocionais, com marcas aproveitando a concentração de público para ampliar a visibilidade e fortalecer a conexão com os consumidores. Na Rua Aspicuelta, na Vila Madalena, a expectativa era de casas cheias antes mesmo do início da partida. Segundo Amanda Bernardo, recepcionista do bar Omadá, no primeiro jogo do Brasil, no último sábado (13), parte dos clientes chegou até quatro horas antes do apito inicial. Nesta sexta-feira (19), por ser um dia útil, o público chegou duas horas antes do jogo. De acordo com ela, o gasto médio dos clientes é de aproximadamente R$ 200 por pessoa apenas com bebidas. O Grupo Azim, responsável pelos bares Posto 6, Salve Jorge e Omadá, estima alta de 40% a 50% no faturamento nos dias de jogos do Brasil. A movimentação atraiu empresas interessadas em aproveitar o clima da Copa. Em um dos bares da rua, a Netshoes promovia uma ativação em que consumidores giravam uma roleta para concorrer a brindes, incluindo meias. Já a Takis, marca de salgadinhos do grupo mexicano Bimbo, distribuía produtos gratuitamente para o público que circulava pela região. No Baixo Pinheiros, próximo à Avenida Brigadeiro Faria Lima, bares registravam filas horas antes do início da partida. Na região, Neosaldina e Engov, da farmacêutica Hypera Pharma, realizavam uma ação conjunta em que consumidores podiam tirar fotos com mascotes das marcas, publicar o conteúdo nas redes sociais e receber brindes. Neosaldina e Estomazil, da Hypera Pharma, presentes em ativação da farmacêutica para o segundo jogo do Brasil na Copa Valor/Bianca Guilherme O movimento observado em São Paulo acompanha a expectativa do setor para o torneio. Segundo levantamento da Associação Brasileira de Bares e Restaurantes (Abrasel), 52% dos estabelecimentos pretendem transmitir os jogos da Copa do Mundo. Entre eles, 80% acreditam que haverá aumento no faturamento em comparação aos dias sem partidas, enquanto 59% projetam crescimento de até 20% nas receitas durante o período. Entre os torcedores estava Daniela Bezerra, que saiu do trabalho às 16h e seguiu diretamente para um bar da região para acompanhar a partida. \"Eu moro sozinha e acho meio triste assistir ao jogo em casa. Preferi vir para o bar, encontrar uma amiga e aproveitar o clima da Copa\", afirmou. Arena Ginga Antes do início do jogo, o clima de torcida também já tomava conta da Ginga, festa de transmissão de jogos e entretenimento organizada pela T Group, no Clube Pinheiros, em São Paulo. Ao som de pagode, os primeiros visitantes chegavam ao espaço enquanto circulavam por ativações de marcas, áreas de alimentação e experiências temáticas ligadas ao futebol. Nesta edição da Copa, a Ginga está sendo realizada em 15 praças, sendo 14 no Brasil e uma em Miami, nos Estados Unidos. Segundo a organização, o projeto recebeu investimento de cerca de R$ 50 milhões e tem meta de faturar aproximadamente R$ 80 milhões, o dobro dos R$ 40 milhões registrados em 2022. Parte dessa receita vem dos patrocinadores. O evento é apresentado pela Budweiser, da Ambev, e reúne parceiros como iFood, Jack Daniel's e Coca-Cola. Além deles, marcas como JBL, Colgate, Veja e Olla participam com cotas regionais ou ativações específicas. Ao longo da trajetória da plataforma, mais de 35 patrocinadores já passaram pelo projeto. Hoje, a Budweiser está promovendo uma ação em que os visitantes tentam acertar um chute ao gol para ganhar brindes, como camisetas. Já a Olla, Reckitt Benckiser, distribui preservativos ao público e mantém uma ativação voltada para conscientização e relacionamento com os consumidores. Além das experiências de marca, o espaço conta com uma área expositiva dedicada à história da seleção brasileira, cenografia temática e ambientes inspirados no universo do futebol. A programação musical também integra a estratégia do evento. Em São Paulo, o Pagode do Xandó é a atração escalada para se apresentar nesta sexta (19) após a partida. Para acompanhar os jogos na Ginga, o público encontra ingressos que variam de R$ 80 a R$ 350 na área comum e de R$ 140 a R$ 600 na área VIP. No consumo, uma lata de 350 ml de Budweiser custa cerca de R$ 20 e os pratos vendidos na praça de alimentação variam entre R$ 22 e R$ 55. Segundo a organização, só com bebidas, o desembolso médio por visitante fica entre R$ 200 e R$ 300 por evento. A expectativa da organização é receber cerca de 3 mil pessoas por jogo em São Paulo. Considerando todas as cidades participantes, a projeção é reunir aproximadamente 40 mil torcedores a cada partida da seleção brasileira.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/19/horas-antes-do-jogo-clima-de-copa-movimenta-bares-paulistanos-e-impulsiona-ativaes-de-marcas.ghtml",
+      "published": "2026-06-19T23:22:20+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
       "matched_sectors": [
-        "Fashion"
+        "E-commerce",
+        "Farmácias"
       ],
       "matched_aliases": [
-        "vans"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "vans",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "Já é possível investir no IPO bilionário da SpaceX: saiba qual é o ticker e o preço das ações da empresa na B3",
-      "summary": "A SpaceX começou a negociar suas ações na bolsa de valores americana no começo da tarde desta sexta-feira (12). O valor das ações abriu em US$ 150 — acima dos US$ 135 praticados na venda de 555,6 milhões de ações da companhia na oferta inicial da última quinta-feira (11) —, e já alcançou alta de até US$ 168 até a publicação desta reportagem. Segundo o Wall Street Journal, o IPO da companhia de exploração espacial, que foi avaliada em US$ 1,77 trilhão, captou US$ 75 bilhões. A B3 já disponibilizou o BDR da SpaceX. Para o investidor brasileiro, o acesso acontece pelo ticker (código) SPCX34, diretamente no home broker das plataformas das corretoras de valores ou bancos de investimento associados à bolsa. A oferta é feita em reais, sem necessidade de conta no exterior ou remessa internacional. No Brasil, a estrutura do BDR foi definida com paridade de 1:15 — ou seja, cada ação negociada nos EUA equivale a 15 recibos na B3. O resultado é um preço de entrada entre R$ 50 e R$ 70 por unidade, bem abaixo dos cerca de R$ 675 correspondentes ao preço do papel no IPO. Expectativa em alta A SpaceX tem a maior parte de sua receita ligada à unidade de internet via satélite e um negócio ainda inicial de inteligência artificial, de acordo com o WSJ. O desempenho das ações nesta sexta também será lido pelo mercado como um termômetro para as ofertas do OpenAI e da Anthropic, ambas esperadas ainda em 2026. A abertura do pregão não deve ser imediata. Nos IPOs de alta demanda, os bancos coordenadores precisam casar compradores e vendedores — tipicamente em torno de 10% das ações da oferta — antes de liberar a negociação. No caso da SpaceX, isso representa cerca de 55 milhões de papéis, ou US$ 7,5 bilhões. A Figma, um dos lançamentos de maior perfil do ano passado, abriu pouco antes das 14h, conforme o WSJ. Especialistas pregam cautela A grande participação de investidores individuais na oferta, no entanto, é apontada por especialistas como um fator de risco — já que a mesma velocidade com que podem comprar pode levá-los a vender em caso de oscilação brusca. Quedas ou altas acima de 10% acionam mecanismos automáticos que pausam a negociação por cinco minutos. Os bancos coordenadores têm um instrumento para conter quedas abruptas, chamado green shoe. A estratégia consiste em vender ao mercado cerca de 15% a mais de ações do que o total da oferta. Se o preço cair, o banco estabilizador — no caso da SpaceX, o Morgan Stanley — compra os papéis no mercado aberto, o que ajuda a sustentar a cotação. A expressão vem da primeira empresa a usar o mecanismo, uma fabricante de calçados. Outro ponto fora do padrão na oferta pública da companhia de Musk foi a precificação das ações. Em vez de apresentar uma faixa de preço e ajustá-la com base no interesse dos investidores, a SpaceX fixou o valor de US$ 135 desde o início. Se as ações subirem com força, críticos devem argumentar que a empresa deixou dinheiro na mesa; se caírem, a leitura será de que a demanda foi superestimada. A Nasdaq realizou simulações do processo de abertura para evitar falhas técnicas. Quando o Facebook abriu capital em 2012, um problema nos sistemas impediu a confirmação de ordens de cancelamento, contribuindo para a queda das ações no primeiro dia — que só voltaram ao preço do IPO mais de um ano depois. *Com supervisão de Marisa Adán Gil Mais Lidas",
-      "url": "https://epocanegocios.globo.com/economia/noticia/2026/06/quem-investir-no-ipo-trilionario-da-spacex-saiba-qual-e-o-ticker-e-o-preco-das-acoes-da-empresa-na-b3.ghtml",
-      "published": "2026-06-12T16:40:33+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "marisa"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "marisa",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "O mundo não é para todos: para investidores, startups latino-americanas precisam se preparar para a internacionalização",
-      "summary": "Ainda considerada uma espécie de depositária e fornecedora preferencial de matérias-primas e alimentos, a América Latina não está condenada a ficar a reboque do desenvolvimento tecnológico dos países do Norte Global, ainda que tenha ainda muitas vulnerabilidades a superar para exercer plenamente seu potencial criativo e produtivo. Créditos de carbono: o capitalismo e os bilhões das big techs podem salvar a Amazônia? Investimento de US$ 550 milhões: Prefeitura anuncia expansão de hub de data centers A região tem uma série de empresas de tecnologia que já estão entre as mais influentes do mundo quando se fala em inovação, mas como pode avançar mais em um mundo cada vez mais competitivo? A expansão das empresas de tecnologia da América Latina para o cenário global foi tema ontem do painel “A América Latina pode conquistar o mundo?\" no Web Summit Rio 2026. Participaram da sessão conduzida por Maria Luiza Filgueiras, editora-chefe do Valor Pipeline, Marcello Gonçalves cofundador e sócio da DOMO VC, Izabel Gallera, sócia da Canary, e Marcelo Lima, sócio da Monashees. Izabel Gallera, sócia da Canary Lucas Tavares/Especial para O Globo Para ilustrar o momento atual de expansão dessas empresas para o cenário global, a mediadora usou a figura da “complexa estratégia do tabuleiro do jogo “War”, em que, ao alcançar escala internacional, os negócios inovadores da América Latina entram na disputa pelo aporte massivo de capital geralmente designado para a elite do Vale do Silício, nos EUA. O que a mineração tem a ver com o futuro da IA? Tudo, diz líder de empresa que inova no setor Marcello Gonçalves, da DOMO VC, uma das principais empresas de venture capital (capital de risco) a investir em negócios em estágio inicial, com mais de 100 startups em seu portfólio, incluindo Hotmart, Loggi e Gympass, concordou com a analogia: Marcello Gonçalves, cofundador e sócio da DOMO VC Lucas Tavares/Especial para O Globo — Sempre que vemos chance de uma empresa se tornar global, a incentivamos. Pensando globalmente, como no “War” Risk” , conquiste a América Latina primeiro, como as duas peças da rodada na América do Sul, e então conquiste o mundo. A conquista dos EUA Filgueiras observou que muitas empresas brasileiras já passam a ter foco direcionado para \"conquistar\" o mercado dos Estados Unidos, ao passo que antes começavam pela América Latina. Izabel Gallera, da Canary, empresa de venture capital com foco em negócios em estágio inicial na América Latina que lidera muitos investimentos na região, acrescentou que atualmente as barreiras geográficas estão menores do que antes. Ela classificou esse movimento de busca de outros mercados por empresas latino-americanas como “diáspora latina” (todos indo da América Latina para os EUA). Copa do Mundo Feminina de 2027: evento no Brasil terá protagonismo das mulheres também fora de campo — Não há solução única para todos. Para vender em outro país, depende do seu negócio, da indústria e da equipe que você está construindo e da vantagem que se pode ter ao sair do país de origem. É preciso ter as conexões ou acesso ao talento específico para isso. A barreira do produto hoje em dia, dada a IA, está próxima de zero, mas ainda existe uma barreira de distribuição. As barreiras geográficas estão menores que antes, mas não há volta. Empreender no maior mercado do mundo Marcelo Lima, sócio da Monashees, que atua com foco em IA, fintechs e softwares corporativos B2B (para a relação de uma empresa com outra empresa) observa que há também um movimento de latino-americanos e brasileiros sediando suas empresas no exterior. Entre os exemplos estão a Brex, fundada em São Francisco, no Vale do Silício, por brasileiros, em 2017, e a Music AI, fundada originalmente como Moises em João Pessoa (PB), e que hoje tem sua sede corporativa em Salt Lake City, também nos EUA. “A América Latina pode conquistar o mundo?\": Painel foi mediado por Maria Luiza Filgueiras, editora-chefe do Valor Pipeline, com a participação de Marcello Gonçalves, cofundador e sócio da DOMO VC, Izabel Gallera, sócia da Canary, e Marcelo Lima, sócio da Monashees Lucas Tavares/Especial para O Globo -- A qualidade dos nossos fundadores nos permite fazer isso e estamos tentando ser parceiros deles. Embora não haja solução única, é possível investir em empresas locais que eventualmente irão para o exterior, mas também em fundadores que já começaram no exterior — afirmou Lima. Bilionária brasileira: Luana Lopes Lara diz no Web Summit que Kalshi quer chegar ao Brasil e promete diálogo com governo após veto Izabel acrescentou que mais da metade dos unicórnios (startups que superam avaliação de mercado de US$ 1 bilhão) nos EUA foram construídos por empreendedores imigrantes e que os brasileiros estão indo para lá em maior volume, mesmo com as restrições do governo de Donald Trump à imigração. Grande demais para sair daqui Por sua vez, Marcelo Gonzalez, da DOMO VC, ressaltou que é preciso haver adaptação da vontade do empreendedor de se tornar internacional, o que representa um teste mais agudo de competitividade. Para ele, isso é “o mais difícil de encontrar no Brasil”: — Em geral, os empreendedores brasileiros dizem que o Brasil é grande o suficiente e não têm ambição de serem globais, ou às vezes simplesmente não têm a preparação ou educação certa para isso. É um espécime muito raro. Se você olhar o número de empresas internacionais de tecnologia fora do Brasil, talvez sejam 10 ou 12. Todos esses empreendedores são muito especiais. Não que quem não queira ir não seja especial. Temos empresas incríveis que são grandes o suficiente no Brasil. Mas é necessário algo diferente, que é essa ambição de realmente cruzar limites. Initial plugin text Lima, por outro lado, alertou para a alta incidência de casos de empresas tentaram expandir seus limites e falharam. Cada passo precisa ser bem calculado. — Geralmente o questionamento que trazemos aos fundadores é que você precisa provar seu conceito em pelo menos um lugar, caso contrário, a complexidade de atacar três ou quatro mercados simultaneamente será muito difícil. Você precisa priorizar quando fará isso — afirmou. — Temos um cemitério de empresas na América Latina que tentaram ir além de um país e falharam. Marcelo Lima, sócio da Monashees, fala no Web Summit Rio 2026 Lucas Tavares/Especial para O Globo Ele explica que o tamanho da economia brasileira acaba deixando os empreendedores mais confortáveis no mercado doméstico. O mesmo não acontece em outros países latino-americanos, que têm mercados mais limitados para crescer. — Se você está no Brasil, ninguém questionará o quão grande essa empresa pode ser, então geralmente as empresas brasileiras esperam mais tempo. Já empresas no Chile ou na Colômbia, se não forem globais, terão muita dificuldade em atrair capital internacional, a menos que sejam uma fintech ou foquem em um mercado muito grande — afirmou Lima. Web Summit Rio 2026: Brasil corre risco de ficar dependente de IA estrangeira, alertam especialistas Lições e mitos Dos casos de sucesso às histórias de fracasso sobre o tema de se tornar global, extraem-se lições e surgem alguns mitos, que foram abordados pelos convidados no painel do último dia do Web Summit Rio 2026. Izabel destacou a resiliência dos empreendedores latinos, em média, “muito mais resilientes do que os de outros países”: -- Historicamente, não há muita liquidez ou dinheiro disponível na América Latina, então você tem que fazer muito com pouco. Essa é uma força que podemos exportar para sobreviver e prosperar em diferentes geografias. Mas não acho que ser global seja extremamente simples. É preciso ter fundamentos. Você deve pensar bem e garantir que tem um bom motivo não apenas para atuar no exterior, mas para ter a chance de vencer com seus atributos e modelo de negócio. Contra o 'mito do mercado grande' Para Gonzalez, as soluções criadas no Brasil, ainda que locais, precisam ter o contexto global: — Se existe um mito é o de que o Brasil é grande o suficiente e que impede as empresas de pensarem globalmente. Às vezes, as soluções são muito brasileiras ou muito latino-americanas. Isso é bom, mas se você está em Israel, Chile, Equador ou Colômbia, precisa ser global desde o primeiro momento. Mercados pequenos geram empresas pequenas, então você precisa buscar um mercado grande. O mito do mercado grande é o que impede os brasileiros de crescerem internacionalmente. Por outro lado, ele observou que, se a empresa decide se internacionalizar e começa a ter parte da receita em dólares no exterior, fica mais valorizada, mas isso pode ser uma armadilha que acomoda o empreendedor, achando que já é \"grande o suficiente\". Para Marcelo Lima a decisão de internacionalizar um negócio deve vir após uma série de considerações. E citou algumas: — Se o empreendedor faz isso apenas para fins de financiamento e não por ambição ou capacidade de expandir o produto, geralmente vai falhar. Outro ponto é priorizar. Por vezes, decide ir para o México e envia alguém júnior da equipe. Ou você coloca um fundador e gasta o tempo certo priorizando, ou será muito difícil ter sucesso. Anos atrás, empresas no Brasil pensariam naturalmente na Argentina primeiro. Depois talvez no México, que é longe, quase como os EUA. Agora vemos fundadores incríveis pensando que o trabalho para ir ao México às vezes é o mesmo que ir para os EUA, então decidem se provar lá. Não é para todas as empresas, depende do modelo de negócio, mas é um aprendizado natural. Ele destacou o aumento da experiência internacional dos executivos brasileiros: — Há 15 anos, quando uma empresa do portfólio decidia ser global, tentávamos contratar alguém com essa experiência no Brasil e havia pouquíssimas pessoas. Hoje temos mais conhecimento e experiência, o que tornará isso mais comum no futuro. Ambiente desfavorável Mas o caminho do sucesso ainda enfrenta algumas barreiras, a mediadora lembrou que algumas startups latino-americanas são avaliadas abaixo de startups similares dos EUA, no Vale do Silício e até da Índia. Gonzalez explicou que há exceções, mas em geral as empresas latino-americanas têm que ser avaliadas a um valor muito menor do que qualquer empresa americana ou europeia porque o ambiente de venture capital é diferente. — Eles têm IPOs (oferta pública incial de ações em Bolsa, uma forma como fundos de venture capital podem sair de um negócio com lucro), séries C, D, E, e nós, não. No fim das contas, a empresa aqui deve fazer muito mais com muito menos por muito mais tempo. Empresas com acesso a capital que podem crescer mais rápido terão melhores avaliações. Um dos erros que cometemos como mercado nestes 15 anos é nos compararmos aos Estados Unidos. Não somos os EUA, e nosso capital de risco será fundamentalmente diferente, terá que ser \"tropicalizado\". Uma forma de saída dos investidores de risco mais usada no Brasil é por meio de fusões e aquisições (M&amp;A, na sigla em inglês), o que na avaliação do especialista acaba reduzindo a avaliação de mercado dos cardápio de negócios disponíveis. Exportação de talentos Por outro lado, Maria Luiza Filgueiras lembrou que há muitas empresas globais de tecnologia contratando talentos na América Latina, inclusive via teletrabalho, indagando o impacto para as empresas locais. Izabel destacou que a oferta dos salários em dólares ou euros para um custo de vida em reais torna essa disputa mais acirrada. — Algumas de nossas empresas focadas em IA e tecnologia perdem talentos para empresas nos EUA ou Europa por causa dessa discrepância. Talvez a cultura, o fato de estarem juntos em um escritório e terem uma proposta de valor de proximidade possa, de alguma forma, diminuir essa lacuna, mas veremos com o tempo — concluiu. A cobertura do Web Summit Rio 2026 na Editora Globo é apresentada pelo Itaú. Initial plugin text",
-      "url": "https://oglobo.globo.com/rio/web-summit-rio/noticia/2026/06/12/o-mundo-nao-e-para-todos-para-investidores-startups-latino-americanas-precisam-se-preparar-para-a-internacionalizacao.ghtml",
-      "published": "2026-06-12T18:50:37+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Academias"
-      ],
-      "matched_aliases": [
-        "gympass"
-      ],
-      "matches": [
-        {
-          "sector": "Academias",
-          "alias": "gympass",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "IPOs trilionários reforçam apostas na elite da IA",
-      "summary": "A lista de IPOs trilionários, com Anthropic e OpenAI na sequência da SpaceX, avaliada em US$ 1,8 trilhão, não deve inflar de forma generalizada o valuation de startups de IA, mas pode trazer impacto se houver forte correção após as listagens. Estudo do JP Morgan mostra que os preços dos mega IPOs da última década caíram, em média, 32% um ano após a listagem. A Meta, dona de Facebook, Instagram e WhatsApp, chegou a cair 50% meses após a listagem e levou um ano para voltar a negociar nos níveis do IPO. Alibaba, dono da AliExpress, acumulou perda de 30% no ano após a estreia. Estreia da SpaceX mexe com regras de índices acionários No IPO da SpaceX, meio bilhão de dólares em comissão para bancos A OpenAI, que tem a Microsoft como acionista, entrou com pedido para listagem nos Estados Unidos mirando um valor de mercado de US$ 1 trilhão. A Anthropic foi avaliada em US$ 965 bilhões na rodada série H realizada neste ano, que atraiu players de infraestrutura e fornecedores de IA como Amazon, Google, Microsoft, Samsung, SK Hynix e Micron. Casos como o da fabricante de tênis Allbirds, cujas ações chegaram a subir 580% em abril, após o anúncio de que a companhia estaria pivotando para infraestrutura de IA podem sugerir que há uma bolha no mercado, explica o investidor-anjo Zuca Palladino, cofundador e sócio-diretor da operação norte-americana do grupo Woke. Anthropic: Amazon, Google, Microsoft Azure e Samsung investiram na empresa Bloomberg “A empresa vendeu todo o estoque de calçados por US$ 39 milhões e mudou de nome para NewBirdAI, mas ela não fez qualquer movimento para mostrar uma estratégia concreta para o negócio”, o que resultou no derretimento das ações, ele conta. Para Palladino, que tem negócios na economia criativa, o que está acontecendo do mercado é uma onda de FOMO, o “medo de ficar de fora”, em que os investidores entram na onda, mas depois os fundamentos prevalecem. Anthropic passa na frente da OpenAI em corrida à bolsa “O sucesso dessas ofertas não vai criar um hype para investir em startups de IA. Vejo os investidores ainda muito seletivos”, diz o sócio-diretor da Valor Capital, Pablo Alencar, que descarta um aumento generalizado de valuations de empresas de IA como visto em 2021 com a indústria de venture capital, a começar pelo cenário de juros mais altos e medo de inflação devido à guerra no Irã. Para Alencar, companhias como a SpaceX, Anthropic e OpenAI devem concentrar os investimentos porque, mais do que a tecnologia, eles têm como vantagem competitiva o acesso à infraestrutura – maior gargalo da indústria –, com energia, chips de última geração e armazenamento de dados em nuvens. Não à toa, a Alphabet, dona do Google, ficou com 7% da SpaceX antes do IPO. Anthropic, do Claude, ultrapassa OpenAI e vira maior startup de IA X, a fábrica de ‘moonshots’ da Alphabet A receita anual da Anthropic pulou de US$ 14 bilhões para US$ 47 bilhões entre fevereiro e maio. Focado em empresas, o Claude leva vantagem sobre os maiores provedores de nuvem – Microsoft Azure, Google Cloud Vertex e AWS Bedrock – por permitir operar com os três simultaneamente. Enquanto isso, a OpenAI, ganhou o varejo com o ChatGPT, mas é a empresa mais cara pelo PitchBook.",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/ipos-trilionarios-reforcam-apostas-na-elite-da-ia.ghtml",
-      "published": "2026-06-12T19:12:18+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "aliexpress"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "aliexpress",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "SoulCode leva formação em IA para o WhatsApp para alcançar populações excluídas da transformação digital",
-      "summary": "Os fundadores da SoulCode: Fabricio Cardoso, diretor geral, Silvio Genesini, cofundador e conselheiro, e Carmela Borst, CEO Divulgação De acordo com o Banco Mundial, apenas 3% da população brasileira tem competências digitais avançadas, um dos índices mais baixos da América Latina. Com o objetivo de ajudar na transformação dessa realidade, a SoulCode Academy apresentou, na última terça-feira (9), durante o Web Summit Rio 2026, uma metodologia de letramento digital e inteligência artificial projetada para funcionar inteiramente pelo WhatsApp. O programa usa trilhas de aprendizagem adaptadas ao nível de cada participante e tem como peça central a Eva, tutora virtual desenvolvida pela SoulCode. A metodologia já foi aplicada em iniciativas de diferentes escalas: o CorrePlay, por exemplo, implementado em parceria com o iFood, formou mais de 5 mil entregadores em desenvolvimento de games em duas semanas; o SoulCode Kids leva o programa a crianças e adolescentes de 7 a 12 anos em organizações sociais em São Paulo e Minas Gerais. O público-alvo da iniciativa passa por mulheres empreendedoras, artesãs, agricultoras, pescadoras, marisqueiras, quilombolas e jovens de periferias. Ao todo, a empresa contabiliza mais de 210 mil pessoas impactadas, 8,5 mil profissionais inseridos no mercado e R$ 842 milhões movimentados na economia por geração de renda e empregabilidade. Fabricio Cardoso, cofundador e diretor geral da SoulCode Academy, contou mais detalhes sobre o projeto à Época NEGÓCIOS. Fabrício Cardoso, cofundador e Diretor-Geral da SoulCode Divulgação ÉPOCA NEGÓCIOS — Como o programa funciona, na prática? O que o usuário vai aprender em cada etapa, e o que se espera da aprendizagem dos participantes? FABRICIO CARDOSO — O Brasil está entre os países com menor nível de competências digitais da América Latina, segundo o relatório Conectados: Tecnologias Digitais para a Inclusão e o Crescimento, do Banco Mundial. Mais do que ampliar o acesso à tecnologia, o desafio é desenvolver competências digitais e letramento em Inteligência Artificial, habilidades cada vez mais essenciais para a sociedade atual. Por isso, utilizamos o WhatsApp, ferramenta já presente na rotina da maioria dos brasileiros, como um dos canais de aprendizagem. Na jornada de letramento digital em IA, os conteúdos foram desenvolvidos para qualificar os participantes a compreender o funcionamento da inteligência artificial, explorar aplicações práticas no dia a dia e utilizar essas ferramentas de forma consciente, crítica e produtiva, ampliando sua possibilidade de geração de renda e participação na sociedade digital. Um dos principais diferenciais da nossa metodologia é a personalização da aprendizagem, com trilhas adaptadas aos objetivos de cada parceiro e ao nível de conhecimento dos participantes. NEGÓCIOS — Considerando que o público-alvo do projeto é composto, em grande parte, por pessoas em condição de vulnerabilidade social, como implementar o programa sem torná-lo um peso financeiro para seus participantes? CARDOSO — Uma pesquisa da Opinion Box revelou que 99% dos celulares com acesso à internet no Brasil têm o WhatsApp instalado. Além disso, diversas operadoras oferecem acesso ao aplicativo sem consumo da franquia de dados, o que amplia ainda mais seu alcance. Esse cenário foi determinante para a escolha do WhatsApp como um dos canais da nossa plataforma de ensino. Ao utilizar uma ferramenta já presente no dia a dia das pessoas, facilitamos o acesso ao aprendizado e ampliamos o alcance da formação para públicos que, muitas vezes, ficam à margem dos processos de transformação digital. Além disso, todos os programas feitos com clientes e parceiros da SoulCode são 100% gratuitos e as jornadas também utilizam ferramentas amplamente acessíveis, muitas delas com versões gratuitas, como Gemini, Copilot, ChatGPT e a IA do WhatsApp, para que os participantes possam continuar aprendendo e aplicando os conhecimentos adquiridos sem custos adicionais. NEGÓCIOS — A Eva é um modelo de linguagem proprietário, desenvolvido do zero pela SoulCode, ou utiliza a infraestrutura de outro modelo existente? CARDOSO — A Eva, nossa tutora virtual, utiliza a infraestrutura do Google Gemini e combina essa capacidade com uma camada de inteligência pedagógica desenvolvida pela SoulCode. O diferencial está na personalização da experiência de aprendizagem: a Eva foi projetada para atuar como tutora digital, utilizando conteúdos curados e metodologias próprias da SoulCode para oferecer interações mais relevantes, seguras e alinhadas aos objetivos de cada jornada educacional. NEGÓCIOS — Como foi a jornada de aprendizagem dos participantes nos outros projetos desenvolvidos pela SoulCode, como o CorrePlay? CARDOSO — Os participantes foram convidados a ingressar no programa por meio do próprio aplicativo de entregas e direcionados para uma jornada de aprendizagem personalizada. Aqueles com maior familiaridade em tecnologia e IA puderam seguir diretamente para o LMS da SoulCode, com conteúdos mais técnicos. Já os demais iniciaram sua formação pelo WhatsApp, desenvolvendo competências de letramento digital e literacia em IA antes de avançar para as etapas mais especializadas. Dessa forma, cada participante pôde aprender a partir do seu nível de conhecimento e evoluir no próprio ritmo. A metodologia foi estruturada para tornar o aprendizado acessível e compatível com a rotina dos entregadores e entregadoras, permitindo que cada aluno avançasse no seu próprio ritmo. Como resultado, muitos alunos desenvolveram seu primeiro jogo digital e tiveram contato prático com a área. NEGÓCIOS — E no caso do SoulCode Kids, qual foi o formato adotado? CARDOSO — Com o SoulCode Kids, crianças e adolescentes de 7 a 12 anos têm contato responsável com a tecnologia. A iniciativa vem sendo implementada em organizações sociais como a Fundação Crescer Criança, o Instituto Verdescola (SP) e a Associação Casa da Criança Maria Antônia (MG). O programa introduz conceitos de programação, desenvolvimento web e inteligência artificial de maneira progressiva. A gamificação é utilizada como recurso didático para estruturar desafios, acompanhar o desempenho e estimular a evolução contínua dos alunos, mantendo foco nos resultados pedagógicos. Outro ponto de destaque é a qualificação dos professores, que não precisam ser especialistas em tecnologia. Antes do início das aulas, eles recebem treinamento completo, planos de aula detalhados e vídeos explicativos para aplicar o conteúdo com segurança e autonomia. NEGÓCIOS — Quais cuidados foram necessários na implementação do SoulCode Kids, considerando os debates atuais sobre uso de telas por crianças e o crescimento da IA? CARDOSO — As atividades são realizadas em um ambiente digital fechado, seguro e monitorado, seguindo protocolos de proteção de dados e diretrizes específicas para o público infantil. O programa integra a grade de atividades extracurriculares dos estudantes e foi desenvolvido para proporcionar uma experiência de aprendizagem responsável e adequada à faixa etária, com a jornada estruturada em etapas progressivas, permitindo o desenvolvimento gradual de competências digitais, pensamento lógico, criatividade e resolução de problemas. A cobertura do Web Summit Rio 2026 na Editora Globo é apresentada pelo Itaú. *Com supervisão de Marisa Adán Gil Mais Lidas",
-      "url": "https://epocanegocios.globo.com/especiais/web-summit/noticia/2026/06/soulcode-leva-formacao-em-ia-para-o-whatsapp-para-alcancar-populacoes-excluidas-da-transformacao-digital.ghtml",
-      "published": "2026-06-12T21:06:47+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
+        "hypera",
         "ifood"
       ],
       "matches": [
@@ -7543,9 +7552,16 @@
           "field": "body",
           "score": 2,
           "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "hypera",
+          "field": "body",
+          "score": 2,
+          "topic": null
         }
       ],
-      "score": 2.0
+      "score": 4.0
     },
     {
       "title": "Camisa do Brasil 2026: veja preços e diferenças entre os modelos oficiais Jogador e Torcedor; valor é alto...",
@@ -8368,6 +8384,190 @@
         {
           "sector": "Wellness e Esportes",
           "alias": "material esportivo",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Citi vê bancos brasileiros com tom mais defensivo",
+      "summary": "Após a conferência anual de equities com companhias brasileiras, o Citi observou que os grandes bancos adotaram um tom bem mais cauteloso do que nas edições anteriores. Diante de juros elevados e de um ambiente macroeconômico mais desafiador, as instituições financeiras têm priorizado qualidade dos ativos e rentabilidade ajustada ao risco, reduzindo o apetite por crescimento acelerado das carteiras de crédito, aponta o Citi em relatório nesta sexta-feira sobre a 18ª Citi Brazil Equity Conference. Na visão dos analistas, esse cenário favorece os bancos mais conservadores, como o Itaú Unibanco, que espera manter a inadimplência sob controle mesmo em um contexto mais adverso. O Bradesco também sinalizou uma estratégia focada em retornos ajustados ao risco, com crescimento gradual das receitas, enquanto o Santander Brasil trabalha com expansão da carteira de crédito em ritmo moderado, na faixa de um dígito médio. Banco realizou a 18a Citi Brazil Equity Conference: Divulgação O Banco do Brasil aparece como o caso de maior incerteza para perspectivas de desempenho de balanço e da ação. Segundo o relatório, a instituição aguarda definições sobre um programa governamental voltado ao crédito rural, que estaria provocando um efeito de “risco moral” entre produtores e reduzindo a visibilidade sobre a qualidade futura da carteira. Nos bancos de investimento, a avaliação é de maior resiliência. O BTG Pactual reiterou a expectativa de entregar retorno sobre patrimônio (ROE) superior a 25%, apoiado na diversificação de suas fontes de receita. Já o BR Partners afirmou manter uma forte demanda por operações de reestruturação de dívidas e segue perseguindo a meta de ROE acima de 20% neste ano, apesar da demora na conversão de alguns mandatos. Os bancos digitais continuam apresentando crescimento acima da média do setor. O Inter projeta expansão próxima de 30% em segmentos-chave ao longo do ano e espera elevar sua margem financeira líquida (NIM) para cerca de 10% até o fim de 2026, embora ainda enfrente um custo de risco elevado no curto prazo. O Nubank, por sua vez, prevê melhora gradual da rentabilidade ajustada ao risco e vê potencial impacto positivo de uma eventual segunda fase do programa Desenrola. A fintech reforçou que segue avaliando uma atuação relevante no mercado americano, mas de forma disciplinada e gradual. Para o Citi, a principal conclusão da conferência é que os bancos brasileiros continuam sólidos, mas operam sob uma lógica mais defensiva. Em vez de perseguir crescimento a qualquer custo, o setor está privilegiando preservação de rentabilidade e qualidade dos ativos. Os analistas veem instituições diversificadas como Itaú e BTG Pactual como as mais bem posicionadas para atravessar um ciclo de juros elevados.",
+      "url": "https://pipelinevalor.globo.com/mercado/noticia/citi-ve-bancos-brasileiros-com-tom-mais-defensivo.ghtml",
+      "published": "2026-06-19T16:06:50+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Google e CIEE distribuem bolsas para cursos profissionalizantes em tech",
+      "summary": "O Centro de Integração Empresa-Escola (CIEE) e o Google renovaram a parceria para o ciclo de 2026 e 2027 com a distribuição de 110 mil bolsas de estudo gratuitas para os certificados profissionais do Google. A iniciativa abrange sete trilhas de especialização on-line na plataforma Coursera, com foco em análise de dados, gerenciamento de projetos, UX design, suporte em TI, marketing e e-commerce, cibersegurança e o recém-lançado certificado profissional em inteligência artificial. As bolsas são destinadas a pessoas com 16 anos ou mais, sem exigência de conhecimento prévio nas áreas de interesse. As inscrições podem ser feitas pelo link. Os aprovados devem receber acesso à plataforma em até sete dias após o cadastro. iFood abre vagas nos modelos híbrido e remoto para todo o Brasil Formação em TI ajuda a aumentar salário de mulheres em 33% Cultura forte não se declara, se pratica Programa disponibiliza certificados em sete áreas de especialização, entre elas inteligência artificial Unsplash",
+      "url": "https://valor.globo.com/carreira/empregos-oportunidades/post/2026/06/google-e-ciee-distribuem-bolsas-para-cursos-profissionalizantes-em-tech.ghtml",
+      "published": "2026-06-19T17:00:12+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Startup capixaba de IA é avaliada em R$ 5 milhões e mira expansão nacional",
+      "summary": "A Talqui é uma plataforma de Inteligência Artificial que potencializa a comunicação de empresas com seus clientes. Ao integrar os diversos pontos de contato de clientes com empresas a Talqui permite que agentes de IA trabalhem e automatizem processos de atendimento, com uma promessa clara e objetiva: ganho de escala e eficiência sem aumentar o time. Em termos práticos, a Talqui implanta agentes de atendimento nos canais da empresa como WhatsApp, Instagram, Webchat e muitos outros e habilita agentes de IA que trabalham ao lado do time de atendimento, aprendendo com cada resposta dada pelo time humano e assim reduzindo o número de chamados que precisam de qualquer auxílio humano ao longo do tempo. Visando um ganho de escala e paralelo a um incremento de eficiência operacional, equipes de atendimento passam a ter mais tempo para dedicar a atendimentos que realmente precisam ao invés de executarem tarefas repetitivas ao longo do dia (como cotação de preços, segunda via de boletos e muito mais). Pensada por fundadores com significativo track record, ex-executivos do Grupo Primo, XP Investimentos e Natura eles afirmam que o produto Talqui foi pensado para fechar lacunas existentes no mercado entre soluções de qualidade e empresas de médio e grande porte. \"Se você tem uma empresa que fatura até R$ 10 milhões ao ano no Brasil e procura por uma solução de atendimento, muito provavelmente você vai acabar contratando uma ferramenta importada, ou no pior dos casos nem contratando nada pois o valor para isso era até então excludente - com o ganho de escala da IA nós passamos a conseguir proporcionar esse tipo de tecnologia a todos os tamanhos de empresa, a um preço justo e democrático\" - João Miranda, CEO. A Talqui proporciona acesso a tecnologia de ponta, a poucos cliques de distância para qualquer tamanho de negócio, e destaca que diferente da percepção comum a intenção da inteligência artificial nesta aplicação não é a completa substituição do time de atendimento humano, em poucas palavras \"A IA não vai tirar o trabalho de ninguém\" por outro lado ela vai exigir profissionais mais capacitados para trabalharem em contato constante com ela, passando de uma simples ferramenta de chat para um companheiro virtual de trabalho, trocando informações, executando operações repetitivas e facilitando o dia a dia daqueles que atuam no contato direto com clientes. \"É como se você tivesse um estagiário na sua equipe de atendimento, que não tira folga, não fica doente e ainda tem a capacidade de lidar com qualquer que seja o volume de chamados que você tiver.\" - Thomaz Krause, COO. Além de proporcionar uma ferramenta de IA poderosa para respostas autônomas a Talqui integra-se ao atendimento já existente da empresa ao distribuir um painel de atendimento onde o time de atendimento passa a receber transferências da Inteligência Artificial, quando ela nota não ser capaz de responder a determinado questionamento ou até mesmo por solicitação do cliente, o atendimento é transferido para um operador humano e a IA passa então para o modo de acompanhamento, onde observa a solução dada pelo atendente e aprende o comportamento para o futuro. A Talqui recentemente foi chancelada por 2 gigantes do mercado, de um lado um sinal de que a tecnologia empregada na Talqui realmente está na vanguarda, sendo selecionada para o programa Microsoft for Startups, com acesso a US$ 100k. Em seguida, respaldada em território nacional pela QUARTZO CAPITAL em parceria com a ACE VENTURES, recebendo aporte financeiro ao valuation de R$ 5 milhões dos mesmos investidores de ASAAS ( Plataforma digital para pagamentos e cobranças ) TakeEat ( Suíte digital para restaurantes ) e Housi ( Plataforma de Real Estate ). O IMPACTO PARA O ESPÍRITO SANTO Até pouco tempo atrás, havia uma guerra entre Estados (querendo cobrar ICMS) e Municípios (querendo cobrar ISS) sobre softwares. O STF pacificou o entendimento: softwares (seja SaaS, licenças ou plataformas de IA) pagam estritamente ISS (Imposto Sobre Serviços), que é um tributo municipal. O Espírito Santo historicamente tem forte arrecadação industrial, portuária e de commodities (petróleo, celulose, café), mas o setor de tecnologia/SaaS está em plena rampa de aceleração. Cidades do interior como Linhares ganham uma relevância fiscal absurda com empresas de tecnologia de alcance nacional. Uma empresa de SaaS que fatura nacionalmente, mas emite nota com o ISS retido no interior do ES, gera um impacto proporcional na receita municipal muito maior do que se estivesse em uma capital saturada. Empresas como a Talqui representam a transição da matriz econômica do Espírito Santo: saem as commodities físicas pesadas e entra a exportação de inteligência de valor agregado para o restante do Brasil, deixando o principal imposto de serviço (ISS) e o desenvolvimento socioeconômico ancorados na região. NÚMEROS QUE FALAM POR SI SÓ A Talqui já opera em escala nacional: Presença em 20 dos 27 estados do Brasil (74% de cobertura nacional); Mais de 100 milhões de mensagens únicas transacionadas ao longo da trajetória; Mais de 85 mil contatos únicos atendidos em todo o território nacional. (Todos os números estão disponíveis para auditoria, caso necessário.) \"Desenvolver sistemas de inteligência artificial é uma ciência inexata, nós precisamos não só lidar com as questões técnicas para entrega do produto, mas também gerenciar a expectativa dos clientes. Acreditamos que cada mensagem importa e por isso nossos sistemas monitoram cada atendimento de maneira não invasiva, coletando dados e aprendizado que retornam ao cérebro da IA e se transformam em conhecimento e correção para futuros atendimentos, como em uma engrenagem que aprende sozinha e se torna mais inteligente a cada mensagem\" - Henrique Lopes, CTO Recentemente a Talqui atingiu taxa de crescimento mês-a-mês superior a 10% (MoM > 10%) sinalizando aos investidores e clientes de que o produto está em fase de plena tração e galgando posições para se consolidar como uma alternativa nacional a tecnologia de ponta. Henrique ressalta ainda que não há barreira de mercado para esse tipo de produto, \"Se a sua empresa presta atendimento ao cliente, especialmente no WhatsApp, então esse produto é pra você\". FEITA POR PESSOAS João Miranda: João Vitor Miranda (LINKEDIN), CEO da Talqui, capixaba, nascido em Linhares no Espírito Santo, desenvolvedor de software autodidata desde os 12 anos de idade. Com trajetória notável pela WebSIA (2018) e XP Investimentos (2019), a partir de 2022 João se tornou sócio no Grupo Primo Rico ao lado de nomes como Thiago Nigro e Bruno Perini, sendo líder técnico do setor de tecnologia e construindo sistemas de larga escala como Finclass e Staage para mais de 20 milhões de usuários ao mês. Na Talqui João é responsável pelo sucesso do negócio, atuando em diversas frentes como negócios, tecnologia e produto. Thomaz Krause: Thomaz Krause (LINKEDIN), COO da Talqui, possui vasta experiência como empreendedor no setor de tecnologia, tendo fundado uma agência de marketing digital em 2001 e desenvolvido mais de 200 projetos para marcas renomadas. Com passagens pela XP Investimentos como Product Manager, liderando iniciativas de automação e IA no atendimento ao cliente, Thomaz é responsável por operações, vendas e relacionamento com investidores na Talqui. Ele garante que a visão estratégica do negócio esteja alinhada com as inovações tecnológicas da empresa, conduzindo a expansão da plataforma no mercado de forma estruturada e eficiente. Henrique Lopes: Henrique Pires Lopes (LINKEDIN), CTO da Talqui, com trajetória passando por grandes players do mercado como Natura, Grupo Primo e Bluma. Ao longo de sua trajetória Henrique colheu aprendizados que fomentam a base técnica da Talqui e conduzem o time na direção de um produto com qualidade internacional, aplicando o que há de mais novo em termos técnicos e atingindo resultados cada vez mais equiparáveis a soluções de reconhecimento internacional. Na Talqui Henrique lidera o time de desenvolvimento e implementa inovações de produto que os diferenciem do mercado comum. Colaboradores: A Talqui conta ainda com mais 6 colaboradores espalhados por diversas regiões do Brasil, tendo como principal atribuição time de engenharia e vendas formando uma equipe enxuta, mas muito técnica, o que assina mais uma característica marcante de empresas desta natureza e segmento.",
+      "url": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/06/19/startup-capixaba-de-ia-e-avaliada-em-r-5-milhoes-e-mira-expansao-nacional-1.ghtml",
+      "published": "2026-06-19T18:53:15+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Entidade critica acordo entre Apple e Cade que 'abre' o iPhone: 'Não cria ecossistema competitivo'",
+      "summary": "A Coalition for App Fairness (CAF), entidade que reúne desenvolvedores de aplicativos, empresas de tecnologia e grupos de defesa do consumidor, criticou o acordo entre a Apple o Conselho Administrativo de Defesa Econômica (Cade), que abriu o iPhone para lojas de aplicativos e sistemas de pagamentos de terceiros nesta quinta (18). Para o grupo, que tem por trás nomes como Epic Games, do jogo Fortnite, Spotify e Deezer, as mudanças não criam um ecossistema de aplicativos verdadeiramente aberto e competitivo e mantém a Apple em posição de vantagem injusta no mercado brasileiro. A nota do grupo emitida nesta sexta (19) diz: \"Os termos anunciados pela Apple, após a investigação conduzida pelo Cade, não criam um ecossistema de aplicativos aberto e competitivo no Brasil. Desenvolvedores que optam por distribuir seus aplicativos por lojas alternativas ou oferecer meios de pagamento fora da App Store são penalizados por essa escolha por meio de taxas elevadas e exigências excessivas de rastreamento e monitoramento. A política continua garantindo à Apple uma vantagem injusta e limita a inovação no mercado de lojas de aplicativos ao impor uma nova e significativa cobrança sobre as transações comerciais”. O processo que levou ao acordo entre o órgão e a dona do iPhone teve início em 2022, a partir de uma denúncia feita pela Ebazar.com.br e pelo Mercado Livre, que apontaram um possível abuso de posição dominante no mercado de distribuição de aplicativos para dispositivos iOS. Homologado em dezembro, o acordo previa multa de até R$ 150 milhões e retomada das investigações caso não fosse cumprido pela Apple. Entre os pontos de crítica do grupo estão a manutenção de taxas para desenvolvedores, que considera \"anticompetitiva\" uma taxa de 15% sobre transações de bens e serviços digitais realizadas por meio de sites acessados a partir dos aplicativos. O grupo diz que a taxa encarece produtos e serviços para os consumidores brasileiros, ao mesmo tempo em que mantém para a Apple níveis de receita próximos aos anteriormente praticados. \"Se a empresa consegue operar sem essas taxas nos Estados Unidos, por que elas ainda são consideradas necessárias no Brasil?\", diz o comunicado. Pelo acordo, as taxas da Apple no Brasil para seus sistemas de pagamentos ficarão da seguinte forma: 15% a 26% para quem continuar integralmente com os serviços da companhia, 10% a 21% para quem continuar na App Store e usar sistemas alternativos de pagamentos embutidos no app, 10% a 15% para quem continuar na App Store e usar pagamentos fora do app e 5% para quem usar loja e pagamento alternativos. Outro ponto de discórdia é a exigência para processo básico de revisão de aplicativos para mitigação de riscos, chamado de \"Notarização\", imposto pela Apple. Segundo executivos da gigante, a abertura do iPhone pode trazer conteúdos arriscados e questionáveis para os usuários. A CAF diz: \"Embora mecanismos de segurança sejam importantes, a questão central é saber se esses requisitos serão aplicados de forma transparente, objetiva e proporcional. Se os critérios de aprovação forem excessivamente restritivos, subjetivos ou onerosos, eles podem criar barreiras que limitam a capacidade de lojas de aplicativos alternativas e canais de distribuição competirem de forma efetiva\". Por fim, o grupo também questiona a paridade técnica entre Apple e outros apps. Segundo o CAF, a companhia não anunciou medidas para garantir condições técnicas equivalentes entre seus próprios serviços e os de terceiros. \"Sem essa paridade, a abertura regulatória pode coexistir com barreiras técnicas relevantes\", afirma o grupo. Procurados, Apple e Cade não vão se manifestar. No entanto, executivos da gigante já afirmaram à reportagem que acordos como o do Cade ou determinações como a Lei de Mercado Digitais (DMA) da Europa \"não beneficiam ninguém, exceto um punhado de desenvolvedores muito grandes\". Em 2024, o DMA obrigou a Apple a abrir seu sistema para métodos alternativos de pagamentos, primeira vez que uma disputa desse tipo envolveu Apple, Epic Games e Spotify. No ano passado, a Apple perdeu uma batalha judicial nos EUA contra a Epic Games, que processou a dona do iPhone em 2020 para que permitisse métodos alternativos de pagamentos em seus sistemas. Epic Games também faz críticas Além da CAF, a Epic Games também emitiu um comunicado independente nesta quinta (18) no qual também critica o acordo brasileiro. \"Projetados intencionalmente para impedir a concorrência, os termos e as taxas abusivas da Apple desestimulam os desenvolvedores a distribuir seus aplicativos fora da App Store e a oferecer opções alternativas de pagamento. Isso significa que os consumidores não terão acesso a ofertas especiais fora da App Store e provavelmente enfrentarão um fluxo oneroso de instalação de lojas de aplicativos de terceiros similar ao que a Apple exige no Japão\". O estúdio afirou que vai continuar trabalhando autoridades do Brasil para \"abrir o ecossistema de aplicativos móveis\". Por fim, concluiu que vai levar ao iPhone sua própria loja de aplicativos, o que significa a volta de Fortnite aos iPhones de gamers brasileiros. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/06/entidade-critica-acordo-entre-apple-e-cade-que-abre-o-iphone-nao-cria-ecossistema-competitivo.ghtml",
+      "published": "2026-06-19T19:39:43+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Ibovespa oscila bastante e termina estável com  movimento de blue chip, em dia de vencimento de opções",
+      "summary": "Uma forte volatilidade marcou a sexta-feira na bolsa local. Diante do vencimento de opções sobre ações e da menor liquidez nos mercados locais devido ao feriado de “Juneteenth” nos Estados Unidos, o Ibovespa teve dificuldade de adotar uma tendência única e variou entre perdas e ganhos ao longo da sessão até encerrar estável (+0,03%), aos 168.334 pontos. Na semana, o índice cedeu 1,64%. Durante a tarde, o Ibovespa chegou a tocar os 168.787 pontos, mas devolveu parte do avanço perto do fechamento. A nova rodada de deterioração dos juros futuros, que ampliaram a alta após o comunicado considerado mais “dovish” (inclinado ao afrouxamento monetário) do Comitê de Política Monetária (Copom) da última quarta-feira, ajudou a afastar o índice do melhor momento do dia, juntamente com o desempenho misto de blue chips. Após oscilar bastante durante o pregão, ações de bancos terminaram a sessão em direções opostas: as units do Santander responderam pelas maiores altas, de 0,60%; já as PN do Itaú Unibanco lideraram as perdas, com queda de 0,80%. Blue chips de commodities também fecharam mistas. As ações da Vale subiram 1,01%; as PN da Petrobras recuaram 0,13%, enquanto as ON subiram 0,49%, o que pode indicar compra do papel por parte de investidores estrangeiros. Hoje, as cotações do petróleo chegaram a cair após a notícia de que Israel e Hezbollah concordaram com um cessar-fogo a partir das 16h de hoje, mas voltaram a subir em meio às dúvidas sobre as próximas negociações entre Estados Unidos e Irã depois que as tratativas previstas para hoje na Suíça foram canceladas. Em meio a um cenário de incertezas sobre os desdobramentos no Oriente Médio e de manutenção das pressões inflacionárias, um dos setores preferidos de analistas para se posicionar neste momento é o de seguradoras brasileiras. É o que aponta a equipe de ações do Citi, após conferência realizada pelo banco nesta semana com profissionais que cobrem vários setores, com exceção de bancos. “De um lado, percebemos uma preferência dos investidores por seguradoras, dada a sua resiliência em ambientes de altas taxas de juros. De outro, houve um menor interesse em ações de mercados de capitais, devido à falta de gatilhos claros”, destaca a equipe. “Já no setor de pagamentos, observamos maior aversão ao risco, impulsionada pelos desafios no crescimento do volume total de pagamentos (TPV) e pelos impactos negativos nas despesas financeiras decorrentes das expectativas de taxas de juros mais altas”, acrescentaram os profissionais. Entre as seguradoras, a equipe do Citi diz que o crescimento dos prêmios rurais dentro da BB Seguridade permanece “desafiador”, além do que pode haver alguma pressão do El Niño no segundo semestre. Já a Porto Seguro deve apresentar um trimestre positivo, com um aumento dos prêmios de seguros de automóveis, na avaliação da equipe do Citi. Ainda que a empresa possa sofrer alguma pressão em termos de sinistralidade como um todo, os profissionais afirmam que o indicador do segmento de saúde pode surpreender positivamente. Sobre o IRB (Re), a casa disse que a companhia deve continuar a girar em torno de oportunidades de crescimento (resseguros internacionais e novas seguradoras locais), mantendo também o foco em despesas e eficiência. As maiores quedas no pregão hoje ficaram para as ações da Minerva, que cederam 5,12%, estendendo a queda dos últimos dias. Já na ponta contrária, as ações da Azzas 2154 lideraram os ganhos, com 8,33%. Hoje, o volume financeiro negociado pelo Ibovespa chegou a R$ 20,2 bilhões e a R$ 27,4 bilhões na B3. Embora o feriado nos Estados Unidos tenha mantido os mercados por lá fechados e ajudado a reduzir a liquidez dos ativos domésticos, o vencimento de opções sobre ações na bolsa local fez com o giro não fosse tão pequeno.",
+      "url": "https://valor.globo.com/financas/noticia/2026/06/19/ibovespa-oscila-bastante-e-termina-estavel-com-movimento-de-blue-chip-em-dia-de-vencimento-de-opcoes.ghtml",
+      "published": "2026-06-19T20:25:47+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Padilha critica ex-presidente Jair Bolsonaro e ex-governador Romeu Zema",
+      "summary": "As cerimônias de anúncio de investimentos de R$ 89,3 milhões no Hospital Luxemburgo, em Belo Horizonte, e de inauguração do Hospital Universitário Regional da Universidade Federal de São João del-Rei (UFSJ), em Divinópolis (MG), foram marcadas por críticas ao ex-presidente Jair Bolsonaro (PL) e ao ex-governador Romeu Zema (Novo), feitas sobretudo pelo ministro da Saúde, Alexandre Padilha. O presidente Luiz Inácio Lula da Silva (PT), por sua vez, apresentou-se de maneira mais informal, tirando fotos, conversando e abraçando o público durante as cerimônias. Nos dois eventos, o presidente interagiu com crianças após discursar. Lula fez discursos defendendo investimentos na saúde e na educação, citando programas como o Agora Tem Especialistas, Farmácia Popular, Pé de Meia e Desenrola Fies. Padilha adotou tom mais crítico em seu discurso. Sem citar Bolsonaro nominalmente, fez referência ao ex-presidente em suas críticas. \"Vimos presidente da República fazendo propaganda de remédio que não funciona, querendo acabar com o Mais Médicos, presidente chamando universidade federal de 'balbúrdia'. Quero ver se esse presidente, se um dia sair de onde está, vai ter coragem de vir aqui neste hospital, de uma universidade federal\", afirmou Padilha. O ministro acrescentou que, em 2022, durante o governo Bolsonaro, a União transferiu R$ 6,8 milhões para Minas Gerais. Na gestão Lula, os valores ultrapassam R$ 10 bilhões. Padilha também fez críticas ao ex-governador de Minas Gerais e pré-candidato à presidência da República Romeu Zema (Novo). O Hospital Universitário Regional da Universidade Federal de São João del-Rei foi construído com recursos do acordo de reparação da Vale pelo rompimento da barragem de Brumadinho. Os recursos foram geridos pelo governo de Minas Gerais. Em janeiro deste ano, o hospital, que era estadual, foi doado para a Universidade Federal de São João del-Rei, pré-requisito para que o governo federal pudesse assumir o hospital. \"O senhor, presidente, está aqui, no estado de Minas Gerais, que tem um governador que saiu agora dizendo que vai ser candidato a alguma coisa, um governador que teve uma postura, inclusive, diferente dos mineiros, o povo mineiro sempre foi muito educado, cordial. Ele fez qualquer tipo de comentário absurdo em relação ao nosso governo, ao nosso país, chegou a bater continência para presidente de outro país, quando esse presidente de outro país começou a afetar o Brasil com as suas tarifas. E o senhor passa por cima de tudo isso, vem aqui e põe para funcionar um hospital que foi construído por ele, mas quem bota para funcionar é o presidente Lula. Tijolo não salva a vida de ninguém\", afirmou Padilha. \"Para o presidente, o mais importante não é o governador, se ele come banana com casca ou não. O importante é o povo de Minas Gerais\", acrescentou o ministro. O ministro dos Transportes, Georges Santoro, também comparou os governos, dizendo que, quando Lula assumiu, as condições das rodovias em Minas Gerais eram das piores da história do Estado, e que agora, 65% estão em condições boas ou ótimas. \"Nós temos R$ 77 bilhões contratados em investimentos em Minas Gerais, incluindo duplicações, aumento de capacidade, passagens urbanas em todo o Estado de Minas Gerais. O governo passado investiu pouco mais de R$ 2 bilhões de reais\", comparou. Durante o evento, o ministro assinou um aviso e licitação para a contratação da Travessia Urbana de Divinópolis na BR-494, com investimento de R$ 19,5 milhões.",
+      "url": "https://valor.globo.com/politica/noticia/2026/06/19/padilha-critica-ex-presidente-jair-bolsonaro-e-ex-governador-romeu-zema.ghtml",
+      "published": "2026-06-19T22:13:49+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "LYNK Markets e iCapital® lançam ETN Privado com Pantheon",
+      "summary": "A iCapital, empresa global de fintech, juntamente com a LYNK Markets, uma plataforma fintech que impulsiona a distribuição de mercados privados na América Latina, anunciou no dia 1° de junho de 2026 o lançamento de um Exchange-Traded Note (ETN) Privado em colaboração com a Pantheon, uma gestora global de mercados privados. Este lançamento marca o primeiro ETN Privado introduzido com a Pantheon como a primeira gestora na plataforma. Representa o passo inicial em um arcabouço mais amplo por meio do qual iCapital e LYNK Markets pretendem implementar soluções adicionais de ETNs Privados em colaboração com outras gestoras de ativos. Ao combinar o marketplace global e a plataforma operacional da iCapital com a infraestrutura de ETN Privado da LYNK Markets, juntamente com a expertise da Pantheon em investimentos e gestão de portfólios de private equity em escala global, a iniciativa estabelece um arcabouço escalável projetado para apoiar ofertas futuras e uma distribuição internacional mais ampla de estratégias de mercados privados. O ETN Privado investe na estratégia evergreen internacional de private equity da Pantheon e aproveita a infraestrutura tradicional de mercado para simplificar o onboarding, a administração e o reporting. Embora as subscrições e resgates sigam o calendário mensal e trimestral do fundo, a estrutura permite que a exposição a mercados privados seja mantida e monitorada ao lado de valores mobiliários negociados em bolsa, dentro de contas de corretagem e custódia habituais, superando a complexidade operacional que historicamente limitou o acesso aos mercados privados na região, ao mesmo tempo em que preserva a disciplina de investimento subjacente e a governança da estratégia. Para as gestoras de ativos, a estrutura do ETN Privado pode facilitar a distribuição internacional sem exigir documentação de fundos duplicada, ao mesmo tempo em que amplia seu alcance por meio da infraestrutura internacional de custódia e liquidação de fundos e valores mobiliários, como Euroclear e Clearstream. Para os gestores de patrimônio e assessores, o formato oferece acesso transacional por meio de contas existentes, elimina processos de subscrição e exigências duplicadas de AML/KYC, e suporta o reporting mark-to-market por meio de sistemas de mercado padrão. Victor Mayer, sócio e diretor internacional da equipe Global de Patrimônio Privado da Pantheon, afirmou: \"Com mais de quatro décadas de experiência, a Pantheon traz um sólido histórico em investimentos em private equity. A estrutura do ETN Privado supera as barreiras operacionais históricas para a participação em mercados privados na América Latina, e nossa parceria com iCapital e LYNK Markets nos permite ampliar nosso alcance por meio de uma infraestrutura de mercado estabelecida, possibilitando que investidores elegíveis de toda a região acessem mercados privados ao lado de suas posições em valores mobiliários cotados\". Mario Rivero, CEO da LYNK Markets, declarou: \"Estamos dedicados a fortalecer a infraestrutura que sustenta os mercados privados na América Latina. Nossa colaboração com a Pantheon e a iCapital faz parte integral desse esforço mais amplo\". \"Este lançamento reflete a solidez da nossa parceria com LYNK Markets e Pantheon, e nosso foco compartilhado em oferecer soluções operacionalmente eficientes para investimentos em mercados privados\", destacou Wes Sturdevant, diretor de soluções para clientes internacionais — Américas na iCapital. \"Os ETNs Privados representam uma evolução importante na forma de acessar estratégias de mercados privados internacionalmente, oferecendo aos investidores elegíveis exposição por meio de uma infraestrutura de mercado estabelecida e suportando uma distribuição escalável de longo prazo\", completou. O lançamento ocorre após o investimento estratégico da iCapital na LYNK Markets e reflete a estratégia compartilhada das firmas para desenvolver um arcabouço escalável que expanda a distribuição internacional de futuras ofertas de ETNs Privados.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/19/lynk-markets-e-icapital-lancam-etn-privado-com-pantheon-1.ghtml",
+      "published": "2026-06-19T23:49:04+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Flávio promete manter valorização do salário mínimo e reforma da Previdência de 2019",
+      "summary": "Pré-candidato à Presidência, o senador Flávio Bolsonaro (PL-RJ) afirmou que, caso seja eleito em outubro, não deve fazer mudanças na reforma da Previdência de 2019 — possibilidade que havia sido confirmada à Folha pelo coordenador de sua campanha, Rogério Marinho (PL-RN). Flávio também disse que pretende manter a atualização do salário mínimo acima da inflação. O valor hoje é de R$ 1.621. O senador deu as declarações em entrevista ao SBT News ao ser questionado sobre se pretende \"atacar\" temas sensíveis à opinião pública. \"Não pretendo. Temos que fazer economia tampando os ralos de dinheiro público que estão escoando por parte desse governo. Quem precisa de proteção, no meu governo, vai continuar protegido. São pessoas que precisam ter um mínimo de garantia para levar dignidade para dentro das suas casas\", disse. A nova política de valorização do mínimo defendida por ele foi enviada ao Congresso pelo governo do presidente Luiz Inácio Lula da Silva (PT) em 2023. Apenas em 2022 houve um aumento real durante a gestão de Jair Bolsonaro (PL), pai de Flávio. O senador atribuiu a defasagem à pandemia da Covid-19. Em aceno ao mercado financeiro, o pré-candidato do PL também fez críticas à equipe econômica de Lula e defendeu fazer um \"tesouraço\" em impostos e ministérios, desburocratizar processos e enxugar despesas, citando medidas como a privatização de empresas estatais. \"Não tem outro caminho sem ser fazer ajuste fiscal. Fazer as despesas caberem dentro das receitas para que, o mais rápido possível, a curva de juros comece a baixar. Tem que ter um incentivo para que muitos empregos sejam gerados, para que as pessoas estejam empregadas, qualificadas para receber um salário melhor para conseguir honrar suas dívidas\", disse. \"Colocar gente competente para gerir estatais, promover privatizações. Temos quase 1 trilhão de imóveis da União que poden ser colocado em um fundo para serem geridos. O pré-sal na Margem Equatorial voltar a ser concessão\", afirmou. Questionado sobre quem eventualmente ocupará o cargo de ministro da Economia, Flávio Bolsonaro voltou a dizer que ainda não há definição em torno de um nome, mas disse que a campanha estuda \"pessoas bem posicionadas na iniciativa privada\". Em entrevista à Folha no início de março, o coordenador da campanha de Flávio elogiou o ex-presidente do Banco Central Roberto Campos Neto, tido no mercado e entre apoiadores como um dos cotados para chefiar a equipe econômica em eventual novo governo, mas ressaltou que o martelo sobre quem ocupará o cargo ainda não foi batido. Outros nomes têm sido ventilados para compor a eventual equipe de Flávio, como o ex-secretário do Tesouro Nacional Mansueto Almeida, hoje economista-chefe do BTG Pactual, o ex-presidente do BNDES (Banco Nacional do Desenvolvimento Econômico e Social) Gustavo Montezano e a ex-presidente da Caixa Daniella Marques. Vice-chairman e chefe global de Políticas Públicas do Nubank, Campos Neto disse a interlocutores que não pretende voltar para cargos públicos.",
+      "url": "https://valor.globo.com/politica/noticia/2026/06/19/flavio-promete-manter-valorizacao-do-salario-minimo-e-reforma-da-previdencia-de-2019.ghtml",
+      "published": "2026-06-19T23:51:24+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
           "field": "body",
           "score": 2,
           "topic": null
