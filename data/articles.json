@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T11:14:04.779439+00:00",
-  "count": 312,
-  "new_this_run": 3,
+  "generated_at": "2026-06-20T11:38:25.913918+00:00",
+  "count": 316,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Com chegada de concorrente, Eurofarma faz nova redução de até 48% no preço de canetas emagrecedoras",
@@ -1511,6 +1511,37 @@
       "score": 40.0
     },
     {
+      "title": "Ibovespa hoje: Azzas (AZZA3) salta com expectativa por venda da Farm; Minerva (BEEF3) afunda - Estadão",
+      "summary": "Ibovespa hoje: Azzas (AZZA3) salta com expectativa por venda da Farm; Minerva (BEEF3) afunda &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/ibovespa-hoje-azzas-azza3-salta-com-expectativa-por-venda-da-farm-minerva-beef3-afunda",
+      "published": "2026-06-19T22:07:06+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas",
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Azzas: Estudos para venda da Farm e trégua jurídica entre sócios reforçam tendência de cisão",
       "summary": "",
       "url": "https://www.estadao.com.br/economia/negocios/azzas-estudos-para-venda-da-farm-e-tregua-juridica-entre-socios-reforcam-tendencia-de-cisao",
@@ -2174,6 +2205,38 @@
           "alias": "zara",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Na escola, ele era chamado de 'abacaxi' pelas espinhas no rosto. Hoje, fatura R$ 18 mi com skincare",
+      "summary": "Com a Piny, Lucas Penteado vende 20 mil produtos por mês e prepara expansão para farmácias e lojas próprias em shoppings",
+      "url": "https://exame.com/negocios/na-escola-ele-era-chamado-de-abacaxi-pelas-espinhas-no-rosto-hoje-fatura-r-18-mi-com-skincare",
+      "published": "2026-06-20T08:15:18+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -5725,6 +5788,52 @@
         {
           "sector": "Fashion",
           "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "'Velocidade sem estratégia leva ao acidente': as 7 lições que o CEO da Vulcabras trouxe das pistas",
+      "summary": "Pedro Bartelle sonhava em ser piloto de Fórmula 1, mas mudou a rota ao entrar para o mundo corporativo. Hoje, ele lidera uma companhia de R$ 4 bilhões em receita no Brasil",
+      "url": "https://exame.com/carreira/velocidade-sem-estrategia-leva-ao-acidente-as-7-licoes-que-o-ceo-da-vulcabras-trouxe-das-pistas",
+      "published": "2026-06-20T08:01:35+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "vulcabras"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "vulcabras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Daniel Ervér, CEO global da H&M: “Fast fashion significa democratizar a moda”",
+      "summary": "Executivo diz que a gigante sueca tem planos especiais para o Brasil, analisa o consumidor nacional e que roupas acessíveis não são sinônimo de descartáveis",
+      "url": "https://veja.abril.com.br/comportamento/daniel-erver-ceo-global-da-hm-fast-fashion-significa-democratizar-a-moda",
+      "published": "2026-06-20T11:00:58+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "h&m"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "h&m",
           "field": "title",
           "score": 20,
           "topic": null
