@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T12:03:30.655785+00:00",
-  "count": 320,
-  "new_this_run": 1,
+  "generated_at": "2026-06-22T10:09:24.877368+00:00",
+  "count": 326,
+  "new_this_run": 21,
   "articles": [
     {
       "title": "Com chegada de concorrente, Eurofarma faz nova redução de até 48% no preço de canetas emagrecedoras",
@@ -287,6 +287,53 @@
       "score": 84.0
     },
     {
+      "title": "A aposta da Novo Nordisk, dona do Ozempic, na reciclagem das canetas emagrecedoras",
+      "summary": "Iniciativa busca evitar que resíduos dos tratamentos para obesidade e diabetes sejam enviados a aterros e avança com mais de 100 pontos de coleta entre São Paulo e Rio de Janeiro",
+      "url": "https://exame.com/esg/novo-nordisk-dona-do-ozempic-aposta-na-reciclagem-das-canetas-emagrecedoras",
+      "published": "2026-06-22T05:56:45+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "novo nordisk",
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "novo nordisk",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
       "title": "Canetas emagrecedoras: Novo Nordisk propõe semaglutida no SUS com desconto de 59%",
       "summary": "Proposta prevê a indicação para pacientes com mais de 45 anos, sem diagnóstico de diabetes, com obesidade grave e histórico de infarto",
       "url": "https://www.jota.info/saude/canetas-emagrecedoras-novo-nordisk-propoe-semaglutida-no-sus-com-desconto-de-59",
@@ -326,6 +373,53 @@
         {
           "sector": "Farmácias",
           "alias": "novo nordisk",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "IA gera R$ 1 milhão extra em receita para Animale e Maria Filó — e agora chega à Farm",
+      "summary": "Projeto da Azzas 2154 nasceu em 10 lojas da Animale e Maria Filó no Rio e já se expande para toda a rede após resultados validados por teste A/B",
+      "url": "https://exame.com/inteligencia-artificial/ia-gera-r-1-milhao-extra-para-animale-e-maria-filo-e-chega-a-farm",
+      "published": "2026-06-22T05:05:02+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "animale",
+        "azzas",
+        "farm",
+        "maria filó"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "animale",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "maria filó",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "farm",
           "field": "title",
           "score": 20,
           "topic": null
@@ -444,6 +538,85 @@
         {
           "sector": "Global Consumer",
           "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Multas para quebra de exclusividade de restaurantes com iFood custam milhões à Keeta no Brasil",
+      "summary": "Desde que chegou ao Brasil, a Keeta tem encontrado dificuldades para prosperar em um mercado onde cerca de 80% dos pedidos de delivery estão nas mãos do iFood . Leia mais (06/21/2026 - 14h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/multas-para-quebra-de-exclusividade-de-restaurantes-com-ifood-custam-milhoes-a-keeta-no-brasil.shtml",
+      "published": "2026-06-21T17:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ifood",
+        "keeta"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Exclusivo: Farmácia, serviço financeiro e postos de gasolina - os novos investimentos do Assaí",
+      "summary": "Belmiro Gomes conta com exclusividade à EXAME sobre as inovações na rede para este ano, enquanto a empresa paga a dívida bilionária da compra do Extra. Primeira farmácia será inaugurada em julho",
+      "url": "https://exame.com/negocios/exclusivo-farmacia-servico-financeiro-e-postos-de-gasolina-os-novos-investimentos-do-assai",
+      "published": "2026-06-22T06:02:16+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "assai",
+        "assaí",
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assai",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
           "field": "title",
           "score": 20,
           "topic": null
@@ -829,35 +1002,52 @@
       "score": 44.0
     },
     {
-      "title": "Keeta testa o limite da regulação",
-      "summary": "Entrada agressiva da plataforma chinesa no delivery brasileiro recoloca no radar a discussão sobre cláusulas de exclusividade",
-      "url": "https://veja.abril.com.br/coluna/radar-economico/keeta-testa-o-limite-da-regulacao",
-      "published": "2026-06-14T13:00:02+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
+      "title": "‘Vamos nos dar conta de que construir é nobre’, diz CEO da Obramax",
+      "summary": "Sucesso entre os brasileiros, o atacarejo foi além do supermercado. O modelo está impulsionando a expansão no país da Obramax, que vende materiais de construção nessa mistura de atacado com varejo. Parte do grupo francês Adeo, dono da Leroy Merlin, a rede chegou ao Brasil em 2018 e já tem 14 lojas por aqui, seis dela no Rio. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/06/22/vamos-nos-dar-conta-de-que-construir-e-nobre-diz-ceo-da-obramax.ghtml",
+      "published": "2026-06-22T07:01:40+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
+        "Varejo Alimentar",
+        "Material de Construção"
       ],
       "matched_aliases": [
-        "keeta"
+        "atacarejo",
+        "leroy merlin",
+        "obramax",
+        "supermercado"
       ],
       "matches": [
         {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
+          "sector": "Varejo Alimentar",
+          "alias": "supermercado",
+          "field": "lead",
+          "score": 8,
           "topic": null
         },
         {
-          "sector": "Global Consumer",
-          "alias": "keeta",
+          "sector": "Varejo Alimentar",
+          "alias": "atacarejo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Material de Construção",
+          "alias": "leroy merlin",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Material de Construção",
+          "alias": "obramax",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 40.0
+      "score": 44.0
     },
     {
       "title": "Justiça de SP aprova recuperação judicial do Grupo Toky, dono da Tok&Stok e Mobly",
@@ -1698,6 +1888,37 @@
       "score": 40.0
     },
     {
+      "title": "Cocos entra en modo banco: la estrategia para pelear con Mercado Pago, Naranja X y Ualá - iProUP",
+      "summary": "Cocos entra en modo banco: la estrategia para pelear con Mercado Pago, Naranja X y Ualá &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/69080-cocos-entra-en-modo-banco-la-estrategia-para-pelear-con-mercado-pago-naranja-x-y-uala",
+      "published": "2026-06-21T06:23:14+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago",
+        "ualá"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ualá",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Remédios como Ozempic emagrecem, mas reduzem atividade física",
       "summary": "Perder peso sem aumentar o nível de atividade física é o resultado contraintuitivo que um novo estudo associa ao uso de medicamentos populares para obesidade. A pesquisa, apresentada no ENDO 2026, congresso anual da Endocrine Society, revelou que adultos com obesidade em tratamento com remédios como Ozempic, Wegovy, Mounjaro e Zepbound se tornaram significativamente menos ativos depois de iniciar as medicações, mesmo registrando perda de peso ao longo do período. Os dados são de um comunicado da Endocrine Society. A conclusão contraria uma suposição comum: a de que emagrecer facilita naturalmente o movimento. Entre os participantes do estudo, esse efeito não foi observado. O que os rastreadores de atividade revelaram Para chegar aos resultados, pesquisadores analisaram dados do programa All of Us, do Instituto Nacional de Saúde dos Estados Unidos (NIH), que combina prontuários médicos com informações coletadas por dispositivos vestíveis, como os rastreadores da marca Fitbit. De 1.950 adultos com obesidade que começaram a usar medicamentos GLP-1, 753 tinham registros suficientes para integrar a análise final. A maioria era mulher (78,6%) e a idade média era de 52,7 anos. Os resultados mostraram queda clara na movimentação após o início do tratamento. A média de passos diários recuou de 5.047 para 4.487, uma redução de cerca de 560 passos. O tempo de atividade física moderada a vigorosa também diminuiu: de 28 para 22 minutos por dia. As quedas mais expressivas foram registradas entre homens e entre pessoas que relatavam dores articulares ou musculares. Fatores como idade, insuficiência cardíaca ou histórico de acidente vascular cerebral não alteraram os resultados. Não foram encontradas evidências de que a perda de peso com esses medicamentos tenha levado ao aumento da prática de exercícios. Por que a musculatura entra nessa conta Os medicamentos analisados pertencem à classe dos agonistas do receptor de GLP-1 (peptídeo semelhante ao glucagon-1), que inclui a semaglutida (Ozempic e Wegovy), a tirzepatida (Mounjaro e Zepbound), além de liraglutida e dulaglutida. Além de eficazes para a perda de peso, esses fármacos também podem reduzir a massa muscular magra, não apenas a gordura corporal. Por isso, manter a prática de atividade física durante o tratamento é considerado essencial para preservar a força e a saúde geral. \"Proteger a musculatura é uma parte fundamental da perda de peso saudável\", afirmou Sajana Maharjan, médica do HSHS St. John's Hospital, em Springfield (Illinois), e líder do estudo. \"Embora muitos assumam que emagrecer leva naturalmente ao aumento da atividade física, nossa pesquisa indica o contrário. Os resultados reforçam que o exercício não pode ser opcional para quem usa esses medicamentos. As pessoas precisam de intervenções direcionadas que estimulem a prática em paralelo ao tratamento para obesidade.\" De acordo com os autores, este é o primeiro estudo de grande escala a usar dados de rastreadores de atividade para avaliar os padrões de movimento entre adultos em uso de agonistas GLP-1, o que o diferencia de avaliações conduzidas em ambientes clínicos controlados.",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/06/remedios-como-ozempic-emagrecem-mas-reduzem-atividade-fisica.ghtml",
@@ -1868,92 +2089,6 @@
         }
       ],
       "score": 32.0
-    },
-    {
-      "title": "Alta do ouro leva relógios de luxo a serem derretidos por valor do metal",
-      "summary": "Com o preço do ouro próximo de máximas históricas, alguns relógios de luxo estão sendo derretidos porque o valor do metal passou a superar o preço de revenda de determinados modelos. Segundo a Reuters, entre os mais afetados estão peças de marcas como Omega e TAG Heuer, da LVMH. Macarrão de grife e adega: ‘gourmetização’ chega às redes populares de supermercados Enquanto mercados apostam bilhões na IA: eleitores temem impactos sobre emprego e renda Em meio a tensões geopolíticas e comerciais que levaram investidores a buscar metais preciosos como ativos de proteção, o ouro atingiu o recorde de US$ 5.600 por onça em janeiro. Atualmente, é negociado em torno de US$ 4.200 por onça, quase o dobro da média registrada em 2024. Em entrevista à Reuters, o negociante britânico Jon White, da Gold Traders, afirmou ter derretido dezenas de relógios de luxo neste ano. Um deles foi um Constellation, da Omega. Segundo White, o conteúdo de ouro da peça valia US$ 7.749, cerca de 35% acima de seu valor estimado em leilão. Em vez do 1º emprego, a 1ª empresa: cresce número de jovens que começam a vida profissional pelo empreendedorismo O fenômeno afeta principalmente relógios usados mais recentes e modelos vintage sem grande apelo entre colecionadores. Especialistas ouvidos pela Reuters afirmam que relógios de marcas como Patek Philippe e Rolex costumam valer muito mais do que o ouro utilizado em sua fabricação, graças ao controle rigoroso da produção e à alta demanda. Já marcas como TAG Heuer, Breitling e Omega enfrentam mais dificuldades para manter preços elevados, já que versões usadas de seus relógios podem ser encontradas por valores bem menores, tornando-se mais suscetíveis ao derretimento para aproveitamento do ouro. Tendência deve se manter Embora não existam dados oficiais sobre quantos relógios de luxo estão sendo derretidos, números do Conselho Mundial do Ouro indicam que a reciclagem do metal avançou 5% no primeiro trimestre, alcançando 366 toneladas. No mesmo período, a demanda por joias de ouro cresceu 31% em valor, para US$ 47 bilhões, informou a Reuters. Com previsões de que o metal alcance entre US$ 5.400 e US$ 6.300 por onça ainda este ano, o derretimento dos relógios deve continuar. Isso ocorre porque os revendedores precisam cobrir custos operacionais e oferecer garantias aos compradores, segundo a Reuters. Até mesmo relógios novos produzidos em excesso podem acabar sendo derretidos. Procuradas pela Reuters, Swatch e Rolex informaram que não comentariam o assunto. LVMH, Richemont, Patek Philippe e Audemars Piguet não responderam aos pedidos de comentário.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/14/alta-do-ouro-leva-relogios-de-luxo-a-serem-derretidos-por-valor-do-metal.ghtml",
-      "published": "2026-06-14T17:01:59+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Joias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "joias",
-        "ouro",
-        "richemont",
-        "rolex"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "rolex",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "joias",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "ouro",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "richemont",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "rolex",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Ozempic pode reduzir risco de dependência de álcool e drogas, indica estudo",
-      "summary": "Pesquisa com mais de 600 mil pessoas associou medicamentos à base de GLP-1 a menos overdoses, internações e mortes relacionadas a drogas",
-      "url": "https://exame.com/ciencia/ozempic-pode-reduzir-risco-de-dependencia-de-alcool-e-drogas-indica-estudo",
-      "published": "2026-06-15T08:51:09+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "glp-1",
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "A viagem turbulenta da CVC: ação nas mínimas históricas e desconfiança em alta no mercado",
@@ -2298,6 +2433,37 @@
       "score": 28.0
     },
     {
+      "title": "Maiores acionistas do GPA devem continuar comprando ações",
+      "summary": "Movimento deve ser feito sem iniciar negociações com o Casino",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/maiores-acionistas-do-gpa-devem-continuar-comprando-acoes",
+      "published": "2026-06-21T14:00:45+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "casino",
+        "gpa"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "casino",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "iFood Benefícios alcança R$ 1 bi ao mês, perto de 10% do mercado",
       "summary": "O iFood Benefícios processou R$ 1 bilhão em pagamentos em março, um crescimento de 82% em 12 meses, com a aposta em IA para ampliar a base de empresas clientes. A plataforma soma 1,5 milhão de usuários ativos mensais de 65 mil empresas de todos os portes, incluindo B3, Ambev e XP. A vertical de vale-alimentação e vale-refeição criada em 2020 tem participação de mercado em torno de 10% e usa IA para ampliar a carteira de PMEs, concentrando os esforços humanos nas grandes contas, segundo o CEO do iFood Benefícios, Arthur Freitas. iFood dá nome aos bois e processa Keeta por espionagem corporativa Após 60 mil agentes de IA, a Prosus escreveu um manual — e compartilhou “Cerca de 40% das vendas hoje passam por IA. Atingimos o breakeven em março, temos crescido dois dígitos e devemos continuar assim nos próximos anos” . A empresa espera acelerar o crescimento com a entrada em vigor das novas regras do Programa de Alimentação do Trabalhador (PAT), como a abertura do arranjo de pagamentos, que visam tornar o segmento mais competitivo, disse o executivo em entrevista ao Pipeline. Hoje, grande parte do mercado opera em modelo fechado, em que as grandes empresas como Alelo, Ticket e Pluxee têm parcerias com grandes bancos e concentram quase todas as etapas da operação. A limitação das taxas cobradas dos estabelecimentos comerciais (MDR) e da taxa de intercâmbio deve inibir incentivos para a prática de rebate, ele acredita. “A competição passa a ser por melhor produto, serviço e atendimento.” Arthur Freitas, CEO do iFood Benefícios: novas regras do PAT limitam rebate Divulgação Outros benefícios oferecidos pelo iFood são serviços de saúde, pet, cultura, educação, mobilidade, custos com home office, além de uma parceria para com o Wellhub. “As empresas estão buscando soluções tecnológicas mais eficientes e produtivas\", diz Freitas. iFood volta à mira do Cade por contratos de exclusividade CEO do iFood lança escola para formar o 1% mais rico em impacto No ano passado, a empresa de benefícios chegou a negociar a compra da Alelo por R$ 5 bilhões, como antecipou o Valor. A esse respeito, o executivo não quis comentar e frisou que o foco no momento está no crescimento orgânico.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/ifood-beneficios-quase-dobra-em-um-ano-e-bate-r-1-bi-por-mes.ghtml",
@@ -2486,213 +2652,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Pessoas que começam a usar canetas emagrecedoras reduzem atividade física diária, revela novo estudo - O GLOBO",
-      "summary": "Pessoas que começam a usar canetas emagrecedoras reduzem atividade física diária, revela novo estudo &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/06/14/pessoas-que-comecam-a-usar-canetas-emagrecedoras-reduzem-atividade-fisica-diaria-revela-novo-estudo.ghtml",
-      "published": "2026-06-14T12:32:03+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "UK electric car sales target set to be weakened",
-      "summary": "The new target hasn't yet been decided, with different numbers under consideration, the BBC understands.",
-      "url": "https://www.bbc.com/news/articles/cx2dmwmj4dmo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-06-14T17:56:07+00:00",
-      "source": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "target"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "target",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Apostas online atraem 35% dos paulistanos em busca de renda extra",
-      "summary": "Mais de um terço dos paulistanos (35%) realiza apostas online com o intuito de aumentar a renda doméstica, segundo estudo da FecomercioSP. Os dados apontam um aumento de 10 pontos percentuais em relação à pesquisa sobre o mesmo tema realizada em 2024. Leia mais (06/14/2026 - 15h06)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/06/apostas-online-atraem-35-dos-paulistanos-em-busca-de-renda-extra.shtml",
-      "published": "2026-06-14T18:06:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Farmacias San Pablo crece y arma su plataforma integral de salud - El Economista",
-      "summary": "Farmacias San Pablo crece y arma su plataforma integral de salud &nbsp;&nbsp; El Economista",
-      "url": "https://www.eleconomista.com.mx/opinion/farmacias-san-pablo-crece-arma-plataforma-integral-salud-20260614-818462.html",
-      "published": "2026-06-15T04:31:26+00:00",
-      "source": "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "China summons Walmart chain Sam’s Club over food safety issues",
-      "summary": "US retailer has expanded rapidly in world’s second-largest economy",
-      "url": "https://www.ft.com/content/d6906175-52f0-4d37-8ee4-748637fa510b",
-      "published": "2026-06-15T06:48:06+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "O prazer sumiu: canetas emagrecedoras geram queixas de queda de libido e anedonia em atividades cotidianas - O GLOBO",
-      "summary": "O prazer sumiu: canetas emagrecedoras geram queixas de queda de libido e anedonia em atividades cotidianas &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/ela/noticia/2026/06/15/o-prazer-sumiu-canetas-emagrecedoras-geram-queixas-de-queda-de-libido-e-anedonia-em-atividades-cotidianas.ghtml",
-      "published": "2026-06-15T07:01:54+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras: estratégias buscam remediar a perda de músculos associada a esses medicamentos - O GLOBO",
-      "summary": "Canetas emagrecedoras: estratégias buscam remediar a perda de músculos associada a esses medicamentos &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/06/15/canetas-emagrecedoras-estrategias-buscam-remediar-a-perda-de-musculos-associada-a-esses-medicamentos.ghtml",
-      "published": "2026-06-15T07:30:18+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Inadimplência do agro está no pico – e não deve cair rápido - Brazil Journal",
-      "summary": "Inadimplência do agro está no pico – e não deve cair rápido &nbsp;&nbsp; Brazil Journal",
-      "url": "https://braziljournal.com/play/inadimplencia-do-agro-esta-no-pico-e-nao-deve-cair-rapido",
-      "published": "2026-06-15T09:52:56+00:00",
-      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "ICMS-Difal em operações interestaduais é devido desde a Lei Kandir, decide STJ",
-      "summary": "Relator entendeu que a Lei Complementar 190/2022 não é condição para cobrança do Difal em operações destinadas a consumidor final",
-      "url": "https://www.jota.info/tributos/icms-difal-em-operacoes-interestaduais-e-devido-desde-a-lei-kandir-decide-stj",
-      "published": "2026-06-15T09:56:31+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "difal"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "difal",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Por que 'sobrevivência milagrosa' de guia no Everest levanta questões sobre a indústria do turismo",
@@ -3909,29 +3868,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Fim da escala 6x1: definição sobre PEC deve ficar para julho, diz presidente da CCJ do Senado",
-      "summary": "O presidente da Comissão de Constituição e Justiça (CCJ) do Senado, Otto Alencar (PSD-BA), afirmou que a definição de como será a tramitação da Proposta de Emenda à Constituição (PEC) que põe fim à escala 6x1 deve ficar para a primeira quinzena de julho. O prazo deve frustrar a expectativa do governo, que esperava ver a medida, bandeira eleitoral do presidente Luiz Inácio Lula da Silva, aprovada e promulgada pelo Senado e pela Câmara dos Deputados antes do início do recesso parlamentar, em 17 de julho. Fim da escala 6x1: Motta deve trocar relator de projeto após governo aceitar retirada de urgência Impactos: 'Pauta-bomba' tem custo de R$ 1,64 tri até 2035 e pode fazer dívida superar 100% do PIB, diz corretora Pelo trâmite normal, a CCJ é a primeira etapa de discussão da proposta, que foi aprovada pela Câmara dos Deputados em 27 de maio, mas ainda não foi remetida à comissão pelo presidente do Senado, Davi Alcolumbre (União-AP). — Ainda não tenho definição de quando o presidente Davi Alcolumbre vai despachar a PEC para a CCJ. Ele não falou nada comigo. Está tudo parado — disse o senador. O cálculo de Otto que o tema deva ficar para julho leva em consideração o período de esvaziamento do Senado, motivada pelas festas juninas e a Copa do Mundo. Alcolumbre marcou sessões de votações semipresenciais nesta semana. Move Brasil: Demanda por financiamentos de carros para motoristas de aplicativos está 'gigante', diz Mercadante A decisão, que permite a participação de senadores em votações mesmo não estando em Brasília, atende a demandas de parlamentares, que têm preferido ficar em seus estados para articular as pré-campanhas eleitorais. Segundo interlocutores, Alcolumbre ainda aguarda uma conversa com Lula antes de destravar a votação da PEC no Senado. Os dois não se falam desde a rejeição da indicação do advogado geral da União (AGU), Jorge Messias para o Supremo Tribunal Federal (STF). Alencar disse acreditar que, dependendo das conversas, ainda seria possível aprovar a PEC antes do recesso. Alcolumbre, contudo, já disse que não vai colocar a proposta em votação diretamente em plenário e que ela vai passar pelo menos por uma comissão. Desenrola: Mais de 3 milhões de trabalhadores já autorizaram saque do FGTS Segundo interlocutores, o presidente do Senado também não deu qualquer sinalização ao presidente da Câmara dos Deputados, Hugo Motta (Republicanos PB), com quem tem falado com freqüência, de que pretende acelerar a tramitação da PEC. O presidente do Senado também ainda não definiu quem será o relator da PEC. Entre os cotados estão o ex-presidente do Senado Rodrigo Pacheco (PSB-MG) e o líder do PSD na Casa, Omar Aziz (AM).",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/17/fim-da-escala-6x1-definicao-sobre-pec-deve-ficar-para-julho-diz-presidente-da-ccj-do-senado.ghtml",
-      "published": "2026-06-17T03:01:10+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -5800,6 +5736,98 @@
       "score": 20.0
     },
     {
+      "title": "Gold Falls As Traders Weigh U.S.-Iran Progress, Hawkish Fed Signals",
+      "summary": "Gold prices fell as investors weighed the outlook for U.S.-Iran peace negotiations and U.S. monetary policy.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-direction-seen-led-by-geopolitics-monetary-policy-41733cb8?mod=rss_markets_main",
+      "published": "2026-06-22T07:01:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Como as bets estão mudando o varejo e disputando o bolso do consumidor",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/como-as-bets-estao-mudando-o-varejo-e-disputando-o-bolso-do-consumidor",
+      "published": "2026-06-22T08:30:00+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Redução da jornada de trabalho: sobre dados e modelos que o Brasil pretende seguir",
+      "summary": "Uma economia que respeita o tempo de vida de quem trabalha é mais justa, mais saudável e, em última análise, mais produtiva",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/reducao-da-jornada-de-trabalho-sobre-dados-e-modelos-que-o-brasil-pretende-seguir",
+      "published": "2026-06-22T08:40:50+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "The bank supervisor over your shoulder",
+      "summary": "I’ve got my eye on you, laddie",
+      "url": "https://www.ft.com/content/4846980e-6c75-4727-9b8b-1630655b8ab1",
+      "published": "2026-06-22T09:00:07+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "shoulder"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "shoulder",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Undav, Pavlović e Havertz: camisas alemãs na Copa do Mundo esgotam por falta da letra 'V'",
       "summary": "Após a forte procura dos torcedores, camisas da Copa do Mundo de vários jogadores da seleção da Alemanha ficaram temporariamente indisponíveis. O motivo: a falta da letra “V”, informou a Adidas nesta quarta-feira. De acordo com a gigante de artigos esportivos, os torcedores correram para comprar camisas de Kai Havertz, Deniz Undav e Aleksandar Pavlović, esgotando os estoques da letra. Copa do Mundo: Venda de chuteiras rosa disparam. Procura cresce até 50% Escolha diferente: Messi é o único jogador de linha da Argentina sem chuteira rosa na Copa do Mundo; entenda o motivo Um porta-voz da Adidas, que fornece os uniformes da seleção alemã de futebol, confirmou que \"houve uma escassez temporária da letra V\", acrescentando que “essas faltas foram rapidamente resolvidas” e que as camisas de futebol com a “letra ‘V’ estarão novamente disponíveis em breve para encomenda on-line”. A AFP reportou que uma tentativa de comprar uma camisa do jogador Kai Havertz na loja on-line da Adidas não teve sucesso mais cedo nesta quarta-feira. No site, aparecia a seguinte mensagem: “Desculpe, estamos atualmente sem estoque dos seguintes caracteres: V.” Mais tarde, porém, as camisas voltaram a ficar disponíveis horas depois, ao custo de € 170 (o equivalente a US$ 198 ou R$ 1.000). Messi mania: Figurinha dourada do craque sai a preço de ouro na Argentina A Adidas fornece uniformes para 14 das 48 seleções que disputam a Copa do Mundo deste ano e obtém enormes lucros com a venda de produtos relacionados ao torneio. No entanto, diz a AFP, a seleção da Alemanha deixará de usar a Adidas como fornecedora de seus uniformes a partir de 2027, encerrando uma parceria que durou mais de 70 anos e incluiu quatro títulos mundiais. Ela vai passar a utilizar os produtos da Nike.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/06/17/undav-pavlovic-e-havertz-camisas-alemas-na-copa-do-mundo-esgotam-por-falta-da-letra-v.ghtml",
@@ -6092,6 +6120,37 @@
       "score": 16.0
     },
     {
+      "title": "Venda de antenas digitais cresce 250% na Copa; equipamento evita delay na transmissão",
+      "summary": "No centro de uma disputa entre Globo , SBT e CazéTV durante a Copa do Mundo , as antenas digitais para captar sinal de televisão aberta dispararam no Brasil. Dados exclusivos obtidos pela coluna mostram crescimento considerável na Shopee e na Amazon . Leia mais (06/22/2026 - 06h00)",
+      "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/06/venda-de-antenas-digitais-cresce-250-na-copa-equipamento-evita-delay-na-transmissao.shtml",
+      "published": "2026-06-22T09:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Paulo Guedes abre ciclo de debates sobre economia e varejo na Eletrolar Show 2026",
       "summary": "A Eletrolar Show All Connected 2026 não será só uma feira de negócios. Entre os dias 22 e 25 de junho, a Arena Eletrolar, espaço dedicado à programação de palestras dentro do evento, vai reunir economistas, executivos e especialistas para discutir as forças que devem moldar o varejo e a indústria no segundo semestre do ano. A abertura, no dia 22, traz Paulo Guedes, ex-ministro da Economia, apresentando sua leitura sobre perspectivas macroeconômicas, competitividade e os impactos do ambiente econômico sobre investimentos e consumo a partir das 15h. Além dele, o primeiro dia da Arena abre espaço para debater expansão de vendas B2B, crédito estruturado e finanças embarcadas como novas fontes de receita, temas que interessam diretamente aos distribuidores e fabricantes que circulam pelos 100 mil m² de exposição do Anhembi. A feira espera receber mais de 300 grandes redes varejistas com representantes de todos os 26 estados e do Distrito Federal. Construtoras, engenheiros, arquitetos, designers e gestores de manutenção também integram a audiência esperada, o que explica a amplitude dos temas na programação. Entre os convidados da Arena Eletrolar estão executivos de empresas como Mercado Livre, TikTok Shop, Magalu, KaBuM!, Nuvemshop, Canva, Infracommerce, ClearSale e Confi. Os painéis vão cobrir desde inteligência artificial e marketplace até reforma tributária, social commerce, logística e monetização de dados. Na segunda-feira (23), o foco recai sobre comércio eletrônico e plataformas digitais, com debate sobre algoritmos de marketplace, omnicanalidade e os impactos da reforma tributária no varejo digital. Na terça (24), a pauta muda para comportamento do consumidor, marketing digital e empreendedorismo feminino. No último dia (25), especialistas do TikTok Shop, ClearSale e Confi apresentam casos sobre uso de dados, precificação e social commerce. O debate sobre plataformas digitais acontece num momento em que a Eletrolar Show amplia sua presença no universo do comércio conectado. A feira reúne este ano mais de 1.000 empresas expositoras e 5 mil marcas, com expectativa de R$ 2 bilhões em negócios fechados ao longo dos quatro dias, volume que depende cada vez mais de decisões tomadas com base em dados, algoritmos e estratégias de canal que serão discutidas nos painéis. Para Carlos Clur, CEO do Grupo Eletrolar, tecnologia e presença física não são forças opostas. \"As relações humanas estão além da inteligência artificial\", afirma. \"É ao caminhar pela feira, encontrar parceiros, apresentar produtos e estar frente a frente que se constroem as melhores parcerias e os melhores negócios.\" A Eletrolar Show espera receber até 55 mil profissionais na edição de 2026, segundo a organização. O evento concentra também encontros paralelos como Interior Lifestyle South America, Future Mobility, AirCon e Packaging Pack, iniciativas que ampliam seu alcance para além do universo de eletrônicos de consumo, incorporando mobilidade elétrica, climatização, design de interiores e embalagens. A programação completa de palestras está disponível no site da Eletrolar Show. SERVIÇO ELETROLAR SHOW ALL CONNECTED 2026 Datas: 22 a 25 de junho de 2026 Horário: das 13h às 21h (exposição) das 14h às 19h (ciclo de palestras) Local: Distrito Anhembi – Av. Olavo Fontoura, 1205 - Santana",
       "url": "https://valor.globo.com/conteudo-de-marca/eletrolar-show/noticia/2026/06/19/paulo-guedes-abre-ciclo-de-debates-sobre-economia-e-varejo-na-eletrolar-show-2026.ghtml",
@@ -6347,6 +6406,37 @@
           "alias": "farm",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 10.0
+    },
+    {
+      "title": "Resort futurista no Caribe terá mordomos com IA, transporte automatizado e capela sobre a água",
+      "summary": "Antígua e Barbuda, país localizado no Mar do Caribe, deve ganhar um novo resort de luxo com cara de hotel do futuro. O Grupo Ediacaran iniciou a construção do Long Bay Resort, empreendimento avaliado em US$ 200 milhões que promete combinar hospitalidade de alto padrão, sustentabilidade e tecnologia aplicada à experiência dos hóspedes. O projeto será erguido em Long Bay, uma das áreas litorâneas mais conhecidas de Antígu, e terá 113 acomodações. Entre os principais atrativos anunciados estão um serviço de mordomo com inteligência artificial, transporte automatizado dentro da propriedade e uma capela sobre a água, pensada para reforçar o apelo da ilha como destino de casamentos no Caribe. Projeto da piscina principal no Long Bay Zen Resort Divulgação Segundo a desenvolvedora Sophie Zhong, a proposta do resort é trabalhar com o conceito de “luxo silencioso”, expressão usada para descrever uma experiência sofisticada, mas discreta. Na prática, isso significa reduzir a presença ostensiva da tecnologia e integrá-la aos serviços de forma quase invisível, seja no atendimento aos hóspedes, na circulação pelo complexo ou na gestão da infraestrutura. O empreendimento também pretende incorporar soluções sustentáveis, como sistemas de energia verde e uma planta própria de dessalinização. O objetivo é oferecer um serviço de luxo para o público de alto padrão sem se apoiar apenas no visual paradisíaco da ilha, mas também em uma operação mais eficiente e tecnológica. A construção deve começar em etapas, segundo a Forbes. A demolição da estrutura existente estava prevista para ocorrer imediatamente após o lançamento do projeto, enquanto as obras principais devem ter início no final deste ano. O resort conta com apoio do governo local, que vê o investimento como parte da estratégia para ampliar a oferta de hospedagens de luxo em Antígua e Barbuda. Projeto da capela sobre a água em resort futurista no Caribe Divulgação O projeto também chama atenção pelo perfil do investidor. A Ediacaran não nasceu no setor hoteleiro, mas em áreas como games e análise de dados. Agora, leva essa experiência em tecnologia para o turismo, em uma tentativa de criar um resort que funcione menos como um hotel tradicional e mais como uma vitrine de hospitalidade automatizada. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/mundo/noticia/2026/06/resort-futurista-no-caribe-tera-mordomos-com-ia-transporte-automatizado-e-capela-sobre-a-agua.ghtml",
+      "published": "2026-06-21T14:40:14+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "hotel",
+        "setor hoteleiro"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "setor hoteleiro",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "hotel",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -7275,6 +7365,121 @@
       "score": 8.0
     },
     {
+      "title": "CNI vai propor a pré-candidatos fim de ganho real para aposentadorias e outras medidas na área fiscal",
+      "summary": "A CNI (Confederação Nacional da Indústria ) defende que o governo eleito reajuste aposentadorias do apenas pela inflação ou altere a regra de ganho real do salário mínimo , para que seja corrigido somente pelo INPC (Índice Nacional de Preços ao Consumidor). Leia mais (06/21/2026 - 09h37)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/06/cni-vai-propor-a-pre-candidatos-fim-de-ganho-real-para-aposentadorias-e-outras-medidas-na-area-fiscal.shtml",
+      "published": "2026-06-21T12:37:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "salário mínimo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "salário mínimo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Itaú remaneja e dá sobrevida à plataforma iCarros",
+      "summary": "Conectcar passa a controlar marketplace de automóveis",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/itau-remaneja-e-da-sobrevida-a-plataforma-icarros",
+      "published": "2026-06-21T15:00:41+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Argentino chega a Dallas como goleiro, vira empresário e hoje se dedica a projeto milionário. Saiba quem é",
+      "summary": "Boomtown é o termo com o qual os americanos descrevem as cidades que crescem em ritmo acelerado, impulsionadas por investimentos, tecnologia e construção civil. Ele se popularizou nos Estados Unidos no século XIX, durante a corrida do ouro, quando milhares de pessoas migraram para diferentes regiões do país após a descoberta do metal. Messi mania: Figurinha dourada do craque sai a preço de ouro na Argentina Vozinha: Goleiro de Cabo Verde dá prejuízo de US$ 1 milhão a apostador da Polymarket Dallas, sede da segunda partida da seleção da Argentina, nesta segunda-feira, às 14h, contra a Áustria, no AT&amp;T Stadium, é um dos exemplos mais claros. Entre o calor, a umidade e um movimento constante, a cidade recebe a Copa do Mundo em um de seus momentos de maior expansão. O futebol — soccer para os americanos — também acompanhou essa evolução, ainda que em um ritmo mais lento. Darío Sala, goleiro argentino de Córdoba que defendeu o FC Dallas entre 2005 e 2010, viveu esse processo de dentro: chegou a Major League Soccer (MLS), a liga de futebol dos Estados Unidos e do Canadá, que ainda disputava suas partidas em campos de futebol americano, com marcações sobre a grama que confundiam até os próprios jogadores. Hoje, radicado nos Estados Unidos, Salas tornou-se um empresário ligado ao esporte e é uma das lideranças de um megaprojeto que combina alto rendimento, educação e desenvolvimento imobiliário, do qual também fazem parte Emanuel Ginóbili, Juan Ignacio “Pepe” Sánchez, Juan Sebastián Verón, Martín Gramática, Juan Mónaco e Mariano Zabaleta, entre outras figuras do esporte. Initial plugin text Sala guarda uma história particular: formado no Liceo Militar General Paz como subtenente de Infantaria, jogou handebol no Círculo de ex-Cadetes e chegou até a integrar uma seleção juvenil, mas depois acabou se inclinando pelo futebol. No caminho, estudou um ano de Direito, vendeu churros no estádio do Instituto, passeou com cães em Alta Córdoba e, mais adiante, formou-se como representante médico. No churrasco da Copa: Sai a picanha, entram o drumet e a linguiça para driblar alta de preços Seus primeiros passos foram como atacante no Deportivo Colón, de Córdoba, até que um treinador percebeu seu porte físico e decidiu colocá-lo no gol. “Me chamavam de ‘Romário’: metade guarda-roupa, metade armário”, brinca, em conversa com o La Nacion. Já consolidado debaixo das traves, passou pelo Juventud Católica de Río Segundo, foi descoberto por Héctor Baley, reserva de Ubaldo Fillol na Copa de 1978, e levado para testes no Talleres. Depois passou por San Lorenzo, Belgrano e Los Andes, onde acabou se firmando e conquistou o acesso à Primeira Divisão. De lá foi para o River, na temporada 2000/2001. Sua trajetória também inclui passagens por Xerez, da Espanha, Independiente, Deportivo Cali, Newell’s, Jaguares de Chiapas e Arsenal, até sua aposentadoria no FC Dallas. Depois da aposentadoria dos campos, Darío Sala foi colunista de rádio, diretor esportivo, intermediário e hoje desenvolveu sua faceta como empresário La Nación — Quando cheguei à MLS, a liga tinha apenas 12 equipes, divididas em duas zonas, e agora são mais de 30, com um nível e uma estrutura incríveis. Naquela época começavam a ser construídos os primeiros estádios específicos de futebol, que quase não existiam. Nos primeiros anos, jogávamos em campos de escolas de ensino médio — explica, acrescentando: — Em Dallas, tudo é progresso: quando cheguei, fazia apenas um mês que a franquia havia inaugurado seu estádio e um complexo esportivo que, naquele momento, era o maior do mundo. Ali entendi que a infraestrutura é fundamental para sustentar qualquer projeto, algo que explica por que Dallas é uma das grandes sedes desta Copa do Mundo. O que a Argentina vai encontrar em Dallas? — Uma das cidades de maior crescimento dos Estados Unidos. Mesmo durante a crise de 2008, quando o sistema financeiro colapsou por causa da bolha imobiliária, Dallas continuou se expandindo. Frisco, onde está o estádio do FC Dallas, era um campo com vacas e ovelhas. Hoje funcionam ali o complexo dos Dallas Cowboys, grandes empresas, campos de golfe e a sede principal da associação de golfistas dos Estados Unidos. Em 25 anos, passou de 40 mil para 250 mil habitantes. Ainda assim, o futebol não tem o mesmo peso que outros esportes. Sim, mas o crescimento é constante e em Dallas ele vem ganhando cada vez mais espaço. Nos Estados Unidos, de modo geral, a liga evoluiu. Aqui é difícil pensar um esporte sem a lógica do negócio e do espetáculo. Primeiro, apostaram no branding com a chegada de figuras de impacto global: David Beckham, Thierry Henry, Zlatan Ibrahimović, Kaká, Andrea Pirlo… Copa do Mundo: Venda de chuteiras rosa disparam. Procura cresce até 50% Depois, entenderam que não dava para levar esses jogadores para treinar em campos que pertenciam a escolas de ensino médio de futebol americano e melhoraram todos os estádios e centros de treinamento. Em seguida, veio uma terceira etapa, focada no desenvolvimento de técnicos e novos talentos; e, mais tarde, a incorporação de jogadores jovens vindos de ligas importantes. Esse foi o ponto de partida para a seleção dos Estados Unidos que hoje surpreende na Copa do Mundo? Nesses 20 anos houve várias gerações. Teve a de (Landon) Donovan, (Tim) Howard e outros jogadores que deram o salto para o exterior: eram seis ou sete atletas em ligas importantes. Depois houve uma transição: esse grupo se aposentou e não aparecia uma reposição clara. Mais tarde surgiu a geração do Catar: Christian Pulisic, Weston McKennie, Tyler Adams, Yunus Musah. Essa já é uma base que se formou na MLS e depois deu o salto para fora. A liga começou em 1996 e os melhores jogadores não passavam pelo torneio: iam da universidade direto para tentar a carreira no exterior. Hoje o processo é diferente. É uma competição muito forte: há 30 equipes com orçamento para trazer não só jogadores da Europa, mas também jovens sul-americanos, da Argentina, Paraguai ou Chile. Antes vinham jogadores para encerrar a carreira; agora chegam em plena forma. Essa seleção é composta principalmente por atletas formados no sistema local, e esta Copa do Mundo é uma boa medida para avaliar esse progresso. Mais de 100 partidas pelo Dallas No FC Dallas, Sala somou mais de 100 partidas e se tornou um símbolo da franquia americana. Em 2010, dois meses antes de pendurar as chuteiras, foi titular em um amistoso contra a Inter de Milão que terminou 2 a 2, com gols de Diego Milito e Samuel Eto’o. No fim da carreira, também apresentou um programa de rádio na ESPN. Darío Sala, durante sua etapa como arqueiro do FC Dallas, onde disputou mais de 100 partidos Victor Decolongon/Getty Images via La Nacion — Eu terminava um jogo e não ficava vendo o replay; pensava no que fazer no futebol depois que parasse de jogar — conta. A hiperinflação da Copa nos EUA: Preço do ingresso da final aumentou 20 vezes entre a de 1994 e a deste ano. Veja os preços Um ano depois, Sala foi contatado pelo atacante cordobês Mauro Rosales, com quem havia sido companheiro de equipe no Newell’s, para avaliar possibilidades de desembarcar na MLS. Sala atuou como intermediário e o colocou no Seattle Sounders, onde o atacante foi escolhido como a melhor contratação do ano. A partir desse acerto, participou de várias janelas de transferências e levou outros sete jogadores para a liga, embora sentisse que esse não era o papel que melhor se encaixava no seu perfil: — Esse trabalho eu chamo de ‘fazer babysitting’. É um lugar desconfortável: nem os clubes nem os jogadores gostam da figura do agente. Em 2014, Sala fundou junto com um sócio o Jacksonville Armada FC, com sede na Flórida, do qual foi proprietário e gerente-geral. Durante sua gestão, o clube competiu na North American Soccer League, uma liga que já foi a principal do país e que, em sua versão moderna, acabou sendo deixada de lado após a consolidação da MLS. Camisa do Brasil 2026: Veja preços e diferenças entre os modelos oficiais Jogador e Torcedor; valor é alto... Ele levou para o projeto 14 argentinos, como José Luis Villarreal e Guillermo Hoyos, atual treinador de Lionel Messi e Rodrigo De Paul no Inter Miami, e alcançou o recorde de público da categoria, superando clubes de tradição muito maior como o New York Cosmos, onde Pelé brilhou, com uma média de 10 mil espectadores. Mas nos Estados Unidos quem manda são os números, dentro e fora de campo. Assim, em 2015, Sala mudou de área e passou a trabalhar na organização de jogos internacionais da seleção. Entre eles, a vitória por 7 a 0 sobre a Bolívia, disputada em Houston, com dois gols de Lionel Messi, Ezequiel Lavezzi, Sergio Agüero e um gol de Ángel Correa. Durante essa experiência, criou um vínculo com Gerardo Martino, a quem chegou a acompanhar na coletiva de imprensa antes da partida, em um papel improvisado como tradutor. Dessa relação surgiu uma nova função: cuidar da logística do elenco. Ele acompanhou a equipe durante a Copa América Centenário, nos Estados Unidos, e optou por dar um passo ao lado após a renúncia do treinador, apesar da proposta da AFA para continuar junto à seleção sub-23 nos Jogos Olímpicos. O vínculo com o “Tata” não terminou aí: pouco depois, Sala sugeriu seu nome ao Atlanta United, que buscava um treinador para sua estreia na MLS, em 2017, e o ex-goleiro, além de fazer a ponte entre as partes, acabou se juntando como membro da comissão técnica. Depois, continuou nessa função ao lado de Gustavo Quinteros, hoje técnico do Independiente, na Universidad Católica, e mais tarde voltou a se afastar para tocar outros projetos. 'Copa do delivery': Com jogos durante a noite, empresas fazem lançamentos especiais para evento Hoje, ele está dedicado à execução e implantação do Sports Performance Hub, um campus de alto rendimento para jovens entre 13 e 18 anos que será construído em um terreno de 37 hectares em Miami-Dade, com um investimento privado superior a US$ 280 milhões. —Será um espaço onde os alunos vão morar, estudar e treinar: uma cidade dentro de outra. Eles não só terão a possibilidade de se desenvolver no esporte e talvez conseguir uma bolsa universitária, mas também de se formar em outras áreas, como hotelaria, marketing, análise de vídeo e coaching — detalha. Darío Sala com sua equipe trabalhando no novo projeto para o complexo esportivo David Badia/La Nacion Além disso, a iniciativa prevê a construção de um estádio para 10 mil espectadores onde o Miami FC, vinculado ao mesmo grupo, disputará suas partidas. Como surgiu a iniciativa? — Entendíamos que não existia um espaço com essas características e nos propusemos a desenvolvê-lo do zero. Apenas 1% dos jovens chega ao profissionalismo, então também é preciso preparar o restante. Nos reunimos com vários atletas que foram número um em suas modalidades e, entre todos, tentamos montar a melhor estrutura possível. Recebemos consultas do mundo todo, do Oriente Médio ao Japão. Começamos a obra em 2 de março e já há lista de espera para inscrições. Em 2027 já haverá campos operacionais e um estádio provisório para o Miami FC, e depois continuaremos com o estádio principal e a escola, que ficará pronta para o ano letivo de 2028. Como você vê a Argentina na Copa do Mundo? Muito bem. É uma pena que a Finalíssima não tenha sido disputada, porque teria sido uma boa referência, além da estreia. Hoje, há quatro ou cinco seleções nesse nível: França, Espanha, Argentina, Inglaterra, Brasil. Está tudo muito equilibrado, como se viu na final de 2022. Nos Estados Unidos, há uma febre impressionante com Lionel Messi e a seleção. Você vai ao supermercado com uma camisa e te cumprimentam como se você fosse um jogador. Como argentino, espero que o título se repita. Como treinador, sei que será muito difícil, embora a Argentina, nessas fases, sempre entregue algo a mais e acabe fazendo a diferença.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/06/21/argentino-chega-a-dallas-como-goleiro-vira-empresario-e-hoje-se-dedica-a-projeto-milionario-saiba-quem-e.ghtml",
+      "published": "2026-06-21T15:59:31+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "construção civil"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "construção civil",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Menos lançamentos, mais vida útil: por que comprar um iPhone usado faz mais sentido do que nunca",
+      "summary": "Comprar um iPhone usado deixou de ser apenas uma alternativa para economizar. Em um momento de alta nos preços de eletrônicos, pressão sobre cadeias de suprimento e avanços mais incrementais entre uma geração e outra de smartphones, aparelhos de segunda mão ou recondicionados podem ser uma escolha cada vez mais racional. Segundo a Wired, a possível alta nos preços de produtos da Apple, somada à escassez global de componentes de memória causada também pela demanda de data centers de inteligência artificial, deve tornar os lançamentos mais caros. Nesse cenário, manter um celular antigo por mais tempo ou comprar um modelo usado pode representar uma economia relevante para o consumidor. O impacto de uma eventual alta pode ser significativo. De acordo com reportagem do The Wall Street Journal, uma estimativa da consultoria TechInsights aponta que o iPhone 17 Pro de 256 GB pode ter reajuste de até 18,2%. Com isso, o preço inicial do modelo nos Estados Unidos subiria de US$ 1.099 para US$ 1.299. No Brasil, uma variação equivalente levaria o valor de entrada do aparelho de R$ 11.499, na Apple Store, para cerca de R$ 13.591 — um acréscimo aproximado de R$ 2.092. Tim Cook, ceo da Apple Getty Images Outro fator pesa a favor dos aparelhos usados: os iPhones recentes continuam potentes para a maioria das tarefas do dia a dia. Para quem usa o celular principalmente para mensagens, redes sociais, fotos, vídeos, aplicativos bancários e navegação, modelos lançados há alguns anos ainda entregam uma experiência suficiente, principalmente quando recebem atualizações de software e contam com bateria em bom estado. A própria Apple mantém suporte a uma lista ampla de aparelhos em versões recentes do iOS. Isso ajuda a prolongar a vida útil dos dispositivos e reduz a sensação de que um celular fica obsoleto rapidamente. Na prática, a distância entre comprar o modelo mais novo e optar por um iPhone de gerações anteriores pode ser menor do que o preço sugere. Mas há exceções. Quem escolhe um aparelho usado pode abrir mão de câmeras mais avançadas, recursos de inteligência artificial embarcada e telas ou processadores mais recentes. Ainda assim, para muitos usuários, esses diferenciais não justificam pagar mais caro por um lançamento. Análise necessária A recomendação é observar alguns cuidados antes da compra: verificar a saúde da bateria, o estado físico do aparelho, a procedência, a garantia oferecida e se o modelo ainda recebe atualizações. Quando esses pontos são atendidos, o iPhone usado passa a ocupar um espaço estratégico no mercado: o de produto premium com preço mais acessível e vida útil ainda longa. O movimento também tem apelo ambiental. Ao estender o uso de um smartphone por mais tempo, o consumidor reduz a necessidade de produção de novos aparelhos e o descarte de eletrônicos. Em vez de trocar de celular a cada ciclo de lançamento, a lógica passa a ser outra: comprar melhor, manter por mais tempo e atualizar só quando fizer sentido. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/06/menos-lancamentos-mais-vida-util-por-que-comprar-um-iphone-usado-mais-sentido-do-que-nunca.ghtml",
+      "published": "2026-06-21T16:52:58+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "smartphones"
+      ],
+      "matches": [
+        {
+          "sector": "Eletrônicos",
+          "alias": "smartphones",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Redução de impostos e equilíbrio fiscal: o que a indústria espera do próximo presidente",
+      "summary": "Pesquisa da CNI com mais de mil executivos aponta reforma tributária, controle dos gastos públicos e inovação como prioridades para o próximo governo; Flávio, Zema e Caiado participam de encontro com o setor",
+      "url": "https://exame.com/brasil/reducao-de-impostos-e-equilibrio-fiscal-o-que-a-industria-espera-do-proximo-presidente",
+      "published": "2026-06-22T05:30:58+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Febre dos peptídeos: entenda o que são e quais os riscos",
       "summary": "sem descrição BBC News fonte Getty Images Um anjo chega ao céu e informa Deus sobre a onda de peptídeos que está se popularizando na Terra. \"O que tá rolando em story de influencer e clínica de estética são peptídeos antienvelhecimento, pra pele, ganho de massa... e esses aí não são aprovados nem pela Anvisa\", diz o anjo. A conversa é parte de um vídeo de humor publicado no Instagram por Mari Krüger, divulgadora científica e criadora de conteúdo. A publicação já teve mais de 5,6 milhões de visualizações e soma quase sete mil comentários. A ironia usada por Krüger em seu vídeo não é à toa. Os peptídeos se transformaram em uma das palavras mais populares do mercado de estética, longevidade e performance física nos últimos anos. Divulgados em redes sociais, grupos de conversas e clínicas de estética, eles são apresentados como substâncias capazes de acelerar a recuperação muscular, estimular a produção de colágeno, melhorar a composição corporal e até retardar o envelhecimento. No entanto, especialistas fazem um alerta: apesar das promessas, muitos dos benefícios atribuídos aos peptídeos não têm nenhuma comprovação científica e grande parte dessas substâncias não possui aprovação regulatória para uso clínico. \"Eu fiz o vídeo em um formato que já é conhecido no meu perfil que é o dos Anjos e Deus, em que eu mostro em tom de humor como as notícias, os absurdos da Terra chegam ao céu. A repercussão desse vídeo foi completamente inesperada. Não é uma bobagem, é um assunto muito sério. A gente trouxe o humor sem tirar a seriedade do assunto para conseguir explicar isso melhor para as pessoas. Esse perigo [do uso indiscriminado] e o quão urgente é falar sobre isso\", diz Mari. O que são os peptídeos? Peptídeos são moléculas produzidas e formadas pelo nosso organismo. Eles são pequenas cadeias de aminoácidos, que são os mesmos componentes que formam as proteínas. A diferença está no tamanho: enquanto proteínas costumam ser estruturas maiores e mais complexas, os peptídeos possuem cadeias menores. Essas moléculas desempenham funções importantes no organismo. Algumas atuam como hormônios, outras participam da comunicação entre células ou regulam processos biológicos como crescimento, metabolismo, cicatrização e resposta imunológica. \"Esses peptídeos, resumindo, funcionam como mensageiros biológicos e enviam uma mensagem para a célula realizar determinada função\", explica Elisa Minami, cirurgiã plástica e membro titular da Sociedade Brasileira de Cirurgia Plástica (SBCP). Nas últimas décadas, pesquisadores passaram a estudar versões sintéticas desses compostos, ou seja, desenvolvidas em laboratório para reproduzir ou potencializar determinadas funções naturais do corpo. Um dos peptídeos mais conhecidos é a insulina. Ela foi o primeiro peptídeo a ser descoberto e ajuda as pessoas com diabetes do tipo 1 e algumas do tipo 2 a administrar o nível de açúcar no sangue, controlando a doença. Um dos peptídeos mais conhecidos é a insulina BBC News fonte Getty ImagesUm dos peptídeos mais conhecidos é a insulina Outros peptídeos que ganharam espaço são os GLP-1s, como a semaglutida e tirzepatida, que são medicamentos que imitam o hormônio peptídeo similar a glucagon-1, que produzimos naturalmente no corpo e ajuda a regular o nível de saciedade. Tanto a insulina quanto os análogos do GLP-1 são peptídeos da classe dos medicamentos e passaram por extensos e robustos testes em humanos até serem aprovados por órgãos regulamentadores, como a Agência Nacional de Vigilância Sanitária (Anvisa). A existência desses medicamentos aprovados, porém, não significa que todos os peptídeos disponíveis no mercado apresentem o mesmo nível de segurança ou eficácia. No Brasil, os peptídeos aprovados pela Anvisa e com circulação autorizada incluem apenas medicamentos injetáveis como a insulina, os para obesidade com semaglutida (Ozempic, Wegovy) liraglutida (Saxenda) e tirzepatida (Mounjaro), e cremes com peptídeos. Há um mercado paralelo de outros peptídeos, injetáveis ou comercializados como suplementos alimentares com foco na beleza e estética e que não possuem comprovação científica e nem regulamentação. Em 2024, por exemplo, a Anvisa também baniu a comercialização e manipulação dos chamados \"chips da beleza\", implantes hormonais que poderiam conter peptídeos e eram colocados sob a pele. Quais são os principais tipos de peptídeos? Esse universo dos peptídeos é amplo e reúne centenas de moléculas diferentes. O corpo produz peptídeos naturalmente. Peptídeos sintéticos são fabricados para imitar ou potencializar essas funções naturais. Peptídeos como GHK-Cu, BPC-157 e TB-500 estão entre os mais difundidos no Brasil e, apesar de não serem aprovados pela Anvisa, podem ser encontrados em sites, plataformas de vendas e em clínicas de estética. \"Estes produtos não estão regularizados na Anvisa em nenhuma categoria, sendo ilegais para qualquer uso em saúde, inclusive estético. Produtos como estes não têm qualquer garantia de segurança, origem e composição\", disse a Anvisa, em nota. A principal propaganda para a venda desses produtos é de que eles podem aumentar a produção de colágeno, acelerar a reparação da pele, reduzir rugas e até mesmo reverter aspectos do envelhecimento biológico. Eles também são frequentemente promovidos como agentes capazes de acelerar a cicatrização de lesões musculares, tendíneas e articulares. No entanto, esses peptídeos não possuem evidências científicas de seus efeitos em humanos ou esses resultados ainda são limitados. Alegações de que esses peptídeos citados (GHK-Cu, BPC-157 e TB-500) ajudam a regenerar e reparar tecidos e a reduzir a inflamação baseiam-se em poucos estudos de laboratório feitos em células ou animais. O GHK-Cu, também conhecido como peptídeo de cobre, é um peptídeo produzido pelo nosso corpo e é responsável pela estimulação da produção de colágeno. Ele pode ser usado topicamente, ou seja, uso externo, em cremes e séruns para a pele para reduzir as linhas finas, e nesse caso é autorizado. A proibição é para a injeção, pois ele não é considerado seguro para ser usado em injetáveis devido à falta de pesquisas científicas e aos riscos de despertar reações imunológicas que podem ser perigosas. Cremes cosméticos que possuem peptídeos em suas fórmulas ser comercializados BBC News fonte Getty ImagesCremes cosméticos que possuem peptídeos em suas fórmulas ser comercializados Da mesma forma, algumas pesquisas sugerem que o BPC-157 e o TB-500 podem promover o crescimento de novas células sanguíneas, reduzir a inflamação e cicatrizar tecidos em ratos. Mas não há estudos robustos sobre seus efeitos em humanos e com grupos de controle adequados. Por isso o seu uso como injetável também não é autorizado. \"Embora existam estudos laboratoriais e em animais mostrando resultados interessantes, as evidências clínicas em seres humanos ainda são limitadas. Isso significa que precisamos seguir estudando e informar a nossos pacientes sobre este tipo de medicina sempre com segurança\", diz Patricia Erazo, Coordenadora Científica Cosmiatria da Sociedade Brasileira de Cirurgia Plástica (SBCP) e membro da Federação Ibero Latinoamericana de Cirurgia Plástica (FILACP). Nenhum desses peptídeos citados possui registro na Anvisa para serem comercializados no Brasil. \"Os produtos que se apresentam como 'peptídeos' denominados 'GHK-CU, BPC-157, TB500', que prometem melhoras estéticas, não se encontram registrados perante a Anvisa. Da mesma forma não foram localizados registros de medicamentos contendo estes princípios ativos. Portanto, não há informações sobre a segurança de uso desses supostos produtos\", disse o órgão em nota. \"Apesar de suposta finalidade estética, esses produtos também não são cosméticos. Produtos cosméticos são unicamente para uso externo. Não existem cosméticos injetáveis e se o produto for oferecido desta forma, trata-se, com certeza, de produto irregular\", acrescentou a nota da Anvisa. O que é regulamentado? Uma das principais confusões para consumidores é a diferença entre peptídeos aprovados por agências reguladoras, como a Anvisa, e substâncias comercializadas sem autorização para uso clínico. Medicamentos peptídicos que passaram por estudos clínicos rigorosos e receberam aprovação de órgãos reguladores podem ser prescritos para indicações específicas. Neste grupo estão alguns hormônios, medicamentos para diabetes, obesidade e algumas terapias voltadas para doenças raras. Todos eles precisam ser prescritos por um médico e o uso é feito apenas com acompanhamento desse profissional. Outro grupo que pode ser comercializado são os cosméticos que possuem peptídeos em suas fórmulas. Esses podem ser em creme ou séruns, sempre de uso externo na pele, nunca injetável. Já outros peptídeos divulgados em clínicas de performance ou vendidos pela internet permanecem classificados como substâncias experimentais. No Brasil, não há liberação para nenhum tipo de peptídeo injetável para fins estéticos, de modo que procedimentos que consistem em injetar essas substâncias na pele não são seguros. Especialistas destacam que a ausência de aprovação regulatória não representa apenas uma questão burocrática. Ela indica que ainda não existem evidências suficientes para garantir que os potenciais benefícios superem os riscos. \"Os riscos dos injetados são muito sérios. Pode haver contaminação, reação inflamatória ou infecção. A pessoa não sabe usar a dose certa, então usa a dose errada e também há ausência de estudos robustos e segurança. Então, por isso eles são ilegais\", acrescenta Minami. Quais são os riscos do uso sem orientação? A percepção de que peptídeos seriam alternativas \"naturais\" ou livres de riscos é considerada equivocada pelos médicos. Como qualquer substância biologicamente ativa, eles podem provocar efeitos colaterais. Entre os problemas relatados estão retenção de líquidos, alterações hormonais, dores articulares, aumento da pressão arterial, alterações metabólicas e reações no local da aplicação. Como qualquer substância biologicamente ativa, peptídeos podem provocar efeitos colaterais como retenção de líquidos, alterações hormonais e dores articulares BBC News fonte Getty ImagesComo qualquer substância biologicamente ativa, peptídeos podem provocar efeitos colaterais como retenção de líquidos, alterações hormonais e dores articulares Outro risco importante está relacionado à procedência dos produtos. Peptídeos não regulamentados podem ser rotulados incorretamente, contaminados ou dosados ​​de forma inadequada. Também existem riscos biológicos. Peptídeos que influenciam o crescimento, o reparo muscular ou as vias hormonais também podem estimular processos indesejados. Em teoria, isso poderia incluir o crescimento de tumores existentes ou a interrupção da função endócrina normal. Esse risco de câncer é amplificado pela alta presença de metais pesados ​​nos mercados ilícitos de drogas para aprimoramento. Além disso, quando não regulamentados pela Anvisa, esses peptídeos não passam por controles rigorosos de qualidade, podendo haver concentração incorreta, contaminação microbiológica e até presença de substâncias diferentes das declaradas nos rótulos. Existe ainda a preocupação com efeitos desconhecidos de longo prazo. Como esses compostos não foram amplamente estudados em humanos, possíveis impactos após anos de uso ainda são incertos. \"Os riscos maiores seriam falsificação e de produtos sem procedência. Pode haver infecção por bactérias, a maneira de fabricação não ser adequada. Além disso, a gente não sabe se mais para frente vai ter algum prejuízo do uso desses produtos de maneira injetável, porque eles não são estudados\", acrescenta Alessandra Romiti, dermatologista, assessora do Departamento de Cosmiatria da Sociedade Brasileira de Dermatologia (SBD). BBC FOOTER NOVO BBC",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/06/cdatafebre-dos-peptideos-entenda-o-que-sao-e-quais-os-riscos.ghtml",
@@ -7385,6 +7590,46 @@
         {
           "sector": "Cosméticos",
           "alias": "aura",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 6.0
+    },
+    {
+      "title": "Copa 2026 exige novas estratégias dos patrocinadores",
+      "summary": "Gol da seleção americana em jogo contra a Austrália. \"O futebol é o esporte que mais cresce nos Estados Unidos”, afirma Brad Ross, do Bank of America AP Photo/Lindsey Wasson Os patrocinadores globais da Copa do Mundo de 2026 estão revendo a forma de explorar o maior evento do futebol. A exposição de marca continua relevante, mas deixou de ser tratada como suficiente por empresas como Bank of America, McDonald’s, PepsiCo e Visa, que tentam aproximar o torneio do próprio negócio. A mudança ocorre em uma edição maior e mais fragmentada do Mundial, disputado em três países e com 104 partidas. O desafio das companhias é transformar a atenção em torno da competição em resultados além da audiência dos jogos e da presença em placas, uniformes ou transmissões. O evento deve movimentar US$ 10,5 bilhões no mercado global de publicidade, alta de 1,1% em relação à edição de 2022, no Catar, apontam dados da plataforma Warc. Patrocinadora global da Fifa desde 2007, a empresa de meios de pagamento Visa chega à Copa deste ano com uma estratégia concentrada em acesso e conveniência para portadores de cartão e parceiros comerciais. “A maior mudança dos últimos anos foi deixar para trás a ideia de que patrocínio é apenas estar próximo e esperar que isso gere algum tipo de efeito positivo para a marca”, afirma o executivo global de marketing da Visa, Frank Cooper. “É sobre construir valor de marca, gerar receita com consumidores e com clientes.” A campanha global da empresa, “Tap In”, associa o pagamento por aproximação a uma jogada simples no futebol, sem atrito. Como exemplos de experiências voltadas ao torcedor, Cooper cita pré-venda, filas rápidas, promoções em pontos de venda oficiais e ações de hospitalidade. A Visa “aumentou significativamente” o investimento em marketing nesta edição em relação à Copa do Catar, afirma Cooper, sem detalhar valores. “À medida que mudamos nossa estratégia, desenhamos mais experiências que engajam os fãs, vemos aumento na receita com consumidores e ampliamos a receita com clientes associada às nossas parcerias”, diz. Dados da Visa Consulting & Analytics mostram que as transações da companhia na América Latina e no Caribe cresceram 30% entre 1º de abril e 15 de maio deste ano em relação ao mesmo período de 2025. O Brasil teve o maior avanço entre os mercados analisados, com alta de 55%. Serviços digitais por assinatura cresceram 34,6%, comércio eletrônico avançou 36% e eletrônicos e itens para casa subiram 9,4%. O Bank of America integra o grupo de patrocinadores da Copa pela primeira vez. O executivo global de parcerias em esportes do banco, Brad Ross, associa a aproximação com a Fifa à leitura de que o futebol ganhou relevância como plataforma nos Estados Unidos e pode ser usado para construir marca e impulsionar negócios nos 35 países em que o banco atua, incluindo o Brasil. “O futebol é o esporte que mais cresce nos Estados Unidos. É também o mais multinacional, com maior paridade de gênero e o que mais cresce entre os jovens no país”, afirma Ross. “Não somos Adidas ou Nike dentro do campo. Não somos Powerade à beira do gramado hidratando os atletas. Mas, como instituição financeira, conseguimos atuar como uma articuladora.” A instituição fechou acordo de dez anos com a U.S. Soccer e criou, em parceria com a entidade, a iniciativa “Soccer in Schools”, com meta de levar o futebol às escolas americanas até 2030. Também está expandindo a plataforma “Sports with Us”, voltada a jovens de 11 a 24 anos de comunidades carentes, com meta de alcançar mais de 10 mil jovens até o fim de 2028 em 14 mercados, incluindo o Brasil. No McDonald’s, a campanha global liga o evento a situações de consumo dentro dos restaurantes, reunindo nomes como os ex-jogadores David Beckham e Ronaldinho em cenas ambientadas nas unidades da rede. A vice-presidente global de marketing de Mc, Paloma Azulay, afirma que a marca busca “aparecer de forma que pareça naturalmente relevante em escala global; criar maneiras tangíveis para os fãs participarem, por meio de refeições e itens colecionáveis; e tornar a experiência acessível para além do estádio”. “Trata-se de aproximar a Copa do Mundo dos fãs em todos os lugares”. Equilibrar consistência global com relevância local é, de acordo com o executivo de marketing internacional de alimentos da PepsiCo, Jonnie Cahill, um dos pontos centrais da estratégia que leva a campanha de Lay’s, marca de batatas chips da companhia, a mais de 90 mercados no Mundial. O objetivo, diz, é ampliar a presença do produto em ocasiões de consumo associadas aos jogos, além de reforçar vendas, volume e espaço nas prateleiras. “Todo mundo meio que já nos conhece”, afirma Cahill. “Então é mais sobre proximidade, significado e mostrar aos consumidores que compartilhamos seus interesses, entendemos com o que eles se importam e queremos fazer parte dessas ocasiões.” A companhia lançou cerca de 40 sabores de edição limitada do produto em diferentes mercados. No Brasil, a seleção inclui picanha, taco mexicano e camembert. No Reino Unido, há uma versão inspirada em bangers and mash, prato britânico de salsicha com purê de batata. “Trabalhamos para garantir que a campanha faça sentido no Brasil ou no Reino Unido usando influenciadores e celebridades locais e customizando os sabores de edição limitada da marca por mercado.” Na opinião de Cahill, campanhas dessa escala se tornaram mais complexas com a multiplicação dos canais. “Se voltarmos à Copa do Mundo de 20 anos atrás, era muito simples: você fazia um grande comercial de TV, veiculava no mundo todo e criava alguma atividade promocional de curto prazo para as lojas”, diz. “Agora temos milhares de pontos de contato, de Instagram a WhatsApp, X, TV aberta e comunicação um a um.” A repórter viajou a convite da Unilever",
+      "url": "https://valor.globo.com/empresas/noticia/2026/06/22/copa-2026-exige-novas-estrategias-dos-patrocinadores.ghtml",
+      "published": "2026-06-22T08:01:48+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "adidas",
+        "americanas",
+        "nike"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "adidas",
           "field": "body",
           "score": 2,
           "topic": null
@@ -7831,29 +8076,6 @@
         }
       ],
       "score": 4.0
-    },
-    {
-      "title": "Preços do petróleo despencam, e Bolsas globais sobem após acordo entre Irã e EUA",
-      "summary": "Os preços do petróleo despencaram nesta segunda-feira, após os Estados Unidos e o Irã anunciarem um acordo para encerrar o conflito no Oriente Médio. Por volta das 7h30 (hora de Brasília), o petróleo registrava queda de mais de 5%. O Brent para entrega em agosto, referência global do mercado, era negociado a US$ 82,89 o barril, com recuo de 5,08%, enquanto o West Texas Intermediate (WTI), referência nos Estados Unidos, apresentava queda de 5,51%, cotado a US$ 80,20 o barril. Em vez do 1º emprego, a 1ª empresa: cresce número de jovens que começam a vida profissional pelo empreendedorismo Quais são as profissões mais bem pagas no Brasil? Ranking interativo revela ganhos com salário, bônus e verbas extras Enquanto isso, as bolsas asiáticas e europeias registraram alta, impulsionadas pelo acordo entre os Estados Unidos e o Irã. Nos EUA, os futuros também apresentavam alta no pré-mercado. Confira abaixo: Na Ásia: Tóquio: +4,99% Seul: + 5,54% Hong Kong: +0,50% China: +2,39% Na Europa: Londres: +0,14% Paris: +1,03% Frankfurt: +1,17% Nos EUA: Futuro do Nasdaq: +2,00% Futuro do S&amp;P: +1,22% Futuro do Dow Jones: +0,81% Washington e Teerã chegaram a um acordo para encerrar a guerra no Oriente Médio \"imediata e permanentemente\" em todas as frentes, incluindo o Líbano, anunciou o mediador paquistanês na segunda-feira (horário local, noite de domingo em Brasília). Galerias Relacionadas O presidente dos EUA, Donald Trump, afirmou nas redes sociais que o Estreito de Ormuz seria reaberto após a assinatura do acordo na sexta-feiera. O tráfego por essa via navegável estratégica estava paralisado desde o início do conflito no final de fevereiro, provocando uma forte alta nos preços do petróleo. Um quinto do petróleo bruto mundial normalmente passa pelo Estreito de Ormuz. Impacto: El Niño deve ‘queimar’ reserva de hidrelétricas e encarecer tarifas de energia em 2027 \"Antes do conflito, cerca de 140 navios transitavam pelo estreito diariamente. O tráfego melhorou, mas permanece bem abaixo do normal. Uma verdadeira reabertura teria, portanto, um impacto imediato (...)\" nos preços do petróleo, disse Stephen Innes, analista da SPI Asset Management, no domingo. Após acordo entre EUA e Irã, mais de 600 navios permanecem retidos e aguardam luz verde para cruzar o Estreito de Ormuz . Galerias Relacionadas Os mercados globais de energia vêm sendo fortemente impactados pela guerra desde o início do conflito, no fim de fevereiro, quando Estados Unidos e Israel atacaram o Irã com o objetivo de conter seu programa nuclear. Primeiro trilionário da história: fortuna de Musk supera patrimônio somado do fundador da Amazon e criadores do Google A resposta de Teerã incluiu ataques em diversas áreas do Golfo Pérsico e o fechamento do Estreito de Ormuz, por onde, em tempos de normalidade, transitava cerca de um quinto do petróleo comercializado globalmente. Paralelamente, forças americanas também impuseram um bloqueio a embarcações ligadas ao Irã. Após dispararem no início da guerra, os preços do petróleo perderam força nas últimas semanas diante dos sinais de aproximação entre Washington e Teerã e de indícios de retomada parcial dos fluxos de petróleo pelo estreito. Além disso, países desenvolvidos recorreram às suas reservas estratégicas de petróleo, enquanto grandes importadores, especialmente a China, reduziram suas compras. Embora o acordo represente um importante alívio para os produtores de energia do Golfo, para a indústria global de transporte marítimo e para os consumidores, ainda existem obstáculos para a normalização completa do tráfego em Ormuz. Embaixador Mauricio Lyrio sobre as tarifas: 'Penalizar um país como o Brasil, que tem já déficit com os Estados Unidos, é um erro' Entre eles estão a remoção de minas navais e a definição das novas exigências do Irã para o controle das embarcações que atravessam a região. Os contratos futuros de gás natural na Europa também registraram forte queda, chegando a recuar até 5,8%.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/06/15/precos-do-petroleo-despencam-e-bolsas-asiaticas-sobem-apos-acordo-entre-ira-e-eua.ghtml",
-      "published": "2026-06-15T03:12:31+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
     },
     {
       "title": "Macron reage após ameaça de Trump: 'Não cabe aos EUA decidirem sobre as leis europeias'",
@@ -8837,6 +9059,29 @@
         {
           "sector": "Viagens",
           "alias": "turismo",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Por que cada vez mais mulheres chinesas preferem usar roupas masculinas?",
+      "summary": "As jovens chinesas afirmam optar por roupas masculinas porque são de melhor qualidade, mais baratas e mais confortáveis BBC News fonte Getty ImagesAs jovens chinesas afirmam optar por roupas masculinas porque são de melhor qualidade, mais baratas e mais confortáveis À medida que o verão se aproximava, Kexin percebeu uma mudança ao organizar seu guarda-roupa: a quantidade de roupas masculinas superava a de peças femininas. As camisas, camisetas e bermudas não tinham sido compradas para seu namorado nem para seu pai, mas para ela mesma. Kexin, que preferiu não revelar seu sobrenome, não é a única a notar essa mudança. Um número crescente de mulheres jovens chinesas, tanto em seu círculo social quanto em diversas publicações pelas redes sociais, afirma ter passado a usar roupas masculinas por motivos semelhantes: melhor qualidade, preços mais baixos, maior conforto e menos pressão relacionada à aparência física. Mas o que está impulsionando essa tendência? No popular aplicativo chinês de redes sociais Xiaohongshu, também conhecido como RedNote, a hashtag \"mulheres usando roupas masculinas\" já acumulou mais de 82 milhões de visualizações, enquanto a hashtag \"moda de gênero neutro\" ultrapassou 90 milhões. As discussões sobre o tema se multiplicaram, frequentemente destacando vantagens das roupas masculinas, como maior uso de algodão e linho, modelagem mais refinada, bolsos maiores, costuras mais suaves, melhor acabamento e preços mais baixos. A mudança no modo de vestir acontece em meio a um cenário de enfraquecimento do consumo na economia chinesa BBC News fonte Getty ImagesA mudança no modo de vestir acontece em meio a um cenário de enfraquecimento do consumo na economia chinesa Kexin lembra que a mudança em seu modo de vestir começou em 2023, quando, em sua conta do Douyin (a versão chinesa do TikTok), ela começou a receber vídeos de vendas de camisetas masculinas. No início, achou aquilo estranho. Ela nunca tinha comprado roupas na internet para o pai ou para um namorado, então por que o algoritmo estava recomendando aquele tipo de conteúdo? Kexin achou que fosse um erro, até que um dia deixou o celular passando um anúncio de venda de roupas enquanto estava no banheiro. \"As garotas podem comprar esse item em um tamanho menor e usarem\", diz. \"É unissex, as mulheres também podem usar.\" Essas frases se repetiam continuamente ao longo de poucos minutos. Em comparação com os conteúdos voltados para mulheres, que costumam enfatizar emagrecimento, esconder supostas imperfeições ou projetar um ideal delicado e feminino, aquele anúncio se concentrava na qualidade do tecido e dos materiais. O que foi a Revolução Cultural e como ela moldou a história da China há 60 anos? Os jovens chineses solitários e desiludidos que buscam carinho e conexão com 'pais virtuais' Como suas roupas velhas podem ir parar neste deserto no Chile \"Isso chamou minha atenção\", conta ela. \"Nunca entendi por que as roupas femininas focam tanto nos padrões tradicionais de beleza, principalmente quando os modelos costumam ser tão desconfortáveis.\" O preço também era um atrativo: a maioria das camisas custava cerca de 100 yuans (R$ 75). Mesmo que tivesse que devolvê-las depois, o risco parecia pequeno. Ela comprou sua primeira camiseta \"masculina\" e ficou surpresa. A peça era mais confortável, mais encorpada e mais respirável do que as roupas femininas que havia comprado antes por preços até três vezes mais altos. Não demorou para que começasse a comprar mais roupas masculinas, e a vergonha que achou que sentiria ao usá-las nunca se concretizou. Com o tempo, essas peças foram gradualmente tomando conta do seu guarda-roupa, \"como uma espécie invasora expulsando a nativa\", descreve ela. Gastando menos A tendência de usar roupas masculinas é mais comum entre jovens mulheres chinesas, e tem ganhado tração nas redes sociais BBC News fonte @wangwangsuibingbingA tendência de usar roupas masculinas é mais comum entre jovens mulheres chinesas, e tem ganhado tração nas redes sociais Essa tendência também ocorre em um contexto de enfraquecimento do consumo na China desde o fim das restrições relacionadas à covid, em 2022. Para trabalhadoras como Kexin, que segue a exigente jornada conhecida como \"996\" (das 9h às 21h, seis dias por semana), a cautela financeira se tornou a regra. Ela está menos disposta a trocar de emprego e mais relutante em gastar muito mesmo com itens essenciais, como roupas. Nesse cenário, alguns consumidores passaram a adotar tendências de \"consumo reverso\", priorizando valor e durabilidade em vez da moda rápida (fast fashion). \"Se alguma peça não fica boa, é fácil devolver\", afirma Kexin. \"Já não vejo sentido em gastar muito dinheiro com roupas. De uma forma ou de outra, quase nunca uso uma peça por mais de uma temporada.\" Problemas com os tamanhos Para Li, uma advogada de Xangai, as roupas masculinas são mais funcionais: uma calça tamanho M pode acomodar até um tablet de 28 cm ou um livro nos bolsos BBC News fonte BBCPara Li, uma advogada de Xangai, as roupas masculinas são mais funcionais: uma calça tamanho M pode acomodar até um tablet de 28 cm ou um livro nos bolsos Para muitas delas, a mudança tem menos a ver com demonstrar uma posição sobre gênero e mais com funcionalidade. O tamanho é um dos aspectos mais criticados das roupas femininas na China. Em redes sociais como Douyin e Xiaohongshu, influenciadoras mostram como os maiores tamanhos muitas vezes não servem nelas, com peças classificadas como XL (extra grande) excessivamente apertadas na região das coxas. Em um vídeo que viralizou, uma blogueira coloca uma camisa tamanho grande em seu poodle e ela fica muito apertada. Li, uma advogada que mora em Xangai e que pediu para ser identificada apenas pelo sobrenome, afirma que passou a usar roupas masculinas porque as femininas quase nunca serviam nela. Ela mede 1,70 m e tem ombros largos. Só quando estudou na Europa percebeu que o tamanho M (médio) padrão lhe servia bem. \"Parece que as roupas femininas aqui não foram feitas para pessoas com o meu tipo de corpo\", diz ela. Ela também destaca que roupas masculinas são mais funcionais: um par de calças masculinas tamanho M pode acomodar um tablet de 28 cm e um livro nos bolsos sem comprometer o caimento. \"Que roupa feminina consegue fazer isso?\", pergunta. \"Até um batom no bolso já resulta em um volume perceptível na calça.\" As pressões da indústria Os tamanhos das roupas femininas produzidas na China muitas vezes não servem bem em mulheres altas BBC News fonte @likekeOs tamanhos das roupas femininas produzidas na China muitas vezes não servem bem em mulheres altas Segundo Wang, uma designer de uma marca de moda de médio porte, tanto os problemas de tamanho quanto os de qualidade são reflexos de pressões na indústria. O setor de confecção na China encolheu significativamente desde a pandemia, com queda na produção e nas exportações. O crescimento do varejo desacelerou de forma acentuada, com alta de apenas 0,1% em 2024, em comparação com quase 15% em 2023. As empresas agora produzem menos novos modelos, e os consumidores — que já possuem roupas suficientes — estão reduzindo suas compras. Para reduzir custos, algumas marcas passaram a comprar modelos prontos do Sudeste Asiático em vez de desenvolver seus próprios designs. Mas esses modelos nem sempre se ajustam às formas do corpo chinês, o que contribui para um mau caimento e para o aumento da chamada \"numeração infantil\" nas roupas femininas. A variedade de modelos também é guiada pela economia. Segundo Wang, roupas voltadas para corpos mais magros são mais baratas e fáceis de produzir, enquanto tamanhos maiores exigem modelagem mais complexa e custos mais altos. \"Se vender 20 peças grandes custa o mesmo que 200 médias, as empresas simplesmente vão abandonar os tamanhos maiores\", afirma Wang. Com o custo dos tecidos subindo de forma acentuada, os produtores enfrentam novas pressões, acrescenta a designer, e alerta que o resultado provavelmente será roupas ainda mais justas no próximo ano. Para consumidoras como Kexin, isso apenas acelerará a mudança que já está acontecendo em seu guarda-roupa. Reportagem adicional de Luis Barrucho Mais Lidas BBC FOOTER NOVO BBC",
+      "url": "https://epocanegocios.globo.com/mundo/noticia/2026/06/cdatapor-que-cada-vez-mais-mulheres-chinesas-preferem-usar-roupas-masculinas.ghtml",
+      "published": "2026-06-21T19:01:41+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "tiktok"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
           "field": "body",
           "score": 2,
           "topic": null
