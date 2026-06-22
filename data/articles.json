@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-22T12:38:08.421915+00:00",
-  "count": 328,
-  "new_this_run": 6,
+  "generated_at": "2026-06-22T13:14:37.991345+00:00",
+  "count": 332,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Com chegada de concorrente, Eurofarma faz nova redução de até 48% no preço de canetas emagrecedoras",
@@ -507,6 +507,61 @@
       "score": 64.0
     },
     {
+      "title": "Ex-GPA assume atacarejo de R$ 8 bilhões: 'Mais do que abrir lojas, queremos eficiência'",
+      "summary": "Executivo com passagens por GPA, Carrefour e Walmart assume o Tenda Atacado em meio à desaceleração da expansão do setor e aposta em eficiência, digitalização e marca própria para crescer no atacarejo",
+      "url": "https://exame.com/negocios/ex-gpa-assume-atacarejo-de-r-8-bilhoes-mais-do-que-abrir-lojas-queremos-eficiencia",
+      "published": "2026-06-22T10:02:52+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "atacarejo",
+        "carrefour",
+        "gpa",
+        "tenda",
+        "tenda atacado"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "tenda atacado",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "atacarejo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "tenda",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 64.0
+    },
+    {
       "title": "Keeta contra-ataca iFood e decide pagar multa de exclusividade de restaurantes. Mas veta (em partes) 99Food",
       "summary": "A guerra do mercado delivery no Brasil entre as empresas ganha mais um capítulo. Após ser acusada de espionagem pelo iFood, a Keeta, plataforma controlada pela chinesa Meituan, resolveu contra-atacar a líder de mercado. E a estratégia envolve diminuir o volume de restaurantes que só podem oferecer serviços para a concorrente. O plano da Keeta [&#8230;] O post Keeta contra-ataca iFood e decide pagar multa de exclusividade de restaurantes. Mas veta (em partes) 99Food apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/keeta-contra-ataca-ifood-e-decide-pagar-multa-de-exclusividade-de-restaurantes-mas-veta-99food",
@@ -1001,37 +1056,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "Justiça defere RJ da dona da Tok&Stok e Mobly - O GLOBO",
-      "summary": "Justiça defere RJ da dona da Tok&amp;Stok e Mobly &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/06/justica-defere-rj-da-dona-da-tokandstok-e-mobly.ghtml",
-      "published": "2026-06-15T13:08:42+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "mobly",
-        "tok&stok"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "tok&stok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "mobly",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Justiça aprova pedido de recuperação judicial do grupo Toky, dono da Tok&Stok e da Mobly",
@@ -2013,37 +2037,6 @@
       "score": 32.0
     },
     {
-      "title": "Bets disparam com Copa e acendem alerta no sistema financeiro",
-      "summary": "Com gasto mensal de R$ 30 bilhões, mercado estima nova onda de apostas durante a Copa, elevando o risco de endividamento das famílias",
-      "url": "https://veja.abril.com.br/coluna/neuza-sanches/bets-disparam-com-copa-e-acendem-alerta-no-sistema-financeiro",
-      "published": "2026-06-15T13:00:44+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets",
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Dono da Tok&Stok diz que Justiça aprovou pedido de recuperação judicial",
       "summary": "O grupo Toky, dono das lojas de móveis Tok&amp;Stok e Mobly, comunicou nesta segunda-feira (15) que a 3ª Vara de Falências e Recuperações Judiciais do Foro Central Cível do Estado de São Paulo aprovou o processamento do pedido de recuperação judicial da companhia e de suas subsidiárias. Leia mais (06/15/2026 - 10h57)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/06/dono-da-tokstok-diz-que-justica-aprovou-pedido-de-recuperacao-judicial.shtml",
@@ -2591,52 +2584,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Lula amplia vantagem sobre Flávio Bolsonaro impulsionado por beneficiários do Bolsa Família",
-      "summary": "Lula continua avançando na disputa contra Flávio Bolsonaro pela Presidência. A diferença chegou a nove pontos no primeiro turno — 43% para o atual presidente, contra 34% para o candidato do PL — e a seis pontos no segundo turno: 49% frente a 43%. A pesquisa BTG/Nexus divulgada nesta segunda-feira, aponta o Bolsa Família como um dos principais motores de consolidação da base de apoio do atual presidente à reeleição. A intenção de votos em Lula entre os beneficiários do programa saltou de 57%, no levantamento de 25 de maio, para 62% na pesquisa desta semana. No mesmo intervalo, Flávio Bolsonaro viu sua preferência cair de 25% para 20% nesse grupo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/06/lula-amplia-vantagem-sobre-flavio-bolsonaro-impulsionado-por-beneficiarios-do-bolsa-familia.ghtml",
-      "published": "2026-06-15T12:57:18+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Geração Z rejeita smartphones e impulsiona vendas de câmeras digitais",
-      "summary": "As câmeras digitais estão protagonizando uma improvável retomada de vendas pela primeira vez desde o surgimento do iPhone, à medida que consumidores da Geração Z rejeitam a perfeição ultraprocessada das fotos de smartphone. Leia mais (06/15/2026 - 10h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/06/geracao-z-rejeita-smartphones-e-impulsiona-vendas-de-cameras-digitais.shtml",
-      "published": "2026-06-15T13:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Eletrônicos"
-      ],
-      "matched_aliases": [
-        "smartphones"
-      ],
-      "matches": [
-        {
-          "sector": "Eletrônicos",
-          "alias": "smartphones",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Citi rebaixa recomendação de Nubank para 'neutra' em função de riscos no crédito",
@@ -5767,6 +5714,98 @@
       "score": 20.0
     },
     {
+      "title": "Johnnie Walker vende whisky a preço de 2002 em ação com o iFood na Copa do Mundo",
+      "summary": "Ação celebra o terceiro jogo do Brasil na Copa e vende rótulos com valores de 2002 em parceria com o iFood Ads",
+      "url": "https://exame.com/marketing/johnnie-walker-vende-whisky-a-preco-de-2002-em-acao-com-o-ifood-na-copa-do-mundo",
+      "published": "2026-06-22T10:00:04+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras podem influenciar a evolução do câncer? - Folha de S.Paulo",
+      "summary": "Canetas emagrecedoras podem influenciar a evolução do câncer? &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/06/canetas-emagrecedoras-podem-influenciar-a-evolucao-do-cancer.shtml",
+      "published": "2026-06-22T12:39:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Turismo bate recorde no Brasil, mas segurança preocupa",
+      "summary": "Pesquisa realizada pela consultoria OnStrategy traz subsídios para entender por que o Brasil vem batendo sucessivos recordes de chegadas de turistas do exterior nos últimos anos. Os entrevistados estrangeiros demonstraram ter uma visão sobre a imagem do país melhor que a dos próprios brasileiros. Quando perguntados sobre a admiração e a confiança que sentem pelo Brasil, os estrangeiros atribuíram nota 6,2 (numa escala de 0 a 10), enquanto a percepção dos entrevistados moradores no país foi qualificada com 5,8. Alguns dos pontos positivos do país citados no trabalho estão nas belezas naturais, que fazem do turismo o principal motor de imagem, segundo a OnStrategy. Levantamento da Agência Brasileira de Promoção Internacional do Turismo (Embratur) quantifica essa percepção ao divulgar que, no primeiro quadrimestre de 2026, o Brasil alcançou os melhores resultados da história nas chegadas de turistas internacionais de dez dos principais mercados emissores para o país. De janeiro a abril, Colômbia, China, México, Portugal, Peru, Canadá, Reino Unido, Chile, Austrália e Uruguai enviaram, juntos, mais de 1,1 milhão de visitantes aos destinos brasileiros. Todos os países integram o conjunto de mercados considerados estratégicos pela Embratur. Entre os destaques nesses mercados, a Colômbia apresentou o maior crescimento, com 37,2% de chegadas a mais que no recorde anterior, em 2025, alcançando 70.332 visitantes. A China também registrou forte avanço, com alta de 33,6% e 39.880 turistas no período. Já o México cresceu 33,4%, chegando a 46.963 visitantes internacionais. O Banco Central traduziu quanto esse recorde de visitas representou em divisas no período de janeiro a abril deste ano: R$ 20,2 bilhões. Esse montante significa um aumento de 9,2% em relação ao mesmo período de 2025, quando os gastos dos turistas estrangeiros somaram R$ 18,5 bilhões. \"O turismo brasileiro vive um momento especial, com estatísticas positivas em todos os segmentos\", afirma o ministro do Turismo, Gustavo Feliciano. \"Nossa atuação na busca por turistas de outros países tem sido intensa. Mais do que movimentar aeroportos, hotéis e restaurantes, o turismo brasileiro transforma a realidade de milhares de brasileiros e brasileiras\". Para Adriana Noguti, diretora de Comunicação e Marketing da RTSC — holding de investimentos em empreendimentos imobiliários e turísticos —, mais do que um destino, o Brasil começa a se consolidar como uma marca de experiência. \"O olhar internacional sobre o país revela um potencial competitivo que vai além do turismo e fortalece a imagem brasileira no cenário global. Os dados mostram que a Marca Brasil está mais forte no exterior do que muitas vezes percebemos internamente. O país reúne atributos únicos de diversidade, cultura, natureza e hospitalidade que hoje dialogam diretamente com as novas demandas do turismo global. Por esses motivos, é mais do que preciso investir em equipamentos que alavanquem o turismo brasileiro\", ressalta Adriana. Segundo a executiva da RTSC, o turismo brasileiro vive um momento muito positivo, mas são necessários investimentos voltados à melhoria de infraestruturas e de segurança, tanto para os visitantes do exterior quanto para os próprios brasileiros. A pesquisa da consultoria OnStrategy, chamada Marca Brasil, também detecta essas preocupações, ao mostrar que o Brasil possui uma identidade forte, mas falha no quesito segurança pública, que teve a pior pontuação no estudo, visto como um teto invisível que limita o crescimento da imagem do país. Para realizar a pesquisa Marca Brasil, a OnStrategy entrevistou 192.400 brasileiros e 278.200 estrangeiros de forma online, entre cidadãos, executivos de empresas, jornalistas, influenciadores e autoridades, entre outubro de 2025 e março de 2026. O trabalho analisou a percepção global do Brasil sobre diversos segmentos, desde imagem e reputação, passando pelo ambiente político e de negócios, estilo de vida, agricultura, turismo, entre outros.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/22/turismo-bate-recorde-no-brasil-mas-seguranca-preocupa-1.ghtml",
+      "published": "2026-06-22T12:52:46+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nova rede de academias investe R$ 5 milhões e planeja abrir 50 unidades no Brasil",
+      "summary": "My Legacy Gym estreia em São Paulo apostando em um modelo que combina fitness, wellness, tecnologia e serviços integrados de saúde",
+      "url": "https://veja.abril.com.br/economia/nova-rede-de-academias-investe-r-5-milhoes-e-planeja-abrir-50-unidades-no-brasil",
+      "published": "2026-06-22T13:03:03+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "rede de academias"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "rede de academias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Undav, Pavlović e Havertz: camisas alemãs na Copa do Mundo esgotam por falta da letra 'V'",
       "summary": "Após a forte procura dos torcedores, camisas da Copa do Mundo de vários jogadores da seleção da Alemanha ficaram temporariamente indisponíveis. O motivo: a falta da letra “V”, informou a Adidas nesta quarta-feira. De acordo com a gigante de artigos esportivos, os torcedores correram para comprar camisas de Kai Havertz, Deniz Undav e Aleksandar Pavlović, esgotando os estoques da letra. Copa do Mundo: Venda de chuteiras rosa disparam. Procura cresce até 50% Escolha diferente: Messi é o único jogador de linha da Argentina sem chuteira rosa na Copa do Mundo; entenda o motivo Um porta-voz da Adidas, que fornece os uniformes da seleção alemã de futebol, confirmou que \"houve uma escassez temporária da letra V\", acrescentando que “essas faltas foram rapidamente resolvidas” e que as camisas de futebol com a “letra ‘V’ estarão novamente disponíveis em breve para encomenda on-line”. A AFP reportou que uma tentativa de comprar uma camisa do jogador Kai Havertz na loja on-line da Adidas não teve sucesso mais cedo nesta quarta-feira. No site, aparecia a seguinte mensagem: “Desculpe, estamos atualmente sem estoque dos seguintes caracteres: V.” Mais tarde, porém, as camisas voltaram a ficar disponíveis horas depois, ao custo de € 170 (o equivalente a US$ 198 ou R$ 1.000). Messi mania: Figurinha dourada do craque sai a preço de ouro na Argentina A Adidas fornece uniformes para 14 das 48 seleções que disputam a Copa do Mundo deste ano e obtém enormes lucros com a venda de produtos relacionados ao torneio. No entanto, diz a AFP, a seleção da Alemanha deixará de usar a Adidas como fornecedora de seus uniformes a partir de 2027, encerrando uma parceria que durou mais de 70 anos e incluiu quatro títulos mundiais. Ela vai passar a utilizar os produtos da Nike.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/06/17/undav-pavlovic-e-havertz-camisas-alemas-na-copa-do-mundo-esgotam-por-falta-da-letra-v.ghtml",
@@ -7437,6 +7476,52 @@
           "field": "lead",
           "score": 8,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Anvisa aprova novo tratamento sem hormônios para sintomas da menopausa",
+      "summary": "Medicamento é voltado ao controle de ondas de calor e outros sintomas da menopausa, além de poder ser alternativa à reposição hormonal",
+      "url": "https://veja.abril.com.br/saude/anvisa-aprova-novo-tratamento-sem-hormonios-para-sintomas-da-menopausa",
+      "published": "2026-06-22T12:53:33+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "‘Guerreiras do K-pop’ fez voos para a Coreia do Sul aumentarem 25% globalmente",
+      "summary": "Animação da Netflix completa um ano após se tornar a produção original mais vista da plataforma e gerar impactos em turismo, varejo e consumo de produtos",
+      "url": "https://veja.abril.com.br/cultura/guerreiras-do-k-pop-fez-voos-para-a-coreia-do-sul-aumentarem-25-globalmente",
+      "published": "2026-06-22T13:00:37+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 8.0
@@ -9119,6 +9204,29 @@
       "url": "https://epocanegocios.globo.com/mundo/noticia/2026/06/cdatareino-unido-tera-7o-primeiro-ministro-em-10-anos-pais-esta-se-tornando-ingovernavel.ghtml",
       "published": "2026-06-22T11:03:15+00:00",
       "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "truss"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "truss",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Reino Unido se prepara para sétimo premiê em dez anos de turbulência pós-Brexit; veja retrospectiva",
+      "summary": "O primeiro-ministro britânico, Keir Starmer, afirmou nesta segunda-feira (22) que deixará o cargo, abrindo caminho para que o país tenha o sétimo líder em dez anos. O período de turbulência remonta ao referendo do Brexit, que completa dez anos justamente nesta terça-feira. Desde a votação, o Reino Unido tem tentado traçar seu próprio caminho, mas enfrentou dificuldades para impulsionar uma economia de baixo crescimento, limitada por elevados níveis de endividamento e pelo aumento dos gastos sociais, em um momento de crescente volatilidade geopolítica. Veja, a seguir, uma retrospectiva dos nomes que passaram por Downing Street na última década. Junho de 2016: Reino Unido vota pelo Brexit e Cameron renuncia Os britânicos provocam um choque global ao votar, por 52% a 48%, pela saída da União Europeia, encerrando uma união de mais de 40 anos e mergulhando o país em sua maior crise política desde a Segunda Guerra Mundial. O primeiro-ministro conservador David Cameron renuncia e o partido escolhe Theresa May para sucedê-lo. Junho de 2017: aposta em eleição antecipada dá errado Em alta nas pesquisas e buscando ampliar sua maioria parlamentar para aprovar a legislação do Brexit, May convoca eleições antecipadas. Os conservadores perdem a maioria e formam um governo após um acordo com o Partido Unionista Democrático (DUP), pró-Reino Unido, da Irlanda do Norte. Maio de 2019: impasse do Brexit, May renuncia e Johnson assume May deixa o cargo após fracassar em romper o impasse parlamentar sobre a saída britânica da União Europeia. Boris Johnson, um dos principais rostos da campanha pró-Brexit, vence a disputa interna do Partido Conservador. O ex-primeiro ministro britânico, Boris Johnson, dirige seus seguidores antes de subir a um ônibus de campanha eleitoral em Manchester, Inglaterra, no dia 15 de novembro de 2019 AP/Frank Augstein, Pool, Arquivo Dezembro de 2019: Johnson conduz conservadores à vitória histórica Com o Parlamento paralisado pelo Brexit, Johnson convoca eleições antecipadas. Sob o slogan “Concluir o Brexit”, leva os conservadores à maior vitória eleitoral desde a ampla vitória de Margaret Thatcher, em 1987. Janeiro de 2020: o Brexit é concluído Johnson usa seu mandato para aprovar um acordo do Brexit junto ao Parlamento britânico e a Bruxelas, e o Reino Unido deixa a União Europeia em 31 de janeiro de 2020, tornando-se o primeiro país a abandonar o bloco. Julho de 2022: Johnson é derrubado Johnson lidera o país durante a pandemia de Covid-19 — chegando a ser hospitalizado pela doença —, mas uma longa série de escândalos e erros políticos acaba provocando sua queda após uma rebelião ministerial. Setembro de 2022: o governo caótico de Truss Liz Truss derrota Rishi Sunak na disputa para suceder Johnson. Seu “mini-orçamento”, que incluía cortes de impostos sem fontes de financiamento, assusta os mercados financeiros, eleva os custos de empréstimos e prejudica ainda mais a reputação britânica de estabilidade política e fiscal. Ela permanece apenas 44 dias no cargo antes de anunciar sua renúncia. Outubro de 2022: Sunak se torna primeiro-ministro Sunak assume como o terceiro primeiro-ministro britânico em apenas três meses, prometendo restaurar a estabilidade do governo. Ele apresenta cinco promessas principais, focadas na economia, no combate à imigração ilegal e na melhoria do sistema de saúde. Em fevereiro de 2023, fecha um acordo com a União Europeia sobre as regras comerciais da Irlanda do Norte, melhorando as relações com o bloco. Maio de 2024: Sunak convoca eleições Cerca de 20 pontos atrás do Partido Trabalhista nas pesquisas, Sunak convoca eleições para 4 de julho. Julho de 2024: Starmer se torna primeiro-ministro “Nós dissemos que acabaríamos com o caos, e vamos acabar”, afirmou Keir Starmer, líder do Partido Trabalhista, a apoiadores em 5 de julho de 2024, após conquistar uma vitória esmagadora nas urnas, mas com a menor fatia do voto popular já obtida por um governo majoritário na história moderna. Agosto de 2024: Starmer alerta que ‘as coisas vão piorar’ Starmer alerta para a situação das contas públicas, afirmando que o Partido Trabalhista herdou “um buraco negro econômico” e dizendo aos eleitores que “as coisas vão piorar antes de melhorar”. Outubro de 2024: primeiro orçamento do partido trabalhista A ministra das Finanças, Rachel Reeves, anuncia aumentos de impostos equivalentes a 40 bilhões de libras (US$ 52,76 bilhões) por ano, principalmente por meio da elevação das contribuições previdenciárias pagas pelos empregadores, levando a carga tributária ao maior nível já registrado em tempos de paz e provocando protestos do setor empresarial. Fevereiro de 2025: Reform UK, de Nigel Farage, ganha força O partido de direita e anti-imigração Reform UK ultrapassa o Partido Trabalhista em uma pesquisa nacional pela primeira vez. A legenda, liderada pelo defensor do Brexit Nigel Farage, lidera as pesquisas desde então. Nigel Farage comemora e posa para fotógrafos ao sair de uma festa da organização 'Leave.EU' para o referendo sobre a permanência do Reino Unido na União Europeia, em Londres, 24 de junho de 2016 AP/Matt Dunham, Arquivo Junho de 2025: rebelião obriga Starmer a recuar em cortes sociais Starmer é forçado a abandonar planos de reduzir os gastos com assistência social após parlamentares de seu próprio partido ameaçarem derrotar o governo. Setembro de 2025 a abril de 2026: escândalo Mandelson A pressão sobre Starmer aumenta por causa da nomeação de Peter Mandelson como embaixador britânico em Washington. Mandelson acaba demitido devido a seus vínculos com o falecido criminoso sexual Jeffrey Epstein, enquanto surgem questionamentos sobre o julgamento político de Starmer e o processo de avaliação adotado. Maio de 2026: desastre nas eleições locais O Partido Trabalhista sofre pesadas derrotas nas eleições locais inglesas e nas votações para os parlamentos da Escócia e do País de Gales, aprofundando as dúvidas sobre a capacidade de Starmer de governar. O principal beneficiado é o Reform UK. Maio de 2026: Wes Streeting renuncia ao ministério da saúde O ministro da Saúde, Wes Streeting, deixa o cargo afirmando ter perdido a confiança na liderança de Starmer e pede uma disputa pela liderança do partido, da qual diz esperar participar. Junho de 2026: ministro da defesa John Healey renuncia O ministro da Defesa, John Healey, deixa o governo após meses de disputa sobre os gastos militares, acusando Starmer de não destinar os recursos necessários para proteger o país diante do aumento das ameaças. Junho de 2026: Andy Burnham mostra que pode derrotar o Reform UK O prefeito da Grande Manchester, Andy Burnham, vence uma eleição no norte da Inglaterra, derrotando amplamente o Reform UK e garantindo seu retorno a Westminster, eliminando um importante obstáculo a uma eventual disputa pela liderança contra Starmer. O candidato trabalhista Andy Burnham gesticula, cercado por apoiadores no Stubshaw Cross Community and Sports Club, durante a votação na eleição suplementar de Makerfield, em Ashton-in-Makerfield, Inglaterra, quinta-feira, 18 de junho de 2026 Peter Byrne/PA via AP, arquivo",
+      "url": "https://valor.globo.com/mundo/noticia/2026/06/22/reino-unido-se-prepara-para-setimo-premie-em-dez-anos-de-turbulencia-pos-brexit-veja-retrospectiva.ghtml",
+      "published": "2026-06-22T12:38:39+00:00",
+      "source": "https://pox.globo.com/rss/valor",
       "matched_sectors": [
         "Cosméticos"
       ],
