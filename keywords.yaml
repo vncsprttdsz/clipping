@@ -113,10 +113,20 @@ sectors:
   E-commerce:
     # Simples - players com operação BR relevante
     - mercadolibre
-    - mercado libre
     - mercado pago
     - mercado crédito
     - meli
+    # Grafia espanhola "Mercado Libre" (veículos hispânicos: iProUP, Ámbito,
+    # El Economista). Ambíguo igual à versão PT: "mercado libre de energía" e
+    # contexto econômico de livre mercado não são e-commerce.
+    - alias: mercado libre
+      requires_any: [mercado pago, ecommerce, e-commerce, marketplace, fintech,
+                     billetera, compras, comercio, galperin, meli, unicornio,
+                     plataforma, logística, logistica, vendedor, vendedores,
+                     comprador, app, aplicación]
+      requires_none: [mercado libre de energía, mercado libre de energia,
+                      energía eléctrica, libre mercado, libre comercio,
+                      libre cambio]
     - alias: shopee
       # Esportivo: álbum/figurinhas da Copa = ação de marketing, não e-commerce
       requires_none: [álbum de figurinhas, album de figurinhas, álbum da copa,
@@ -417,6 +427,17 @@ sectors:
     - canetas anti-obesidade
     - remédio para emagrecer
     - remédios para emagrecer
+    # "canetas" sozinho (sem "emagrecedoras") aparece em manchetes de saúde
+    # tipo "canetas pelo SUS". Ambíguo - exige contexto de emagrecimento/GLP-1
+    # pra não casar caneta de escrever.
+    - alias: canetas
+      requires_any: [emagrec, obesidade, glp-1, glp1, ozempic, wegovy,
+                     mounjaro, semaglutida, tirzepatida, sus, anvisa,
+                     novo nordisk, eli lilly, diabetes, peso, sobrepeso]
+    - alias: caneta
+      requires_any: [emagrec, obesidade, glp-1, glp1, ozempic, wegovy,
+                     mounjaro, semaglutida, tirzepatida, retatrutida,
+                     contrabandeada, contrabandeado, paraguai]
 
     # Ambíguos
     - alias: raia
@@ -431,60 +452,67 @@ sectors:
     - alias: genérico
       requires_any: [farmácia, drogaria, raia, drogasil, pague menos, panvel,
                      medicamento, remédio, similar, laboratorio]
+    # Ozempic/Wegovy/Mounjaro: nomes inequívocos. Usam requires_any com
+    # contexto de saúde/mercado ESPECÍFICO (não termos genéricos como "estudo"
+    # solto, que casavam menção incidental no corpo - ex: matéria de panela
+    # que cita "Ozempic" de passagem). Os termos abaixo só aparecem em matéria
+    # de fato sobre o medicamento.
+    - alias: ozempic
+      requires_any: [anvisa, sus, farmácia, farmacia, raia, drogasil,
+                     pague menos, panvel, distribuição, prescrição,
+                     receita médica, fabricante brasileira, preço no brasil,
+                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
+                     novo nordisk, canetas emagrecedoras, caneta emagrecedora,
+                     emagrecimento, emagrecer, mercado brasileiro, disputa,
+                     semaglutida, obesidade, diabetes, glp-1, glp1,
+                     perda de peso, injetável, injetavel, dose, bariátrica]
+    - alias: wegovy
+      requires_any: [anvisa, sus, farmácia, farmacia, raia, drogasil,
+                     pague menos, panvel, distribuição, prescrição,
+                     receita médica, fabricante brasileira, preço no brasil,
+                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
+                     novo nordisk, canetas emagrecedoras, caneta emagrecedora,
+                     emagrecimento, emagrecer, mercado brasileiro, disputa,
+                     semaglutida, obesidade, diabetes, glp-1, glp1,
+                     perda de peso, injetável, injetavel, dose, bariátrica]
+    - alias: mounjaro
+      requires_any: [anvisa, sus, farmácia, farmacia, raia, drogasil,
+                     pague menos, panvel, distribuição, prescrição,
+                     receita médica, fabricante brasileira, preço no brasil,
+                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
+                     eli lilly, canetas emagrecedoras, caneta emagrecedora,
+                     emagrecimento, emagrecer, mercado brasileiro, disputa,
+                     tirzepatida, obesidade, diabetes, glp-1, glp1,
+                     perda de peso, injetável, injetavel, dose, bariátrica,
+                     utiliza energia, metabolismo, gasto energético]
+    # Ozivy: genérico/similar brasileiro de semaglutida (EMS). Nome inequívoco
+    # e especificamente do mercado BR, então entra como alias simples.
+    - ozivy
+    # Princípios ativos GLP-1: nomes inequívocos (só existem como esses
+    # medicamentos). Como aliases simples, capturam qualquer matéria que os
+    # cite no título/lead - contrabando do Paraguai, disputa judicial, estudo
+    # do SUS etc., que não tinham contexto farmacêutico-comercial e escapavam.
+    - semaglutida
+    - tirzepatida
+    - retatrutida
+    - liraglutida
+    - alias: zepbound
+      requires_any: [anvisa, sus, farmácia, distribuição, distribuir,
+                     prescrição, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi]
+    - alias: obesidade
+      requires_any: [anvisa, sus, farmácia, raia, drogasil,
+                     pague menos, panvel, tratamento ambulatorial,
+                     cirurgia bariátrica, sbem, sbm]
     - alias: glp-1
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, distribuição, distribuir,
                      prescrição, receita médica, fabricante brasileira,
                      eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
                      parceria farmacêutica, parceria com a novo nordisk,
-                     parceria com a eli lilly]
-    - alias: ozempic
-      requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, distribuição, distribuir,
-                     prescrição, receita médica, fabricante brasileira,
-                     preço no brasil, eurofarma, hypera, ems, medley, cimed,
-                     prati-donaduzzi, parceria farmacêutica,
-                     parceria com a novo nordisk,
-                     canetas emagrecedoras, caneta emagrecedora, emagrecimento,
-                     no brasil, preço, preços, mercado brasileiro, disputa]
-    - alias: wegovy
-      requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, distribuição, distribuir,
-                     prescrição, receita médica, fabricante brasileira,
-                     preço no brasil, eurofarma, hypera, ems, medley, cimed,
-                     prati-donaduzzi, parceria farmacêutica,
-                     parceria com a novo nordisk,
-                     canetas emagrecedoras, caneta emagrecedora, emagrecimento,
-                     no brasil, preço, preços, mercado brasileiro, disputa]
-    - alias: mounjaro
-      requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, distribuição, distribuir,
-                     prescrição, eurofarma, hypera, ems, medley, cimed,
-                     prati-donaduzzi, parceria farmacêutica,
-                     parceria com a eli lilly,
-                     canetas emagrecedoras, caneta emagrecedora, emagrecimento,
-                     no brasil, preço, preços, mercado brasileiro, disputa]
-    - alias: zepbound
-      requires_any: [anvisa, sus, farmácia, distribuição, distribuir,
-                     prescrição, eurofarma, hypera, ems, medley, cimed,
-                     prati-donaduzzi]
-    - alias: semaglutida
-      requires_any: [anvisa, sus, farmácia, farmácias, fabricante brasileira,
-                     distribuição, distribuir, receita, prescrição,
-                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
-                     no brasil, brasileira, brasileiras, genérico, similar]
-    - alias: tirzepatida
-      requires_any: [anvisa, sus, farmácia, farmácias, fabricante brasileira,
-                     distribuição, distribuir, prescrição,
-                     eurofarma, hypera, ems, medley, cimed, prati-donaduzzi,
-                     no brasil, brasileira, brasileiras, genérico, similar]
-    - alias: retatrutida
-      requires_any: [anvisa, sus, farmácia, fabricante brasileira,
-                     eurofarma, hypera, ems, medley]
-    - alias: obesidade
-      requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, tratamento ambulatorial,
-                     cirurgia bariátrica, sbem, sbm]
+                     parceria com a eli lilly, canetas emagrecedoras,
+                     caneta emagrecedora, emagrecimento, no brasil,
+                     estudo, obesidade, diabetes, tratamento]
     - alias: novo nordisk
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, fabricante brasileira,
