@@ -288,6 +288,12 @@
     flex: 1;
   }
   .selected-count strong { color: var(--text); font-size: 15px; }
+  .autoclear-row {
+    display: flex; align-items: center; gap: 7px;
+    font-size: 12px; color: var(--text-muted);
+    margin: 6px 0 2px; cursor: pointer; user-select: none;
+  }
+  .autoclear-row input { cursor: pointer; accent-color: var(--selected-border); }
   .btn {
     padding: 10px 16px;
     border-radius: 8px;
@@ -539,6 +545,10 @@
       <button class="add-btn" onclick="openAddModal()" title="Adicionar artigo manual">+</button>
     </div>
     <div id="status">Carregando…</div>
+    <label class="autoclear-row">
+      <input type="checkbox" id="autoclear-toggle" onchange="onAutoClearToggle(this.checked)">
+      <span>Limpar seleção ao chegar novo clipping</span>
+    </label>
     <div class="search-bar">
       <input type="search" class="search-input" id="search" placeholder="Buscar título ou resumo…" autocomplete="off">
     </div>
@@ -704,7 +714,21 @@ const STORAGE_KEYS = {
   selected: 'retail-daily-selected',
   order: 'retail-daily-order',
   manual: 'retail-daily-manual',
+  selectionBatch: 'retail-daily-selection-batch',
+  autoClear: 'retail-daily-autoclear',
 };
+
+// Default: limpeza automática LIGADA. Quando o bot publica um lote novo
+// (generated_at diferente), a seleção do lote anterior é zerada sozinha,
+// evitando arrastar seleção de um dia pro outro.
+function isAutoClearEnabled() {
+  const v = localStorage.getItem(STORAGE_KEYS.autoClear);
+  return v === null ? true : v === 'true';
+}
+
+function setAutoClear(enabled) {
+  localStorage.setItem(STORAGE_KEYS.autoClear, enabled ? 'true' : 'false');
+}
 
 function loadState() {
   try {
@@ -723,6 +747,10 @@ function persist() {
   try {
     localStorage.setItem(STORAGE_KEYS.selected, JSON.stringify([...state.selected]));
     localStorage.setItem(STORAGE_KEYS.order, JSON.stringify(state.order));
+    // Marca a seleção como pertencente ao lote atualmente carregado.
+    if (state.generatedAt) {
+      localStorage.setItem(STORAGE_KEYS.selectionBatch, state.generatedAt);
+    }
   } catch (e) { console.error(e); }
 }
 
@@ -776,9 +804,33 @@ async function fetchData() {
     const data = await r.json();
     state.articles = data.articles || [];
     state.generatedAt = data.generated_at;
+    maybeAutoClearSelection();
   } catch (e) {
     document.getElementById('status').textContent = 'Erro carregando dados.';
     console.error(e);
+  }
+}
+
+// Limpa a seleção automaticamente quando o site recebe um lote novo de
+// notícias (generated_at diferente do que estava vigente na última seleção).
+// Só age se houver seleção pendente E o lote tiver de fato mudado, então não
+// atrapalha quem está trabalhando no mesmo lote ao longo do dia.
+function maybeAutoClearSelection() {
+  if (!isAutoClearEnabled()) return;
+  if (!state.generatedAt) return;
+  const lastBatch = localStorage.getItem(STORAGE_KEYS.selectionBatch);
+  // Nada selecionado: só registra o lote atual e segue.
+  if (state.selected.size === 0) {
+    localStorage.setItem(STORAGE_KEYS.selectionBatch, state.generatedAt);
+    return;
+  }
+  // Seleção existe e veio de um lote anterior: zera.
+  if (lastBatch && lastBatch !== state.generatedAt) {
+    state.selected.clear();
+    state.order = [];
+    persist();
+    localStorage.setItem(STORAGE_KEYS.selectionBatch, state.generatedAt);
+    console.info('Seleção do lote anterior limpa automaticamente (novo clipping).');
   }
 }
 
@@ -1285,7 +1337,21 @@ document.addEventListener('keydown', (e) => {
 // ============================================================
 // Inicialização
 // ============================================================
+function onAutoClearToggle(enabled) {
+  setAutoClear(enabled);
+  // Ao religar, registra o lote atual como base para não limpar à toa.
+  if (enabled && state.generatedAt) {
+    localStorage.setItem(STORAGE_KEYS.selectionBatch, state.generatedAt);
+  }
+}
+
+function initAutoClearToggle() {
+  const box = document.getElementById('autoclear-toggle');
+  if (box) box.checked = isAutoClearEnabled();
+}
+
 loadState();
+initAutoClearToggle();
 fetchData().then(render);
 </script>
 </body>
