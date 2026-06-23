@@ -64,6 +64,10 @@ sectors:
                       reserva indígena, reserva ambiental, reserva florestal]
     - alias: vans
       requires_any: [tênis, calçado, sneaker, moda, loja, marca]
+      requires_none: [sedã, sedãs, sedas de luxo, suv, suvs, picape, picapes,
+                      hatch, peugeot, fiat, volkswagen, chevrolet, byd,
+                      automóvel, automóveis, carro, carros, veículo, veículos,
+                      caminhão, caminhões, furgão, van de passageiros]
     - alias: marisa
       requires_any: [lojas, loja, moda, vestuário, varejo, amaro, feminina,
                      ações, balanço, trimestre, amar3]
@@ -121,9 +125,10 @@ sectors:
     # contexto econômico de livre mercado não são e-commerce.
     - alias: mercado libre
       requires_any: [mercado pago, ecommerce, e-commerce, marketplace, fintech,
-                     billetera, compras, comercio, galperin, meli, unicornio,
+                     billetera, compra, compras, comercio, galperin, meli, unicornio,
                      plataforma, logística, logistica, vendedor, vendedores,
-                     comprador, app, aplicación]
+                     comprador, app, aplicación, ia, inteligencia artificial,
+                     paga, pagar, invierte, invertir, crédito, credito, venta, ventas]
       requires_none: [mercado libre de energía, mercado libre de energia,
                       energía eléctrica, libre mercado, libre comercio,
                       libre cambio]
@@ -237,7 +242,9 @@ sectors:
       requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
                       valuation da anthropic, segundo o papa, openai, nvidia,
                       rio amazonas, floresta amazônica, floresta amazonica,
-                      desmatamento, bioma]
+                      desmatamento, bioma, spacex, supera a amazon,
+                      superar a amazon, em valor de mercado, fortuna de elon,
+                      fortuna de musk]
     - alias: tiktok
       requires_any: [shop, ecommerce, e-commerce, vendas, marketplace,
                      live commerce, comércio eletrônico]
@@ -465,7 +472,9 @@ sectors:
                      novo nordisk, canetas emagrecedoras, caneta emagrecedora,
                      emagrecimento, emagrecer, mercado brasileiro, disputa,
                      semaglutida, obesidade, diabetes, glp-1, glp1,
-                     perda de peso, injetável, injetavel, dose, bariátrica]
+                     perda de peso, injetável, injetavel, dose, bariátrica,
+                     preço, preços, barato, redução de preço, brasileiro,
+                     genérico, similar, no brasil]
     - alias: wegovy
       requires_any: [anvisa, sus, farmácia, farmacia, raia, drogasil,
                      pague menos, panvel, distribuição, prescrição,
@@ -474,7 +483,9 @@ sectors:
                      novo nordisk, canetas emagrecedoras, caneta emagrecedora,
                      emagrecimento, emagrecer, mercado brasileiro, disputa,
                      semaglutida, obesidade, diabetes, glp-1, glp1,
-                     perda de peso, injetável, injetavel, dose, bariátrica]
+                     perda de peso, injetável, injetavel, dose, bariátrica,
+                     preço, preços, barato, redução de preço, brasileiro,
+                     genérico, similar, no brasil]
     - alias: mounjaro
       requires_any: [anvisa, sus, farmácia, farmacia, raia, drogasil,
                      pague menos, panvel, distribuição, prescrição,
@@ -484,7 +495,9 @@ sectors:
                      emagrecimento, emagrecer, mercado brasileiro, disputa,
                      tirzepatida, obesidade, diabetes, glp-1, glp1,
                      perda de peso, injetável, injetavel, dose, bariátrica,
-                     utiliza energia, metabolismo, gasto energético]
+                     utiliza energia, metabolismo, gasto energético,
+                     preço, preços, barato, redução de preço, brasileiro,
+                     genérico, similar, no brasil]
     # Ozivy: genérico/similar brasileiro de semaglutida (EMS). Nome inequívoco
     # e especificamente do mercado BR, então entra como alias simples.
     - ozivy
@@ -496,14 +509,6 @@ sectors:
     - tirzepatida
     - retatrutida
     - liraglutida
-    - alias: zepbound
-      requires_any: [anvisa, sus, farmácia, distribuição, distribuir,
-                     prescrição, eurofarma, hypera, ems, medley, cimed,
-                     prati-donaduzzi]
-    - alias: obesidade
-      requires_any: [anvisa, sus, farmácia, raia, drogasil,
-                     pague menos, panvel, tratamento ambulatorial,
-                     cirurgia bariátrica, sbem, sbm]
     - alias: glp-1
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, distribuição, distribuir,
@@ -513,6 +518,14 @@ sectors:
                      parceria com a eli lilly, canetas emagrecedoras,
                      caneta emagrecedora, emagrecimento, no brasil,
                      estudo, obesidade, diabetes, tratamento]
+    - alias: zepbound
+      requires_any: [anvisa, sus, farmácia, distribuição, distribuir,
+                     prescrição, eurofarma, hypera, ems, medley, cimed,
+                     prati-donaduzzi]
+    - alias: obesidade
+      requires_any: [anvisa, sus, farmácia, raia, drogasil,
+                     pague menos, panvel, tratamento ambulatorial,
+                     cirurgia bariátrica, sbem, sbm]
     - alias: novo nordisk
       requires_any: [anvisa, sus, farmácia, raia, drogasil,
                      pague menos, panvel, fabricante brasileira,
@@ -894,7 +907,10 @@ sectors:
       requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue,
                      bezos, jassy, earnings, antitrust]
       requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
-                      valuation da anthropic, segundo o papa, openai, nvidia]
+                      valuation da anthropic, segundo o papa, openai, nvidia,
+                      spacex, supera a amazon, superar a amazon,
+                      surpass amazon, overtake amazon, fortuna de elon,
+                      fortuna de musk, climbed]
     - alias: walmart
       requires_any: [earnings, stores, revenue, us, retailer, stock, shares,
                      guidance, inflation, bentonville, sam's club]
