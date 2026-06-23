@@ -183,11 +183,24 @@ def load_keywords():
                 sys.exit(f"Setor {sector_name}: entrada invalida {item}")
 
             alias_n = _kw_normalize(alias)
+            # body_eligible: o alias pode casar no CORPO do texto (não só
+            # título/lead). Menções no corpo de textos longos geram muitos
+            # falsos positivos por menção incidental (ex: "C6" numa matéria
+            # sobre Tesouro Direto, "logística" numa matéria sobre chef de
+            # cozinha, "Pfizer" numa matéria sobre vacina de Covid). Por isso
+            # só permitimos body match para aliases INEQUÍVOCOS: sem contexto
+            # exigido (requires_any/none) E nome longo/composto (>=6 chars ou
+            # com espaço), que raramente aparece de passagem. Aliases curtos
+            # ou ambíguos só casam em título+lead.
+            is_ambiguous = bool(req_any or req_none)
+            is_specific = (len(alias_n) >= 6) or (' ' in alias_n) or ('&' in alias_n)
+            body_eligible = (not is_ambiguous) and is_specific
             rules.append({
                 "alias": alias,
                 "requires_any": req_any,
                 "requires_none": req_none,
                 "topic": topic,
+                "_body_eligible": body_eligible,
                 "_alias_re": re.compile(rf"\b{re.escape(alias_n)}\b"),
                 "_requires_any_re": [
                     _compile_context_term(_kw_normalize(req))
@@ -236,6 +249,7 @@ FEED_URLS = [
     # ----- O Globo -----
     "https://pox.globo.com/rss/oglobo/economia",
     "https://pox.globo.com/rss/oglobo/politica",
+    "https://pox.globo.com/rss/oglobo/saude",
 
     # ----- Pipeline Valor (M&A, negocios) -----
     "https://pox.globo.com/rss/pipelinevalor",
@@ -281,6 +295,12 @@ FEED_URLS = [
     "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
 
     # ----- Google News: Saúde (GLP-1, canetas emagrecedoras) -----
+    # Busca temática direta no tema (não depende da palavra "saude" no texto,
+    # que é frágil). Pega Ozempic/Mounjaro/Wegovy/canetas em qualquer seção.
+    "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    # Buscas por seção saúde dos principais veículos
     "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
@@ -640,6 +660,8 @@ def score_article(a: Article) -> None:
     - Separa title, lead e body para reduzir falso positivo vindo de RSS longo.
     - Economia ignora body. O setor só entra se o termo aparecer no título
       ou nos primeiros LEAD_CHARS caracteres do summary.
+    - Body só conta para aliases inequívocos (_body_eligible), evitando
+      falso positivo por menção incidental no corpo de textos longos.
     - Salva matches detalhados para auditoria e ajustes futuros.
     """
     a.matched_sectors = []
@@ -697,7 +719,8 @@ def score_article(a: Article) -> None:
                 })
                 continue
 
-            if sector_name != ECONOMY_SECTOR and _search_rule(body_n, rule, context_n):
+            if (sector_name != ECONOMY_SECTOR and rule.get("_body_eligible")
+                    and _search_rule(body_n, rule, context_n)):
                 sector_score += 2
                 sector_has_match = True
                 matched_aliases.add(rule["alias"])
