@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-24T10:09:49.298167+00:00",
-  "count": 401,
-  "new_this_run": 15,
+  "generated_at": "2026-06-24T10:38:28.631306+00:00",
+  "count": 403,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Com chegada de concorrente, Eurofarma faz nova redução de até 48% no preço de canetas emagrecedoras",
@@ -7728,6 +7728,29 @@
       "score": 20.0
     },
     {
+      "title": "Mulher é presa com remédios para emagrecer armazenados de forma irregular em São José dos Campos - G1",
+      "summary": "Mulher é presa com remédios para emagrecer armazenados de forma irregular em São José dos Campos &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sp/vale-do-paraiba-regiao/noticia/2026/06/23/mulher-e-presa-com-remedios-para-emagrecer-armazenados-de-forma-irregular-em-sao-jose-dos-campos.ghtml",
+      "published": "2026-06-23T11:47:04+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "remédios para emagrecer"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "remédios para emagrecer",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Banalização de canetas emagrecedoras gera alerta médico - Portal ABC do ABC",
       "summary": "Banalização de canetas emagrecedoras gera alerta médico &nbsp;&nbsp; Portal ABC do ABC",
       "url": "https://www.abcdoabc.com.br/banalizacao-canetas-emagrecedoras-alerta-medico",
@@ -11098,6 +11121,29 @@
         {
           "sector": "Viagens",
           "alias": "rede hoteleira",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Empresa de marcas amplia atuação empresarial",
+      "summary": "A proteção jurídica de empresas em crescimento tem passado por uma mudança de percepção no mercado. O registro de marca, antes tratado por muitos empreendedores como uma etapa burocrática, passou a ser associado à proteção de ativos, reputação, diferenciação comercial e segurança para expansão. No ambiente empresarial, a marca funciona como elemento de identificação, diferenciação e reconhecimento no mercado. Quando registrada no Instituto Nacional da Propriedade Industrial (INPI), passa a contar com proteção jurídica para uso exclusivo em território nacional, o que reforça sua importância em estratégias de expansão, posicionamento e preservação de ativos intangíveis. Esse entendimento aproxima a propriedade intelectual de outras decisões empresariais. À medida que uma empresa cresce, a proteção do nome e da identidade visual tende a se conectar a contratos, relações trabalhistas, estrutura societária, cobranças, obrigações tributárias, governança e gestão de riscos. Nesse cenário, a marca registrada passa a ser uma das camadas de proteção do negócio. Após consolidar sua atuação em registro e proteção de marcas, a Registrou Marcas amplia seu campo de atuação com a criação da Registrou Consultoria Empresarial. A nova empresa é voltada à consultoria empresarial preventiva e tem como foco apoiar negócios na organização jurídica de suas operações, com atendimento a empresas de diferentes segmentos e especialidade no setor hoteleiro. \"A consultoria preventiva permite identificar riscos antes que eles afetem a operação, a reputação ou o crescimento do negócio\", afirma John Lima, advogado e cofundador da Registrou Consultoria Empresarial. Segundo ele, empresas em crescimento tendem a acumular riscos quando decisões comerciais, contratuais e operacionais não são acompanhadas por uma estrutura jurídica preventiva. A estrutura da Registrou Consultoria Empresarial combina atuação jurídica e experiência prática em negócios. John Lima, advogado e cofundador da empresa, reúne vivência em proteção de marcas e oito anos de experiência no setor hoteleiro. João Victor Sampaio agrega mais de uma década de atuação em assessoria jurídica para empresas, com passagem por demandas empresariais, trabalhistas e tributárias. O enfoque na hotelaria também é reforçado pela participação de Diego Silveira e Leonardo Silveira, sócios da Foco Tecnologia e Marketing. A empresa atua em tecnologia para hospitalidade há mais de 16 anos, o que aproxima a consultoria de temas recorrentes no setor, como contratos com canais de venda, gestão de equipes, relação com hóspedes, fornecedores, proteção de marca e regularidade operacional. De acordo com dados institucionais, o Grupo Registrou soma mais de 5 mil empresas atendidas em todo o Brasil. A Registrou Consultoria Empresarial possui duas sedes físicas e atuação em todo o território nacional, com áreas consultivas ligadas a contratos, marcas, estrutura societária, trabalhista, tributária, cobrança e prevenção. A ampliação da Registrou para a consultoria empresarial reflete uma movimentação em que a proteção jurídica deixa de ser vista apenas como resposta a conflitos e passa a integrar o planejamento de empresas em crescimento. Para negócios que buscam expandir, profissionalizar processos ou reduzir riscos operacionais, a organização preventiva passa a compor uma agenda mais ampla de proteção empresarial.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/06/24/empresa-de-marcas-amplia-atuacao-empresarial-1.ghtml",
+      "published": "2026-06-24T10:14:54+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "setor hoteleiro"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "setor hoteleiro",
           "field": "body",
           "score": 2,
           "topic": null
