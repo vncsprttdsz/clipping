@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T09:36:30.407842+00:00",
+  "generated_at": "2026-06-25T10:03:13.321178+00:00",
   "count": 461,
-  "new_this_run": 18,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Com chegada de concorrente, Eurofarma faz nova redução de até 48% no preço de canetas emagrecedoras",
@@ -1769,6 +1769,45 @@
       "score": 60.0
     },
     {
+      "title": "Nova caneta de semaglutida sintética produzida no Brasil é a Semavy, da Hypera Pharma - Acessa.com",
+      "summary": "Nova caneta de semaglutida sintética produzida no Brasil é a Semavy, da Hypera Pharma &nbsp;&nbsp; Acessa.com",
+      "url": "https://www.acessa.com/noticias/2026/06/331758-nova-caneta-de-semaglutida-sintetica-produzida-no-brasil-e-a-semavy-da-hypera-pharma.html",
+      "published": "2026-06-24T12:57:42+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "hypera",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "hypera",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Governo inicia estudo no SUS para avaliar uso de canetas emagrecedoras em pacientes com obesidade grave - POSITIVA FM",
       "summary": "Governo inicia estudo no SUS para avaliar uso de canetas emagrecedoras em pacientes com obesidade grave &nbsp;&nbsp; POSITIVA FM",
       "url": "https://positivafm.com.br/noticias/42038/governo-inicia-estudo-no-sus-para-avaliar-uso-de-canetas-emagrecedoras-em-pacientes-com-obesidade-grave",
@@ -2473,37 +2512,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Os preços das canetas emagrecedoras: compare as opções e conheça os programas de descontos",
-      "summary": "Um dos maiores desafios do tratamento da obesidade e do diabetes está no bolso. Um raio X do mercado pode ajudar no orçamento",
-      "url": "https://veja.abril.com.br/saude/os-precos-das-canetas-emagrecedoras-compare-as-opcoes-e-conheca-os-programas-de-descontos",
-      "published": "2026-06-18T09:50:57+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Alexa+, versão da assistente da Amazon criada para era da IA, chega ao Brasil; veja como funciona",
