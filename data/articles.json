@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T07:39:30.719439+00:00",
+  "generated_at": "2026-06-27T09:22:54.169271+00:00",
   "count": 575,
-  "new_this_run": 111,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Ozempic, Wegovy e Ozivy: como diferenciar as canetas com semaglutida - Guia da Farmácia",
@@ -2362,6 +2362,45 @@
         {
           "sector": "Farmácias",
           "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Boca de Mounjaro: veja cuidados com os efeitos das canetas emagrecedoras na saúde oral - O GLOBO",
+      "summary": "Boca de Mounjaro: veja cuidados com os efeitos das canetas emagrecedoras na saúde oral &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/ela/noticia/2026/06/27/boca-de-mounjaro-veja-cuidados-com-os-efeitos-das-canetas-emagrecedoras-na-saude-oral.ghtml",
+      "published": "2026-06-27T07:30:16+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "title",
           "score": 20,
           "topic": null
@@ -6445,38 +6484,6 @@
       "score": 36.0
     },
     {
-      "title": "Na escola, ele era chamado de 'abacaxi' pelas espinhas no rosto. Hoje, fatura R$ 18 mi com skincare",
-      "summary": "Com a Piny, Lucas Penteado vende 20 mil produtos por mês e prepara expansão para farmácias e lojas próprias em shoppings",
-      "url": "https://exame.com/negocios/na-escola-ele-era-chamado-de-abacaxi-pelas-espinhas-no-rosto-hoje-fatura-r-18-mi-com-skincare",
-      "published": "2026-06-20T08:15:18+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Cosméticos",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias",
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Maiores acionistas do GPA devem continuar comprando ações",
       "summary": "Movimento deve ser feito sem iniciar negociações com o Casino",
       "url": "https://veja.abril.com.br/coluna/radar-economico/maiores-acionistas-do-gpa-devem-continuar-comprando-acoes",
@@ -7461,29 +7468,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "'Velocidade sem estratégia leva ao acidente': as 7 lições que o CEO da Vulcabras trouxe das pistas",
-      "summary": "Pedro Bartelle sonhava em ser piloto de Fórmula 1, mas mudou a rota ao entrar para o mundo corporativo. Hoje, ele lidera uma companhia de R$ 4 bilhões em receita no Brasil",
-      "url": "https://exame.com/carreira/velocidade-sem-estrategia-leva-ao-acidente-as-7-licoes-que-o-ceo-da-vulcabras-trouxe-das-pistas",
-      "published": "2026-06-20T08:01:35+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "vulcabras"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "vulcabras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Daniel Ervér, CEO global da H&M: “Fast fashion significa democratizar a moda”",
@@ -13136,6 +13120,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Proibição de plataforma: saiba cuidados para acessar canetas emagrecedoras - ContilNet Notícias",
+      "summary": "Proibição de plataforma: saiba cuidados para acessar canetas emagrecedoras &nbsp;&nbsp; ContilNet Notícias",
+      "url": "https://contilnetnoticias.com.br/noticias/proibicao-de-plataforma-saiba-cuidados-para-acessar-canetas-emagrecedoras",
+      "published": "2026-06-27T07:33:48+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
