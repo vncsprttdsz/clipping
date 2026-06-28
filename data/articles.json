@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:19:18.556412+00:00",
+  "generated_at": "2026-06-28T10:53:52.705297+00:00",
   "count": 596,
   "new_this_run": 1,
   "articles": [
@@ -2452,6 +2452,45 @@
       "summary": "SUS disponibiliza canetas emagrecedoras para pacientes com obesidade grave &nbsp;&nbsp; Portal do Casé",
       "url": "https://portaldocase.com.br/categoria/saude/noticias/sus-disponibiliza-canetas-emagrecedoras-para-pacientes-com-obesidade-grave",
       "published": "2026-06-27T13:30:57+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "SUS passa a oferecer canetas emagrecedoras para pacientes com obesidade - Grupo Lomes de Comunicação",
+      "summary": "SUS passa a oferecer canetas emagrecedoras para pacientes com obesidade &nbsp;&nbsp; Grupo Lomes de Comunicação",
+      "url": "https://glomes.com.br/sus-passa-a-oferecer-canetas-emagrecedoras-para-pacientes-com-obesidade",
+      "published": "2026-06-27T14:27:00+00:00",
       "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
@@ -7685,29 +7724,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Tirzepatida do Paraguai proibida no Brasil vira alvo de disputa judicial - G1",
-      "summary": "Tirzepatida do Paraguai proibida no Brasil vira alvo de disputa judicial &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/saude/video/tirzepatida-do-paraguai-proibida-no-brasil-vira-alvo-de-disputa-judicial-14715806.ghtml",
-      "published": "2026-06-21T10:34:30+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Justiça libera remédios barrados pela Anvisa e abre crise sobre tirzepatida - Olhar Digital",
