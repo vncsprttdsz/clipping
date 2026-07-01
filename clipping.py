@@ -123,6 +123,68 @@ def is_blocked_url(url: str) -> bool:
 
 
 # ============================================================
+# Allowlist de fontes confiaveis
+# ============================================================
+# Os feeds tematicos do Google News (ex: "canetas emagrecedoras") buscam o
+# termo em TODA a web, trazendo muito ruido: jornais regionais, blogs, FMs,
+# redes sociais, portais de fofoca. A allowlist restringe o clipping a
+# veiculos de negocios/economia relevantes + alguns especializados. Qualquer
+# dominio fora dela e descartado, independentemente do feed de origem.
+#
+# Match por SUFIXO de dominio, entao "valor.globo.com" cobre subdominios e
+# "globo.com" cobre todos os portais Globo. Mantido enxuto de proposito:
+# adicionar fonte nova aqui e melhor que deixar a cauda longa entrar.
+TRUSTED_SOURCE_DOMAINS = {
+    # Globo (Valor, O Globo, Pipeline, Epoca, G1, Marie Claire negocios etc.)
+    "globo.com",
+    # Folha / Estadao
+    "folha.uol.com.br", "estadao.com.br",
+    # Revistas / portais de negocios BR
+    "veja.abril.com.br", "abril.com.br", "exame.com", "forbes.com.br",
+    "neofeed.com.br", "braziljournal.com", "infomoney.com.br",
+    "moneytimes.com.br", "seudinheiro.com", "suno.com.br",
+    "bloomberglinea.com.br", "cnnbrasil.com.br", "timesbrasil.com.br",
+    "jota.info", "mercadoeconsumo.com.br", "diariodocomercio.com.br",
+    # Financeiro internacional
+    "wsj.com", "reuters.com", "ft.com", "cnbc.com", "forbes.com",
+    "bloomberg.com", "bbc.co.uk", "bbc.com", "economist.com",
+    "dowjones.io", "marketwatch.com", "barrons.com",
+    # Especializados de saude/farma (relevantes pra tese GLP-1)
+    "panoramafarmaceutico.com.br", "guiadafarmacia.com.br",
+    "saude.abril.com.br",
+    # Hispanicos (via Google News site:)
+    "ambito.com", "iproup.com", "eleconomista.com.mx", "elfinanciero.com.mx",
+}
+
+
+def _domain_of(url: str) -> str:
+    """Extrai o dominio (sem www) de uma URL."""
+    try:
+        from urllib.parse import urlparse
+        return urlparse(url).netloc.lower().replace("www.", "")
+    except Exception:
+        return ""
+
+
+def is_trusted_source(url: str) -> bool:
+    """
+    True se a URL pertence a um veiculo da allowlist (match por sufixo, cobre
+    subdominios). URLs internas do Google News (news.google.com) contam como
+    confiaveis pois ainda serao resolvidas para a fonte real via clean_url.
+    """
+    if not url:
+        return False
+    dom = _domain_of(url)
+    if not dom:
+        return False
+    # Google News nao-resolvido: deixa passar aqui; a resolucao posterior
+    # (clean_url) troca pela fonte real, que sera checada de novo no pipeline.
+    if dom.endswith("news.google.com"):
+        return True
+    return any(dom == d or dom.endswith("." + d) for d in TRUSTED_SOURCE_DOMAINS)
+
+
+# ============================================================
 # Carrega keywords
 # ============================================================
 
@@ -823,6 +885,11 @@ def parse_entry(entry, source: str) -> Optional[Article]:
         url = clean_url(url)
         if is_blocked_url(url):
             return None
+        # Allowlist: descarta fontes fora dos veiculos confiaveis (jornais
+        # regionais, blogs, FMs, redes sociais). URL ja foi resolvida pela
+        # clean_url, entao aqui checamos o dominio real da materia.
+        if not is_trusted_source(url):
+            return None
         raw_summary = entry.get("summary") or entry.get("description") or ""
         summary = re.sub(r"<[^>]+>", " ", raw_summary)
         summary = re.sub(r"\s+", " ", summary).strip()
@@ -888,6 +955,9 @@ def fetch_html_fallback(url: str) -> List[Article]:
             if title and len(title) > 15 and not is_junk_title(title):
                 cleaned_href = clean_url(href)
                 if is_blocked_url(cleaned_href):
+                    continue
+                # Allowlist tambem no fallback HTML.
+                if not is_trusted_source(cleaned_href):
                     continue
                 articles.append(Article(
                     title=title, summary=summary, url=cleaned_href,
@@ -1049,6 +1119,11 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
                 continue
             cleaned_existing_url = clean_url(a_dict.get("url", ""))
             if is_blocked_url(cleaned_existing_url):
+                dropped += 1
+                continue
+            # Allowlist tambem no rescore, pra expurgar do JSON o que ja entrou
+            # de fontes fora dos veiculos confiaveis.
+            if not is_trusted_source(cleaned_existing_url):
                 dropped += 1
                 continue
 
