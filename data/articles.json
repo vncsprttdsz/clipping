@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T11:24:37.894009+00:00",
-  "count": 395,
-  "new_this_run": 10,
+  "generated_at": "2026-07-02T11:50:24.191797+00:00",
+  "count": 396,
+  "new_this_run": 8,
   "articles": [
     {
       "title": "Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias",
@@ -8744,6 +8744,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Ele começou carregando malas em hotel. Hoje comanda uma agência de viagens que fatura R$ 1,4 bilhão",
+      "summary": "Da hotelaria à sala dos fundadores, Luiz Moura ajudou a criar a Voll, que atraiu R$ 700 milhões da americana Warburg Pincus e atende as maiores empresas do país",
+      "url": "https://exame.com/negocios/ele-comecou-carregando-malas-em-hotel-hoje-comanda-uma-agencia-de-viagens-que-fatura-r-14-bilhao",
+      "published": "2026-07-02T08:14:38+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "hotel"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "hotel",
           "field": "title",
           "score": 20,
           "topic": null
