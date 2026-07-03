@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T07:52:57.124481+00:00",
-  "count": 371,
-  "new_this_run": 45,
+  "generated_at": "2026-07-03T09:48:18.806704+00:00",
+  "count": 375,
+  "new_this_run": 21,
   "articles": [
     {
       "title": "Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias",
@@ -644,6 +644,54 @@
           "alias": "eurofarma",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "Natura vai vender Avon na Shopee com apoio de consultoras 'influencers'",
+      "summary": "A entrada no marketplace reforça a estratégia de omnicanalidade e conecta consultoras de beleza a novos canais digitais de venda e recomendação",
+      "url": "https://exame.com/invest/mercados/natura-vai-vender-avon-na-shopee-com-apoio-de-consultoras-influencers",
+      "published": "2026-07-03T05:00:25+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "avon",
+        "marketplace",
+        "natura",
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "avon",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -4198,37 +4246,6 @@
       "score": 32.0
     },
     {
-      "title": "Caso Master afeta negócios da agência BeFly",
-      "summary": "A crise desencadeada pelo escândalo do Banco Master e pela associação do banqueiro Daniel Vorcaro à BeFly e ao seu fundador, Marcelo Cohen, começa a afetar os negócios da terceira maior agência de viagens do país. A Jazz Side já deixou o grupo e, segundo fontes, a Student Travel Bureau (STB) também avalia sua saída da holding. No ano passado, a BeFly movimentou quase R$ 12 bilhões em vendas, atrás de CVC e Decolar. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/26/caso-master-afeta-negocios-da-agencia-befly.ghtml",
-      "published": "2026-06-26T08:01:41+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "befly",
-        "cvc"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "befly",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "cvc",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Orient Express, da LVMH e da Accor, mira a nova classe de bilionários da tecnologia",
       "summary": "Navegando entre a Riviera Francesa e Italiana, o primeiro iate gigante da Orient Express pretende atrair uma nova classe de bilionários. A Orient Express, agora uma joint venture entre a rede hoteleira francesa Accor e a LVMH, proprietária da Louis Vuitton, propôs-se a revitalizar a marca de viagens do século XIX. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/06/27/orient-express-da-lvmh-e-da-accor-mira-a-nova-classe-de-bilionrios-da-tecnologia.ghtml",
@@ -4722,29 +4739,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "PF mira acionista da Americanas e bancos",
-      "summary": "A nova fase da Operação Disclosure, que apura um esquema de fraudes contábeis na Americanas, ampliou o leque das investigações ao colocar como alvos de busca e apreensão um dos acionistas de referência da empresa, seus representantes no conselho de administração e executivos de bancos. Ontem, a Polícia Federal (PF) cumpriu mandados contra oito alvos no Rio e em São Paulo. Um deles foi Carlos Alberto Sicupira, que ao lado de Jorge Paulo Lemann e Marcel Telles forma o trio de acionistas de referência da varejista. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/06/26/pf-mira-acionista-da-americanas-e-bancos.ghtml",
-      "published": "2026-06-26T08:00:13+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "americanas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "americanas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Magnólia vende fatia de 16,8% na Espaçolaser por R$ 38,4 milhões em oferta secundária",
@@ -7921,29 +7915,6 @@
       "score": 20.0
     },
     {
-      "title": "Reforma tributária amplia insegurança operacional entre contribuintes",
-      "summary": "O processo de regulamentação da reforma tributária já começa a revelar um dos maiores desafios do novo sistema: a insegurança operacional enfrentada pelos contribuintes diante de normas ainda incompletas, dependência tecnológica e dúvidas práticas sobre creditamento, documentação fiscal e recolhimento dos tributos. Leia mais (07/02/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/reforma-tributaria-amplia-inseguranca-operacional-entre-contribuintes.shtml",
-      "published": "2026-07-02T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Vendas diretas de canetas emagrecedoras podem afetar farmacêuticas da B3; entenda - InfoMoney",
       "summary": "Vendas diretas de canetas emagrecedoras podem afetar farmacêuticas da B3; entenda &nbsp;&nbsp; InfoMoney",
       "url": "https://www.infomoney.com.br/mercados/vendas-diretas-de-canetas-emagrecedoras-podem-afetar-farmaceuticas-da-b3-entenda",
@@ -7985,29 +7956,6 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Durigan participa de evento do Valor, O Globo e CBN para discutir os impactos da reforma tributária",
-      "summary": "Aprovada após décadas de debate, a reforma tributária começa a sair do papel este ano, marcando uma das transformações mais profundas do sistema fiscal brasileiro em toda a história. A simplificação dos impostos sobre consumo, a criação do IVA e a reorganização das competências entre União, Estados e municípios prometem mudar a rotina de empresas, governos e cidadãos, mas também levantam dúvidas e desafios práticos. Para discutir o impacto das novas regras na economia real, o ministro da Fazenda, Dario Durigan, participa nesta quinta-feira de uma conversa com Flavia Barbosa, editora executiva do Globo, e Sergio Lamucci, editor executivo do Valor Econômico. 'Caminhos do Brasil' é uma iniciativa dos jornais Valor Econômico e O Globo e da rádio CBN, com patrocínio do Sistema Comércio, através da CNC, do Sesc, do Senac e de suas federações. Reprodução/Youtube Valor",
-      "url": "https://valor.globo.com/brasil/noticia/2026/07/02/durigan-participa-de-evento-do-valor-e-o-globo-para-discutir-os-impactos-da-reforma-tributaria.ghtml",
-      "published": "2026-07-02T11:58:58+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 20.0
@@ -8243,29 +8191,6 @@
       "score": 20.0
     },
     {
-      "title": "Governo prevê discutir alíquota do Imposto Seletivo só em 2027, diz Durigan",
-      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta quinta-feira que o governo prevê encaminhar ainda este ano o projeto do Imposto Seletivo - novo tributo que vai substituir parte do Imposto sobre Produtos Industrializados (IPI) -, mas sinalizou que a discussão sobre a alíquota do novo imposto será postergada para o ano que vem. Menos crianças têm celular no Brasil: IBGE mostra recuo só na faixa etária de 10 a 13 anos Veja se tem direito a receber: Receita abre consulta a lote especial de restituição no dia 8 de julho Durante o evento \"Caminhos do Brasil\", organizado pelos jornais O GLOBO e Valor Econômico sobre reforma tributária, o ministro disse que dará início às conversas com os setores impactados pelo imposto seletivo na próxima semana para viabilizar o encaminhamento da proposta. Mas fala em uma evitar \"guerra política\" em ano eleitoral. A ideia, segundo o ministro, é que haja uma \"transição suave\", mantendo a carga tributária atual no ano que vem e usando o ano de 2027 como período de debate sobre como o imposto deve funcionar, de fato, a partir de 2028. — Para evitar a guerra política, o que tenho proposto - e darei início agora - é uma conversa com os setores impactados pelo imposto seletivo para que a gente faça uma transição suave, mantendo a carga tributária para 2027, para que a gente tenha um ano de debate sobre como deve vir o Imposto Seletivo a partir de 2028 — afirmou. — É isso que eu vou encaminhar a partir da semana que vem. Essa discussão é importante do ponto de vista fiscal e do arcabouço da reforma. Também chamado de \"imposto do pecado\", o tributo incidirá sobre bebidas alcoólicas, refrigerantes, fumo, apostas, veículos, aeronaves, embarcações e minerais. De acordo com o cronograma da reforma tributária, o Imposto Seletivo precisa ser aprovado pelo Congresso e sancionado até o fim de setembro deste ano para respeitar a regra da anterioridade de 90 dias. — Nós vamos soltar uma tabela zerando o IPI em grande medida para o país todo e precisamos encaminhar isso (o projeto) ao Congresso a tempo de valer em primeiro de janeiro — acrescentou Durigan. Sem perda arrecadatória A jornalistas, Durigan garantiu que manter a carga do imposto seletivo com a do atual IPI não representará perda sobre a arrecadação total, e disse que o governo não trabalha no momento com um plano \"B\" para isso. Já a decisão de empurrar para 2027 a definição da alíquota, na sua visão, afasta a polarização política que poderia trazer danos à reforma tributária: — Prefiro estabilizar a reforma e fazer o debate no próximo ano. Quem quer que seja o ministro da Fazenda do país, terá esse compromisso em 2027 de rediscutir o imposto aditivo para ter uma regra estável com progressividade. Tarifaço dos EUA: soberania brasileira é tema que não está em negociação, afirma ministro Elias Rosa Durigan reconheceu que há um risco de a oposição tentar minar a aprovação do projeto, mas ponderou que acredita que esse desafio será vencido: — É uma espécie de paixão pelo atraso da oposição e eu critico isso. Há esse risco, mas é preciso vencê-lo para ter estabilidade, previsibilidade e melhorar o sistema tributário do país, que é o que a reforma pretende. Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/07/02/governo-preve-discutir-aliquota-do-imposto-seletivo-so-em-2027-diz-durigan.ghtml",
-      "published": "2026-07-02T14:59:20+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "imposto seletivo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "imposto seletivo",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Médica explica as diferenças entre caneta emagrecedora e cirurgia bariátrica - G1",
       "summary": "Médica explica as diferenças entre caneta emagrecedora e cirurgia bariátrica &nbsp;&nbsp; G1",
       "url": "https://g1.globo.com/rj/sul-do-rio-costa-verde/videos-rj1-tv-rio-sul/video/medica-explica-as-diferencas-entre-caneta-emagrecedora-e-cirurgia-bariatrica-14747897.ghtml",
@@ -8465,6 +8390,213 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Tudo sobre inadimplência - Forbes Brasil",
+      "summary": "Tudo sobre inadimplência &nbsp;&nbsp; Forbes Brasil",
+      "url": "https://forbes.com.br/noticias-sobre/inadimplencia/page/4",
+      "published": "2026-07-03T02:54:41+00:00",
+      "source": "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Menos volume e mais valor: como o Ozempic deve mudar o consumo de carne",
+      "summary": "Avanço dos medicamentos GLP-1 pode reduzir volumes consumidos, mas abrir espaço para cortes de maior valor, segundo o Itaú BBA",
+      "url": "https://exame.com/agro/menos-volume-e-mais-valor-como-o-ozempic-deve-mudar-o-consumo-de-carne",
+      "published": "2026-07-03T06:05:55+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras reduzem mortes de diabéticos e pacientes autoimunes - CNN Brasil",
+      "summary": "Canetas emagrecedoras reduzem mortes de diabéticos e pacientes autoimunes &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/canetas-emagrecedoras-reduzem-mortes-de-diabeticos-e-pacientes-autoimunes",
+      "published": "2026-07-03T06:37:38+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O Fenômeno Farm: Como a Marca Brasileira Conquistou o Mundo Além das Estampas",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Prestes a completar 30 anos, a empresa carioca revela que o segredo de sua expansão global reside na construção de uma cultura sólida e no fortalecimento da comunidade O post O Fenômeno Farm: Como a Marca Brasileira Conquistou o Mundo Além das Estampas apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/07/o-fenomeno-farm-como-a-marca-brasileira-conquistou-o-mundo-alem-das-estampas",
+      "published": "2026-07-03T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Governo prevê discutir alíquota do Imposto Seletivo em 2027, afirma Durigan",
+      "summary": "Diante do calendário eleitoral e do risco de uma guerra política, o ministro da Fazenda, Dario Durigan, revelou ontem a intenção do governo de fazer uma transição suave para o Imposto Seletivo (IS), o chamado “imposto do pecado”, em 2027, com a manutenção do nível de carga tributária atual. Assim, o debate sobre alíquotas progressivas do imposto ficaria para o próximo ano, com adoção apenas a partir de 2028. “Para evitar guerra política, vou dar início a essa conversa com os setores em especial impactados pelo Imposto Seletivo para que se faça uma transição suave, se pactue uma não discussão de mérito, mantendo a carga tributária para 2027, para que tenha um ano de debate de como deve vir o Imposto Seletivo a partir de 2028. [...] É isso que vou encaminhar a partir da semana que vem”, disse Durigan ao participar, no Rio, do evento “Caminhos do Brasil - Reforma tributária: o que muda a partir de agora”, iniciativa dos jornais O Globo, Valor e da rádio CBN. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/07/03/governo-preve-discutir-aliquota-do-imposto-seletivo-em-2027-afirma-durigan.ghtml",
+      "published": "2026-07-03T08:00:15+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "imposto seletivo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "imposto seletivo",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Governo quer definir alíquota do Imposto Seletivo em 2027",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/brasil/noticia/2026/07/03/governo-quer-definir-aliquota-do-imposto-seletivo-em-2027.ghtml",
+      "published": "2026-07-03T08:00:49+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "imposto seletivo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "imposto seletivo",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Advent monta posição na Natura e vai indicar dois conselheiros",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/03/advent-monta-posicao-na-natura-e-vai-indicar-dois-conselheiros.ghtml",
+      "published": "2026-07-03T08:01:42+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Reforma tributária e agronegócio: regulamentações e preocupações",
+      "summary": "Efeitos principais deixam de ser a alíquota nominal e passam a ser a arquitetura do sistema",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-agronegocio-regulamentacoes-e-preocupacoes",
+      "published": "2026-07-03T08:40:51+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "“Vivemos um faroeste”, diz Diego Barreto, presidente do iFood",
+      "summary": "Executivo defende que a regulação do trabalho por aplicativo seja discutida com cuidado e lamenta a relação atribulada com os concorrentes",
+      "url": "https://veja.abril.com.br/paginas-amarelas/vivemos-um-faroeste-diz-diego-barreto-presidente-do-ifood",
+      "published": "2026-07-03T09:00:34+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8950,29 +9082,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Delação de ex-diretor financeiro sustentou ação da PF",
-      "summary": "A operação de busca e apreensão da Polícia Federal no caso da Americanas tem relação com desdobramentos da delação do ex-diretor financeiro da varejista Fabio Abrate, uma das peças centrais no esquema fraudulento armado pela antiga diretoria, dizem duas fontes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/06/26/delacao-de-ex-diretor-financeiro-sustentou-acao-da-pf.ghtml",
-      "published": "2026-06-26T08:01:46+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "americanas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "americanas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Gigantes do mercado de beleza disputam atenção do público em festejos de São João",
