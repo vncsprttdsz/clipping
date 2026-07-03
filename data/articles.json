@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T11:29:33.256646+00:00",
+  "generated_at": "2026-07-03T11:57:17.102991+00:00",
   "count": 376,
   "new_this_run": 17,
   "articles": [
@@ -4729,29 +4729,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "Anvisa proíbe plataforma Voy, voltada ao tratamento da obesidade e emagrecimento; entenda",
-      "summary": "Segundo Anvisa, plataforma divulgava um dispositivo médico sem registro e comercializava o produto sem documento exigido pela vigilância sanitária",
-      "url": "https://veja.abril.com.br/saude/anvisa-proibe-plataforma-voy-voltada-ao-tratamento-da-obesidade-e-emagrecimento-entenda",
-      "published": "2026-06-26T11:45:52+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "obesidade"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "obesidade",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Veja quem são os alvos da nova fase da operação sobre fraudes na Americanas",
@@ -10712,6 +10689,29 @@
         {
           "sector": "Cosméticos",
           "alias": "maquiagem",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Agenda de empresas: Embraer entrega 65 aeronaves no 2º trimestre; Prio e Brava divulgam produção",
+      "summary": "Embraer A Embraer entregou 65 aeronaves no segundo trimestre de 2026, seu melhor desempenho no período em 16 anos. O resultado representa crescimento de 48% em relação ao primeiro trimestre do ano, e de 7% na comparação com o segundo trimestre de 2025. Prio A Prio produziu uma média de 178 mil barris de óleo equivalente por dia no mês de junho, crescimento de 8% na comparação com o resultado de maio. No acumulado do segundo trimestre, a produção média foi de 172 mil barris por dia, alta trimestral de 10,7%. Brava A Brava Energia produziu 84,45 mil barris de óleo equivalente por dia, em média, em junho, o que representa um crescimento de 4,3% sobre a produção registrada em maio. Com isso, o excedente médio do segundo trimestre foi de 81,7 mil barris de óleo equivalente diários. Natura A Natura anunciou o encerramento do programa de recompra de ações iniciado em 2 de julho de 2025, com o cancelamento do saldo remanescente de ações não adquiridas. GPA O GPA, dono da rede Pão de Açúcar, concluiu a venda da sua participação na Stix, correspondente a 66,7% do capital, para a RD Saúde. A operação foi anunciada em maio por R$ 23 milhões. Smart Fit O Norges Bank, Banco Central da Noruega, reduziu sua participação acionária na Smart Fit para 4,99% do total. JSL A JSL, empresa de logística do grupo Simpar, convocou uma assembleia geral extraordinária para 24 de julho para tratar do aumento de vagas no seu conselho de administração, além da eleição de novos membros. Qualicorp A Qualicorp e a sua controlada Qualicorp Administradora compraram a totalidade da participação detidas pelos sócios minoritários da Plural e da Oxcorp. Vale A Vale divulgará seu relatório de produção e vendas referente ao segundo trimestre de 2026 no dia 21 de julho, após o fechamento do mercado. As demonstrações financeiras serão publicadas em 30 de julho, também após o fim do pregão. A companhia realizará sua teleconferência no dia 31, às 11h. Reprodução/Facebook Embraer",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/03/agenda-de-empresas-embraer-entrega-65-aeronaves-no-2o-trimestre-prio-e-brava-divulgam-producao.ghtml",
+      "published": "2026-07-03T11:12:15+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
           "field": "body",
           "score": 2,
           "topic": null
