@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-04T07:32:34.005890+00:00",
+  "generated_at": "2026-07-04T09:15:25.783438+00:00",
   "count": 357,
-  "new_this_run": 43,
+  "new_this_run": 13,
   "articles": [
     {
       "title": "Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias",
@@ -4447,29 +4447,6 @@
       "score": 24.0
     },
     {
-      "title": "Quem é a gigante chilena que fatura R$ 10 bilhões no Brasil e comrpou a rede paulista St. Marche",
-      "summary": "Grupo nasceu de um restaurante no sul do Chile, cresceu por aquisições em seis países e agora reforça a aposta no varejo premium de São Paulo",
-      "url": "https://exame.com/negocios/quem-e-a-gigante-chilena-que-fatura-r-10-bilhoes-no-brasil-e-comrpou-a-rede-paulista-st-marche",
-      "published": "2026-06-27T07:45:43+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "st. marche"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "st. marche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Além da balança: como as canetas emagrecedoras impactam a pele e o cabelo - Globo",
       "summary": "Além da balança: como as canetas emagrecedoras impactam a pele e o cabelo &nbsp;&nbsp; Globo",
       "url": "https://revistamarieclaire.globo.com/beleza/noticia/2026/06/alem-da-balanca-como-as-canetas-emagrecedoras-impactam-a-pele-e-o-cabelo.ghtml",
@@ -8050,6 +8027,29 @@
         {
           "sector": "Cosméticos",
           "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Clube iFood já beneficia mais de 53 mil professores pelo programa do MEC - Exame",
+      "summary": "Clube iFood já beneficia mais de 53 mil professores pelo programa do MEC &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/negocios/clube-ifood-ja-beneficia-mais-de-53-mil-professores-pelo-programa-do-mec",
+      "published": "2026-07-04T09:01:52+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "title",
           "score": 20,
           "topic": null
