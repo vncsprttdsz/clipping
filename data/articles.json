@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T10:47:36.410907+00:00",
-  "count": 377,
-  "new_this_run": 6,
+  "generated_at": "2026-07-05T11:32:32.431557+00:00",
+  "count": 380,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias",
@@ -1434,6 +1434,45 @@
         {
           "sector": "Farmácias",
           "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Canetas emagrecedoras vendidas no Paraguai têm princípio ativo do Mounjaro - O TEMPO",
+      "summary": "Canetas emagrecedoras vendidas no Paraguai têm princípio ativo do Mounjaro &nbsp;&nbsp; O TEMPO",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWjRCM1ZUNnQ2LWt5bWk3MFNVUlVkSUhlZjAwSmpULXJkYXVSdzQtUkFablRBSW13ckxpMEhualZzOERhNmZqLUp1Z3MtUW1ZamVIT1dmS2F5MkwteVE1SXpDZFY1bWxNUEE5QTEyX0JNSnNrakNEOF96dVliQjlpaE9xUkRocnNvMnNHZGlXdWdzX0I0YzNWdlFYSEd6dVBjTTNpRGtsbWJYa1pNWVNrclBVNUc2RnR5WlllQ1BxQkRudWtvbUHSAcsBQVVfeXFMTzFETVVBZkY1T1JPbXZIemw0dEk3YjcwZVhjaHc0VkRkQU5JTk5nT216SWxxZ3JlRHdIc0ZQRmVkclRYX1ktNzJ2TzZOMU9tVUR0YTVvdWduZXZ0NE5wOEFFLXFtSTV2MnZ2cE52ZnhUdlJwZERZWHhNTmpHcmNfNVFaS0pCOWVTTzgzRnN2NDhKV2dNam5WRTJ4dHZOSndQNm8wSDhGYl9ib0gxalo4ampaSzRkMEU3NE1weXFpVXJTRkdlTjlFcDVyeTQ?oc=5",
+      "published": "2026-07-04T13:21:51+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8475,6 +8514,29 @@
       "score": 20.0
     },
     {
+      "title": "Natura cria startup para conectar bioeconomia da Amazônia ao mundo",
+      "summary": "Iniciativa conecta mais de 11 mil famílias na Pan-Amazônia a novos mercados e mantém rastreabilidade de insumos usados em cadeias de cosméticos e outros setores",
+      "url": "https://exame.com/esg/natura-cria-startup-para-conectar-bioeconomia-da-amazonia-ao-mundo",
+      "published": "2026-07-05T08:01:37+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Medida que derruba ‘taxa das blusinhas’ está parada há 2 meses no Congresso e pode caducar",
       "summary": "",
       "url": "https://www.estadao.com.br/politica/coluna-do-estadao/medida-que-derruba-taxa-das-blusinhas-esta-parada-ha-2-meses-no-congresso-e-pode-caducar",
@@ -10068,6 +10130,29 @@
         {
           "sector": "Viagens",
           "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Indústria de suplementos do Paraná investe R$ 67 milhões em fábrica e novo centro logístico",
+      "summary": "Presente em mais de 83 mil farmácias, a Maxinutri quer ampliar a capacidade produtiva e atingir R$ 500 milhões em faturamento em 2027",
+      "url": "https://exame.com/negocios/industria-de-suplementos-do-parana-investe-r-67-milhoes-em-fabrica-e-novo-centro-logistico",
+      "published": "2026-07-05T08:02:07+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
           "field": "lead",
           "score": 8,
           "topic": null
