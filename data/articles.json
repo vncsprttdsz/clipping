@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T09:32:02.098435+00:00",
-  "count": 374,
-  "new_this_run": 6,
+  "generated_at": "2026-07-05T09:56:20.071757+00:00",
+  "count": 375,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias",
@@ -3805,6 +3805,37 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Ouro, joias e espadas: tesouro de navio naufragado reaparece após quase 350 anos",
+      "summary": "Artefatos preservados desde o naufrágio do século XVII ajudam a reconstruir a história da embarcação",
+      "url": "https://exame.com/ciencia/ouro-joias-e-espadas-tesouro-de-navio-naufragado-reaparece-apos-quase-350-anos",
+      "published": "2026-07-05T06:44:26+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "joias",
+        "ouro"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Joias",
+          "alias": "ouro",
           "field": "title",
           "score": 20,
           "topic": null
