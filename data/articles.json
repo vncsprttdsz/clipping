@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-06T08:57:17.386156+00:00",
+  "generated_at": "2026-07-06T09:42:39.102088+00:00",
   "count": 372,
-  "new_this_run": 19,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias",
@@ -4501,29 +4501,6 @@
       "score": 24.0
     },
     {
-      "title": "Farm acelera presença global e quer ‘destravar valor’ da marca",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/06/farm-acelera-presenca-global-e-quer-destravar-valor-da-marca.ghtml",
-      "published": "2026-06-29T09:00:37+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "farm"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "farm",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "EBITDA do iFood cresce 40% para R$ 2,2 bi; novas categorias aceleram - Brazil Journal",
       "summary": "EBITDA do iFood cresce 40% para R$ 2,2 bi; novas categorias aceleram &nbsp;&nbsp; Brazil Journal",
       "url": "https://braziljournal.com/ebitda-do-ifood-cresce-40-para-r-22-bi-novas-categorias-aceleram",
@@ -8219,6 +8196,29 @@
         {
           "sector": "Global Consumer",
           "alias": "lululemon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Revolut elimina USDT en Europa tras la aplicación de la ley MiCA - iProUP",
+      "summary": "Revolut elimina USDT en Europa tras la aplicación de la ley MiCA &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/economia-digital/69561-revolut-elimina-usdt-en-europa-tras-la-aplicacion-de-la-ley-mica",
+      "published": "2026-07-05T10:14:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
           "field": "title",
           "score": 20,
           "topic": null
