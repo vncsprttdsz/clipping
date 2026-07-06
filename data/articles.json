@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T09:42:39.102088+00:00",
-  "count": 372,
+  "generated_at": "2026-07-06T11:21:32.242638+00:00",
+  "count": 369,
   "new_this_run": 3,
   "articles": [
     {
@@ -1803,6 +1803,45 @@
         {
           "sector": "Farmácias",
           "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Canetas emagrecedoras do Paraguai: ter o mesmo princípio ativo não significa ser o mesmo remédio",
+      "summary": "Encontrar a mesma molécula de Mounjaro e companhia nas ampolas não garante segurança, pureza nem eficácia comprovada",
+      "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-do-paraguai-ter-o-mesmo-principio-ativo-nao-significa-ser-o-mesmo-remedio",
+      "published": "2026-07-06T10:00:15+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -4499,52 +4538,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "EBITDA do iFood cresce 40% para R$ 2,2 bi; novas categorias aceleram - Brazil Journal",
-      "summary": "EBITDA do iFood cresce 40% para R$ 2,2 bi; novas categorias aceleram &nbsp;&nbsp; Brazil Journal",
-      "url": "https://braziljournal.com/ebitda-do-ifood-cresce-40-para-r-22-bi-novas-categorias-aceleram",
-      "published": "2026-06-29T09:50:19+00:00",
-      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Supermercados crean billetera al estilo MODO: cómo compiten con Mercado Pago - iProUP",
-      "summary": "Supermercados crean billetera al estilo MODO: cómo compiten con Mercado Pago &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/finanzas/69256-supermercados-crean-billetera-al-estilo-modo-como-compiten-con-mercado-pago",
-      "published": "2026-06-29T09:52:47+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Análise: Um número intrigante na volta do caso Americanas",
@@ -8956,77 +8949,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Dona do Melagrião, Catarinense aposta em suplementos para dobrar receita",
-      "summary": "Depois de oito décadas vendendo medicamentos populares como o xarope Melagrião e os fitoterápicos Figatil e Elixir Paregórico, a farmacêutica Catarinense quer aproveitar a onda da suplementação nutricional para dobrar de tamanho. A empresa familiar fundada em Joinville criou a Fontívia, aposta que deve ajudar a companhia a alcançar R$ 1 bilhão em faturamento até 2030 — o dobro da receita registrada no ano passado. A nova marca estreia com 14 produtos, entre shakes proteicos e suplementos encapsulados, e mira um público diferente daquele mais tradicional da companhia. Em vez das farmácias, a estratégia passa por nutricionistas, nutrólogos e lojas especializadas, segmento que deve responder por cerca de R$ 200 milhões da receita projetada. O segredo da Minancora: da 4ª geração ao TikTok Linha de suplementos Urso põe Cimed no e-commerce Para o CEO Alexandre Bornschein, representante da quarta geração da família fundadora, o movimento é uma evolução natural do negócio, numa categoria em que a companhia já tinha um naco relevante. \"A Catarinense trabalha com saúde há 80 anos. Começamos pelos medicamentos, mas atuamos com suplementação há mais de quatro décadas\", afirma o CEO, referindo-se a itens como ômega 3, levedura de cerveja e betacaroteno. Fontívia é a nova marca de suplementos da Catarinense, dona do Melagrião Divulgação Mas, com a Fontívia, a companhia passa a disputar o segmento premium de suplementação, com foco em longevidade, performance física, saúde feminina, beleza e vitalidade. A aposta acompanha uma mudança de comportamento do consumidor, que deve ser o driver da próxima década. \"As pessoas estão procurando cada vez menos tratamento e cada vez mais prevenção. A pandemia acelerou essa percepção de que saúde passa por alimentação, atividade física e qualidade de vida\", diz o CEO. Hoje, a Catarinense reúne mais de 500 SKUs. Após arrumar a casa, Dux quer bombar a Eat Clean, de proteína vegetal Nutella com whey: grupo Ferrero compra a mineira Bold Snacks Growth troca de CEO para chegar ao varejo físico Bornschein assumiu o comando da empresa em 2021, substituindo o irmão Adriano Bornschein, que deixou a gestão para ingressar na política. Além da farmacêutica, o empresário também lidera a AB Plast, fabricante de embalagens controlada pela família que atende clientes como O Boticário, Natura, L'Oréal e Johnson & Johnson.",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/dona-do-melagriao-catarinense-aposta-em-suplementos-para-dobrar-receita.ghtml",
-      "published": "2026-06-29T10:00:17+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "Cosméticos",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "boticário",
-        "farmácias",
-        "natura",
-        "o boticário"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "o boticário",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "No Maranhão, Aço Verde do Brasil produz aço de baixa emissão e alta performance",
-      "summary": "O Nordeste abriga 19,78% dos estabelecimentos de construção civil do Brasil, que respondem por 16,5% do Produto Interno Bruto (PIB) nacional do setor, segundo dados da Câmara Brasileira da Indústria da Construção (CBIC). De acordo com a Hoff Analytics, havia, em 2025, mais de 130 mil novas edificações em andamento na região, e a Aço Verde do Brasil (AVB) atua como parceira estratégica para esse mercado. A empresa é a mais jovem siderúrgica de aços longos do Brasil. Com usina em Açailândia, no sul do Maranhão, a companhia acompanha de perto as necessidades do Nordeste e implementou uma equipe comercial dedicada aos estados nordestinos. O vínculo é fortalecido pelo escritório da companhia em Recife (PE). “A escolha por Recife foi natural pela relevância estratégica do Nordeste para a AVB e pelo forte crescimento da atividade industrial e da construção civil na região”, explica Mariana Almeida, analista comercial da AVB para o Nordeste. Para Ricardo Penido, superintendente comercial da companhia, a proposta da AVB se destaca pela estratégia de venda, a presença nacional e o desempenho logístico, privilegiado pela localização. “Nossa agilidade no fornecimento é duas vezes mais alta do que a média de mercado, e nossa capacidade de fazer entregas nos prazos, em qualquer ponto do país, nos diferencia”, diz. Aço verde A AVB é reconhecida por entregar um material de baixíssima emissão: cada tonelada de aço produzido gera cerca de 200 quilos de CO2. É um dos menores índices globais do setor, que emite, em média, 1,92 tonelada de CO2 por 1.000 quilos de aço, de acordo com a WorldSteel Association. Esse desempenho é certificado por uma entidade independente, e os clientes recebem certificados de emissões, que atestam seu comprometimento com a descarbonização. A capacidade de produzir aço de baixa emissão e alta performance é resultado do compromisso com a sustentabilidade desde a origem da companhia. “Nossa planta foi concebida seguindo um modelo moderno e atento às emissões. Desde o primeiro dia de operação, 100% do combustível utilizado para transformar o minério é sustentável”, explica Penido. A produção utiliza biocarbono (carvão vegetal) obtido a partir da madeira extraída de 105 mil hectares de eucalipto mantidos em áreas próprias no Maranhão e no Piauí. O combustível alimenta os altos-fornos no lugar do coque mineral, que normalmente responde por grande parte das emissões da siderurgia tradicional. Outro diferencial da companhia é o uso de uma planta integrada, modelo que aumenta o controle operacional, melhora a eficiência e reduz impactos logísticos e ambientais. A AVB ainda detém uma usina produtora com foco em reaproveitamento dos resíduos do processo. É também a maior recicladora de sucata ferrosa do Maranhão. A relação com o Nordeste tende a se fortalecer nos próximos anos. O executivo conta que a empresa ampliou recentemente seu portfólio para atender Piauí, Ceará, Maranhão, Pernambuco e Bahia, além de Tocantins e Pará. A aceitação da marca e dos produtos na região é perceptível para a empresa: crescimento de 45% no volume de vendas e no número de clientes atendidos. Entre os produtos que agora podem ser comprados diretamente da AVB estão tela soldada, treliças, tela coluna, prego e vergalhão em barra. Impacto social A AVB também busca contribuir para o desenvolvimento social do Nordeste. Em 2024, as ações sociais, realizadas por meio do Instituto AVB, alcançaram mais de 54 mil pessoas. O número é quatro vezes maior em relação a 2021. Assim, a companhia opera nos três pilares ESG. “Responsabilidade ambiental, social e corporativa não é mais um diferencial, é uma exigência de mercado. Reduzir as emissões na siderurgia é uma grande demanda do mercado e da sociedade, e a AVB lidera esse movimento”, diz o superintendente.",
-      "url": "https://valor.globo.com/conteudo-de-marca/avb/noticia/2026/06/29/no-maranhao-aco-verde-do-brasil-produz-aco-de-baixa-emissao-e-alta-performance.ghtml",
-      "published": "2026-06-29T11:00:18+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Material de Construção"
-      ],
-      "matched_aliases": [
-        "construção civil"
-      ],
-      "matches": [
-        {
-          "sector": "Material de Construção",
-          "alias": "construção civil",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Japão usa uniforme reserva hoje contra o Brasil, e vendas da camisa disparam",
