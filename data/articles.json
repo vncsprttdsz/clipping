@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T11:21:32.242638+00:00",
-  "count": 369,
+  "generated_at": "2026-07-06T11:59:49.836164+00:00",
+  "count": 370,
   "new_this_run": 3,
   "articles": [
     {
@@ -8445,6 +8445,29 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Polícia apreende 124 ampolas de Tirzepatida na Bahia - G1",
+      "summary": "Polícia apreende 124 ampolas de Tirzepatida na Bahia &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/ba/bahia/videos-jornal-da-manha/video/policia-apreende-124-ampolas-de-tirzepatida-na-bahia-14755587.ghtml",
+      "published": "2026-07-06T10:58:56+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
