@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T10:12:07.922121+00:00",
+  "generated_at": "2026-07-07T10:47:25.988211+00:00",
   "count": 330,
-  "new_this_run": 6,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias",
@@ -1604,37 +1604,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "Anvisa avalia 16 pedidos de registro de semaglutida após fim da patente do Ozempic - Tribuna do Sertão",
-      "summary": "Anvisa avalia 16 pedidos de registro de semaglutida após fim da patente do Ozempic &nbsp;&nbsp; Tribuna do Sertão",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQTTlVV1BrT0RGdE9SM21WZ1F1MERPY3BaLWEtLXJSOXQwNklFUzVHTG1mbDQ0WjFBQXpNZkxQVlMtdGVpVDNBSkNmZkNRUHB2cjFVUDVDUlFIdnYtT1pQbThyRUNUS3ViUTlyZ3RQUzRQRWpfaVBSY2swQkN4aWlzeUpuTVhNRnVCQ2JzajlBcGRyY3JXQnlubmtGUENpdktSRDlZb1QwWG5WV0pRTktFQ0NFTGlkX3pnT2ZPZzNhZ1B0aDdEOWc3aWw0M3IyTUZwUTNDVWhnY0dPdzF3VS1QaXBR?oc=5",
-      "published": "2026-06-30T10:30:00+00:00",
-      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ozempic",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Saiba qual é o primeiro hospital federal que vai oferecer canetas emagrecedoras gratuitamente pelo SUS - VEJA",
@@ -8817,6 +8786,29 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "SpaceX wins bullish recommendations from Wall Street banks",
+      "summary": "Morgan Stanley gives Musk’s AI and rocket stock $300 price target as quiet period ends following record IPO",
+      "url": "https://www.ft.com/content/ea0a1a37-75a0-4658-93c1-d58bccaacf2b",
+      "published": "2026-07-07T09:32:57+00:00",
+      "source": "https://www.ft.com/rss/home",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "target"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "target",
           "field": "lead",
           "score": 8,
           "topic": null
