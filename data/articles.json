@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T10:05:44.573401+00:00",
-  "count": 302,
-  "new_this_run": 6,
+  "generated_at": "2026-07-10T10:47:04.027154+00:00",
+  "count": 304,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "EXCLUSIVO: EMS terá “clone” da caneta emagrecedora Ozivy e lançará uma segunda marca de semaglutida",
@@ -1727,6 +1727,68 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa inclui Ozivy, semaglutida brasileira, na lista de medicamentos de referência - G1",
+      "summary": "Anvisa inclui Ozivy, semaglutida brasileira, na lista de medicamentos de referência &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/saude/noticia/2026/07/10/anvisa-inclui-ozivy-semaglutida-brasileira-na-lista-de-medicamentos-de-referencia.ghtml",
+      "published": "2026-07-10T10:11:52+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ozivy",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozivy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa demite servidor preso por desviar canetas emagrecedoras apreendidas no Galeão - G1",
+      "summary": "Anvisa demite servidor preso por desviar canetas emagrecedoras apreendidas no Galeão &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/rj/rio-de-janeiro/noticia/2026/07/10/servidor-desvio-canetas-emagrecedoras-no-galeao.ghtml",
+      "published": "2026-07-10T10:16:19+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Guerra das canetas emagrecedoras faz Itaú BBA “emagrecer” projeções da RD Saúde",
       "summary": "O aumento da presença do mercado informal das canetas emagrecedoras e a redução das margens por produto fizeram com que o Itaú BBA reduzisse o preço-alvo das ações da RD Saúde, companhia dona das redes Raia e Drogasil. Segundo relatório divulgado pelo banco nesta sexta-feira, 3 de julho, o preço-alvo para o fim de 2026 [&#8230;] O post Guerra das canetas emagrecedoras faz Itaú BBA &#8220;emagrecer&#8221; projeções da RD Saúde apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/guerra-das-canetas-emagrecedoras-faz-itau-bba-emagrecer-projecoes-da-rd-saude",
@@ -1790,6 +1852,45 @@
         {
           "sector": "Economia",
           "alias": "imposto seletivo",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "A reforma tributária pode travar sua empresa e o problema não é o imposto",
+      "summary": "Quando líderes empresariais debatem a reforma tributária, as discussões costumam ser centradas em torno de alíquotas neutras, alinhamento ao padrão IVA com IBS e CBS e o fim da cumulatividade. No entanto, o verdadeiro campo de batalha não está no Congresso Nacional, mas dentro das próprias companhias. O período de transição, já iniciado neste ano, está expondo um gargalo estrutural crítico nas companhias brasileiras: o abismo histórico que separa os departamentos Fiscal e de Tecnologia. Leia mais (07/10/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/a-reforma-tributaria-pode-travar-sua-empresa-e-o-problema-nao-e-o-imposto.shtml",
+      "published": "2026-07-10T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
           "field": "lead",
           "score": 8,
           "topic": "reforma_tributaria"
@@ -6330,37 +6431,6 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        }
-      ],
-      "score": 16.0
-    },
-    {
-      "title": "Sucesso exige novo modelo de cooperação entre entes",
-      "summary": "A reforma tributária passa por um novo modelo de cooperação entre União, Estados e municípios, avaliou o ministro da Fazenda, Dario Durigan, durante o seminário Caminhos do Brasil. Segundo ele, o sucesso da reforma também depende da capacidade de os entes federativos construírem consensos a partir do Comitê Gestor do novo Imposto sobre Bens e Serviços (IBS). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/07/09/sucesso-exige-novo-modelo-de-cooperacao-entre-entes.ghtml",
-      "published": "2026-07-09T08:00:49+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 16.0
