@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T12:19:54.471414+00:00",
-  "count": 308,
-  "new_this_run": 7,
+  "generated_at": "2026-07-11T06:43:09.420131+00:00",
+  "count": 322,
+  "new_this_run": 46,
   "articles": [
     {
       "title": "EXCLUSIVO: EMS terá “clone” da caneta emagrecedora Ozivy e lançará uma segunda marca de semaglutida",
@@ -89,6 +89,92 @@
         }
       ],
       "score": 132.0
+    },
+    {
+      "title": "Dona do Ozempic perde duas rodadas contra caneta emagrecedora brasileira",
+      "summary": "Novo Nordisk perde na Justiça contra Ozivy, caneta brasileira de semaglutida da EMS",
+      "url": "https://veja.abril.com.br/coluna/radar-economico/dona-do-ozempic-perde-duas-rodadas-contra-a-caneta-brasileira",
+      "published": "2026-07-10T20:15:26+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "ems",
+        "novo nordisk",
+        "ozempic",
+        "ozivy",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozivy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 120.0
     },
     {
       "title": "Justiça nega pedido da fabricante do Ozempic contra Ozivy, da EMS, mas determina perícia",
@@ -515,11 +601,50 @@
       "score": 60.0
     },
     {
-      "title": "Casal é flagrado com 2.707 canetas emagrecedoras na fronteira com o Paraguai",
-      "summary": "Suspeitos, que estavam com uma criança, transportavam princípio ativo do Mounjaro e retratutida, substância ainda em testes e sem aprovação para uso",
-      "url": "https://veja.abril.com.br/saude/casal-e-flagrado-com-2-707-canetas-emagrecedoras-na-fronteira-com-o-paraguai",
-      "published": "2026-07-03T22:59:54+00:00",
-      "source": "https://veja.abril.com.br/feed",
+      "title": "Farmácias sofrem com onda de roubos de canetas emagrecedoras no Brasil",
+      "summary": "Anvisa registrou 18 ocorrências criminais entre julho de 2025 e julho de 2026; nos 12 meses anteriores, tinham sido apenas duas, um salto de 800%",
+      "url": "https://www.jota.info/saude/farmacias-sofrem-com-onda-de-roubos-de-canetas-emagrecedoras-no-brasil",
+      "published": "2026-07-10T13:10:07+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Canetas emagrecedoras: lotes falsificados de Mounjaro são apreendidos pela Anvisa - VEJA",
+      "summary": "Canetas emagrecedoras: lotes falsificados de Mounjaro são apreendidos pela Anvisa &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-lotes-falsificados-de-mounjaro-sao-apreendidos-pela-anvisa",
+      "published": "2026-07-10T13:20:29+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
       ],
@@ -546,12 +671,129 @@
         {
           "sector": "Farmácias",
           "alias": "mounjaro",
-          "field": "lead",
-          "score": 8,
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 48.0
+      "score": 60.0
+    },
+    {
+      "title": "Mounjaro falsificado: Anvisa determina apreensão das canetas emagrecedoras; veja os lotes afetados - Money Times",
+      "summary": "Mounjaro falsificado: Anvisa determina apreensão das canetas emagrecedoras; veja os lotes afetados &nbsp;&nbsp; Money Times",
+      "url": "https://www.moneytimes.com.br/mounjaro-falsificado-anvisa-apreensao-canetas-emagrecedoras-lotes-mlem",
+      "published": "2026-07-10T15:05:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Medida da Anvisa determina apreensão das canetas emagrecedoras Mounjaro por falsificação; veja os lotes afetados - Seu Dinheiro",
+      "summary": "Medida da Anvisa determina apreensão das canetas emagrecedoras Mounjaro por falsificação; veja os lotes afetados &nbsp;&nbsp; Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/2026/economia/anvisa-canetas-emagrecedoras-mounjaro-falsificacao-lotes-afetados-mlem",
+      "published": "2026-07-10T15:08:17+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa inclui Ozivy, caneta brasileira de semaglutida sintética, na lista de referência para genéricos - Folha de S.Paulo",
+      "summary": "Anvisa inclui Ozivy, caneta brasileira de semaglutida sintética, na lista de referência para genéricos &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/anvisa-inclui-ozivy-caneta-brasileira-de-semaglutida-na-lista-de-referencia-para-genericos-e-similares.shtml",
+      "published": "2026-07-10T16:19:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "ozivy",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozivy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
     },
     {
       "title": "Canetas emagrecedoras: apreensão dobra no Brasil com contrabando do Paraguai; veja dados da Polícia Federal",
@@ -826,192 +1068,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "Nike vende mais produtos ligados à Copa do que a Adidas nos EUA, diz empresa de dados",
-      "summary": "A proposta da Nike para a Copa do Mundo parece estar fazendo mais sucesso do que a da Adidas nos Estados Unidos, a despeito das dificuldades enfrentadas pela empresa para recuperar as suas vendas como um todo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/03/nike-vende-mais-produtos-ligados-a-copa-do-que-a-adidas-nos-eua-diz-empresa-de-dados.ghtml",
-      "published": "2026-07-03T12:34:16+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "adidas",
-        "nike"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "nike",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "adidas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Até quando vai o Amazon Prime Day?",
-      "summary": "Ainda dá tempo de aproveitar o Amazon Prime Day, evento de compras com ofertas exclusivas para membros Prime que teve início na quarta-feira (1) e termina na próxima terça-feira (7). Segundo a varejista, os descontos podem chegar a 80%. Para aproveitá-los, é preciso ser assinante do Amazon Prime e estar com a conta ativa. Novos membros ou membros que não tenham usufruído de alguma promoção Prime nos últimos 12 meses podem fazer um teste gratuito de 30 dias. Depois disso, é preciso pagar. São duas opções de plano: mensal, que custa R$ 19,90, e anual, que sai por R$ 166,80. A inscrição é feita no site da Amazon e exige uma forma de pagamento aceita (cartões de crédito ou de débito, Pix e NuPay). Estando tudo certo com a assinatura, é hora de aproveitar as ofertas. Uma dica sempre importante é, antes de fechar negócio, comparar os preços, já que nem toda oferta representa, necessariamente, o menor valor do mercado. Ferramentas de acompanhamento do histórico de preços e comparadores permitem verificar se o desconto anunciado é, de fato, vantajoso ou se o produto já foi vendido por valores semelhantes em outros períodos. Além disso, fique de olho nos itens com contagem regressiva. Eles têm estoques limitados e costumam esgotar rápido. Outra dica é verificar se há cupom de desconto, que garante um preço ainda mais baixo. Esse cupom deve ser ativado manualmente antes da finalização da compra. Também tenha atenção aos golpes, já que grandes eventos promocionais costumam atrair criminosos. Neste caso, a orientação é acessar a Amazon apenas pelo aplicativo oficial ou digitando diretamente o endereço da empresa no navegador, evitando links enviados por mensagens, e-mails ou redes sociais. Sempre desconfie de ofertas com descontos muito acima da média, nunca forneça dados pessoais fora do ambiente oficial da plataforma e confirme se o pagamento está sendo realizado em uma página segura. Mais uma recomendação é verificar se o seu banco ou cartão oferece promoções especiais para o Prime Day. Por exemplo, o Nubank e a Amazon Brasil anunciaram benefícios exclusivos para clientes que utilizarem a modalidade de pagamento digital NuPay de 1º a 7 de julho - no período, os descontos podem chegar a 30%. Pagamento com NuPay A parceria entre Nubank e Amazon, com o NuPay, começou em 2025, inicialmente com foco no limite adicional de crédito. Agora, também passa a oferecer uma experiência completa de checkout na Amazon, com todas as principais opções de pagamento: débito, crédito à vista, crédito parcelado sem juros em 12x, parcelamento estendido até 18x com juros e limite adicional para parcelamento em até 24x. “A evolução para uma experiência completa integrada reforça o compromisso do Nubank e da Amazon em tornar a jornada de compra cada vez mais simples e conveniente para os brasileiros. Com o NuPay, queremos ampliar o poder de escolha do cliente no momento da compra”, declara Nathan Marion, diretor comercial do banco. Leandro Santos, diretor de Pagamentos da Amazon Brasil, completa: “Com a expansão da integração do NuPay no nosso checkout, os clientes agora contam com débito, crédito, parcelamento sem juros e em até 24x no limite adicional do Nubank – mais formas de pagamento para aproveitar ao longo do ano e, especialmente, neste Prime Day, da maneira que melhor se encaixa na realidade financeira de cada um”. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/07/ate-quando-vai-o-amazon-prime-day.ghtml",
-      "published": "2026-07-03T14:40:11+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Mercado informal de caneta emagrecedora derruba farmácias na B3 — Itaú acha exagero",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/07/mercado-informal-de-caneta-emagrecedora-derruba-farmacias-na-b3-itau-acha-exagero.ghtml",
-      "published": "2026-07-03T15:43:19+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Por que as canetas emagrecedoras viraram o novo fantasma das farmácias na B3? - InfoMoney",
-      "summary": "Por que as canetas emagrecedoras viraram o novo fantasma das farmácias na B3? &nbsp;&nbsp; InfoMoney",
-      "url": "https://www.infomoney.com.br/mercados/por-que-as-canetas-emagrecedoras-viraram-o-novo-fantasma-das-farmacias-na-b3",
-      "published": "2026-07-03T17:05:06+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Mais do que peso: o que as canetas emagrecedoras revelam sobre nós - Veja Saúde",
-      "summary": "Mais do que peso: o que as canetas emagrecedoras revelam sobre nós &nbsp;&nbsp; Veja Saúde",
-      "url": "https://saude.abril.com.br/coluna/sextou-com-a-doutora/mais-do-que-peso-o-que-as-canetas-emagrecedoras-revelam-sobre-nos",
-      "published": "2026-07-03T17:33:49+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Amazon combina IA, logística e eletrificação para reduzir emissões nas entregas - Exame",
-      "summary": "Amazon combina IA, logística e eletrificação para reduzir emissões nas entregas &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/esg/amazon-combina-ia-logistica-e-eletrificacao-para-reduzir-emissoes-nas-entregas",
-      "published": "2026-07-03T18:58:33+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "amazon",
-        "logística"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "logística",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Novo estudo associa GLP-1 a menos amputações e mortes em pacientes com diabetes - Exame",
@@ -1851,18 +1907,80 @@
       "score": 40.0
     },
     {
-      "title": "Guerra das canetas emagrecedoras faz Itaú BBA “emagrecer” projeções da RD Saúde",
-      "summary": "O aumento da presença do mercado informal das canetas emagrecedoras e a redução das margens por produto fizeram com que o Itaú BBA reduzisse o preço-alvo das ações da RD Saúde, companhia dona das redes Raia e Drogasil. Segundo relatório divulgado pelo banco nesta sexta-feira, 3 de julho, o preço-alvo para o fim de 2026 [&#8230;] O post Guerra das canetas emagrecedoras faz Itaú BBA &#8220;emagrecer&#8221; projeções da RD Saúde apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/negocios/guerra-das-canetas-emagrecedoras-faz-itau-bba-emagrecer-projecoes-da-rd-saude",
-      "published": "2026-07-03T15:36:51+00:00",
-      "source": "https://neofeed.com.br/feed/",
+      "title": "Canetas emagrecedoras: 6 erros que comprometem o tratamento - Guia da Farmácia",
+      "summary": "Canetas emagrecedoras: 6 erros que comprometem o tratamento &nbsp;&nbsp; Guia da Farmácia",
+      "url": "https://guiadafarmacia.com.br/canetas-emagrecedoras-6-erros-que-comprometem-o-tratamento",
+      "published": "2026-07-10T13:00:14+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
       ],
       "matched_aliases": [
         "canetas emagrecedoras",
-        "drogasil",
-        "raia"
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Shein afirma que disputa judicial com a Lacoste continua em andamento",
+      "summary": "A Shein afirmou nesta sexta-feira (10), após uma decisão judicial que concedeu indenização à Lacoste em um tribunal francês, que os procedimentos legais ainda estão em andamento. Um tribunal francês concedeu à Lacoste uma indenização de 110 mil euros (US$ 125.741) após uma disputa relacionada à venda de itens com o logotipo de crocodilo da marca na plataforma da Shein. “A decisão emitida em 9 de julho de 2026 refere-se apenas a um procedimento liminar. O processo principal continua em andamento e ainda não houve uma decisão final sobre o mérito do caso”, afirmou um porta-voz da Shein em comunicado. “A Shein leva a proteção dos direitos de propriedade intelectual a sério e cooperou com a Lacoste ao longo de todo o processo, inclusive removendo prontamente os produtos em questão assim que foi notificada.” Fundada em 1933 pelo campeão francês de tênis René Lacoste, a marca adotou seu famoso logotipo a partir do apelido do atleta, “O Crocodilo”. A empresa suíça de controle familiar Maus Freres adquiriu a marca em 2012. Justin Chin/Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/10/shein-afirma-que-disputa-judicial-com-a-lacoste-continua-em-andamento.ghtml",
+      "published": "2026-07-10T13:25:31+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "lacoste",
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "lacoste",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Servidor da Anvisa é demitido por desvio de canetas emagrecedoras - Panorama Farmacêutico",
+      "summary": "Servidor da Anvisa é demitido por desvio de canetas emagrecedoras &nbsp;&nbsp; Panorama Farmacêutico",
+      "url": "https://panoramafarmaceutico.com.br/servidor-da-anvisa-e-demitido-por-desvio-de-canetas-emagrecedoras",
+      "published": "2026-07-10T14:29:32+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
       ],
       "matches": [
         {
@@ -1874,20 +1992,44 @@
         },
         {
           "sector": "Farmácias",
-          "alias": "raia",
-          "field": "lead",
-          "score": 8,
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa inclui Ozivy, semaglutida brasileira, em lista que abre caminho para futuros genéricos - Times Brasil | CNBC",
+      "summary": "Anvisa inclui Ozivy, semaglutida brasileira, em lista que abre caminho para futuros genéricos &nbsp;&nbsp; Times Brasil | CNBC",
+      "url": "https://timesbrasil.com.br/brasil/anvisa-inclui-ozivy-em-lista-para-futuros-genericos",
+      "published": "2026-07-11T02:15:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ozivy",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozivy",
+          "field": "title",
+          "score": 20,
           "topic": null
         },
         {
           "sector": "Farmácias",
-          "alias": "drogasil",
-          "field": "lead",
-          "score": 8,
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 36.0
+      "score": 40.0
     },
     {
       "title": "A bagunça da Reforma Tributária preocupa os contribuintes",
@@ -1963,6 +2105,45 @@
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Wellhub renova contrato de exclusividade com Bodytech",
+      "summary": "O Wellhub (ex-Gympass), plataforma que oferece planos fitness como benefício corporativo, renova sua exclusividade com a rede de academias Bodytech, focada no público de alta renda. Leia mais (07/10/2026 - 10h22)",
+      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/07/wellhub-renova-contrato-de-exclusividade-com-bodytech.shtml",
+      "published": "2026-07-10T13:22:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "gympass",
+        "rede de academias",
+        "wellhub"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "gympass",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "rede de academias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 36.0
@@ -2102,66 +2283,44 @@
       "score": 30.0
     },
     {
-      "title": "Governo anuncia pacote de renegociação de dívidas de MEIs",
-      "summary": "O governo federal anunciou nesta sexta-feira (3) um programa de renegociação de dívidas de MEIs (Microempreendedores Individuais) com a União, batizado de \"Desenrola MEI\". Leia mais (07/03/2026 - 16h09)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-anuncia-pacote-de-renegociacao-de-dividas-de-meis.shtml",
-      "published": "2026-07-03T19:09:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "title": "Depois de encolher receita, Natura tem desafio de provar que gargalos foram pontuais",
+      "summary": "Depois de publicar resultados preliminares que apontam para queda de até 10% no faturamento consolidado no segundo trimestre de 2026, a Natura enfrenta o desafio de comprovar que eventos que pressionaram a receita no período foram pontuais. O grupo atravessa ampla reestruturação, focado na simplificação operacional e na integração das marcas Natura e Avon na América Latina, após a venda de ativos internacionais. O mercado aguarda resultados do processo na recuperação do faturamento, enquanto revisa para baixo recomendações para as ações da companhia e refaz projeções após a divulgação dos números trimestrais. O alerta já havia sido dado pela Natura em maio. “Tenho a obrigação de alertar que, no mês de junho, viveremos a substituição de um dos sistemas SAP [sistema de gestão empresarial] da nossa indústria, que apesar da alta prontidão técnica, pode trazer turbulência”, afirmou, na época, João Paulo Ferreira, presidente. Mas a gravidade surpreendeu. A companhia disse que o desempenho do segundo trimestre, que poderá variar de uma receita entre R$ 5,1 bilhões e R$ 5,2 bilhões, queda de 9% a 10% na base anual, foi impactado pela operação no Brasil, seu principal mercado, que sofreu escassez de produtos, desabastecimento que resultou da estabilização do novo sistema de Planejamento Integrado e de atualizações no sistema de gestão SAP. Pesou também a realocação de volumes da fábrica de Interlagos (SP), desativada para otimizar a malha produtiva. Para analistas, o impacto se mostrou pior do que o antecipado. E há ainda preocupação com o ambiente competitivo. Segundo o Itaú BBA, a “desaceleração brusca” no Brasil mostra que a competição com plataformas como Mercado Livre, Shopee e TikTok Shop está acirrada, o que pode prejudicar a recuperação. Mesmo com a notícia ruim, os papéis da companhia fecharam com alta de 5,6%, maior do Ibovespa, na quarta-feira (8), o que pode ser explicado pela taxa de aluguel de ações da companhia, que atingiu máxima de 147% ao ano na terça-feira (7) e dificulta novas apostas na queda do papel. A percepção de alguns de que a reestruturação já gera frutos pode ter alguma influência. A companhia sinalizou melhora na rentabilidade no segundo trimestre, mesmo sem deixar claro se problemas relacionados com falta de produtos e na implementação do sistema de gestão SAP já haviam sido resolvidos, também notaram analistas. Para o Itaú BBA, a entrada da gestora americana Advent no conselho de administração é “gatilho em potencial” positivo pelo histórico em melhorias de processos. O fundo comprou uma participação de 6,6% na Natura e deve converter mais 1,4% por meio de derivativos e, com isso, terá duas indicações no conselho de administração da empresa. Para Daniel Utsch, da gestora Nero Capital, as justificativas da gestão para o segundo trimestre ainda são observadas com cautela. “A companhia está acelerando na tentativa de voltar a ter crescimento e rentabilidade, só com a operação da Natura e da Avon na América Latina, que é o que ficou depois de toda essa ressurreição. O ‘turnaround’ parece estar caminhando, mas agora é ver o resultado.”",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/10/depois-de-encolher-receita-natura-tem-desafio-de-provar-que-gargalos-foram-pontuais.ghtml",
+      "published": "2026-07-10T15:09:26+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
       "matched_sectors": [
-        "Economia"
+        "E-commerce",
+        "Cosméticos"
       ],
       "matched_aliases": [
-        "desenrola",
-        "renegociação de dívidas"
+        "avon",
+        "natura",
+        "tiktok shop"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Governo oficializa Desenrola para MEIs com dívidas de até R$ 20 mil com a União",
-      "summary": "O ministro do Empreendedorismo, da Microempresa e da Empresa de Pequeno Porte, Paulo Henrique Pereira, anunciou nesta sexta-feira (3) o Desenrola MEI, programa de renegociação de dívidas voltado para os microempreendedores individuais (MEIs). A equipe econômica disse que até 3,5 milhões de empreendedores estão com dívida ativa com a União e poderão recorrer ao programa para regularizar suas pendências de natureza tributária e não tributária. As renegociações são voltadas para dívidas de até R$ 20 mil, com descontos de até 70%. A procuradora-geral da Fazenda Nacional, Anelize Lenzi, e o secretário-executivo do Ministério da Gestão e da Inovação em Serviços Públicos, Cilair Rodrigues de Abreu, também estavam presentes. Anelize disse que o governo estima arrecadar, pelo menos, R$ 1,2 bilhão em até 145 meses, que é o número máximo de prestações, conforme antecipado pelo Valor. O Desenrola MEI foi criado para evitar o cancelamento dos CNPJs e manter os profissionais na formalidade. A medida oferece vantagens exclusivas para pendências mais antigas. O MEI com débitos inscritos há mais de um ano conta com 50% de desconto linear e prazo de até 60 meses para pagar. \"Isso não é um Refis. O Refis não olhava a situação de todo mundo. Aqui, a gente olha situação por situação: se [o MEI] tem fluxo financeiro, se não tem fluxo financeiro, se a dívida é mais antiga ou mais nova. E isso tem a capacidade de transformar esse pagamento num pagamento que é sustentável\", disse a procuradora-geral da Fazenda Nacional. Os MEIs interessados poderão fazer os pedidos para a renegociação de segunda-feira (6) a 30 de setembro, via o site www.regularize.pgfn.gov.br. “É absolutamente gratuito o acesso a esse edital e à renegociação”, disse Anelize. “Não precisa de advogado, não precisa de contador. É intuitivo”, acrescentou. O Ministério do Empreendedorismo também anunciou a ampliação do número de atividades econômicas contempladas, passando de 107 para 141 Classificações Nacionais de Atividades Econômicas (CNAEs). O órgão incluiu 34 novas atividades, especialmente em segmentos com forte participação feminina. A medida busca ampliar a participação de mulheres empreendedoras nas compras públicas e diversificar os serviços ofertados aos órgãos governamentais.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/07/03/governo-oficializa-desenrola-para-meis-com-dvidas-de-at-r-20-mil-com-a-unio.ghtml",
-      "published": "2026-07-03T20:55:46+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
+          "sector": "Cosméticos",
+          "alias": "avon",
           "field": "lead",
           "score": 8,
           "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
         }
       ],
-      "score": 28.0
+      "score": 30.0
     },
     {
       "title": "A primeira grande disputa constitucional da reforma tributária",
@@ -2568,6 +2727,37 @@
       "score": 28.0
     },
     {
+      "title": "Acordo com Amazon permite que clientes busquem indenização de US$ 200 milhões dos desenvolvedores de aplicativos de cassino",
+      "summary": "A Amazon.com concordou com um acordo coletivo que permitiria aos consumidores americanos buscar indenizações superiores a US$ 200 milhões de desenvolvedores de software terceirizados ligados a supostas transações ilegais de jogos de azar em aplicativos oferecidos por meio do marketplace on-line da gigante do comércio eletrônico. A proposta de acordo foi protocolada na quinta-feira (9) no tribunal federal de Seattle e precisa da aprovação de um juiz. Ela resolveria uma ação coletiva movida em 2023, na qual a Amazon é acusada de violar uma lei de jogos de azar do estado de Washington e a lei estadual de proteção ao consumidor ao intermediar transações em aplicativos de cassino disponíveis na Amazon Appstore. O acordo não exige que a Amazon contribua para um fundo de indenização. Em vez disso, a empresa concordaria com uma sentença judicial de US$ 201 milhões contra ela e cederia ao grupo seus direitos de buscar reembolso dos desenvolvedores de aplicativos de cassino. Os membros do grupo concordariam em não receber a indenização da Amazon como parte do acordo. A Amazon e os advogados do autor da ação, um usuário de um aplicativo de cassino social, não responderam imediatamente aos pedidos de comentários. A Amazon negou qualquer irregularidade. Nos autos do processo, os advogados da parte autora descreveram o acordo como o capítulo mais recente de sua campanha contra a indústria de cassinos sociais. Eles afirmaram que acordos anteriores com desenvolvedores de aplicativos já devolveram mais de US$ 650 milhões a consumidores em Washington e em todo o país. “O grupo está prestes a recuperar uma parcela significativa de suas perdas totais, o que está em linha com os acordos obtidos contra os desenvolvedores de cassinos sociais”, disseram os advogados. A chamada sentença judicial de US$ 201 milhões contra a Amazon representa 30% dos gastos dos membros da ação coletiva com os aplicativos, afirmou o autor da ação. O valor foi calculado usando dados de transações que a Amazon forneceu no processo judicial, referentes a compras feitas dentro do aplicativo pelos membros da ação coletiva, afirmou o autor da ação. Qualquer quantia recuperada dos desenvolvedores será distribuída aos membros da ação coletiva. Processos paralelos estão pendentes contra as empresas de tecnologia Apple, Google e Meta, que negaram qualquer irregularidade. Sede da Amazon na Califórnia David Paul Morris/Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/10/acordo-com-amazon-permite-que-clientes-busquem-indenizao-de-us-200-milhes-dos-desenvolvedores-de-aplicativos-de-cassino.ghtml",
+      "published": "2026-07-10T18:23:55+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "'Alexa, conte uma piada': como as conversas com a IA influenciam o desenvolvimento de uma criança",
       "summary": "As crianças são naturalmente curiosas e, ao longo do dia, fazem perguntas de todos os tipos: por que os peixes não têm cabelo? Por que as flores murcham tão rápido? A necessidade de compreender o mundo — e de desenvolver a linguagem e as próprias ideias — faz delas conversadoras incansáveis. Onda de calor: adolescente quase perde a perna após mergulho em lago causar infecção por bactéria 'devoradora de carne' Caneta emagrecedora: laboratório nacional reduz o preço do medicamento nas farmácias Se antes essas perguntas eram direcionadas principalmente aos pais ou professores, hoje, em muitas casas, até as crianças pequenas recorrem a assistentes digitais como Siri ou Alexa. Esses sistemas de inteligência artificial estão cada vez mais presentes no cotidiano infantil: elas pedem para tocar músicas, ajudar nas tarefas escolares, responder dúvidas ou simplesmente conversar. Esse tipo de interação já deixou de ser novidade. Mas é importante perguntar o que acontece quando ela se torna completamente rotineira. Isso muda a forma como as crianças aprendem a se comunicar? Altera as palavras que elas usam? E pode representar um risco para o desenvolvimento de suas habilidades cognitivas? Como as crianças aprendem a linguagem Aprender a falar nunca significou apenas aprender palavras. As crianças adquirem a linguagem por meio das relações humanas e da construção de vínculos afetivos com outras pessoas. É assim que aprendem a esperar a sua vez de falar, interpretar o silêncio e o contexto, além de perceber quando alguém está cansado, irritado ou distraído. Também descobrem que uma conversa não precisa ser perfeita: sempre haverá interrupções, mal-entendidos e explicações improvisadas. A inteligência artificial, porém, não pensa como um ser humano. Basta lembrar das interações com ferramentas como ChatGPT ou Gemini. Raramente perdemos a paciência ao conversar com esses assistentes virtuais, em parte porque essas conversas seguem uma lógica muito diferente da comunicação entre pessoas. Esses sistemas foram desenvolvidos para responder rapidamente e demonstrar uma paciência praticamente infinita, o que muda a experiência da comunicação. IA e a educação para a gentileza Em muitas famílias, um comportamento curioso vem se tornando cada vez mais comum: algumas crianças — e até adultos — adaptam a maneira de falar para que os assistentes virtuais entendam melhor seus pedidos. Em vez de frases mais naturais, usam comandos simples e diretos, como: \"coloque desenhos\", \"abra o YouTube\" ou \"conte uma piada\". Esse tipo de fala, conhecido como linguagem instrumental, tem como objetivo obter um resultado imediato. Essa mudança não significa necessariamente que as crianças estejam ficando mais mal-educadas ou menos empáticas, mas pode influenciar suas expectativas sobre as conversas em geral. As interações humanas costumam ser lentas, ambíguas e exigem paciência, atenção e negociação. Já os chatbots são programados para responder de forma rápida, fluida e até transmitir uma sensação de empatia ao usuário. Isso leva a uma questão aparentemente simples, mas bastante reveladora: devemos ensinar as crianças a dizer \"por favor\" e \"obrigado\" para a Alexa? Mais do que discutir se devemos ser educados com máquinas, esse debate faz refletir sobre os hábitos de comunicação que as crianças desenvolvem ao interagir diariamente com uma tecnologia que sempre obedece aos seus comandos. A questão mais ampla para famílias e educadores é: que ideia de \"conversar\" as crianças irão construir nesse contexto? As oportunidades da inteligência artificial Ao mesmo tempo, não podemos ignorar os benefícios que essas ferramentas oferecem. Muitas crianças se sentem mais à vontade para fazer perguntas quando não têm medo de serem julgadas. Um chatbot pode repetir uma explicação quantas vezes forem necessárias, adaptar o nível de dificuldade ou ajudar no aprendizado de novos idiomas e conceitos. Essas ferramentas oferecem um ambiente seguro para experimentar, errar e aprender, sem a pressão social que normalmente acompanha as conversas entre pessoas. E isso não vale apenas para as crianças. Muitos adultos já recorrem à inteligência artificial para fazer perguntas do dia a dia — desde \"Alexa, como recupero minha senha?\" até dúvidas mais constrangedoras que prefeririam não fazer em voz alta. Responder não significa compreender Os sistemas atuais de inteligência artificial produzem respostas extremamente convincentes, mas não entendem o mundo da mesma forma que um ser humano. Eles não possuem experiências, emoções nem intenções, ainda que se expressem como se tivessem. Assim como acontece com muitos adultos, crianças pequenas tendem a atribuir características humanas aos objetos com os quais interagem. Se algo é capaz de conversar, é fácil imaginar que também compreenda o que está sendo dito ou possua conhecimento próprio. No entanto, grande parte da comunicação humana acontece de maneira implícita. Um adulto consegue perceber quando a pergunta de uma criança nasce da curiosidade, do medo ou simplesmente da necessidade de atenção. Essa dimensão pragmática da linguagem — formada por gestos, tom de voz, olhares e emoções — é fundamental para o desenvolvimento infantil. E é muito difícil reproduzi-la em uma máquina, que pode oferecer respostas, mas não captar essas nuances. Humanos não são máquinas Quando as crianças crescem cercadas por um tipo específico de interação linguística — baseado em respostas rápidas e na satisfação imediata de qualquer pedido — isso acaba moldando seus hábitos, expectativas e formas de se relacionar. Como consequência, elas podem passar a esperar respostas claras, rápidas e sem esforço, como se toda conversa devesse ser resolvida instantaneamente. Por isso, os adultos têm um papel essencial. São eles que mediam o uso dessas ferramentas em casa e na escola, compreendem suas limitações e conseguem integrar essas experiências ao processo de aprendizagem. Uma criança pedir para a Alexa responder uma dúvida ou contar uma piada, por si só, não prejudica seu desenvolvimento linguístico. O importante é orientar essas interações para que ela compreenda que está falando com uma máquina que responde a comandos, e não com uma pessoa. Também é necessário mostrar às crianças o que nos diferencia das máquinas, como devemos nos relacionar com elas e em quais situações seu uso faz sentido. Acompanhar essas interações, comentá-las e ajudá-las a entender os limites da inteligência artificial faz parte desse processo. A inteligência artificial pode ser uma ferramenta útil de apoio, mas jamais deve substituir as conversas entre pessoas. Mesmo com os rápidos avanços da tecnologia, a interação humana continua sendo o elemento central da forma como aprendemos, nos comunicamos e existimos no mundo. * Clara Macarena Ponce Romero é professora da área de Didática da Língua e da Literatura da Universidade de Santiago de Compostela. * Este artigo foi republicado de The Conversation sob licença Creative Commons. Leia o artigo original.",
       "url": "https://oglobo.globo.com/saude/noticia/2026/07/05/alexa-conte-uma-piada-como-as-conversas-com-a-ia-influenciam-o-desenvolvimento-de-uma-crianca.ghtml",
@@ -2646,257 +2836,43 @@
       "score": 24.0
     },
     {
-      "title": "EU Commission proposes five major cross-border defence projects - Reuters",
-      "summary": "EU Commission proposes five major cross-border defence projects &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/aerospace-defense/eu-commission-proposes-five-major-cross-border-defence-projects-2026-07-03",
-      "published": "2026-07-03T14:16:45+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "title": "Citi avalia a TotalPass em R$ 1,7 bi, quase 15% da Smart Fit",
+      "summary": "A TotalPass está ganhando peso na tese de investimento da Smart Fit, deixando de ser vista como um dos motores de crescimento para impulsionar também a rentabilidade da empresa. Após reuniões com a administração durante a conferência de ações do Citi, o banco elevou o preço-alvo da companhia de R$ 32 para R$ 34 e reiterou recomendação de compra, citando a evolução da plataforma de benefícios corporativos. Kikos compra GuruPass de olho em tecnologia Irmãos querem fazer da Goper a Peloton brasileira — sem os erros Os analistas estimam que a receita da plataforma tenha crescido cerca de 120% em 2025 e projetam expansão de aproximadamente 80% em 2026, 40% em 2027 e 30% em 2028. Com isso, revisaram a avaliação da TotalPass para R$ 1,7 bilhão, equivalente a cerca de 14% do valor de mercado atual da Smart Fit. TotalPass ganha relevância nos números da Smart Fite Divulgação/Site A plataforma, que compõe a linha de \"outras receitas\", ajudou a elevar a margem bruta desse segmento para cerca de 86% no primeiro trimestre, e o Citi espera nova melhora à medida que a companhia aumenta seu poder de negociação com academias parceiras. Por meio da contratação pelas empresas, os usuários podem acessar uma rede extensa de academias e studios de diferentes modalidades. Cade aperta Wellhub para alívio da concorrência Wellhub tem novo chefe no Brasil e mira 10 milhões de usuários Para o segundo trimestre, o banco prevê crescimento de 25% da receita da Smart Fit, Ebitda cerca de 2,5% acima do consenso e lucro líquido aproximadamente 10% superior às estimativas do mercado. A companhia divulga os resultados do período em 5 de agosto. Negociada a 9x o lucro projetado para 2027, a ação é uma das preferidas do Citi em varejo. A TotalPass é o segundo maior negócio de benefício corporativo de academias do país, com pouco mais de quatro milhões de usuários, atrás apenas da Wellhub, com cerca de oito milhões, segundo a SensorTower. A TotalPass foi criada em 2016, como iniciativa interna da Smart Fit, mas só em 2019 ganhou estrutura própria e avançou para outras redes. Já o Wellhub nasceu como Gympass em 2012 e hoje tem atuação global - em sua última rodada, em 2023, foi avaliado em US$ 2,4 bilhões.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/citi-avalia-a-totalpass-em-r-17-bi-quase-15percent-da-smart-fit.ghtml",
+      "published": "2026-07-10T15:14:18+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
       "matched_sectors": [
-        "E-commerce"
+        "Academias"
       ],
       "matched_aliases": [
-        "cross-border"
+        "gympass",
+        "smart fit",
+        "wellhub"
       ],
       "matches": [
         {
-          "sector": "E-commerce",
-          "alias": "cross-border",
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "gympass",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 20.0
-    },
-    {
-      "title": "Inadimplência de Aluguel em São Paulo Volta a Subir; Veja Tipos de Imóveis com Mais Atrasos",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com forte alta em imóveis de alto padrão e locações populares, taxa de atraso nos aluguéis paulistas volta a crescer, aponta levantamento O post Inadimplência de Aluguel em São Paulo Volta a Subir; Veja Tipos de Imóveis com Mais Atrasos apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/07/inadimplencia-aluguel-sao-paulo",
-      "published": "2026-07-03T14:55:27+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "As mercadorias que deixarão de integrar o regime de Substituição Tributária do ICMS de São Paulo - VEJA",
-      "summary": "As mercadorias que deixarão de integrar o regime de Substituição Tributária do ICMS de São Paulo &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/politica/as-mercadorias-que-deixarao-de-integrar-o-regime-de-substituicao-tributaria-do-icms-de-sao-paulo",
-      "published": "2026-07-03T15:30:39+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "substituição tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "substituição tributária",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Receita define novas regras de IR para comissões pagas por bets; tributação de jogadores não muda",
-      "summary": "A Receita Federal regulamentou o recolhimento do Imposto de Renda pelas plataformas digitais, as bets . A instrução normativa 2.331/2026, publicada no Diário Oficial de 1º de julho, traz as regras para retenção do IR na fonte no caso de comissões, corretagens e outras remunerações pagas por essas empresas. Nada muda para a pessoa física que faz apostas. Leia mais (07/03/2026 - 14h08)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/receita-define-novas-regras-de-ir-para-comissoes-pagas-por-bets-tributacao-de-jogadores-nao-muda.shtml",
-      "published": "2026-07-03T17:08:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bets perdem milhões com gols de jogadores favoritos da Copa do Mundo",
-      "summary": "Jogadores estrelas com muitos gols e vitórias de times populares tornaram a fase inicial da Copa do Mundo custosa para as empresas de apostas, que esperam que o torneio atraia uma lucrativa leva de novos clientes. Leia mais (07/03/2026 - 14h48)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/bets-perdem-milhoes-com-gols-de-jogadores-favoritos-da-copa-do-mundo.shtml",
-      "published": "2026-07-03T17:48:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Regulação de bets não é suficiente, é preciso dar limites a arquitetura das plataformas de jogos online, diz especialista",
-      "summary": "A regulação das bets em curso no Brasil representa um avanço, mas ainda é insuficiente para conter o crescimento acelerado do setor que movimenta mensalmente entre R$ 20 bilhões e R$ 30 bilhões. De um lado, o país se tornou uma potência global nesse mercado. De outro, o aumento das apostas tem pressionado o orçamento das famílias, aprofundado o endividamento, segundo pesquisas, e afetado outros segmentos da economia, como o varejo. O próximo passo que deveria ser dado é regular a arquitetura das próprias plataformas de apostas, diz o economista Flávio Ataliba Barreto, coordenador do Centro de Estudos para o Desenvolvimento do Nordeste do FGV Ibre. Segundo ele, esses sistemas são desenhados para retirar a capacidade de decisão dos usuários. Nesse contexto, ressalta, a possibilidade de realizar depósitos por Pix elimina praticamente qualquer intervalo entre o impulso e a aposta. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/07/regular-bets-ilegais-nao-e-suficiente-e-preciso-dar-limites-a-arquitetura-das-plataformas-de-jogos-online-diz-especialista.ghtml",
-      "published": "2026-07-03T18:09:42+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Casal é flagrado com 2.707 canetas emagrecedoras em carro na fronteira com o Paraguai - Folha de S.Paulo",
-      "summary": "Casal é flagrado com 2.707 canetas emagrecedoras em carro na fronteira com o Paraguai &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/casal-e-flagrado-com-2707-canetas-emagrecedoras-em-carro-na-fronteira-com-o-paraguai.shtml",
-      "published": "2026-07-03T18:31:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Americanas fecha venda da dona da Imaginarium para BandUP! por R$ 152,9 milhões",
-      "summary": "A Americanas fechou, na quinta-feira (2), a venda da Uni.Co, holding dona da Imaginarium, para a BandUP! e recebeu R$ 20 milhões como primeira parcela do valor de R$ 152,9 milhões do negócio. A informação foi divulgada pela varejista na tarde desta sexta-feira (3), em comunicado ao mercado. Foram deduzidos do montante já recebido os custos da operação. O saldo remanescente foi destinado à conta de pagamentos “M&amp;A” da Americanas, conforme definido no plano de recuperação judicial, para a amortização extraordinária da 22ª emissão de debêntures não conversíveis em ações da companhia. O restante será pago pela BandUP! em cinco parcelas iguais, anuais e sucessivas, com vencimento a partir do 1º aniversário da data de fechamento, corrigidas pela variação positiva de 100% do CDI até a data do pagamento. “A conclusão desta operação constitui etapa relevante da implementação do plano de recuperação judicial da companhia e representa o cumprimento de mais uma das medidas nele previstas”, afirma a Americanas. O contrato para a venda foi fechado entre as partes no início de abril deste ano. Domingos Peixoto/Agência O Globo",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/03/americanas-fecha-venda-da-dona-da-imaginarium-para-bandup-por-r-1529-milhes.ghtml",
-      "published": "2026-07-03T19:07:56+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "americanas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "americanas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "JPMorgan sees $4,500 gold price in fourth quarter, says risks to downside - Reuters",
-      "summary": "JPMorgan sees $4,500 gold price in fourth quarter, says risks to downside &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/jp-morgan-says-weaker-demand-may-cap-gold-gains-near-term-sees-rebound-late-2026-2026-07-03",
-      "published": "2026-07-03T19:39:02+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Entrada da Advent na Natura pode abrir espaço para outras transações de fundos",
-      "summary": "A entrada da gestora Advent na Natura, com cerca de 8% de participação construída por meio de ações e derivativos, chamou a atenção do mercado e pode abrir espaço para outras operações do tipo PIPE (private investment in public equity) no Brasil. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/financas/noticia/2026/07/03/entrada-da-advent-na-natura-pode-abrir-espao-para-outras-transaes-de-fundos.ghtml",
-      "published": "2026-07-03T20:37:32+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "natura"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras já estão em 5% dos lares brasileiros, aponta pesquisa - Estadão",
-      "summary": "Canetas emagrecedoras já estão em 5% dos lares brasileiros, aponta pesquisa &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/economia/canetas-emagrecedoras-ja-estao-em-5-dos-lares-brasileiros-aponta-pesquisa",
-      "published": "2026-07-04T03:35:58+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
+      "score": 24.0
     },
     {
       "title": "Pesquisadores da Unicamp analisam canetas paraguaias - 03/07/2026 - Canetas Emagrecedoras - UOL",
@@ -5452,29 +5428,6 @@
       "score": 20.0
     },
     {
-      "title": "Reforma Tributária: Durigan aponta desafios políticos e tecnológicos da transição para o novo sistema de impostos sobre o consumo",
-      "summary": "Aprovada após décadas de discussão, a Reforma Tributária passa este ano pelo seu primeiro período de testes até que, a partir de 2027, as empresas e os cidadãos comecem a sentir os primeiros efeitos da mudança no sistema de cobrança de impostos sobre o consumo. Para dar sequência aos prazos de implantação, há três desafios a vencer, segundo a avaliação do ministro da Fazenda, Dario Durigan. Ele participou na semana passada no Rio do debate sobre Reforma Tributária na série Caminhos do Brasil, promovida pelos jornais O GLOBO e Valor Econômico e pela rádio CBN, com patrocínio do Sistema CNC-Sesc-Senac, no Rio. A mediação ficou a cargo da editora executiva do GLOBO, Flávia Barbosa, e do editor executivo do Valor, Sérgio Lamucci. Para que essa transição da Reforma Tributária avance dentro dos oito anos previsto em lei, o ministro ressaltou a importância de se superar o primeiro desafio que é o político, de haver um movimento no Congresso que queira revisitar as condições já estabelecidas. Durigan reconheceu que a regulamentação aprovada é extensa, mas argumentou que ela substitui um arcabouço hoje muito maior e mais complexo: — O grande risco, e tenho ouvido isso, é: “vamos revisitar”. Isso é um erro. Nosso sistema tributário hoje é um dos piores do mundo. Tem que melhorar e não voltar atrás. Não deveríamos rever mais exceções ou acomodações, a não ser que seja estritamente necessário, inclusive por estados e municípios. O segundo desafio é a votação do Imposto Seletivo, o chamado “Imposto do Pecado”, que incidirá sobre bens considerados prejudiciais como fumo, bebidas alcoólicas, refrigerantes, apostas, veículos, aeronaves, embarcações e minerais. O tributo que substituirá o Imposto sobre Produtos Industrializados (IPI) a partir de 2027 ainda não tem alíquota definida, e seu acerto ficou para depois das eleições. — Para evitar a guerra política, o que tenho proposto, e darei início agora, é uma conversa com os setores impactados pelo Imposto Seletivo para que se faça uma transição suave. Vamos manter a carga tributária (igual à do IPI) em 2027 e discutir um Imposto Seletivo progressivo para os próximos anos — disse. Segundo o ministro, a partir de 2028, será possível ter mais clareza “do tamanho do Imposto Seletivo, já definitivo e a projeção, o quanto se estabiliza de CBS (Contribuição sobre Bens e Serviços) e o quanto vamos projetar de IBS (Imposto sobre Bens e Serviços) nos próximos anos”. Menos exceções O desenho do tributo impacta no cálculo da alíquota de referência da CBS e do IBS, que substituirão IPI, PIS, Cofins, ICMS e ISS. Quanto mais exceções e regimes especiais o sistema mantiver, maior será essa alíquota. O terceiro desafio citado por Durigan foi o tecnológico, que envolve fazer a integração entre União, estados e municípios funcionar. Segundo o ministro, isso inclui deixar operacional o split payment, que fará o recolhimento do imposto no ato da venda, em sincronia com os entes federativos. O sistema gera uma preocupação, segundo o ministro, “menor para os empresários, mas enorme” para o governo, dado o histórico de conflitos federativos, com disputas judiciais e liminares na relação entre estados e a União. A transição começou com as empresas testando as “obrigações acessórias”, como a de comunicação de informações ao Fisco, sem que isso gere qualquer cobrança efetiva de tributo. A partir de 3 de agosto, empresas sob o regime regular passarão a emitir nota fiscal eletrônica (NF-e) com a alíquota teste de 1% (0,1% de IBS e 0,9% de CBS). Cronograma O ministro ressaltou que o cronograma vai ajudar a reduzir as incertezas gradualmente. A expectativa é fechar 2026 com a alíquota da CBS bem definida e já validada pelo Tribunal de Contas da União (TCU), com o Imposto Seletivo discutido em 2027 e as projeções de repercussão sobre o IVA, que reúne CBS e IBS, começando a sair em 2028. Para José Roberto Tadros, presidente do Sistema CNC-Sesc-Senac, a Reforma Tributária representa “um passo importante para a modernização do sistema brasileiro, sobretudo ao buscar simplificação e maior transparência”, mas ressalta a necessidade de se manter a carga tributária atual: — A CNC sempre defendeu, de forma consistente, que essa transformação preserve a neutralidade da carga tributária e não imponha aumento de impostos, especialmente sobre o setor de serviços, intensivo em mão de obra. Cooperação dá maior segurança A Reforma Tributária passa por um novo modelo de cooperação entre União, estados e municípios, avaliou Durigan. Segundo ele, o sucesso da reforma depende da capacidade de os entes federativos construírem consensos no Comitê Gestor do Imposto sobre Bens e Serviços (IBS). O Comitê, com 27 representantes estaduais e 27 municipais, ficará responsável por coordenar a arrecadação e distribuir a receita aos entes federativos. Diferentemente da CBS, tributo federal cuja gestão cabe à Receita, o IBS é de competência compartilhada entre estados e municípios, daí a necessidade do órgão colegiado. É justamente essa busca por consensos que, segundo Durigan, deverá permitir que o Comitê Gestor não reproduza disputas hoje travadas nos tribunais e no Conselho Nacional de Política Fazendária (Confaz). O ministro reconheceu que a tarefa não será simples diante da complexidade do federalismo brasileiro, mas defendeu que a reforma abre espaço para essa nova mentalidade de cooperação: — Não é simples ter 5,5 mil municípios com autonomia, inclusive tributária. Temos que resolver esse paradigma. Espaço para negociação Como exemplo de que essa coordenação já começa a produzir resultados, Durigan citou a alta internacional do diesel causada pela guerra no Irã. Diante do risco de desabastecimento, com possíveis impactos no transporte público, nos portos e no escoamento da safra, União e estados acertaram um subsídio temporário ao diesel importado, com o custo dividido. O episódio contrasta, diz o ministro, com a crise de 2022, quando o governo anterior com sua base no Congresso apoiou o projeto da Câmara que reduziu o ICMS dos combustíveis para conter a inflação, medida que causou forte reação dos estados e foi considerada inconstitucional pelo Supremo Tribunal Federal, obrigando a União a compensá-los pelas perdas de arrecadação. — Talvez o que faltasse à equipe econômica anterior era um lugar para discutir com os estados, e não tirar, na mão grande, uma tributação estadual. Fizemos o acordo dos combustíveis em grande medida porque tivemos o fórum da Reforma Tributária. Sobre o receio de alguns governadores de perder autonomia e investimentos, Durigan afirmou que a reforma foi construída com amplo consenso, embora reconheça resistências pontuais em estados que concederam benefícios fiscais para atrair empresas. Para o ministro, a reforma vai reduzir a guerra fiscal e fortalecer a corresponsabilidade entre os entes federativos, hoje pressionada pela disputa por investimentos e pelos frequentes pedidos de socorro financeiro à União. — O que acontece hoje é que a guerra fiscal vai colapsando essa corresponsabilidade tributária e vai sobrando para a União. Entendo a reclamação de alguns estados, mas, no longo prazo, temos muito a ganhar com essa padronização.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/07/09/reforma-tributaria-durigan-aponta-desafios-politicos-e-tecnologicos-da-transicao-para-o-novo-sistema-de-impostos-sobre-o-consumo.ghtml",
-      "published": "2026-07-09T07:00:12+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Transparência é ponto-chave da Reforma Tributária: consumidor verá quanto paga de imposto em tudo o que compra",
       "summary": "A transparência e a previsibilidade esperadas com a Reforma Tributária são os pontos-chave para a melhoria do ambiente de negócios no país, com reflexos em menores custos e burocracia. O tema permeou toda a conversa realizada na semana passada com o ministro da Fazenda, Dario Durigan, no evento Caminhos do Brasil, cujo tema desta edição foi “Reforma tributária: o que muda a partir de agora”, iniciativa dos jornais O GLOBO e Valor e da rádio CBN, com patrocínio do Sistema Comércio, por meio da CNC, do Sesc, do Senac e suas federações. A clareza de informações esperada, segundo Durigan, será atestada em diversos momentos da cadeia da tributação e experimentada pelo cidadão e empresas, independentemente do tamanho. Caminhos do Brasil Criação O Globo O ministro citou uma série de dados que atualmente não estão disponíveis na base de cobrança de impostos brasileira. Para Durigan, a situação hoje é “caótica”, com “muita injustiça tributária”. Ele ressaltou que desde 2024 o governo divulga declarações que as empresas fazem de próprio punho detalhando o quanto usufruem de benefícios tributários. E o resultado, contou, é um volume maior de recursos do que a Receita Federal contabilizava. — Acho que falta previsibilidade (tributária) hoje no Brasil — afirmou. ‘Revolucionário’ O ministro considera um dos avanços dessa reforma como “revolucionário”: a mudança que vai destacar, na nota fiscal de qualquer produto, o quanto foi pago de imposto na transação. Durigan afirmou que, em conversas com empresários, percebeu que um dos desafios era determinar qual a carga tributária de uma companhia ou setor, resposta que, segundo ele, é quase impossível quando se considera todos os tributos, como ICMS, PIS/Cofins e ISS. — Discutimos no Congresso anos atrás por que no Brasil, diferentemente de outros países, não destacamos na nota fiscal o quanto o cidadão paga de tributo. E a resposta, que eu já tentei dar, é que não dá. Eu não consigo dizer (qual o imposto). Ninguém consegue dizer. Se você compra um produto que passa por diversas etapas do processo, o quanto de PIS/Cofins tem embutido naquilo, nas diferentes etapas? O quanto de ISS tem ali? O quanto de ICMS? Quanto de IPI tem? É uma resposta que nunca conseguimos dar. A Reforma Tributária, sancionada no ano passado, resultará na eliminação dos atuais tributos PIS e Cofins, federais, além do ICMS (estadual) e do ISS municipal. O IPI, federal, será mantido para algumas operações, como as relativas à Zona Franca de Manaus. No lugar desses tributos, entrarão a Contribuição sobre Bens e Serviços (CBS) e o Imposto sobre Bens e Serviços (IBS), num modelo de tributação sobre valor agregado, com não cumulatividade plena, no destino, e com desoneração de investimentos. Os tributos começam a entrar em vigor em 2027, com transição até 2033. Caminhos do Brasil Criação O Globo Um ponto citado por Durigan sobre a melhora da clareza dos efeitos da tributação está na calibragem da alíquota. A reforma estabeleceu que a arrecadação deverá permanecer estável, com o Imposto sobre Valor Agregado (IVA) Dual — que engloba o IBS e a CBS — mantendo os patamares de arrecadação dos impostos que serão extintos, como o IPI, o ICMS e o ISS. Esse cálculo passará por uma validação do Tribunal de Contas da União (TCU) e a existência dessa calibragem permitirá que as conversas sobre concessão de benefícios ou isenções sejam mais amplas na sociedade. Atualmente, explicou Durigan, é “muito difícil” para a equipe econômica mostrar o impacto social de determinado benefício fiscal ou crédito. Ao argumentar contra a concessão de uma desoneração, por exemplo, não fica claro quanto outros segmentos da economia terão de desembolsar para compensar a perda de receita. Com a calibragem da alíquota, sempre que um setor for beneficiado com a desoneração, haverá imediatamente a compensação, elevando a alíquota média de todos os demais segmentos econômicos. — Essa decisão (de conceder um benefício fiscal) não será indolor. Ao mesmo tempo, o restante da sociedade vai pagar um percentual a mais no IVA — disse Durigan, acrescentando que não vai mais acontecer a situação em que um benefício é concedido a determinado setor e outros agentes econômicos criticam o potencial aumento de custos e a pressão inflacionária. — A Reforma Tributária vai ajudar também nisso. Ela tem internamente uma boa medida de discussão fiscal no país. ‘Cashback’ e cesta básica O ministro destacou benefícios que vão aumentar a transparência para os consumidores de renda mais baixa. Ele citou o cashback, com a devolução de parte do tributo pago para famílias inscritas no Cadastro Único (porta de entrada dos benefícios sociais do governo) e com renda per capita de até meio salário mínimo: — Para o cidadão, tenho clareza que a partir do próximo ano (a reforma) vai ter impacto — disse Durigan, citando ainda a isenção para os produtos da cesta básica. Impacto na economia A adoção das regras previstas na Reforma Tributária a partir do próximo ano vai ter impacto no crescimento brasileiro ao longo dos próximos anos, mas o governo evita apontar o efeito das mudanças na economia do país em 2027. O ministro da Fazenda, Dario Durigan, afirmou que o país “vai ter muito ganho de crescimento”, mas que o anúncio oficial pelo governo da expectativa desse avanço só acontecerá quando houver “informações robustas a respeito”: — Até evito falar de 2027 ter ganho de crescimento porque isso, se introjetado nas minhas projeções, faz com que eu possa projetar mais receita para o ano que vem. E quando for apresentar o Orçamento (em agosto), a crítica será de que inflamos a receita no Orçamento. O ministro afirmou que, somente quando o governo tiver informações mais robustas sobre as mudanças no sistema tributário, vai anunciar a expectativa de crescimento. Durigan lembrou que é difícil prever o ganho de crescimento para o ano que vem, uma vez que a primeira etapa da reforma engloba apenas a Contribuição sobre Bens e Serviços (CBS) e o Imposto Seletivo, o chamado “Imposto do Pecado”, aplicado sobre setores como cigarros, fumo, bebidas e jogos. Esse tributo vai entrar em vigor com o fim do IPI, e o ministro destacou que, para 2027, a alíquota será a mesma do imposto que deixará de existir. A progressividade da alíquota do Imposto Seletivo deverá ser decidida pelo Congresso no próximo ano, com aplicação a partir de 2028. ‘Muito ganho no futuro’ Durigan lembrou da primeira década do século XXI, quando o país descobriu a existência da província petrolífera do pré-sal, no litoral do Sudeste brasileiro. As dúvidas, à época, disse, eram sobre a viabilidade da exploração, dado o alto volume de gasto público necessário para extrair o petróleo na região. — E foi uma crítica justa à época, as pessoas tinham dificuldade de ver onde faríamos investimento e se aquilo, de fato, teria algum resultado positivo para o país. Mas hoje a gente viu que teve. A Reforma Tributária trará, segundo Durigan, efeitos semelhantes, com aumento de recursos para o Tesouro, via crescimento econômico. — Vamos ver no futuro muito ganho — disse, citando estudos que apontam 15 pontos percentuais de aumento do PIB nos próximos 10 a 12 anos. — Eu acho que a gente pode ter até mais. O ministro não acredita que a reforma tenha impacto nos preços, mas diz que a equipe econômica tem feito estudos sobre o efeito na inflação.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/07/09/transparencia-e-ponto-chave-da-reforma-tributaria-consumidor-vera-quanto-paga-de-imposto-em-tudo-o-que-compra.ghtml",
@@ -6349,6 +6302,535 @@
       "score": 20.0
     },
     {
+      "title": "Índice Nacional da Construção Civil tem alta de 1,19% em junho, mostra IBGE",
+      "summary": "A inflação medida pelo Índice Nacional da Construção Civil (Sinapi) subiu 1,19% em junho, após aumentar 0,36% em maio, segundo o Instituto Brasileiro de Geografia e Estatística (IBGE). Com o resultado, o indicador registrou 7,26% no acumulado em 12 meses até junho, ante 6,93% até maio. O índice de junho de 2025 foi de 0,88%. O custo nacional da construção por metro quadrado em junho correspondeu a R$ 1.976,37 , sendo R$ R$ 1.114,74 relativos aos materiais e R$ 861,63 à mão de obra. Em maio, esse custo totalizava R$ 1.953,08, com R$ 1.104,59 relativos aos materiais e R$ 848,49 à mão de obra. Marcelo Camargo/ABr",
+      "url": "https://valor.globo.com/brasil/noticia/2026/07/10/indice-nacional-da-construcao-civil-tem-alta-de-119percent-em-junho.ghtml",
+      "published": "2026-07-10T12:55:10+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "construção civil"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "construção civil",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein obtém a aprovação da China para IPO em Hong Kong",
+      "summary": "A China aprovou nesta sexta-feira (10) a tão aguardada oferta inicial de ações (IPO, na sigla em inglês) da varejista de moda Shein em Hong Kong , conforme aviso publicado no site do órgão que regula o mercado de capitais na China (CSRC), abrindo caminho para uma listagem após tentativas frustradas em Nova York e Londres. Leia mais (07/10/2026 - 10h39)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/07/shein-obtem-a-aprovacao-da-china-para-ipo-em-hong-kong.shtml",
+      "published": "2026-07-10T13:39:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Wegovy é único remédio contra obesidade ligado à queda no risco de morte, diz análise - Exame",
+      "summary": "Wegovy é único remédio contra obesidade ligado à queda no risco de morte, diz análise &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/tecnologia/wegovy-e-unico-remedio-contra-obesidade-ligado-a-queda-no-risco-de-morte-diz-analise",
+      "published": "2026-07-10T13:56:57+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa determina apreensão de lotes falsificados do Mounjaro; saiba quais - Folha de S.Paulo",
+      "summary": "Anvisa determina apreensão de lotes falsificados do Mounjaro; saiba quais &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/anvisa-determina-apreensao-de-lotes-falsificados-do-mounjaro-saiba-quais.shtml",
+      "published": "2026-07-10T14:06:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein obtém aprovação do órgão regulador chinês para abrir capital na Bolsa de Hong Kong",
+      "summary": "A Shein, varejista on-line que se tornou a face do ultra fast fashion, recebeu aprovação do regulador chinês para dar continuidade ao seu planejado processo de oferta pública inicial de ações (IPO) em Hong Kong, coroando um esforço de anos da gigante da moda rápida para abrir seu capital. Sk Hynix: Fabricante coreana de chips levanta US$ 26,5 bi na maior estreia de empresa estrangeira nos EUA Entenda: Por que a Shein, símbolo do 'fast fashion', comprou uma marca de moda sustentável nos EUA? A Shein pretende vender até 341,6 milhões de ações H no IPO em Hong Kong, segundo um comunicado divulgado nesta sexta-feira pela Comissão Reguladora de Valores Mobiliários da China (CSRC). A empresa estuda levantar alguns bilhões de dólares com o IPO, segundo pessoas familiarizadas com o assunto, que acrescentaram que o valor final dependerá da avaliação de mercado da companhia. Embora os trabalhos estejam em andamento, ainda não há um cronograma definido, e a listagem poderá ser adiada novamente, disseram essas fontes. No ano passado, pessoas familiarizadas com o assunto afirmaram que a Shein vinha sendo pressionada por seus acionistas a reduzir sua avaliação para cerca de US$ 30 bilhões, depois de já ter sido avaliada em mais de três vezes esse valor. — Como política da empresa, não comentamos rumores nem especulações — declarou um representante da Shein mais cedo nesta sexta-feira. Initial plugin text A Shein tentou, sem sucesso, abrir capital nos Estados Unidos e em Londres antes de voltar sua atenção para Hong Kong no ano passado, enquanto sua avaliação de mercado diminuía. A Bolsa de valores de Hong Kong também recuou neste ano, cerca de 6%, mas o mercado de IPOs está em forte atividade, com quase US$ 35 bilhões já captados em ofertas públicas iniciais de ações. Onda coreana: Desejo por 'pele de vidro' alimenta 'boom' do k-beauty O plano inicial da Shein de abrir capital nos Estados Unidos foi frustrado há dois anos em meio ao escrutínio sobre sua cadeia de suprimentos e suas práticas trabalhistas. Já a opção por Londres foi abandonada porque os reguladores chineses não concederam a aprovação necessária. A varejista transferiu sua sede para Cingapura em 2021, mas continua sujeita à supervisão da Comissão Reguladora de Valores Mobiliários da China (CSRC), uma vez que o órgão exige que todas as empresas com vínculos substanciais com a China — mesmo aquelas que não são constituídas no país — obtenham sua autorização antes de realizar uma listagem em qualquer mercado do mundo. Nvidia: Gigante americana perde US$ 1 tri em valor de mercado e volta a patamar anterior ao início do boom de IA Depois de passar anos minimizando suas origens chinesas e promovendo-se como uma empresa global, a Shein mudou de estratégia após solicitar o IPO em Hong Kong no ano passado. O fundador, Xu Yangtian, comprometeu-se a direcionar mais recursos para a província chinesa de Guangdong, no sul do país, onde está localizada uma extensa rede de fabricantes responsável pela produção de roupas de custo ultrabaixo. A sede da Shein em Guangzhou, China Qilai Shen/Bloomberg A avaliação de mercado da Shein vem encolhendo desde os US$ 100 bilhões que a empresa alcançou há quatro anos. A companhia enfrentou a concorrência da Temu, controlada pela PDD Holdings, em mercados estratégicos como os Estados Unidos e a Europa. Além disso, os aumentos de preços provocados pelas tarifas reduziram a demanda dos consumidores, enquanto reguladores intensificaram o escrutínio sobre suas operações. Ainda assim, a Shein esperava registrar um lucro líquido de US$ 2 bilhões no ano passado, depois que margens de lucro mais elevadas, obtidas por meio de aumentos de preços e cortes de custos, ajudaram a compensar a queda no tráfego de sua plataforma de vendas online causada pelas tarifas punitivas impostas pelo presidente Donald Trump, segundo pessoas familiarizadas com o assunto. Entre os investidores da Shein estão a IDG Capital, a Mubadala Investment Co., a Tiger Global Management e a HSG.",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/07/10/shein-obtem-aprovacao-do-orgao-regulador-chines-para-ipo-em-hong-kong.ghtml",
+      "published": "2026-07-10T14:25:46+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank recebe autorização de reguladores para operar como banco múltiplo no México",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/nubank-autorizacao-reguladores-banco-multiplo-mexico",
+      "published": "2026-07-10T15:03:02+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank recebe aprovação definitiva para operações bancárias no México - Bloomberg Línea Brasil",
+      "summary": "Nubank recebe aprovação definitiva para operações bancárias no México &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/nubank-recebe-aprovacao-definitiva-para-operacoes-bancarias-no-mexico",
+      "published": "2026-07-10T15:25:56+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Formação de preço na reforma tributária",
+      "summary": "Resumida e basicamente, os preços dos bens, dos serviços e dos direitos, quando dependem das decisões da empresa fornecedora, são formados com a observação de três etapas: (i) identificação dos custos e despesas, fixos e variáveis; (ii) cálculo da margem de lucro; (iii) inclusão dos tributos sobre a venda e a prestação de serviços para emissão da nota fiscal. A mudança da tributação sobre o consumo no Brasil, trazida pela reforma tributária, afeta duas delas, a primeira e a terceira, e, por decorrência, exige a reavaliação da outra, a segunda. Dos “novos” tributos, destacam-se, principalmente, duas características que influenciam na formação dos preços: a não cumulatividade ampla e a cobrança “por força”. Com a não cumulatividade ampla, as empresas poderão apurar crédito fiscal de praticamente todas as suas compras, seja de bens, de serviços e de direitos. Com isso, exclui-se ou se minimiza o resíduo tributário. Como consequência, temos a tendência na redução dos custos – menos – e das despesas – mais – o que acaba por reduzir a parcela do preço que remunera (custeia) esses valores. Tanto os custos fixos e variáveis quanto as despesas fixas e variáveis tendem a ser reduzidos e, sendo assim, reduzir a base inicial para a formação do preço, a primeira etapa (contudo, essa não é uma certeza geral; é preciso que cada empresa apure os seus efeitos específicos). SAIBA MAIS: Na outra parte, a cobrança “por fora” faz com que os tributos sejam aplicados sobre o preço líquido (antes dos tributos), marcando muito bem o que é preço e o que é tributo. Além disso, o tributo não será custo nas transações entre empresas, fazendo com que a incidência tributária seja neutra durante a cadeia de produção e consumo – o efeito econômico do tributo será sentido na última etapa dessa cadeia, ou seja, no consumidor final. A formação do preço efetivo ao cliente, então, desconsidera o tributo aplicado, na terceira etapa da formação do preço. Por força desses efeitos, convém que as empresas reavaliem sua prática de custeio e, em sequência, da formação do preço, na segunda etapa. Dependendo dos impactos da não cumulatividade ampla e da incidência “por fora” dos tributos, bem como da sua posição na cadeia de produção e consumo, a empresa poderá manter a margem de lucro, ser “induzida” a reduzi-la ou ter espaço para aumentá-la. Neste ponto, não há uma tendência geral que possa ser identificada. Em outras situações, a empresa não tem “controle” sobre a formação do preço. Isso ocorre quando o preço é ditado pelo mercado (por exemplo: comodities e serviços por aplicativos) ou é determinado pela aplicação de um percentual sobre vendas (por exemplo: comissão dos representantes comerciais, “royalties” em franquias) ou sobre os custos (por exemplo: empreitada por administração). Nesses casos, o cálculo dos “novos” tributos será o inverso: do preço, fixado inicialmente, subtraem-se os tributos que, sendo apurados “por fora”, requer um “cálculo circular” para que o preço cobrado represente o preço líquido acrescido dos tributos incidentes sobre este preço líquido. Ou, deverá haver renegociação contratual para que o preço formado nessas circunstâncias represente o preço líquido, ou seja, antes da aplicação dos “novos” tributos. calculadora - contas - redução de custos - carreira Pexels",
+      "url": "https://valor.globo.com/legislacao/fio-da-meada/post/2026/07/formacao-de-preco-na-reforma-tributaria.ghtml",
+      "published": "2026-07-10T15:30:26+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Giorgio Armani Privé Faz Aceno Ao Sexy",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Silvana Armani assina a coleção couture de inverno com tons escuros e brilhos discretos O post Giorgio Armani Privé Faz Aceno Ao Sexy apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/07/giorgio-armani-prive-faz-aceno-ao-sexy",
+      "published": "2026-07-10T15:39:44+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "armani"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "armani",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank recebe autorização para operar como banco no México e prevê investimentos de US$ 4,2 bilhões",
+      "summary": "Pouco mais de um ano após dar a partida na expansão de suas atividades no México, o Nubank anunciou, na sexta-feira, 10 de julho, que recebeu autorização das autoridades regulatórias para iniciar suas operações como banco no país. A autorização concedida pela Comisión Nacional Bancaria y de Valores (CNBV) representa a etapa final do processo [&#8230;] O post Nubank recebe autorização para operar como banco no México e prevê investimentos de US$ 4,2 bilhões apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/nubank-recebe-autorizacao-para-operar-como-banco-no-mexico-e-preve-investimentos-de-us-42-bilhoes",
+      "published": "2026-07-10T16:09:01+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa determina apreensão de lotes falsificados de Mounjaro",
+      "summary": "",
+      "url": "https://www.estadao.com.br/brasil/anvisa-determina-apreensao-de-lotes-falsificados-de-mounjaro-npr",
+      "published": "2026-07-10T16:45:55+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Semaglutida brasileira entra para lista de remédios de referência da Anvisa; saiba opções e se há ‘genéricos’ - VEJA",
+      "summary": "Semaglutida brasileira entra para lista de remédios de referência da Anvisa; saiba opções e se há ‘genéricos’ &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/semaglutida-brasileira-entra-para-lista-de-remedios-de-referencia-da-anvisa",
+      "published": "2026-07-10T16:53:04+00:00",
+      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank recebe aprovação para iniciar operações como banco no México",
+      "summary": "O Nubank recebeu aprovação definitiva para obter uma licença bancária no México, um passo importante na estratégia de ampliar sua presença na segunda maior economia da América Latina. A licença bancária, concedida pela Comissão Nacional Bancária e de Valores (Comisión Nacional Bancaria y de Valores, CNBV), a autoridade reguladora do sistema financeiro mexicano, permitirá ao Nubank oferecer serviços como contas-salário, conta corrente, limites de depósito mais elevados e, futuramente, novos produtos de crédito. Aquisição: Nubank contrata executivo da Visa, veterano do mercado americano de serviços financeiros De bancos a operadoras de celular: Veja as empresas que oferecem planos de IA embutidos em seus serviços O Nubank iniciou suas operações no México em 2019 e, desde então, transformou o país em um de seus principais motores de crescimento fora do Brasil, onde tem sua sede. A instituição financeira investiu bilhões de dólares na operação mexicana desde o início das atividades no país e já alcançou mais de 15 milhões de clientes, o equivalente a 15% da população adulta mexicana, afirmou a empresa em comunicado. Embora a maior parte da carteira de crédito do Nubank esteja concentrada no Brasil, a operação mexicana atingiu o ponto de equilíbrio (break-even) em termos de rentabilidade, após vários trimestres de prejuízo. O marco representa um avanço importante para a companhia, que vem ampliando seus investimentos em um dos mercados bancários mais competitivos da América Latina. —O México é um mercado chave para o Nubank, e este é um passo decisivo no nosso compromisso de longo prazo no país, onde projetamos um investimento total de US$ 4,2 bilhões até 2030 — afirmou David Vélez, fundador e CEO global do Nubank. Initial plugin text A companhia anunciou pela primeira vez os planos de se tornar um banco no México em outubro de 2023. Na época, operava com uma licença não-bancária, que lhe permitia oferecer cartões de crédito e captar depósitos no país. Agora, com a aprovação final do regulador, o Nubank terá 30 dias para iniciar oficialmente suas operações bancárias. Entenda: Como Cristina Junqueira, a bilionária sócia do Nubank, tenta chamar a atenção para o banco digital nos EUA A instituição desenvolveu seu negócio no México com base em um modelo digital, centrado no uso de aplicativos móveis, seguindo a estratégia das fintechs que, ao longo dos últimos anos, conquistou milhões de mexicanos sem acesso aos serviços bancários tradicionais ou ao crédito. A obtenção da licença bancária representa um ponto de inflexão, pois permite ao Nubank direcionar seu foco para clientes inseridos em segmentos mais consolidados da economia, mas que ainda são pouco atendidos pelos bancos tradicionais. No México, o dinheiro em espécie continua predominando no dia a dia: ele é utilizado em cerca de 85% das pequenas compras, segundo dados do governo. O Nubank afirma ter concedido o primeiro cartão de crédito a 54% de seus clientes mexicanos e ajudado 60% de seus usuários a desenvolver o hábito de poupar. Expansão: Nubank anuncia investimento de R$ 2,5 bilhões para abertura de novos escritórios no Brasil e no exterior Em junho, a operação mexicana do Nu possuía uma carteira de crédito de 35,6 bilhões de pesos (US$ 2,04 bilhões). Ao mesmo tempo, os índices de inadimplência apresentaram deterioração, segundo relatório do Citigroup, publicado na terça-feira, com base em dados do regulador financeiro do México. A instituição também busca ampliar sua atuação bancária em outros mercados. Em janeiro, a empresa recebeu uma aprovação condicional do Office of the Comptroller of the Currency (OCC), órgão regulador dos Estados Unidos, para obter uma licença de banco nacional no país. David Vélez: 'EUA estavam fechados a novo bancos, Trump mudou isso', diz CEO do Nubank, que prepara estreia nos EUA Com a licença no México, o Nubank passa a integrar um grupo crescente de fintechs que buscam competir de forma mais direta com os maiores bancos mexicanos. O Banco Plata e o banco digital britânico Revolut iniciaram operações bancárias no país no início deste ano. Cristina Junqueira e David Vélez, cofundadora e fundador do Nubank Divulgação O Mercado Pago, braço financeiro do Mercado Livre, solicitou uma licença bancária à medida que amplia sua atuação para além dos pagamentos e do crédito ao consumidor, enquanto a fintech mexicana Klar também aguarda aprovação regulatória. O avanço das fintechs no sistema bancário regulado do México pode intensificar a concorrência em um mercado historicamente dominado por um pequeno grupo de grandes bancos. Analistas afirmam que se tornar um banco pode dar ao Nubank acesso a uma fonte de financiamento mais estável e de menor custo por meio dos depósitos, reduzindo sua dependência de financiamento no mercado de atacado. Uma licença bancária plena também permitirá à companhia competir de forma mais direta pelos depósitos de contas-salário e pelo relacionamento bancário principal dos clientes.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/07/10/nubank-recebe-aprovacao-para-iniciar-operacoes-como-banco-no-mexico.ghtml",
+      "published": "2026-07-10T17:13:08+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Justiça condena Nubank por não impedir exposição de funcionário a conteúdo obsceno",
+      "summary": "A Justiça do Trabalho de São Paulo condenou o Nubank a pagar R$ 40 mil por danos morais a um ex-funcionário ao concluir que ele foi submetido a um ambiente de trabalho que violou sua dignidade em diferentes momentos do contrato. A decisão é de primeira instância e ainda pode ser contestada por recurso. A sentença reconheceu três situações às quais o ex-funcionário foi submetido: a participação obrigatória em um ensaio fotográfico que simulava nudez, a exposição frequente a imagens pornográficas enviadas por clientes e a forma como foi conduzida uma demissão coletiva em junho de 2023. Leia também: Nubank recebe autorização para iniciar operação como banco no México O maior valor da indenização, de R$ 20 mil, foi fixado em razão de uma campanha institucional da empresa. Segundo a sentença, testemunhas afirmaram que mulheres eram orientadas a posar com a blusa abaixada e homens sem camisa para produzir um efeito visual de nudez. A campanha tinha como objetivo mostrar que o Nubank tinha transparência, com os motes “não temos nada a esconder” e “asterisco zero”. As imagens eram utilizadas em crachás, perfis na plataforma Slack e assinaturas de e-mail. Para o juiz Samuel Batista de Sá, a prática extrapolou o poder do empregador e violou o direito à imagem e a dignidade dos trabalhadores. “A exigência patronal de exposição do colo e dos ombros simulando nudez extrapola os limites da razoabilidade e do poder regulamentar do empregador, violando frontalmente a dignidade do trabalhador. A exposição pública do corpo do empregado como mero objeto de marketing da empresa agride a intimidade do trabalhador, que se via obrigado a se submeter ao constrangimento para assegurar a manutenção de seu emprego”, escreveu. “Trata-se de ofensa de natureza grave ao direito de imagem e honra subjetiva.” Outros R$ 10 mil foram arbitrados porque o juiz entendeu que a empresa falhou em proteger empregados que faziam a validação manual de documentos enviados por usuários do aplicativo. De acordo com a decisão, os funcionários visualizavam com frequência fotografias de conteúdo pornográfico encaminhadas por clientes maliciosamente. O juiz afirmou que, apesar de dispor de tecnologia, a empresa não implementou filtros para impedir esse tipo de conteúdo e expôs os empregados a risco psicológico desnecessário. “A imposição sistemática de visualização de conteúdos pornográficos ou obscenos de terceiros sem qualquer apoio psicológico ou barreira técnica de proteção caracteriza evidente descaso patronal com a higidez mental de seus subordinados, gerando repulsa e sofrimento psíquico evitáveis pela adoção de ferramentas preventivas adequadas.” A terceira indenização, também de R$ 10 mil, refere-se à forma da dispensa coletiva realizada em 7 de junho de 2023. Conforme a sentença, cerca de 300 empregados foram desligados em uma videoconferência de aproximadamente cinco minutos, com microfones bloqueados e o chat desativado. Logo após a reunião, os trabalhadores tiveram os acessos aos sistemas corporativos cancelados. Para o juiz, embora a empresa tenha o direito de demitir, a forma escolhida representou tratamento “desumano e frio”. “A dispensa coletiva promovida por videoconferência com canais bloqueados e corte sumário de ferramentas de contato, sem prévio aviso, imprime tratamento desumano e frio ao trabalhador em momento de extrema fragilidade social e psicológica, caracterizando nítido abuso de direito nos termos do artigo 187 do Código Civil.” Além dos danos morais, a sentença também reconheceu o enquadramento do trabalhador como financiário, e não como empregado de empresa de serviços, garantindo direitos como diferenças salariais, benefícios, participação nos lucros e horas extras. A decisão também concluiu que as ações concedidas pela empresa como parte da remuneração variável (“restricted stock units”) têm natureza salarial e determinou o pagamento pelas unidades canceladas na demissão e sua integração ao cálculo de verbas trabalhistas. Procurado pelo Valor, o Nubank afirmou, em nota, que pauta suas relações com base em respeito, transparência e responsabilidade. “Esclarecemos que, após análise interna, todos os materiais de uma campanha voluntária realizada há sete anos, em 2018, foram descontinuados e descartados. Essa medida já foi comunicada aos nossos colaboradores e faz parte do nosso processo contínuo de aprimoramento e adequação de nossas ações”. Em relação ao conteúdo pornográfico, o Nubank respondeu que “reforça que a triagem das fotos enviadas ao aplicativo já é feita de forma totalmente automatizada.” Em relação às fotos para a campanha publicitária, o tema já havia aparecido na Justiça no passado. Um acórdão do Tribunal Regional do Trabalho da 2ª Região (TRT-2) em fevereiro deste ano afastou um pedido de indenização por danos morais de outro ex-funcionário. A Corte entendeu que não ficou comprovado que o trabalhador tenha sido obrigado a tirar foto.",
+      "url": "https://valor.globo.com/financas/noticia/2026/07/10/justia-condena-nubank-por-no-impedir-exposio-de-funcionrio-a-contedo-pornogrfico.ghtml",
+      "published": "2026-07-10T18:10:56+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank recebe autorização para operar como banco no México",
+      "summary": "O Nubank anunciou nesta sexta-feira (10) que recebeu autorização da agência reguladora do sistema financeiro mexicano, a Comisión Nacional Bancaria y de Valores (CNBV), para iniciar operações como banco. Com mais de 15 milhões de clientes no país, a instituição afirma que se tornará o maior banco digital do mercado mexicano. Leia mais (07/10/2026 - 15h23)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/07/nubank-recebe-autorizacao-para-operar-como-banco-no-mexico.shtml",
+      "published": "2026-07-10T18:23:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank recebe autorização para iniciar operação como banco no México",
+      "summary": "O Nubank já é uma das cinco maiores instituições financeiras do México e a terceira em cartões de crédito emitidos Divulgação O Nubank informou que recebeu autorização de operação da Comisión Nacional Bancaria y de Valores (CNBV) para iniciar suas operações como banco múltiplo no México. Segundo a instituição, isso representa a etapa final e conclusiva do processo anunciado em abril de 2025, por meio do qual recebeu a aprovação de sua licença bancária. “Em conformidade com a regulamentação bancária mexicana aplicável, a Nubank México deverá iniciar as operações como banco dentro dos próximos 30 dias. Este marco reforça a visão de longo prazo e o compromisso da Companhia com o México, permitindo a expansão de seu portfólio de produtos de crédito, pagamentos e poupança no país”, diz o Nubank. A presidente do México, Claudia Sheinbaum, recebeu na segunda-feira (6) o fundador e CEO global do Nubank, David Vélez. Em suas redes sociais, ela disse que o grupo pretende investir US$ 4,2 bilhões no país entre 2026 e 2030. O Nubank já é uma das cinco maiores instituições financeiras do México e a terceira em cartões de crédito emitidos. A fintech já tem mais de 15 milhões de clientes naquele país.",
+      "url": "https://epocanegocios.globo.com/futuro-do-dinheiro/noticia/2026/07/nubank-recebe-autorizacao-para-iniciar-operacao-como-banco-no-mexico.ghtml",
+      "published": "2026-07-10T19:10:20+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fe Paes Leme esclarece declaração sobre canetas emagrecedoras após polêmica: 'Não sou contra' - Globo",
+      "summary": "Fe Paes Leme esclarece declaração sobre canetas emagrecedoras após polêmica: 'Não sou contra' &nbsp;&nbsp; Globo",
+      "url": "https://revistamarieclaire.globo.com/celebridades/noticia/2026/07/fernanda-paes-leme-esclarece-declaracao-sobre-canetas-emagrecedoras.ghtml",
+      "published": "2026-07-10T19:45:36+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank é condenado por violação à dignidade de funcionário e exposição à conteúdo obsceno",
+      "summary": "A Justiça do Trabalho de São Paulo condenou o Nubank ao pagamento de R$ 40 mil por danos morais a um ex-funcionário que alegou ter sido submetido a um ambiente de trabalho degradante. A decisão é de primeira instância e ainda pode ser contestada por recurso, segundo o Valor. O juiz do Trabalho substituto Samuel Batista de Sá, da 39ª Vara do Trabalho de São Paulo, reconheceu a ocorrência de sucessivas violações aos direitos da personalidade do trabalhador durante o vínculo empregatício. Segundo a sentença, o empregado era obrigado a visualizar imagens pornográficas enviadas por usuários do aplicativo, participou de um ensaio fotográfico institucional que simulava nudez e foi desligado em uma dispensa coletiva realizada por videoconferência, considerada desumana pelo magistrado. Campanha simulando nudez O maior valor da indenização, de R$ 20 mil, foi fixado em razão de uma campanha institucional da empresa. Segundo a sentença, testemunhas afirmaram que mulheres eram orientadas a posar com a blusa abaixada e homens sem camisa para produzir um efeito visual de nudez. A campanha tinha como objetivo mostrar que o Nubank tinha transparência, com o mote “não temos nada a esconder”. As imagens eram utilizadas em crachás, perfis na plataforma Slack e assinaturas de e-mail. O magistrado concluiu que a prática extrapolou os limites do poder diretivo do empregador e configurou afronta à dignidade e aos direitos da personalidade dos empregados. Exposição a imagens pornográficas A empresa foi condenada ainda ao pagamento de R$ 10 mil por danos morais. Segundo o juiz, embora o Nubank disponha de recursos tecnológicos avançados, a empresa não implementou mecanismos automáticos para impedir o envio de imagens pornográficas aos canais de atendimento. Em vez disso, cabia aos próprios atendentes visualizar e remover manualmente esse conteúdo. Para o magistrado, a conduta representou descumprimento do dever empresarial de assegurar um ambiente de trabalho saudável e psicologicamente seguro. “A imposição sistemática de visualização de conteúdos pornográficos ou obscenos de terceiros sem qualquer apoio psicológico ou barreira técnica de proteção caracteriza evidente descaso patronal com a higidez mental de seus subordinados, gerando repulsa e sofrimento psíquico evitáveis pela adoção de ferramentas preventivas adequadas”, afirmou na sentença. Demissão por videoconferência A terceira condenação, que prevê o pagamento de outros R$ 10 mil, decorreu da forma como a empresa conduziu uma dispensa coletiva realizada em junho de 2023. Segundo a decisão, cerca de 300 empregados foram demitidos durante uma videoconferência de aproximadamente cinco minutos, na qual os microfones permaneceram bloqueados e o chat foi desativado. Logo após o encerramento da reunião, os trabalhadores tiveram seus acessos aos sistemas internos e ao e-mail corporativo imediatamente cancelados. “A dispensa coletiva promovida por videoconferência com canais bloqueados e corte sumário de ferramentas de contato, sem prévio aviso, imprime tratamento desumano e frio ao trabalhador em momento de extrema fragilidade social e psicológica, caracterizando nítido abuso de direito”, afirmou o juiz na sentença. Outro lado Procurado pelo Valor, o Nubank afirmou, em nota, que pauta suas relações com base em respeito, transparência e responsabilidade. “Esclarecemos que, após análise interna, todos os materiais de uma campanha voluntária realizada há sete anos, em 2018, foram descontinuados e descartados. Essa medida já foi comunicada aos nossos colaboradores e faz parte do nosso processo contínuo de aprimoramento e adequação de nossas ações”. Em relação ao conteúdo pornográfico, o Nubank respondeu que “reforça que a triagem das fotos enviadas ao aplicativo já é feita de forma totalmente automatizada.” Em relação às fotos para a campanha publicitária, o tema já havia aparecido na Justiça no passado. Um acórdão do Tribunal Regional do Trabalho da 2ª Região (TRT-2) em fevereiro deste ano afastou um pedido de indenização por danos morais de outro ex-funcionário. A Corte entendeu que não ficou comprovado que o trabalhador tenha sido obrigado a tirar foto. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/07/nubank-e-condenado-por-violacao-a-dignidade-de-funcionario-e-exposicao-a-conteudo-obsceno.ghtml",
+      "published": "2026-07-10T20:14:22+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa apreende lotes falsificados de Mounjaro; veja quais - Diário do Comércio",
+      "summary": "Anvisa apreende lotes falsificados de Mounjaro; veja quais &nbsp;&nbsp; Diário do Comércio",
+      "url": "https://diariodocomercio.com.br/geral/anvisa-apreende-lotes-falsificados-de-mounjaro",
+      "published": "2026-07-10T20:59:00+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa apreende lotes falsos de Mounjaro - CNN Brasil",
+      "summary": "Anvisa apreende lotes falsos de Mounjaro &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/anvisa-apreende-lotes-falsos-de-mounjaro-2",
+      "published": "2026-07-10T22:42:14+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Maior apreensão de canetas emagrecedoras encontra 5.850 produtos em van na Ponte da Amizade - Folha de S.Paulo",
+      "summary": "Maior apreensão de canetas emagrecedoras encontra 5.850 produtos em van na Ponte da Amizade &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/maior-apreensao-de-canetas-emagrecedoras-encontra-5850-produtos-em-van-na-ponte-da-amizade.shtml",
+      "published": "2026-07-10T23:42:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa determina apreensão de lotes falsificados de Mounjaro; veja quais - Exame",
+      "summary": "Anvisa determina apreensão de lotes falsificados de Mounjaro; veja quais &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/brasil/anvisa-determina-apreensao-de-lotes-falsificados-de-mounjaro-veja-quais",
+      "published": "2026-07-11T01:30:53+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Governo publica portaria que impõe alertas em publicidade de bets: 'Aposta faz você perder dinheiro'",
+      "summary": "O governo publicou nesta sexta-feira portaria com as novas regras que restringem a publicidade das bets, plataformas de apostas. Uma das principais medidas é a obrigatoriedade para que a divulgação dos sites de jogos venham acompanhados de advertências do Ministério da Fazenda sobre o risco para o vício e a perda de dinheiro pelos apostadores. Além disso, ficam proibidas transmissões de jogos que induzam apostas específicas de acordo com o placar. As normas foram divulgadas pelo ministro da Fazenda, Dario Durigan, na quinta-feira, com previsão para entrar em vigor em 17 de julho. A partir deste prazo, as empresas terão uma semana para se adaptar às novas regras. Entre as punições previstas estão multas que podem chegar a 20% do faturamento da empresa e suspensão da operação por 180 dias. Já a mídia que veicular uma propaganda irregular de bet poderá receber uma multa de até R$ 14 milhões. No fim do mês passado, no início da Copa do Mundo, propagandas de bets nas transmissões do canal de streaming CazéTV entraram no alvo de uma investigação da Secretaria Nacional do Consumidor (Senacon), órgão do Ministério da Justiça, por possíveis irregularidades. O veículo alterou a publicidade e informou que adotou formato \"mais conservador\" para os anúncios. Advertências As publicidades de plataformas de apostas on-line regulares terão de vir acompanhadas pelas três advertências: \"O Ministério da Fazenda adverte: apostar faz você perder dinheiro\" \"O Ministério da Fazenda adverte: apostar pode causar dependência\" \"O Ministério da Fazenda adverte: aposta não é investimento\" Proibição de comentários que induzam apostas Além disso, transmissões de jogos e programas esportivos, seja de qual mídia for (televisão, internet ou rádio), não poderão mais sugerir apostas específicas por meio de profissionais apresentados como especialistas. Também ficará proibido apontar \"senso de urgência\" nas propagandas de bets, vender aposta como ganho de dinheiro fácil, ou exibição de histórico de premiações, disse o ministro. Combate a bets ilegais Como parte do combate às bets ilegais, o governo notificou 37 fintechs suspeitas de movimentar dinheiro de casas de apostas irregulares no Brasil para bloquear os recursos e confiscá-los para os cofres da União. As notificações são respaldadas em decreto publicado pelo governo em junho. Em junho, o governo já havia identificado a atuação dessas empresas, que movimentaram transações de 160 casas de apostas ilegais, e mais de 40 mil sites ligados a elas. No total, mais de 54 mil sites irregulares foram derrubados. As notificações foram enviadas em conjunto pela Secretaria de Prêmios e Apostas (SPA) e pela Receita Federal. Agora, as instituições financeiras precisam romper com as bets ilegais. Caso isso não aconteça, as empresas podem ser responsabilizadas solidariamente pelos recursos ilegais, e serem multadas no montante que foi movimentado.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/07/10/governo-publica-portaria-que-impoe-alertas-em-publicidade-de-bets-aposta-faz-voce-perder-dinheiro.ghtml",
+      "published": "2026-07-11T02:25:29+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "As mulheres que trocam a aliança de casamento pelo anel de divórcio: 'Uso no dedo do meio'",
       "summary": "Brilham no dedo de Deb Marino diamantes encravados em um atraente anel de ouro. \"É claro que é um anel para o dedo do meio, por que não?\", conta a blogueira da Flórida, nos Estados Unidos, em sua conta no TikTok. + A mulher que comanda a 'CBF da Noruega', enfrentou a Fifa e revolucionou o futebol do país + Por que cada vez mais mulheres chinesas preferem usar roupas masculinas? + Por que as mulheres vivem mais do que os homens? Livrar-se do seu anel de noivado teria indicado um arrependimento que ela, com 34 anos, não sente. Afinal, o casamento trouxe sua filha. A própria decisão de não o usar mais teria parecido um desperdício. \"Eu não queria trancá-lo em uma caixa\", ela conta. \"Os diamantes são preciosos.\" A joalheria londrina Lylie descobriu que vem crescendo o interesse em transformar anéis de noivado em novos objetos LYLIE, via BBC Além disso, ela, às vezes, sente vontade de mostrar um dedo, desde o término do seu casamento. Deb faz parte de uma tendência em crescimento, promovida por joalherias de todo o mundo. Mulheres marcam um novo capítulo na vida com um novo artigo: o anel de divórcio. Deb fez com que o diamante do seu anel de noivado fosse encravado em uma extremidade de um círculo aberto e acrescentou uma nova safira à outra ponta, representando sua filha. A peça custou US$ 3 mil (cerca de R$ 15,5 mil) — um montante considerável, já que os divórcios podem sair caro. Os valores de revenda de anéis costumam ser de apenas cerca de 30% do preço original. Por isso, para muitas pessoas, a tendência de dar uma nova vida a joias antigas parece um investimento melhor. E a declaração de Deb sobre o dedo do meio se enquadra no que as páginas especializadas em moda do hemisfério norte chamam de \"o verão quente das divorciadas\", uma celebração do glamour liberado e da \"energia da indiferença\". Os anéis de divórcio podem também ser uma forma de marcar uma espécie de libertação financeira, segundo Kate Daly, uma das fundadoras da empresa britânica Amicable, que oferece serviços de mediação de divórcios. \"Toda a sua vida fica de cabeça para baixo\", segundo ela. \"Suas finanças ficam sob extrema pressão.\" Se, naquele momento, a mulher decidir comprar um novo anel, este é um sinal de que ela está tomando suas próprias decisões financeiras e \"não precisa pedir permissão de ninguém\", segundo Daly. \"É muito fácil trivializar, mas talvez esta seja a primeira grande decisão de gastos que você toma em muito tempo. E, certamente, a maior que você toma sozinha há muito tempo.\" O anel de divórcio de Ceri Evans não foi um design renovado, mas um novo começo: três grandes diamantes em um anel de platina em estilo art déco, no dedo anular da mão direita. \"Digo que é o meu anel Estados Unidos\", brinca ela. \"Minha declaração de independência.\" Evans comprou o anel de 3 mil libras (cerca de R$ 20,7 mil), após se separar do seu marido, no ano passado. Ela pagou o anel \"por rebeldia\" com seu próprio dinheiro, não do seu acordo de divórcio. Evans tem 58 anos e mora no País de Gales. Alex Proie, do Estado americano da Pensilvânia, escolheu seu anel de divórcio duas semanas atrás. Ele é de ouro e diamantes, incrustados no seu anel de quinto aniversário de casamento. Ela ainda enfrenta uma mescla de sentimentos. Aos 31 anos, Proie se separou do marido após sete anos de casamento, quando ela revelou ser homossexual. \"Meu ex-marido foi uma enorme parte dos meus anos de formação como jovem adulta\", ela conta. \"É algo que quero levar comigo.\" Seu anel tem sete pequenos diamantes ovais e um desenho de onda que, segundo ela, ilustra os inevitáveis altos e baixos da vida. Ela precisou voltar a trabalhar em vendas após o divórcio, para aumentar sua renda. O novo anel a ajuda a relembrar como ela conseguiu se reconstruir. \"O divórcio é muito difícil e, quando você recomeça, não sabe como será sua vida, se você conseguirá se manter financeiramente para fazer algo como isso para você mesma\", explica ela. Existem comunidades no Reddit onde as pessoas discutem o que fizeram com suas alianças de casamento ou anéis de noivado após o divórcio. Alguns dizem que continuam a usá-los, às vezes para afastar avanços indesejados. Outros os escondem em uma gaveta. Ainda outros contaram que simplesmente os jogaram fora no lixo, no mar ou pela janela do carro. Mas muitos afirmam que querem marcar sua nova vida com algum gesto dispendioso, aparentemente, que não seja com viagens mirabolantes, tatuagens, um novo par de sapatos de luxo ou, como contou uma recente divorciada, renformando seu quarto. \"Agora, estou tendo noites incríveis de sexo com novos amantes, na cama que comprei com o dinheiro do anel\", postou ela. BBC FOOTER NOVO BBC",
       "url": "https://epocanegocios.globo.com/mundo/noticia/2026/07/as-mulheres-que-trocam-a-alianca-de-casamento-pelo-anel-de-divorcio-uso-no-dedo-do-meio.ghtml",
@@ -6387,68 +6869,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Governo Lula redigiu emenda que abriu caminho para propaganda de bet em transmissão de futebol",
-      "summary": "O governo Luiz Inácio Lula da Silva (PT), hoje lidando com a repercussão negativa da popularização das apostas online , escreveu em 2023 uma emenda que retirou durante o processo de regulamentação restrições a propagandas das chamadas bets. Leia mais (07/03/2026 - 12h31)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-lula-redigiu-emenda-que-abriu-caminho-para-propaganda-de-bet-em-transmissao-de-futebol.shtml",
-      "published": "2026-07-03T15:31:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
-    },
-    {
-      "title": "A Fórmula na Consulfarma 2026: foco no mercado magistral",
-      "summary": "A Fórmula Farmácia de Manipulação, uma das redes mais tradicionais do mercado magistral brasileiro, marca presença na Consulfarma 2026, considerada a maior feira e congresso de farmácias de manipulação do mundo, realizada entre os dias 2 e 4 de julho, no Distrito Anhembi, em São Paulo. O evento reúne farmacêuticos, empresários, investidores e profissionais da saúde de todo o país para apresentar tendências, inovação, tecnologia e oportunidades de negócios em um setor que movimenta mais de R$ 7 bilhões por ano no Brasil. Durante a feira, A Fórmula apresenta seu modelo de expansão e convida empreendedores interessados em ingressar ou ampliar sua atuação no segmento de manipulação. A rede oferece condições comerciais especiais aos participantes da Consulfarma e disponibiliza uma equipe especializada para orientar investidores durante todo o processo de implantação da unidade. Com 37 anos de mercado e mais de 120 unidades em operação, a empresa desenvolveu um modelo de gestão voltado para alta rentabilidade, suporte operacional e fidelização de clientes. Segundo a empresa, uma unidade da rede pode alcançar faturamento médio anual de R$ 4 milhões, com lucratividade entre 25% e 35%, além de atuar em um mercado com demanda constante e consumidores altamente fidelizados. \"O mercado magistral oferece uma excelente oportunidade para quem busca investir em um negócio sólido, resiliente e com grande potencial de crescimento. Nosso diferencial está na experiência acumulada ao longo de quase quatro décadas e no suporte completo oferecido aos franqueados\", destaca Juliano Ribeiro, head de expansão da A Fórmula. Além da manipulação de medicamentos, a rede atua nos segmentos de saúde humana e manipulação veterinária (pet), ampliando seu potencial de atendimento e geração de receita. Por que investir na A Fórmula 37 anos de tradição no mercado; Mais de 120 unidades ativas; Faturamento médio anual de R$ 4 milhões por unidade; Lucratividade média entre 25% e 35%; Modelo de negócio consolidado; Suporte completo em marketing, gestão e operação; Atendimento para saúde humana e pet; Equipe especializada em expansão e implantação. A Fórmula em números Royalties: 5% FPM (Fundo de Propaganda): 2% Área mínima da unidade: 150 m² Rentabilidade média: 25% a 30% Prazo estimado de retorno do investimento: 24 a 36 meses Investimento inicial: a partir de R$ 550 mil Durante a Consulfarma, a empresa oferece condições especiais para novos investidores interessados em fazer parte da rede. Serviço Consulfarma 2026Data: 2 a 4 de julho de 2026Local: Distrito Anhembi - São Paulo (SP) Instagram: @aformulafarmacia Informações para a imprensa Carla Bianchi ComunicaçãoE-mail: carlabianchicomunica@gmail.comWhatsApp: (11) 99264-3577",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/07/03/a-formula-na-consulfarma-2026-foco-no-mercado-magistral-1.ghtml",
-      "published": "2026-07-03T20:04:28+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácia",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácia",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Dono da Louis Vuitton é multado em R$ 130 milhões",
@@ -6542,38 +6962,6 @@
         }
       ],
       "score": 16.0
-    },
-    {
-      "title": "Uso de dados qualitativos surge como resposta à burocracia do setor financeiro",
-      "summary": "O fluxo de contas a pagar das empresas brasileiras movimenta R$4,1 trilhões a prazo, e uma fatia relevante desse volume está exposta a fraude, inadimplência e multas que poderiam ser evitados com automação fiscal. É o que aponta o Panorama do Contas a Pagar realizado pela Qive, empresa líder de automação do contas a pagar, que analisou mais de 500 milhões de notas fiscais emitidas entre janeiro de 2023 e dezembro de 2025. O levantamento revela que 77% das operações no B2B são pagas a prazo e que quase 6% dos boletos analisados (totalizando o valor de R$2,08 bilhões) têm como emissores CNPJs inexistentes na base da Qive. Desses, mais de 11 mil boletos de quase 900 emissores diferentes, totalizando um montante de R$69,5 milhões em valores dos documentos, foram emitidos por CNPJs que não constam na base da Receita. Além disso, o estudo estima que gastos com multas por atraso e inadimplência de boleto devem atingir R$1,3 bilhão em 2025. Todos esses números nos trazem uma percepção única: dados qualificados podem impactar o ponteiro do setor financeiro, principalmente quando se trata do cenário fiscal e tributário das companhias, já que parte das notas fiscais é perdida em fios de e-mail, boletos que chegam sem identificação e equipes que gastam horas preciosas preenchendo planilhas manuais. Esse peso operacional, além de minar a produtividade, eleva o risco de multas e falhas no compliance, explica Camila de Barros, Coordenadora de Produto da Qive. A resposta a esse cenário passa pela integração entre as áreas fiscal e financeira, automatizando a captura de documentos diretamente na fonte, em tempo real, e conectando esse fluxo ao ERP da organização. O objetivo é eliminar a dependência de processos manuais e criar rastreabilidade total do ciclo de pagamentos. A especialista afirma que utilizar a tecnologia de alta performance para antecipar cenários e otimizar processos é uma necessidade. Em termos práticos, o dia a dia pode ser facilitado com a automatização da captura, o processamento e a análise de dados fiscais e financeiros. O ponto de partida é, geralmente, um ERP robusto, como SAP, TOTVS ou Oracle. Ele serve como o coração da organização, no qual as informações contábeis e financeiras são consolidadas. No entanto, para que funcione em sua capacidade máxima, precisa ser alimentado com dados de qualidade. É aqui que está o gargalo, complementa Camila. Ainda de acordo com a especialista, essa mudança vira a chave do time financeiro, substituindo a digitação manual pela análise estratégica. Os dados deixam de ser estáticos e passam a ser 'vivos', alimentando o ecossistema da empresa de ponta a ponta. É a inteligência aplicada para garantir que cada centavo e cada documento estejam exatamente onde deveriam estar, sem esforço humano repetitivo, reforça. Para além desses pontos positivos, utilizar os dados neste novo modelo faz com que a operação tenha maior eficiência operacional. A automação elimina o erro humano e acelera processos que antes levavam dias. Companhias que adotam essa postura conseguem reduzir grande parte do tempo gasto com recebimento fiscal, liberando as pessoas para tarefas que realmente geram valor. Tivemos resultados reais com clientes, que conseguiram trazer até 15x mais economia de tempo com esse modelo de gestão, que é o caso da Riachuelo, completa Camila. Ainda de acordo com o levantamento da Qive, 48% dos profissionais de backoffice mencionam gastar tempo significativo com atividades manuais que poderiam ser automatizadas. A implementação deste modelo pode ajudar companhias que buscam escala e segurança. É possível visualizar todo o ciclo de pagamentos em uma única interface, eliminando os pontos cegos que costumam esconder gastos desnecessários ou duplicidades. Além disso, há a redução drástica de riscos e fraudes. Isso torna a gestão de riscos financeiros muito mais robusta e segura, explica a Coordenadora de Produto. A rastreabilidade total dos documentos também garante que as auditorias sejam tranquilas e que a empresa esteja sempre em dia com suas obrigações.",
-      "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/07/03/uso-de-dados-qualitativos-surge-como-resposta-a-burocracia-do-setor-financeiro-1.ghtml",
-      "published": "2026-07-03T14:28:04+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Fashion",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência",
-        "riachuelo"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "riachuelo",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 10.0
     },
     {
       "title": "O código secreto das empresas que dominaram e das que afundaram na bolsa da saúde",
@@ -6670,52 +7058,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "A tecnologia que ninguém conhecia e manteve o sonho de Cristiano Ronaldo vivo na Copa do Mundo",
-      "summary": "Um sensor de movimento embutido na bola oficial da Copa do Mundo de 2026 foi determinante para anular um gol da Croácia contra Portugal nas oitavas de final e manter a seleção portuguesa na competição. O equipamento, batizado de Connected Ball Technology pela Adidas, mede o contato entre o pé do jogador e a bola em tempo real e alimenta o sistema de arbitragem de vídeo, o VAR. O lance aconteceu nos acréscimos do confronto disputado nesta semana. A Croácia abriu o placar com Ivan Perisic pouco depois do intervalo. Cristiano Ronaldo empatou de pênalti para Portugal, e Gonçalo Ramos virou o jogo em um cabeceio já nos minutos finais. Quando tudo parecia encaminhado para a vitória portuguesa, aos 103 minutos, Josko Gvardiol balançou as redes em um lance que igualaria a partida em 2 a 2 e levaria o confronto para a prorrogação. Como o chip embutido na bola identificou o toque decisivo Sensor de 500 hertz instalado na bola oficial do Mundial ajudou o VAR a identificar o toque que anulou o gol da Croácia contra Portugal Kinexon/Reprodução A reprodução da jogada, a princípio, sugeria que o atacante croata Igor Matanovic havia errado o desvio de cabeça que originou o gol. Se fosse esse o caso, o companheiro Mario Pasalic, estaria em posição legal ao receber a sobra. O árbitro Espen Eskas, no entanto, foi checar o lance no monitor de campo, e os dados captados pela bola indicaram o contrário: houve, sim, contato de Matanovic momentos antes de Pasalic tocar na bola, o que caracterizava impedimento, relatou o The Sun. A prova veio de um gráfico que mostra picos de vibração sempre que a bola sofre algum tipo de contato, recurso semelhante ao snickometer utilizado no críquete para apontar se a bola tocou o taco do batedor. Com a confirmação do toque, o gol foi anulado e Portugal venceu por 2 a 1, avançando à fase seguinte da competição e eliminando a Croácia de Luka Modric. Conheça a tecnologia por trás da Trionda Conheça a tecnologia por trás da Trionda, a bola da vez na Copa do Mundo - Fonte: Adidas Divulgação Conectividade O chip do sensor de movimento da unidade de medição inercial (IMU) de 500Hz agora fica dentro de uma camada em um dos quatro gomos da bola Contrapesos Para garantir a estabilidade da Trionda no ar (e evitar críticas como aquelas feitas à Jabulani, na Copa da África do Sul), contrapesos foram adicionados aos outros três gomos que compõem a bola, para compensar o peso do chip Construção em quatro gomos São quatro peças, com costuras profundas e detalhes em relevo, criando uma superfície favorável à estabilidade do movimento Textura A superfície fosca da Trionda favorece o contato da chuteira com a bola mesmo em dias úmidos ou chuvosos A bola oficial do Mundial de 2026, chamada Trionda, carrega em um dos quatro gomos um chip com sensor de movimento inercial, equipamento capaz de registrar aceleração, rotação e impactos 500 vezes por segundo. Nas demais partes da bola, contrapesos garantem que a distribuição de massa permaneça equilibrada e não interfira no voo. O sistema foi desenvolvido em parceria com a Kinexon, empresa alemã especializada em rastreamento de dados esportivos. Os dados captados pelo chip são enviados em tempo real à central do VAR e cruzados com informações de posicionamento dos jogadores em campo, processadas por inteligência artificial. A combinação permite identificar toques individuais na bola com maior precisão, o que agiliza decisões de impedimento e também ajuda a apurar lances de possível toque de mão. O mesmo tipo de tecnologia já havia influenciado um resultado envolvendo Cristiano Ronaldo, mas em sentido contrário. Na Copa do Mundo do Catar, em 2022, o atacante teve um gol anulado contra o Uruguai depois que os sensores da bola não registraram nenhum contato em uma tentativa de cabeceio: o lance foi então creditado a Bruno Fernandes, autor do cruzamento que resultou no gol. Fifa confirma funcionamento da tecnologia Após a partida contra a Croácia, a Fifa divulgou um comunicado confirmando que os dados da Connected Ball Technology comprovaram o toque de Matanovic na jogada. Segundo a entidade, os sensores instalados na Trionda são capazes de captar qualquer contato mínimo com a bola, exibido aos telespectadores como um gráfico em formato de batimento, e oferecem aos árbitros um nível de informação sem precedentes para decisões rápidas e precisas. A eliminação da Croácia também gerou reação nas arquibancadas: torcedores croatas arremessaram garrafas ao gramado após a anulação do gol, o que interrompeu a partida por cerca de cinco minutos antes da retomada. Com o resultado, Portugal segue viva na busca pelo título mundial, enquanto a Croácia deixa o torneio nas oitavas de final.",
-      "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/07/a-tecnologia-que-ninguem-conhecia-e-manteve-o-sonho-de-cristiano-ronaldo-vivo-na-copa-do-mundo.ghtml",
-      "published": "2026-07-03T12:48:56+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "adidas"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "adidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Gastos via Pix em bares e restaurantes aumentam 49% durante jogo do Brasil",
-      "summary": "Crescimento foi observado pelo Nubank durante a partida entre Brasil e Japão",
-      "url": "https://veja.abril.com.br/economia/gastos-via-pix-em-bares-e-restaurantes-aumentam-49-durante-jogo-do-brasil",
-      "published": "2026-07-03T18:32:58+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Madesa planeja fazer operação internacional chegar a 40% do faturamento",
@@ -7569,6 +7911,98 @@
       "score": 8.0
     },
     {
+      "title": "Dia da Pizza: Brasil Abre 13 Novas Pizzarias por Dia em 2026",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. São Paulo concentra 28% das novas pizzarias. No delivery, iFood registra 195 pizzas entregues por minuto no Brasil O post Dia da Pizza: Brasil Abre 13 Novas Pizzarias por Dia em 2026 apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/07/pizzarias-brasil-abertura-2026",
+      "published": "2026-07-10T15:09:19+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Ferramentas a bateria elevam a produtividade na obra",
+      "summary": "A evolução das ferramentas movidas a bateria de íons de lítio tem transformado o setor da construção civil e da indústria no Brasil. Se antes eram vistas como alternativas para aplicações leves, hoje já ocupam espaço em atividades profissionais que exigem alto desempenho, impulsionadas por avanços tecnológicos que garantem mais potência, autonomia e praticidade. Um levantamento da consultoria IndexBox mostra que ferramentas sem fio já representam entre 55% e 65% das vendas de equipamentos elétricos no país, com ciclos de substituição de três a cinco anos. Esse dado revela a maturidade crescente do mercado e a preferência dos profissionais por soluções que unem mobilidade e eficiência. De acordo com Rafael Bernardi, gerente de marketing do Âncora Group, essa mudança reflete a busca dos profissionais por maior eficiência. \"Observamos uma evolução muito consistente do mercado de ferramentas a bateria no Brasil. O profissional brasileiro procura soluções que ofereçam agilidade e desempenho, e as ferramentas a bateria atendem exatamente a essa necessidade, permitindo mais liberdade de movimentação e eficiência no trabalho\", afirma. A tecnologia de íons de lítio foi decisiva para essa transformação. Mais leves e compactas, as baterias oferecem maior capacidade de armazenamento de energia, ciclos de vida mais longos e tempos de recarga reduzidos. \"Isso permitiu que as ferramentas a bateria alcançassem níveis de desempenho muito próximos e, em muitos casos, equivalentes aos equipamentos com fio. Outro ponto importante é a possibilidade de desenvolver plataformas com baterias intercambiáveis, oferecendo mais conveniência e melhor aproveitamento do investimento realizado pelos profissionais\", explica Bernardi. Nesse contexto, a Âncora Tools investiu em uma linha completa de ferramentas sem fio, com destaque para a linha EVOlution, que utiliza baterias intercambiáveis entre todos os equipamentos da marca. A linha nasceu da observação das necessidades reais dos profissionais brasileiros, que precisam de ferramentas versáteis e confiáveis, buscando unir mobilidade, desempenho e praticidade de uso. \"Criamos nossa própria bateria com tecnologia lítio, intercambiável entre diferentes ferramentas da linha, permitindo mais flexibilidade no trabalho e otimização de custos\", detalha o executivo. O conceito de baterias intercambiáveis pode trazer ganhos diretos para o dia a dia dos usuários. Uma mesma bateria pode ser utilizada em diferentes ferramentas, permitindo que o profissional amplie seu conjunto de equipamentos sem precisar adquirir uma bateria para cada produto. A linha EVOlution foi estruturada para atender desde aplicações simples até atividades de maior intensidade. Há ferramentas destinadas a tarefas rotineiras, mas também equipamentos projetados para operações contínuas, pesadas e com maior desempenho. Essa diversidade permite que profissionais de diferentes segmentos encontrem soluções adequadas às suas necessidades, mantendo a compatibilidade dentro da mesma plataforma de baterias. A eletrificação de equipamentos pesados também deve ganhar espaço, acompanhando movimentos já observados em mercados internacionais. Um levantamento da Fortune Business Insights projeta que o mercado de baterias de íons de lítio possa atingir US$ 865,33 bilhões até 2034, reforçando esse cenário de expansão e maturidade. Além da produtividade, a tecnologia contribui para a segurança dos profissionais. A ausência de cabos elimina riscos de tropeços e limitações de movimentação, enquanto sistemas eletrônicos de gerenciamento de energia e projetos ergonômicos oferecem maior precisão e conforto durante o uso. \"O resultado é um ambiente de trabalho mais eficiente, seguro e preparado para atender às exigências dos profissionais modernos\", conclui o executivo da Âncora Tools. Para saber mais, basta acessar: https://ancoratools.com.br/",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/07/10/ferramentas-a-bateria-elevam-a-produtividade-na-obra-1.ghtml",
+      "published": "2026-07-10T17:34:51+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "construção civil"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "construção civil",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Apostas na Copa 2026: o Que a Economia da Atenção Revela sobre o Brasil Endividado",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pesquisa mostra que mais de um terço da população brasileira realizou apostas online durante da Copa do Mundo O post Apostas na Copa 2026: o Que a Economia da Atenção Revela sobre o Brasil Endividado apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/07/apostas-na-copa-2026-o-que-a-economia-da-atencao-revela-sobre-o-brasil-endividado",
+      "published": "2026-07-10T18:03:06+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas online"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Madrid, o Destino que se Revela Devagar",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Entre o Triângulo de Ouro da Arte e os arredores reais, a capital espanhola recompensa quem decide ficar – e transforma proximidade em luxo. O post Madrid, o Destino que se Revela Devagar apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/07/brandvoice-madrid-destino-que-se-revela-devagar",
+      "published": "2026-07-10T20:26:45+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "ouro"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "ouro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Bauducco busca sócio minoritário; Mondelez quer o controle",
       "summary": "Bauducco fatura quase R$ 6 bilhões por ano Reprodução/IG A Bauducco abriu conversas para encontrar potenciais sócios minoritários e contratou a BR Partners como assessor financeiro, apurou o Pipeline. Ao menos 10 players, entre financeiros e estratégicos, já sinalizaram interesse. Entre eles, estão GIC, Itaúsa, Hersey’s – que já teve uma parceria com a marca brasileira – e Mars, disseram fontes com conhecimento do assunto. A companhia também já encontrou ao menos um interessado com mais apetite. A americana Mondelez, fabricante de clássicos como Bis, Oreo, Club Social e Lacta, quer levar o controle da operação, apurou o Pipeline. A americana é assessorada pelo UBS BB. Cacau Show internaliza produção de panetone para competir com Bauducco Bauducco chama o Cade na transação entre Wickbold e Bimbo Mas a missão é difícil. A Bauducco é uma companhia familiar, cobiçada há anos por fundos e estratégicos – e por bancos de investimento, que já tentaram levá-la para bolsa algumas vezes. O controle é da Pandurata Alimentos, que por sua vez pertence aos Bauducco. O obstáculo para a Mondelez é que a família não tem interesse em uma venda total. Na visão de pessoas próximas ao assunto, isso só aconteceria “a um preço estratosférico”. A estimativa de mercado é que a Bauducco valha em torno de R$ 9 bilhões a R$ 10 bilhões, o que significaria um múltiplo de 12 a 14 vezes o Ebitda. Na projeção de receita para julho, em 12 meses, a companhia deve fechar com faturamento de R$ 5,8 bilhões, Ebitda de R$ 700 milhões e é pouco alavancada, com um índice em torno de 0,5 vez Ebitda, apurou o Pipeline. Nutrella à venda: quem vai levar o pão de forma Com família Zaher, Juan Valdez quer 300 cafeterias no Brasil Pelo mandato oficial da BR Partners, conforme fontes que acessaram os dados, a venda minoritária pode ser primária ou secundária, ou um misto dos dois. Apesar do engajamento e interesse geral de players na transação mesmo para uma fatia minoritária, há quem veja o processo com algum ceticismo, lembrando que os Bauducco também fizeram um processo de venda parcial em 2012 e acabaram desistindo. Naquela época, fundos como KKR e GIC estavam entre os mais interessados. Pipoca com café: favorita, 3corações leva a Yoki da General Mills Dori é arrematada por R$ 2 bi pelo herdeiro da Ferrero Rocher McCain compra Forno de Minas, na segunda saída de fundadores Mondelez tem portfólio diversificado de consumo no país Reprodução A Bauducco tem mirado a expansão internacional. A companhia inaugurou no último mês sua primeira fábrica de produção de panettones e chocolates fora do Brasil. Com investimento de US$ 200 milhões, a unidade fica no interior da Flórida, nos Estados Unidos, e produz também para exportação. O grupo, que também inclui as marcas Casa Bauducco, Visconti, Tommy e Ellece Logística, já tinha centro de distribuição e produção de wafers naquele país. Procuradas, a Bauducco disse que não iria se manifestar sobre o tema; a Mondelez disse que não comenta especulações de mercado; o UBS BB negou que esteja envolvido na transação. Nutella com whey: grupo Ferrero compra a mineira Bold Snacks Bananinha Paraibuna avalia nova fábrica e recusa M&amp;A Nestlé compra Kopenhagen em transação de R$ 4,5 bilhões",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/bauducco-busca-socio-minoritario-mondelez-quer-o-controle.ghtml",
@@ -7685,84 +8119,6 @@
         }
       ],
       "score": 6.0
-    },
-    {
-      "title": "Farmacêutica Catarinense abre 30 vagas em quatro estados",
-      "summary": "A farmacêutica Catarinense está com 30 vagas abertas em áreas técnicas, administrativas e operacionais. As oportunidades estão distribuídas por Joinville (SC), Aparecida de Goiânia (GO), Recife (PE) e São Paulo (SP) e contemplam setores como pesquisa e desenvolvimento, qualidade, operações, jurídico, planejamento e análise financeira, compras, comercial, trade e marketing. Entre os cargos estão especialista de e-commerce, coordenador de marketing nutricional, analista de produto, analista de comunicação, gerente de vendas, gerente regional de vendas, assistente administrativo de vendas, analista de planejamento e análise financeira, estagiário jurídico, analista de pesquisa e desenvolvimento, analista de excelência operacional, comprador e inspetor de qualidade, além de vagas na produção. A faixa salarial varia de R$ 2 mil a R$ 18 mil, conforme função e experiência, com participação nos resultados. Já o pacote de benefícios inclui assistência médica e odontológica, convênio com farmácia e ótica, seguro de vida, transporte, auxílio-creche e Wellhub. O processo seletivo ocorre de forma híbrida, com etapas on-line e presenciais. Interessados podem enviar currículo para o email: recrutamento@catarinensepharma.com.br, pelo Portal de Talentos Senior, no LinkedIn, ou por meio da plataforma Indeed, com as palavras chave “Catarinense Pharma”. Fly Educação oferece 4 mil bolsas para formação em tecnologia Salários em private equity e venture capital têm alta de até 6% em 2026 Por que agilidade custa caro para talentos? Faixa salarial das oportunidades na Catarinense varia de R$ 2 mil a R$ 18 mil Unsplash",
-      "url": "https://valor.globo.com/carreira/empregos-oportunidades/post/2026/07/farmaceutica-catarinense-abre-30-vagas-em-quatro-estados.ghtml",
-      "published": "2026-07-03T17:00:12+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Academias",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácia",
-        "wellhub"
-      ],
-      "matches": [
-        {
-          "sector": "Academias",
-          "alias": "wellhub",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácia",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 4.0
-    },
-    {
-      "title": "'Superfibra' natural criada pelo Imperial College é adicionada a alimentos para evitar ganho de peso",
-      "summary": "A União Europeia (UE) aprovou um novo aditivo alimentar desenvolvido por pesquisadores do Reino Unido para prevenir o ganho de peso. O éster de propionato de inulina, ou IPE, da sigla em inglês, é um tipo de fibra criada para maximizar a saciedade gerada pelo consumo do nutriente. Com isso, evitar o excesso de calorias ao longo do dia, que leva ao aumento do peso. Estresse, telas, redes sociais e a rotina: As razões pelas quais cada vez menos pessoas fazem sexo, segundo especialista Magnésio: Para que serve, seus benefícios e quanto você precisa por dia Em forma de pó branco, o IPE pode ser misturado em alimentos consumidos diariamente, como vitaminas, cereais, ou mesmo incorporado ao preparo de itens como pães. Além disso, também pode ser consumido como um suplemento isolado. Os estudos clínicos com a substância mostraram que cerca de 10g por dia já têm efeito na regulação do apetite para evitar o ganho de peso. O aditivo foi desenvolvido por cientistas do Imperial College de Londres, na Inglaterra, e do Centro de Ciências dos Isótopos da Universidade de Glasgow, na Escócia. No entanto, apesar da aprovação, ele não estará disponível imediatamente. Para conseguir produzi-lo em escala comercial, os pesquisadores lançaram uma empresa chamada Satisfed (“Satisfeito”, em português) e buscam parceiros industriais capazes de ampliar a produção. É mais saudável adoçar com mel? Veja essa e outras dicas no guia do Vida Boa O IPE é feito a partir da mistura de inulina, uma substância natural encontrada em alimentos como chicória e cebolas, e propionato, um ácido graxo de cadeia curta naturalmente presente no organismo. Ele funciona entregando o propionato diretamente a receptores no intestino que desencadeiam a liberação de hormônios reguladores do apetite. “Nós reunimos dois ingredientes naturais para estimular hormônios reguladores do apetite exatamente no local certo do intestino. Embora os agonistas do receptor GLP-1 (medicamentos conhecidos como ‘canetas emagrecedoras’) tenham mostrado excelentes resultados ajudando as pessoas a perder peso, o IPE poderia ajudar a impedir o tipo de ganho de peso lento e contínuo que torna esses medicamentos necessários”, diz Douglas Morrison, professor da Universidade de Glasgow e um dos criadores do aditivo, em comunicado. Tem pressão alta? Veja 7 hábitos que podem ajudar a controlar doença e cuidar do coração O desenvolvimento do IPE começou no laboratório de Morrison e passou por um processo de colaboração de 15 anos com o professor de Nutrição e Dietética no Departamento de Metabolismo, Digestão e Reprodução do Imperial College de Londres, Gary Frost. Os cientistas também conduziram uma série de estudos clínicos para avaliar a segurança e o efeito do suplemento. Alguns trabalhos apontaram que o consumo também ajuda a preservar a massa magra, melhora os níveis de gordura no fígado e pode ter ainda impactos positivos para a saúde metabólica e imunológica de um modo geral. No final do ano passado, a Autoridade Europeia para a Segurança Alimentar, que revisa dados toxicológicos, nutricionais e microbiológicos das substâncias, emitiu o primeiro parecer positivo para o IPE. Agora, a autorização final foi concedida pela Comissão Europeia, e o produto foi formalmente adicionado à Lista da UE de Novos Alimentos Autorizados. Leia a entrevista: 'O excesso não ajuda na longevidade nem na qualidade de vida', afirma Willie Carballo, consultor de bem-estar Futuramente, os criadores do aditivo esperam levar a substância, considerada barata e eficaz, para a fabricação de alimentos convencionais, tornando-a uma nova e ampla ferramenta para combater a crise da obesidade que o mundo enfrenta. “Um pequeno excesso calórico diário pode levar a um ganho de peso significativo ao longo do tempo. Mesmo 1 kg por ano em adultos jovens é suficiente para criar problemas sérios de peso na meia-idade. Já sabemos que uma maior ingestão de fibras pode combater isso, mas também sabemos que a maioria das pessoas acha difícil consumir fibras suficientes e está muito aquém dos níveis recomendados de ingestão”, explica Morrison.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/07/03/super-fibra-conheca-o-aditivo-natural-para-ser-misturado-aos-alimentos-que-evita-o-ganho-de-peso-aprovado-na-europa.ghtml",
-      "published": "2026-07-03T13:22:14+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
-    },
-    {
-      "title": "M&A do M&A: CorpServices compra B2R Capital",
-      "summary": "A CorpServices, empresa que oferece serviços de backoffice corporativo, está adquirindo a B2R Capital, que assessora fusões e aquisições e faz laudos de avaliação para empresas e fundos. É a oitava aquisição da CorpServices. “Estamos adicionando sócios muito experientes como Ricardo Bahiana e Bruno Jucá, fundadores da B2R, além de uma complementariedade de soluções”, diz Ricardo Nunes, CEO da compradora. Sueca Boliden quer fatia da Votorantim na mineradora Nexa Grupo argentino compra a Warren, fintech brasileira de ex-XP Ex-Oracle, Nunes fundou a companhia há oito anos, com um grupo de investidores institucionais de Cingapura. A proposta é replicar no mercado brasileiro a estratégia feita no sudeste asiático, com uma serviços financeiros corporativos em uma única plataforma para atender principalmente o middle market - companhias com faturamento de até R$ 1 bilhão. Bahiana, Nunes e Jucá da CorpServices: consultoria deve atingir R$ 180 mi de faturamento Divulgação Hoje a CorpServices atende mais de cinco mil clientes e oferece serviços que vão desde a parte tributária, fiscal e contábil. A consultoria deve alcançar um faturamento de R$ 180 milhões neste ano, já considerando a aquisição da B2R. A nova adquirida tem cerca de 150 clientes ativos, incluindo gestoras e administradoras como BTG Pactual, Vinci, Singulare, Atmos, Vortx e Leste, e grupos Petlove, Petz, Rede D’Or, Dasa e Inspira, para quem produz laudos, cálculos de valuation, stock option e impairment. Em assessoria de M&amp;A, a B2R Capital atuou em transações como a aquisição do grupo BWS pela gestora Leste, reunindo escolas de formação médica. “A integração com a CorpServices vai nos permitir expandir a base de clientes, seja através do cross-selling ou do uso de tecnologia”, diz Bahiana. Zanchetta compra Ceratti e reforça portfólio com embutidos Americana Tilt compra fintech Blipay e entra no Brasil A CorpServices tem investido em inteligência artificial para automatizar serviços burocráticos do backoffice, permitindo atender mais clientes e aumentar a produtividade. “Com isso, nossa receita por número de funcionários aumentou 20%”, diz Nunes. A firma mira pelo menos mais três aquisições neste ano, o que poderia elevar o faturamento para R$ 270 milhões. Segundo o fundador, a companhia quer expansão geográfica e em portfólio de serviços. Nesse ritmo, ele avalia buscar recursos com novos acionistas, por meio de uma rodada de equity - até aqui, a CorpServices tem financiado as aquisições com recursos próprios, dos sócios e crédito bancário.",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/manda-do-manda-corpservices-compra-b2r-capital.ghtml",
-      "published": "2026-07-03T14:52:07+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "Pet"
-      ],
-      "matched_aliases": [
-        "petlove"
-      ],
-      "matches": [
-        {
-          "sector": "Pet",
-          "alias": "petlove",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
     },
     {
       "title": "125 infectados em cruzeiro nos EUA: entenda o que é o norovírus e quais são os sintomas",
@@ -8194,6 +8550,75 @@
         {
           "sector": "Farmácias",
           "alias": "drogarias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Ibovespa dispara mais de 2% com IPCA abaixo do esperado; só uma ação do índice recua",
+      "summary": "Dados bem abaixo do esperado para a inflação de junho, juntamente com uma composição melhor do IPCA, ampliam as apostas de que o Banco Central possa realizar mais um corte de juros na reunião de agosto, o que garante um fôlego extra para a bolsa local nesta sexta-feira. O ajuste forte na curva de juros ajuda a impulsionar ações cíclicas domésticas, que são destaque do Ibovespa hoje. O maior apetite por risco local também eleva os ganhos de blue chips, especialmente de bancos. Com os novos números de inflação, as negociações entre EUA e Irã são colocadas em segundo plano, ainda que tenham ajudado a ampliar o alívio local no começo da tarde. Por volta das 13h10, o Ibovespa disparava 2,36%, aos 176.812 pontos, sendo que chegou a tocar os 176.945 pontos, na máxima intradiária. O volume projetado para o pregão é de R$ 18,6 bilhões. No mesmo horário, o Nasdaq operava estável (0,05%), ao passo que o Dow Jones e o S&amp;P 500 registravam leve alta de 0,15% e 0,14%, respectivamente. A percepção mais favorável ao risco no mercado local também ajuda a turbinar os ganhos de blue chips, especialmente de bancos. No horário acima, as ações ON do Bradesco respondiam pelas maiores altas, no valor de 3,89%. Vale e Petrobras também passam por um dia mais positivo: as ON da mineradora subiam 1,70%, ao passo que as PN da petroleira ganhavam 0,56%, no mesmo horário. O forte ajuste registrado na curva futura também coloca as ações cíclicas domésticas como os maiores destaques de alta na sessão. No horário acima, Magazine Luiza subia 8,44%; Cogna avançava 5,78%; e Hapvida exibia valorização de 5,16%. O recuo expressivo dos juros futuros é impulsionado por números abaixo do esperado para a inflação. Hoje, o IBGE trouxe que o IPCA subiu 0,16% em junho, após alta de 0,58% em maio. O número ficou bem abaixo da mediana das projeções de instituições consultadas pelo Valor Data, que era de 0,31%. Além de um número cheio melhor do que o previsto por economistas, a composição geral foi mais favorável. O diretor de pesquisa econômica para América Latina do Goldman Sachs, Alberto Ramos, afirma que tanto o núcleo da inflação quanto o núcleo de serviços surpreenderam para baixo; as pressões de preços sobre os bens industriais básicos, vistas no núcleo de bens industriais, arrefeceram em junho; por outro lado, o banco destacou que a dinâmica da média móvel de três meses acelerou para o patamar acima de 6%. Nesse sentido, Ramos destaca que a composição da inflação veio mais favorável, mas que a dinâmica inflacionária mostrou sinais de que permanece mais “desafiadora”. Ele aponta que a inflação de serviços está oscilando pouco abaixo de 6% em termos anuais; as expectativas de inflação de curto e médio prazos estão desancoradas; o hiato do produto está positivo, assim como o mercado de trabalho está aquecido; e há uma ampla agenda de medidas fiscais, “quase fiscais” e de crédito antes das eleições do quarto trimestre de 2026, o que exige uma “calibração conservadora do ciclo de normalização da política monetária”. “Isto é, o espaço para cortes adicionais é limitado, embora o conjunto de dados macrofinanceiros esteja reabrindo lentamente a porta para um afrouxamento adicional”, destaca a casa. Hoje, após a divulgação dos números do IPCA, as opções de Copom mostraram que a probabilidade implícita de uma queda de 0,25 ponto percentual da Selic na reunião de agosto ganhou mais força, passando de 72%, ontem, para 84% hoje. Já a chance de uma queda de 0,50 ponto passou de 1,5% para 3%. Com a inflação no foco dos investidores, as negociações entre EUA e Irã ficaram em segundo plano. Hoje, o presidente americano, Donald Trump, disse que concordou em dar continuidade às negociações por um acordo de paz definitivo com Teerã, mas ressaltou que o cessar-fogo “acabou”. A notícia chegou a fazer o Ibovespa se aproximar dos 177 mil pontos, mas o índice devolveu uma parte da alta na sequência. Já na ponta contrária, as ações da Prio eram as únicas que cediam no pregão, com queda de 0,77%. Investidores repercutem a decisão do governo de manter por 60 dias a cobrança do imposto de exportação de petróleo, correspondente a 12% da receita bruta de venda de insumo, o que é negativo para o caixa das petroleiras. Em relatório, analistas do Citi afirmam que a Prio é a mais afetada pela medida, seguida pela Brava Energia e, em menor grau, a Petrobras.",
+      "url": "https://valor.globo.com/financas/noticia/2026/07/10/ibovespa-dispara-apos-ipca-bem-abaixo-do-esperado-apenas-duas-acoes-recuam.ghtml",
+      "published": "2026-07-10T13:40:32+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "magazine luiza"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Ibovespa sobe quase 3% e tem maior variação diária desde março após IPCA abaixo do esperado",
+      "summary": "Números bem abaixo do esperado para o IPCA em junho, aliados a uma composição melhor do indicador, ampliaram as apostas de que o Banco Central possa realizar mais um corte de juros na reunião de agosto, o que ajudou a engatar uma alta expressiva do Ibovespa nesta sexta-feira. O ajuste forte na curva futura elevou os ganhos de ações cíclicas domésticas, que responderam pelas maiores altas no pregão. O dia mais favorável ao risco no mercado local também impulsionou blue chips, especialmente bancos que subiram mais de 5% em alguns casos. Depois de tocar os 172.761 pontos pela manhã, na mínima intradiária, o Ibovespa ganhou mais de 5 mil pontos ao longo do pregão e encerrou em alta de 2,97%, aos 177.866 pontos, na máxima do dia. Trata-se da maior variação diária desde 23 de março deste ano, quando o índice avançou 3,24% em um dia, impulsionado pela trégua temporária na guerra entre Estados Unidos e Israel contra o Irã. Já na semana, a principal referência acionária local subiu 2,18%. A percepção mais favorável ao risco turbinou os ganhos de blue chips, especialmente de bancos. No fim, BTG Pactual ganhou 5,48%; Bradesco ON teve alta de 4,84%; Bradesco PN subiu 4,78%; Santander Units exibiu valorização de 5,22%; Itaú Unibanco PN avançou 4,02%; e Banco do Brasil ON exibiu ganhos de 2,90%. Vale e Petrobras também registraram um dia mais positivo: as ON da mineradora subiram 1,41%, ao passo que as PN da petroleira ganharam 1,12%. O forte ajuste registrado na curva futura colocou as ações cíclicas domésticas como alguns dos maiores destaques de alta. No fim, Magazine Luiza subiu 7,41%; e Cogna avançou 6,67%. O recuo expressivo dos juros futuros foi impulsionado por números abaixo do esperado para a inflação. Hoje, o IBGE divulgou que o IPCA subiu 0,16% em junho, após alta de 0,58% em maio. O número ficou bem abaixo da mediana das projeções de instituições consultadas pelo VALOR DATA, que era de uma alta de 0,31%. “Mais do que um resultado abaixo das expectativas, a composição do IPCA reforçou um processo de desinflação mais consistente, com comportamento favorável dos núcleos e alívio nos preços dos alimentos”, destacou o analista da gestora de patrimônio Aware Investments Matheus Villela. Os dados de inflação, juntamente com números mais fracos do mercado de trabalho e da atividade divulgados nas semanas anteriores, reforçaram as apostas em cortes de juros. Hoje, as opções de Copom mostraram que a probabilidade implícita de uma queda de 0,25 ponto percentual da Selic na reunião de agosto ganhou força, passando de 72%, ontem, para 83% hoje. Já a chance de uma queda de 0,50 ponto passou de 1,5% para 3%. De olho nos últimos dados e na chance de continuidade do ciclo de corte de juros pelo Banco Central, o sócio da Encore Asset Management, João Luiz Braga, afirma que a disparada de quase 3% da bolsa local hoje não foi um exagero. Para ele, o baixo posicionamento técnico de investidores em ações cíclicas domésticas ajudou a explicar a força da recuperação do índice nesta sexta-feira. “Ainda está tudo ‘ridículo’ de barato na bolsa e o posicionamento dos investidores está baixíssimo em [ações cíclicas domésticas]. Na verdade, as ações domésticas têm que andar muito ainda no relativo”, pondera Braga. O executivo lembra que as ações cíclicas domésticas foram bastante penalizadas, à medida que a continuidade do ciclo de cortes de juros foi colocada em xeque pelo mercado após o tom adotado pelo Banco Central na reunião de junho. “Agora parece que todo mundo volta a achar que vai ter sim mais corte e isso é ótimo”, diz. “Estamos vendo a economia mais fraca, com indicadores como a indústria, comércio e o mercado de trabalho, com o Caged, mais fracos, e hoje tivemos o IPCA. Os números mostram que não fazia sentido o mercado ficar tão ‘hawkish’ [mais inclinado ao aperto monetário]”, resume Braga. Villela, da Aware, tem visão semelhante. Para ele, o conjunto de fatores macroeconômicos reforça a visão de que um Ibovespa na faixa de 180 mil pontos é um cenário mais “plausível”, desde que a inflação continue surpreendendo positivamente e o mercado mantenha a expectativa de continuidade dos cortes, ainda que as eleições possam causar volatilidade. Hoje, o forte movimento na bolsa local fez o volume financeiro negociado pelo Ibovespa chegar a R$ 19,1 bilhões, bem mais alto do que o visto nos últimos dias de julho. Já na B3, o giro bateu R$ 25,0 bilhões. Em Wall Street, os principais índices encerraram a sessão no azul. No fim, o S&amp;P 500 subiu 0,42%; e o Dow Jones e o Nasdaq ganharam, ambos, 0,29%.",
+      "url": "https://valor.globo.com/financas/noticia/2026/07/10/ibovespa-sobe-quase-3percent-e-tem-maior-variacao-diaria-desde-marco-apos-ipca-abaixo-do-esperado.ghtml",
+      "published": "2026-07-10T20:27:26+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "magazine luiza"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Recuo da inflação reforça avaliação de que o BC pode voltar a cortar os juros na próxima reunião do Copom",
+      "summary": "Com um alívio nos preços de alimentos e combustíveis, a inflação surpreendeu o mercado ao ficar em 0,16% no mês passado, ante expectativa de 0,31% e de alta de 0,58% em maio. Foi a menor taxa para junho em três anos, segundo o Índice de Preços ao Consumidor Amplo (IPCA), divulgado ontem pelo IBGE. Para economistas, o resultado indica uma desaceleração dos preços e reforça a avaliação de que o Comitê de Política Monetária (Copom), do Banco Central (BC), poderá cortar a Taxa Selic — hoje em 14,25% ao ano — em 0,25 ponto percentual na próxima reunião, nos dias 4 e 5 de agosto. Vai uma alcatra ou patinho suíno? Marca da JBS investe em cortes de porco para estimular consumo IPVA por peso do carro: proposta que muda forma de calcular imposto avança na Câmara; entenda — Pode oferecer mais segurança ao BC para a decisão da próxima reunião, haja vista que, além do bom comportamento dos núcleos de inflação (que captam a tendência dos preços, excluindo itens mais voláteis), o número geral foi inferior à projeção da própria instituição — resume Matheus Pizzani, economista do PicPay. A inflação perdeu força, principalmente, pela queda nos preços de alimentos. O recuo de 0,25% no grupo Alimentação e bebidas, que responde por mais de 20% do orçamento das famílias, ajudou a compensar a pressão do grupo Habitação, que subiu 0,63%, puxado pelo aumento na conta de luz. Comportamento dos preços Criação O Globo Foi a primeira deflação em Alimentação e bebidas desde novembro do ano passado. Soma-se a isso a retração de 0,48% nos combustíveis. O diesel e a gasolina haviam disparado em março e abril, quando os preços do petróleo escalaram no mercado internacional por causa do conflito no Oriente Médio. Além disso, a produção de alguns alimentos vinha sofrendo com o clima. Combustível: Suspensão de exportação do diesel russo vai elevar preço para importador brasileiro O IBGE atribuiu as quedas nos preços em junho às altas nos meses anteriores. No primeiro semestre, a gasolina foi o item que mais pressionou a inflação, com avanço acumulado de 6,37%. Tomate, carnes e refeição fora de casa também estão entre os que mais subiram. — A oferta de alguns alimentos estava reduzida, e também percebemos um impacto do preço dos combustíveis no frete. Agora, a maior oferta de alguns itens e a tendência de redução dos combustíveis contribuíram para aliviar o bolso — explicou Fernando Gonçalves, gerente do IPCA. A redução nos alimentos também ajudou a conter os preços dos serviços, que tiveram variação de 0,4% em maio e de 0,34% em junho, com o custo da refeição fora — seja lanche ou almoço em bares, ou restaurantes — recuando de 0,49% para 0,15%. Só o ramo da refeição responde por 16% da inflação de serviços. Unimed Ferj tem recuperação extrajudicial suspensa: o que muda para o usuário? Veja perguntas e respostas A perda de fôlego no preço da refeição amorteceu altas mais intensas de outros serviços, como os de passagem aérea, que passou de uma alta de 3,2% para 7%; de aluguel residencial (de 0,23% em maio para 0,45% em junho); e de transporte por aplicativo, que subiu de 0,56% para 1,8% no mesmo período. Alimentação surpreende Para Basiliki Litvac, economista especialista em inflação da XP, a surpresa com o resultado do IPCA veio por fatores que não estavam totalmente incorporados às projeções. Entre eles, os recuos inesperados nos preços de alimentos in natura e de carnes, além de uma leitura mais favorável dos serviços. Move Brasil: início de linha de crédito para mototaxistas e entregadores é adiada para 27 de julho Luciana Rabelo, economista do Itaú Unibanco, também percebeu uma composição melhor da inflação, principalmente dos serviços mais ligados à demanda, como alimentação fora do domicílio, aluguel, condomínio e diversos serviços pessoais. Esse grupo costuma ser acompanhado de perto pelo BC por refletir melhor a tendência da inflação. — As próximas divulgações devem seguir mostrando melhora dos núcleos (índice que exclui os itens mais voláteis), apoiados pela desaceleração dos preços de bens industriais e alimentos, em função da estabilização dos preços de petróleo. Esse conjunto reforça o cenário de mais um corte de 0,25 ponto percentual na próxima reunião do Copom, ainda que parte da surpresa venha de componentes mais voláteis — disse Luciana. A alimentação no domicílio, que reúne os produtos consumidos dentro de casa, recuou 0,39%, revertendo a alta de 1,65% de maio. Incerteza: Bancos privados resistem a fechar operação para salvar BRB, que avalia recorrer novamente ao STF A conta de luz, que está com bandeira amarela, continuou pressionando a inflação em junho, mas com menos força do que no mês anterior. A energia elétrica residencial desacelerou de uma alta de 3,67% em maio para 1,53% em junho. Foram aplicados reajustes por distribuidoras em Porto Alegre, Curitiba e Belo Horizonte e retomado um aumento nas tarifas de uma concessionária do Rio. Em agosto, a entrada do bônus de Itaipu nas contas de luz deve segurar os preços de energia. Já os alimentos podem voltar a pressionar o índice diante das chances de formação do El Niño no segundo semestre, que pode ser o mais intenso em 75 anos, segundo o Centro de Previsão Climática da Administração Nacional Oceânica e Atmosférica dos Estados Unidos (NOAA, na sigla em inglês). Maior inflação em 4 anos No ano, o IPCA acumula alta de 3,36%, o maior índice desde 2022. Nos últimos 12 meses, está em 4,64%, acima do teto da meta de inflação do BC, de 4,5%. Pizzani manteve a projeção de 4,7% para o IPCA em 2026. Ele diz que ainda não incorporou possíveis efeitos do El Niño à estimativa, mas monitora o evento. \"A maior oferta de alguns itens (alimentação) e a tendência de redução dos combustíveis contribuíram para aliviar o bolso” - Fernando Gonçalves, gerente do IPCA no IBGE Os economistas também acompanham uma possível aceleração dos preços dos bens industriais, que podem ficar mais caros caso o cenário externo pressione mais os custos de produção e importação. Outro ponto de atenção é a inflação de serviços como restaurantes, salões de beleza e outros intensivos em mão de obra. Se continuarem a subir, podem contaminar o restante do grupo e dificultar a convergência da inflação para a meta, diz Pizzani. Basiliki, da XP, avalia que, embora o IPCA de junho fortaleça a expectativa de um corte da Selic em agosto e os próximos dados ainda devam refletir alívio nos preços de alimentos e combustíveis, é cedo para concluir que a desaceleração dos preços está consolidada: — Temos alguns riscos de pressão de custos que podem ser repassados por produtos e distribuídos ao longo da cadeia. Há ainda um mercado de trabalho aquecido, com serviços intensivos em mão de obra subindo acima do centro da meta de inflação.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/07/11/recuo-da-inflacao-reforca-avaliacao-de-que-o-bc-pode-voltar-a-cortar-os-juros-na-proxima-reuniao-do-copom.ghtml",
+      "published": "2026-07-11T03:00:12+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
           "field": "body",
           "score": 2,
           "topic": null
