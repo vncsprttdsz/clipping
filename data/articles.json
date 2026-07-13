@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T10:48:42.029885+00:00",
+  "generated_at": "2026-07-13T11:51:55.294002+00:00",
   "count": 311,
-  "new_this_run": 6,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "EXCLUSIVO: EMS terá “clone” da caneta emagrecedora Ozivy e lançará uma segunda marca de semaglutida",
@@ -691,6 +691,52 @@
         }
       ],
       "score": 60.0
+    },
+    {
+      "title": "Implante de Ozempic abre nova frente na disputa bilionária contra a obesidade",
+      "summary": "Parceria entre Novo Nordisk e Vivani Medical busca reduzir o custo do tratamento e ampliar o acesso aos medicamentos para perda de peso",
+      "url": "https://veja.abril.com.br/economia/implante-de-ozempic-abre-nova-frente-na-disputa-bilionaria-contra-a-obesidade",
+      "published": "2026-07-13T10:42:59+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "novo nordisk",
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 56.0
     },
     {
       "title": "Airbnb movimenta R$ 113 bilhões na economia brasileira com avanço do turismo, diz FGV",
@@ -2914,29 +2960,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "Polícia apreende 124 ampolas de Tirzepatida na Bahia - G1",
-      "summary": "Polícia apreende 124 ampolas de Tirzepatida na Bahia &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/ba/bahia/videos-jornal-da-manha/video/policia-apreende-124-ampolas-de-tirzepatida-na-bahia-14755587.ghtml",
-      "published": "2026-07-06T10:58:56+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Mais de 100 canetas emagrecedoras são apreendidas no sudoeste da BA - G1",
