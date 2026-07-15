@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-15T09:35:16.809086+00:00",
-  "count": 296,
-  "new_this_run": 2,
+  "generated_at": "2026-07-15T10:39:53.674233+00:00",
+  "count": 300,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Dona do Ozempic perde duas rodadas contra caneta emagrecedora brasileira",
@@ -305,6 +305,54 @@
         }
       ],
       "score": 88.0
+    },
+    {
+      "title": "Quem deve surpreender nos balanços do 2T26? Itaú BBA destaca SmartFit (SMFT3) e Grupo SBF (SBFG3) - Estadão",
+      "summary": "Quem deve surpreender nos balanços do 2T26? Itaú BBA destaca SmartFit (SMFT3) e Grupo SBF (SBFG3) &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/quem-deve-surpreender-nos-balancos-do-2t26-itau-bba-destaca-smartfit-smft3-e-grupo-sbf-sbfg3",
+      "published": "2026-07-14T18:19:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Academias",
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "grupo sbf",
+        "sbf",
+        "smartfit",
+        "smft3"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "smartfit",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smft3",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
     },
     {
       "title": "Shopee, TikTok e Lazada levam Amazon a rever estratégia em Cingapura",
@@ -768,6 +816,45 @@
         {
           "sector": "Farmácias",
           "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Cartier-owner Richemont's sales beat boosts luxury sector as jewellery shines - Reuters",
+      "summary": "Cartier-owner Richemont's sales beat boosts luxury sector as jewellery shines &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/cartier-owner-richemonts-q1-sales-beat-forecasts-2026-07-15",
+      "published": "2026-07-15T05:40:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Joias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "cartier",
+        "richemont"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "cartier",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "richemont",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "cartier",
           "field": "title",
           "score": 20,
           "topic": null
@@ -2868,6 +2955,37 @@
       "score": 28.0
     },
     {
+      "title": "Em Grasse, Boticário lança estratégia para falar sobre perfumes",
+      "summary": "Poucos consumidores sabem, mas boa parte da história dos perfumes que encontram nas lojas do Boticário começa a cerca de 9 mil km do Brasil, em Grasse, no sul da França. Considerada o berço da perfumaria moderna, foi ali que a marca lançou, na semana passada, o Clube da Perfumaria. A iniciativa tem por objetivo aproximar o público do universo das fragrâncias e faz parte da estratégia da empresa de ampliar os investimentos em pesquisa, inovação e desenvolvimento de perfumes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/07/15/em-grasse-boticario-lanca-estrategia-para-falar-sobre-perfumes.ghtml",
+      "published": "2026-07-15T09:50:09+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário",
+        "perfumaria"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "perfumaria",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Citi avalia a TotalPass em R$ 1,7 bi, quase 15% da Smart Fit",
       "summary": "A TotalPass está ganhando peso na tese de investimento da Smart Fit, deixando de ser vista como um dos motores de crescimento para impulsionar também a rentabilidade da empresa. Após reuniões com a administração durante a conferência de ações do Citi, o banco elevou o preço-alvo da companhia de R$ 32 para R$ 34 e reiterou recomendação de compra, citando a evolução da plataforma de benefícios corporativos. Kikos compra GuruPass de olho em tecnologia Irmãos querem fazer da Goper a Peloton brasileira — sem os erros Os analistas estimam que a receita da plataforma tenha crescido cerca de 120% em 2025 e projetam expansão de aproximadamente 80% em 2026, 40% em 2027 e 30% em 2028. Com isso, revisaram a avaliação da TotalPass para R$ 1,7 bilhão, equivalente a cerca de 14% do valor de mercado atual da Smart Fit. TotalPass ganha relevância nos números da Smart Fite Divulgação/Site A plataforma, que compõe a linha de \"outras receitas\", ajudou a elevar a margem bruta desse segmento para cerca de 86% no primeiro trimestre, e o Citi espera nova melhora à medida que a companhia aumenta seu poder de negociação com academias parceiras. Por meio da contratação pelas empresas, os usuários podem acessar uma rede extensa de academias e studios de diferentes modalidades. Cade aperta Wellhub para alívio da concorrência Wellhub tem novo chefe no Brasil e mira 10 milhões de usuários Para o segundo trimestre, o banco prevê crescimento de 25% da receita da Smart Fit, Ebitda cerca de 2,5% acima do consenso e lucro líquido aproximadamente 10% superior às estimativas do mercado. A companhia divulga os resultados do período em 5 de agosto. Negociada a 9x o lucro projetado para 2027, a ação é uma das preferidas do Citi em varejo. A TotalPass é o segundo maior negócio de benefício corporativo de academias do país, com pouco mais de quatro milhões de usuários, atrás apenas da Wellhub, com cerca de oito milhões, segundo a SensorTower. A TotalPass foi criada em 2016, como iniciativa interna da Smart Fit, mas só em 2019 ganhou estrutura própria e avançou para outras redes. Já o Wellhub nasceu como Gympass em 2012 e hoje tem atuação global - em sua última rodada, em 2023, foi avaliado em US$ 2,4 bilhões.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/citi-avalia-a-totalpass-em-r-17-bi-quase-15percent-da-smart-fit.ghtml",
@@ -2945,29 +3063,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "Tesco explores sale of European business",
-      "summary": "Disposal would refocus UK’s biggest grocer on home market and end decades-long attempt to build major global operation",
-      "url": "https://www.ft.com/content/0f3ba8c7-eb96-4c18-a274-b8f8609b8f0c",
-      "published": "2026-07-08T09:49:24+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "tesco"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "tesco",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Tesco exploring sale of Central Europe operations, FT reports - Reuters",
@@ -5891,6 +5986,29 @@
       "score": 20.0
     },
     {
+      "title": "Mercado Pago, MODO y bancos pelean por el pago QR, pero quién está ganando - iProUP",
+      "summary": "Mercado Pago, MODO y bancos pelean por el pago QR, pero quién está ganando &nbsp;&nbsp; iProUP",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUIwcUFGUnQ0elYzSEpVcmRhOXExRFM5RDBTSTBvM3NjY3p2NUtucFhsM3hFeE1LeWtHcW5XdWN0alN2WEFLeTl6SHM2b3RHTEZRUjRXVFlWbFlkMkZRRVlSWXhKQVBZbzV1SFQ1ckxQYXB1cHZFclZnODNnYW5ILVpSeGFqOFFnR0QzVDUxY0hfUWpDMVQ1UE1vR1RDeFQxODQ0ekNtQXBpMmlTczNz0gG0AUFVX3lxTE9XYXVPUGlobWh3SEFMcjlXeXM4bVJuUWlhZ0paT3BzZ1pLOGF4dDlYTXgzcTUzaFd3LTNkaXNGeklETzNleGJhaFdsWjIteDg2NERFRVJ0SUY4NjFEZlFMcG1namp1cXplcDQ2QkhWNElIWm9hOS1DSjZsS0FOLWw2R1ZpQ3VnNkthTXd3ajdLWTJDX3dQUjN5TUtLOUJuVEFFZUZtQV92V2JYbFdud0Q1VGNrdg?oc=5",
+      "published": "2026-07-14T08:57:07+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Cabreúva: o mega CD que vai colocar a Renner “sete anos à frente da concorrência” - Brazil Journal",
       "summary": "Cabreúva: o mega CD que vai colocar a Renner “sete anos à frente da concorrência” &nbsp;&nbsp; Brazil Journal",
       "url": "https://braziljournal.com/cabreuva-o-mega-cd-que-vai-colocar-a-renner-sete-anos-a-frente-da-concorrencia",
@@ -6343,6 +6461,52 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "McKinsey Talks: Marketing como motor de crescimento, com a CMO do Grupo Boticário - Brazil Journal",
+      "summary": "McKinsey Talks: Marketing como motor de crescimento, com a CMO do Grupo Boticário &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/play/mckinsey-talks-marketing-como-motor-de-crescimento-com-a-cmo-do-grupo-boticario",
+      "published": "2026-07-15T09:55:39+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "STJ pauta repetitivos sobre PIS/Cofins na ZFM, salário-educação e Difal de ICMS",
+      "summary": "Será a primeira reunião do colegiado voltada a repetitivos após o recesso do Judiciário",
+      "url": "https://www.jota.info/tributos/stj-pauta-repetitivos-sobre-pis-cofins-na-zfm-salario-educacao-e-difal-de-icms",
+      "published": "2026-07-15T10:02:13+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "difal"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "difal",
           "field": "title",
           "score": 20,
           "topic": null
@@ -7567,29 +7731,6 @@
         }
       ],
       "score": 6.0
-    },
-    {
-      "title": "Após saída do Brasil, cresce o interesse sobre Copa Feminina",
-      "summary": "Com orçamento previsto de US$ 800 milhões, segundo a Fifa, oito cidades-sede e 14 seleções já classificadas, a Copa do Mundo Feminina de 2027 já começa a ganhar peso na agenda esportiva do Brasil. O torneio, que será realizado de 24 de junho a 25 de julho do ano que vem, passou a registrar alta nas buscas feitas na internet após a eliminação do Brasil pela Noruega nas oitavas de final da Copa de 2026, no domingo (5). De acordo com dados do Google Trends, as buscas por “Copa do Mundo Feminina 2027” cresceram 350% nos últimos 30 dias no Brasil. No domingo, a ferramenta registrou o chamado “aumento repentino” — classificação técnica acionada quando a alta de buscas é igual ou superior a 5.000%. Em relação ao sábado (4), o volume de pesquisas quase dobrou, com avanço de 70%. A Copa Feminina de 2027 será a primeira realizada na América do Sul e a décima edição do torneio. Serão 32 seleções, 64 partidas e jogos em Belo Horizonte, Brasília, Fortaleza, Porto Alegre, Recife, Rio de Janeiro, Salvador e São Paulo. A partida de abertura está marcada para 24 de junho. Até agora, 14 das 32 vagas já foram preenchidas. Além do Brasil, classificado como país-sede, estão garantidas Argentina, Austrália, China, Colômbia, Coreia do Norte, Coreia do Sul, Dinamarca, Espanha, Filipinas, França, Alemanha, Japão e Nova Zelândia. A Fifa informou que o sorteio final das partidas ocorrerá ainda este ano. A competição chega ao Brasil em um momento em que a Fifa tenta ampliar o valor comercial do futebol feminino. A edição de 2023, disputada na Austrália e na Nova Zelândia, teve quase 2 milhões de torcedores nos estádios e alcançou mais de 2 bilhões de pessoas pela TV, plataformas digitais e redes sociais, segundo a entidade. A partir de 2031, a Copa Feminina será ampliada de 32 para 48 seleções. Na frente comercial, a Copa de 2027 conta com ao menos 14 marcas confirmadas pela Fifa. Na cota de patrocinadores aparecem a Lay’s, marca de salgadinhos da PepsiCo; a chinesa Mengniu; e a Unilever, por meio das marcas de produtos de higiene pessoal Dove e Rexona. Entre os apoiadores estão Airbnb, DoorDash, Globant, Valvoline e Verizon, com direitos regionais ou vinculados a mercados específicos. A competição também se apoia no portfólio de parceiros globais da Fifa, que inclui Aramco, Adidas, Coca-Cola, Hyundai/Kia, Lenovo e Qatar Airways. Em relação à transmissão, Globo e CazéTV serão as plataformas oficiais da competição no Brasil. A TV Globo exibirá 56 partidas na TV aberta, enquanto o sportv terá todos os 64 jogos na TV paga. A CazéTV transmitirá a íntegra do torneio em plataformas digitais. Dentro de campo, o Brasil será comandado por Arthur Elias, técnico da seleção feminina desde 2023 e campeão pelo Corinthians. A jogadora Marta, aos 40 anos, segue nos planos da comissão técnica e pode disputar no país sua última Copa do Mundo. A seleção busca um título inédito; sua melhor campanha foi o vice-campeonato de 2007, na China, quando perdeu a final para a Alemanha.",
-      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/07/08/apos-saida-do-brasil-cresce-o-interesse-sobre-copa-feminina.ghtml",
-      "published": "2026-07-08T09:51:09+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "doordash"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "doordash",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
     },
     {
       "title": "Estoques de petróleo dos EUA registram alta inesperada na semana de 3 de julho",
