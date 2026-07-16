@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T09:41:54.738271+00:00",
-  "count": 322,
-  "new_this_run": 5,
+  "generated_at": "2026-07-16T10:41:12.435041+00:00",
+  "count": 324,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Dona do Ozempic perde duas rodadas contra caneta emagrecedora brasileira",
@@ -1558,6 +1558,45 @@
       "score": 60.0
     },
     {
+      "title": "A reforma tributária que já chegou: CBS, IBS e as respostas que o mercado precisa ouvir",
+      "summary": "A reforma tributária não é promessa: é realidade em curso. A EC 132/2023, as Leis Complementares 214 e 227/2025 e o Regulamento conjunto do Comitê Gestor do IBS (CGIBS) e da Receita Federal estruturam o novo sistema CBS/IBS. Não faltam dúvidas -falta, muitas vezes, disposição para ouvir as respostas certas. O que se segue é uma síntese das principais questões do mercado, com análise técnica e sem alarmismo. A base é o texto constitucional e a realidade operacional -não a especulação. Leia mais (07/16/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/a-reforma-tributaria-que-ja-chegou-cbs-ibs-e-as-respostas-que-o-mercado-precisa-ouvir.shtml",
+      "published": "2026-07-16T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Implante de Ozempic abre nova frente na disputa bilionária contra a obesidade",
       "summary": "Parceria entre Novo Nordisk e Vivani Medical busca reduzir o custo do tratamento e ampliar o acesso aos medicamentos para perda de peso",
       "url": "https://veja.abril.com.br/economia/implante-de-ozempic-abre-nova-frente-na-disputa-bilionaria-contra-a-obesidade",
@@ -2009,6 +2048,45 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Dois terços das notas fiscais têm falhas que podem comprometer crédito de IBS e CBS, aponta estudo",
+      "summary": "Um total de 66,2% de 6,4 milhões de notas fiscais processadas por 87 grandes empresas de diversas áreas apresentaram inconsistências que podem comprometer o aproveitamento de créditos de IBS (Imposto sobre Bens e Serviços) e CBS (Contribuição sobre Bens e Serviços), novos tributos criados pela reforma tributária . Leia mais (07/16/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/dois-tercos-das-notas-fiscais-tem-falhas-que-podem-comprometer-credito-de-ibs-e-cbs-aponta-estudo.shtml",
+      "published": "2026-07-16T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 48.0
@@ -3001,6 +3079,37 @@
         {
           "sector": "Global Consumer",
           "alias": "99 food",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "O mercado só vê o GLP-1 – a Panvel quer mostrar que é mais do que isso - Brazil Journal",
+      "summary": "O mercado só vê o GLP-1 – a Panvel quer mostrar que é mais do que isso &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/o-mercado-so-ve-o-glp-1-a-panvel-quer-mostrar-que-e-mais-do-que-isso",
+      "published": "2026-07-16T09:50:19+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "glp-1",
+        "panvel"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "panvel",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
           "field": "title",
           "score": 20,
           "topic": null
@@ -4175,29 +4284,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "Hugo Boss urges shareholders to reject Frasers’ €2.7bn takeover bid",
-      "summary": "German fashion group says offer from its largest shareholder is ‘inadequate’",
-      "url": "https://www.ft.com/content/15deb8fe-2561-441a-a316-63a80439d8db",
-      "published": "2026-07-09T09:45:39+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "hugo boss"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "hugo boss",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Conselho da Hugo Boss recomenda rejeição à oferta de € 2 bilhões da Frasers - Bloomberg Línea Brasil",
@@ -7581,6 +7667,29 @@
       "score": 20.0
     },
     {
+      "title": "Gold eases as Middle East tensions revive inflation concerns - Reuters",
+      "summary": "Gold eases as Middle East tensions revive inflation concerns &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/gold-falls-mideast-escalation-dims-hopes-easing-inflation-2026-07-16",
+      "published": "2026-07-16T10:07:45+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Qual é a diferença entre uma lata de atum em água e em óleo nas receitas? E qual é a versão mais saudável?",
       "summary": "À primeira vista, a lata de atum em água e a de atum em óleo parecem semelhantes. As duas contêm o mesmo ingrediente, mas foram conservadas em líquidos diferentes. Para entender por que isso acontece e qual delas vale mais a pena comprar, confira a seguir. Saiba mais: 6 dicas simples de psicólogos para turbinar relacionamentos mais longos Mounjaro: Anvisa determina apreensão de lotes falsificados do medicamento O atum enlatado é uma das formas mais econômicas e acessíveis de consumir peixe, um alimento importante na alimentação por ser fonte de ômega-3 e antioxidantes. Em comparação com o peixe fresco comprado na peixaria, o atum em lata pode apresentar diferenças na textura e até no sabor, já que é um produto mais concentrado. Qual é a diferença entre o atum em água e o atum em óleo? Além da diferença de textura, o atum conservado em água tem um sabor mais natural, sem a interferência de outro ingrediente. Seu gosto é mais leve e neutro, o que o torna uma boa opção para saladas, molhos ou preparações combinadas com outros alimentos, como ovos e sanduíches. Já o atum conservado em óleo tem sabor mais intenso e textura mais macia. O óleo ajuda a manter a umidade do peixe e pode conferir mais cremosidade e corpo às receitas. Essa versão é ideal para recheios e pratos com massas. Quando escolher cada tipo de atum? Se a receita já leva gordura, molho ou ingredientes cremosos, a recomendação é optar pelo atum em água. Assim, não é necessário acrescentar mais óleo à preparação, evitando que o sabor final fique muito carregado. Ele pode ser usado em hambúrgueres, ensopados, vitel toné, wraps, tomates recheados, ovos recheados e empadas. Limão, cebola e mostarda são ingredientes que ajudam a realçar seu sabor. Por sua vez, o atum em óleo é uma excelente escolha para bruschettas, batatas, grão-de-bico, torradas, saladas frescas e pizzas. Nessas preparações, o peixe ganha mais destaque e oferece suculência sem a necessidade de adicionar molhos. Atum em água x atum em óleo: qual é a melhor versão O atum em água é melhor se você busca controle de calorias e perda de peso, pois tem menos gordura e calorias. O atum em óleo é mais rico em ômega-3 e vitamina D (já que parte dos nutrientes passa para o óleo), mas exige que você escorra bem o excesso para evitar calorias extras. Ambos mantêm a qualidade proteica do peixe in natura. A escolha depende dos objetivos: Atum em água (ao natural): Ideal para dietas de emagrecimento. Geralmente possui menos calorias (cerca de 80 kcal por porção). Atum em óleo: Mais saboroso e suculento. Se o óleo for de oliva ou girassol, traz gorduras boas, mas atinge cerca de 105 kcal por porção",
       "url": "https://oglobo.globo.com/saude/noticia/2026/07/11/qual-e-a-diferenca-entre-uma-lata-de-atum-em-agua-e-em-oleo-nas-receitas-e-qual-e-a-versao-mais-saudavel.ghtml",
@@ -8299,29 +8408,6 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Indústria quer 'imposto do pecado' igual ao IPI por 2 anos; Fazenda sinalizou aceitar a metade",
-      "summary": "A CNI (Confederação Nacional da Indústria ) pediu ao ministro da Fazenda, Dario Durigan , a manutenção por dois anos da carga tributária do atual IPI (Imposto sobre Produtos Industrializados) como parâmetro para a arrecadação do novo IS (Imposto Seletivo). Leia mais (07/13/2026 - 23h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/industria-quer-imposto-do-pecado-igual-ao-ipi-por-2-anos-fazenda-sinalizou-aceitar-a-metade.shtml",
-      "published": "2026-07-14T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "imposto seletivo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "imposto seletivo",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 8.0
