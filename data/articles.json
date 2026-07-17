@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-17T08:44:12.029714+00:00",
-  "count": 341,
-  "new_this_run": 8,
+  "generated_at": "2026-07-17T09:31:31.091837+00:00",
+  "count": 342,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Dona do Ozempic perde duas rodadas contra caneta emagrecedora brasileira",
@@ -8027,6 +8027,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fim de ‘taxa das blusinhas’ dobra compras em sites ‘gringos’ da noite para o dia",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/07/fim-de-taxa-das-blusinhas-dobra-compras-em-sites-gringos-da-noite-para-o-dia.ghtml",
+      "published": "2026-07-17T09:00:22+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
           "field": "title",
           "score": 20,
           "topic": null
