@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-18T10:21:30.006867+00:00",
-  "count": 351,
-  "new_this_run": 26,
+  "generated_at": "2026-07-18T10:50:09.999822+00:00",
+  "count": 352,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Assaí abre farmácia com venda de canetas emagrecedoras e potencial para atingir 250 lojas",
@@ -3018,6 +3018,37 @@
       "score": 40.0
     },
     {
+      "title": "Governo e Comitê Gestor estudam adiar obrigação de destaque de IBS/CBS",
+      "summary": "Empresas temem que sistema inviabilize emissão de notas fora do novo padrão; tendência é que contribuintes tenham mais um mês para adaptação",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/governo-e-comite-gestor-estudam-adiar-obrigacao-de-destaque-de-ibs-cbs",
+      "published": "2026-07-18T10:28:18+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Richemont sales surge on booming jewellery demand",
       "summary": "Cartier owner outperforms peers with consecutive quarters of double-digit growth",
       "url": "https://www.ft.com/content/ebc04867-1411-4b1b-a71b-60b13e212658",
@@ -5676,29 +5707,6 @@
       "score": 20.0
     },
     {
-      "title": "Omie e Nuvemshop lançam calculadora da Reforma Tributária",
-      "summary": "A Omie, sistema de gestão (ERP) para PMEs, apresenta calculadora de projeção do impacto da Reforma Tributária voltada especificamente para o comércio eletrônico. Desenvolvida pela Nuvemshop, plataforma de e-commerce, em parceria com a Omie, a ferramenta responde à incerteza de como as mudanças tributárias afetarão cada negócio. Por meio do preenchimento de dados básicos, como segmento de atuação, faturamento e regime tributário, a calculadora apresentará uma apuração estimada de quanto o negócio paga de impostos antes e quanto pagará após a reforma tributária. Isso gera uma variação positiva ou negativa, considerando uma eficiência de crédito de acordo com o segmento de atuação e regime tributário. O motor de cálculo é baseado nas alíquotas fixas estimadas e foi desenvolvido com o suporte técnico da equipe especialista em Reforma Tributária da Omie. Para contadores, a calculadora é uma ferramenta de apoio que ajuda a iniciar conversas relevantes com os clientes sobre os possíveis impactos tributários. Seu objetivo é fornecer uma visão preliminar que estimule análises mais detalhadas, auxiliando no planejamento tributário e na preparação para as mudanças previstas no novo sistema. A iniciativa une a expertise em e-commerce da Nuvemshop à autoridade da Omie em gestão fiscal e contábil para PMEs. O público prioritário são empreendedores dos segmentos de moda, beleza e casa e decoração com faturamento acima de R$ 20 mil mensais, além de contadores que assessoram esse perfil de cliente. A Reforma Tributária já é realidade no Brasil. Para os negócios que operam no ambiente digital, antecipar seus efeitos é condição para manter a competitividade.",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/07/14/omie-e-nuvemshop-lancam-calculadora-da-reforma-tributaria-1.ghtml",
-      "published": "2026-07-14T21:22:33+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "iFood confirma vazamento de dados de 1,2 milhão de usuários do aplicativo - Estadão",
       "summary": "iFood confirma vazamento de dados de 1,2 milhão de usuários do aplicativo &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/em-alta/economia/ifood-confirma-vazamento-dados-1-2-milhao-usuarios-aplicativo-npr",
@@ -8179,6 +8187,37 @@
         {
           "sector": "Global Consumer",
           "alias": "eli lilly",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "Rise of delivery apps takes a bite out of sales for Big Pizza",
+      "summary": "Large corporate chains lose their edge as services such as DoorDash and Uber Eats level the playing field",
+      "url": "https://www.ft.com/content/d10e846e-5615-4cb5-bd4f-b159423d4f75",
+      "published": "2026-07-18T10:00:02+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "doordash",
+        "uber eats"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "doordash",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "uber eats",
           "field": "lead",
           "score": 8,
           "topic": null
