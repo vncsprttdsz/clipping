@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-19T09:30:54.135725+00:00",
-  "count": 349,
+  "generated_at": "2026-07-19T10:20:48.647725+00:00",
+  "count": 350,
   "new_this_run": 1,
   "articles": [
     {
@@ -9394,6 +9394,29 @@
         {
           "sector": "E-commerce",
           "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Inside America’s Most Generous 401(k) Plans",
+      "summary": "Not all 401(k) plans are created equal. Some employers across the U.S., like Costco, offer better-than-usual retirement benefits.",
+      "url": "https://www.wsj.com/personal-finance/retirement/i401k-plans-retirement-employers-60b1dd1a?mod=rss_markets_main",
+      "published": "2026-07-19T09:30:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "costco"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "costco",
           "field": "lead",
           "score": 8,
           "topic": null
