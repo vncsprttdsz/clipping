@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-19T07:00:56.102920+00:00",
-  "count": 346,
-  "new_this_run": 7,
+  "generated_at": "2026-07-19T08:52:13.516738+00:00",
+  "count": 348,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "Assaí abre farmácia com venda de canetas emagrecedoras e potencial para atingir 250 lojas",
@@ -1450,6 +1450,45 @@
         {
           "sector": "Global Consumer",
           "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa reduz vistorias em farmácias que manipulam canetas emagrecedoras após prometer rigor - Folha de S.Paulo",
+      "summary": "Anvisa reduz vistorias em farmácias que manipulam canetas emagrecedoras após prometer rigor &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/07/anvisa-reduz-vistorias-em-farmacias-que-manipulam-canetas-emagrecedoras-apos-prometer-rigor.shtml",
+      "published": "2026-07-19T07:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -9317,6 +9356,29 @@
       "score": 8.0
     },
     {
+      "title": "Conheça o brasileiro que quer espalhar ‘encomendas voadoras’ pelo mundo: ‘O drone é um aplicativo do mundo físico’",
+      "summary": "A logística do futuro já está no ar, e o próximo passo para consolidar o transporte autônomo de cargas por drones é desbravar o mercado dos EUA e, dessa forma, chegar a muitos outros países. É o que diz, em entrevista ao GLOBO, André Stein, presidente da Speedbird Aero para as Américas. Para o executivo da empresa brasileira que já opera esses aparelhos em 14 países, será possível escalar de forma rentável e segura a entrega de medicamentos, insumos industriais e encomendas do comércio eletrônico antes mesmo da popularização dos chamados “carros voadores” para passageiros. Chateado com a eliminação da Seleção na Copa? Brasil agora vai buscar título 'olímpico' no futebol de robôs humanoides Empresa de táxi-aéreo já traça rotas de ‘carros voadores’ em SP: quando novo transporte vai virar realidade? Stein conhece bem esse mercado: liderou a estruturação da Eve Air Mobility, subsidiária da Embraer que desenvolve aeronaves elétricas de pouso e decolagem vertical (eVTOLs) e é listada na Bolsa de Nova York. Agora, o novo desafio do brasileiro, um dos executivos mais atuantes na atual corrida tecnológica global da aviação, é consolidar o negócio de entregas aéreas autônomas. Drone da Speedbird em teste em Nova York, nos Estados Unidos Divulgação/Speedbird A Speedbird tem no Brasil licença da Agência Nacional de Aviação Civil (Anac) para operar comercialmente drones de carga. Com mais de 40 mil voos em vários países, a estratégia da empresa é usar a experiência brasileira para obter um aval similar, mais amplo, da FAA, a autoridade americana dos ares. Com quase três décadas de experiência no setor aeroespacial — incluindo o desenvolvimento e certificação de jatos comerciais da Embraer —, Stein é um entusiasta do modelo “Drone as a Service” (DaaS), no qual a empresa oferece não só o veículo voador, mas o pacote completo de operação e software, isentando clientes (que precisam entregar algo) da responsabilidade com segurança e atualização constante da frota. Carro voador brasileiro? Veja como funciona novo veículo flutuante da Embraer Com sedes no Brasil e em Portugal, a Speebird tem Embraer e iFood entre os investidores e planeja uma nova rodada de captação para financiar sua expansão internacional e competir com grandes empresas que já atuam nessa área, como a gigante americana do e-commerce Amazon. Para Stein, o ponto de virada do setor ocorrerá muito em breve, quando a regulamentação amadurecida, a autonomia dos sistemas e o maior número de voos registrados se encontrarem, transformando os drones em uma infraestrutura urbana invisível e essencial. Você construiu sua carreira focado no transporte de passageiros, desde a certificação dos jatos comerciais na Embraer até os eVTOLs na Eve. O que motivou essa mudança para a logística não tripulada? A mobilidade aérea urbana para passageiros e a logística não tripulada caminham juntas. A necessidade de levar pessoas e bens dentro de um ambiente urbano complexo existe para todos. A proposta é resolver esse problema com automação e eletrificação, criando soluções sustentáveis e economicamente viáveis. É natural que essa operação aconteça primeiro com o drone, que é menor. E isso já é uma realidade. O drone é como um aplicativo do mundo físico: você aplica a tecnologia para resolver qualquer necessidade de ir de um ponto A para o B de maneira simples, integrada e barata, seja para entregar uma refeição ou um suprimento hospitalar urgente. Exportar tecnologia aeroespacial brasileira é algo que você conhece bem, mas exportar operação logística autônoma é um território novo. Qual é o maior trunfo tecnológico e operacional que a Speedbird leva do Brasil para competir nas Américas? Não é só a tecnologia que nos diferencia, mas o ambiente em que operamos. Hoje, estamos presentes em 14 países, e o nosso trunfo no Brasil baseia-se em três pilares. Primeiro, temos o privilégio de atuar sob um ambiente regulatório sério e extremamente respeitado globalmente, com a Anac e o Decea. O que você aprova aqui, consegue validar lá fora. Segundo, a disponibilidade de mão de obra altamente qualificada no setor aeroespacial brasileiro. E terceiro, a necessidade do nosso mercado. Existe aquela premissa: \"se você consegue fazer funcionar aqui, funciona em qualquer lugar\". A complexidade de operar rotas em São Paulo nos prepara de forma muito robusta para resolver problemas similares no exterior. Drone da Speedbird usado em operações do iFood em Aracaju Divulgação/Speedbird O foco agora está nos Estados Unidos, onde gigantes como Zipline, Amazon e Alphabet (Wing) já operam. Qual é o plano da Speedbird para ganhar tração nesse mercado tão disputado? Nós chegamos aos Estados Unidos com um nível de maturidade raro nessa indústria. Já realizamos mais de 40 mil rotas comerciais globalmente. Essa presença prévia em vários ambientes regulatórios nos dá uma bagagem empírica enorme. Além disso, não levamos apenas o drone; nosso software por trás da operação atingiu um alto grau de confiabilidade. Temos a capacidade de transportar mais carga do que a maioria dos competidores e contamos com parceiros globais sólidos, como o próprio iFood no Brasil e a Skyports na Europa, que operam nossos drones e estão entrando no mercado americano conosco. A empresa aposta no modelo Drone as a Service (DaaS), onde o cliente contrata a solução completa em vez de comprar a aeronave. A estratégia passa pela proteção do caixa da empresa e aceleração da adoção pelos grandes players do e-commerce? Nossos clientes são empresas que, em sua maioria, não operam aviação. Entregar uma solução completa, combinando hardware e software, facilita muito a vida delas e mitiga riscos. O cliente não precisa se preocupar se o equipamento vai ficar obsoleto ou se o sistema vai falhar. Para a Speedbird, compartilhar a operação — seja alugando o drone ou operando diretamente — cria uma fonte de receita recorrente e previsível. Esse modelo preserva o caixa do cliente, que não precisa desembolsar um alto valor de compra logo de cara, e garante a sustentabilidade financeira do negócio para nós. O presidente das Américas da Speedbird, André Stein Divulgação/Speedbird A FAA (agência americana) é notoriamente conservadora quanto à integração de novas tecnologias no espaço aéreo. Como a sua bagagem na certificação de aeronaves tradicionais ajuda a acelerar a liberação de voos comerciais de drones em larga escala nos EUA? Desde o início, o DNA da Speedbird foi tratar o órgão regulador como um parceiro, e não como um obstáculo a ser superado. Não é simplesmente amarrar uma encomenda num drone e sair voando para ver o que acontece. A minha experiência de 30 anos na aviação tradicional reforça justamente isso: é possível inovar e acelerar o desenvolvimento sem colocar a segurança em risco. No mundo das startups de tecnologia, fala-se muito em \"falhar rápido e quebrar coisas\", mas na aviação a segurança nunca pode ser quebrada. Nós levamos aos reguladores americanos a mesma seriedade e o histórico que aplicamos no Brasil. Nesse contexto, como garantir a segurança dessas operações autônomas em áreas de alta densidade e infraestrutura crítica sem estrangular o espaço aéreo urbano? A resposta passa por colaboração e uso de dados. Quando viemos para São Paulo, procuramos todos os operadores de helicópteros da região para explicar como a nossa aeronave certificada funcionava e para entender a operação deles. Em Nova York, por exemplo, nossos drones operam a partir de um dos heliportos mais movimentados do mundo. A filosofia é que a operação autônoma compartilhe o espaço com a aviação tripulada de forma transparente. O drone precisa ser colaborativo, comunicando sua posição o tempo todo, usando tecnologias de controle de tráfego adaptadas para manter a segurança do espaço aéreo. Com milhares de voos comerciais realizados em vários países, o que já se provou incontestavelmente viável na prática — entrega de medicamentos, alimentos, e-commerce pesado? Vemos três grandes segmentos viáveis que, na verdade, se complementam. O primeiro é a logística industrial, movimentando itens de alto valor em ambientes remotos ou complexos, como embarcações. O segundo é o setor médico, transportando amostras de sangue, equipamentos e órgãos. O terceiro é o de alto volume, focado em entregas para o consumidor final, como a alimentação. Todos eles dependem da escalabilidade. Quando conseguimos reduzir os custos na ponta do e-commerce devido ao alto volume das operações, ganhamos capilaridade para viabilizar mais missões médicas, colocando drones em locais onde hoje não há orçamento, por exemplo, para mandar um helicóptero de resgate. Olhando para o “last-mile” (o último trecho da entrega), o drone concorre diretamente com modais terrestres estabelecidos. Quando a conta vai fechar a ponto da entrega aérea se tornar mais barata e eficiente do que a de um entregador de moto ou van? No Brasil, a nossa beleza é que não estamos necessariamente substituindo o entregador terrestre, mas expandindo a capacidade de entrega para onde o modal rodoviário é ineficiente. Em São Paulo, um motoboy pode perder meia hora na portaria de um condomínio; em Aracaju, um braço de rio impõe uma volta de 40 quilômetros por terra. O drone resolve esses gargalos. A ideia é a complementação. A escolha do modal não se resume apenas a comparar diretamente o custo por quilômetro, mas a calcular a eficiência geral. Restaurantes que passaram a operar com nossos drones chegaram a aumentar o volume total de entregas em 50%. Você foi uma peça central na estruturação que levou a Eve à Bolsa de Nova York. Está nos seus planos preparar a Speedbird para um IPO a médio/longo prazo, ou a estratégia de capitalização da companhia hoje segue outra rota? A médio prazo, nosso foco é levantar uma nova rodada de investimentos (Série B). Estamos trabalhando nisso agora para financiar a nossa expansão e ocupar rapidamente o mercado norte-americano, aproveitando esse momento em que a regulamentação deles está amadurecendo. Uma abertura de capital (IPO) é uma saída possível no futuro, que obviamente tem seus prós e contras relativos à complexidade, mas não é o objetivo imediato para a rodada atual. Olhando para a próxima década, qual será a virada de chave regulatória ou tecnológica que tornará o drone uma infraestrutura urbana invisível, rotineira e essencial? Será a conjunção de três fatores. O primeiro é a regulamentação madura que, como disse, já está acontecendo. O segundo é a tecnologia e a autonomia dos sistemas; a grande virada ocorre quando um único operador passa a gerenciar simultaneamente vários drones, em vez de apenas um. Isso reduz drasticamente a carga de trabalho. O terceiro fator é a própria escala: o volume viabiliza a economicidade. Quando atingirmos esse ponto de equilíbrio, onde a alta automação encontra regras claras e uma demanda massiva, o custo por entrega despenca, e essa infraestrutura logística se torna essencial no dia a dia.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/07/19/conheca-o-brasileiro-que-quer-espalhar-encomendas-voadoras-pelo-mundo-o-drone-e-um-aplicativo-do-mundo-fisico.ghtml",
+      "published": "2026-07-19T07:00:08+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "O legado de liderança de Oscar Motomura",
       "summary": "É bem possível que muita gente nunca tenha ouvido falar de Oscar Motomura. Mas sua influência na formação de líderes e na gestão empresarial brasileira foi imensa. Oscar dedicou a vida a desenvolver pessoas que transformariam organizações. Em vez de buscar os holofotes, escolheu construir um legado por meio das ideias, da formação de líderes e da transformação silenciosa de empresas. Fundador da Amana-Key, foi um dos maiores pensadores brasileiros sobre liderança e gestão. Durante décadas, ajudou a formar milhares de executivos e levou ao Brasil uma visão de liderança baseada no desenvolvimento humano, no pensamento sistêmico e na ampliação da consciência dos líderes. Sua influência ultrapassou empresas e acabou moldando a cultura de muitas organizações brasileiras. Conversa de líder | Frederico Trajano: recrutamento por valores MBA da vida real: as cinco lições de Luiza Trajano Tive o privilégio de fazer o APG, programa pelo qual passaram praticamente todos os principais líderes do Magalu ao longo dos anos. Mais do que ensinar estratégia ou ferramentas de gestão, Oscar nos provocava a desenvolver algo muito mais difícil: a capacidade de enxergar melhor a realidade, fazer perguntas mais profundas e ampliar o nível de consciência como líderes. Sua influência também está presente na cultura do Magalu. Muitas das ideias que valorizamos, como desenvolvimento de pessoas, aprendizado contínuo, liderança com propósito, visão de longo prazo e responsabilidade com a sociedade, foram fortalecidas por seu pensamento. Motomura, ao lado de Luiza e Fred Trajano, num treinamento no Magalu Arquivo/Magalu Sempre achei que, se tivesse nascido nos Estados Unidos, Oscar seria lembrado ao lado de nomes como Peter Drucker, Peter Senge ou Jim Collins. Mas escolheu construir seu legado aqui, formando silenciosamente gerações de líderes que ajudaram a transformar empresas e pessoas. Alguns deixam um legado pelos livros que escrevem. Outros, pelas empresas que fundam. Oscar Motomura deixa o seu nas milhares de lideranças que ajudou a formar. Obrigado por tudo, Oscar. *Frederico Trajano é CEO do Magazine Luiza",
       "url": "https://pipelinevalor.globo.com/mercado/noticia/o-legado-de-lideranca-de-oscar-motomura.ghtml",
@@ -9346,29 +9408,6 @@
         }
       ],
       "score": 4.0
-    },
-    {
-      "title": "Crocantes e práticas: as frutas liofilizadas viram febre como snack fitness, mas é preciso moderação",
-      "summary": "O “croc croc” dos biscoitos e salgadinhos faz parte da memória afetiva de muita gente. Mas você já ouviu falar das frutas liofilizadas? Crocantes como chips, elas se tornaram o snack fitness do momento e prometem unir praticidade, sabor e uma alternativa mais natural aos lanches industrializados. A nova sensação do mundo fit faz sucesso nas redes sociais. Vídeos que mostram a textura crocante acumulam milhares de visualizações, enquanto influenciadores destacam a praticidade e os benefícios nutricionais do alimento. Mas será que as frutas liofilizadas são realmente uma opção mais saudável? De acordo com a nutricionista Priscilla Primi Hardt, embora a liofilização preserve a maior parte das vitaminas e minerais, a retirada da água altera suas características. Por isso, a especialista recomenda atenção às porções e à escolha de produtos sem ingredientes adicionados. — A fruta liofilizada pode ser uma alternativa prática quando não é possível consumir a fruta in natura. No entanto, como ela perde cerca de 90% da água, pequenas porções concentram muito mais açúcares e calorias do que a fruta fresca — explica Priscilla Primi. Como funciona A liofilização é um método de conservação em que o alimento é congelado e, em seguida, passa por um processo chamado sublimação — quando a água congelada é transformada diretamente em vapor, sem passar pelo estado líquido. De acordo com a nutricionista, essa técnica preserva cerca de 97% dos nutrientes da fruta, incluindo vitaminas, minerais e açúcares naturais, além de manter sua estrutura e sabor. A retirada da água também reduz a proliferação de micro-organismos, aumentando a vida útil do alimento. O processo é diferente da desidratação tradicional, usada em frutas como uva-passa, damasco seco, ameixa seca, banana-passa, manga, maçã e abacaxi desidratados. Nesse método, o calor é utilizado para extrair a água, o que altera mais a estrutura da fruta. Como a água é retirada por calor, em estufas ou secadores industriais (às vezes também ao sol, como acontece tradicionalmente com uvas e algumas ameixas), a fruta encolhe, fica molinha e até um pouco “borrachuda”, muda levemente de cor e de sabor e perde mais vitamina C e alguns outros nutrientes sensíveis às altas temperaturas. Embora tenha se tornado popular recentemente nas redes sociais, a liofilização não é uma técnica nova. O processo já era utilizado pela indústria alimentícia, principalmente para conservação de alimentos destinados à produção em larga escala. Na avaliação da especialista, a maior oferta de produtos importados pode ter contribuído para a popularização desse tipo de snack, especialmente entre consumidores interessados em alimentação saudável e no universo fitness. Mas nem toda fruta liofilizada pode ser consumida à vontade. A principal diferença em relação à fruta fresca está na quantidade de água. Como cerca de 80% a 90% do peso de muitas frutas é composto por água, sua retirada faz com que os açúcares naturais, as fibras e as calorias fiquem concentrados em um volume muito menor. Assim, uma porção pequena de fruta liofilizada equivale a uma quantidade muito maior da fruta fresca. Na prática, um punhado de fruta liofilizada pode equivaler a várias porções da fruta fresca— em muitos casos, chega a cerca de dez vezes o peso da versão in natura. No caso do morango, por exemplo, cerca de 25 g do produto liofilizado correspondem a aproximadamente 250 g da fruta fresca, ou seja, 2 xícaras de morangos, já que a maior parte do peso dele é água. Essa concentração explica por que é mais fácil exagerar na quantidade consumida desse snack. — Quando você consome a fruta fresca, também está ingerindo água. Já na fruta liofilizada, toda essa água foi retirada. Isso faz com que uma pequena quantidade já concentre muito mais calorias, carboidratos e frutose — explica a nutricionista. Essa concentração também interfere na saciedade. Como o alimento ocupa menos volume, é possível consumir uma quantidade maior antes de sentir que já comeu o suficiente. Justamente por conta dessa concentração de açúcares, essas frutas também podem apresentar maior impacto glicêmico quando consumidas em excesso. — Para pessoas com diabetes ou que precisam controlar o açúcar no sangue, esse consumo exige ainda mais atenção, porque a concentração de açúcares pode provocar uma resposta maior da insulina — alerta a especialista. O que observar Outro ponto importante é a composição do produto. Embora muitas frutas liofilizadas sejam compostas apenas pela fruta, algumas versões comercializadas podem conter ingredientes adicionados, como açúcar ou óleo de palma. Por isso, a orientação é sempre conferir o rótulo e a lista de ingredientes antes da compra. — O ideal é escolher produtos 100% naturais, em que o único processo realizado tenha sido a retirada da água. Também é importante verificar a procedência, as condições da embalagem e se o produto possui registro nos órgãos responsáveis — orienta Priscilla Primi. Apesar da praticidade e da preservação dos nutrientes, a principal recomendação continua sendo a mesma: sempre que possível, priorizar o consumo de frutas frescas e utilizar a versão liofilizada como uma alternativa, e não como substituta permanente. * estagiária sob supervisão de Constança Tatsch",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/07/12/crocantes-e-praticas-as-frutas-liofilizadas-viram-febre-como-snack-fitness-mas-e-preciso-moderacao.ghtml",
-      "published": "2026-07-12T07:30:20+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "natura"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
     },
     {
       "title": "Leite, queijo e whey: a Piracanjuba quer ser uma consolidadora de laticínios",
@@ -9961,6 +10000,29 @@
         {
           "sector": "Farmácias",
           "alias": "farmácias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Por que tanta gente está tomando magnésio? Saiba o que diz a ciência sobre o suplemento",
+      "summary": "O magnésio é um mineral essencial para o funcionamento do organismo, participando de mais de 600 reações enzimáticas. Popularizado como suplemento alimentar, ele contribui para a produção de energia e proteínas, ajuda na regulação da glicemia, no controle da pressão arterial e em diversos outros processos metabólicos. Como saber se estou com falta de vitaminas e minerais? Especialista responde Química do sangue humano está mudando. E a culpa é do clima Segundo o MedlinePlus, portal da Biblioteca Nacional de Medicina dos Estados Unidos, a deficiência de magnésio pode estar relacionada a uma alimentação pobre em alimentos naturais e rica em produtos ultraprocessados. Doenças digestivas, distúrbios renais e síndromes de má absorção também podem reduzir os níveis do mineral no organismo. Para que serve o magnésio? De acordo com o cardiologista Gabriel Lapman, autor do livro Reset, Lifestyle Medicine, o magnésio desempenha papel fundamental em funções como: transmissão de impulsos elétricos no sistema nervoso; contração muscular; regulação da pressão arterial; formação dos ossos; melhora da qualidade do sono; reparo do DNA. Além de auxiliar na contração muscular e na prevenção de cãibras, o magnésio também tem sido estudado por seus possíveis benefícios para o sono. Uma revisão de estudos publicada em 2021, que reuniu três ensaios clínicos com 151 pessoas de 50 anos ou mais, mostrou que participantes que consumiram entre 320 e 729 miligramas de magnésio por dia adormeceram, em média, 17 minutos mais rápido do que aqueles que receberam placebo. Pesquisas também investigam seus efeitos sobre a saúde mental. Uma meta-análise publicada na revista Frontiers in Psychiatry concluiu que a maioria dos ensaios clínicos avaliados encontrou redução dos sintomas de depressão entre pacientes que utilizaram suplementos de magnésio. Efeitos colaterais inesperados: Canetas emagrecedoras podem criar um novo tipo de dieta ioiô Quanto consumir? A nutricionista Mónica Cristina, do Serviço de Clínica Médica do Hospital Italiano, afirma que a ingestão diária recomendada é de: 420 mg por dia para homens adultos; 320 mg por dia para mulheres adultas. Ela ressalta que, na maioria dos casos, é possível obter magnésio por meio da alimentação. As principais fontes incluem vegetais de folhas verdes, nozes, sementes, cereais integrais, leguminosas, peixes e frutos do mar. Para quem utiliza suplementação com o objetivo de melhorar o sono, o médico Ramiro Heredia, do Hospital Clínico José de San Martín, recomenda tomar o produto antes de dormir. Já quem busca um efeito mais relacionado à disposição e à produção de energia pode consumi-lo em jejum e, se possível, sem ingerir laticínios no mesmo momento. Impactos adversos: adoçantes podem interferir na saúde intestinal, revela nova pesquisa Excesso também traz riscos Embora seja um nutriente essencial, o consumo excessivo de magnésio pode causar hipermagnesemia, condição caracterizada por níveis elevados do mineral no sangue. Entre os sintomas estão diarreia, sonolência, náuseas, vômitos, redução dos reflexos, queda da pressão arterial e alterações no sistema nervoso. Por isso, especialistas recomendam que a suplementação seja avaliada individualmente e realizada com acompanhamento de um profissional de saúde, especialmente quando o uso for prolongado.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/07/19/por-que-tanta-gente-esta-tomando-magnesio-saiba-o-que-diz-a-ciencia-sobre-o-suplemento.ghtml",
+      "published": "2026-07-19T07:00:11+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "body",
           "score": 2,
           "topic": null
