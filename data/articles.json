@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T07:47:38.897298+00:00",
-  "count": 347,
-  "new_this_run": 13,
+  "generated_at": "2026-07-20T09:38:47.212248+00:00",
+  "count": 348,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Assaí abre farmácia com venda de canetas emagrecedoras e potencial para atingir 250 lojas",
@@ -351,6 +351,71 @@
         {
           "sector": "Global Consumer",
           "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 108.0
+    },
+    {
+      "title": "Fomos à farmácia do Assaí: supermercado e drogaria em uma única loja",
+      "summary": "Com a chegada do Assaí Farma e a entrada do Mercado Livre no setor, redes tradicionais enfrentam uma disputa baseada em conveniência, capilaridade, preço e fidelização do consumidor",
+      "url": "https://exame.com/invest/mercados/fomos-a-farmacia-do-assai-supermercado-e-drogaria-em-uma-unica-loja",
+      "published": "2026-07-20T05:00:52+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Varejo Alimentar",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "assai",
+        "assaí",
+        "drogaria",
+        "farmácia",
+        "mercado livre",
+        "supermercado"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assai",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "supermercado",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "drogaria",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1541,6 +1606,45 @@
       "summary": "Anvisa fez 33 fiscalizações em farmácias que produzem canetas emagrecedoras em 2026 &nbsp;&nbsp; InfoMoney",
       "url": "https://www.infomoney.com.br/consumo/anvisa-fez-33-fiscalizacoes-em-farmacias-que-produzem-canetas-emagrecedoras-em-2026",
       "published": "2026-07-19T19:22:56+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa fez 33 operações de fiscalização em farmácias que produzem canetas emagrecedoras em 2026 - Times Brasil | CNBC",
+      "summary": "Anvisa fez 33 operações de fiscalização em farmácias que produzem canetas emagrecedoras em 2026 &nbsp;&nbsp; Times Brasil | CNBC",
+      "url": "https://timesbrasil.com.br/brasil/anvisa-fez-33-operacoes-de-fiscalizacao-em-farmacias-que-produzem-canetas-emagrecedoras-em-2026",
+      "published": "2026-07-20T08:00:00+00:00",
       "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
@@ -3058,6 +3162,38 @@
       "score": 40.0
     },
     {
+      "title": "Bets e canetas emagrecedoras são as novas rivais do varejo - InfoMoney",
+      "summary": "Bets e canetas emagrecedoras são as novas rivais do varejo &nbsp;&nbsp; InfoMoney",
+      "url": "https://www.infomoney.com.br/business/bets-e-canetas-emagrecedoras-sao-as-novas-rivais-do-varejo",
+      "published": "2026-07-20T09:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Richemont sales surge on booming jewellery demand",
       "summary": "Cartier owner outperforms peers with consecutive quarters of double-digit growth",
       "url": "https://www.ft.com/content/ebc04867-1411-4b1b-a71b-60b13e212658",
@@ -4261,98 +4397,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Fim da escala 6x1 pode custar R$ 12 bi por ano a transportes, estima CNT",
-      "summary": "Vander Costa: “O que mais nos preocupa não é o impacto financeiro, pois isso vai para preço, mas a falta de mão de obra” Adriano Brito/Valor A Confederação Nacional do Transporte (CNT) estima impacto anual direto de quase R$ 12 bilhões para o setor, por meio de aumento de custos em todos os modais, caso o Congresso aprove a proposta de emenda à Constituição (PEC) que prevê o fim da escala de trabalho 6x1. Em entrevista ao Valor, o presidente da CNT, Vander Costa, alertou para outros impactos da medida sobre o setor, como o agravamento da escassez de mão de obra, em um momento em que já faltam profissionais para atender à demanda, e o estímulo à informalidade. A proposta também pode afetar o transporte urbano de passageiros, para além do aumento dos custos, com reflexos na prestação dos serviços à população. Segundo Costa, empresas do segmento estão mapeando os possíveis efeitos da mudança e avaliar medidas que poderão ser adotadas. Ele pleiteia que o Senado promova um debate amplo sobre o tema. Como caminho, a CNT defende que as escalas de trabalho sejam definidas por negociações coletivas. “Não entendemos que tem que engessar a jornada em uma emenda constitucional”, diz. Costa ainda ressalta que o custo da medida seria arcado por todos os brasileiros, no custo da passagem e no aumento do custo de carga. Em paralelo, a CNT acompanha outras frentes no Congresso, como a tramitação da Medida Provisória (MP) do Frete, que endurece as regras e as punições para o descumprimento do piso mínimo do frete. O texto, que perde validade na próxima quinta-feira (16), foi aprovado pela Câmara dos Deputados com alterações que, na avaliação da entidade, são de difícil aplicação, como o piso salarial para motoristas de longa distância. Questionado sobre o prazo para a votação da MP no Senado e o risco de uma mobilização dos caminhoneiros, Costa avaliou que a possibilidade é remota. “Só tem medo de greve quem não está no setor”, afirmou. Confira os principais trechos: Escala 6x1 Estimamos impacto anual de quase R$ 12 bilhões, mas o que mais nos preocupa não é o impacto financeiro, pois isso vai passar para preço, vai gerar inflação, mas é a falta de mão de obra. Temos hoje 2,5 milhões de trabalhadores no transporte e já está faltando para diversos setores. Estamos realizando simulações para saber o que pode ser feito, apesar de ainda estarmos trabalhando no Senado para o que o debate seja feito de forma mais clara. Esperamos que seja decidido o que for melhor para a sociedade, e não para um grupo. Transporte urbano O menor impacto que pode ter é o aumento de custos. Ao precisar de mais motorista ou ter que pagar hora extra, o custo da prefeitura será maior e vai se investir no transporte público aquilo que poderia estar para outras atividades. Uma alternativa, que algumas operadoras começaram a simular, é a redução da quantidade de viagens, principalmente no fim de semana. O que aconteceria? O trabalhador, na sua folga, vai ficar na fila de ônibus esperando. Outra opção é aumentar a capacidade dos ônibus, com o biarticulado, mas é uma solução de longo prazo. Proposta da CNT Defendemos que a evolução venha por negociação coletiva, é isso que tem dado certo no Brasil. A Constituição fala de jornada de até 44 horas semanais, a média no Brasil é 38 horas, isso mostra que setores que podem dar mais folgas já trabalham dessa forma. Mas eu não posso colocar isso como regra no transporte, que tem que ser 7x7. Não entedemos que tem que engessar a jornada em uma emenda constitucional” Regra de transição Se tiver que fazer, defendemos uma regra de transição mais lenta. É mais fácil para o empresário absorver o aumento do custo se for uma hora por ano do que se colocar duas em dois meses. Se tiver um ano para se adaptar, que haja alternativas que façam com que a população não sofra com a inflação. MP do Frete Houve mudanças na Câmara que são quase inaplicáveis, como o salário mínimo para motorista de longa distância. É matéria estranha à MP. Outro ponto que preocupa é em relação ao cadastro do motorista. Para reduzir roubo de carga, tivemos que investir muito em gerenciamento de risco, e essas empresas não autorizam carregar por diversos motivos, como inadimplência, pois o que está com dívida é mais propenso a ser aliciado. Colocaram que só pode ser recusado quem foi condenado com trânsito em julgado. Entendemos que pode abrir mais espaço para roubo de carga. Risco de greve É muito difícil ter uma reação da categoria. Só tem medo de greve quem não está no setor. Se por acaso houver alguns motins, se a polícia cumprir a obrigação de dar o direito de manifestação para quem quiser, mas deixar o direito de ir e vir, não tem possibilidade de greve. Subvenção ao combustível Com a volta dos ataques, tudo pode mudar. Talvez seja melhor aguardar. Pior do que ter diesel caro é não ter diesel. Estou vendo que o governo está fazendo um esforço muito grande para poder ter o menor impacto econômico na bomba, mas tem que ter responsabilidade fiscal também. Para melhorar a situação, tem que aumentar a capacidade de refino, para no futuro não sermos mais dependentes da importação. Juros O juro é alto no Brasil pois o governo gasta muito. Quando começarmos a gerar superávit de forma efetiva, os juros vão cair. O dano do juro alto pode ser pior do que o preço do óleo diesel. Para o setor, traz falta de investimento na renovação da frota. É preciso reduzir a Selic para reduzir o custo do financiamento. Pleitos aos presidenciáveis Pretendemos levar sugestões para incentivar o transporte coletivo e continuar a maior capacidade de investimentos na infraestrutura de transporte, nos preocupamos muito com a intermodalidade. Defender investimentos, mas com responsabilidade fiscal. Eventos climáticos extremos Temos investido onde tivemos problemas, mas é muito pouco. Temos empresários mais preocupados com a renovação da frota, estudando combustíveis alternativos. El Niño Sempre que tem uma forte chuva, corre o risco das estradas brasileiras terem algum desgaste que atrapalhe o transporte, que vamos ter que ver alternativas. Mas, o que mais preocupa hoje é o risco de interromper o transporte por falta de navegabilidade nos rios. Crime organizado No caso de roubo de carga, que era uma forma muito usada para legalizar dinheiro, buscamos investir em segurança preventiva. Mas, depois que acontece o fato, é caso de polícia. No roubo de carga a gente trabalha muito com gerenciamento de risco. No começo do ano, aprovamos uma lei que fala que, quando identificar mercadoria roubada, pode suspender o CNPJ (Cadastro Nacional da Pessoa Jurídica) da empresa e queremos que vire realidade. A ideia é mostrar que comprar carga roubada não é um bom negócio.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/07/13/fim-da-escala-6x1-pode-custar-r-12-bi-por-ano-a-transportes-estima-cnt.ghtml",
-      "published": "2026-07-13T08:00:31+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Caneta emagrecedora: especialistas explicam mudanças no apetite e na relação com a comida - Globo",
-      "summary": "Caneta emagrecedora: especialistas explicam mudanças no apetite e na relação com a comida &nbsp;&nbsp; Globo",
-      "url": "https://receitas.globo.com/blog/alimentacao-e-saude/caneta-emagrecedora-especialistas-explicam-mudancas-no-apetite-e-na-relacao-com-a-comida.ghtml",
-      "published": "2026-07-13T09:00:12+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Pele 3D bioimpressa criada pela Avon acelera pesquisas sobre menopausa",
-      "summary": "Até o final do ano, a Avon lançará no Brasil o seu primeiro produto voltado especificamente para a pele da mulher na menopausa. A novidade é resultado de uma inovação apresentada recentemente pela empresa: um modelo de pele 3D bioimpressa, batizado de MenoSkin, que reproduz, em laboratório, os efeitos das alterações hormonais dessa fase da vida. Globalmente, a empresa já utiliza pele 3D — normalmente neutra, sem idade e gênero — para o desenvolvimento e testes de produtos desde o começo dos anos 2000. No Brasil, isso acontece desde 2008. Luciana Vasquez, gerente de pesquisa em pele da Avon, explica que o material é feito a partir de células obtidas de tecidos doados por pacientes submetidos a cirurgias plásticas. Em laboratório, elas são processadas, cultivadas em incubadoras e misturadas a uma matriz de colágeno para formar uma biotinta, que, posteriormente, é usada em impressora 3D. \"O equipamento imprime camada por camada, desde a mais profunda da pele (derme) até a mais superficial (epiderme). Com isso, conseguimos criar uma pele equivalente à humana”, destaca Vasquez. Há cerca de três anos, o Centro de Inovação da Avon no Brasil localizado em Cajamar, em São Paulo, começou a tratar essa pele — dessa vez feita com células de mulheres brasileiras — com hormônios femininos para poder fazer uma pele feminina jovem. Em seguida, reduziu os níveis de estrogênio e progesterona para induzir a menopausa e suas alterações típicas. “Conseguimos induzir a menopausa por meio de uma técnica chamada sequenciamento de RNA. Fizemos um transcriptoma (conjunto de moléculas de RNA presentes em uma célula específica ou tecido), no qual avaliamos a expressão de cerca de 20 mil genes”, aponta a gerente de pesquisa. “Temos conhecimento, por meio da literatura e de estudos nossos e científicos, de que tipos de genes têm que estar expressos em uma pele jovem feminina e em uma pele menopausada.” O resultado desse processo é um pequeno modelo de pele bioimpressa, com dimensões semelhantes às de uma lente de contato, que permite mapear milhares de mecanismos da pele durante o climatério e a menopausa, garantindo maior eficácia de ativos e fórmulas, e sem a realização de testes em animais. A opção da Avon por produzir uma pele na menopausa e não apenas envelhecida se deu, segundo Vasquez, porque as mulheres nessa fase da vida ainda são muito negligenciadas. “Praticamente não há estudos de envelhecimento que façam recortes na menopausa. Eles desconsideram essa etapa por ser muito complexa”, afirma. “Hoje, no Brasil, há em torno de 30 milhões de mulheres na menopausa, e mais de 80% delas com sintomas que impactam a qualidade de vida. É muita gente para não receber atenção.” Mapeamento da tecnologia Protinol A partir da criação da MenoSkin, a Avon mapeou os efeitos da sua tecnologia exclusiva Protinol no tratamento e na recuperação da pele de mulheres na fase de transição hormonal. Esse ativo, que já é usado em diversos produtos da marca desde 2019, também estará presente no grande lançamento deste ano. MenoSkin foi criada no Brasil, com células de mulheres brasileiras, para mapear milhares de mecanismos da pele durante o climatério e a menopausa Divulgação A gerente de pesquisa em pele da empresa aponta que os resultados dos testes científicos revelaram que o Protinol atua como uma solução para as necessidades moleculares específicas da menopausa. “As mulheres nessa fase da vida verbalizam que a ‘pele derrete’. Ela passa por um colapso estrutural: perde a capacidade de produzir colágeno, perde estrutura, arquitetura e proteção da barreira cutânea e resseca. Com a pele 3D conseguimos observar tudo isso, e estudar os ativos que são mais adequados”, declara. Trabalhos anteriores realizados pela Avon já haviam demonstrado que o Protinol estimula a produção dos colágenos 1 e 3 e estimula os fibroblastos — células mais abundantes do tecido conjuntivo, responsáveis pela produção de colágeno, elastina e ácido hialurônico. Os mais atuais, feitos na pele 3D menopausada, trouxeram mais dados. Conforme relatado pela empresa, a tecnologia tem atuação ampla em mais de 600 genes a depender da concentração, sendo capaz de estimular a pele a produzir 1,5 vez mais colágeno total, inibir em mais de 80% as enzimas de degradação do colágeno e estimular em mais de 60% a produção natural de ácido hialurônico e em mais de 1,5 vez a de elastina. “Por enquanto, focamos na análise de colágeno, ácido hialurônico e elastina, e vamos lançar o nosso primeiro produto para mulheres na menopausa. Mas ainda temos mais 600 genes para explorar e achar outras funcionalidades. Há muita coisa a descobrir, e contamos com essa ferramenta que é a MenoSkin, capaz de acelerar os estudos e transformá-lo em inovação\", finaliza Vasquez. Mais Lidas Siga a Epoca Negócios:",
-      "url": "https://epocanegocios.globo.com/empresas/inovacao-de-resultado/noticia/2026/07/pele-3d-bioimpressa-criada-pela-avon-acelera-pesquisas-sobre-menopausa.ghtml",
-      "published": "2026-07-13T09:00:46+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "avon"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "avon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mercado Pago, Visa y Mastercard se unen para reinventar compras y pagos - iProUP",
-      "summary": "Mercado Pago, Visa y Mastercard se unen para reinventar compras y pagos &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/economia-digital/69734-mercado-pago-visa-y-mastercard-se-unen-para-reinventar-compras-y-pagos",
-      "published": "2026-07-13T09:38:11+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Os efeitos colaterais das canetas emagrecedoras no olfato e no paladar",
@@ -7667,6 +7711,29 @@
       "score": 20.0
     },
     {
+      "title": "Turismo sob medida: como a IA está personalizando roteiros de viagem e o atendimento ao viajante",
+      "summary": "Plataformas de reservas, hotéis e destinos turísticos estão usando inteligência artificial para recomendar roteiros personalizados, prever preços e oferecer atendimento em tempo real, tornando as viagens mais práticas e adaptadas ao perfil de cada turista",
+      "url": "https://exame.com/inteligencia-artificial/turismo-sob-medida-como-a-ia-esta-personalizando-roteiros-de-viagem-e-o-atendimento-ao-viajante",
+      "published": "2026-07-20T06:03:05+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Skincare capilar: por que o couro cabeludo virou o novo foco dos cuidados com os cabelos - O GLOBO",
       "summary": "Skincare capilar: por que o couro cabeludo virou o novo foco dos cuidados com os cabelos &nbsp;&nbsp; O GLOBO",
       "url": "https://oglobo.globo.com/ela/noticia/2026/07/20/skincare-capilar-por-que-o-couro-cabeludo-virou-o-novo-foco-dos-cuidados-com-os-cabelos.ghtml",
@@ -7708,6 +7775,98 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold Slips After Brent Rises Back Above $90 a Barrel",
+      "summary": "Gold prices slipped as escalating attacks between the U.S. and Iran pushed Brent crude above $90 a barrel, reinforcing inflation concerns.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-higher-for-longer-interest-rate-expectations-4703d83c?mod=rss_markets_main",
+      "published": "2026-07-20T07:37:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "FIDCs Captam R$ 30,6 Bilhões, Mas Crescimento Acende Alerta Para Fraudes e Inadimplência",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fundos de recebíveis se firmam como alternativa ao crédito bancário e atraem o varejo O post FIDCs Captam R$ 30,6 Bilhões, Mas Crescimento Acende Alerta Para Fraudes e Inadimplência apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/07/fidcs-captam-r-306-bilhoes-mas-crescimento-acende-alerta-para-fraudes-e-inadimplencia",
+      "published": "2026-07-20T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Com Nubank e Deloitte no Centro, Mercado de Escritórios do Rio de Janeiro Segue Reaquecendo e Absorve 15,1 mil m²",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Absorção líquida supera o primeiro trimestre e consolida recuperação puxada pelo Centro; Zona Sul segue com o metro quadrado mais caro O post Com Nubank e Deloitte no Centro, Mercado de Escritórios do Rio de Janeiro Segue Reaquecendo e Absorve 15,1 mil m² apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/07/escritorios-alto-padrao-rio-de-janeiro",
+      "published": "2026-07-20T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Uso do FGTS para pagar dívidas atinge só 0,4% do limite disponível no Novo Desenrola",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/uso-do-fgts-para-pagar-dividas-atinge-so-04-do-limite-disponivel-no-novo-desenrola",
+      "published": "2026-07-20T08:30:00+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "title",
+          "score": 20,
+          "topic": "desenrola"
         }
       ],
       "score": 20.0
@@ -8060,96 +8219,44 @@
       "score": 12.0
     },
     {
-      "title": "A global supermarket chain remains retail’s great white whale",
-      "summary": "Tesco’s retreat is sensible",
-      "url": "https://www.ft.com/content/140fafde-8fea-40b3-92ce-7459f2e6b0c2",
-      "published": "2026-07-13T07:48:21+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
+      "title": "País tem recorde de importados baratos após queda de taxação",
+      "summary": "O Brasil nunca importou tantas mercadorias baratas com isenção, ou desconto de impostos, como em junho, quando houve R$ 2,6 bilhões em envios de produtos internacionais pelo Programa Remessa Conforme, criado em 2023. A escalada nos envios se deu logo após o governo zerar o imposto para compras internacionais abaixo de US$ 50. Entidades do setor produtivo e do varejo brasileiro criticaram o governo pela decisão tomada cinco meses antes das eleições presidenciais. Para se ter ideia do tamanho do montante importado, equivale a toda a venda líquida de vestuário de três meses (janeiro a março) somados da Lojas Renner, a maior cadeia de moda do Brasil, e representa ainda nove vezes de tudo o que a rede Marisa vendeu nesse mesmo período. Procurada, a Receita Federal disse que ainda é cedo para dizer se esse efeito é duradouro ou se foi apenas impulso pontual após a mudança da alíquota. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/07/20/pais-tem-recorde-de-importados-baratos-apos-queda-de-taxacao.ghtml",
+      "published": "2026-07-20T08:00:13+00:00",
+      "source": "https://pox.globo.com/rss/valor",
       "matched_sectors": [
-        "Global Consumer"
+        "Fashion",
+        "E-commerce"
       ],
       "matched_aliases": [
-        "tesco"
+        "lojas renner",
+        "remessa conforme",
+        "renner"
       ],
       "matches": [
         {
-          "sector": "Global Consumer",
-          "alias": "tesco",
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "lojas renner",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "remessa conforme",
           "field": "lead",
           "score": 8,
           "topic": null
         }
       ],
-      "score": 8.0
-    },
-    {
-      "title": "Crédito Explode, Endividamento Bate Recorde: Qual o Papel das Fintechs Nessa Conta?",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O crédito cresceu mais de 330 vezes em menos de uma década, mas a inadimplência aumentou, os spreads seguem elevados e o Open Finance ainda não atingiu seu potencial O post Crédito Explode, Endividamento Bate Recorde: Qual o Papel das Fintechs Nessa Conta? apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/07/credito-explode-endividamento-bate-recorde-qual-o-papel-das-fintechs-nessa-conta",
-      "published": "2026-07-13T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Os Ministérios da Saúde e da Fazenda advertem",
-      "summary": "É difícil encontrar hoje em dia quem não tenha conhecimento de pelo menos um caso de drama pessoal e familiar envolvendo o vício em bets. Também nos últimos tempos têm sido frequentes as queixas de empresários e executivos sobre os danos que as apostas têm causado aos seus negócios. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/politica/coluna/os-ministerios-da-saude-e-da-fazenda-advertem.ghtml",
-      "published": "2026-07-13T08:01:21+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Netflix Q2 Preview: Why Its $3 Billion Ad Bet Needs More Inventory",
-      "summary": "Netflix's Q2 earnings will test whether cheaper creator content can generate the viewing hours and ad inventory needed to support its $3 billion advertising target.",
-      "url": "https://www.forbes.com/sites/maureenkerr/2026/07/13/netflix-q2-preview-why-its-3-billion-ad-bet-needs-more-inventory",
-      "published": "2026-07-13T09:31:30+00:00",
-      "source": "https://www.forbes.com/business/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "target"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "target",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
+      "score": 12.0
     },
     {
       "title": "GAV reposiciona marca e projeta faturamento recorde de R$ 3,7 bilhões em 2026",
