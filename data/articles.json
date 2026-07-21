@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T10:48:15.869281+00:00",
-  "count": 366,
-  "new_this_run": 5,
+  "generated_at": "2026-07-21T11:27:16.302040+00:00",
+  "count": 368,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Assaí abre farmácia com venda de canetas emagrecedoras e potencial para atingir 250 lojas",
@@ -8024,6 +8024,52 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank compra Porto Real para obter licença bancária no Brasil",
+      "summary": "Em março, o Nubank filiou-se à Federação Brasileira de Bancos (Febraban) como parte do plano",
+      "url": "https://veja.abril.com.br/economia/nubank-compra-porto-real-para-obter-licenca-bancaria-no-brasil",
+      "published": "2026-07-21T10:43:17+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Agenda de empresas: CVM irá avaliar papel da Previ na Vale; Nubank compra Banco Porto Real",
+      "summary": "Vale Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/21/agenda-de-empresas-cvm-ira-avaliar-papel-da-previ-na-vale-nubank-compra-banco-porto-real.ghtml",
+      "published": "2026-07-21T11:13:00+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
           "field": "title",
           "score": 20,
           "topic": null
