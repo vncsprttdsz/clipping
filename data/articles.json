@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T08:58:12.059881+00:00",
-  "count": 366,
-  "new_this_run": 9,
+  "generated_at": "2026-07-21T09:47:10.798774+00:00",
+  "count": 367,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Assaí abre farmácia com venda de canetas emagrecedoras e potencial para atingir 250 lojas",
@@ -8064,6 +8064,29 @@
         {
           "sector": "Economia",
           "alias": "substituição tributária",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank anuncia compra do Banco Porto Real para obter licença bancária no Brasil - Bloomberg Línea Brasil",
+      "summary": "Nubank anuncia compra do Banco Porto Real para obter licença bancária no Brasil &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/nubank-anuncia-compra-do-banco-porto-real-para-obter-licenca-bancaria-no-brasil",
+      "published": "2026-07-21T09:09:27+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
           "field": "title",
           "score": 20,
           "topic": null
