@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T06:58:42.134230+00:00",
-  "count": 360,
-  "new_this_run": 48,
+  "generated_at": "2026-07-21T08:58:12.059881+00:00",
+  "count": 366,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Assaí abre farmácia com venda de canetas emagrecedoras e potencial para atingir 250 lojas",
@@ -1712,6 +1712,45 @@
       "score": 60.0
     },
     {
+      "title": "Ozempic para gatos? Animais com sobrepeso podem ganhar remédio para emagrecer",
+      "summary": "A corrida para adaptar uma das terapias mais populares da atualidade já chegou ao mercado de animais de estimação",
+      "url": "https://exame.com/ciencia/ozempic-para-gatos-animais-com-sobrepeso-podem-ganhar-remedio-para-emagrecer",
+      "published": "2026-07-21T05:39:15+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ozempic",
+        "remédio para emagrecer"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "remédio para emagrecer",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Dona da Cartier supera expectativas de vendas no 1º trimestre",
       "summary": "O grupo suíço de luxo Richemont, que reúne marcas como Cartier e Van Cleef, obteve vendas acima do esperado em seu trimestre mais recente, impulsionadas pelo negócio de joias e apesar de um mercado volátil para o setor de luxo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/07/15/dona-da-cartier-supera-expectativas-de-vendas-no-1o-trimestre.ghtml",
@@ -2340,37 +2379,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "IBS e CBS: até onde a lei pode relativizar a habitualidade",
-      "summary": "Ampliação da sujeição passiva pela lei complementar deve alimentar o contencioso",
-      "url": "https://www.jota.info/opiniao-e-analise/colunas/radar-reforma-tributaria/ibs-e-cbs-ate-onde-a-lei-pode-relativizar-a-habitualidade",
-      "published": "2026-07-14T08:00:15+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Canetas emagrecedoras: qual farmácia vende mais barato? E qual parcela mais? - InfoMoney",
@@ -3172,6 +3180,68 @@
         {
           "sector": "E-commerce",
           "alias": "galpões",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Além de Ozempic e Mounjaro: BTG vê década de crescimento no varejo farmacêutico",
+      "summary": "Banco projeta expansão de dois dígitos no setor até 2030, puxada por remédios de prescrição, genéricos e produtos de beleza",
+      "url": "https://exame.com/invest/mercados/alem-de-ozempic-e-mounjaro-btg-ve-decada-de-crescimento-no-varejo-farmaceutico",
+      "published": "2026-07-21T05:00:55+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro",
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Farmácias reforçam segurança após mortes em assaltos por canetas emagrecedoras em SP - Folha de S.Paulo",
+      "summary": "Farmácias reforçam segurança após mortes em assaltos por canetas emagrecedoras em SP &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/07/farmacias-reforcam-seguranca-apos-mortes-em-assaltos-por-canetas-emagrecedoras-em-sp.shtml",
+      "published": "2026-07-21T07:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -4343,52 +4413,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Gold Rises on Inflation Concerns, With Focus on Upcoming U.S. Data",
-      "summary": "Gold prices rose as the rally in crude prices reinforced inflation concerns.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-declines-amid-broad-rise-in-yields-monetary-policy-concerns-9177a1be?mod=rss_markets_main",
-      "published": "2026-07-14T08:33:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mercado Pago, MODO y bancos pelean por el pago QR, pero quién está ganando - iProUP",
-      "summary": "Mercado Pago, MODO y bancos pelean por el pago QR, pero quién está ganando &nbsp;&nbsp; iProUP",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORUIwcUFGUnQ0elYzSEpVcmRhOXExRFM5RDBTSTBvM3NjY3p2NUtucFhsM3hFeE1LeWtHcW5XdWN0alN2WEFLeTl6SHM2b3RHTEZRUjRXVFlWbFlkMkZRRVlSWXhKQVBZbzV1SFQ1ckxQYXB1cHZFclZnODNnYW5ILVpSeGFqOFFnR0QzVDUxY0hfUWpDMVQ1UE1vR1RDeFQxODQ0ekNtQXBpMmlTczNz0gG0AUFVX3lxTE9XYXVPUGlobWh3SEFMcjlXeXM4bVJuUWlhZ0paT3BzZ1pLOGF4dDlYTXgzcTUzaFd3LTNkaXNGeklETzNleGJhaFdsWjIteDg2NERFRVJ0SUY4NjFEZlFMcG1namp1cXplcDQ2QkhWNElIWm9hOS1DSjZsS0FOLWw2R1ZpQ3VnNkthTXd3ajdLWTJDX3dQUjN5TUtLOUJuVEFFZUZtQV92V2JYbFdud0Q1VGNrdg?oc=5",
-      "published": "2026-07-14T08:57:07+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Cabreúva: o mega CD que vai colocar a Renner “sete anos à frente da concorrência” - Brazil Journal",
@@ -7381,6 +7405,29 @@
       "score": 20.0
     },
     {
+      "title": "Canetas emagrecedoras: entenda as diferenças e os efeitos para a saúde - Globo.com",
+      "summary": "Canetas emagrecedoras: entenda as diferenças e os efeitos para a saúde &nbsp;&nbsp; Globo.com",
+      "url": "https://revistamarieclaire.globo.com/google/amp/conteudo-de-marca/novo-nordisk/noticia/2026/07/canetas-emagrecedoras-entenda-as-diferencas-e-os-efeitos-para-a-saude.ghtml",
+      "published": "2026-07-20T11:00:29+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "“Ninguém está puro”: o sucesso e os perigos das canetas emagrecedoras do Paraguai - Veja Saúde",
       "summary": "“Ninguém está puro”: o sucesso e os perigos das canetas emagrecedoras do Paraguai &nbsp;&nbsp; Veja Saúde",
       "url": "https://saude.abril.com.br/medicina/ninguem-esta-puro-o-sucesso-e-os-perigos-das-canetas-emagrecedoras-do-paraguai",
@@ -8002,6 +8049,29 @@
       "score": 20.0
     },
     {
+      "title": "A retirada da substituição tributária e os desafios da implementação da reforma",
+      "summary": "Administrações tributárias serão capazes de conduzir uma transição segura?",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/a-retirada-da-substituicao-tributaria-e-os-desafios-da-implementacao-da-reforma",
+      "published": "2026-07-21T08:00:17+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "substituição tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "substituição tributária",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Uber compra Delivery Hero por US$ 14,8 bilhões e avança em entregas de comida",
       "summary": "O Uber comprou nesta quinta-feira a empresa alemã Delivery Hero por US$ 14,8 bilhões, criando assim o maior grupo de entrega de comida fora da China e buscando conter o avanço de rivais nos Estados Unidos e na Europa. O mercado global de delivery fora da China era, até então, liderado pela Just Eat, controlada pela holandesa Prosus — dona no Brasil do iFood— pela americana DoorDash (DASH.O). A aquisição da Delivery Hero, empresa na qual a Prosus também detinha participação de 17%, vai dar ao Uber acesso ao serviço de entrega de comidas a 50 países. Em uma transação separada, a empresa de investimentos SSW Partners vai comprar as operações da Delivery Hero em outros 14 mercados por cerca de US$ 1,6 bilhão e administrará esses negócios até encontrar outros compradores. Entre esses mercados, estão Áustria, Noruega, Espanha e Suécia. Essa foi uma estratégia para tentar aliviar a pressão de órgãos de defesa da concorrência e viabilizar a aprovação da venda para o Uber. Ainda assim, o acordo deve enfrentar um processo regulatório complexo, já que a combinação dos negócios entre Uber e Delivery Hero resultará em uma plataforma presente em 99 países, com um volume financeiro de transações (pagamentos por corridas ou entregas) combinado de US$ 236 bilhões em 2025. \"Juntos, praticamente dobraremos o número de mercados onde oferecemos tanto serviços de mobilidade quanto de entrega\", afirmou o CEO da Uber, Dara Khosrowshahi, em comunicado conjunto. O Uber já era o maior acionista da Delivery Hero e condicionou a conclusão do negócio à aceitação dos demais acionistas na proporção de pelo menos 50% mais uma ação da empresa. A transação, apoiada pela diretoria executiva e pelo conselho de supervisão da Delivery Hero, deve ser concluída no segundo semestre do próximo ano. O valor de US$ 14,8 bilhões representa um prêmio de 34% sobre o o preço médio das ações da Delivery Hero negociadas em Bolsa nos últimos três meses. O valor também ficou 9% acima do fechamento de quarta-feira e aproximadamente 40% acima da cotação anterior ao início das especulações sobre o negócio. O acordo ampliará a presença do Uber Eats na Europa, Oriente Médio, Ásia e América Latina. Compromissos da Prosus abriram caminho para o negócio A oferta da Uber só foi possível, em parte, por causa dos compromissos assumidos pela Prosus junto à Comissão Europeia para obter aprovação da compra da Just Eat Takeaway. Como condição, a empresa holandesa precisou reduzir sua participação de 26,5% na Delivery Hero, segundo pessoas familiarizadas com a operação. Uma dessas fontes descreveu a Prosus como uma \"vendedora por obrigação\", afirmando que a venda ocorreu para atender às exigências regulatórias, e não por decisão estratégica. Na prática, essa medida abre caminho para que uma empresa americana assuma o controle de um dos maiores grupos europeus de entrega de comida, apesar da ambição declarada da União Europeia de fortalecer campeãs tecnológicas do continente. Anos de consolidação no setor O mercado de entrega de comida fora da China deixou de ser um cenário fragmentado, impulsionado pela pandemia, para se tornar um setor altamente concentrado nas mãos de poucos operadores globais. Essa consolidação foi impulsionada pela desaceleração dos pedidos após os picos registrados durante a pandemia e pela pressão para aumentar as margens de lucro diante do maior escrutínio regulatório sobre as condições de trabalho dos entregadores. Nos últimos anos, esse movimento levou: o Uber a comprar a Postmates; a DoorDash a adquirir Wolt e Deliveroo; a Just Eat a se fundir com a Takeaway.com e comprar a Grubhub; e a Delivery Hero a expandir seus negócios com aquisições como Glovo e foodpanda. Com a nova operação, Uber e DoorDash passam a ser os principais líderes globais do setor. — Unir forças com um parceiro forte neste momento é a decisão certa para que a Delivery Hero garanta sua competitividade no futuro — afirmou a presidente do conselho de supervisão da empresa, Kristin Skogen Lund. Sede em Berlim e compromisso de não demitir Fundada em Berlim em 2011, a Delivery Hero cresceu rapidamente por meio de aquisições e se tornou uma das maiores empresas de entrega de comida do mundo, embora tenha deixado alguns mercados para concentrar esforços na rentabilidade. Como parte do acordo, o Uber comprometeu-se a investir € 2 bilhões na Alemanha até 2031 e concordou em manter a sede da Delivery Hero em Berlim e preservar sua força de trabalho pelo menos até 2029. Mais Lidas",
       "url": "https://epocanegocios.globo.com/empresas/noticia/2026/07/uber-compra-delivery-hero-por-us-148-bilhoes-e-avanca-em-entregas-de-comida.ghtml",
@@ -8365,6 +8435,38 @@
           "field": "lead",
           "score": 8,
           "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "Governo Lula aproveita reação ao tarifaço dos EUA para se aproximar do empresariado antes da eleição",
+      "summary": "Em meio às conversas com os setores afetados pelo novo tarifaço dos Estados Unidos para calibrar a nova fase do plano Brasil Soberano, o governo Luiz Inácio Lula da Silva vê uma oportunidade para tentar trazer os empresários para o seu lado às vésperas das eleições. Após rusgas com as discussões sobre o fim da escala 6x1 e da taxa das blusinhas, a ideia é tentar se recompor com o empresariado, que historicamente já é mais próximo das candidaturas de direita, como a do senador Flávio Bolsonaro (PL-RJ), principal oponente de Lula na busca pelo quarto mandato. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/07/21/governo-lula-aproveita-reacao-ao-tarifaco-dos-eua-para-se-aproximar-do-empresariado-antes-da-eleicao.ghtml",
+      "published": "2026-07-21T07:00:13+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 16.0
@@ -9618,6 +9720,52 @@
       "score": 8.0
     },
     {
+      "title": "Na UE, grifes estão proibidas de destruir produtos",
+      "summary": "Grandes grupos de artigos de luxo como LVMH, Prada, Chanel e Inditex estarão proibidos, a partir desta semana, de destruir roupas e calçados não vendidos na União Europeia, obrigando o setor a reformular o modo como lida com estoques excedentes e devoluções de clientes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/21/na-ue-grifes-estao-proibidas-de-destruir-produtos.ghtml",
+      "published": "2026-07-21T08:02:15+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "inditex"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "inditex",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Brasileiros querem recomendações e controle de dado com IA",
+      "summary": "A maioria dos brasileiros está disposta a receber recomendações financeiras personalizadas por inteligência artificial (IA) desde que mantenha o controle sobre os próprios dados. Pesquisa realizada pelo Mercado Pago no mês passado com 2,3 mil brasileiros mostra que 73% se sentiriam mais confortáveis em usar IA para finanças caso as recomendações fossem feitas com base em seu histórico real de gastos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/financas/noticia/2026/07/21/brasileiros-querem-recomendacoes-e-controle-de-dado-com-ia.ghtml",
+      "published": "2026-07-21T08:02:38+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "O legado de liderança de Oscar Motomura",
       "summary": "É bem possível que muita gente nunca tenha ouvido falar de Oscar Motomura. Mas sua influência na formação de líderes e na gestão empresarial brasileira foi imensa. Oscar dedicou a vida a desenvolver pessoas que transformariam organizações. Em vez de buscar os holofotes, escolheu construir um legado por meio das ideias, da formação de líderes e da transformação silenciosa de empresas. Fundador da Amana-Key, foi um dos maiores pensadores brasileiros sobre liderança e gestão. Durante décadas, ajudou a formar milhares de executivos e levou ao Brasil uma visão de liderança baseada no desenvolvimento humano, no pensamento sistêmico e na ampliação da consciência dos líderes. Sua influência ultrapassou empresas e acabou moldando a cultura de muitas organizações brasileiras. Conversa de líder | Frederico Trajano: recrutamento por valores MBA da vida real: as cinco lições de Luiza Trajano Tive o privilégio de fazer o APG, programa pelo qual passaram praticamente todos os principais líderes do Magalu ao longo dos anos. Mais do que ensinar estratégia ou ferramentas de gestão, Oscar nos provocava a desenvolver algo muito mais difícil: a capacidade de enxergar melhor a realidade, fazer perguntas mais profundas e ampliar o nível de consciência como líderes. Sua influência também está presente na cultura do Magalu. Muitas das ideias que valorizamos, como desenvolvimento de pessoas, aprendizado contínuo, liderança com propósito, visão de longo prazo e responsabilidade com a sociedade, foram fortalecidas por seu pensamento. Motomura, ao lado de Luiza e Fred Trajano, num treinamento no Magalu Arquivo/Magalu Sempre achei que, se tivesse nascido nos Estados Unidos, Oscar seria lembrado ao lado de nomes como Peter Drucker, Peter Senge ou Jim Collins. Mas escolheu construir seu legado aqui, formando silenciosamente gerações de líderes que ajudaram a transformar empresas e pessoas. Alguns deixam um legado pelos livros que escrevem. Outros, pelas empresas que fundam. Oscar Motomura deixa o seu nas milhares de lideranças que ajudou a formar. Obrigado por tudo, Oscar. *Frederico Trajano é CEO do Magazine Luiza",
       "url": "https://pipelinevalor.globo.com/mercado/noticia/o-legado-de-lideranca-de-oscar-motomura.ghtml",
@@ -10386,6 +10534,29 @@
         {
           "sector": "Farmácias",
           "alias": "farmácias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Novos hábitos de consumo encolhem caixinhas de leite: indústria lança embalagens de meio litro e 250 ml",
+      "summary": "As mudanças de hábito de consumo e do tamanho das famílias brasileiras têm levado a indústria de laticínios a buscar novos formatos para a venda de seu produto mais básico, o leite. Aos poucos, as gôndolas dos supermercados têm apresentado embalagens de meio litro ou menos. Maioria é exportada: Safra brasileira de avocado deve bater recorde neste ano com 60 mil toneladas Condições favoráveis: Oliveiras avançam no Paraná, mas azeitonas brasileiras respondem por apenas 1% do azeite consumido no país A fazenda gaúcha Trevisan é uma das empresas que apostaram nas embalagens menores. O laticínio lançou a versão de 500 ml do leite integral e desnatado do tipo A há oito anos e, desde então, tem mantido os dois produtos em seu portfólio como estratégia para atingir um nicho de mercado que tem crescido ano após ano. — A gente percebeu que atingia outro público, pessoas que muitas vezes não tomavam mais leite por algum motivo — observa a gerente de marketing da fazenda Trevisan, Juliana Sperling Bastian Trevisan. Raro fora do Japão: Wasabi fresco desponta no interior de São Paulo Segundo os dados do IBGE, a proporção de brasileiros que moram sozinhos saltou 52% no intervalo de 12 anos e representa um em cada cinco lares do país. Trata-se do segmento de domicílios que mais cresce, o que contribui para a movimentação da indústria, mesmo diante de um volume de vendas ainda pequeno quando comparado com as embalagens tradicionais, de um litro. No caso da Trevisan, a gerente estima que as vendas de embalagens de meio litro representem menos de 5% do total comercializado do laticínio: — Se a gente fosse vender apenas o leite de meio litro, não seria viável. Ele é viável porque acaba estando em conjunto com os outros produtos. Coco de piaçava: como o produto tradicional da Bahia ganhou espaço no mercado islâmico A estratégia, afirma, está em atender um público que, de outro modo, não consumiria leite no seu dia a dia. A goiana Italac também vinha sendo cobrada pelos seus consumidores por opções com embalagens menores. Este ano, decidiu atender o público com uma edição limitada das embalagens de 250 ml de leite A2, de mais fácil digestão. — Tem muita gente que não gosta da proteína com água, gosta com leite. Começamos a enxergar muitos usos para esse tipo de produto com a necessidade de ter embalagens para atender os diferentes públicos — afirma a gerente de marketing da companhia, Andreia Alvares. Semente de Araucária: Pinhão sai da festa junina e ganha espaço na culinária e no turismo gastronômico A decisão, segundo Andreia, acompanha ainda as mudanças de padrões futuros de consumo que já se desenham no presente: — Enxergamos que não vai ter tanto consumo para volume. E hoje, se a gente olhar esse mercado que vem com as canetas emagrecedoras, com várias outras questões de saúde, de dietas um pouco mais restritivas, o consumo em termos de volume de produto é menor. O lançamento aproveita as embalagens longa vida já usadas para venda de bebidas prontas e molhos, e a aposta no leite do tipo A2 visa justamente um público de nicho. Movimento oposto Em São Paulo, o laticínio Letti seguiu o caminho oposto após ver queda no volume de leite desnatado vendido desde que passou a apresentá-lo na versão de 500 ml, ainda em 2023. Colheita tardia e frio deixam as maçãs desta safra mais doces: entenda o chamado ‘pingo de mel’ nas frutas — A nossa ideia era justamente abraçar esse público, mas o que vivenciamos na prática foi uma diminuição do volume total de vendas. E, obviamente, se a gente for pensar, isso tem certa lógica porque a pessoa que comprava uma garrafa de um litro passou a comprar de meio litro — explica a diretora de operações da Letti, Tais Jank. A Letti decidiu descontinuar a versão de meio litro do leite desnatado este ano. Para o sócio da Milkpoint Valter Galan, o objetivo é aumentar o consumo per capita, que está estagnado em 30 litros por ano.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/07/21/novos-habitos-de-consumo-encolhem-caixinhas-de-leite-industria-lanca-embalagens-de-meio-litro-e-250-ml.ghtml",
+      "published": "2026-07-21T07:00:20+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "body",
           "score": 2,
           "topic": null
