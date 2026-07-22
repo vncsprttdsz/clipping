@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-22T09:06:41.536626+00:00",
-  "count": 391,
-  "new_this_run": 4,
+  "generated_at": "2026-07-22T09:41:20.330116+00:00",
+  "count": 393,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Briga das canetas emagrecedoras: dona do Ozempic processa fabricante do Mounjaro nos EUA por propaganda enganosa",
@@ -8454,6 +8454,52 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Cerca de 4 entregadores relataram violência por dia nos últimos 3 anos, aponta iFood",
+      "summary": "Quase quatro entregadores por dia relataram casos de violência ao iFood nos últimos três anos, segundo dados da plataforma divulgados no início deste mês. Entre junho de 2023 e maio deste ano, foram registradas 3.967 ocorrências de discriminação, ameaças, agressões físicas, violência verbal e violência sexual durante o trabalho. Leia mais (07/22/2026 - 06h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/07/cerca-de-4-entregadores-relataram-violencia-por-dia-nos-ultimos-3-anos-aponta-ifood.shtml",
+      "published": "2026-07-22T09:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Com ‘explosão’ dos MEIs, Nubank atinge mais de um quinto dos CNPJs ativos no país",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/07/com-explosao-dos-meis-nubank-atinge-mais-de-um-quinto-dos-cnpjs-ativos-no-pais.ghtml",
+      "published": "2026-07-22T09:00:36+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
           "field": "title",
           "score": 20,
           "topic": null
