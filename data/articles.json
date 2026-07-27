@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T10:18:36.604650+00:00",
-  "count": 319,
-  "new_this_run": 0,
+  "generated_at": "2026-07-27T11:07:49.443914+00:00",
+  "count": 322,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Briga das canetas emagrecedoras: dona do Ozempic processa fabricante do Mounjaro nos EUA por propaganda enganosa",
@@ -1015,6 +1015,45 @@
         {
           "sector": "Farmácias",
           "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "\"Caneta emagrecedora\": Anvisa alerta sobre riscos da retatrutida vendida ilegalmente na internet - BPMoney",
+      "summary": "\"Caneta emagrecedora\": Anvisa alerta sobre riscos da retatrutida vendida ilegalmente na internet &nbsp;&nbsp; BPMoney",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE16QWZSU3BUTGJoQTJ4cUNuT1ZyUDcxd1h2TGtiallORDUzSkNPVm1zV0ZqMWV5QUFvYlJ4M3NFQkxtdzJqZ2w1VnVnUjBqNW4zTlk5cEg2RzlQci0wczRLYXp1RHFGWjM1V2dzbzlXR0E2QQ?oc=5",
+      "published": "2026-07-25T14:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "retatrutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "retatrutida",
           "field": "title",
           "score": 20,
           "topic": null
@@ -2690,98 +2729,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "AliExpress é multado em US$ 629 milhões pela UE por vendas de produtos ilegais e falsificados",
-      "summary": "O AliExpress, da Alibaba, foi penalizado, nesta segunda-feira (20), com uma multa recorde de 550 milhões de euros (US$ 629 milhões) aplicada pela União Europeia por não combater a venda de produtos ilegais, inseguros e falsificados em sua plataforma. A multa foi a terceira emitida pela Comissão Europeia sob a Lei de Serviços Digitais (DSA, na sigla em inglês), marco regulatório da União Europeia que exige que plataformas online de muito grande porte façam mais para combater conteúdos ilegais e prejudiciais. A Comissão acusou o AliExpress, em junho do ano passado, de não cumprir uma exigência central da DSA de avaliar e mitigar os riscos de disseminação de produtos ilegais. O órgão estabeleceu o prazo de 20 de outubro para que o AliExpress proponha medidas corretivas, e a empresa poderá enfrentar penalidades adicionais caso o regulador conclua, em dezembro, que as propostas não estão em conformidade com a DSA. “Isso é muito perigoso para os consumidores e injusto para as empresas que estão cumprindo todas as nossas regras”, disse a chefe de tecnologia da União Europeia, Henna Virkkunen, a jornalistas. Ela destacou que o AliExpress teve 193 milhões de usuários na Europa no ano passado, ante 156 milhões da Shein e 130 milhões da Temu. A Temu também já foi multada sob a DSA, enquanto a Shein enfrenta uma investigação em andamento. “Um em cada cinco europeus afirma comprar uma vez por mês na Shein, Temu e AliExpress”, afirmou Virkkunen. A Alibaba não respondeu imediatamente aos pedidos de comentário. Multa supera penalidades contra X e Temu A Comissão afirmou que o AliExpress não avaliou adequadamente se possuía pessoal suficiente para revisar os riscos e superestimou a eficácia de seu sistema para detectar e remover produtos ilegais. O regulador criticou os sistemas de recomendação e publicidade do AliExpress por agravarem a disseminação de produtos ilegais, bem como a dependência da empresa de um único indicador quantitativo para medir seu sistema de moderação e prevenir o risco de que produtos ilegais aparecessem ou reaparecessem de formas semelhantes. Segundo a Comissão, a incapacidade do AliExpress de detectar produtos ilegais fez com que muitos itens ilícitos — variando de produtos falsificados a brinquedos inseguros e cosméticos perigosos — permanecessem online por várias semanas. A Comissão também questionou a política ineficaz de penalidades da empresa, que permitia que companhias punidas continuassem vendendo produtos ilegais em sua plataforma. O órgão afirmou que o sistema obrigatório de “autorização de marca” do AliExpress — criado para impedir vendas de produtos falsificados — era ineficaz, contava com pessoal insuficiente e podia ser facilmente contornado por vendedores de produtos falsos. O regulador afirmou que a novidade representada pela Lei de Serviços Digitais foi considerada um fator atenuante no cálculo da multa do AliExpress, que poderia ter sido ainda maior. A penalidade é significativamente superior aos 120 milhões de euros aplicados, em dezembro do ano passado, à plataforma de mídia social X, de Elon Musk, e aos 200 milhões de euros impostos à Temu em maio deste ano, ambos por violações da DSA. O AliExpress evitou uma multa, que poderia chegar a até 6% de seu faturamento anual global, em junho do ano passado, após concordar com medidas para combater a disseminação de materiais potencialmente ilegais e pornográficos em sua plataforma. Reprodução",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/20/aliexpress-multado-em-us-629-milhes-pela-ue-por-vendas-de-produtos-ilegais-e-falsificados.ghtml",
-      "published": "2026-07-20T10:44:48+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "aliexpress"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "aliexpress",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras: entenda as diferenças e os efeitos para a saúde - Globo",
-      "summary": "Canetas emagrecedoras: entenda as diferenças e os efeitos para a saúde &nbsp;&nbsp; Globo",
-      "url": "https://revistamarieclaire.globo.com/conteudo-de-marca/novo-nordisk/noticia/2026/07/canetas-emagrecedoras-entenda-as-diferencas-e-os-efeitos-para-a-saude.ghtml",
-      "published": "2026-07-20T11:00:29+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras: entenda as diferenças e os efeitos para a saúde - Globo.com",
-      "summary": "Canetas emagrecedoras: entenda as diferenças e os efeitos para a saúde &nbsp;&nbsp; Globo.com",
-      "url": "https://revistamarieclaire.globo.com/google/amp/conteudo-de-marca/novo-nordisk/noticia/2026/07/canetas-emagrecedoras-entenda-as-diferencas-e-os-efeitos-para-a-saude.ghtml",
-      "published": "2026-07-20T11:00:29+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "“Ninguém está puro”: o sucesso e os perigos das canetas emagrecedoras do Paraguai - Veja Saúde",
-      "summary": "“Ninguém está puro”: o sucesso e os perigos das canetas emagrecedoras do Paraguai &nbsp;&nbsp; Veja Saúde",
-      "url": "https://saude.abril.com.br/medicina/ninguem-esta-puro-o-sucesso-e-os-perigos-das-canetas-emagrecedoras-do-paraguai",
-      "published": "2026-07-20T11:05:53+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Casas Bahia aprova aumento de capital de R$ 140,5 milhões após conversão de debêntures",
@@ -6119,6 +6066,29 @@
       "score": 20.0
     },
     {
+      "title": "Caneta emagrecedora fora das listas do SUS não pode ser fornecida por decisão judicial, decide TJ-SP - Jurinews",
+      "summary": "Caneta emagrecedora fora das listas do SUS não pode ser fornecida por decisão judicial, decide TJ-SP &nbsp;&nbsp; Jurinews",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUU8zQzFCdlJoa2s5NmNzczhKSE80RnU3SnNjSWtrOWo5SlYxVHplMVJSaEN0WG1PNE5DTmdiN0F2SkhyU3ZuMzdnV19tbjNZUy00dmNFVWZ0Ql9MWnJsR210WFFNamkycU5YSkhMWTlEQkxSMXdadEZPQmZ0Q19FWTBzb1AyeDFoa2Q0ZURBeDRDX1FneG1xMlkxbkdCQmUtTDdfVVFpcnRoTjFsZ0x1ZVh2Y1JFQWNFQVNiSmpXcmpuN0ViUEdxWllGR0g5SVZDLTllM3NWY3Y?oc=5",
+      "published": "2026-07-25T13:29:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "‘Sobre a escala 6x1, não sou radicalmente contra nem a favor’, diz Luiza Helena Trajano - Exame",
       "summary": "‘Sobre a escala 6x1, não sou radicalmente contra nem a favor’, diz Luiza Helena Trajano &nbsp;&nbsp; Exame",
       "url": "https://exame.com/carreira/sobre-a-escala-6x1-nao-sou-radicalmente-contra-nem-a-favor-diz-luiza-helena-trajano",
@@ -6211,6 +6181,29 @@
       "score": 20.0
     },
     {
+      "title": "Justiça nega fornecimento gratuito de caneta emagrecedora a paciente - Metrópoles",
+      "summary": "Justiça nega fornecimento gratuito de caneta emagrecedora a paciente &nbsp;&nbsp; Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2FJM2kxcUk0c3lDLUwwTUxPZlE0NDc0RWZMQXZpQTkxQkpLU0I3bkwtXzVOcFVrR1JBdjVsbjItMmtiQkdjcG4wNTdGTV83cTl6dVJSaWFIS3dGa1lodVNpeFlIZko5V2VCYnFjVE1oNTJMZkpQUGFFclVYTzU2d2poR3ZoUUI0a0lUT1c4eTczTXpJc2lSLUlpMU9UM1N2ejNhRlh4elQ?oc=5",
+      "published": "2026-07-25T21:01:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Casal é preso por venda irregular de canetas emagrecedoras, paga fiança e é liberado no interior de SP - G1",
       "summary": "Casal é preso por venda irregular de canetas emagrecedoras, paga fiança e é liberado no interior de SP &nbsp;&nbsp; G1",
       "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/25/casal-e-preso-por-venda-irregular-de-canetas-emagrecedoras-paga-fianca-e-e-liberado-no-interior-de-sp.ghtml",
@@ -6249,6 +6242,29 @@
         {
           "sector": "Global Consumer",
           "alias": "airbnb",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Alerta da Anvisa acende sinal de risco sobre 'caneta emagrecedora' vendida ilegalmente; especialistas orientam consumidores em Alagoas - Alagoas Alerta",
+      "summary": "Alerta da Anvisa acende sinal de risco sobre 'caneta emagrecedora' vendida ilegalmente; especialistas orientam consumidores em Alagoas &nbsp;&nbsp; Alagoas Alerta",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPX0V6Zlo4RWlVY0JuYzlyTmVwTFlSNG54cnZXSm9QdlRzaHkyRFZ6Znk0eWhzYlYtQ1hBY2FvUWFTU2U3T0lUN0k1M0FqR28ySXlYem1YQkNMaGtSbEtOZUlYZTFVcGU5alBGMU5NNlF2Mm1SQ3VwM2JvX19RMi0yZ20tRTlLQW9xdHY1ZTVsaHhhZkJ3MXpNTzVSZVZCMHl3U2pKckJXbUh6WnNiS050VnFmWnphQ1YtYzlFMzBWUjBNcHc?oc=5",
+      "published": "2026-07-26T07:54:46+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
           "field": "title",
           "score": 20,
           "topic": null
@@ -6318,6 +6334,29 @@
         {
           "sector": "Viagens",
           "alias": "hotel",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nova caneta emagrecedora sem aprovação é vendida no Brasil e apreensões batem recorde - Rádio Itatiaia",
+      "summary": "Nova caneta emagrecedora sem aprovação é vendida no Brasil e apreensões batem recorde &nbsp;&nbsp; Rádio Itatiaia",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT29mYVlBOGFEaGNmek9Bc25nX3NJZGtUbldoQ0tDSUluUE1CWDlLNGR5Rk8wejJrblBOdXRGT2R6TXB2Z3Q5RkVySGUzMDB5WUVsaHN4NU1mdl84SGE2ODZCUk5wTFNMdVF0aTFXWG1QX1VTLW5QOEhfREtkTEJvZXRWemJxRnQwRnh0M2R6MWJrLVpfWU9iRTdZYjRlRE1NWVhiMzNBa0plUkFmR0hrZjgyTElMTFVEOVFWWA?oc=5",
+      "published": "2026-07-26T13:29:31+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
           "field": "title",
           "score": 20,
           "topic": null
@@ -6441,6 +6480,29 @@
       "score": 20.0
     },
     {
+      "title": "Tirzepatida transforma tratamento da obesidade no Brasil - boca.com.br",
+      "summary": "Tirzepatida transforma tratamento da obesidade no Brasil &nbsp;&nbsp; boca.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOS2JxVWYyNE1CRTllNGhlZHNQTDFWcnRzY0d5X0huRzdqSnZ1cS1FT1lGVnlJQ3BvMVVaVXc2dEdhNi1CbDJKQ3VwdXVVV0lXWVdYd2JNVEV4a2hKS3FFMlNWNk5ka3FUenI4V2Q0UlJJcC1ob1ZOX3BXdDZtaFFER3BxcHNQVWlqRXc?oc=5",
+      "published": "2026-07-27T07:15:40+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Com inadimplência em alta, balanço de bancos deve trazer tom de cautela",
       "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/financas/noticia/2026/07/27/com-inadimplencia-em-alta-balanco-de-bancos-deve-trazer-tom-de-cautela.ghtml",
@@ -6456,6 +6518,29 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein reveals financials, valuation in Hong Kong IPO filings - Reuters",
+      "summary": "Shein reveals financials, valuation in Hong Kong IPO filings &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/finance/shein-reveals-financials-valuation-hong-kong-ipo-filings-2026-07-27",
+      "published": "2026-07-27T08:26:09+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
           "field": "title",
           "score": 20,
           "topic": null
