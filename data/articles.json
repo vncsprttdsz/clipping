@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-26T11:00:48.588569+00:00",
-  "count": 325,
-  "new_this_run": 0,
+  "generated_at": "2026-07-27T08:10:13.025070+00:00",
+  "count": 318,
+  "new_this_run": 13,
   "articles": [
     {
       "title": "Briga das canetas emagrecedoras: dona do Ozempic processa fabricante do Mounjaro nos EUA por propaganda enganosa",
@@ -197,71 +197,6 @@
         }
       ],
       "score": 120.0
-    },
-    {
-      "title": "Fomos à farmácia do Assaí: supermercado e drogaria em uma única loja",
-      "summary": "Com a chegada do Assaí Farma e a entrada do Mercado Livre no setor, redes tradicionais enfrentam uma disputa baseada em conveniência, capilaridade, preço e fidelização do consumidor",
-      "url": "https://exame.com/invest/mercados/fomos-a-farmacia-do-assai-supermercado-e-drogaria-em-uma-unica-loja",
-      "published": "2026-07-20T05:00:52+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Varejo Alimentar",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "assai",
-        "assaí",
-        "drogaria",
-        "farmácia",
-        "mercado livre",
-        "supermercado"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "assaí",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "assai",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "supermercado",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "drogaria",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 108.0
     },
     {
       "title": "Novo Nordisk processa Eli Lilly por propaganda enganosa sobre remédios para emagrecimento",
@@ -883,124 +818,6 @@
       "score": 72.0
     },
     {
-      "title": "Natura (NATU3): Citi vê parceria da Avon com Shopee como positiva e reforça estratégia omnichannel - Estadão",
-      "summary": "Natura (NATU3): Citi vê parceria da Avon com Shopee como positiva e reforça estratégia omnichannel &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/em-alta/einvestidor/cenarios-e-mercado/natura-natu3-citi-ve-parceria-da-avon-com-shopee-como-positiva-e-reforca-estrategia-omnichannel",
-      "published": "2026-07-19T14:03:25+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce",
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "avon",
-        "natura",
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "avon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
-    },
-    {
-      "title": "Anvisa fez 33 fiscalizações em farmácias que produzem canetas emagrecedoras em 2026 - InfoMoney",
-      "summary": "Anvisa fez 33 fiscalizações em farmácias que produzem canetas emagrecedoras em 2026 &nbsp;&nbsp; InfoMoney",
-      "url": "https://www.infomoney.com.br/consumo/anvisa-fez-33-fiscalizacoes-em-farmacias-que-produzem-canetas-emagrecedoras-em-2026",
-      "published": "2026-07-19T19:22:56+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
-    },
-    {
-      "title": "Anvisa fez 33 operações de fiscalização em farmácias que produzem canetas emagrecedoras em 2026 - Times Brasil | CNBC",
-      "summary": "Anvisa fez 33 operações de fiscalização em farmácias que produzem canetas emagrecedoras em 2026 &nbsp;&nbsp; Times Brasil | CNBC",
-      "url": "https://timesbrasil.com.br/brasil/anvisa-fez-33-operacoes-de-fiscalizacao-em-farmacias-que-produzem-canetas-emagrecedoras-em-2026",
-      "published": "2026-07-20T08:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
-    },
-    {
       "title": "Ozempic para gatos? Animais com sobrepeso podem ganhar remédio para emagrecer",
       "summary": "A corrida para adaptar uma das terapias mais populares da atualidade já chegou ao mercado de animais de estimação",
       "url": "https://exame.com/ciencia/ozempic-para-gatos-animais-com-sobrepeso-podem-ganhar-remedio-para-emagrecer",
@@ -1370,68 +1187,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "Canetas emagrecedoras: por que o rosto muda após a perda rápida de peso - O GLOBO",
-      "summary": "Canetas emagrecedoras: por que o rosto muda após a perda rápida de peso &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/ela/noticia/2026/07/20/canetas-emagrecedoras-por-que-o-rosto-muda-apos-a-perda-rapida-de-peso.ghtml",
-      "published": "2026-07-20T06:00:16+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Psyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural'",
-      "summary": "Impulsionado por vídeos nas redes sociais e apelidado de \"Ozempic natural\", o psyllium se tornou um dos suplementos mais populares do momento. Rico em fibras solúveis, ele é apontado como aliado do funcionamento do intestino, do controle do colesterol, da glicemia e até do emagrecimento. Mas o que as pesquisas científicas realmente comprovam sobre esses efeitos? Estudos indicam que alguns benefícios são bem estabelecidos, enquanto outros ainda apresentam evidências limitadas. O que as pesquisas sugerem O psyllium contém altos níveis de mucilagem, um tipo de fibra solúvel que forma um gel quando entra em contato com a água. O suplemento é vendido em diferentes formas, incluindo a casca inteira (geralmente comercializada em potes, com textura grossa e fofa), em pó (com consistência semelhante à da farinha) e em cápsulas. Há três principais categorias de benefícios potenciais, algumas com mais evidências científicas do que outras. Digestão — O psyllium é o suplemento de fibra preferido dos gastroenterologistas, pois já demonstrou ajudar no tratamento da prisão de ventre e da síndrome do intestino irritável — diz o William D. Chey, chefe da divisão de gastroenterologia da Michigan Medicine. Ao passar pelo estômago e pelo intestino, ele absorve água e forma uma substância viscosa semelhante a um gel, que amolece e aumenta o volume das fezes, acelerando sua passagem pelo cólon. Isso pode ajudar a aliviar a constipação, inclusive em pessoas com síndrome do intestino irritável. — Paradoxalmente, o psyllium também pode ajudar nos casos de diarreia, outro sintoma comum da síndrome do intestino irritável, porque absorve o excesso de líquido presente no intestino — explica Kate Scarlata, nutricionista de Boston. Como a maioria dos microrganismos intestinais tem pouca capacidade de degradar o psyllium, processo que produz gases, o suplemento costuma provocar menos flatulência e cólicas do que muitos outros suplementos de fibras, acrescenta ela. Colesterol e glicemia — As pesquisas sugerem que o psyllium pode promover pequenas reduções nos níveis de colesterol e de glicose no sangue — afirma Penny Kris-Etherton, professora emérita de Ciências da Nutrição da Penn State. Em uma análise publicada em 2018, que reuniu 28 pequenos estudos, a maioria envolvendo pessoas com colesterol elevado, pesquisadores constataram que aqueles que consumiram cerca de 10 gramas de psyllium por dia durante pelo menos três semanas apresentaram pequenas reduções no colesterol LDL, conhecido como colesterol \"ruim\". Já uma revisão de estudos publicada em 2024, cuja maior parte incluiu pessoas com diabetes tipo 2 ou problemas relacionados, concluiu que o consumo de psyllium reduziu discretamente os níveis de glicose no sangue. Segundo Scarlata, a fibra presente no psyllium se liga aos ácidos biliares, produzidos a partir do colesterol, no intestino, favorecendo sua eliminação e ajudando a reduzir o colesterol LDL circulante. O psyllium também desacelera a digestão dos carboidratos, fazendo com que a glicose seja absorvida mais lentamente pela corrente sanguínea e reduzindo os picos de açúcar após as refeições. — Esses efeitos podem beneficiar pessoas com colesterol elevado, diabetes tipo 2 ou pré-diabetes —afirma Kris-Etherton. Ainda assim, ela ressalta que uma alimentação rica em alimentos naturalmente fontes de fibras, como grãos integrais, leguminosas, oleaginosas, sementes, frutas e verduras, proporciona benefícios ainda maiores. Emagrecimento — Como o psyllium aumenta de volume no intestino e retarda a digestão dos carboidratos, ele pode aumentar a sensação de saciedade por uma ou duas horas após o consumo — explica Julia Lloyd, nutricionista do Mass General Brigham. — No entanto, as pesquisas indicam que esse efeito geralmente não se traduz em perda de peso. Uma revisão publicada em 2020, que analisou 22 pequenos estudos, a maioria envolvendo adultos com sobrepeso ou obesidade, concluiu que o consumo de psyllium não apresentou diferença em relação ao placebo quando o assunto era peso corporal, índice de massa corporal (IMC) ou circunferência da cintura. Como consumir O ideal é obter fibras por meio da alimentação, afirma Lloyd. — Mas, para pessoas com determinadas condições, como prisão de ventre, síndrome do intestino irritável, colesterol alto, diabetes tipo 2 ou pré-diabetes, vale a pena conversar com um médico sobre a possibilidade de utilizar o psyllium — diz ela. O suplemento também pode ajudar quem não consegue atingir a recomendação diária de fibras, que varia entre 25 e 38 gramas por dia, apenas por meio da alimentação. Chey afirma que o psyllium pode ser consumido diariamente com segurança. Apenas recomenda evitar sua ingestão nas duas horas anteriores ou posteriores ao uso de medicamentos, pois ele pode reduzir sua absorção. Pessoas com alguns problemas digestivos, como gastroparesia (retardo no esvaziamento do estômago) ou histórico de obstrução intestinal, também devem ter cautela, já que há risco de o psyllium ficar retido no trato digestivo. Scarlata recomenda começar aos poucos, por exemplo, com cerca de 5 gramas por dia durante a primeira ou segunda semana, para reduzir o risco de gases, inchaço e outros desconfortos. Ela costuma adicionar o psyllium em pó a vitaminas, mingau de aveia e muffins. A maioria das pessoas, porém, mistura o pó ou a casca diretamente em água ou suco. Como o psyllium absorve água, Lloyd orienta consumi-lo com pelo menos um ou dois copos de água e manter uma boa hidratação ao longo do dia. Caso contrário, o suplemento pode endurecer no intestino e causar cólicas, prisão de ventre e, em casos raros, obstrução intestinal.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/07/20/psyllium-ajuda-a-emagrecer-o-que-a-ciencia-diz-sobre-o-suplemento-apelidado-de-ozempic-natural.ghtml",
-      "published": "2026-07-20T07:00:18+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Bets e canetas emagrecedoras são as novas rivais do varejo - InfoMoney",
@@ -1954,6 +1709,68 @@
         {
           "sector": "Farmácias",
           "alias": "panvel",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Justiça nega fornecimento gratuito de 'caneta emagrecedora' a moradora de Araçatuba que sofre de obesidade - G1",
+      "summary": "Justiça nega fornecimento gratuito de 'caneta emagrecedora' a moradora de Araçatuba que sofre de obesidade &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sp/sao-jose-do-rio-preto-aracatuba/noticia/2026/07/26/justica-nega-fornecimento-gratuito-de-caneta-emagrecedora-a-moradora-de-aracatuba-que-sofre-de-obesidade.ghtml",
+      "published": "2026-07-26T14:17:12+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "A Adidas foi a grande vencedora da Copa, mas Haaland pode ser carta na manga da Nike - Bloomberg Línea Brasil",
+      "summary": "A Adidas foi a grande vencedora da Copa, mas Haaland pode ser carta na manga da Nike &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/2026/07/26/a-adidas-foi-a-grande-vencedora-da-copa-mas-haaland-pode-ser-carta-na-manga-da-nike",
+      "published": "2026-07-26T16:58:28+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "adidas",
+        "nike"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "adidas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -2827,190 +2644,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Negociação para divisão do Azzas ainda está longe de acordo - O GLOBO",
-      "summary": "Negociação para divisão do Azzas ainda está longe de acordo &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/07/negociacao-para-divisao-do-azzas-ainda-esta-longe-de-acordo.ghtml",
-      "published": "2026-07-19T12:40:08+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "azzas"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "azzas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Turismo sob medida: como a IA está personalizando roteiros de viagem e o atendimento ao viajante",
-      "summary": "Plataformas de reservas, hotéis e destinos turísticos estão usando inteligência artificial para recomendar roteiros personalizados, prever preços e oferecer atendimento em tempo real, tornando as viagens mais práticas e adaptadas ao perfil de cada turista",
-      "url": "https://exame.com/inteligencia-artificial/turismo-sob-medida-como-a-ia-esta-personalizando-roteiros-de-viagem-e-o-atendimento-ao-viajante",
-      "published": "2026-07-20T06:03:05+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Skincare capilar: por que o couro cabeludo virou o novo foco dos cuidados com os cabelos - O GLOBO",
-      "summary": "Skincare capilar: por que o couro cabeludo virou o novo foco dos cuidados com os cabelos &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/ela/noticia/2026/07/20/skincare-capilar-por-que-o-couro-cabeludo-virou-o-novo-foco-dos-cuidados-com-os-cabelos.ghtml",
-      "published": "2026-07-20T06:30:21+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Governo terá que correr aprovar prioridades no Congresso, como o fim da escala 6x1 e minerais críticos, antes da campanha",
-      "summary": "O recesso parlamentar inaugurou uma corrida contra o tempo para o governo do presidente Luiz Inácio Lula da Silva (PT). Enquanto o Congresso permanece sem atividades legislativas, a articulação política faz as contas para o segundo semestre: entre a retomada dos trabalhos, em 1º de agosto, e o início oficial da campanha eleitoral, no dia 16, o Planalto terá pouco mais de duas semanas para tentar destravar parte de sua agenda antes que deputados e senadores mergulhem de vez nas disputas eleitorais. A avaliação entre parlamentares é que dificilmente haverá tempo para votar todas as matérias que ficaram pendentes no primeiro semestre. Além do calendário apertado, líderes partidários estarão envolvidos nas convenções e na montagem dos palanques estaduais, enquanto deputados e senadores candidatos tendem a intensificar as viagens aos seus redutos eleitorais. Nos bastidores, a expectativa é que Câmara e Senado concentrem esforços em um número reduzido de propostas até o início da campanha. Já durante o período eleitoral, ocorra um esvaziamento total em Brasília. Neste contexto, o governo tenta calibrar suas apostas finais. Uma das principais propostas do Planalto é a PEC que acaba com a escala 6x1, transformada em bandeira do governo para as eleições deste ano. O texto foi aprovado pela Câmara no fim de maio, após forte articulação do Palácio do Planalto e do presidente da Casa, Hugo Motta (Republicanos-PB), mas permanece parado no Senado à espera de despacho do presidente da Casa, Davi Alcolumbre (União-AP). Alcolumbre argumenta que o Senado não pode atuar como mera instância revisora das decisões da Câmara e defende que a proposta seja debatida com representantes de trabalhadores e do setor produtivo antes do início da tramitação, sem que a discussão seja contaminada por interesses eleitorais. Outra frente considerada estratégica é o projeto que cria a Política Nacional dos Minerais Críticos. Aprovado pela Câmara em maio, o texto ganhou ainda mais relevância após integrantes do governo americano demonstrarem interesse nas reservas brasileiras de terras raras durante as negociações sobre o tarifaço imposto por Washington. O Planalto considera a proposta essencial para reforçar a soberania nacional sobre esses recursos e pretende aprová-la no Senado ainda antes do avanço da campanha. A líder do governo no Senado, Teresa Leitão (PT-PE), já afirmou que a matéria estará entre as prioridades da articulação política no segundo semestre. O principal foco de resistência está na criação do Conselho Especial de Minerais Críticos e Estratégicos, órgão que poderá analisar investimentos e operações no setor e que é criticado pela oposição por ampliar a participação do Executivo. Também integram a pauta prioritária do Planalto a PEC da Segurança Pública e o projeto que endurece as punições para casos de misoginia. A primeira foi aprovada pela Câmara, mas aguarda há meses o início da tramitação no Senado. O segundo já passou pelo Senado e está sob análise dos deputados, que aprovaram seu regime de urgência no início do mês, abrindo caminho para uma votação mais célere. A proposta, no entanto, enfrenta resistência de parte da bancada de direita, que argumenta que a equiparação de seus crimes aos previstos na Lei do Racismo pode gerar insegurança jurídica.",
-      "url": "https://oglobo.globo.com/politica/noticia/2026/07/20/governo-tera-que-correr-aprovar-prioridades-no-congresso-como-o-fim-da-escala-6x1-e-minerais-criticos-antes-da-campanha.ghtml",
-      "published": "2026-07-20T06:30:29+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Anvisa abre mercado de CBD para farmácias de manipulação — e esta empresa quer liderá-lo",
-      "summary": "Brascann viu a base de clientes crescer 50% em poucas semanas ao fornecer CBD para farmácias de manipulação — em um mercado de cannabis medicinal que deve ultrapassar R$ 1 bilhão em 2026",
-      "url": "https://exame.com/negocios/anvisa-abre-mercado-de-cbd-para-farmacias-de-manipulacao-e-esta-empresa-quer-lidera-lo",
-      "published": "2026-07-20T06:50:50+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold Slips After Brent Rises Back Above $90 a Barrel",
-      "summary": "Gold prices slipped as escalating attacks between the U.S. and Iran pushed Brent crude above $90 a barrel, reinforcing inflation concerns.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-amid-higher-for-longer-interest-rate-expectations-4703d83c?mod=rss_markets_main",
-      "published": "2026-07-20T07:37:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "FIDCs Captam R$ 30,6 Bilhões, Mas Crescimento Acende Alerta Para Fraudes e Inadimplência",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fundos de recebíveis se firmam como alternativa ao crédito bancário e atraem o varejo O post FIDCs Captam R$ 30,6 Bilhões, Mas Crescimento Acende Alerta Para Fraudes e Inadimplência apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/07/fidcs-captam-r-306-bilhoes-mas-crescimento-acende-alerta-para-fraudes-e-inadimplencia",
-      "published": "2026-07-20T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Com Nubank e Deloitte no Centro, Mercado de Escritórios do Rio de Janeiro Segue Reaquecendo e Absorve 15,1 mil m²",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Absorção líquida supera o primeiro trimestre e consolida recuperação puxada pelo Centro; Zona Sul segue com o metro quadrado mais caro O post Com Nubank e Deloitte no Centro, Mercado de Escritórios do Rio de Janeiro Segue Reaquecendo e Absorve 15,1 mil m² apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/07/escritorios-alto-padrao-rio-de-janeiro",
-      "published": "2026-07-20T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Uso do FGTS para pagar dívidas atinge só 0,4% do limite disponível no Novo Desenrola",
@@ -6463,6 +6096,29 @@
       "score": 20.0
     },
     {
+      "title": "Malwee reduz emissões em 42% e aposta em rastreabilidade para cumprir metas - Exame",
+      "summary": "Malwee reduz emissões em 42% e aposta em rastreabilidade para cumprir metas &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/esg/malwee-reduz-emissoes-em-42-e-aposta-em-rastreabilidade-para-cumprir-metas",
+      "published": "2026-07-25T11:02:21+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "malwee"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "malwee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Canetas emagrecedoras no Brasil: conheça as disponíveis em 2026 - Veja Saúde",
       "summary": "Canetas emagrecedoras no Brasil: conheça as disponíveis em 2026 &nbsp;&nbsp; Veja Saúde",
       "url": "https://saude.abril.com.br/web-stories-abril/canetas-emagrecedoras-no-brasil-conheca-as-disponiveis-em-2026",
@@ -6647,6 +6303,167 @@
       "score": 20.0
     },
     {
+      "title": "Afetados pelo tarifaço, setores tentam reverter fim da taxa das blusinhas",
+      "summary": "Convidados pelo governo federal para discutir o impacto do novo tarifaço americano, setores afetados também pelo fim da taxa das blusinhas aproveitaram o momento para reclamar da inundação de produtos asiáticos no Brasil e fazer apelos por soluções às autoridades. Os setores querem medidas de defesa comercial do país, desoneração tributária para os produtos concorrentes fabricados no Brasil e há também uma pressão no Congresso para deixar a medida provisória (MP) enviada em maio pelo governo caducar. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/07/26/afetados-pelo-tarifaco-setores-tentam-reverter-fim-da-taxa-das-blusinhas.ghtml",
+      "published": "2026-07-26T11:20:20+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Com diárias de até US$ 2.200, hotel no Chile entra no top 10 mundial em ranking - Bloomberg Línea Brasil",
+      "summary": "Com diárias de até US$ 2.200, hotel no Chile entra no top 10 mundial em ranking &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/estilo-de-vida/com-diarias-de-ate-us-2200-hotel-no-chile-entra-no-top-10-mundial-em-ranking",
+      "published": "2026-07-26T12:29:06+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "hotel"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "hotel",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Os jogadores que decidiram enfrentar o mercado de bets - VEJA",
+      "summary": "Os jogadores que decidiram enfrentar o mercado de bets &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/esporte/os-jogadores-que-decidiram-enfrentar-o-mercado-de-bets",
+      "published": "2026-07-26T15:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold Gains as U.S., Iran Pause Fighting Over Weekend",
+      "summary": "Gold rose in early Asian trade. The metal likely found some relief as oil prices retreated, bond yields inched lower and the dollar softened, Kudo.com said.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-gains-as-u-s-iran-pause-fighting-over-weekend-15faf1b0?mod=rss_markets_main",
+      "published": "2026-07-26T23:58:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein's Hong Kong IPO filing sidesteps Xinjiang cotton controversy - Reuters",
+      "summary": "Shein's Hong Kong IPO filing sidesteps Xinjiang cotton controversy &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/sheins-hong-kong-ipo-filing-sidesteps-xinjiang-cotton-controversy-2026-07-27",
+      "published": "2026-07-27T04:08:24+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Hong Kong IPO-bound Shein's management and ownership structure - Reuters",
+      "summary": "Hong Kong IPO-bound Shein's management and ownership structure &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/finance/hong-kong-ipo-bound-sheins-management-ownership-structure-2026-07-27",
+      "published": "2026-07-27T04:39:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade - CNN Brasil",
+      "summary": "Um ano após chegar ao Brasil, Mounjaro muda tratamento da obesidade &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/um-ano-apos-chegar-ao-brasil-mounjaro-muda-tratamento-da-obesidade",
+      "published": "2026-07-27T06:45:12+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "'Velho Oeste' dos peptídeos 'underground' gira US$ 32 milhões em pagamentos com criptomoedas",
       "summary": "O \"boom\" dos peptídeos apresenta todas as características de uma febre de bem-estar que ganha o grande público: entusiastas em podcasts, celebridades adeptas e um mercado bilionário que promete atalhos para a perda de peso, ganho de massa muscular e uma vida mais longa. Um grande obstáculo: a compra em si. Medicamentos aprovados passam por ensaios clínicos, órgãos reguladores e farmácias como Walgreens e CVS. Grande parte do comércio online de peptídeos contorna esse sistema. Compostos mais baratos são enviados diretamente de laboratórios no exterior, sem prescrição médica ou cobertura de planos de saúde; alguns trazem avisos de que não se destinam ao uso humano. Bancos e redes de cartão de crédito frequentemente se recusam a trabalhar com fornecedores dessa \"zona cinzenta\" devido aos riscos jurídicos e regulatórios associados a produtos anunciados com benefícios de saúde não comprovados. Um número crescente desses vendedores aceita apenas bitcoin. Isso atrai céticos, incluindo Zach, um diretor de marketing de 49 anos do Noroeste do Pacífico. Após meses procurando pela retatrutida — um peptídeo para perda de peso que a Eli Lilly & Co. está desenvolvendo —, ele encontrou um vendedor na China disposto a lhe vender 20 frascos do que seria o composto experimental. O custo foi de US$ 240 por um suprimento para cerca de um ano, em comparação com os US$ 300 mensais que ele teria pago a um revendedor dos EUA. Havia um porém: o pagamento precisava ser feito em bitcoin. Zach, que pediu para não ter seu sobrenome divulgado por questões de privacidade, sempre considerou o bitcoin algo muito especulativo, um ativo \"sem valor intrínseco\". A diferença de preço lhe deu um motivo para reconsiderar. \"A diferença de custo é tão drástica que parecia valer a pena correr esse risco.\" Vendedores de peptídeos do mercado paralelo receberam US$ 32 milhões em criptomoedas durante o primeiro trimestre de 2026 — um aumento de 700% em relação ao ano anterior —, segundo novos dados da Chainalysis, uma empresa de análise de blockchain. Nos últimos meses, o setor atingiu um ritmo capaz de gerar mais de US$ 100 milhões por ano. Para Zach, foi um aprendizado rápido. O vendedor forneceu um link para um site com instruções sobre como comprar e enviar criptomoedas. Em poucos dias, ele abriu uma conta na Coinbase Global, comprou bitcoin pela primeira vez e o enviou para a carteira do vendedor. O pacote chegou à sua porta cerca de uma semana depois. A adesão desse comprador ilustra um dos casos de uso mais antigos e duradouros dos ativos digitais: atender empresas que operam em zonas cinzentas da legalidade. A demanda por peptídeos — cadeias curtas de aminoácidos que ajudam a regular processos biológicos fundamentais em todo o corpo — está em franca expansão. Embora reguladores dos EUA estejam reavaliando o setor e possam flexibilizar as restrições de uso, esse mercado crescente depende atualmente de ativos digitais, uma vez que os fornecedores enfrentam dificuldades para acessar processadores de pagamento tradicionais. As criptomoedas há muito sustentam atividades comerciais evitadas por bancos e administradoras de cartão. O Silk Road tornou o bitcoin notório como a moeda de um mercado online de drogas antes de ser fechado por agentes dos EUA em 2013. O comércio de peptídeos está estendendo essa infraestrutura a um novo perfil de cliente: consumidores interessados ​​em bem-estar que, até então, não tinham qualquer ligação com criptomoedas ou mercados da chamada \"darknet\". \"É um mercado com compradores que estão usando criptomoedas pela primeira vez e que talvez nunca tenham comprado drogas no Silk Road ou em outros mercados da 'darknet'\", afirmou Sara Graham, analista sênior de inteligência da Chainalysis. Na TRM Labs, empresa de tecnologia de segurança que investiga fraudes com ativos digitais, pesquisadores constataram que fabricantes de produtos químicos da China estavam expandindo suas atividades para o segmento de peptídeos. Ao combinar análises on-chain com investigações em fontes abertas sobre fabricantes de precursores químicos, a empresa identificou que o fluxo de criptomoedas para o setor atingiu US$ 41,4 milhões em 2025 — um aumento de 20% em relação ao ano anterior, apesar da pressão das autoridades policiais. \"É um mercado enorme e em expansão\", disse Ari Redbord, chefe global de políticas da TRM Labs. \"Não tenho certeza se existe algum mercado de drogas no mundo crescendo tanto e tão rapidamente quanto o de peptídeos.\" Os peptídeos são comercializados com a promessa de ajudar a ganhar massa muscular, acelerar a recuperação, melhorar o sono, aguçar o foco ou retardar os efeitos do envelhecimento. Embora medicamentos injetáveis ​​de grande sucesso, como Zepbound e Wegovy, sejam fármacos à base de peptídeos rigorosamente testados e formalmente aprovados, existe uma infinidade de produtos concorrentes disponíveis sem dados robustos de segurança ou eficácia em humanos. Muitos são adquiridos pela internet, onde são comercializados como \"produtos químicos para pesquisa\". Frequentemente, trazem avisos de isenção de responsabilidade em destaque, declarando que não são aprovados pela FDA nem destinados ao uso em humanos ou animais. Velho oeste O mercado atual é como o \"Velho Oeste\", disse Lee Rosebush, presidente da American Academy of Peptide Medicine, uma organização sem fins lucrativos que defende a regulamentação nos EUA. Adotar uma abordagem mais rigorosa reduziria o número de fabricantes que vendem produtos rotulados apenas para \"uso em pesquisa\" e proporcionaria aos pacientes um acesso melhor a medicamentos seguros, afirmou ele. Há um certo movimento nessa direção. A Food and Drug Administration (FDA) está convocando um comitê consultivo para discutir se alguns peptídeos populares deveriam ser produzidos legalmente nos EUA. O Secretário de Saúde e Serviços Humanos, Robert F. Kennedy Jr., é um defensor da ideia, argumentando que legalizar alguns peptídeos ajudaria a \"desviar a demanda do mercado paralelo\". O interesse está crescendo rapidamente. Em um canto apertado de um pub em Manhattan decorado com itens relacionados a criptomoedas, mais de 100 pessoas se espremiam, ombro a ombro, para ouvir uma palestra sobre peptídeos. O ambiente estava quente, lotado e desconfortável, mas a plateia permanecia atenta a Julius Ritter — o fundador do California Peptide Club, na casa dos 20 anos, que viajara para a Costa Leste para disseminar a causa. Ao se apresentar, Ritter listou suas credenciais: fundador de uma empresa de entrega de refeições focada em longevidade, presidente de uma casa de residência e \"hackathon\" em São Francisco e, a partir deste mês, um competidor em corridas de espermatozoides. Na hora seguinte, Ritter utilizou uma apresentação de slides para explicar à plateia a química dos peptídeos, destacar usos potenciais, reconhecer alguns riscos e citar diversos produtos. Ele encerrou com uma demonstração ao vivo: levantou sua camiseta preta e aplicou uma injeção em si mesmo diante da multidão, sob fortes aplausos. Durante a sessão de perguntas e respostas, Ritter respondeu pacientemente aos questionamentos, admitindo que utiliza peptídeos para aumentar seus níveis de testosterona, ao mesmo tempo em que minimizava, em grande parte, as preocupações quanto à segurança dessas substâncias. Os peptídeos tornaram-se populares entre frequentadores de academias e \"biohackers\", impulsionados pelo apoio de podcasters influentes como Joe Rogan e Andrew Huberman. Até mesmo a atriz Jennifer Aniston declarou ao The Wall Street Journal, em 2023, que havia incluído injeções semanais de peptídeos em sua rotina de cuidados antienvelhecimento. No entanto, à medida que os peptídeos ganhavam destaque junto ao grande público, os órgãos reguladores intensificaram a fiscalização, levando muitos vendedores a operar na clandestinidade. Isso pouco fez para conter a demanda; em vez disso, os compradores simplesmente encontraram novas formas de efetuar os pagamentos. \"Um dos primeiros casos de uso das criptomoedas foi no mercado clandestino\", afirmou Redbord. \"A promessa das criptomoedas é a transferência de valor além-fronteiras. Agora, agentes mal-intencionados conseguem movimentar quantias maiores do que nunca.\" Zach atingiu o peso que desejava e diz que provavelmente não comprará mais peptídeos diretamente da China. Na próxima vez, ele prefere recorrer a um fornecedor dos EUA, mesmo que o preço seja mais alto. Resta saber, porém, se isso lhe dará mais segurança sobre a composição do que está injetando em seu corpo.",
       "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/07/20/velho-oeste-dos-peptideos-underground-gira-us-32-milhoes-em-pagamentos-com-criptomoedas.ghtml",
@@ -6725,38 +6542,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Incêndio em centro logístico do maior e-commerce da Coreia do Sul entra no terceiro dia",
-      "summary": "Um incêndio em um centro logístico da gigante do comércio eletrônico Coupang, que atende a região metropolitana de Seul, já durava mais de 52 horas na manhã desta segunda-feira (20). As autoridades ordenaram a evacuação de empresas e fábricas próximas devido ao risco de desabamento parcial do prédio. O fogo começou por volta das 6h54 de sábado (18) (21h54 GMT de sexta-feira) no sexto andar do centro de distribuição nº 32 da empresa, em Incheon, a oeste de Seul, e se espalhou para o sétimo andar, segundo o corpo de bombeiros. Todos os funcionários que estavam no local foram retirados em segurança, informou a Coupang. A causa do incêndio ainda não foi determinada. O armazém, porém, guardava grande quantidade de materiais inflamáveis, como produtos domésticos, caixas de papelão e embalagens plásticas. A investigação será iniciada após a completa extinção do fogo. Imagens de câmeras de segurança exibidas na manhã de segunda-feira mostravam dezenas de caminhões de bombeiros e fumaça ainda saindo do edifício, apesar da chuva. No fim de domingo (19), as autoridades emitiram uma ordem de evacuação para lojas e fábricas localizadas em um raio de 116 metros da rampa de acesso ao armazém, diante da possibilidade de colapso de parte da estrutura. O centro de distribuição é utilizado para armazenar mercadorias adquiridas diretamente pela Coupang para seu serviço de entrega expressa. O complexo tem oito andares e cerca de 299 mil metros quadrados, área equivalente a aproximadamente 42 campos de futebol. A Coupang Corporation, maior empresa de comércio eletrônico da Coreia do Sul e subsidiária da americana Coupang Inc., não divulgou o impacto operacional nem estimativas de perdas financeiras decorrentes do incêndio. Segundo o relatório anual de 2025, a companhia opera mais de 100 centros logísticos em mais de 30 regiões do país. Em comunicado divulgado no sábado, o diretor da Coupang Fulfilment Services, Jeong Jong-cheol, pediu desculpas pelo incidente e afirmou que a empresa vai colaborar com as autoridades, apoiará os esforços de combate ao incêndio e prestará assistência aos moradores da região. A Coupang se recusou a comentar o caso além da nota oficial.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/20/incendio-em-centro-logistico-do-maior-e-commerce-da-coreia-do-sul-entra-no-terceiro-dia.ghtml",
-      "published": "2026-07-20T04:48:08+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "centro de distribuição",
-        "coupang"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "centro de distribuição",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "coupang",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "O retorno de um ícone da relojoaria",
@@ -7094,46 +6879,6 @@
       "score": 16.0
     },
     {
-      "title": "País tem recorde de importados baratos após queda de taxação",
-      "summary": "O Brasil nunca importou tantas mercadorias baratas com isenção, ou desconto de impostos, como em junho, quando houve R$ 2,6 bilhões em envios de produtos internacionais pelo Programa Remessa Conforme, criado em 2023. A escalada nos envios se deu logo após o governo zerar o imposto para compras internacionais abaixo de US$ 50. Entidades do setor produtivo e do varejo brasileiro criticaram o governo pela decisão tomada cinco meses antes das eleições presidenciais. Para se ter ideia do tamanho do montante importado, equivale a toda a venda líquida de vestuário de três meses (janeiro a março) somados da Lojas Renner, a maior cadeia de moda do Brasil, e representa ainda nove vezes de tudo o que a rede Marisa vendeu nesse mesmo período. Procurada, a Receita Federal disse que ainda é cedo para dizer se esse efeito é duradouro ou se foi apenas impulso pontual após a mudança da alíquota. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/07/20/pais-tem-recorde-de-importados-baratos-apos-queda-de-taxacao.ghtml",
-      "published": "2026-07-20T08:00:13+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Fashion",
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "lojas renner",
-        "remessa conforme",
-        "renner"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "renner",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "lojas renner",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "remessa conforme",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 12.0
-    },
-    {
       "title": "Fortaleza entra na rota do transplante capilar",
       "summary": "Durante anos, quem buscava procedimentos médicos de alta complexidade fora dos grandes centros costumava embarcar para São Paulo, Rio de Janeiro ou até para o exterior. Aos poucos, porém, esse fluxo começa a mudar. O avanço da medicina especializada em diferentes regiões do País tem redesenhado o mapa do chamado turismo de saúde, fenômeno que movimenta pacientes em busca de tecnologia, equipes altamente qualificadas e estruturas hospitalares específicas. Nesse cenário, Fortaleza passa a ocupar um espaço estratégico em um segmento que cresce no Brasil: o transplante capilar. A capital cearense abriga agora um hospital especializado exclusivamente nesse tipo de procedimento nas regiões Norte e Nordeste, estrutura que reforça a tendência de ampliar acesso aos serviços médicos de alta especialização e amplia a capacidade da região para atender pacientes de diferentes estados e até do exterior. A tendência acompanha o crescimento do turismo brasileiro. Segundo dados do IBGE, divulgados em 2026, as atividades turísticas registraram alta de 4,6% em 2025, alcançando o maior nível da série histórica iniciada em 2011. Instalado pelo Grupo Capilar Brasil, o hospital recebeu investimento de R$ 6 milhões e reúne três blocos cirúrgicos em uma área de 800 metros quadrados, com capacidade para realizar até 12 procedimentos por dia. A escolha de Fortaleza levou em consideração fatores como a malha aérea nacional e internacional, a rede hoteleira consolidada e a posição geográfica que facilita o deslocamento de pacientes vindos das regiões Norte e Nordeste do Brasil e também de outros países. \"O paciente de hoje não procura apenas um procedimento. Ele busca segurança, estrutura hospitalar, equipe especializada e facilidade de deslocamento. Fortaleza reúne esses fatores e passa a desempenhar um papel importante nesse novo cenário\", afirma Jorge Librelotto, diretor técnico do Grupo Capilar Brasil Ceará. A movimentação acompanha uma transformação observada em diferentes especialidades médicas, em que hospitais altamente especializados substituem modelos tradicionais de clínicas para procedimentos eletivos. Além da infraestrutura hospitalar, o grupo concentrou na capital cearense profissionais treinados durante 18 meses em Santa Catarina, incluindo o médico recordista mundial da instituição em número de folículos implantados e parte da equipe de enfermagem responsável pela padronização dos procedimentos. Fundado em Santa Catarina, o Grupo Capilar Brasil acumula mais de 65 mil transplantes realizados e mantém hospitais próprios em Santa Catarina e no Ceará. Somadas, as unidades reúnem cerca de 2.200 metros quadrados dedicados exclusivamente à restauração capilar. Outro indicador da internacionalização desse mercado é o perfil dos pacientes atendidos pela instituição. Somente em 2025, 233 estrangeiros viajaram ao Brasil para realizar transplantes capilares com a equipe do grupo, vindos de países como Estados Unidos, França, Inglaterra, Espanha, Austrália, Bolívia e China. O movimento reforça uma tendência observada em diversos segmentos da medicina brasileira, que têm atraído pacientes internacionais em busca de qualidade técnica aliada a custos mais competitivos. \"A unidade de Fortaleza é um projeto estruturado que integra saúde, bem-estar e comodidade, porque reúne conectividade nas áreas nacional e internacional, infraestrutura hoteleira consolidada e atrativos turísticos que complementam a jornada do paciente.\" Além da expansão física, a instituição aposta em um sistema próprio de transplante capilar desenvolvido ao longo de anos de pesquisa. A técnica utiliza lâminas de safira e microscopia tridimensional para ampliar a densidade da implantação dos folículos, permitindo tratar, em uma única intervenção, casos de calvície que tradicionalmente poderiam exigir duas ou até três cirurgias.",
       "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/07/21/fortaleza-entra-na-rota-do-transplante-capilar-1.ghtml",
@@ -7321,52 +7066,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "País bate recorde de importados após ‘MP das blusinhas’ e indústria critica governo",
-      "summary": "O Brasil nunca importou tantas mercadorias baratas com isenção, ou desconto de impostos, como em junho pelo Programa Remessa Conforme, criado em 2023 pelo governo federal. No mês passado, o país bateu recorde de R$ 2,6 bilhões em envios de produtos internacionais, o maior nível já verificado na história do programa de nacionalização antecipada, segundo levantamento do Valor na base de dados da Receita Federal. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/19/pas-bate-recorde-de-importados-aps-mp-das-blusinhas-e-indstria-critica-governo.ghtml",
-      "published": "2026-07-19T11:20:28+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "remessa conforme"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "remessa conforme",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Os três erros mais comuns ao avaliar um investimento",
-      "summary": "O cérebro humano é uma máquina extraordinária de simplificar informações. Diante de centenas de dados, ele procura um único número que pareça resumir toda a história. Fazemos isso ao escolher um restaurante pela nota média, um hotel pela avaliação dos hóspedes ou um aluno pela média final. Nos investimentos, porém, esse atalho costuma levar a conclusões erradas. Leia mais (07/19/2026 - 18h00)",
-      "url": "https://www1.folha.uol.com.br/blogs/de-grao-em-grao/2026/07/os-tres-erros-mais-comuns-ao-avaliar-um-investimento.shtml",
-      "published": "2026-07-19T21:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "hotel"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "hotel",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "PT confirma Patrus Ananias como pré-candidato ao governo de Minas Gerais",
@@ -8289,6 +7988,52 @@
       "score": 8.0
     },
     {
+      "title": "A corrida pelo wellness premium ganha um novo competidor em São Paulo",
+      "summary": "Criada em 2024 no Rio de Janeiro e logo abraçada pela geração Z, artistas e influenciadores da área fitness, a rede de academias carioca The Simple Gym chega a São Paulo em novembro. E com um objetivo claro: capturar parte dos atletas que frequentam o Ibirapuera, na Zona Sul de São Paulo e atingir um [&#8230;] O post A corrida pelo wellness premium ganha um novo competidor em São Paulo apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/finde/a-corrida-pelo-wellness-premium-ganha-um-novo-competidor-em-sao-paulo",
+      "published": "2026-07-26T11:59:04+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "rede de academias"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "rede de academias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Petróleo abre a semana em forte queda após suspensão de ataques dos EUA ao Irã",
+      "summary": "O petróleo iniciou a semana em forte queda depois que os Estados Unidos suspenderam os ataques contra o Irã, reduzindo os riscos de interrupção da oferta global, mesmo após os houthis afirmarem ter atacado alvos na Arábia Saudita. A difícil busca de novos mercados: Tarifaço de Trump expõe limites do Brasil para elevar participação no comércio global Afetados pelo tarifaço: setores tentam reverter fim da taxa das blusinhas O Brent, referência global para os preços do petróleo, caiu mais de 7% nos primeiros minutos de negociação, chegando a ser cotado abaixo de US$ 90 por barril, antes de ser negociado próximo de US$ 92. O preço do gás natural na Europa também recuou. Após 13 dias de ataques contra a República Islâmica, os EUA suspenderam as ofensivas desde o fim da sexta-feira, levantando dúvidas sobre qual será o próximo passo do presidente Donald Trump. O Exército iraniano afirmou que Teerã também interrompeu suas ações. Initial plugin text Ainda assim, os houthis do Iêmen, apoiados por Teerã, disseram ter atacado, no sábado, instalações ligadas à Saudi Aramco nas cidades portuárias de Jizan e Yanbu, às margens do Mar Vermelho. Nem o governo saudita nem a Aramco confirmaram a informação de imediato. Alta no mês de 25% Apesar da queda desta segunda-feira, o Brent ainda acumula alta de mais de 25% no mês, depois que o conflito entre EUA e Irã se espalhou do Estreito de Ormuz para o Mar Vermelho. A guerra, que se aproxima do fim do quinto mês, aumentou os temores de um choque inflacionário global diante da queda dos estoques e da alta dos preços dos derivados de petróleo. 'Ninguém nos derrotará com mentiras', diz Lula a Trump em artigo no Washington Post sobre tarifaço No fim de semana, as autoridades sauditas emitiram alertas de emergência para duas províncias, mas os suspenderam pouco depois. Yanbu, ponto final do oleoduto Leste-Oeste da Arábia Saudita na costa do Mar Vermelho, tornou-se a principal rota de exportação de petróleo bruto do país, movimentando milhões de barris por dia desde que o Estreito de Ormuz ficou praticamente fechado. Jizan abriga uma refinaria e um terminal de exportação da Aramco. O Brent também encerrou a sexta-feira em queda, em parte porque indicadores técnicos sinalizaram que os preços haviam subido de forma rápida e intensa demais após uma sequência de cinco sessões consecutivas de alta.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/07/26/petroleo-abre-a-semana-em-forte-queda-apos-suspensao-de-ataques-dos-eua-ao-ira.ghtml",
+      "published": "2026-07-26T22:54:33+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Exportadoras de commodities serão destaques nos balanços do 2º trimestre, projeta Santander",
       "summary": "A temporada de resultados do segundo trimestre no mercado brasileiro será marcada por desempenhos divergentes, refletindo um ambiente de juros altos e fatores externos díspares, diz o Santander. Os analistas Aline de Souza Cardoso, Andres Soto e Ulises Argote escrevem que s setores ligados a commodities serão destaque, enquanto as empresas de foco doméstico apresentarão uma clara desaceleração em seus balanços. A projeção consolidada aponta para uma retração anual média de 10% na receita líquida, 23% no Ebitda e 20% no lucro líquido, mas, apesar da queda generalizada, a composição dos números revela dinâmicas setoriais bem definidas. O cenário-base da temporada é delineado por tensões geopolíticas no Oriente Médio, que elevaram o prêmio de risco e levaram o barril de petróleo Brent a se aproximar da faixa de US$ 87, beneficiando produtoras. No mercado interno, o banco afirma que a combinação de riscos fiscais elevados e dados recentes de inflação forçou uma reprecificação da curva de juros e um adiamento da perspectiva de queda na Selic. Esse ambiente de juros reais persistentemente altos e condições de crédito mais restritas tem pesado sobre a atividade econômica e, consequentemente, sobre o balanço de empresas sensíveis à taxa. O setor de petróleo e gás consolida-se como o grande destaque positivo, estimando que as empresas do bloco de commodities registrarão um salto médio de 33% no Ebitda na comparação anual mesmo com uma retração esperada de 11% nas receitas. Em contrapartida, as companhias dependentes do ciclo doméstico devem apresentar queda de 10% nas receitas, 8% no Ebitda e 10% no lucro líquido, na comparação anual, uma desaceleração evidente em relação ao primeiro trimestre. Petrobras e Prio são as grandes apostas, sustentadas pelo forte nível do Brent e boa execução operacional, enquanto Gerdau, Usiminas, Frasle Mobility, Multiplan, Smart Fit e TIM Brasil também devem se destacar. Do lado negativo, o banco aponta que a Natura enfrentará dificuldades com queda projetada de 10% na receita e compressão severa de margens operacionais no Brasil, enquanto Aura Minerals, Grupo Mateus, Marcopolo e Pague Menos também terão números ruins. Helmut Otto/Agência Petrobras",
       "url": "https://valor.globo.com/empresas/noticia/2026/07/20/exportadoras-de-commodities-serao-destaques-nos-balancos-do-2o-trimestre-projeta-santander.ghtml",
@@ -8478,18 +8223,26 @@
       "score": 4.0
     },
     {
-      "title": "Como a China entrou na febre da Copa do Mundo mesmo sem disputar o torneio",
-      "summary": "A China não disputa uma Copa do Mundo há mais de duas décadas, mas a ausência da seleção nacional não impediu que os torcedores chineses acompanhassem em massa os jogos e nem que as marcas aproveitassem a oportunidade comercial gerada pelo torneio. A seleção chinesa só conseguiu se classificar uma vez para a Copa, em 2022, quando perdeu as três partidas da fase de grupos. Ainda assim, a maior torcida de futebol do mundo - estimada em 289 milhões de pessoas, segundo o evento Social Football Summit - encontrou muitos motivos para acompanhar o torneio, que termina hoje com a final entre Espanha e Argentina, em Nova Jersey, nos EUA. Apesar dos horários pouco favoráveis para a Ásia, a Copa do Mundo deste ano caminha para ser a mais assistida pelos chineses. Entre 12 de junho e 8 de julho - durante a fase de grupos e o mata-mata, a audiência do canal esportivo da estatal CCTV entre 2h e 6h, horário em que ocorreu a maior parte das partidas, aumentou 1.701% em relação ao ano anterior. O aplicativo chinês RedNote também transmitiu gratuitamente todas as partidas, além de reprises e melhores momentos, com autorização da CCTV. A imprensa chinesa informou que a plataforma investiu 1,7 bilhão de yuans (US$ 250 milhões) pelos direitos de transmissão. Mesmo sem jogadores em campo, a China foi protagonista no torneio de outras formas. O árbitro Ma Ning ganhou destaque ao liderar uma equipe de três chineses que apitou uma partida da fase de grupos entre Equador e Curaçao. Foi o primeiro jogo de Copa do Mundo comandado por um árbitro chinês em 24 anos. O polo atacadista de Yiwu esteve a todo vapor produzindo bichos de pelúcia de jogadores e outros produtos licenciados. A imprensa estatal chinesa também informou que as bolas tecnológicas Trionda, da Adidas, foram fabricadas na província de Guangdong, embora outras reportagens apontem um fornecedor no Paquistão. O anúncio original da Adidas não informou o local de fabricação. Em 2022, a Reuters informou que uma empresa paquistanesa produziu bolas para treinamentos e vendas comerciais, enquanto as bolas oficiais com sensores foram fabricadas na China. Pessoas caminham em frente a um enorme telão publicitário em Pequim com a foto de Lionel Messi Maxim Shemetov/Reuters Alguns torcedores — e também marcas — passaram a apostar em jogadores de outras seleções. O atacante norueguês Erling Haaland tornou-se um fenômeno nas redes sociais chinesas e conquistou milhões de seguidores após estrelar uma campanha da marca de bebidas fitoterápicas Wanglaoji. No vídeo, que viralizou, Haaland fala mandarim para promover o rótulo internacional da empresa, Walovi. O jogador do Manchester City, conhecido por seus 1,95 metro de altura e força física, também protagoniza uma campanha da fabricante chinesa de eletrodomésticos Midea. Em um dos vídeos, ele treina carregando uma máquina de lavar nas costas e faz agachamentos com uma geladeira. A Midea, que busca expandir seus negócios na Europa, informou nesta semana que entregou às pressas 200 mil aparelhos de ar-condicionado à França em apenas sete dias, em meio à intensa onda de calor. A Puma, marca de artigos esportivos que recentemente passou a ter participação minoritária da chinesa Anta, forneceu uniformes e chuteiras para quase tantas seleções quanto as rivais Nike e Adidas. Outra grande marca chinesa, a Li Ning, também apareceu no torneio por meio do jogador cabo-verdiano Willy Semedo, visto usando seus calçados durante as partidas. O estádio nacional de Cabo Verde foi construído com ajuda da China há mais de uma década — uma contribuição para a ascensão da seleção africana à condição de \"azarão simpático\", fato amplamente destacado pela imprensa estatal chinesa. A gigante chinesa de tecnologia Lenovo, controlada pelo Estado, forneceu a tecnologia que cria avatares em 3D dos jogadores utilizados na marcação de impedimentos, além de um sistema de estabilização baseado em inteligência artificial para melhorar as imagens captadas pelas câmeras usadas pelos árbitros. Tudo isso sinaliza uma mudança sutil na estratégia das empresas chinesas para lucrar com a Copa do Mundo: menos foco em grandes contratos de patrocínio e maior ênfase em atuar como fornecedoras. Dos 16 patrocinadores oficiais da Fifa, apenas três são chineses: Lenovo, China Mengniu Dairy e a fabricante de televisores Hisense. Juntas, investiram cerca de US$ 500 milhões no torneio, segundo relatório da Hua Chuang Securities divulgado em junho. O número contrasta com a Copa de 2022, no Catar, quando seis empresas chinesas investiram quase US$ 1,4 bilhão e fizeram da China a principal origem dos recursos de patrocínio. Hoje, as empresas chinesas gastam menos em publicidade do que as americanas. Pessoas visitam um evento temático da Copa do Mundo em Xangai, Go Nakamura/Reuters Alguns patrocinadores do passado enfrentam dificuldades financeiras. Segundo a imprensa, a Fifa cancelou os direitos de patrocínio do conglomerado chinês Dalian Wanda Group, altamente endividado, após a empresa deixar de cumprir pagamentos previstos em 2024. O grupo já foi presença constante em grandes eventos esportivos internacionais, incluindo a Copa do Mundo. Quem não enfrenta falta de recursos é a Fifa. A Copa do Mundo de 2026 deverá gerar a maior receita da história da entidade. A própria Fifa estima arrecadar um recorde de US$ 11 bilhões com o torneio, quase o dobro do obtido na Copa do Catar. Organizada conjuntamente por Estados Unidos, Canadá e México, a Copa de 2026 também é a maior da história em número de participantes, com 48 seleções. O presidente da Fifa, Gianni Infantino, afirmou que a entidade estudará ampliar esse número para 64 equipes na Copa de 2030. Isso poderá facilitar o caminho da China rumo à classificação, já que o país enfrenta dificuldades há anos para montar uma seleção masculina competitiva, apesar da ambição do governo de transformar o país em uma \"superpotência do futebol\" e dos sinais de progresso nas categorias de base. Alguns especialistas, porém, demonstram preocupação com o desempenho da China mesmo em uma Copa ampliada. Questionado recentemente sobre essa possibilidade, o conhecido comentarista chinês Dong Lu foi direto. \"Acreditem em mim: no estado atual da seleção chinesa, o melhor para os torcedores é assistir à Copa de fora\", afirmou. \"Não participar é a opção menos estressante. Ir ao torneio só traria mais sofrimento e constrangimento.\"",
-      "url": "https://valor.globo.com/mundo/noticia/2026/07/19/como-a-china-entrou-na-febre-da-copa-do-mundo-mesmo-sem-disputar-o-torneio.ghtml",
-      "published": "2026-07-19T12:30:13+00:00",
-      "source": "https://pox.globo.com/rss/valor",
+      "title": "'Não prevemos o futuro, criamos o futuro', diz CEO da Oakley",
+      "summary": "Sob a liderança do brasileiro Caio Amato, a Oakley deixou de priorizar volume de vendas e retomou suas origens de inovação tecnológica, valor do nome e conexão cultural com seu público. “O DNA da marca sempre foi de inovação, disrupção e autenticidade, mas, quando a Luxottica (depois EssilorLuxottica) comprou a Oakley, juntou duas culturas muito diferentes”, diz Amato. “A Oakley parou um pouco no tempo, não porque tentou ser uma coisa diferente, mas porque não pôde ser ela mesma.” A vida após Azzas: Baw Clothing quer exterior e sócios influenciadores Um outro Birman de olho no varejo — na ponta de tecnologia O executivo assumiu a liderança global da grife de óculos e artigos esportivos no ano passado, após atuar como diretor global de marketing e acumular passagens por Adidas e Mizuno. “Meu mérito foi trazer o negócio de volta para o seu DNA e ser intermediador dessas duas culturas, transformando o pragmatismo da Luxottica em inspiração da Oakley e vice-versa.” O investimento em inovação e construção da marca se reflete no reposicionamento de preços, mas ele sublinha que a Oakley se preocupa em construir uma pirâmide para atender todo tipo de consumidor. “Este ano tem tudo para ser o maior crescimento percentual da história.” Caio Amato é CEO global da Oakley Rogério Vieira/Valor A Oakley tem hoje duas grandes verticais: uma esportiva e outra de cultura, e trabalha com atletas como Kylian Mbappé, o jogador de futebol americano Patrick Mahomes e o esquiador Lucas Pinheiro. No Brasil, ela é forte em surf, com parcerias com Gabriel Medina, Filipe Toledo e Pedro Scooby, mas também no skate com Leticia Bufoni. ”A missão em esportes é definir os problemas, junto com os atletas, achar as soluções e embrulhar a arte”, define Amato. Na cultura, a missão é traduzir o sentido estético das pessoas com nomes como o cantor americano Travis Scott, atual Chief Visionary Officer. “O Travis tem uma habilidade muito única de transformar sentimento em produto. Já o Mark Cavendish, um dos maiores ciclistas da história, tem sensibilidade milimétrica para fazer um óculos, porque é exposto a situações extremas.” A escolha das parcerias não é necessariamente pela performance. Ela precisa atender também critérios de autenticidade e envolvimento com a comunidade ou ações beneficentes. “Eu nunca vou atrás do melhor atleta. Escolhemos trabalhar com o Mbappé, por exemplo, por conta do projeto dele de fazer clínicas para tratar a visão de crianças de lugares não privilegiados”, disse Amato. Na venda da Farm, devagar com o andor Crescera compra participação na Vix Brasil, moda praia de Paula Hermanny O investimento em tecnologia faz parte de ambas as verticais. Oakley, por exemplo, tem usado Inteligência Artificial para desenvolver óculos inteligentes em parceria com a Meta sob as linhas Oakley Meta HSTN, para uso diário, e Oakley Meta Vanguard, voltada para alta performance de atletas. A ideia nasceu da conversa de se criar uma tecnologia que permitisse alguém , por exemplo, jogar tênis com outra pessoa do outro lado do mundo. “Acreditamos que a IA pode ser um amplificador do ser humano. Você está em show, por exemplo, e pode gravar ou estar andando de bicicleta e pode identificar o monumento só apontando a câmera do óculos”, disse. Muitas soluções que hoje são desenvolvidas para uma indústria específica servem como teste para lançar produtos para o mercado. É o caso, por exemplo, da parceria com a Axiom Space para desenvolver as viseiras dos novos capacetes da Nasa para a histórica missão lunar Artemis III. Com novo dono, Privalia tira plano de expansão da gaveta Sem Master, Le Lis e Dudalina puxam retomada da Veste “Esse capacete desenvolvido em ouro para a Nasa para aguentar grande variação de temperatura vai demorar um tempo para se tornar acessível para o mercado, mas a tecnologia desenvolvida pode servir, depois, para fazermos um óculos para ultramaratonas no deserto, por exemplo”, diz. \"A gente não prevê o futuro, a gente cria o futuro\", disse. Amato, que tem o best-seller sobre liderança e comportamento organizacional Simon Sinek como livro de cabeceira destaca a conexão emocional com os consumidores. Nesse sentido, “o Brasil é uma baita inspiração para novos produtos e soluções”, se somando aos Estados Unidos como os maiores mercados da fabricante de óculos e artigos esportivos. Nascido em Mococa, no interior de São Paulo, Amato sempre teve uma ligação com esporte. Foi jogando futebol que conseguiu vencer o bullying na escola. Mas a entrada na indústria de vestuário esportivo aconteceu por “acidente”. Ele estava trabalhando em um estúdio de audiovisual enquanto cursava Marketing na ESPM quando foi convidado para trabalhar na Alpargatas. Família Hering quer a marca de volta e contrata BR Partners para negociar com Azzas Como a IA ajuda a prever o que estará na moda daqui a dois anos “Eu caí de paraquedas, não posso mentir. Eu achava que eu ia ser diretor de cinema. Era bom em matemática e cheguei a fazer um ano de física na Unicamp, prestei Psicologia. Eu não sabia exatamente o que queria, mas sabia que era multidisciplinar. Eu só fui entender que a minha missão era transformar a vida das pessoas através do esporte e inovação com mais de 30 anos”, disse. Para quem está começando, Amato dá dois conselhos: seja você mesmo e preste atenção nas coisas que te energizam. “Eu tentei imitar muita gente na minha vida e a partir do momento em que eu parei de tentar ser outras pessoas, a minha carreira tomou uma propulsão”, relata.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/de-oculos-com-ia-a-nasa-caio-amato-resgata-o-dna-da-oakley.ghtml",
+      "published": "2026-07-26T11:00:21+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
       "matched_sectors": [
         "Wellness e Esportes"
       ],
       "matched_aliases": [
-        "artigos esportivos"
+        "artigos esportivos",
+        "mizuno"
       ],
       "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "mizuno",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
         {
           "sector": "Wellness e Esportes",
           "alias": "artigos esportivos",
@@ -8498,30 +8251,7 @@
           "topic": null
         }
       ],
-      "score": 2.0
-    },
-    {
-      "title": "Alibaba revela prévia de seu principal modelo de IA",
-      "summary": "O Alibaba Group lançou uma versão de prévia de seu principal modelo de inteligência artificial, o Qwen3.8 Max, que a empresa descreveu como comparável aos principais modelos de IA de fronteira do mercado e inferior apenas ao Fable 5, da Anthropic. 'Tokenmaxxing' flopou? Agentes de IA prometeram eficiência, mas estão entregando boletos altíssimos Xi Jinping: Presidente da China defende a 'abertura' como estratégia para moldar o futuro da IA O lançamento, realizado neste domingo, ocorreu apenas alguns dias depois de a startup chinesa Moonshot AI apresentar um modelo de alto desempenho. O Kimi K3 oferece um desempenho comparável aos principais modelos da Anthropic e da OpenAI, ajudando a transformar a percepção sobre as capacidades da China em inteligência artificial e provocando forte volatilidade nas ações globais de tecnologia. Os desenvolvedores já podem acessar o Qwen3.8 Max por meio das plataformas de programação da Alibaba, incluindo a Qoder. Em uma publicação na rede social X, a empresa sediada em Hangzhou afirmou que o novo modelo está entre os mais poderosos disponíveis atualmente. Initial plugin text A Alibaba pretende disponibilizar o modelo em breve com pesos abertos (open-weight), ampliando o acesso além desta versão de prévia. A publicação informa que o Qwen3.8 Max possui 2,4 trilhões de parâmetros, mas não apresenta especificações técnicas adicionais. Já o Kimi K3, da Moonshot, conta com 2,8 trilhões de parâmetros. Conheça: Nova empresa da 'mãe do ChatGPT' lança primeiro modelo de IA Recentemente, a gigante chinesa do comércio eletrônico, dona do AliExpress, conquistou uma importante vitória depois que Pequim aprovou o Apple Intelligence. A Alibaba atua como parceira tecnológica da Apple para a oferta de recursos de inteligência artificial da empresa norte-americana na China. Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/07/19/alibaba-revela-previa-seu-principal-modelo-de-ia.ghtml",
-      "published": "2026-07-19T13:09:23+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "aliexpress"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "aliexpress",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 2.0
+      "score": 4.0
     },
     {
       "title": "Vicci entra na disputa das academias de luxo, com mensalidade de R$ 7 mil",
