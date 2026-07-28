@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T09:24:13.941083+00:00",
-  "count": 322,
-  "new_this_run": 7,
+  "generated_at": "2026-07-28T09:43:25.128364+00:00",
+  "count": 323,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Briga das canetas emagrecedoras: dona do Ozempic processa fabricante do Mounjaro nos EUA por propaganda enganosa",
@@ -2823,29 +2823,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Gold Prices Have Tanked. Buying the Dip Makes Sense.",
-      "summary": "The precious metal can still hedge against major risks as the Iran conflict drags on.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-prices-have-tanked-buying-the-dip-makes-sense-4db80abc?mod=rss_markets_main",
-      "published": "2026-07-21T09:30:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Attention Investors: How The Iran War Could Affect The Price Of Gold",
@@ -6750,6 +6727,52 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Cimed quer brigar com gigantes globais de consumo para crescer, diz João Adibe - Bloomberg Línea Brasil",
+      "summary": "Cimed quer brigar com gigantes globais de consumo para crescer, diz João Adibe &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/cimed-quer-brigar-com-gigantes-globais-de-consumo-para-crescer-diz-joao-adibe",
+      "published": "2026-07-28T09:00:01+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "LVMH Releases Positive Half-Year Results As Fashion Renews With Growth",
+      "summary": "LVMH just released its first semester earnings, indicating optimism thanks to renewed growth in Asia, strong momentum in the U.S. and success with its fashion, watches and jewelry divisions.",
+      "url": "https://www.forbes.com/sites/claraludmir/2026/07/28/lvmh-releases-positive-half-year-results-as-fashion-renews-with-growth",
+      "published": "2026-07-28T09:14:34+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "lvmh"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "lvmh",
           "field": "title",
           "score": 20,
           "topic": null
