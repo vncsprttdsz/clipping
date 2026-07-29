@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T11:15:18.647273+00:00",
-  "count": 358,
-  "new_this_run": 12,
+  "generated_at": "2026-07-29T11:50:39.867746+00:00",
+  "count": 384,
+  "new_this_run": 27,
   "articles": [
     {
       "title": "Novo Nordisk pede liminar para impedir imediatamente anúncios de Mounjaro da Eli Lilly",
@@ -74,6 +74,109 @@
         {
           "sector": "Global Consumer",
           "alias": "zepbound",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 100.0
+    },
+    {
+      "title": "Anvisa aprova cinco novas canetas com semaglutida, princípio ativo do Ozempic",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou nesta quarta-feira (29) o registro de cinco novas canetas com semaglutida. Agora, o país conta com seis remédios aprovados com a molécula, a mesma usada nas canetas emagrecedoras da dinamarquesa Novo Nordisk, fabricante do Ozempic e do Wegovy, desde que ela perdeu a exclusividade em março. Entre os novos medicamentos estão aqueles que serão vendidos pela farmacêutica suíça Sandoz, pelo laboratório brasileiro Hypera e pelo laboratório indiano Sun Pharma. As canetas usam semaglutida sintética e não se enquadram como genéricas, já que a legislação não permite a fabricação de genéricos de produtos biológicos, caso do princípio ativo do Ozempic. Foram classificadas como medicamento novo, alternativa sintética do produto biológico, assim como o Ozivy, a caneta com semaglutida da EMS, farmacêutica brasileira do conglomerado de Carlos Sánchez, até então única com semaglutida sintética registrada no país. Os registros são para o Owozy, caneta que será vendida pela Sandoz, a partir de parceria com a Ávita Care e com o laboratório europeu Adalvo; para o Seemasun, da farmacêutica indiana Sun Pharma; para o Orsema, caneta do laboratório Ranbaxy, também controlado pela indiana Sun Pharma; para o Zempneo, da farmacêutica brasileira Brainfarma, controlada da Hypera; e para a Semavy, da também subsidiária da Hypera, Cosmed, resultado de parceria com a indiana Sun Pharma. Todos os cinco remédios são indicados para o tratamento de diabetes. A chegada de cinco concorrentes deve intensificar ainda mais a disputa pelo consumidor em um mercado de semaglutida que movimentou R$ 5,6 bilhões em vendas no ano passado, segundo dados da Associação dos Laboratórios Farmacêuticos Nacionais (Alanac) com a IQVIA. Junto com a tirzepatida, molécula do Mounjaro, a caneta emagrecedora da americana Eli Lilly, esse segmento deve movimentar R$ 35 bilhões no mercado formal até 2030, de acordo com o Itaú BBA. A entrada da EMS neste mercado com preços mais baixos já tinha provocado reações na Novo Nordisk e no laboratório brasileiro Eurofarma. As duas mantêm parceria na qual a brasileira distribui versões locais das canetas da dinamarquesa. Ambas têm adotado condições de preço especiais para pacientes do programa de suporte dos laboratórios. Até a Lilly chegou a anunciar recentemente descontos na compra de combos, movimento que surpreendeu analistas que esperavam a manutenção de preços, já que o laboratório usa molécula de efeito duplo e que está protegida por patente até 2036. “Cada redução no preço parece desbloquear uma onda de usuários que antes estavam fora do mercado por causa do custo”, disseram recentemente analistas do Itaú BBA. A agência reguladora brasileira disse que desde que o Ministério da Saúde priorizou a análise de medicamentos com semaglutida e liraglutida, este último princípio ativo da primeira geração de remédios metabólicos da Novo Nordisk, 11 dos 24 medicamentos sintéticos e biológicos inscritos no edital edital de chamamentos que buscou acelerar as análises já tiveram a avaliação concluída, resultando em seis aprovados. “O crescimento de pedidos de aprovação de agonistas de GLP-1 [classe de remédio das canetas emagrecedoras] está relacionado ao desenvolvimento, em 2022, de versões sintéticas, criadas em laboratório, do hormônio natural GLP-1, que estimula a produção de insulina e atua no controle da saciedade”, afirmou, em nota. Segundo a Anvisa, 68% de todas as solicitações de registro de dispositivos injetáveis para o tratamento de obesidade e diabetes já protocoladas são para medicamentos sintéticos. Unsplash",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/29/anvisa-aprova-cinco-novas-canetas-com-semaglutida-princpio-ativo-do-ozempic.ghtml",
+      "published": "2026-07-29T11:09:39+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora",
+        "canetas",
+        "canetas emagrecedoras",
+        "eurofarma",
+        "hypera",
+        "liraglutida",
+        "novo nordisk",
+        "ozempic",
+        "semaglutida",
+        "tirzepatida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "liraglutida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "eurofarma",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "hypera",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -217,6 +320,93 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "pão de açúcar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 84.0
+    },
+    {
+      "title": "Hypera: Semavy tem potencial para ser um dos nossos principais produtos",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou nesta quarta-feira (29) o registro do Semavy, a caneta com semaglutida que será vendida no país pela farmacêutica brasileira Hypera. O medicamento é um dos cinco novos aprovados no país com a substância, a mesma usada nas canetas emagrecedoras da dinamarquesa Novo Nordisk, fabricante do Ozempic e do Wegovy, desde que ela perdeu a exclusividade em março. O produto é resultado de parceria com a indiana Sun Pharma, laboratório que também obteve registro próprio para dois medicamentos com a molécula nesta quarta. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/29/hypera-caneta-emagrecedora-semavy-tem-potencial-para-ser-um-dos-nossos-principais-produtos.ghtml",
+      "published": "2026-07-29T11:23:12+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "canetas",
+        "canetas emagrecedoras",
+        "hypera",
+        "medicamento",
+        "novo nordisk",
+        "ozempic",
+        "semaglutida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "hypera",
           "field": "title",
           "score": 20,
           "topic": null
@@ -885,11 +1075,89 @@
       "score": 60.0
     },
     {
+      "title": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida - Rádio Manchete Rio",
+      "summary": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida &nbsp;&nbsp; Rádio Manchete Rio",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW1uVDVsWHhQRXIyU0NfZWlwX3lZcDJVLVVSak1CQkpWS2hNT3dXMWRfc1pEc01Od1hlbzltQkg2YzN3dFBKUjR0bG9jcnFlLVozVjVCQ0U0YmFJRElFNHJ0dDVCR2ZJVEZQZG10VnBLdXRaQ2sxcnduQ0Z3YXhPMldGdGdTMy1JUHF1LTV1aWt2cV9iRi1lRkJMc0pHLUtzRG1QaEtfcjE?oc=5",
+      "published": "2026-07-29T09:44:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Anvisa aprova cinco novas canetas emagrecedoras de semaglutida - CNN Brasil",
       "summary": "Anvisa aprova cinco novas canetas emagrecedoras de semaglutida &nbsp;&nbsp; CNN Brasil",
       "url": "https://www.cnnbrasil.com.br/saude/anvisa-aprova-cinco-novas-canetas-emagrecedoras-de-semaglutida",
       "published": "2026-07-29T09:47:33+00:00",
       "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova cinco novas canetas emagrecedoras à base de semaglutida - Rede 98",
+      "summary": "Anvisa aprova cinco novas canetas emagrecedoras à base de semaglutida &nbsp;&nbsp; Rede 98",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS2dNeFhFVjUxY0stbjNlTTNGRUx0dWFFeFFPSmxYU05pZkRSWlhNUm9nYjZXaVoyVXN4QnhBQ1o0Q1Q4T3FwVy1kakNyOTItWVYzRUFKaERseE0wemdVaDRDcFNJb1l1NWtQTDhOdEtMX0Q0ak1xcklzZmQ1aWxmVURkU1A3dVgwMUY4eWxuWmt6X3dxSUE?oc=5",
+      "published": "2026-07-29T10:11:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
       ],
@@ -981,6 +1249,225 @@
           "alias": "hypera",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova cinco novas canetas emagrecedoras à base de semaglutida - GZH",
+      "summary": "Anvisa aprova cinco novas canetas emagrecedoras à base de semaglutida &nbsp;&nbsp; GZH",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPMDZRbUk2ZWExVXJQeUVKTWg4YU5GcWxfSlJIMERDNExJOTk2X01pUXRqenhFSVVrc0oweldhTXF4bEFFLXR0cUdHNGNXN0pEZG93dWl0VHR4NnFKenVHTHBPMXdKUk1xdzlzVTdmdExhTmwyc1k1OVI0dE9acW9KaUZFckNucG05UjZaUWNHYlNuTTJPV0o1RUpXeUhiRGNyMHpHbDJ5S3ZlZndkSXlBSFpxZHlYRkVOTGRiOHNYbGJtXzFxdS15NFJGM0xSc3gxZ1ppSDJaNUp3OS1Nd0JqQWxTbmE1UGUyY0E?oc=5",
+      "published": "2026-07-29T10:41:15+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida - Jornal Folha do Progresso",
+      "summary": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida &nbsp;&nbsp; Jornal Folha do Progresso",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaE1MVnN1SGpHTHBVdjVvRFUxQlNaRHdfRy02VHhyWV83c2FXM2dqNFhnOFhLQ0h3SGxWUzZvc3ZSd0pBcHlDLTdLUk9ZRXkwdmFOTTFXTWhpanl3OTN1ZWRSUnNFYTlaak43aGF5cFpwWm03a2ZmR05oRG1OWmdFUEh3ZVhMb1JJSFlQbjhYdmcxYWxaTlVOamZhV3N1R1lOZi1EZmEwX2JCTjBacVhSbzZ6cU5fdw?oc=5",
+      "published": "2026-07-29T11:06:55+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Em parceria com laboratório Adalvo, Sandoz ingressa no mercado de semaglutida com Owozy",
+      "summary": "Em parceria com a Ávita Care e com o laboratório europeu Adalvo, a farmacêutica suíça Sandoz ingressou no mercado brasileiro de semaglutida com o Owozy, uma das cinco novas canetas com a molécula aprovadas nesta quarta-feira (29) pela Anvisa, a agência reguladora brasileira. O princípio ativo é o mesmo usado nas canetas emagrecedoras da dinamarquesa Novo Nordisk, fabricante do Ozempic e do Wegovy, desde que ela perdeu a exclusividade em março. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/29/em-parceria-com-laboratrio-adalvo-sandoz-ingressa-no-mercado-de-semaglutida-com-owozy.ghtml",
+      "published": "2026-07-29T11:10:54+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "novo nordisk",
+        "ozempic",
+        "semaglutida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova 5 novas canetas emagrecedoras com semaglutida - Portal ABC do ABC",
+      "summary": "Anvisa aprova 5 novas canetas emagrecedoras com semaglutida &nbsp;&nbsp; Portal ABC do ABC",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOZUp6bFB4M2dxZXdrTGNjWm9mSTI3MVdub3VUZXkya1ZOTzNQODNheGE4c3FzX3BqeUtqWlhsTmVEeWQzU20xZHI4TlZzclp3T1RyczhPVmIwalZnMHNaQkQ0T2wwNWl3TEJ6VkpEa3Y1cVNXWEtQTDZ5RkpacVhuVUpR?oc=5",
+      "published": "2026-07-29T11:19:17+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova mais 5 canetas emagrecedoras à base de semaglutida - Revista Oeste",
+      "summary": "Anvisa aprova mais 5 canetas emagrecedoras à base de semaglutida &nbsp;&nbsp; Revista Oeste",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNODF1a29EY0dQaXhrR1lWelRQMk5GMlBHanJsSWlOQkhPTUNJQUt6NThHZXlNRmZSM2xwdDUyaThDXzRMRXItWGVzbEl6a2R6OTl0eUZYSVVTWnhLLUhZSjhma1Y5aVZCMWlSUFB6SDdnbVNvVnlJNkRERWtfYVBhZzlNQnN6S1JBWDlQaDE4YlZyRTJhaXZabDJldTEzUQ?oc=5",
+      "published": "2026-07-29T11:33:23+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -1925,6 +2412,37 @@
       "score": 40.0
     },
     {
+      "title": "O efeito das canetas emagrecedoras muito além da perda de peso - Diário PcD",
+      "summary": "O efeito das canetas emagrecedoras muito além da perda de peso &nbsp;&nbsp; Diário PcD",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTU5yM3dNZVNMalAxTXNBamgzRWZoQmhzSEl0WUpkbFhDR3kxVWFFZWdKcnJNdjlrYm9jdzQ0WWQ2dXp6ZEpZUElMb0MtOGlSZ1kyaDRkNndURlg1S05aai1jVUZxdHJYNzR5c3BuUjVSTHJOQ19fRFh0YUs2OVNfVzhBVzA1WUw0Vml6bjhwVjFOUQ?oc=5",
+      "published": "2026-07-28T18:02:22+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Governo prorroga Desenrola e leva renegociação de dívidas ao período eleitoral: entenda o programa",
       "summary": "O governo decidiu prorrogar a atual edição do programa Desenrola Brasil, de renegociação de dívidas bancárias, como O GLOBO antecipou. O Desenrola 2.0 foi lançado em maio e tinha previsão original de encerramento na próxima segunda-feira. O ministro da Fazenda, Dario Durigan, confirmou que a iniciativa será estendida até 31 de agosto. Dessa forma, o programa estará em vigor quando começar a campanha eleitoral, mais próximo da eleição. Medida não tem efeito prático: EUA vão prorrogar sobretaxa aplicada ao Brasil desde julho de 2025 Petrobras: estatal amplia produção de petróleo em 15% e registra alta nas vendas de derivados no primeiro semestre A mudança de data ocorre também a pedido dos bancos, que avaliam haver maior demanda. Segundo o ministro, a decisão não exigirá aportes no Fundo de Garantia de Operações (FGO), que cobre eventuais calotes, nem terá novas restrições ou alterações: — Esse prazo adicional vai ser importante, inclusive, para que as pessoas que hoje estão tendo de acessar os programas de moto, carro, para trocar a sua moto, o seu carro, possam resolver eventuais pendências previamente, que é usar o Desenrola, para depois se enquadrar nas condições para as operações de carro e moto e também poderem fazer jus a essas obrigações — afirmou o ministro. Pela primeira vez: Brasil torna-se maior importador global de carros chineses com US$ 5,2 bilhões em compras Durigan fazia referência ao Move Brasil, outra medida no âmbito do pacote de estímulo e crédito do governo em ano eleitoral, que busca reaquecer a demanda e angariar apoio junto a segmentos estratégicos. 10 milhões de famílias O ministro estima que, com a prorrogação, o governo deve alcançar 10 milhões de famílias beneficiadas. Desenrola números Criação O Globo O autônomo Guilherme Teixeira, de 25 anos, é um dos interessados. Após cinco meses de instabilidade financeira, ele recorreu ao cartão de crédito para pagar despesas do dia a dia. Com os juros, o valor da dívida cresceu e gira em torno de R$ 10 mil. Ele já tentou negociar com o banco, mas as taxas não eram atraentes. — O endividamento é causado pelo desequilíbrio entre o que se ganha e o que se gasta para viver minimamente bem. Não faz sentido triplicar a dívida de quem não conseguiu honrar nem o valor original — disse Teixeira, que planeja reduzir o uso do cartão depois disso. Financiamento: Lula reúne ministros para discutir desempenho de programa de crédito para taxistas e motoristas de aplicativos Até o último dia 23, foram renegociados no novo Desenrola R$ 22 bilhões em dívidas, em um total de 3,6 milhões de operações. Após os descontos, o volume desses débitos caiu para cerca de R$ 4 bilhões. Os números são da vertente do programa para dívidas de pessoas físicas no cartão de crédito, cheque especial e crédito pessoal (CDC), contratados até 31 de janeiro de 2026 e com atraso entre 91 dias e 2 anos. Participantes podem obter descontos de até 90% e taxa máxima de juros de 1,99% ao mês, com até 48 meses para pagar. O desenho prevê a possibilidade de utilização de parte do saldo do FGTS para amortização parcial ou quitação das dívidas, mas a opção está sendo pouco usada. Até o momento foram feitas 110 mil operações, com valor de apenas R$ 62,2 milhões. Conselho do FGTS aprova distribuição de R$ 13 bi entre trabalhadores: Calcule quanto vai para sua conta O Desenrola foi recriado em um contexto de alta do endividamento e elevado comprometimento de renda das famílias, que, na visão do governo, estava gerando outros riscos para a economia no médio e longo prazos — e vinha impactando negativamente a popularidade presidencial. A lógica do programa é que os bancos renegociem os débitos e abram uma nova dívida, menor e com garantia do FGO, o que reduz o risco de inadimplência para as instituições, ao mesmo tempo em que, no médio prazo, recupera-se a capacidade de consumo das famílias. Estatísticas de endividamento do Banco Central mostram que as dívidas correspondem a 30% da renda acumulada em 12 meses pelas famílias. Esse percentual se mantém praticamente no mesmo patamar desde o fim de 2021, na métrica que desconsidera o crédito habitacional. E o juro alto pesa no orçamento. “O histórico mostra que esse tipo de alívio, isoladamente, não interrompeu o ciclo estrutural de endividamento” - Flávio Ataliba, pesquisador do FGV Ibre Uma das variáveis desse quadro é a taxa de inadimplência do cartão de crédito entre pessoas físicas, que chegou a 63% em maio. Para Fábio Bentes, economista sênior da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), as famílias acumularam muitas dívidas em cinco anos, período que inclui a fase da pandemia. O quadro, pondera, é de renda apertada, com parte do aumento real consumido pelos juros. Bentes considera a prorrogação bem-vinda, mesmo com a percepção de que não ataca o cerne do problema, o juro alto. A taxa média de juros no crédito livre para as famílias supera 60% ao ano, maior patamar desde 2017. — A pessoa adere ao programa e limpa a dívida, mas depois acaba pedindo novo cartão e se pendurando em uma nova. O vetor da educação financeira é importante. Se o sujeito tem quatro ou cinco cartões, não tem Desenrola que dê jeito — afirmou. Problema estrutural Flávio Ataliba, pesquisador do FGV Ibre, diz que esta edição trouxe regras mais azeitadas e cita descontos mais agressivos, veto ao uso de bets e possibilidade de uso do saldo do FGTS. Segundo ele, o anúncio da prorrogação antes do fim do prazo do programa mostra que a equipe econômica conta com o Desenrola como parte da estratégia de sustentação do consumo no segundo semestre. Veja os números da balança comercial: Exportações brasileiras para Argentina caíram 18% nos últimos 12 meses Mas ressalta que a medida não resolve o problema estrutural. A primeira edição do Desenrola negociou R$ 53 bilhões em dívidas entre junho de 2023 e maio de 2024. — O histórico mostra que esse tipo de alívio, isoladamente, não interrompeu o ciclo estrutural de endividamento. Sem mudar os fatores que alimentam esse fluxo, como os juros do crédito rotativo, do cheque especial, do crédito pessoal e do crédito não consignado, além da própria Taxa Selic, o endividamento vai continuar elevado — disse. O governo já criou uma versão do Desenrola para pessoas em dia com dívidas. Rejeitado pelos bancos privados, o programa não decolou. Mesmo os bancos públicos não estariam tão agressivos quanto o governo gostaria, disse um interlocutor ao GLOBO. Na versão para as empresas, o programa já renegociou R$ 25 bilhões em dívidas, em um total de 200 mil operações. A maioria foi via Pronampe, com R$ 23,4 bilhões. *Estagiária, sob a supervisão de Danielle Nogueira",
       "url": "https://oglobo.globo.com/economia/noticia/2026/07/29/governo-prorroga-desenrola-e-leva-renegociacao-de-dividas-ao-periodo-eleitoral-entenda-o-programa.ghtml",
@@ -2018,6 +2536,37 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa registra cinco novas canetas de semaglutida — Agência Nacional de Vigilância Sanitária - Anvisa - www.gov.br",
+      "summary": "Anvisa registra cinco novas canetas de semaglutida — Agência Nacional de Vigilância Sanitária - Anvisa &nbsp;&nbsp; www.gov.br",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUk9oU2pMa0t1N1FtMmpqbDlFeWViaUpCUEg2ZDFpVG1vZ0dwa3VnQmFqOW5YMUttYUt2bkZHS2pOWlRxMDdjcVBtUXRoNTI4MWNWZXZrQmVnaWladzdGY21fZlBONjA4ZHFtRU1Nd1Z2OVR6Yzg2dDZyR25wRDVTQ2l3MFNUR2V0U2R3SDFwZGdodXdwbXZXaENNcDE0QWY4aDMzMHp3VlZyMHp4V0ppNHpR?oc=5",
+      "published": "2026-07-29T07:57:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Kering’s shares rise 11% after Gucci owner returns to growth",
       "summary": "Strong demand for jewellery and eyewear delivers luxury group’s first sales increase in three years",
       "url": "https://www.ft.com/content/afdf9b5d-48bf-4792-85f0-cbde9a8c9031?syn-25a6b1a6=1",
@@ -2080,6 +2629,37 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa aprova registro de cinco novas canetas emagrecedoras; veja lista - A TARDE",
+      "summary": "Anvisa aprova registro de cinco novas canetas emagrecedoras; veja lista &nbsp;&nbsp; A TARDE",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONjJ3VldHYzNOWjF2ajlQTmhoYTVsOTV5NlhZRF9SN3VRVk5oMmVzUEJCeVJVSmM1S0VkUDBIXy1GRWtubXJqaXZnZV90RTJzUHBubTF5Zl9uT1FNdkgyUHFUM214Z01FVmNzbkxfeGNZZ3dPdmNqVTROTU5vRmhRUV9UUTZLSVJnc0tfY2g0Q2pScU9XalpEeXFVS2pXaW12Sl9nLWJqejQxZ9IBsgFBVV95cUxOc3JZb3Y5c2s2MFVJVWE4emZqbjhueEthZnV6T3VFVGNCZ1NrMGlHc0p2UzdINFlieEFwSENWNS1xMGVidklGaVZuaU1Va0dUOVBKQnRxQXp1OUpTVWZwNVc0T1gtNW5SN2ZfT09SMXprRjVtVVJLdmZhWjh3WGt0RFFFYWo1ZnBHUkZkdlRMbU0tbGh2THFzUUszVmJYTmFTX21mVC1TZHpxOW51OW5GWEx3?oc=5",
+      "published": "2026-07-29T09:39:04+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Procedimentos estéticos e canetas emagrecedoras inspiram Eudora para “Dia do Batom” - InfoMoney",
       "summary": "Procedimentos estéticos e canetas emagrecedoras inspiram Eudora para “Dia do Batom” &nbsp;&nbsp; InfoMoney",
       "url": "https://www.infomoney.com.br/business/procedimentos-esteticos-e-canetas-emagrecedoras-inspiram-eudora-para-dia-do-batom",
@@ -2112,6 +2692,37 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa aprova registro de cinco novas canetas emagrecedoras - Rádio Metrópole",
+      "summary": "Anvisa aprova registro de cinco novas canetas emagrecedoras &nbsp;&nbsp; Rádio Metrópole",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUUVkbUNfSUxDbm52OGJSVGNqMEwxUUVINWlodkg0TXMwQVhSdk1vTWExTmR5SXlsa2lIaE9zYVcxZW8zRkNGLUVrQ2dGdUp5OXhVRm1PbkFmdVhTX0NfLUxBbmNaQ2JNMWRTQkdObkxoMTFaeG5XRGZ6R2FvRFBrN2JsaWhGRkNRV1dEeGN3eUh2bnluRDlFQzk3bDVTbmd0N1Z6WlhJcXFsRXM?oc=5",
+      "published": "2026-07-29T10:07:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Anvisa aprova 5 novas canetas para tratamento da obesidade; veja quais - Estadão",
       "summary": "Anvisa aprova 5 novas canetas para tratamento da obesidade; veja quais &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/em-alta/brasil/anvisa-aprova-5-novas-canetas-para-tratamento-da-obesidade-veja-quais-npr",
@@ -2135,6 +2746,130 @@
         {
           "sector": "Farmácias",
           "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova cinco novas canetas à base de semaglutida após fim da patente - Folha PE",
+      "summary": "Anvisa aprova cinco novas canetas à base de semaglutida após fim da patente &nbsp;&nbsp; Folha PE",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYXhnakdCdFJwSDdEYXEwTW5vUzBmbGtFMlFRVVhadG14aTcxMWNhRklUbkNYRHVvOFltMFVnaEZiSmR6cms0ems1eFh4b0lLM1BFeHQzMlV2M1ZmQVIwTnBLeGlQZmRNTzQ0VGxtR2t2RVhsTVJQYmlYQzhlQ1ZNSlNGR3BwR0JIa1Y1c01kQnRmWENIZEJJT0x6cklNUU9QU2wwN0tGMjFjbS05blZJQg?oc=5",
+      "published": "2026-07-29T10:51:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa registra cinco novas canetas emagrecedoras e amplia concorrência no Brasil - O TEMPO",
+      "summary": "Anvisa registra cinco novas canetas emagrecedoras e amplia concorrência no Brasil &nbsp;&nbsp; O TEMPO",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORFh2VUFBdDk0OTFrR3Jkam9PSXVrYnlVS3B3cm5QYmk0T21RMlhoV1dLUEhGNkNfM09tSUp2Uk9iV29ENXBEZUtBWlhoYWdaS2hIZVk4QjQ5QnVhVWNaTWdmSW9CREV3MW5ZRDZpVkl5WEUxTjZDVlVBcXlBS1ZDNW9SNU93OTVsZ19mNjZyN2xFWjRFNlFQWTlPVnFfcG90Szh6U1NNX29xdk9Oem1uMmpaSW5MS0lST1hCM1hrZ0FMU2xTSFVWZ0tjejV0MnJM0gHWAUFVX3lxTFBVSHZkby1faEdnMW9xemxFS3kyOV9aMHM0S0dCVDRMRTZCUHNLZ0FNekZBMFd4bklJY1c4eFgzeVJsZmxoMzJ2ZDFFOUhIOE0zRC1XekpKQWc0Vm9zUVJXSVRFZUdYdGdZQWlXWTFESV9tbnRIOGQ4M04zQ2tDUlRuZF9jeVNNSG10YkY5S05MeTEwMDZFOUl4YUk3cmN5UTg4WkZ3cHg2cUhMQWpmMDJYcXNQUWZzYlNJQUdiUXRvOFhXZ21sV0tCZUp0amlBaVNfNXJkR0E?oc=5",
+      "published": "2026-07-29T11:11:59+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova 5 novas canetas para tratamento da obesidade; veja quais - A Tribuna",
+      "summary": "Anvisa aprova 5 novas canetas para tratamento da obesidade; veja quais &nbsp;&nbsp; A Tribuna",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNGsyUGUwekYyeGtXbmxUeTd4NDlISEM0WmotOVl4MkhhaHM1SFNBZXB4RXQ5VEZRVUNqU2h6VzdYSUtkTGNNYW0xRUdyanQtaW05MlZDVkdNQzl1OGNDZUNsbDhKSjQwc051M0treDZRbTBDOTVPNnNqSzN0RlNaN2RhMEdDam9yNmNEcFp0dTNMbDJvZ1pnR3VQbUFYMmZaQVhWbWE3QlktYlhLQkswUUtDQ0VQV0ljM2xNX2N1UEZxSjJseXB3S0FXd3Uydw?oc=5",
+      "published": "2026-07-29T11:24:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova registro de cinco novas canetas emagrecedoras no Brasil; veja quais são - Folha Vitória",
+      "summary": "Anvisa aprova registro de cinco novas canetas emagrecedoras no Brasil; veja quais são &nbsp;&nbsp; Folha Vitória",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmNXN2dfYTJYcmllem1WSjU4a2VCd1dJb0pTY2ZIREFMTF9fVGpqanE5QlhuODFLMEc2VkdCanBJMWxQS1UyWXBOVTFQN1NEaTVMSHY3ZXJHT3BFbGVKS0xjNUQxYWlrS19lWE5KSVk5amJhb2ZIRFRTamZ0M3ctOG53aENpdXJuNlNVQkVId2NFYVhEempLRUNGWk45Z2NoU0VJMnpYY3VDYTVtRE5MRUZNYS1fS2pfSURsQVUxbjM?oc=5",
+      "published": "2026-07-29T11:27:31+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -3214,29 +3949,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "CFO da Chanel deve assumir vaga no conselho da dona da Leroy Merlin, dizem fontes - Bloomberg Línea Brasil",
-      "summary": "CFO da Chanel deve assumir vaga no conselho da dona da Leroy Merlin, dizem fontes &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/cfo-da-chanel-deve-assumir-vaga-no-conselho-da-dona-da-leroy-merlin-dizem-fontes",
-      "published": "2026-07-22T11:48:01+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Material de Construção"
-      ],
-      "matched_aliases": [
-        "leroy merlin"
-      ],
-      "matches": [
-        {
-          "sector": "Material de Construção",
-          "alias": "leroy merlin",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "PRF apreende canetas emagrecedoras, cremes medicinais à base de cannabis e cosméticos em Cristinápolis - G1",
@@ -5608,6 +6320,29 @@
       "score": 20.0
     },
     {
+      "title": "Menos comida no prato? Restaurantes reinventam cardápios após avanço das canetas emagrecedoras - agenciasebrae.com.br",
+      "summary": "Menos comida no prato? Restaurantes reinventam cardápios após avanço das canetas emagrecedoras &nbsp;&nbsp; agenciasebrae.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNenZVODVNT1V6U0NWRmZ3dzVDUDh2TW1hOHhNNzlUSG9mU1RHWEVTVG50LU13cWxpdjRJZ3hQd2xyODlUaEhpczRSLUxGNGN0ZzF1VkRueU45WlZpLWJkcUdxLTVReTBzaHJaVFItcDJxeThYUDFvZ2JENkdvLXF2cUxEczJ2WTI2TVdOVjhnczZhd3JQUE5Eak1kazFfazk5b0FHb1FlTG9QS1BnT1AzbVphNU8zQWZzUDNDVzFzQU1xY1ZBVEZBZFJBTzNhRDQ3UXdWbWFYRnRMT0tVYnc?oc=5",
+      "published": "2026-07-27T13:00:39+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Canetas emagrecedoras e queda de cabelo: estudo lança luz sobre esse possível efeito - VEJA",
       "summary": "Canetas emagrecedoras e queda de cabelo: estudo lança luz sobre esse possível efeito &nbsp;&nbsp; VEJA",
       "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-e-queda-de-cabelo-estudo-lanca-luz-sobre-esse-possivel-efeito",
@@ -5692,6 +6427,29 @@
         {
           "sector": "E-commerce",
           "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Uso das canetas emagrecedoras inauguram uma nova frente da dermatologia - ELLE Brasil",
+      "summary": "Uso das canetas emagrecedoras inauguram uma nova frente da dermatologia &nbsp;&nbsp; ELLE Brasil",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1DaG1fdkYxT0xtMmpaTTVaaTU5OWFwOTBuYXdCY2FNdlZLcWJNYXo1M0ZNQUJNU3R5M245LXAxbmJva0Y0WE5scnpQV3daTlBRQTBGblk0Nm93SFhSTUFIamRLYWRQV3N1YzdxQw?oc=5",
+      "published": "2026-07-27T13:58:49+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -7011,6 +7769,29 @@
       "score": 20.0
     },
     {
+      "title": "Canetas emagrecedoras transformam a face e desafiam a odontologia - Paranashop",
+      "summary": "Canetas emagrecedoras transformam a face e desafiam a odontologia &nbsp;&nbsp; Paranashop",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAwZTZINWZtSHVtYVo1ZGQ4NmdobjYzeUZIb1h1OUxLbFNBdjZ3WkV4bV9ZdGc4ZFlNa2RBQlVFeERsRXJfUXM1RWF3Z0o2OEpETldCVzZRZUdtX0lJY09rcXJHNzJLaVAzLUotNVFqdTg5NE02RUZKeEZLSHQ2Zw?oc=5",
+      "published": "2026-07-28T17:17:39+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "99Compras chega a São Paulo com investimento de R$ 100 milhões e aposta em superapp",
       "summary": "Plataforma amplia operação para a capital e mais de 20 cidades da região metropolitana, e reforça estratégia para disputar o mercado de delivery de compras",
       "url": "https://veja.abril.com.br/economia/99compras-chega-a-sao-paulo-com-investimento-de-r-100-milhoes-e-aposta-em-superapp",
@@ -7026,6 +7807,29 @@
         {
           "sector": "E-commerce",
           "alias": "99compras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Venda de canetas emagrecedoras avança 23,2% e reconfigura consumo em bares - Abrasel",
+      "summary": "Venda de canetas emagrecedoras avança 23,2% e reconfigura consumo em bares &nbsp;&nbsp; Abrasel",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObzY1T2FoNTFDcE1DMEhQR1NFTHRWX21vZk00cG52OWZzWVpZSlNweFdsamlUR0toQjFPdzA0WFZUX1VVdTJ0QlV3VVhpLW55MlhtOGZDdE95Y1RCYzdmcWE5SWQwdk9ESFIxb1lFd00tUDNEQ1JCQl82UUdDaGdubk5xeTJFY0Z2dG5YVFF4a1hPUUh6VFhnNzVpYU5mVV9V?oc=5",
+      "published": "2026-07-28T18:19:50+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -7172,6 +7976,29 @@
       "score": 20.0
     },
     {
+      "title": "Efeito rebote: parar com as canetas emagrecedoras exige ‘desmame’ - Vida Simples",
+      "summary": "Efeito rebote: parar com as canetas emagrecedoras exige ‘desmame’ &nbsp;&nbsp; Vida Simples",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnpUOUE1Vnc4Q0s4YjZORE9GWGM5Qy0yZ0ZieHFPNzZXbWU4Vm9DU0F4THdWM3VCVm9PM0U1UENrNWNpcEZYNjA2cWlrOHZBbnNmSFdSTVdETjg1YWlxSURwRHdtQk5sNEp0a3hQaVllaDBrTElKQi1udkUzdWdxUFNzaDhubkJiSjFYQk1SQl92Qlh4MHN4WENpQ2hyclNmRnNv0gGrAUFVX3lxTFBXQmxGU3dUTl9LQ3N0dFNNVWxfYlVMd2swX25yX0w0eGxBWERETHBWQmVyVWxFSmpLNmp4YlFna1RTcDI1b2N6cnJfVjh2QU9nTlJkYUF4cHBxNWVfN3IxdWhCM3B4N2c1aEJaOHNMdDlpdC05bEtockpadWpXX3ozdFNzSm5xQ1V1TWRLVGZQZ0RLZHdfZHc1QjN3MVJXNjlhdHZOLW9TZ0NXdw?oc=5",
+      "published": "2026-07-28T19:33:10+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Venda de canetas emagrecedoras cresce 23% e já muda o jeito de comer em bares e restaurantes - bra1.com.br",
       "summary": "Venda de canetas emagrecedoras cresce 23% e já muda o jeito de comer em bares e restaurantes &nbsp;&nbsp; bra1.com.br",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQnZQWWQ0bTNCSFExUVRCaExNOFZhdVZYenZ1U1d0eS1sNEhOelVzNl9ITFVhX2I1MGd0Q0xqenZMTFNEcjA3Q1hndFItQlNVTE1WbEt4dEs3Q0d0bWJpbmJJeDJlWTBrLS13XzZZVENEQjA1V0EtTF9WWkY3WWtBal9Kemxzb1M0NHNHOHIyMDc3cm9QRXhUT2NsS3FfTi1oYzFEbjNGMlh2Q2pXRlpmYk44RUZ6WTBhaE5ST0FpTmYtYkVwczRsZDNOeW8?oc=5",
@@ -7195,10 +8022,79 @@
       "score": 20.0
     },
     {
+      "title": "Polícia recupera R$ 10 milhões em canetas emagrecedoras roubadas - band.com.br",
+      "summary": "Polícia recupera R$ 10 milhões em canetas emagrecedoras roubadas &nbsp;&nbsp; band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjhPWllmWVJxTUhMTVJYNC00Q1N1Z3lkWXBKaEdiczc5dVN2LWd2NzdWdHFjUVZDQ3JQMU9SNDFJd1V4eG5WUlJueGpyRXVJbExISGR2bmNYYUlyX1dHV2paa0NBYndWeTlvR0RnTkNLd3Faa1VKdnJ2RGctWGxyM3VEQmxwaVZGYTQycVZmdE5SenJTOGhoUGJMdHliMTFnMW5HQ2x4ODFoQzY2dmd2cVdHSlk3cTczZW5lZ3R0TUs5cUg0NUxHbVNKVQ?oc=5",
+      "published": "2026-07-28T19:56:15+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Venda de canetas emagrecedoras cresce 23,2% e muda hábitos de consumo em bares e restaurantes - Revista Capital Econômico",
       "summary": "Venda de canetas emagrecedoras cresce 23,2% e muda hábitos de consumo em bares e restaurantes &nbsp;&nbsp; Revista Capital Econômico",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRDZwcVo0LWp6MWdnUkRhei15ZkhJS0ZEWFVQcGtxMWVkNHlPdWVnNFRaVHU5SjRreUVHamtBeUtUUmFPUVNDLVZOX0xhTk5zWEhOaWNXRGRvaE54b0JwRmcyYnN2Y2FkblhxVFFzU0dBcHZTbzBPS3U1T3FoRDJRUTNWYjM3N0pZZnBwcGstZ2NTNVJpVWpyejY2T3dBdGx0bS1Ydi1CVDFJcGp5b0VlWnVycUJwWTAtejU1MVRHM0RWQ3ZJbmR0LXVwTQ?oc=5",
       "published": "2026-07-28T20:09:41+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Polícia recupera cerca de R$ 10 milhões em canetas emagrecedoras roubadas - band.com.br",
+      "summary": "Polícia recupera cerca de R$ 10 milhões em canetas emagrecedoras roubadas &nbsp;&nbsp; band.com.br",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONVRjMk5NdURjcWg3LXlscEV3WkVSSGhKemhXZXBjclE1bWxvQWxkS1VrNEk2NFdyMTRjT3REcEVqNWczblZGbXpOSlBrc0xXU08tZ1I5djQ0aWlydnFVcHN3TU5uUGhvZGhKb0xFQTZ1S0h1UlVzNlZHcmQ4S0NOLWpmSEYyVzNpMjk5UUxmVWpYdXJMeG1MbHBjWnVlWW9ndUhDUmc1d2N0ek1DUjlBUlZQZDlBSUE1SmQ2dXg0MkpzTGladjlYX29wem1fTlprQnRwU3ZybXU?oc=5",
+      "published": "2026-07-28T20:33:05+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras podem aumentar risco de herpes, aponta estudo com mais de 5 milhões de pacientes - Jornal Correio",
+      "summary": "Canetas emagrecedoras podem aumentar risco de herpes, aponta estudo com mais de 5 milhões de pacientes &nbsp;&nbsp; Jornal Correio",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOMkNwUzhlMUJSRHNKa3ZIWVBLSXFDZFQ2NUVJWmR3bUhuMU83VWVtdWRqQVhFVzYwMHlmNjM1d01NQksxVFMyaVBFRi1IZWdjc0oxWHFLams1UkczSXl6ZkpUSHNNLXFZVXI5TzNLekxyeG52QnFmSUVxUlFhRkR2NUN3SmE0emthQ3o2V29xdWE0eUpwUkpsUjU0N1llSzFHdE5kcG50QzJ0Z2g2OEVZanY1Ri01ekxzendNZC1vUFhrUjRnZmhCckJSU2R1dkVSR0tsY2t2V0VMLWdzNkZV?oc=5",
+      "published": "2026-07-28T21:00:00+00:00",
       "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
@@ -7440,6 +8336,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa autoriza 5 novos medicamentos injetáveis à base de semaglutida - Metrópoles",
+      "summary": "Anvisa autoriza 5 novos medicamentos injetáveis à base de semaglutida &nbsp;&nbsp; Metrópoles",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPS21tQWVWTkpRRnZiM1FCdnhrakVWLU44S2FKZ1lzNF9kMVFTNTNnQUotYkpRbDViZjV6RkJhaGxEaFpRajJteDlqX08xMFhRVWh1NGFIR3d6LVk5THZVdWtiaW52N2otN3QycllPZjExQjBVOS1ySW5aVXR4cUdfNThzVkRXQUtOTC02Z3pzc0VicTRFSE94a1NHWUxBQ1NibWhCR3hn?oc=5",
+      "published": "2026-07-29T08:29:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8770,6 +9689,29 @@
         {
           "sector": "E-commerce",
           "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Ideias de presentes para o Dia dos Pais 2026",
+      "summary": "Confira sugestões que vão da joalheria à cafeteria para comemorar a data",
+      "url": "https://exame.com/casual/ideias-de-presentes-para-o-dia-dos-pais-2026",
+      "published": "2026-07-29T08:13:22+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "joalheria"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joalheria",
           "field": "lead",
           "score": 8,
           "topic": null
