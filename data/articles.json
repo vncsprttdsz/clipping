@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-29T07:03:45.085977+00:00",
-  "count": 329,
-  "new_this_run": 73,
+  "generated_at": "2026-07-29T09:29:22.298422+00:00",
+  "count": 346,
+  "new_this_run": 22,
   "articles": [
     {
       "title": "Novo Nordisk pede liminar para impedir imediatamente anúncios de Mounjaro da Eli Lilly",
@@ -700,6 +700,84 @@
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Qual a diferença entre semaglutida, do Ozivy, e tirzepatida - G1",
+      "summary": "Qual a diferença entre semaglutida, do Ozivy, e tirzepatida &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sp/campinas-regiao/especial-publicitario/rede-drogal/noticia/2026/07/28/qual-a-diferenca-entre-semaglutida-do-ozivy-e-tirzepatida.ghtml",
+      "published": "2026-07-28T15:14:41+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ozivy",
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozivy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida - G1",
+      "summary": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/saude/noticia/2026/07/29/anvisa-aprova-registro-de-5-novos-medicamentos-a-base-de-semaglutida.ghtml",
+      "published": "2026-07-29T07:12:26+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 60.0
@@ -1682,6 +1760,68 @@
       "score": 40.0
     },
     {
+      "title": "Kering’s shares rise 11% after Gucci owner returns to growth",
+      "summary": "Strong demand for jewellery and eyewear delivers luxury group’s first sales increase in three years",
+      "url": "https://www.ft.com/content/afdf9b5d-48bf-4792-85f0-cbde9a8c9031?syn-25a6b1a6=1",
+      "published": "2026-07-29T08:11:12+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gucci",
+        "kering"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "kering",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "gucci",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Vendas da Hermès aceleram com recuperação do setor de luxo",
+      "summary": "A Hermès informou que o crescimento das vendas acelerou no segundo trimestre, tornando a fabricante das bolsas Birkin o mais recente sinal de que as empresas de luxo podem estar deixando para trás anos de demanda fraca. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/29/vendas-da-herms-aceleram-com-recuperao-do-setor-de-luxo.ghtml",
+      "published": "2026-07-29T08:22:29+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "hermes",
+        "hermès"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "hermes",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "hermès",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "95% das empresas correm risco de ter notas fiscais rejeitadas pela reforma tributária, diz estudo",
       "summary": "Cerca de 95% das empresas brasileiras ainda não estão preparadas para cumprir uma das primeiras exigências práticas da reforma tributária : atualizar os cadastros fiscais para incluir nas notas novos campos com a alíquota teste de 1% -0,1% de IBS (Imposto sobre Bens e Serviços) e 0,9% de CBS (Contribuição sobre Bens e Serviços). Leia mais (07/22/2026 - 17h00)",
       "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/95-das-empresas-correm-risco-de-ter-notas-fiscais-rejeitadas-pela-reforma-tributaria-diz-estudo.shtml",
@@ -1726,6 +1866,45 @@
       "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/07/28/reforma-tributaria-acelera-corrida-por-gestao-de-cadastros-1.ghtml",
       "published": "2026-07-28T17:04:04+00:00",
       "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Vem aí a fase de testes da reforma tributária",
+      "summary": "A fase de testes da reforma tributária deve começar na próxima segunda-feira, dia 3. Empresas passarão a informar, nas notas fiscais, o valor da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS), dois tributos criados na reforma e que compõem o Imposto sobre Valor Agregado (IVA). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/brasil/coluna/vem-ai-a-fase-de-testes-da-reforma-tributaria.ghtml",
+      "published": "2026-07-29T08:00:52+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
       "matched_sectors": [
         "Economia"
       ],
@@ -1902,37 +2081,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Anel comprado por R$ 33 em feira de garagem é avaliado em mais de R$ 103 mil após descoberta de diamante no Reino Unido",
-      "summary": "Uma mulher que comprou um anel por apenas £5 (cerca de R$ 33) em uma feira de garagem no Reino Unido descobriu que a peça, na verdade, era um diamante natural de três quilates engastado em ouro 18 quilates. Após avaliação especializada, neste mês de julho, a joia passou a ser estimada em £15 mil (aproximadamente R$ 103 mil), valor 3 mil vezes superior ao preço pago. Entenda: Esqueleto de dinossauro de 67 milhões de anos é vendido por valor recorde nos EUA Porsche Taycan: Conheça o veículo elétrico da marca que tem aceleração de Fórmula 1, visual discreto e velocidade acima de 300 km/h Segundo especialistas, o anel, que não possui marca de fabricante, provavelmente foi produzido entre as décadas de 1970 e 1980. A peça foi adquirida em um leilão em Oxfordshire por uma mulher que acreditava estar levando para casa apenas uma bijuteria de aparência atraente. A verdadeira composição da joia só foi descoberta durante uma avaliação realizada em Botley, na região de Oxford. Avaliação revelou o verdadeiro valor A compradora, que preferiu não ter a identidade divulgada, contou ter ficado surpresa com o resultado da análise. — Fiquei completamente chocada. Foi uma surpresa incrível e um momento que jamais esquecerei — afirmou à BBC. A avaliação foi conduzida por Asha Nayak, durante um evento itinerante promovido pela empresa WeBuyVintage. Segundo a especialista, casos como esse mostram a importância da análise técnica de peças antigas. — Achados como este são exatamente o motivo pelo qual amamos o que fazemos. As joias muitas vezes guardam histórias incríveis. Às vezes, as peças mais simples acabam se revelando algo verdadeiramente especial. Este anel foi um exemplo fantástico de como um exame especializado pode revelar a qualidade, o trabalho artesanal e a história ocultos por trás de uma peça. É sempre emocionante ver o que as pessoas trazem — disse.",
-      "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/07/22/anel-comprado-por-r-33-em-feira-de-garagem-e-avaliado-em-mais-de-r-103-mil-apos-descoberta-de-diamante-no-reino-unido.ghtml",
-      "published": "2026-07-22T09:28:34+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "diamante",
-        "ouro"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "diamante",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "ouro",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Nike encerra vendas on-line por meio de distribuidores na China e centraliza operações",
@@ -2714,52 +2862,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Cerca de 4 entregadores relataram violência por dia nos últimos 3 anos, aponta iFood",
-      "summary": "Quase quatro entregadores por dia relataram casos de violência ao iFood nos últimos três anos, segundo dados da plataforma divulgados no início deste mês. Entre junho de 2023 e maio deste ano, foram registradas 3.967 ocorrências de discriminação, ameaças, agressões físicas, violência verbal e violência sexual durante o trabalho. Leia mais (07/22/2026 - 06h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/cerca-de-4-entregadores-relataram-violencia-por-dia-nos-ultimos-3-anos-aponta-ifood.shtml",
-      "published": "2026-07-22T09:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Com ‘explosão’ dos MEIs, Nubank atinge mais de um quinto dos CNPJs ativos no país",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/07/com-explosao-dos-meis-nubank-atinge-mais-de-um-quinto-dos-cnpjs-ativos-no-pais.ghtml",
-      "published": "2026-07-22T09:00:36+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "CFO da Chanel deve assumir vaga no conselho da dona da Leroy Merlin, dizem fontes - Bloomberg Línea Brasil",
@@ -6511,6 +6613,29 @@
       "score": 20.0
     },
     {
+      "title": "Shein revela que es investigado por la FTC en su solicitud de OPI en Hong Kong - El Economista",
+      "summary": "Shein revela que es investigado por la FTC en su solicitud de OPI en Hong Kong &nbsp;&nbsp; El Economista",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdmpydUQ2alh3NldjRFMxaHplMU5oYTR0bzNwWEttUDlyb3lpLTE3QzZQU0U1eGRJRXhod2psZUVzTUFaM0pscXJ4R2dYR3dnMmI0cUlaYlh1ZFVjWUoxRWt5RVQ5aWROUE11NUVuU3Q2S2VnVm9abUFHNDk3OVpvTWZlWkZ4VkNTVjFGX1RQZ0N6OUs3OV9nb3M1SEtoLWxBT0ptaWJ2TmlXYkl2akpNMUpvaUTSAboBQVVfeXFMTWpEOGdKUFN0T0wxcTBOdlB0VmszdTBmQ1JKejlLLTFzNjlJS2tWWHR6dmxiTkxsRFJPZm9xbGFNODlJWmR6QU1fOVNMa1RPeEI2b1ZPYVJfTnE1UUtJVmZiS1E4Q2N6RF9IRGhjSU52eVV4N2J3T0pSY01DcFVwY2VaRHRSOHd1bEhpd3pnRU02Ti1qYS04c1hyUmJqaFJ5N3NvUjhSa1IyeEVzbXE5NHFNcFJlc0hFa1Vn?oc=5",
+      "published": "2026-07-28T16:49:33+00:00",
+      "source": "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Quanto exercício fazer por semana ao usar canetas emagrecedoras, segundo consenso europeu - Veja Saúde",
       "summary": "Quanto exercício fazer por semana ao usar canetas emagrecedoras, segundo consenso europeu &nbsp;&nbsp; Veja Saúde",
       "url": "https://saude.abril.com.br/medicina/quanto-exercicio-fazer-por-semana-ao-usar-canetas-emagrecedoras-segundo-consenso-europeu",
@@ -6764,29 +6889,6 @@
       "score": 20.0
     },
     {
-      "title": "Reforma tributária transforma gestão empresarial e acelera busca por novos modelos de competitividade",
-      "summary": "As mudanças previstas pela reforma tributária já começam a alterar o comportamento dos empresários brasileiros. Mais do que discutir alíquotas, cresce a preocupação com fluxo de caixa, estrutura societária e competitividade em um ambiente econômico cada vez mais exigente. A adoção do split payment, que prevê o recolhimento automático dos tributos no momento da transação, deve reduzir a disponibilidade imediata de caixa das empresas e exigir um novo nível de planejamento financeiro. Para o empreendedor e fundador da Inobram, com mais de 22 anos de experiência em gestão hands on, Cleverson Brandelero, afirma que esse movimento inaugura uma nova fase da administração empresarial. \"O desafio deixou de ser apenas vender mais. Agora será necessário administrar liquidez, produtividade e crescimento com muito mais estratégia\". Segundo ele, o tema passou a ocupar espaço central nas discussões promovidas pelo HOK Club, comunidade que reúne empresários para trocar experiências sobre gestão, inovação e tomada de decisões, além das iniciativas da Triava, smart money dedicada ao crescimento de negócios. Recentemente, Brandelero liderou uma experiência empresarial ao Paraguai com 38 empresários brasileiros para analisar modelos tributários, financeiros e societários capazes de ampliar o repertório estratégico das empresas diante do novo cenário. \"O empresário que olhar apenas para dentro do próprio mercado corre o risco de tomar decisões atrasadas. Conhecer outros ambientes de negócios não significa deixar o Brasil, mas entender como construir empresas mais eficientes. O Paraguai tornou-se inevitável no cenário de expansão internacional\". Para Brandelero, a reforma tributária representa muito mais do que uma mudança fiscal. \"Ela marca uma transformação na forma de gerir empresas. Estratégia, velocidade de adaptação e visão internacional deixarão de ser diferenciais para se tornarem requisitos de competitividade\".",
-      "url": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/07/28/reforma-tributaria-transforma-gestao-empresarial-e-acelera-busca-por-novos-modelos-de-competitividade-1.ghtml",
-      "published": "2026-07-28T21:56:06+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Venda de canetas emagrecedoras avança 23,2% no primeiro semestre e já reconfigura consumo em bares e restaurantes - Blog do Amarildo",
       "summary": "Venda de canetas emagrecedoras avança 23,2% no primeiro semestre e já reconfigura consumo em bares e restaurantes &nbsp;&nbsp; Blog do Amarildo",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQUld0TVZJME1QT29PU2tsNHk5QXp6Y2RxZEM0bzJMdmlZV3J5SHNaWVk2OVJTQkdobE55V3l2SkxkVEp2blFJc2VoZTh5Y1ViUHNsaUxEcWlRc0hwSnlRYTJCemM5N1FJZjdpZnFhSEI4NC1JazNLLXlJR3NXTUlRTFVHSHJNZW9ZY1p5TjNERTZQZDd4WGxzTjJuRkRyMEVJakNTUTZwODRNb1RtQnhmZFlZNXlpX3k1QzFaOVdUNmx6LUJYUW5uNmxiVzRkNGJTSmRRTEVsU0tPQQ?oc=5",
@@ -6871,6 +6973,121 @@
         {
           "sector": "Global Consumer",
           "alias": "target",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Como a Eudora vendeu 3,7 milhões de batons com o Dia do Batom",
+      "summary": "Estratégia iniciada em 2013 já movimentou mais de R$ 100 milhões em vendas, e transformou uma data pouco explorada em plataforma de lançamentos e inovação",
+      "url": "https://exame.com/marketing/como-a-eudora-vendeu-37-milhoes-de-batons-com-o-dia-do-batom",
+      "published": "2026-07-29T06:00:10+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "eudora"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "eudora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Governo derruba 937 perfis de influencers por anúncio irregular de bets e acha logo em uniforme infantil",
+      "summary": "O Ministério da Fazenda removeu, entre janeiro de 2025 e junho deste ano, 937 páginas de influenciadores que desrespeitaram as regras de aposta online, mostra resposta a pedidos de acesso à informação. Leia mais (07/29/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-derruba-937-perfis-de-influencers-por-anuncio-irregular-de-bets-e-acha-logo-em-uniforme-infantil.shtml",
+      "published": "2026-07-29T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Aumento de Salário, Home Office ou Redução de Jornada: O Que os Profissionais Priorizam em 2026",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pesquisa aponta alinhamento entre recrutadores e empregados: remuneração lidera as escolhas, seguida pela flexibilidade no modelo de trabalho O post Aumento de Salário, Home Office ou Redução de Jornada: O Que os Profissionais Priorizam em 2026 apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/carreira/2026/07/rascunho-automatico",
+      "published": "2026-07-29T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "redução de jornada"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "redução de jornada",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold Edges Higher Ahead of Fed Meeting",
+      "summary": "Gold prices ticked higher as investors await the Federal Reserve’s interest-rate decision and Chair Kevin Warsh’s remarks.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-drops-amid-hawkish-monetary-policy-backdrop-e4e56785?mod=rss_markets_main",
+      "published": "2026-07-29T08:19:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Disputa bilionária redefine mercado de canetas emagrecedoras - Panorama Farmacêutico",
+      "summary": "Disputa bilionária redefine mercado de canetas emagrecedoras &nbsp;&nbsp; Panorama Farmacêutico",
+      "url": "https://panoramafarmaceutico.com.br/videos/painel-da-industria/disputa-bilionaria-redefine-mercado-de-canetas-emagrecedoras",
+      "published": "2026-07-29T09:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -7129,6 +7346,46 @@
       "score": 16.0
     },
     {
+      "title": "Vinted: conheça o e-commerce de roupas usadas que cobra comissão do comprador e quer globalizar o modelo a partir dos EUA",
+      "summary": "Thomas Plantenga diz, sem qualquer constrangimento, que vem \"roubando\" ideias de empresas do mundo inteiro. O CEO da Vinted, maior marketplace de moda entre consumidores europeus (C2C), afirma que aproveitou livremente estratégias de diversas companhias para construir uma plataforma on-line que hoje está transformando a indústria da moda da região, avaliada em € 500 bilhões (US$ 573 bilhões). Agente descontrolado da OpenAI que 'hackeou' startup fez outra vítima: invasão de conta de segunda empresa foi identificada Desenrola 2.0: ministro confirma prorrogação do programa, que já renegociou R$ 22 bi em dívidas \"Li uma enorme quantidade de relatórios de empresas como Amazon, Mercado Livre, Mercari e Costco sobre como funcionam e o que fazem, e selecionamos os melhores elementos das melhores empresas do mundo para construir um marketplace transacional C2C como ninguém jamais havia criado\", disse o executivo holandês de 42 anos durante uma entrevista na sede da Vinted, localizada em um prédio de quatro andares no coração de Vilnius, capital da Lituânia. O escritório da Vinted fica a poucos minutos de caminhada do centro histórico da cidade, em uma região onde antigas fábricas da era soviética convivem com lofts descolados, polos criativos e modernos centros empresariais. Sentado em uma sala de reuniões cercada por paredes de vidro, usando bermuda jeans e mocassins de couro, Plantenga demonstra tranquilidade e não tem pressa naquele dia de julho. Aplicativo da Depop - eBay comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados Gabby Jones/Bloomberg O ambiente ao redor transmite a mesma atmosfera: funcionários — muitos vindos dos escritórios europeus da empresa para o encontro anual de verão — conversam descontraidamente enquanto tomam café nas áreas comuns. Pela primeira vez: Brasil torna-se maior importador global de carros chineses com US$ 5,2 bilhões em compras Fundada em 2008 como uma plataforma para pessoas comprarem e venderem roupas usadas, a Vinted criou um marketplace tão poderoso que, ao lado de alguns concorrentes, vem reduzindo as vendas de marcas de moda e de luxo. Segundo o relatório State of Fashion 2026, da McKinsey, o mercado de segunda mão crescerá entre duas e três vezes mais rápido do que o mercado de produtos novos entre 2025 e 2027, à medida que consumidores mais econômicos buscam melhores oportunidades. \"O risco para todo o setor é que as roupas de segunda mão canibalizem as vendas de peças novas\", escreveram analistas do RBC Capital Markets em relatório divulgado neste mês. Eles também destacaram que diversas marcas internacionais estão correndo para reduzir esse impacto, criando suas próprias ofertas de revenda. Taxa das blusinhas: ministro da Fazenda diz que pode propor a Lula volta da taxação se importações afetarem indústria nacional Com o desaparecimento do preconceito em relação à compra e venda de roupas usadas, celebridades como Paris Hilton, Paul Mescal e Chloë Sevigny falam abertamente sobre suas vendas nessas plataformas. No popular podcast Table Manners, a cantora Suki Waterhouse contou que é assim que compra roupas vintage. \"Eu adoro a Vinted\", afirmou. À medida que a necessidade econômica e uma nova geração mais preocupada com sustentabilidade reduzem o estigma em torno das roupas usadas, cerca de 60% dos consumidores globais devem comprar produtos de revenda neste ano, segundo estimativas da McKinsey, com base em dados da ThredUp e da GlobalData. Na China, esse percentual é ainda maior, ultrapassando 70%, impulsionado pela procura por produtos premium e de marcas conhecidas a preços mais acessíveis. Após fim da 'taxa das blusinhas': Compras em e-commerces internacionais mais que dobram A consultoria estima que o mercado global de roupas de segunda mão alcance US$ 317 bilhões até 2027, um crescimento de 23% em relação ao ano passado. Segundo o relatório, a escala alcançada por essas plataformas e os avanços tecnológicos levaram o setor a um \"ponto de inflexão\", permitindo transformar milhões de transações em negócios lucrativos. \"O verdadeiro motor desse crescimento é o consumidor\", afirma Poonam Goyal, analista sênior de varejo da Bloomberg Intelligence. Segundo ele, depois de anos de inflação, os compradores passaram a dar muito mais importância ao custo-benefício, enquanto as gerações mais jovens enxergam a compra de produtos usados como algo absolutamente normal. A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão, diz Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Reprodução de internet \"As pessoas têm orgulho de comprar itens de revenda. Elas gostam de mostrar o bom negócio que encontraram. É uma mentalidade completamente diferente.\" A Vinted lidera esse movimento na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma. Essa escala lhe deu massa crítica suficiente para permanecer à frente dos concorrentes. Analistas do Wells Fargo, liderados por Ken Gawrelski, classificam a empresa como \"uma força disruptiva no comércio C2C\" da Europa Ocidental. Entenda: Por que a Shein, símbolo do 'fast fashion', comprou uma marca de moda sustentável nos EUA? Avaliada em € 8 bilhões durante uma venda secundária de ações neste ano, a companhia tem entre seus investidores EQT, BlackRock, Ontario Teachers' Pension Plan e Schroders Capital, além de se preparar para o que pode ser uma das maiores ofertas públicas iniciais (IPO) de uma empresa de tecnologia na Europa nos últimos anos. Embora ainda não tenha sido tomada uma decisão sobre bancos coordenadores, cronograma ou bolsa de valores onde as ações serão listadas, a Vinted já se prepara para esse momento há bastante tempo, afirma Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Por enquanto, porém, a administração da empresa continua concentrada em expandir o negócio, em vez de correr para abrir capital, acrescenta ela. Investimento: 99 lança 99Compras, serviço de entrega para supermercados e farmácias, em São Paulo O desafio mais imediato de Plantenga é conquistar o mercado americano. \"No meio de uma expansão nos Estados Unidos, você não faz um IPO. Isso seria uma loucura\", afirma. A expansão nos EUA coloca a Vinted frente a frente com rivais já consolidados, incluindo o “pioneiro” do setor, o eBay — que este ano comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados —, o Facebook Marketplace, a Poshmark e a ThredUp. \"Se realmente conseguiremos competir e vencer nesse mercado ainda é uma grande incógnita\", diz Plantenga, recusando-se a revelar detalhes sobre os planos da empresa para o país. Segundo ele, a Vinted ainda está em fase inicial de testes nos Estados Unidos, mas os primeiros resultados são animadores. Analistas do Wells Fargo que acompanham o eBay escreveram, em relatório divulgado em julho, que o número de usuários ativos diários da Vinted nos EUA cresceu mais de seis vezes no segundo trimestre em comparação com o mesmo período do ano anterior, após sua entrada no mercado americano em janeiro. O crescente interesse mundial pela moda de revenda estimulou o surgimento de inúmeros concorrentes. Entre eles estão plataformas como a japonesa Mercari; as britânicas Hardly Ever Worn It e Depop; a francesa Vestiaire Collective; a americana The RealReal, entre várias outras. Muitas delas, porém, ainda enfrentam dificuldades para transformar a forte demanda em lucros consistentes. A Vestiaire Collective espera registrar seu primeiro lucro anual apenas em 2026, mais de quinze anos depois de sua fundação. A Vinted lidera o movimento de revenda de itens usados na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma Bloomberg Na Ásia, uma das regiões de crescimento mais acelerado do setor, plataformas como Idle Fish, apoiada pelo Alibaba, Poizon, Mercari e Kream vêm expandindo rapidamente suas operações. Um dos maiores desafios para essas empresas é garantir acesso suficiente ao estoque de produtos, seja por meio de marcas que desejam liquidar excedentes de produção, seja por pessoas interessadas em ganhar dinheiro com itens que não usam mais. Depois de assumir o comando da empresa em 2016, Plantenga reformulou profundamente o modelo de negócios da Vinted. A mudança mais importante foi eliminar as taxas cobradas dos vendedores e passar a cobrar dos compradores. Essa estratégia atraiu mais vendedores, aumentou a liquidez do marketplace e criou as bases para a rentabilidade da empresa, permitindo que a Vinted investisse pesadamente em sua infraestrutura — hoje considerada pelos investidores seu principal diferencial competitivo. Em 2025, a Vinted movimentou € 10,8 bilhões em mercadorias, um crescimento de 47% em relação ao ano anterior. A receita aumentou 38%, chegando a € 1,1 bilhão. Já o lucro líquido caiu 19%, para € 62 milhões, devido à aceleração dos investimentos na Alemanha e na Vinted Go, sua operação de logística. Mesmo assim, essa redução no lucro não impediu que os investidores avaliassem a empresa em € 8 bilhões neste ano, acima dos € 5 bilhões registrados em 2024. A EQT, da Suécia, que investiu pela primeira vez na Vinted em 2021 e continua sendo um de seus maiores acionistas, acredita que a vantagem competitiva da empresa já vai muito além do mercado de roupas usadas. Segundo Carolina Brochado, a Vinted se parece cada vez mais com gigantes de marketplace como Airbnb, Uber e Mercado Livre, graças aos seus efeitos de rede, à infraestrutura tecnológica e ao ecossistema de serviços em constante expansão. \"A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão\", afirma. Enquanto isso, a empresa continua ampliando sua presença na Europa e expandindo para novas categorias de produtos, como eletrônicos, livros e brinquedos. Por meio da Vinted Go, ela já opera mais de 18 mil pontos de coleta e entrega espalhados pela Europa, incluindo armários inteligentes (lockers) e lojas parceiras. Já a Vinted Pay amplia sua atuação para o segmento de pagamentos. O modelo da Vinted é simples: vender na plataforma é gratuito para o vendedor, que fica com 100% do valor anunciado. Basta tirar fotos dos itens que deseja vender, adicionar uma descrição, definir o preço e publicar o anúncio no aplicativo. Quando um comprador efetua a compra, a Vinted cobra dele uma pequena taxa de serviço e fornece ao vendedor uma etiqueta de envio pré-paga. O vendedor embala o produto e o entrega em um ponto de coleta. Assim que o comprador confirma o recebimento, a Vinted libera o dinheiro para a carteira virtual do vendedor. Erika Orlovskiene, mãe de dois filhos que mora em Vilnius, usa a Vinted há quase dez anos para comprar e vender de tudo: roupas infantis, vestidos, livros e até um aquário. \"Crianças crescem muito rápido e as roupas se acumulam num instante. O que fazer com peças que foram usadas tão pouco?\", diz ela, estimando que economizou \"milhares de euros\" ao longo dos anos. \"Não se trata apenas de economizar, mas também de sustentabilidade.\" À medida que sua base de usuários cresceu, a Vinted direcionou grandes investimentos para construir sua própria infraestrutura de logística, seus sistemas de pagamento e seus softwares de atendimento ao cliente. A empresa chega até mesmo a operar seus próprios servidores, em vez de utilizar serviços de computação em nuvem. Plantenga reconhece que esses investimentos não são exatamente glamourosos, mas afirma que eles sustentam a vantagem de custos da empresa. \"Tudo o que a Vinted faz na área de logística e de pagamentos existe para fortalecer o marketplace\", afirma Carolina Brochado, da EQT. Segundo ela, custos menores por transação beneficiam os consumidores e, ao mesmo tempo, reforçam a economia do negócio. É justamente esse modelo que a empresa pretende levar para os Estados Unidos. Ainda não está claro, porém, se a cobrança de uma taxa ao comprador será bem recebida pelos consumidores americanos. Para Poonam Goyal, da Bloomberg Intelligence, os compradores nos EUA tendem a resistir muito mais a esse tipo de cobrança, especialmente quando ela aparece separadamente do preço anunciado. Mas, segundo ela, \"se a Vinted conseguir fazer esse modelo funcionar nos Estados Unidos, poderá estabelecer um novo padrão para o mercado, que os concorrentes talvez acabem adotando, tornando todo o setor mais lucrativo.\" Plantenga diz que já observa sinais dessa mudança.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/07/29/vinted-conheca-o-e-commerce-de-roupas-usadas-que-cobra-comissao-do-comprador-e-quer-globalizar-o-modelo-a-partir-dos-eua.ghtml",
+      "published": "2026-07-29T07:00:38+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "costco",
+        "marketplace",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "costco",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 12.0
+    },
+    {
       "title": "Nove em cada 10 brasileiros planejam fazer compras on-line no 3º trimestre",
       "summary": "Com uma percepção financeira mais positiva, o brasileiro pretende ir às compras no terceiro trimestre. É o que mostra um levantamento da NielsenIQ que aponta que 89% dos consumidores cogitam encher carrinhos virtuais entre julho e setembro, especialmente, com produtos das categorias \"casa e decoração\" e \"cosméticos e perfumaria\". Ao todo, foram ouvidas 1.183 pessoas de todo o país neste mês de julho. A maior disposição para gastar dinheiro está atrelada a um cenário de melhora na percepção financeira das famílias: 39,2% dos entrevistados afirmam estar em uma situação mais favorável em relação ao mesmo período do ano passado. A percepção também evoluiu na comparação com o segundo trimestre deste ano: a parcela de famílias que dizem estar em condição financeira mais confortável aumentou 1,5 ponto percentual. Entre os consumidores que pretendem realizar compras on-line nos próximos meses, a maior parte (59%) é moradora da região Sudeste e pertence à faixa etária de 35 a 64 anos (67,5%). Em termos de renda familiar, a maioria (33,9%) recebe de quatro a nove salários mínimos. Casa e decoração A categoria \"casa e decoração\" lidera a intenção de compras on-line, com 66,5% dos consumidores afirmando que pretendem adquirir produtos dessa cesta nos próximos meses. Em seguida, são mencionados os segmentos 'cosméticos e perfumaria', com 64,5% das respostas, 'moda e acessórios', com 62,3%, e 'alimentos e bebidas', com 60,4%. Era permitido escolher mais de uma opção. \"Os consumidores estão mais planejados e aproveitam tanto a conveniência quanto às oportunidades oferecidas pelas plataformas digitais”, afirma, em nota, Andrea Stoll, que comanda a área de comércio eletrônico da NielsenIQ. A intenção de compra de alimentos e bebidas, por exemplo, está atrelada a abastecimento e reposição da despensa, enquanto a aquisição de produtos de maior valor agregado costuma ser relacionada a promoções e ofertas. As varejistas mais lembradas Amazon e Mercado Livre lideram a lembrança de marca de lojas on-line. Depois, aparecem no ranking Shopee, Magazine Luiza e iFood. Amazon e Mercado Livre lideram a lembrança de marca de lojas on-line. Depois, aparecem no ranking Shopee, Magazine Luiza e iFood Pixabay",
       "url": "https://valor.globo.com/empresas/marketing/noticia/2026/07/22/nove-em-cada-10-brasileiros-planejam-fazer-compras-on-line-no-3o-trimestre.ghtml",
@@ -7287,27 +7544,36 @@
       "score": 10.0
     },
     {
-      "title": "Indicadores reforçam previsão de desaceleração da economia",
-      "summary": "Alguns dos principais indicadores da economia brasileira surpreenderam para baixo em maio, reforçando a avaliação entre analistas de desaceleração da atividade e avanço mais moderado do Produto Interno Bruto (PIB) no 2º trimestre. O reflexo desse quadro na inflação pode facilitar seu controle pelo Banco Central, embora estímulos fiscais do governo e a desancoragem das expectativas ainda sejam uma preocupação. Além disso, o endividamento das famílias adiciona riscos de uma desaceleração mais forte. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/07/22/indicadores-reforcam-previsao-de-desaceleracao-da-economia.ghtml",
-      "published": "2026-07-22T08:00:16+00:00",
-      "source": "https://pox.globo.com/rss/valor",
+      "title": "Funcionários precisam de ‘alfabetização’ em dados",
+      "summary": "Com treinamento, as áreas fazem pedidos mais claros e entendem melhor as informações que precisam, diz Paulo Ruza, do Carrefour Divulgação Empresas não se tornam orientadas por dados apenas porque compraram tecnologia, criaram áreas de “analytics” ou melhoraram a qualidade de suas bases. O fator decisivo continua sendo a capacidade das pessoas de compreender, interpretar e utilizar essas informações no cotidiano, afirma o americano Jordan Morrow, vice-presidente sênior de transformação de dados e IA da AgileOne. “Essa alfabetização é importante para capacitar as pessoas não apenas a olhar para painéis e ver o que aconteceu, mas a descobrir o porquê e dar vida aos dados”, diz. Em um mundo que produz cerca de 400 milhões de terabytes de dados por dia, segundo o site Exploding Topics, compreender e aplicar essas informações tornou-se essencial. Relatório do site DataCamp com líderes dos EUA e Reino Unido mostra que 40% apontam a perda de produtividade como principal consequência da baixa alfabetização em dados. A TIM iniciou essa jornada há quatro anos. “Temos três trilhas. A Expert prepara durante seis meses cientistas, engenheiros e arquitetos de dados; a Consumer atende quem utiliza dados nas decisões cotidianas; e a Translator forma profissionais capazes de traduzir necessidades das áreas de negócio para os times técnicos”, diz Maria Antonietta Russo, VP de pessoas, cultura e organização da TIM. Segundo ela, o programa já alcançou 96% dos colaboradores. “Quando as pessoas compreendem melhor os dados, conseguem transformar problemas em hipóteses, hipóteses em análises e análises em decisões mais conectadas aos objetivos da companhia.” No Banco Carrefour, o projeto começou na instituição financeira e depois foi expandido para o restante do grupo. “Foi um programa do zero, explicando o que é dado e sua importância na tomada de decisão. Depois gravamos esse treinamento em módulos e o disponibilizamos para os 120 mil colaboradores”, afirma Paulo Ruza, superintendente de dados e IA. Segundo ele, as áreas passaram a formular pedidos mais claros e compreender melhor quais informações de fato precisavam. A alfabetização também despertou novos interesses. “Uma colaboradora da comunicação achava que nem precisava. Fez o treinamento, gostou, buscou outros cursos e, um ano depois, veio trabalhar com a gente na área de dados”, diz Ruza. O Grupo Boticário também vem acelerando sua cultura de dados. “Decidimos investir na alfabetização para garantir que os mais de 20 mil colaboradores pudessem usar a informação de forma ética, eficiente e estratégica”, afirma Renato Pedigoni, CTO da companhia. Considerada a segunda empresa mais admirada em dados da América Latina pela pesquisa “State of Data Brazil 2025-2026”, da Data Hackers e Bain & Company, a empresa aposta em uma jornada que começa com plataformas de análise e SQL (linguagem universal usada para conversar com bancos de dados). “Hoje, com agentes de IA, um colaborador consegue realizar análises altamente complexas sem necessariamente escrever código”, diz Pedigoni. Para Henrique Portella, fundador da DataSchool, especializada em alfabetização de dados, o objetivo não é transformar todos os funcionários em analistas ou programadores, mas criar uma linguagem comum. “Não é usar Excel, pois isso é letramento digital. Estamos falando de entender gráficos de dispersão, correlação, a diferença entre mediana e média e como contar uma história com dados”, afirma. Segundo ele, investir milhões em plataformas de “business intelligence” (BI), IA e “analytics” ou contratar cientistas de dados não basta se poucos conseguem usar essas análises. Marcos Sirelli, vice-presidente de tecnologia, dados e atendimento do Grupo Porto, afirma que a empresa estruturou sua trilha de dados primeiro em nível inicial e intermediário, em que o foco é saber ler e interpretar o negócio através de dados. “Tivemos um colaborador, por exemplo, que desenvolveu uma ferramenta que reúne milhares de pesquisas de Net Promoter Score [NPS], que é uma métrica padrão global para medir a lealdade e a satisfação dos clientes, para indicar automaticamente onde as jornadas precisam ser melhoradas e quais mudanças têm maior potencial de impacto na experiência do consumidor.”",
+      "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-corporativa/noticia/2026/07/29/funcionarios-precisam-de-alfabetizacao-em-dados.ghtml",
+      "published": "2026-07-29T08:04:37+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
       "matched_sectors": [
-        "Economia"
+        "Varejo Alimentar",
+        "Cosméticos"
       ],
       "matched_aliases": [
-        "endividamento das famílias"
+        "boticário",
+        "carrefour"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
           "field": "lead",
           "score": 8,
           "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "body",
+          "score": 2,
+          "topic": null
         }
       ],
-      "score": 8.0
+      "score": 10.0
     },
     {
       "title": "Dono de restaurante com duas estrelas Michelin vira alvo da Justiça na Coreia do Sul por servir formigas em sobremesa",
@@ -8038,6 +8304,98 @@
         {
           "sector": "Economia",
           "alias": "benefícios fiscais",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Como Cris Barros Faz “Quiet Luxury” Há Mais de Duas Décadas",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estilista manteve a liderança criativa após venda da grife para o grupo Azzas 2154 e ganhou fôlego para novas apostas O post Como Cris Barros Faz &#8220;Quiet Luxury&#8221; Há Mais de Duas Décadas apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-mulher/2026/07/como-cris-barros-faz-quiet-luxury-ha-mais-de-duas-decadas",
+      "published": "2026-07-29T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Avança a guerra de versões sobre megafusão na França",
+      "summary": "Há cerca de seis meses, a polícia francesa cumpriu mandado de busca e apreensão de documentos na sede do Carrefour, onde trabalham o CEO, Alexandre Bompard, e o comitê executivo do grupo. A informação, do site francês La Lettre, foi confirmada pelo Valor. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/07/29/avanca-a-guerra-de-versoes-sobre-megafusao-na-franca.ghtml",
+      "published": "2026-07-29T08:00:15+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "carrefour"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Seguro ajuda a viabilizar novas infraestruturas",
+      "summary": "Apólices de seguro para infraestrutura vêm deixando de ser só um mecanismo de proteção patrimonial para tornarem-se um instrumento de viabilização de investimentos. Seguradoras e corretoras estruturam produtos próximos de empreendimentos, com acompanhamentos para garantir a viabilidade e a continuidade das obras. O estímulo veio do seguro-garantia com cláusula de retomada, que permite a seguradora assumir a obra em caso de inadimplência, evitando paralisações, o que levou companhias a acompanhar mais de perto os projetos. “Esse movimento tende a ampliar a demanda por soluções de seguros cada vez mais especializadas e customizadas, capazes de acompanhar projetos de elevada complexidade técnica e financeira”, diz o presidente da Federação Nacional de Seguros Gerais (FenSeg), Ney Ferraz Dias. O seguro-garantia cresceu 24% no ano passado, com arrecadação de R$ 6,2 bilhões, alta superior a de modalidades como riscos de engenharia (22,4%), grandes riscos (12%) e transportes (7,74%). O seguro de responsabilidade civil para riscos ambientais registrou uma das maiores expansões do período, com alta de 39,3%. A expectativa é que essas cifras sigam avançando diante dos projetos no pipeline para os próximos anos. “Estamos falando de um ciclo de investimentos da ordem de trilhões de reais ao longo da próxima década”, diz Fábio Scatigno, superintendente de garantia da AXA no Brasil. Além dos riscos tradicionais de construção, a companhia mira nos impactos climáticos, riscos ambientais, atrasos de cronograma e exigências dos financiadores. Esses produtos vêm acompanhados de visitas técnicas, análises de risco e monitoramento. As seguradoras não participam da gestão da obra; atuam de forma mais consultiva, de modo a prevenir sinistros, mitigar gargalos e contribuir para que o empreendimento avance com maior previsibilidade, segurança e proteção financeira. “O acompanhamento técnico das obras é cada vez mais relevante em um cenário em que atrasos e aumentos de custos representam riscos significativos para o sucesso dos projetos”, segue Scatigno. É uma “parceira estratégica na gestão de riscos, engenharia e governança dos projetos”, como diz Sidney Cezarino, diretor de seguros patrimoniais da Tokio Marine. Segundo André Dabus, diretor de infraestrutura da Marsh Risk, produtos para obras de infraestrutura, concessões e parcerias público-privadas (PPPs), os produtos são desenhados a partir das características de cada projeto, incluindo exigências de financiadores, aspectos regulatórios e exposição a eventos climáticos extremos. “O foco passou a ser a construção de soluções capazes de acompanhar o empreendimento desde sua estruturação até a conclusão da obra, integrando instrumentos em um grande ecossistema de gestão”, completa Cristina Tseimatzidis, diretora de construção e garantias da WTW Brasil.",
+      "url": "https://valor.globo.com/publicacoes/especiais/rodovias-portos-e-ferrovias/noticia/2026/07/29/seguro-ajuda-a-viabilizar-novas-infraestruturas.ghtml",
+      "published": "2026-07-29T08:03:36+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Integração entre modais pode reduzir custos logísticos",
+      "summary": "A integração entre modais de transporte pode estimular a migração de cargas para opções com fretes mais baratos e eficientes, com impacto direto no planejamento e no caixa das grandes empresas e no chamado “custo Brasil”. Hoje, o custo do transporte de cargas no país corresponde a 9% do Produto Interno Bruto (PIB), calcula o Instituto de Logística e Supply Chain (Ilos), contra 5,7% nos Estados Unidos. Quando se observa a operação logística total, que engloba também gastos com armazenagem e estoque - elevados diante da imprevisibilidade das entregas de insumos e produtos acabados -, a desvantagem brasileira é ainda maior. Enquanto o país gasta 15,6% do PIB nessa conta, a média de custo logístico entre os membros da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) é de 8,4%. Especialistas avaliam que a formação de corredores intermodais integrados tem potencial de reduzir a dependência brasileira do modal rodoviário, com impactos positivos nos custos do transporte de cargas. “Poderíamos reduzir em dois pontos percentuais do PIB os custos logísticos se tivéssemos uma matriz de transporte mais equilibrada entre modais e integrada”, diz Pedro Moreira, presidente da Associação Brasileira de Logística (Abralog). “Seria uma economia de R$ 250 bilhões por ano.” O Ilos constatou que o interesse por troca de modais é alto, mesmo diante das limitações atuais da infraestrutura. Pesquisa concluída em julho com as 100 maiores empresas brasileiras da indústria, do agronegócio e do varejo, indica que 25% delas pretendem alterar imediatamente o meio de transporte de suas mercadorias. “As empresas buscam novos modais logísticos. O que falta é disponibilidade de infraestruturas alternativas”, diz Maria Fernanda Hijjar, sócia diretora do Ilos. Está nos planos do governo federal a criação de 31 corredores logísticos prioritários para o transporte de cargas, compostos por infraestruturas novas e já existentes, passíveis de ampliação. A medida, que faz parte do Plano Nacional de Logística (PNL 2050), prevê a substituição do modelo que sempre privilegiou projetos e obras isoladas por um planejamento que promova o uso combinado de modais para gerar fluidez no transporte. “Os corredores contemplam projetos rodoviários, ferroviários, hidroviários, portuários e a integração entre esses modais, numa abordagem de transporte multimodal”, diz Gabriela Monteiro Avelino, subsecretária de fomento e planejamento do Ministério dos Transportes. A ideia é concluir o PNL 2050 até agosto. Hoje viajam por caminhão 63% das mercadorias do país, segundo o Ilos. Em outros países de grandes extensões, como EUA e China, rodovias respondem respectivamente por 50% e 29% da matriz de transportes; na União Europeia, 24%. Essa diferença é um dos fatores que encarece a movimentação de cargas no país. “O transporte rodoviário é improdutivo, não há ganho de escala”, diz Hijjar. Um vagão de soja transporta o equivalente a três caminhões de seis eixos - e uma única locomotiva puxa 50 vagões. “O caminhão só é eficiente a uma distância de até 300 km. Além disso, é preciso usar ferrovias, hidrovias e cabotagem”, diz Paulo Resende, professor de logística da Fundação Dom Cabral (FDC). “Temos caminhões rodando mil, 2 mil km por falta de transportes alternativos.” As empresas buscam novos modais. O que falta é dispo- nibilidade de alternativas” Já a oferta ferroviária é muito baixa. São 30 mil km de trilhos, sendo 21 mil km operacionais. Os EUA têm 225 mil km de ferrovias, e a China, 162 mil km. A oferta hidroviária também é limitada; são 20 mil km, apesar do país contar com 41,7 mil km de rios navegáveis, segundo a Agência Nacional de Transportes Aquaviários (Antaq). E as hidrovias não são estruturadas com cartas náuticas, balizamento, nem têm manutenção regular para garantir a navegação o ano inteiro. Pesquisa da Confederação Nacional da Indústria (CNI) detectou que só 8% das grandes e médias indústrias brasileiras usam trens para transportar a produção, mas 28,5% optariam pelo modal se houvesse uma oferta ferroviária adequada. Promover a intermodalidade demanda mais do que investimentos. “A disponibilidade de infraestrutura é a base; será necessário interconectar os modais”, diz Hijjar. “Os modais de transportes no Brasil não se conversam. A maioria dos portos não é atendida por ferrovias. As ferrovias não possuem oferta adequada de pontos de transbordo para receber os caminhões”, completa Resende. Os planos do governo federal vão na direção de ampliar a oferta multimodal. O Ministério dos Transportes programa oito leilões de ferrovias em 2026 e terminais para transbordo na Ferrovia Norte-Sul, com projeção de estimular investimentos de R$ 160 bilhões. Mas nenhum dos leilões já tem agenda definido. O Ministério dos Portos e Aeroportos, por sua vez, chegou a anunciar planos de leiloar em 2026 as hidrovias dos rios amazônicos Madeira, Tapajós e Tocantins, fundamentais para o escoamento da produção agrícola do Norte e do Centro-Oeste, e da hidrovia do rio Paraguai, mas todos foram adiados para 2027. Na área portuária, houve avanços, com 28 concessões de terminais e canais de acesso marítimo desde 2023, que vão gerar investimentos de R$ 8,5 bilhões. As iniciativas federais, até agora, têm beneficiado mais o modal rodoviário; foram 25 concessões desde junho de 2026. Para o professor da FDC, além de criar conexões físicas, será preciso integrar os modais com softwares que planejem o fluxo de mercadorias de acordo com a programação dos navios, por exemplo. “Hoje, os caminhões com a produção ficam parados, às vezes por dias, nos terminais ferroviários, esperando o comboio de vagões. E depois os trens seguem em direção aos portos, sem saber quando os navios vão atracar”, diz. Já Moreira propõe que o país invista em plataformas multimodais de grande porte, hubs com infraestrutura de armazenagem, consolidação de cargas, centros de distribuição, serviços aduaneiros e atividades de valor agregado. “Cinco grandes plataformas logísticas regionais atenderiam bem as nossas necessidades.”",
+      "url": "https://valor.globo.com/publicacoes/especiais/rodovias-portos-e-ferrovias/noticia/2026/07/29/integracao-entre-modais-pode-reduzir-custos-logisticos.ghtml",
+      "published": "2026-07-29T08:04:12+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -8832,6 +9190,121 @@
         {
           "sector": "E-commerce",
           "alias": "taxa das blusinhas",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Terminais devem aumentar o uso da Norte-Sul",
+      "summary": "Terminal de granéis líquidos da Norte-Sul em Porto Nacional (TO); Infra S.A. planeja o leilão de 20 polos logísticos Divulgação Vinte terminais de carga deverão ser oferecidos à iniciativa privada ao longo da ferrovia Norte-Sul. A iniciativa, segundo especialistas, vai favorecer um maior fluxo de cargas e aumentar as condições para mais investimentos na ferrovia, como em novos ramais, ampliação de pátios e modernização de sistemas operacionais e de sinalização. As concessões também tendem a atrair negócios para o entorno. A estratégia está dividida em três frentes. A primeira envolve cinco terminais em operação, com contratos prestes a vencer: dois para granéis agrícolas, em Palmeirante e Porto Nacional (TO), e três para combustíveis, também em Porto Nacional. Na primeira licitação, prevista para setembro, os investimentos mínimos são estimados em quase R$ 246 milhões. “Os investimentos a serem feitos variam de acordo com as características de cada terminal”, diz o diretor-presidente da Infra S.A., Jorge Bastos. Os ativos pertencem à estatal. Os aportes incluem ampliação e modernização da infraestrutura operacional e implantação, ampliação ou recuperação de armazéns, entre outros. Na segunda etapa a Infra S.A. vai oferecer cerca de 1.700 hectares, distribuídos em 12 pátios ferroviários, por meio de oferta pública permanente, modelo que dispensa licitações - interessados deverão apresentar propostas para implantação de novos terminais. A terceira fase ainda está sendo estruturada e contemplará três terminais já existentes: dois em Porto Franco (MA) e um em Guaraí (TO). Essas duas fases ocorrerão de acordo com o estágio de cada projeto. A falta de estruturas logísticas capazes de captar e consolidar cargas ao longo do seu corredor - como terminais intermodais e armazéns - faz a Norte-Sul, que liga Maranhão a São Paulo, operar abaixo de seu potencial, segundo Eustáquio Oliveira, especialista em ferrovias na consultoria Bip. “Essa limitação reduz a atratividade econômica de novos investimentos, tanto para operadores logísticos quanto para a própria concessionária”, diz. Para Oliveira, os leilões são uma oportunidade para reverter esse cenário, permitindo maior uso da via, aumentando sua eficiência operacional. Luiz Fernando Visconti, advogado da Visconti Law e especialista em regulação, diz haver potencial para a redução de custos logísticos a partir dos leilões de terminais. No entanto, esse ganho dependerá do tipo de carga, do volume transportado, da distância percorrida e do nível de integração da ferrovia com os demais modais. Ele também aponta perspectivas de atração de negócios para o entorno dos terminais, como centros de distribuição, armazéns, indústrias e operadores logísticos. “Isso gera um efeito multiplicador sobre a economia regional”, afirma.",
+      "url": "https://valor.globo.com/publicacoes/especiais/rodovias-portos-e-ferrovias/noticia/2026/07/29/terminais-devem-aumentar-o-uso-da-norte-sul.ghtml",
+      "published": "2026-07-29T08:03:18+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "centros de distribuição"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Computação em nuvem facilita a visão holística",
+      "summary": "Fernanda Spinardi, da AWS: empresa investe em serviços que permitam aos clientes unificar informações na nuvem Divulgação Na BMW, o processamento diário de cerca de 10 terabytes de dados, gerados por 1,2 milhão de veículos, sustenta desde insights em tempo real a assistentes pessoais veiculares, tudo a partir de dados de telemetria de veículos e clientes. Na Pedra Agroindustrial, dados de desempenho das plantas, solo, chuvas, declividade e pragas permitem definir a variedade de cultura de cana com melhor aproveitamento para cada área, enquanto o governo de Angola combina informações diversas para monitorar a gestão de mais de 500 projetos de 15 províncias. Os exemplos mostram a relevância da integração de dados maciços de diferentes áreas das empresas para apoiar tomada de decisão, tendência acirrada pelo maior uso da inteligência artificial (IA). O cenário é favorecido pela computação em nuvem, dada sua capacidade elástica de armazenamento e processamento. O Brasil acompanha o cenário mundial de adoção de infraestrutura em nuvem (IaaS), com penetração praticamente total em empresas de grande porte, conforme Luciano Ramos, country manager da consultoria IDC. O segmento deve avançar 18,6% neste ano, e o crescimento alcança até 25% no caso de softwares (SaaS). Em infraestrutura, a estratégia é prioritariamente híbrida, com nuvem pública somada a data center tradicional, dentro de infraestrutura própria (“on-premise”) ou de terceiros, ou mesmo nuvem privada. Do ponto de vista de aplicações, prevalece a nuvem múltipla (“multicloud”), com provedores diferentes. “A nuvem facilita a visão unificada”, diz Ramos. A AWS investe em serviços para unificar informações mesmo enquanto soluções “on-premise” ainda consomem cerca de 85% dos gastos globais com tecnologia (TI), segundo a líder de soluções para clientes Fernanda Spinardi. A BMW, um dos exemplos maduros, baseia na AWS seu repositório (“date lake”) para desenvolver soluções orientadas a dados. Outro exemplo é o Grupo Boticário, que depois de unificar dados em nuvem desenvolveu assistente de compras com IA que aumentou a conversão de vendas em 46%. “A nuvem tem impulsos como modernização de aplicações e dados para IA”, avalia Spinardi. Para cruzar “silos” de informação, a empresa lançou o Quick, assistente que conecta desde e-mail e calendários a documentos e “data lakes”, “raciocinando” sobre essas fontes para entregar respostas em segundos. Dados da pesquisa “CEO Study 2025”, do IBM for Business Value (IBV), com 2 mil dirigentes de 33 países, indicam que 68% dos CEOs consideram uma arquitetura integrada de dados essencial para a colaboração entre áreas da empresa. “Em ambiente impulsionado por IA e análises de dados [analytics], é necessário transformar dados dispersos em visão única do negócio”, explica Thiago Videira, head de nuvem para a América Latina na IBM. De acordo com ele, o desafio de superar a fragmentação prescinde de centralização, já que arquiteturas híbridas e “multicloud” permitem conectar aplicações e dados seja onde estiverem hospedados, por meio de acesso seguro e governado às informações. A Pedra Agroindustrial optou pela centralização, com organização e orquestração da base iniciada há cinco anos apoiada pela consultoria Stefanini. Mais de cem soluções estão conectadas à base para IA e aprendizado de máquina em nuvem, reunindo desde dados administrativos até os capturados por equipamentos no campo. “Em ambiente interno seria necessário comprar infraestrutura visando médio prazo. Em nuvem, o investimento é orgânico, na medida que traz retorno”, explica o coordenador de TI Wanceslau Marcomino. A consultoria Simbiox apoiou o governo de Angola na implantação de um projeto para o fortalecimento da governança que combina dados, georreferenciamento, “analytics” e IA para transformar informações dispersas em indicadores para tomada de decisão. Já a cooperativa paranaense Coasul aposta em nuvem privada, com plataforma da Nutanix, que reúne bancos de dados, arquivos corporativos e sistemas. “A integração reduziu silos tecnológicos entre processamento, armazenamento, proteção e gestão”, conta o gerente de infraestrutura da Coasul, Juliano Drehmer.",
+      "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-corporativa/noticia/2026/07/29/computacao-em-nuvem-facilita-a-visao-holistica.ghtml",
+      "published": "2026-07-29T08:04:20+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Gêmeos digitais abrem uma janela para o futuro",
+      "summary": "O professor Arlindo Galvão, ligado ao Centro de Excelência em Inteligência Artificial (Ceia), da Universidade Federal de Goiás (UFG), lembra da cena do filme “Homem de Ferro”, na qual o alter ego de Tony Stark conversa com Jarvis, uma inteligência artificial que funciona também como um gêmeo digital, para explicar até onde a indústria já está chegando, quando diversas tecnologias dialogam no processo produtivo. Essas novidades já são capazes de espelhar, com auxílio de múltiplos sensores, tudo o que acontece no chão de fábrica, além de antever os resultados finais, se houver alterações, por exemplo, nos insumos, temperatura, entre outras milhares de possibilidades. Na cena em questão, Jarvis simula visualmente a armadura do herói, acopla diferentes tipos de apetrechos e é capaz de prognosticar suas capacidades futuras. Esse tipo de revolução já está ocorrendo na indústria, e o Brasil tem diversos exemplos de sucesso dessas novas aplicações em plantas espalhadas pelo país. Galvão, que também é diretor da Empresa Brasileira de Pesquisa e Inovação Industrial, a Embrapii, já participou de projetos que associam IA e digitalização a processos produtivos de companhias líderes, como Petrobras, WEG e Natura. Ele aponta três pilares para definir o que é exatamente o gêmeo digital, definição que considera muitas vezes utilizada imprecisamente. “Precisa ter um software que simula a realidade. Ter uma inteligência plugada a uma planta real, ou seja, os simuladores têm de sentir o que a realidade está sentindo”, explica. “E o sistema tem de usar IA para poder fazer predição e trazer os resultados previstos, quando qualquer tipo de alteração for proposta.” Os ganhos são muitos. O sistema permite demonstrar a fadiga de peças e equipamentos inteiros, antes de o processo entrar em colapso. Verifica pequenas alterações, que seriam imperceptíveis para os humanos, por falta de acuidade visual ou por ocorrerem dentro de um maquinário, por exemplo. É o que ocorre na fábrica da N&amp;L, que o Grupo José Alves inaugurou no início do mês em Trindade (GO). A nova unidade está acoplada a um complexo fabril de produtos de limpeza e tem capacidade para produzir 4,2 milhões de caixas de sabão em pó por mês. Pagamos R$ 15 mil pela tecnologia e já celebramos R$ 10 milhões em ganhos” O custo total da planta, que começou em 2023, chegou a R$ 600 milhões com a última inauguração. Com um investimento de R$ 800 mil nesta modelagem, a fábrica da N&amp;L instalou um simulador matemático que possibilita testar e analisar todas as variáveis do processo de forma virtual, antes mesmo da execução real. “Graças à automação e à inteligência artificial, a operação de uma planta de pó que tem sete andares necessita apenas de duas pessoas por turno, enquanto uma outra, em que trabalhei na concorrência, exigia no mínimo 12 pessoas em atuação”, compara o diretor de operações industriais da N&amp;L, Leandro Silva. O sistema previne paradas não programadas, alertando o operador para limpar o bico ou atuar em válvulas antes que atinjam níveis críticos de operação. “Também permite ajustar o processo para trabalhar em faixas de tolerância muito mais estreitas, reduzindo desperdícios de matéria-prima, corrigindo automaticamente as dosagens e garantindo a conformidade do produto final”, arremata Silva. No Pará, a Belém Bioenergia Brasil produz óleo de palma, insumo de biodiesel, alimentos e cosméticos com auxílio de uma inteligência artificial desenvolvida pela empresa NoLeak. Ela foi acoplada ao gêmeo digital da fábrica para analisar o transportador da fibra residual da palma que é levada às caldeiras da produção. O monitoramento por IA alerta quando ocorrerão quebras ou saídas de trilho desse transportador, chamado de “redler”. “A empresa sofria até três paradas não programadas por mês. Cada parada total da planta durava de 16h a 20h para restabelecimento, gerando um prejuízo de R$ 1 milhão a R$ 1,5 milhão por evento devido à perda de produção”, calcula Judson Ataíde, coordenador de engenharia industrial na BBB. “Pagamos R$ 15 mil pela implementação da tecnologia e já celebramos R$ 10 milhões em ganhos em um ano.” Já no setor de óleo e gás, a Wiise é uma empresa que desenvolve gêmeos digitais para a Petrobras. O software soluciona problemas complexos de engenharia, como o escoamento de fluidos e o comportamento de válvulas em operação em altas profundidades no pré-sal. “O sistema modela a geometria dos equipamentos e compara os cálculos matemáticos com os dados reais enviados pelos sensores dos poços [como pressão e temperatura] para validar o modelo e prever anomalias”, revela Rodrigo Dias, CEO da Wiise.",
+      "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-corporativa/noticia/2026/07/29/gemeos-digitais-abrem-uma-janela-para-o-futuro.ghtml",
+      "published": "2026-07-29T08:04:36+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Revolução trilionária redefine estratégias de empresas",
+      "summary": "Os números dos orçamentos de tecnologia no mundo corporativo estão em escalada. De acordo com a empresa de pesquisas Gartner, os gastos mundiais com tecnologia da informação (TI) crescerão 10,8% em 2026, ante 2025, totalizando US$ 6,1 trilhões. A maior parte da fatura deve ir para a área de data centers, que prevê um aumento de 31,7% nos investimentos em comparação ao ano passado, ultrapassando US$ 650 bilhões até dezembro. Já o segundo maior avanço previsto está no segmento de software, com um salto de 14,7% e aquisições avaliadas em US$ 1,4 trilhão. Correndo por fora do escopo “tradicional” do mercado de TI - formado por equipamentos, serviços e sistemas -, a inteligência artificial (IA) surge como a cereja do bolo da indústria. A previsão é que os gastos mundiais nesse campo totalizem US$ 2,5 trilhões em 2026, alta de 44% em relação a 2025, podendo chegar a US$ 3,3 trilhões em 2027. Soluções de infraestrutura ou a base de hardware e software necessária para desenvolver e executar os modelos de linguagem devem representar a maior parte dos cheques. “Hoje, a IA é vista como o motor de uma nova era nos negócios”, explica Yran Dias, sócio sênior da McKinsey e líder de transformação em IA e tecnologia da consultoria na América Latina. Mas a grande virada de chave do mercado consumidor, diz ele, será entender que não estamos mais falando de automação de rotinas, mas de uma revolução empresarial. “Enquanto a automação soa como ‘fazer um processo de trabalho de uma forma mais rápida’, a IA tem a capacidade de reinventar modelos de negócios.” Porém, para extrair mais valor da nova tecnologia, não basta apenas automatizar o passado, acrescenta. Uma pesquisa da McKinsey indica que 88% das empresas relatam o uso regular da IA, mas as líderes de mercado se diferenciam da concorrência por adotarem uma “visão de ruptura” sobre o tema. Segundo Dias, 64% dos executivos afirmam que a IA deixou de ser uma ferramenta de eficiência para se tornar uma viabilizadora de inovação nas organizações. O levantamento ouviu 1,9 mil gestores em 105 países, incluindo o Brasil. Na empresa de cosméticos Natura, a IA já é considerada uma das principais frentes de transformação tecnológica, de acordo com o diretor de dados e “analytics” Daniel Marques. “É aplicada de forma transversal, em áreas como operações, logística e vendas”, diz. Em 2025, a companhia investiu R$ 1,4 bilhão em inovação - 6,5% da receita líquida do ano -, um crescimento de cerca de 40% diante do montante aplicado em 2024. Além de despesas com sistemas de TI, a soma inclui verbas para logística, pesquisa e desenvolvimento. Marques diz que a principal métrica de sucesso das iniciativas de IA é o retorno financeiro. “A cada R$ 1 investido no setor, temos um retorno incremental de receita bruta de cinco vezes”, garante. Na Ânima Educação, ecossistema de ensino com 18 mil funcionários, o investimento em TI se manteve estável, de 2,6% da receita em 2024 para 2,7% no ano passado. “Os recursos apoiam a evolução de plataformas digitais, iniciativas de IA e de segurança e análise de dados”, afirma Bruno Machado, vice-presidente de tecnologias educacionais e mindset digital. “A prioridade é ajustar o orçamento para um melhor aproveitamento dos avanços com a IA, por meio de governança e capacitação.” Machado conta que o letramento em IA inclui a produção de agentes para a resolução de problemas reais. “Na alta gestão, temos seis vice-presidentes em treinamento de um total de dez”, conta. “O plano é impactar 100% dessa camada de liderança até o final do ano.” Empresas de menor porte também reservam maiores fatias do planejamento financeiro para a área de TI. Na SuperFrete, plataforma de logística para pequenos e médios negócios com 170 funcionários, o plano é injetar R$ 12 milhões em 2026, um acréscimo de 70% em relação a 2025. “O investimento está concentrado em infraestrutura de nuvem e dados, fortalecimento das equipes e em IA, a nossa maior prioridade”, detalha o diretor de TI André Abadesso. Segundo o executivo, os resultados do uso da IA estão aparecendo no dia a dia. “Nossa agente de atendimento responde por 100% das conversas recebidas como primeiro contato e resolve 80% das demandas”, compara. A SuperFrete processa mais de 1 milhão de envios para 150 mil clientes ativos ao mês. Yran Dias, da McKinsey, afirma que a maior parte das organizações percebeu que o ecossistema tecnológico foi ampliado de suporte operacional para uma via de reinvenção nos negócios - mas é importante separar o “joio do trigo” na hora de ir às compras. “A pergunta que os gestores devem fazer não é ‘qual ferramenta comprar?’, mas ‘qual oportunidade tem o maior potencial de geração de valor para a organização?’” Do lado dos fornecedores de soluções, a IBM tem observado que a relação comercial com o mercado ficou mais estratégica. “Em 2019, a conversa girava em torno de migração para a nuvem e automação”, relata Fabrício Lira, diretor de IA e dados da IBM Brasil. O cliente queria reduzir custos e ganhar eficiência, destaca. “Agora, a tecnologia entrou na agenda do conselho e a IA, que era uma questão exclusivamente tecnológica, é vista como uma alavanca de transformação nas operações.” Na avaliação de Dennis Herszkowicz, CEO da Totvs, de sistemas corporativos, o empresário não acorda de manhã querendo comprar nuvem ou IA. “Ele busca uma solução para um problema de negócio, quer reduzir custos, mas também simplificar a complexidade da gestão”, afirma. “A procura não é por softwares horizontais [para atender funções comuns a qualquer empresa], mas por soluções integradas”. Patrícia Monteiro, vice-presidente de serviços da Dell Technologies para a América Latina, concorda com Herszkowicz e chama a atenção para uma maior combinação de recursos, como infraestrutura para IA, software e serviços especializados, na lista de interesse dos clientes. “O mercado não demanda apenas equipamentos”, defende. “Quer parceiros capazes de acelerar a transformação digital nos negócios.” Ricardo Alem, líder para a América Latina de IA agêntica e generativa na AWS (Amazon Web Services), de computação em nuvem, avisa que a multinacional não vai tirar o pé do acelerador para atender a demanda da clientela. “Até 2034, teremos investido R$ 5,6 bilhões em infraestrutura de data centers no Brasil”, diz. A empresa pretende capacitar 1 milhão de brasileiros com habilidades de nuvem e IA até 2028. “Nosso investimento no país vai além de infraestrutura de TI, envolve pessoas.”",
+      "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-corporativa/noticia/2026/07/29/revolucao-trilionaria-redefine-estrategias-de-empresas.ghtml",
+      "published": "2026-07-29T08:05:20+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 2.0
+    },
+    {
+      "title": "Cadeias logísticas incorporam uso de modelos preditivos",
+      "summary": "Definir onde posicionar um estoque, quando contratar um caminhão ou como reagir a um congestionamento em portos e rodovias deixou de depender apenas da experiência dos gestores. Cada vez mais, essas decisões são tomadas a partir da análise de dados. Empresas brasileiras ampliam o uso de inteligência artificial (IA), modelos preditivos e plataformas integradas para monitorar mercadorias em tempo real, antecipar gargalos e reorganizar fluxos logísticos antes que afetem a produção ou as entregas. A transformação é visível no transporte rodoviário de cargas, um dos setores mais pulverizados da economia brasileira. Para Federico Vega, CEO da Frete.com, as plataformas digitais foram além de conectar caminhões e embarcadores. “Quando o frete é negociado, precificado e pago dentro de um ambiente digital, gera-se um dado transacional. É esse dado que destrava todo o restante”, afirma. Segundo ele, esse modelo reduziu a ociosidade dos motoristas, que antes chegava a 60%, e gerou economia de até 20% nos custos de frete para os embarcadores. A análise da oferta e da demanda por rotas em tempo real também permite antecipar desequilíbrios antes que afetem a operação. “Recalcular rota resolve um caminhão. Ver que uma região vai ficar sem capacidade daqui a três dias resolve uma safra”, explica Vega. Na avaliação do executivo, o principal desafio deixou de ser tecnológico e passou a envolver a integração entre diferentes bases de dados. “O difícil não é conectar diferentes APIs [interface de programação de aplicações]. É que os diferentes registros de um mesmo ator conversem entre si.” Na prática, isso significa integrar sistemas privados às bases utilizadas pelo poder público. Empresas de transporte e embarcadores ainda precisam lidar com registros que nem sempre compartilham as mesmas informações, como o RNTRC (Registro Nacional de Transportadores Rodoviários de Cargas), o CIOT (Código Identificador da Operação de Transporte) e os sistemas da ANTT (Agência Nacional de Transportes Terrestres). O esforço de integração também alcança cadeias logísticas mais complexas. A Suzano, que opera uma malha integrada por rodovias, ferrovias, portos e navegação no Brasil e no exterior, utiliza inteligência artificial no planejamento da demanda, sequenciamento da produção, gestão de estoques e otimização da logística. Nas exportações, a companhia integra informações de transportadores, armadores e terminais portuários para acompanhar cargas, ampliar a visibilidade das operações e antecipar alterações no tempo de viagem. “O diferencial competitivo está na capacidade de transformar dados dispersos em uma visão única da operação, permitindo antecipar cenários e responder rapidamente às mudanças”, afirma Silvia Krueger Pela, diretora de operações logísticas e planejamento comercial de celulose da Suzano. A empresa utiliza telemetria avançada e conectividade via satélite para ampliar a visibilidade das operações e reforçar a rastreabilidade das cargas. No varejo, a integração de dados vem aproximando estoques da demanda e reduzindo o tempo de entrega. No Mercado Livre, algoritmos preveem vendas, definem o armazenamento de produtos e organizam a distribuição conforme a localização dos clientes. “Combinamos a IA com automação e robótica, contando com mais de 500 robôs que atuam no apoio à separação de pedidos, movimentação de produtos e organização nos centros de distribuição”, afirma Luiz Vergueiro, diretor sênior de logística do Mercado Livre no Brasil. Só neste ano, a empresa anunciou um aporte de R$ 57 bilhões ao fortalecimento da malha logística, à ampliação da capacidade operacional e ao avanço tecnológico. A companhia reduziu em até 20% o tempo de processamento dos pedidos, melhorou em 15% o aproveitamento dos centros de distribuição e alcançou a marca de 76% de entregas rápidas (em até 48 horas) no primeiro trimestre de 2026. No Magazine Luiza, a inteligência artificial também apoia decisões de previsão de demanda, planejamento de capacidade, alocação de estoques e roteirização dinâmica. Segundo Márcio Chammas, CEO do Magalog, “o sistema de roteirização sugere a quantidade exata de veículos necessários, a rota mais rápida e a melhor distribuição de pedidos entre os motoristas, com o máximo aproveitamento de cada região”. Com a integração entre centros de distribuição, lojas físicas e marketplace, mais de 70% das entregas são concluídas em até 48 horas. O executivo afirma que o grande volume de dados é um dos principais desafios da operação, mas que ferramentas de inteligência artificial e a infraestrutura de nuvem da companhia, a Magalu Cloud, ampliam a capacidade analítica e reduzem o tempo de processamento das informações. Apesar dos avanços tecnológicos, a qualidade dos dados continua sendo um dos principais desafios da logística. Para Luis Vitiritti, consultor e auditor de riscos da RiskLog, falhas de conectividade, eventos climáticos, acidentes, congestionamentos e as particularidades de cada tipo de carga ainda limitam a previsibilidade das operações. “Não basta instalar um sistema no caminhão ou no celular. A gestão deve acompanhar esses dados e fazer ajustes nas operações.” Na avaliação do consultor, a inteligência artificial amplia a capacidade de monitoramento, mas não substitui a gestão dos riscos. Fatores humanos, ambientais e regulatórios continuam influenciando o desempenho da cadeia logística e exigem análise permanente. “A IA pode ajudar a acertar ou a errar. Por isso, merece muito cuidado em seu uso responsável.”",
+      "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-corporativa/noticia/2026/07/29/cadeias-logisticas-incorporam-uso-de-modelos-preditivos.ghtml",
+      "published": "2026-07-29T08:05:56+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "centros de distribuição"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
           "field": "body",
           "score": 2,
           "topic": null
