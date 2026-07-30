@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T09:46:16.703563+00:00",
-  "count": 357,
-  "new_this_run": 2,
+  "generated_at": "2026-07-30T10:48:45.360198+00:00",
+  "count": 361,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Novo Nordisk pede liminar para impedir imediatamente anúncios de Mounjaro da Eli Lilly",
@@ -619,6 +619,53 @@
         {
           "sector": "Farmácias",
           "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
+      "title": "Mais concorrência para Ozempic e Mounjaro: mercado ganha 5 novas canetas emagrecedoras aprovadas pela Anvisa - Seu Dinheiro",
+      "summary": "Mais concorrência para Ozempic e Mounjaro: mercado ganha 5 novas canetas emagrecedoras aprovadas pela Anvisa &nbsp;&nbsp; Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/2026/economia/anvisa-aprova-5-novas-canetas-para-tratamento-da-obesidade-veja-quais-isca",
+      "published": "2026-07-29T13:41:02+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro",
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "title",
           "score": 20,
           "topic": null
@@ -4267,98 +4314,6 @@
       "score": 22.0
     },
     {
-      "title": "Caneta emagrecedora atrai mais clientes, mas acirra concorrência, diz CEO do Mundo Verde",
-      "summary": "Há quase 40 anos, era comum que clientes formassem uma pequena fila em frente à primeira loja do Mundo Verde, em Petrópolis, para comprar arroz integral. Era coisa de \"bicho-grilo\", diziam, expressão usada para se referir a pessoas com estilo de vida alternativo. Leia mais (07/23/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/caneta-emagrecedora-atrai-mais-clientes-mas-acirra-concorrencia-diz-ceo-do-mundo-verde.shtml",
-      "published": "2026-07-23T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nubank quer crescer além de MEIs e mira empresas que faturam até R$ 4,8 milhões por ano",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/negocios/nubank-crescer-alem-meis-empresas-faturam-ate-4-mi-ano",
-      "published": "2026-07-23T10:00:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "iFood vai expandir rede de pontos de apoio para entregadores até o fim de 2026",
-      "summary": "O iFood pretende construir ao menos 18 novos pontos de apoio para entregadores até o final de 2026, chegando a 72 unidades do tipo em aos menos 20 cidades brasileiras. A iniciativa atende a algumas leis estaduais ou mesmo projetos de lei que preveem locais para descanso , carregamento de celular e alimentação. Leia mais (07/23/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/ifood-vai-expandir-rede-de-pontos-de-apoio-para-entregadores-em-20-cidades.shtml",
-      "published": "2026-07-23T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Uso de canetas emagrecedoras exige cuidados para evitar danos à pele - G1",
-      "summary": "Uso de canetas emagrecedoras exige cuidados para evitar danos à pele &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/pe/pernambuco/bom-dia-pe/video/uso-de-canetas-emagrecedoras-exige-cuidados-para-evitar-danos-a-pele-14803616.ghtml",
-      "published": "2026-07-23T10:32:52+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Menos remédio, mais beleza: como funciona a farmácia do condomínio de super-ricos em SP - Bloomberg Línea Brasil",
       "summary": "Menos remédio, mais beleza: como funciona a farmácia do condomínio de super-ricos em SP &nbsp;&nbsp; Bloomberg Línea Brasil",
       "url": "https://www.bloomberglinea.com.br/negocios/menos-remedio-mais-beleza-como-funciona-a-farmacia-do-condominio-de-super-ricos-em-sp",
@@ -7878,6 +7833,29 @@
       "score": 20.0
     },
     {
+      "title": "OXXO impulsa resultados de FEMSA - eleconomista.com.mx",
+      "summary": "OXXO impulsa resultados de FEMSA &nbsp;&nbsp; eleconomista.com.mx",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSlZZN2MtZjc2RUxFbi1DRkFGVHRHS2NkQmFhWFZocW9ZdkQyTFlpcFVjekRjNXMxWkhsaDAzNG1pellPaGN5NVM4c3FJYks1WUVRTVpjdEZ3VVZiWFEzNkVDb0NZUXd5ak9EbVVyaG9LSS11a2lWdmJQUUZTMXNOMHNJN1hSemwtcVE3dERuVDhwbTjSAZgBQVVfeXFMTXNtT2VpZWpBTUNwenRJMjRSMXZ3blNFUnJadXdwc2xVVXJkLWxRcm9fdU1tWE9pS1hYa3plOFI3Z2dOajN4bFdtOGkxZHFYVmtCNmQzX0FqcG52VnlHRF9MTFhDRzhhVzd4Q0lKMVp1OUF4eDduWjBxaUF3TGVvb1pzVG9BcUhWc3pVVzdhREEza1VLd0sxRy0?oc=5",
+      "published": "2026-07-30T02:24:51+00:00",
+      "source": "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "oxxo"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "oxxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Anvisa aprova mais 5 marcas de semaglutida: o que esperar dos preços e qual o caminho para chegar ao SUS - G1",
       "summary": "Anvisa aprova mais 5 marcas de semaglutida: o que esperar dos preços e qual o caminho para chegar ao SUS &nbsp;&nbsp; G1",
       "url": "https://g1.globo.com/saude/noticia/2026/07/30/anvisa-aprova-mais-5-marcas-de-semaglutida-o-que-esperar-dos-precos-e-qual-o-caminho-para-chegar-ao-sus.ghtml",
@@ -7988,6 +7966,98 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Adidas eleva meta de vendas e nomeia nova diretora financeira",
+      "summary": "A Adidas elevou sua projeção de vendas para o ano fechado após apresentar um forte desempenho no primeiro semestre, além de ter anunciado a nomeação de uma nova diretora financeira. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/30/adidas-eleva-meta-de-vendas-e-nomeia-nova-diretora-financeira.ghtml",
+      "published": "2026-07-30T09:41:18+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "adidas"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "adidas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Quem vai suceder Bernard Arnault? - Brazil Journal",
+      "summary": "Quem vai suceder Bernard Arnault? &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/quem-vai-suceder-bernard-arnault",
+      "published": "2026-07-30T09:50:29+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "bernard arnault"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "bernard arnault",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas para o vício? O que diz a ciência sobre o efeito de remédios como Ozempic contra a dependência",
+      "summary": "Medicamentos são testados no tratamento de dependências químicas como a alcoólica",
+      "url": "https://veja.abril.com.br/saude/canetas-contra-o-vicio-o-que-diz-a-ciencia-sobre-o-efeito-de-remedios-como-ozempic-contra-a-dependencia",
+      "published": "2026-07-30T10:00:00+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Agência de Comunicação - China Hoje: A economia da experiência e o novo turismo chinês - Estadão Blue Studio",
+      "summary": "Agência de Comunicação - China Hoje: A economia da experiência e o novo turismo chinês &nbsp;&nbsp; Estadão Blue Studio",
+      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/prnewswire/china-hoje-a-economia-da-experiencia-e-o-novo-turismo-chines",
+      "published": "2026-07-30T10:02:17+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
@@ -9317,6 +9387,52 @@
         {
           "sector": "Economia",
           "alias": "consumo das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "PIB da França avança 0,2% no 2º trimestre ante período anterior, apesar de incerteza sobre guerra",
+      "summary": "A economia francesa apresentou recuperação no segundo trimestre deste ano, impulsionada pelo consumo das famílias e pelas exportações robustas, superando parte da incerteza sobre o curso e as consequências do conflito no Oriente Médio. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/mundo/noticia/2026/07/30/pib-da-franca-avanca-02percent-no-2o-trimestre-ante-periodo-anterior-apesar-de-incerteza-sobre-guerra.ghtml",
+      "published": "2026-07-30T09:49:06+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "consumo das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "consumo das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Sob nova gestão, Ribeiro Caram direciona 60% do esforço para construção de data centers",
+      "summary": "Diego Baez assume o cargo CEO da Ribeiro Caram com um objetivo principal: colocar a empresa, que hoje opera, sobretudo, galpões logísticos, no mapa dos data centers. Leia mais (07/30/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/07/sob-nova-gestao-ribeiro-caram-direciona-60-do-esforco-para-construcao-de-data-centers.shtml",
+      "published": "2026-07-30T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "galpões logísticos"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "galpões logísticos",
           "field": "lead",
           "score": 8,
           "topic": null
