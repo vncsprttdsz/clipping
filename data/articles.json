@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-30T06:53:50.046759+00:00",
-  "count": 413,
-  "new_this_run": 65,
+  "generated_at": "2026-07-30T09:22:37.780936+00:00",
+  "count": 418,
+  "new_this_run": 13,
   "articles": [
     {
       "title": "Novo Nordisk pede liminar para impedir imediatamente anúncios de Mounjaro da Eli Lilly",
@@ -183,6 +183,77 @@
         }
       ],
       "score": 100.0
+    },
+    {
+      "title": "Canetas emagrecedoras turbinam vendas nas farmácias, mas não a bolsa",
+      "summary": "Ozempic, Wegovy, Mounjaro: a disrupção do GLP-1 é comparada à IA, mas o impacto em ações do varejo farmacêutico ainda é limitado",
+      "url": "https://exame.com/revista-exame/investidor-sem-apetite",
+      "published": "2026-07-30T06:00:52+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias",
+        "glp-1",
+        "mounjaro",
+        "ozempic",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 92.0
     },
     {
       "title": "GLP-1 melhora fertilidade masculina, diz especialista",
@@ -666,6 +737,77 @@
         {
           "sector": "Farmácias",
           "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
+      "title": "Hypera, Sun Pharma e Sandoz entram na disputa das canetas",
+      "summary": "A Anvisa, a agência reguladora brasileira, aprovou ontem (29) o registro de cinco novas canetas com semaglutida. A decisão marca a entrada da farmacêutica brasileira Hypera, da suíça Sandoz e da indiana Sun Pharma no mercado da molécula usada nas canetas emagrecedoras da dinamarquesa Novo Nordisk, fabricante do Ozempic e do Wegovy. Ao todo, o país já conta com a aprovação de seis novos remédios, desde que o princípio ativo perdeu a exclusividade em março. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/07/30/hypera-sun-pharma-e-sandoz-entram-na-disputa-das-canetas.ghtml",
+      "published": "2026-07-30T08:01:48+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "hypera",
+        "novo nordisk",
+        "ozempic",
+        "semaglutida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "hypera",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1987,6 +2129,53 @@
       "score": 50.0
     },
     {
+      "title": "O que se sabe sobre as novas canetas emagrecedoras aprovadas pela Anvisa",
+      "summary": "A Agência Nacional de Vigilância Sanitária aprovou, na quarta-feira, cinco novas canetas à base de semaglutida no Brasil após o fim da patente da molécula no país. Confira abaixo as principais dúvidas sobre as novas medicações. Veja no Vida Boa: Dá para ajudar o organismo a lidar melhor com o consumo de sódio? Inúteis? 3 rotinas médicas das quais pessoas mais velhas podem não precisar 9 hábitos que especialistas recomendam na meia-idade para viver mais e envelhecer melhor Quais são as novas canetas aprovadas pela Anvisa? As canetas aprovadas foram: Semavy - da Cosmed Indústria de Cosméticos e Medicamentos S.A., subsidiária da Hypera Pharma. Owozy - da Ávita Care Importação e Distribuição de Produtos Ltda. Seemasun - da Sun Farmacêutica do Brasil Ltda. Zempneo - da Brainfarma Indústria Química e Farmacêutica S.A. Orsema - da Ranbaxy Farmacêutica Ltda. Qual é a indicação aprovada para as novas canetas? Todas receberam o aval para o tratamento do diabetes tipo 2, com doses de até 1,34 mg/mL. O uso é indicado para adultos de forma complementar à dieta e exercícios, quando o uso de metformina é considerado inapropriado devido à intolerância do paciente ou contra indicações. Quando as novas canetas começarão a ser vendidas no Brasil? Uma das novas canetas deve chegar às farmácias já em dois meses. É o caso do Semavy, que será vendido pela marca Mantecorp, do laboratório brasileiro Hypera Pharma. Existem canetas para obesidade em processo de avaliação pela Anvisa? O CEO da Hypera Pharma, Breno Oliveira, disse que a empresa já busca o sinal verde para as dosagens mais elevadas do Semavy, indicadas para quadros de obesidade e sobrepeso com uma comorbidade associada. — Vamos buscar também essa aprovação. Esse é um mercado muito relevante hoje e nosso objetivo é trazer mais opções e ampliar o acesso da população brasileira. E com alternativas seguras, com todas as análises regulatórias da Anvisa, diferente do que temos visto entrar ilegalmente no país. Quantas canetas à base de semaglutida já existem no mercado desde a queda da patente? As novas aprovações totalizam seis medicamentos do tipo liberados pela agência sanitária desde o fim da licença, em março. No entanto, apenas uma já começou a ser vendida no país. Trata-se do Ozivy, da EMS. O medicamento, que foi o primeiro aprovado pela Anvisa após a queda da patente, começou a ser vendido no Brasil em junho. A semaglutida presente nas novas canetas é igual a do Ozempic e Wegovy? Todos os novos medicamentos à base de semaglutida aprovados desde a queda da patente do Ozempic são de semaglutida sintética. Por outro lado, o fármaco original, o Ozempic, e o Wegovy, indicado para obesidade, têm origem biológica. De acordo com a Anvisa, os medicamentos biológicos são moléculas complexas que podem ser obtidas a partir de fluidos biológicos, tecidos de origem animal ou ainda de procedimentos biotecnológicos, por meio de manipulação ou inserção de outro material genético (DNA recombinante) ou alteração dos genes. Já os análogos sintéticos são feitos por síntese química, o que resulta em moléculas menores e mais estáveis que podem ser reproduzidas de forma idêntica. Mas, de acordo com Oliveira, \"para o consumidor não muda nada, o medicamento é submetido a testes que fazem a comparação com o fármaco de referência e só é aprovado se observado que o efeito é o mesmo\". Preciso de receita para comprar as novas canetas quando elas chegarem ao mercado? Sim. Como todos os medicamentos da classe de análogos de GLP-1, a semaglutida sintética também é sujeita à prescrição de receita médica em duas vias.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/07/30/o-que-se-sabe-sobre-as-novas-canetas-emagrecedoras-aprovadas-pela-anvisa.ghtml",
+      "published": "2026-07-30T07:30:17+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 50.0
+    },
+    {
       "title": "Novo Nordisk pede à Justiça dos EUA suspensão de anúncio de remédio para emagrecer da Eli Lilly",
       "summary": "A Novo Nordisk afirmou ter solicitado a um tribunal dos Estados Unidos uma liminar preliminar para impedir que a sua rival Eli Lilly faça publicidade de medicamentos para perda de peso, dias após acusar a fabricante do Mounjaro de usar publicidade enganosa para induzir os consumidores ao erro em um processo judicial. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/07/24/novo-nordisk-pede-a-justica-dos-eua-suspensao-de-anuncio-de-remedio-para-emagrecer-da-eli-lilly.ghtml",
@@ -2267,68 +2456,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Jeff Bezos quer transformar o Prime Video em 'vitrine de IA' da Amazon",
-      "summary": "Segundo a Reuters, Jeff Bezos acompanha pessoalmente uma reformulação que colocará a inteligência artificial no centro do Prime Video",
-      "url": "https://exame.com/inteligencia-artificial/jeff-bezos-quer-transformar-o-prime-video-em-vitrine-de-ia-da-amazon",
-      "published": "2026-07-23T07:28:00+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "A incompreensão do split payment e da não cumulatividade de IBS e CBS",
-      "summary": "Uma análise das mudanças operacionais no novo modelo de tributação",
-      "url": "https://www.jota.info/opiniao-e-analise/colunas/elas-no-jota/a-incompreensao-do-split-payment-e-da-nao-cumulatividade-de-ibs-e-cbs",
-      "published": "2026-07-23T08:00:38+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Reforma tributária é ameaçada por atrasos, gargalos no Comitê Gestor e riscos para o Imposto Seletivo",
@@ -3619,6 +3746,45 @@
       "score": 36.0
     },
     {
+      "title": "Como CEOs Estão Preparando Empresas para a Reforma Tributária",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. À espera do novo cronograma operacional, empresas revisam contratos, fornecedores, projeções de caixa e cláusulas de M&#038;A para a implantação do IBS e da CBS O post Como CEOs Estão Preparando Empresas para a Reforma Tributária apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/07/como-ceos-preparam-empresas-reforma-tributaria",
+      "published": "2026-07-30T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Por que a Ucrânia tem atacado a 'Amazon russa'",
       "summary": "Um dos quatro centros de distribuição da Wildberries atingidos nos ataques. A unidade de Nevinnomyssk foi atacada na madrugada de quarta-feira (22/7) BBC News fonte ReutersUm dos quatro centros de distribuição da Wildberries atingidos nos ataques. A unidade de Nevinnomyssk foi atacada na madrugada de quarta-feira (22/7) Em poucos dias, drones ucranianos atingiram vários centros de distribuição da Wildberries, a maior varejista online da Rússia, causando prejuízos a um grande número de pequenas e médias empresas. Depois de meses atacando depósitos e refinarias de petróleo, a Ucrânia afirma que agora passou a mirar centros logísticos usados para comprar equipamentos militares, numa tentativa de interromper o abastecimento do Exército russo. Mas a ofensiva também afetou centenas de vendedores russos que dependem de mercados virtuais (como a Amazon ou o Mercado Livre) para vender e sobreviver, fazendo a guerra chegar mais perto da rotina de muitos deles pela primeira vez em quase quatro anos e meio. \"Sou mãe de uma criança com deficiência e construí esse negócio sozinha\", escreveu uma mulher em uma publicação repleta de palavrões nas redes sociais que acabou viralizando. \"Perdi 1 milhão de rublos [cerca de R$ 65 mil]... Como se já não estivéssemos sendo ferrados de todos os lados.\" No primeiro ataque da Ucrânia contra a Wildberries, no fim de semana, dois centros de distribuição foram atingidos: um deles em Elektrostal, a leste de Moscou, e outro em Kotovsk, na região de Tambov, a cerca de 400 km da fronteira com a Ucrânia. Sete funcionários que trabalhavam no turno da noite morreram em Kotovsk, e outro morreu em Elektrostal. Dezenas de pessoas ficaram feridas, e o prejuízo com mercadorias destruídas foi avaliado em cerca de R$ 5,1 bilhões. Estima-se que entre 85% e 90% da população economicamente ativa da Rússia use a Wildberries ou sua concorrente, a Ozon. Em muitas regiões remotas, onde há poucas lojas físicas, essas plataformas são o principal meio de compras para produtos que vão de roupas a eletrodomésticos. A Ucrânia afirmou ter atingido \"importantes centros logísticos\" usados para \"fornecer componentes sujeitos a sanções destinados à produção de drones e equipamentos de navegação\". sem descrição BBC News fonte BBC Outros centros logísticos foram atacados na madrugada de segunda-feira (20/7), entre eles mais um centro de distribuição da Wildberries em Koledino, ao sul de Moscou. Novos ataques, entre a noite de terça-feira (21/7) e a madrugada de quarta-feira (22/7), atingiram centros logísticos da empresa em Krasnodar e Nevinnomyssk, na região de Stavropol. A proprietária da empresa, Tatiana Kim, informou que houve esses ataque deixaram mais vítimas. \"Estamos, com toda razão, levando a guerra de volta para dentro da Rússia\", afirmou o presidente da Ucrânia, Volodymyr Zelensky. Desde o início da invasão em larga escala, em fevereiro de 2022, a Rússia vem atacando cidades ucranianas com drones e mísseis. Nos últimos meses, ofensivas russas também atingiram armazéns e terminais de carga na Ucrânia. Centros de triagem da Nova Poshta, a maior empresa privada de entregas da Ucrânia, foram alvo de ataques, assim como depósitos da rede varejista ATB e do grupo de confeitaria Roshen. Com a linha de frente praticamente estagnada, a Ucrânia intensificou a sua campanha de ataques com drones de longo alcance contra rotas de abastecimento e instalações de energia. Na prática, a ofensiva isolou a Crimeia, anexada pela Rússia, e provocou escassez de combustível em diferentes regiões do país. As empresas já vinham sofrendo os efeitos da guerra antes dos ataques aos centros de distribuição, mas algumas perderam grande parte de seus estoques de um dia para o outro. Captura de tela do site da Wildberries mostra uma busca por \"componentes para drones\" BBC News fonte WildberriesCaptura de tela do site da Wildberries mostra uma busca por \"componentes para drones\" A Rússia nega que plataformas de comércio eletrônico sejam usadas para abastecer o Exército. Ainda assim, nelas são vendidos diversos produtos de uso militar, como coletes balísticos, além de itens que podem ser usados tanto para fins civis quanto na fabricação de drones. Blogueiros pró-guerra da Rússia afirmam que voluntários recorrem regularmente a essas plataformas para comprar equipamentos que depois são enviados às tropas na linha de frente. Mas não há confirmação independente de que os centros de distribuição atingidos nos ataques armazenassem esse tipo de material. Imagem de satélite mostra a dimensão do incêndio que atingiu o centro de distribuição da Wildberries em Elektrostal, a leste de Moscou BBC News fonte Gallo Images/Orbital Horizon/Copernicus Sentinel Data 2026Imagem de satélite mostra a dimensão do incêndio que atingiu o centro de distribuição da Wildberries em Elektrostal, a leste de Moscou Diferentemente da gigante americana Amazon, que vende produtos diretamente aos consumidores além de operar um marketplace (mercado virtual em que operam outros comerciantes), a Wildberries e a Ozon funcionam quase exclusivamente como plataformas que conectam vendedores independentes a compradores em toda a Rússia. Elas armazenam, entregam as mercadorias e processam os pagamentos. Por isso, boa parte dos prejuízos provocados pelos ataques acabou recaindo sobre comerciantes. Para uma vendedora de artigos de papelaria, a Wildberries é o único canal de vendas. Um dia depois de enviar sua mercadoria ao centro de distribuição de Elektrostal, nos arredores de Moscou, na sexta-feira passada (17/7), ela recebeu a notícia de que todo o estoque havia sido destruído pelo incêndio. Ela ainda tem outros produtos armazenados, mas esta é uma época importante para o negócio, quando pais e estudantes fazem as compras para o início do novo ano letivo no hemisfério norte. Outra comerciante que atua na Wildberries, vendendo roupas para adolescentes, contou à BBC ter perdido um estoque avaliado em cerca de 1,4 milhão de rublos (aproximadamente R$ 91 mil). Ela decidiu suspender o envio de novos produtos por algumas semanas. \"As perspectivas de continuar trabalhando com a Wildberries são muito incertas\", afirmou. \"No momento, ainda tenho uma reserva financeira suficiente para absorver essas perdas. Mas se houver novos ataques, provavelmente não vou conseguir.\" Nenhuma das duas espera receber indenização. No início deste mês, menos de duas semanas antes dos ataques, a Wildberries incluiu nos contratos uma cláusula que passou a considerar ataques com drones como casos de força maior, isentando a empresa de qualquer responsabilidade. A proprietária da Wildberries, Tatiana Kim, prometeu \"não abandonar\" os vendedores. Algumas pequenas empresas já receberam compensações, e a companhia também concedeu descontos temporários e isenção das taxas de envio. No entanto, as medidas fizeram pouco para reduzir o receio de novos ataques. Apoiar pequenas e médias empresas tem sido uma das prioridades declaradas de Vladimir Putin, presidente da Rússia, mesmo em tempos de guerra. O governo russo apresenta esse setor como um dos pilares da resistência do país às sanções impostas pelo Ocidente. Mas, na prática, o Estado não conseguiu proteger essas empresas dos efeitos do conflito, e o setor vem enfrentando uma série de dificuldades desde o início do ano. Em janeiro, o Imposto sobre Valor Agregado, o IVA, subiu de 20% para 22%, para ajudar a financiar os gastos com defesa, e benefícios fiscais concedidos a parte das empresas foram extintos. Segundo a plataforma de inteligência de negócios Kontur.Fokus, 209 mil pequenas e médias empresas encerraram suas atividades no primeiro trimestre de 2026. O número é 9% maior que o registrado no mesmo período de 2025. Apagões frequentes na internet e a repressão a aplicativos de mensagens populares agravaram ainda mais a situação. Segundo algumas estimativas, empresas de Moscou perderam dezenas de milhões de dólares em apenas uma semana de março. Depois veio a crise de combustíveis, desencadeada pelos ataques ucranianos a depósitos de petróleo, refinarias e rotas de abastecimento. \"Já há muitos pregos, e continuam martelando outros mais. [O ataque aos centros de distribuição da Wildberries] é mais um prego no caixão? Sim, sem dúvida\", disse Ruben Enikolopov, professor da Universidade Pompeu Fabra, na Espanha, em entrevista à BBC. As pequenas empresas russas já demonstraram capacidade de resistir a crises no passado. Mas a inflação continua elevada, o déficit orçamentário aumenta, e as receitas com petróleo e gás estão 23% abaixo das registradas nos seis primeiros meses do ano passado. A Rússia ainda dispõe de grandes reservas financeiras acumuladas em tempos de paz. No entanto, a guerra na Ucrânia consome cada vez mais recursos, reduzindo a capacidade de crescimento da economia civil. Reportagem adicional de Olga Shamina Rússia recorre a estudantes para repor as crescentes baixas na Ucrânia A crise na Ucrânia que fez Zelensky demitir ministro da Defesa e comandante do Exército em plena guerra com a Rússia Como foi o maior ataque da Ucrânia contra Moscou desde o início da guerra",
       "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/07/cdatapor-que-a-ucrania-tem-atacado-a-amazon-russa.ghtml",
@@ -4427,6 +4593,45 @@
       "score": 24.0
     },
     {
+      "title": "Fabricantes de suplementos redesenham mix",
+      "summary": "Beatriz Palermo, da Pronutrition: novos itens levam inscrição GLP-1 Support Divulgação A expansão do mercado de canetas emagrecedoras no Brasil está redesenhando as estratégias de fabricantes de suplementos alimentares de médio porte. Para aumentar presença no mercado e receita, as médias promovem mudanças na grade de produtos, com ênfase em itens mais proteicos e mudanças no sabor. Estudo divulgado em junho pela Scanntech, empresa especializada em inteligência para o varejo e a indústria, estima que o uso dos medicamentos, somando mercados formal e informal, cresceu 239% no primeiro trimestre de 2026 em relação ao mesmo período do ano anterior. “É uma mudança no perfil de consumo. A próxima onda de crescimento do mercado de suplementos não será impulsionada apenas pela performance esportiva, mas pela nutrição personalizada e pelo suporte às novas terapias para obesidade”, aponta Aline Goettert, nutricionista e diretora-executiva da Associação Brasileira de Suplementos Alimentares (Brasnutri). Com base nas respostas de 2 mil entrevistados, coletadas nos primeiros três meses do ano, a Scanntech estima que 6% dos brasileiros adultos usam canetas emagrecedoras. Nesse grupo, 29% relataram perda de massa magra. Com substâncias que imitam o hormônio GLP-1, produzido naturalmente pelo intestino após as refeições, as canetas injetáveis reduzem o apetite. Dados da Scanntech também apontam crescimento de 9,1% no consumo de suplementos proteicos e 7,4% de vitaminas. Na Pronutrition, que fabrica suplementos para outras marcas, cerca de 40% de todos os novos projetos recebidos atualmente são focados em aporte proteico. Beatriz Palermo, head de negócios da Pronutrition, diz que, entre 2025 e 2026, os pedidos para o desenvolvimento de produtos com fibras aumentaram mais de seis vezes. Para atender às novas demandas de mercado, a Pronutrition adaptou a comunicação e o catálogo. Entre os 45 produtos da empresa regulamentados pela Anvisa (Agência Nacional de Vigilância Sanitária), 50% já carregam o selo GLP-1 Support. Dos 40 novos produtos que entrarão no catálogo até o fim do ano, 28% são voltados para esse novo mercado. “Com o selo suporte de GLP-1, educamos o mercado sobre o produto para essa categoria e de como ele poderia compor a linha dos clientes”, ressalta Palermo. Sediada em Valinhos, no interior de São Paulo, a Pronutrition projeta crescer 20% neste ano. A empresa está prestes a inaugurar uma fábrica com 8,5 mil m2, com capacidade para entregar em 30 dias o equivalente a um ano da produção da unidade atual. Surgem categorias para manutenção da massa muscular e ingestão adequada de proteínas\" O consumo das canetas emagrecedoras também impactou positivamente as vendas da Maxinutri. O farmacêutico Fernando Ferdinandi, fundador e presidente da empresa, afirma que o faturamento nas categorias de produtos que compõem a cesta de consumo dos usuários de canetas emagrecedoras foi superior a 10%. Com sede em Arapongas, no Paraná, a empresa registrou faturamento de R$ 345 milhões em 2025. “As canetas emagrecedoras, sem dúvida alguma, deram uma grande mexida na dinâmica do mercado. A vitamina B12, cujo market share da Maxinutri chega a 45%, teve um aumento gigantesco de vendas” afirma Ferdinandi. A marca vem investindo em produtos como a B12 Plus, a B12 em gotas (para quem evita cápsulas), o cappuccino proteico e gomas com alto teor de fibras. “O mercado brasileiro ainda não despertou para o consumo de fibras, mas é algo extremamente importante e creio que o consumidor deva colocar no radar”, avalia. Para sustentar essa demanda, a Maxinutri vai expandir a produção. Atualmente, a planta produz 2,6 milhões de unidades por mês, operando com 100% da capacidade no turno diurno e pouco mais de 50% no noturno. Com a ativação total das linhas e a conclusão de uma nova expansão em dezembro, a capacidade produtiva deve saltar para 4,5 milhões de unidades mensais. Direcionada ao varejo farmacêutico, a marca está presente em 83 mil das 94 mil farmácias brasileiras, diz Ferdinandi. A fase de adaptação estrutural impulsionada pela popularização das canetas emagrecedoras é classificada como o novo normal do setor, diz Victor Comper, cofundador da Dobro, com sede em São Paulo. A empresa faturou R$ 40 milhões em 2025 e projeta receita de R$ 50 milhões neste ano. Embora o faturamento direto do negócio ainda não tenha sofrido um impacto considerável pelo uso das canetas emagrecedoras, porque o público majoritário é de esportistas voltados a treinos de esforço físico prolongado, a empresa está se adaptando às movimentações indiretas do mercado estético. Comper diz que uma das principais mudanças é a rejeição a sabores “indulgentes” (muito doces ou pesados) por usuários de canetas para tratar a obesidade. Isso porque o uso do medicamento inibe o apetite e altera a percepção de sabor. A tendência agora são os sabores tropicais e refrescantes, como maracujá, tangerina e laranja, em detrimento de opções clássicas como caramelo, chocolate e baunilha. “Quem tomava um shake de proteína ou comia uma barrinha de 50g de chocolate proteica não está mais conseguindo”, diz. Baseada em pesquisas apontando mudanças no paladar de usuários de canetas, a Dobro desistiu do lançamento de uma creatina sabor chocolate e baunilha e optou por um produto nos sabores frutas amarelas e vermelhas. Outra aposta da Dobro são embalagens menores de suplementos. Aline Goettert ressalta que as canetas emagrecedoras não eliminam a necessidade de acompanhamento nutricional qualificado, contudo, são uma oportunidade para a indústria de suplementos. “Surgem categorias voltadas à manutenção da massa muscular, ingestão adequada de proteínas, saúde intestinal, fibras alimentares, vitaminas, minerais e suporte nutricional durante o processo de perda de peso. É a busca disso com preservação da saúde.” Ver também Hypera, Sun Pharma e Sandoz entram na disputa das canetas",
+      "url": "https://valor.globo.com/empresas/media-e-mais/noticia/2026/07/30/fabricantes-de-suplementos-redesenham-mix.ghtml",
+      "published": "2026-07-30T08:01:04+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "glp-1"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
       "title": "Carrefour volta a crescer no Brasil e melhora rentabilidade durante o 2º tri",
       "summary": "O Carrefour apresentou desempenho resiliente no Brasil durante o segundo trimestre, marcado pelo retorno do crescimento de vendas e melhora contínua na rentabilidade. O avanço no mercado brasileiro ocorre em cenário macroeconômico ainda complexo, pressionado pelas altas taxas de juros que limitam o poder de compra do consumidor e mantêm os volumes do setor varejista no campo negativo. “Nossas estratégias comerciais e iniciativas de redução de custos permitiram crescimento de venda e que melhorássemos margens no segundo trimestre”, diz Alexandre Bompard, diretor-presidente do Carrefour, em nota. As vendas da varejista francesa chegaram a 5,46 bilhões de euros no país, alta de 9% na comparação anual. Em termos comparáveis, retirando efeitos cambiais, o faturamento aumentou 0,4%, superando a retração de 0,8% registrada no primeiro trimestre. O Atacadão retomou a trajetória positiva, com alta de 0,5% nas vendas comparáveis, e superou o mercado de atacarejo como um todo, tendo observado uma estabilização nos volumes desde o início do período. No segmento de varejo, a empresa registrou uma leve queda de 0,6% nas vendas comparáveis, impactado principalmente pela desaceleração intencional no varejo eletrônico de produtos não-alimentares. Para acelerar o ímpeto comercial no país, o Carrefour investiu em campanhas direcionadas e na adaptação do seu portfólio, com destaque para o fortalecimento da marca própria Bulnez, que agora conta com 200 itens. A divisão de serviços financeiros da empresa confirmou o bom momento com forte desempenho no segundo trimestre, expandindo a carteira de crédito em 13%, enquanto o faturamento apresentou alta de 8%. O resultado operacional recorrente do Carrefour no Brasil atingiu 359 milhões de euros no primeiro semestre, representando um avanço de 5,8% em relação aos seis primeiros meses de 2025. A margem operacional registrou um leve incremento de 9 pontos-base, alcançando 4% no semestre, desempenho que foi viabilizado por fortes iniciativas de adaptação e redução de custos operacionais. No resultado consolidado dos seis primeiros meses do ano, o Carrefour registrou lucro de 54 milhões de euros, revertendo o prejuízo de 361 milhões de euros há um ano. As vendas somaram 39,4 bilhões de euros, aumento de 1,7% na comparação anual. A companhia reiterou suas metas para o nano, incluindo aumento nas margens, na geração de caixa livre e no lucro por ação, por conta das expectativas de desempenho operacional na segunda metade do ano.",
       "url": "https://valor.globo.com/empresas/noticia/2026/07/23/carrefour-volta-a-crescer-no-brasil-e-melhora-rentabilidade-durante-o-2o-tri.ghtml",
@@ -4581,29 +4786,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Governo muda regra do BPC e do Bolsa Família para famílias unipessoais após acordo na Justiça",
-      "summary": "Um acordo judicial fechado entre o INSS (Instituto Nacional do Seguro Social, o MDS (Ministério do Desenvolvimento e Assistência Social, Família e Combate à Fome) e a DPU (Defensoria Pública da União) vai facilitar a concessão de BPC (Benefício de Prestação Continuada) e Bolsa Família a famílias unipessoais até julho de 2027. Leia mais (07/23/2026 - 04h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-muda-regra-do-bpc-e-do-bolsa-familia-para-familias-unipessoais-apos-acordo-na-justica.shtml",
-      "published": "2026-07-23T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Caneta emagrecedora atrai mais clientes, mas acirra concorrência, diz CEO do Mundo Verde",
@@ -9321,6 +9503,75 @@
       "score": 20.0
     },
     {
+      "title": "A fórmula da Shopee que redefiniu o e-commerce brasileiro",
+      "summary": "Da popularização das Datas Duplas ao avanço do social commerce, diretor de marketing da Shopee explica como a plataforma consolidou novas formas de vender e comprar no Brasil",
+      "url": "https://exame.com/revista-exame/a-formula-da-shopee",
+      "published": "2026-07-30T06:00:38+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Tudo sobre liraglutida - Forbes Brasil",
+      "summary": "Tudo sobre liraglutida &nbsp;&nbsp; Forbes Brasil",
+      "url": "https://forbes.com.br/noticias-sobre/liraglutida",
+      "published": "2026-07-30T07:40:55+00:00",
+      "source": "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "liraglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "liraglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "PEC do fim da escala 6x1 está parada há dois meses no Senado - O GLOBO",
+      "summary": "PEC do fim da escala 6x1 está parada há dois meses no Senado &nbsp;&nbsp; O GLOBO",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNLVJPYkZESnZUQlV4alo2SWdSRmJfYTR0QUNsb0ZWQktxRlBkaFRFekY1Wkg3R3NIWm9BeGl2LVhaeWZsYzNSYm9TQVhRbFRXUEo0SG1XUzUxN1BsbDB6Zm83eksyVFVmSHlDMjhURDBTbjJZR2QyQTA2S1AxYmluY1lPd0lIRkF0SXdNRWhPOURabldfM05aYlFwdUx5MFhDa1U0VWtESDFuZ2dVRzV1NVI3TG9PZmJacXVTQ05SbzHSAc8BQVVfeXFMUEdCZVhISXk3SFZibXVkYWg3bUctbXV2YmRvdld3al9iWWQ2cElXYXRDYkVWVHhnbXUtWm82SGoyakVuLUhLekRJY3d5NGR1SVIzYlRta0M0WjIzbVBDcl9aSVJtV3Z2U25wcXgtZExPSEo5M2pyQnktam9tMVNkeHV6ZHZHaldPajFyRGxaQlNHVkJBLVBFWFJ6eFpNcnBnTXFpTWUxRzNXMFlwN1dTaFVGNmpxN2hxS2VYQUE1QmhxdG9lblZuSnRmME96Q3Iw?oc=5",
+      "published": "2026-07-30T08:54:08+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Só 11% das empresas familiares no Brasil têm plano de sucessão",
       "summary": "A disputa pela herança de Anita Harley, principal acionista da Pernambucanas, e a guerra entre os irmãos para ocupar o lugar do pai, Bernard Arnault, como CEO do grupo de luxo LVMH – que reúne marcas como Louis Vuitton, Dior e Moët et Chandon – evidenciam o que a falta de planejamento sucessório pode desencadear em grupos familiares. No Brasil, apesar das empresas familiares representarem 90% das organizações empresariais, apenas 11% delas têm um plano estruturado de sucessão, contra 64% no mundo. É o que mostra a pesquisa da Mardô Family House Integration, consultoria especializada em governança familiar e sucessão patrimonial, que atende famílias de milionários e bilionários e já prestou serviço para mais de 300 grupos familiares. A falta de planejamento pode acelerar a mortalidade das companhias, por falta de gestão profissional e disputa de herança. Segundo o estudo, menos de 30% das empresas familiares brasileiras sobrevivem à terceira geração e apenas 3% a 7% alcançam a quarta. A raiz raramente é financeira: o patrimônio se fragiliza somente após a coesão familiar se dissolver. “Muitos herdeiros não se conectam com o negócio ou tem uma vida paralela”, diz Marcia Dolores, CEO e fundadora da Mardô. Casos de família: as brigas que podem corroer até 5% do PIB Jusfy atrai Quona e Thomson Reuters para criar a fintech dos advogados O Oráculo e o Algoritmo: a nova chamada de margem da governança De acordo com dados de mercados maduros mapeados pelo estudo em diferentes fontes, 53% dos herdeiros apontam que o maior entrave para o sucesso da transição é a dificuldade da geração atualmente à frente dos negócios em ceder espaço e abrir mão do controle. Muitas vezes os fundadores resistem a passar o bastão, apesar dos questionamentos dos investidores - na LVMH, Arnault estendeu a idade de aposentadoria de CEO de 80 para 85 anos para continuar no cargo. Anita Harley, da Pernambucanas: disputas societárias comprometem patrimônio Divulgação/Reprodução Globo Para Dolores, o ideal é que as empresas comecem a organizar a sucessão a partir do momento em que o negócio começar a ganhar tamanho relevante, representando a principal fonte de renda da família. “Grupos com receita a partir de R$ 80 milhões a R$ 100 milhões já devem pensar em profissionalizar a sucessão”, diz a especialista. Não significa apenas fazer um testamento, mas definir e conscientizar os herdeiros sobre a cultura do negócio. “O planejamento sucessório envolve mais do que divisão de bens por testamento. Primeiro é preciso organizar as relações familiares e governança, envolvendo desde as gerações mais jovens, para manter o legado”, diz Dolores. A escolha do sucessor também deve ser feita de maneira profissional, levando em conta as aptidões de cada herdeiro, e não apenas uma escolha do fundador, para evitar litígio - como aconteceu com o grupo de mídia liderado por Rupert Murdoch. Família Hering quer a marca de volta Ometto segue com cadeira de chairman da Cosan até 81 anos Na terceira geração, Bananinha Paraibuna recusa M&amp;A A disputa em ritmo do thriller Succession pelo comando do império de mídia construído por Murdoch, de 94 anos, resultou em uma batalha judicial entre seus seis filhos, de três casamentos, que acabou definindo o filho mais velho como o sucessor do pai. “Disputas judiciais acabam gerando paralisação decisória. Um herdeiro pode se recusar a vender sua parte e impedir transações que podem comprometer o patrimônio das próximas gerações ou levar a uma venda precipitada de ativos”, diz Dolores. Nem toda a família tem o perfil para dar continuidade nos negócios. A Mardô define quatro perfis de sucessores: o executivo, que é capaz de continuar à frente do negócio; o empreendedor, que faz a expansão vertical do grupo; o investidor, que traz possibilidade de investimentos em novos negócios, e o rentista consciente, cujo papel é preservar o patrimônio e a cultura da família. Série Succession se inspira em caso real de batalha de herdeiros pelo trono Reprodução A Mardô aplica metodologia baseada inclusive na neurociência para apontar os herdeiros com melhor perfil para sucessor. “Nem todo mundo quer continuar os negócios. A nova geração, composta especialmente por jovens entre 25 e 35 anos, está ressignificando conceitos de rentista e herdeiro, transformando-os em sinônimos de investidores que estão se profissionalizando para atuar em conselhos de administração, liderar family offices e buscar novos investimentos não necessariamente relacionados com os da família ”, afirma Dolores. As investidas de Benchimol em hotelaria Bauducco busca sócio minoritário; Mondelez quer o controle Esther Safra vende participação no grupo familiar aos irmãos A pesquisa estima que o Brasil terá R$ 9 trilhões de transferência de patrimônio com eventos de liquidez até 2045, transformando herdeiros em investidores de venture capital e de family offices. “Após a venda ou abertura de capital das empresas, muitos herdeiros podem ficar tentados a reinvestir o dinheiro e fazerem maus negócios. Por isso, a gente recomenda esperar pelo menos um ano para alocar melhor o capital levantado”, diz ela.",
       "url": "https://pipelinevalor.globo.com/mercado/noticia/so-11percent-das-empresas-familiares-no-brasil-tem-plano-de-sucessao.ghtml",
@@ -9359,37 +9610,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Por que as pessoas estão fazendo pedidos falsos de comida e moda em aplicativos gratuitos de “dopamina”",
-      "summary": "É sábado à noite. Você acabou de baixar um novo aplicativo de entrega de comida. Navega pelos cardápios, escolhe alguns pratos mexicanos, faz o pedido e começa a acompanhar o trajeto da entrega. Mas a comida nunca chega — e você já sabia que isso aconteceria. Novo estudo: Novas gerações podem estar envelhecendo mais rápido em nível molecular, provocando cânceres precoces Psyllium ajuda a emagrecer? O que a ciência diz sobre o suplemento apelidado de 'Ozempic natural' Pode parecer absurdo para quem nunca experimentou, mas essa tendência viral é mais popular do que parece. Apenas um desses aplicativos, o FoodNeverComes, afirma já ter \"satisfeito\" quase 1 milhão de desejos gastronômicos. Por que alguém perderia tempo usando aplicativos ou sites criados para nunca entregar nada? A resposta está na busca por uma descarga de dopamina. À primeira vista, parece uma diversão inofensiva: permitir que as pessoas \"comprem\" comida, roupas ou outros produtos sem qualquer custo real, já que a maioria desses aplicativos é gratuita. No entanto, mesmo quando um aplicativo não custa dinheiro, há alguns pontos de atenção — entre eles, o fato de que suas escolhas podem ajudar anunciantes a direcionar publicidade personalizada no mundo real. Da Coreia do Sul para o mundo O FoodNeverComes é um exemplo de aplicativo e site gratuitos, financiados por publicidade, que imitam um serviço de entrega de comida. Mas existem outras versões desse fenômeno. Um exemplo é o Dopamine Shop, uma loja virtual fictícia, também gratuita e sustentada por anúncios. Nela, os usuários podem navegar por produtos que vão desde uma pedra de estimação de US$ 0,99 até a Lua, anunciada por US$ 99 milhões. Eles adicionam os itens ao carrinho, mas nunca precisam informar dados de pagamento e nenhuma compra é concluída. Nada é enviado. Há também aplicativos gratuitos que simulam o ato de fumar, como o No Smoke Zone, também conhecido como Virtual Smoke, que se apresenta da seguinte forma: \"Virtual Smoke é um aplicativo de simulação realista de cigarro que permite aproveitar a aparência, a sensação e o relaxamento de fumar — sem nicotina ou efeitos nocivos. É ideal para quem está tentando parar de fumar, reduzir o estresse ou apenas se divertir com um cigarro virtual.\" Essas plataformas passaram a ser conhecidas como \"aplicativos de dopamina\" ou \"sites de dopamina\". Embora tenham surgido na Coreia do Sul, o Dopamine Shop, por exemplo, pertence e é desenvolvido pela Fenwick Holdings LLC, um pequeno estúdio independente dos Estados Unidos. Isso sugere que esse novo tipo de aplicativo e site está se espalhando para outros países. Por que isso gera uma sensação tão boa? A dopamina é um neurotransmissor e neuromodulador muito importante para o cérebro. Ela transmite sinais químicos entre os neurônios e participa de mudanças na atividade cerebral. Entre suas diversas funções, a dopamina está relacionada à motivação para alcançar objetivos e ajuda o cérebro a aprender quais comportamentos levam a resultados considerados recompensadores. Ao utilizar essas plataformas, os usuários vivenciam três etapas principais: Antecipação: \"Posso encontrar algo interessante.\" Escolha: \"Sou eu quem decide o que quero.\" Confirmação: \"Meu pedido foi feito.\" Em comparação com um aplicativo real, apenas uma etapa fica de fora: o consumo, ou seja, o momento de receber o produto. Mesmo antes do surgimento desses aplicativos, algumas pessoas já percebiam que podiam experimentar uma sensação semelhante ao chamado \"consumo terapêutico\" simplesmente criando listas de desejos ou enchendo um carrinho de compras virtual para depois apagá-lo, sem finalizar a compra. O mesmo acontece ao montar painéis no Pinterest com a casa dos sonhos, sem construir nada, ou ao planejar uma viagem perfeita usando aplicativos e sites de turismo, sem necessariamente sair de casa. Eles podem servir como uma \"porta de entrada\"? Fingir pedir comida, fazer compras ou até \"fumar\" um cigarro virtual pode trazer consequências? Como esses aplicativos e sites são recentes, ainda não existem estudos específicos que investiguem se eles podem funcionar como um comportamento de porta de entrada (\"gateway behavior\"), ou seja, um hábito inicial que aumenta a probabilidade de outros comportamentos semelhantes no futuro. No entanto, esse fenômeno já foi bastante estudado em áreas como jogos de azar e videogames. Os resultados levantam preocupações, principalmente porque esses aplicativos utilizam elementos de gamificação. Um estudo publicado em 2014 acompanhou 409 pessoas que jogavam cassinos sociais, mas nunca haviam apostado dinheiro real na internet. Seis meses depois, cerca de 26% passaram a apostar em sites de jogos online. Outra pesquisa, de 2016, com 521 usuários de cassinos sociais, mostrou que 19% disseram ter começado a apostar dinheiro de verdade como consequência direta desse tipo de jogo. Já um estudo realizado em 2018 com 1.178 adolescentes alemães, entre 11 e 19 anos, constatou que o envolvimento com jogos de azar simulados aumentava a probabilidade de apostar dinheiro real um ano depois. Como seus \"cookies\" alimentam a publicidade direcionada Existe um velho ditado que diz que \"não existe almoço grátis\". Embora esses aplicativos e sites sejam gratuitos e pareçam apenas uma diversão, suas escolhas fictícias podem ter muito valor para o mercado publicitário. Em geral, plataformas gratuitas dependem da receita com anúncios para continuar funcionando. Muitas utilizam o Google AdSense para exibir publicidade e, para isso, recorrem aos chamados cookies — pequenos arquivos de texto armazenados no navegador que registram seus hábitos de navegação. Com essas informações, anunciantes terceirizados, incluindo o Google, conseguem exibir anúncios cada vez mais personalizados. (Normalmente, as plataformas informam em suas políticas de privacidade como desativar a publicidade personalizada.) Assim, se você \"comprar\" uma jaqueta imaginária ou fizer um pedido de tacos que nunca será entregue, não se surpreenda se, pouco tempo depois, começar a receber anúncios oferecendo exatamente esses produtos de verdade. * Gary Mortimer é professor de Marketing e Comportamento do Consumidor, Universidade de Tecnologia de Queensland. * Este artigo foi republicado de The Conversation sob licença Creative Commons. Leia o artigo original.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/07/23/por-que-as-pessoas-estao-fazendo-pedidos-falsos-de-comida-e-moda-em-aplicativos-gratuitos-de-dopamina.ghtml",
-      "published": "2026-07-23T07:30:34+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Psicólogos pressionam Congresso para reduzir jornada para 30 horas semanais",
@@ -9548,6 +9768,37 @@
       "score": 16.0
     },
     {
+      "title": "Stock Market Today: Bond Selloff Extends; Oil Ticks Higher",
+      "summary": "Stock futures steady as investors await Amazon, Apple earnings",
+      "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-30-2026?mod=rss_markets_main",
+      "published": "2026-07-30T08:36:25+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Vinted: conheça o e-commerce de roupas usadas que cobra comissão do comprador e quer globalizar o modelo a partir dos EUA",
       "summary": "Thomas Plantenga diz, sem qualquer constrangimento, que vem \"roubando\" ideias de empresas do mundo inteiro. O CEO da Vinted, maior marketplace de moda entre consumidores europeus (C2C), afirma que aproveitou livremente estratégias de diversas companhias para construir uma plataforma on-line que hoje está transformando a indústria da moda da região, avaliada em € 500 bilhões (US$ 573 bilhões). Agente descontrolado da OpenAI que 'hackeou' startup fez outra vítima: invasão de conta de segunda empresa foi identificada Desenrola 2.0: ministro confirma prorrogação do programa, que já renegociou R$ 22 bi em dívidas \"Li uma enorme quantidade de relatórios de empresas como Amazon, Mercado Livre, Mercari e Costco sobre como funcionam e o que fazem, e selecionamos os melhores elementos das melhores empresas do mundo para construir um marketplace transacional C2C como ninguém jamais havia criado\", disse o executivo holandês de 42 anos durante uma entrevista na sede da Vinted, localizada em um prédio de quatro andares no coração de Vilnius, capital da Lituânia. O escritório da Vinted fica a poucos minutos de caminhada do centro histórico da cidade, em uma região onde antigas fábricas da era soviética convivem com lofts descolados, polos criativos e modernos centros empresariais. Sentado em uma sala de reuniões cercada por paredes de vidro, usando bermuda jeans e mocassins de couro, Plantenga demonstra tranquilidade e não tem pressa naquele dia de julho. Aplicativo da Depop - eBay comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados Gabby Jones/Bloomberg O ambiente ao redor transmite a mesma atmosfera: funcionários — muitos vindos dos escritórios europeus da empresa para o encontro anual de verão — conversam descontraidamente enquanto tomam café nas áreas comuns. Pela primeira vez: Brasil torna-se maior importador global de carros chineses com US$ 5,2 bilhões em compras Fundada em 2008 como uma plataforma para pessoas comprarem e venderem roupas usadas, a Vinted criou um marketplace tão poderoso que, ao lado de alguns concorrentes, vem reduzindo as vendas de marcas de moda e de luxo. Segundo o relatório State of Fashion 2026, da McKinsey, o mercado de segunda mão crescerá entre duas e três vezes mais rápido do que o mercado de produtos novos entre 2025 e 2027, à medida que consumidores mais econômicos buscam melhores oportunidades. \"O risco para todo o setor é que as roupas de segunda mão canibalizem as vendas de peças novas\", escreveram analistas do RBC Capital Markets em relatório divulgado neste mês. Eles também destacaram que diversas marcas internacionais estão correndo para reduzir esse impacto, criando suas próprias ofertas de revenda. Taxa das blusinhas: ministro da Fazenda diz que pode propor a Lula volta da taxação se importações afetarem indústria nacional Com o desaparecimento do preconceito em relação à compra e venda de roupas usadas, celebridades como Paris Hilton, Paul Mescal e Chloë Sevigny falam abertamente sobre suas vendas nessas plataformas. No popular podcast Table Manners, a cantora Suki Waterhouse contou que é assim que compra roupas vintage. \"Eu adoro a Vinted\", afirmou. À medida que a necessidade econômica e uma nova geração mais preocupada com sustentabilidade reduzem o estigma em torno das roupas usadas, cerca de 60% dos consumidores globais devem comprar produtos de revenda neste ano, segundo estimativas da McKinsey, com base em dados da ThredUp e da GlobalData. Na China, esse percentual é ainda maior, ultrapassando 70%, impulsionado pela procura por produtos premium e de marcas conhecidas a preços mais acessíveis. Após fim da 'taxa das blusinhas': Compras em e-commerces internacionais mais que dobram A consultoria estima que o mercado global de roupas de segunda mão alcance US$ 317 bilhões até 2027, um crescimento de 23% em relação ao ano passado. Segundo o relatório, a escala alcançada por essas plataformas e os avanços tecnológicos levaram o setor a um \"ponto de inflexão\", permitindo transformar milhões de transações em negócios lucrativos. \"O verdadeiro motor desse crescimento é o consumidor\", afirma Poonam Goyal, analista sênior de varejo da Bloomberg Intelligence. Segundo ele, depois de anos de inflação, os compradores passaram a dar muito mais importância ao custo-benefício, enquanto as gerações mais jovens enxergam a compra de produtos usados como algo absolutamente normal. A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão, diz Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Reprodução de internet \"As pessoas têm orgulho de comprar itens de revenda. Elas gostam de mostrar o bom negócio que encontraram. É uma mentalidade completamente diferente.\" A Vinted lidera esse movimento na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma. Essa escala lhe deu massa crítica suficiente para permanecer à frente dos concorrentes. Analistas do Wells Fargo, liderados por Ken Gawrelski, classificam a empresa como \"uma força disruptiva no comércio C2C\" da Europa Ocidental. Entenda: Por que a Shein, símbolo do 'fast fashion', comprou uma marca de moda sustentável nos EUA? Avaliada em € 8 bilhões durante uma venda secundária de ações neste ano, a companhia tem entre seus investidores EQT, BlackRock, Ontario Teachers' Pension Plan e Schroders Capital, além de se preparar para o que pode ser uma das maiores ofertas públicas iniciais (IPO) de uma empresa de tecnologia na Europa nos últimos anos. Embora ainda não tenha sido tomada uma decisão sobre bancos coordenadores, cronograma ou bolsa de valores onde as ações serão listadas, a Vinted já se prepara para esse momento há bastante tempo, afirma Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Por enquanto, porém, a administração da empresa continua concentrada em expandir o negócio, em vez de correr para abrir capital, acrescenta ela. Investimento: 99 lança 99Compras, serviço de entrega para supermercados e farmácias, em São Paulo O desafio mais imediato de Plantenga é conquistar o mercado americano. \"No meio de uma expansão nos Estados Unidos, você não faz um IPO. Isso seria uma loucura\", afirma. A expansão nos EUA coloca a Vinted frente a frente com rivais já consolidados, incluindo o “pioneiro” do setor, o eBay — que este ano comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados —, o Facebook Marketplace, a Poshmark e a ThredUp. \"Se realmente conseguiremos competir e vencer nesse mercado ainda é uma grande incógnita\", diz Plantenga, recusando-se a revelar detalhes sobre os planos da empresa para o país. Segundo ele, a Vinted ainda está em fase inicial de testes nos Estados Unidos, mas os primeiros resultados são animadores. Analistas do Wells Fargo que acompanham o eBay escreveram, em relatório divulgado em julho, que o número de usuários ativos diários da Vinted nos EUA cresceu mais de seis vezes no segundo trimestre em comparação com o mesmo período do ano anterior, após sua entrada no mercado americano em janeiro. O crescente interesse mundial pela moda de revenda estimulou o surgimento de inúmeros concorrentes. Entre eles estão plataformas como a japonesa Mercari; as britânicas Hardly Ever Worn It e Depop; a francesa Vestiaire Collective; a americana The RealReal, entre várias outras. Muitas delas, porém, ainda enfrentam dificuldades para transformar a forte demanda em lucros consistentes. A Vestiaire Collective espera registrar seu primeiro lucro anual apenas em 2026, mais de quinze anos depois de sua fundação. A Vinted lidera o movimento de revenda de itens usados na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma Bloomberg Na Ásia, uma das regiões de crescimento mais acelerado do setor, plataformas como Idle Fish, apoiada pelo Alibaba, Poizon, Mercari e Kream vêm expandindo rapidamente suas operações. Um dos maiores desafios para essas empresas é garantir acesso suficiente ao estoque de produtos, seja por meio de marcas que desejam liquidar excedentes de produção, seja por pessoas interessadas em ganhar dinheiro com itens que não usam mais. Depois de assumir o comando da empresa em 2016, Plantenga reformulou profundamente o modelo de negócios da Vinted. A mudança mais importante foi eliminar as taxas cobradas dos vendedores e passar a cobrar dos compradores. Essa estratégia atraiu mais vendedores, aumentou a liquidez do marketplace e criou as bases para a rentabilidade da empresa, permitindo que a Vinted investisse pesadamente em sua infraestrutura — hoje considerada pelos investidores seu principal diferencial competitivo. Em 2025, a Vinted movimentou € 10,8 bilhões em mercadorias, um crescimento de 47% em relação ao ano anterior. A receita aumentou 38%, chegando a € 1,1 bilhão. Já o lucro líquido caiu 19%, para € 62 milhões, devido à aceleração dos investimentos na Alemanha e na Vinted Go, sua operação de logística. Mesmo assim, essa redução no lucro não impediu que os investidores avaliassem a empresa em € 8 bilhões neste ano, acima dos € 5 bilhões registrados em 2024. A EQT, da Suécia, que investiu pela primeira vez na Vinted em 2021 e continua sendo um de seus maiores acionistas, acredita que a vantagem competitiva da empresa já vai muito além do mercado de roupas usadas. Segundo Carolina Brochado, a Vinted se parece cada vez mais com gigantes de marketplace como Airbnb, Uber e Mercado Livre, graças aos seus efeitos de rede, à infraestrutura tecnológica e ao ecossistema de serviços em constante expansão. \"A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão\", afirma. Enquanto isso, a empresa continua ampliando sua presença na Europa e expandindo para novas categorias de produtos, como eletrônicos, livros e brinquedos. Por meio da Vinted Go, ela já opera mais de 18 mil pontos de coleta e entrega espalhados pela Europa, incluindo armários inteligentes (lockers) e lojas parceiras. Já a Vinted Pay amplia sua atuação para o segmento de pagamentos. O modelo da Vinted é simples: vender na plataforma é gratuito para o vendedor, que fica com 100% do valor anunciado. Basta tirar fotos dos itens que deseja vender, adicionar uma descrição, definir o preço e publicar o anúncio no aplicativo. Quando um comprador efetua a compra, a Vinted cobra dele uma pequena taxa de serviço e fornece ao vendedor uma etiqueta de envio pré-paga. O vendedor embala o produto e o entrega em um ponto de coleta. Assim que o comprador confirma o recebimento, a Vinted libera o dinheiro para a carteira virtual do vendedor. Erika Orlovskiene, mãe de dois filhos que mora em Vilnius, usa a Vinted há quase dez anos para comprar e vender de tudo: roupas infantis, vestidos, livros e até um aquário. \"Crianças crescem muito rápido e as roupas se acumulam num instante. O que fazer com peças que foram usadas tão pouco?\", diz ela, estimando que economizou \"milhares de euros\" ao longo dos anos. \"Não se trata apenas de economizar, mas também de sustentabilidade.\" À medida que sua base de usuários cresceu, a Vinted direcionou grandes investimentos para construir sua própria infraestrutura de logística, seus sistemas de pagamento e seus softwares de atendimento ao cliente. A empresa chega até mesmo a operar seus próprios servidores, em vez de utilizar serviços de computação em nuvem. Plantenga reconhece que esses investimentos não são exatamente glamourosos, mas afirma que eles sustentam a vantagem de custos da empresa. \"Tudo o que a Vinted faz na área de logística e de pagamentos existe para fortalecer o marketplace\", afirma Carolina Brochado, da EQT. Segundo ela, custos menores por transação beneficiam os consumidores e, ao mesmo tempo, reforçam a economia do negócio. É justamente esse modelo que a empresa pretende levar para os Estados Unidos. Ainda não está claro, porém, se a cobrança de uma taxa ao comprador será bem recebida pelos consumidores americanos. Para Poonam Goyal, da Bloomberg Intelligence, os compradores nos EUA tendem a resistir muito mais a esse tipo de cobrança, especialmente quando ela aparece separadamente do preço anunciado. Mas, segundo ela, \"se a Vinted conseguir fazer esse modelo funcionar nos Estados Unidos, poderá estabelecer um novo padrão para o mercado, que os concorrentes talvez acabem adotando, tornando todo o setor mais lucrativo.\" Plantenga diz que já observa sinais dessa mudança.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/07/29/vinted-conheca-o-e-commerce-de-roupas-usadas-que-cobra-comissao-do-comprador-e-quer-globalizar-o-modelo-a-partir-dos-eua.ghtml",
@@ -9586,37 +9837,6 @@
         }
       ],
       "score": 12.0
-    },
-    {
-      "title": "Singapura inicia construção de megamuro subaquático para criar maior porto automatizado do mundo; entenda",
-      "summary": "Singapura está construindo um quebra-mar subaquático para criar o maior porto do mundo. Este projeto é um dos mais importantes de sua história e representa uma façanha de engenharia para a cidade-estado. A construção começou em 2014 com a dragagem da área costeira e o aterro para erguer essa megaestrutura. Atualmente, a construção continua com o afundamento de blocos de concreto tão altos quanto um prédio de 10 andares. Sorriso precioso: turista esconde diamante na boca para trocar pedra de R$ 1 milhão em joalheria, e acaba preso em Singapura Altas temperaturas: Roma cria 'refúgios climáticos' com entrada gratuita em cinemas e bibliotecas para enfrentar o calor Singapura é um exemplo de sobrevivência e desenvolvimento urbano em um arquipélago de 719,9 km². Abriga mais de cinco milhões de pessoas e se tornou um centro comercial estratégico ao sul da Malásia e no coração do Oceano Índico. O projeto é gerenciado pela Autoridade Marítima e Portuária de Singapura e pela PSA Corporation. Em 2014, começaram os trabalhos de dragagem e preparação do leito marinho, permitindo que as primeiras estruturas de concreto fossem afundadas no solo marítimo em 2016. Isso criou uma bacia da qual a água foi bombeada e posteriormente utilizada para construir os três primeiros píeres, que foram inaugurados em 1º de setembro de 2022. O objetivo é ter o maior porto automatizado do mundo, com uma escala superlativa em nível global, comparável a outros como o Porto de Xangai, na China, ou o de Roterdã, na Holanda. A conclusão deste projeto está prevista para 2040 e terá uma capacidade de movimentação de 65 milhões de TEUs (unidade de medida utilizada para contar contêineres de transporte com aproximadamente seis metros de comprimento). O porto ocupará 1.337 hectares, terá 66 docas e 26 quilômetros de cais para acomodar alguns dos maiores navios porta-contêineres do mundo. Seu tamanho será equivalente a 3.000 campos de futebol. De praias a ilhas artificiais: 10 aeroportos que transformam cada pouso em uma aventura A construção foi dividida em quatro fases, sendo que duas delas já foram concluídas. Até o momento, foram utilizados 448 blocos de concreto com altura equivalente a um prédio de dez andares para a construção de um gigantesco muro de contenção com 17,7 quilômetros de extensão. As obras de aterro envolveram um total de 34 milhões de horas de trabalho e o leito marinho foi aprofundado para acomodar navios ainda maiores futuramente. O Porto de Tuas deverá contar com 21 berços de águas profundas até 2027, com capacidade para movimentar 20 milhões de TEUs anualmente. A construtora explicou em seu site que isso fará dele \"o centro de um ecossistema integrado, abrangendo os dinâmicos distritos comerciais e industriais da região oeste, como o Distrito do Lago Jurong, o Distrito de Inovação de Jurong e o Distrito Industrial de Tuas\". Um porto inteligente O Porto de Tuas combinará o uso de inteligência artificial e a automação de operações. Além disso, “guindastes elétricos, versáteis e manobráveis ​​serão utilizados, assim como veículos guiados automaticamente (AGVs) para o transporte de contêineres entre o pátio e o cais. Essas operações portuárias serão gerenciadas remotamente a partir do Centro de Controle do Porto de Tuas, permitindo a otimização de recursos e o aumento da produtividade”. Este projeto faz parte do plano de reorganização logística da cidade-estado, que concentrará grande parte das interações comerciais neste porto, tornando-o um dos mais importantes do mundo.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/07/23/singapura-inicia-construcao-de-megamuro-subaquatico-para-criar-maior-porto-automatizado-do-mundo-entenda.ghtml",
-      "published": "2026-07-23T07:01:07+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "diamante",
-        "joalheria"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joalheria",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "diamante",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 10.0
     },
     {
       "title": "Brasil lidera ranking latino-americano de maturidade bancária em IA",
@@ -9808,29 +10028,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Entorno de Lula já trabalha com possibilidade de votação da PEC 6x1 ficar para depois da eleição",
-      "summary": "O entorno do presidente Luiz Inácio Lula da Silva (PT) já trabalha com a possibilidade de a votação de projetos de interesse do governo federal no Senado, como a Proposta de Emenda à Constituição (PEC) que acaba com a jornada de trabalho 6x1, ocorram após a eleição de outubro. São lembradas também a PEC da Segurança Pública e o projeto que cria regras e busca incentivar a indústria nacional na exploração dos minerais críticos. Esses temas são prioritários para o Planalto e considerados possíveis vitrines a serem exploradas na campanha do petista à reeleição. De acordo com dois interlocutores frequentes do petista, a avaliação é que dificilmente essas propostas avançarão com o Congresso esvaziado e os parlamentares de olho nas eleições em seus estados, além da falta de diálogo entre Lula e o presidente do Senado, Davi Alcolumbre (União Brasil-AP). Os dois políticos se afastaram após o Senado rejeitar o nome de Jorge Messias ao Supremo Tribunal Federal (STF), impondo derrota histórica ao petista. O Planalto acredita que o parlamentar orquestrou esse movimento e, desde então, as duas autoridades não se falam. Alcolumbre sinalizou a interlocutores de Lula que as propostas de interesse do governo só devem andar no Senado após uma conversa com o chefe do Executivo, o que ainda não ocorreu. Um ministro do governo diz, sob reserva, que já chegou ao Planalto a intenção da cúpula do Congresso em deixar esses temas para serem apreciados após as eleições e que esse cenário tem sido dado como certo no entorno do presidente. Esse auxiliar do petista afirma, no entanto, que Lula poderá usar isso a seu favor na campanha, já que o presidente poderá usar discurso que o governo fez a sua parte, mas o Congresso não, reforçando crítica usada por aliados do petista e incentivada pelo Planalto de que o “Congresso é inimigo do povo”. Por outro lado, há uma ala do governo que fala que é preciso forçar o debate e buscar a votação dessas propostas diante do que consideram riscos de que os textos sejam amplamente modificados após as eleições. Um auxiliar de Lula diz que o Planalto atuará para que isso ocorra na volta do recesso parlamentar, em agosto. Ele afirma que é preciso aproveitar a mobilização popular em torno da PEC da 6x1 e a projeção do assunto no contexto eleitoral, já que isso pressiona os parlamentares, para forçar a discussão do tema e sua aprovação sem grandes modificações ao texto. Esse interlocutor frequente de Lula diz que o Planalto monitora a situação e avalia que há um risco de modificações em pontos-chave do texto, como por exemplo aumentar o período de transição para que a redução de jornada passe a valer. A proposta aprovada na Câmara prevê a redução de 44 horas para 40 horas semanais de trabalho em uma transição de um ano. Além disso, há o receio de que possam ser incluídas outras compensações no texto. A PEC foi aprovada na Câmara, em dois turnos, no dia 27 de maio, mas não andou no Senado. Alcolumbre sequer despachou a matéria para ser analisada na Comissão de Constituição e Justiça (CCJ), o que gerou queixa de ministros, aliados do presidente da República e da militância de partidos de esquerda. A avaliação de governistas é que o tema mobiliza o lobby do setor empresarial e é preciso manter a discussão junto à opinião pública para forçar o seu andamento no Congresso. Historicamente, o Congresso fica esvaziado durante as eleições, já que parlamentares focam sua atuação em seus redutos eleitorais. A cúpula do Legislativo definiu duas semanas em que haverá um esforço concentrado para sessões deliberativas na Câmara e no Senado: entre 10 e 14 de agosto e de 31 de agosto a 3 de setembro. A PEC da Segurança Pública era uma das apostas do governo Lula para a área, que deverá ser um dos principais temas discutidos nessas eleições. A PEC foi aprovada na Câmara em março deste ano e, desde então, não avançou no Senado. Cabe ao presidente da Casa despachar o tema para análise das comissões, o que ainda não foi feito. A proposta das terras raras, por sua vez, é lembrada pela importância de discutir esse assunto num momento em que o governo Donald Trump, dos Estados Unidos, impôs novas tarifas aos produtos brasileiros. O projeto também foi aprovado por deputados, em maio, mas não teve andamento no Senado. Além dessas propostas, o Planalto acompanha a tramitação de algumas medidas provisórias (MPs) editadas pelo governo e que estão próximas dos prazos em que perdem validade. A principal delas é a que acaba com a chamada “taxa das blusinhas”, a cobrança de 20% sobre compras internacionais, que tem validade até 8 de setembro. O tema precisa ser analisado numa comissão mista (formada por deputados e senadores) antes de ser votado nos plenários da Câmara e do Senado. Essa comissão ainda não foi instalada. Esse foi um tema de desgaste ao Planalto e revertido neste ano após a avaliação de que essa cobrança poderia prejudicar eleitoralmente Lula. A avaliação de aliados do presidente é que o Congresso pode atuar para deixar essa MP perder a validade, impondo grande revés político a Lula às vésperas das eleições. Um integrante da articulação política do petista diz que haverá um esforço junto aos parlamentares para que esse tema seja tratado logo na volta dos trabalhos legislativos.",
-      "url": "https://oglobo.globo.com/politica/noticia/2026/07/23/entorno-de-lula-ja-trabalha-com-possibilidade-de-votacao-da-pec-6x1-ficar-para-depois-da-eleicao.ghtml",
-      "published": "2026-07-23T09:00:16+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Dubai paga mais de R$ 4 mil para moradores atraírem turistas após impactos de conflitos no Oriente Médio",
@@ -10653,6 +10850,52 @@
         {
           "sector": "E-commerce",
           "alias": "ifood",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "As obras de arte vestíveis da Bvlgari",
+      "summary": "O Brasil se tornou o primeiro ponto da América Latina a receber a coleção permanente de alta joalheria da Bvlgari",
+      "url": "https://exame.com/revista-exame/obras-de-arte-vestiveis",
+      "published": "2026-07-30T06:00:29+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "joalheria"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joalheria",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Economia alemã cresce 0,2% no 2º trimestre, mostram dados preliminares",
+      "summary": "O Produto Interno Bruto (PIB) da Alemanha cresceu 0,2% no segundo trimestre em relação ao trimestre anterior, mostraram dados preliminares do departamento estatístico do país nesta quinta-feira. Analistas consultados pela Reuters projetavam uma alta de 0,1%. As exportações subiram na comparação com o trimestre anterior, informou o órgão de estatística, impulsionando o crescimento. No entanto, o consumo das famílias apresentou uma tendência fraca, enquanto os investimentos de capital recuaram em relação aos três meses anteriores. Após revisão, a economia alemã cresceu 0,4% no primeiro trimestre, superando a alta de 0,3% divulgada anteriormente.",
+      "url": "https://valor.globo.com/mundo/noticia/2026/07/30/economia-alem-cresce-02-pontos-percentuais-no-2-trimestre-mostram-dados-preliminares.ghtml",
+      "published": "2026-07-30T08:44:50+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "consumo das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "consumo das famílias",
           "field": "lead",
           "score": 8,
           "topic": null
