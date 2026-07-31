@@ -117,7 +117,10 @@ sectors:
   E-commerce:
     # Simples - players com operação BR relevante
     - mercadolibre
-    - mercado pago
+    # "Mercado Pago Hall" (Arena Pacaembu) e naming rights, nao fintech.
+    - alias: mercado pago
+      requires_none: [mercado pago hall, arena pacaembu, pacaembu, show,
+                      convenção do pl, convencao do pl, comício, comicio]
     - mercado crédito
     - meli
     # Grafia espanhola "Mercado Libre" (veículos hispânicos: iProUP, Ámbito,
@@ -382,7 +385,12 @@ sectors:
   # ------------------------------------------------------------
   Cosméticos:
     # Simples BR
-    - natura
+    # "natura" casa dentro de "alimentos in natura" e "gas natural" (o \b
+    # nao separa), gerando FP recorrente em materias de inflacao e energia.
+    - alias: natura
+      requires_none: [in natura, gás natural, gas natural, produtos in natura,
+                      alimentos in natura, leilão de gás, leilao de gas,
+                      petróleo, petrobras]
     - avon
     - boticário
     - o boticário
@@ -657,7 +665,10 @@ sectors:
     - dívidas das famílias
     - dívida das famílias
     - consumo dos brasileiros
-    - consumo das famílias
+    - alias: consumo das famílias
+      requires_none: [zona do euro, eurozona, união europeia, uniao europeia,
+                      alemanha, frança, franca, estados unidos, eua, japão,
+                      japao, china, reino unido, pib da frança, pib dos eua]
     - apostas online
     - apostas esportivas
     - bettors
