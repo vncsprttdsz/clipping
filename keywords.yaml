@@ -151,6 +151,31 @@ sectors:
     - revolut
     - ecommerce
     - vendas online
+    - compra online
+    - compra on-line
+    - compras online
+    - compras on-line
+    - varejo digital
+    - varejo online
+    # "e-commerce" e "comércio eletrônico" são termos genéricos que aparecem
+    # de passagem em currículos de curso, listas de temas etc. Com requires_any
+    # mínimo eles viram ambíguos e (pela regra _body_eligible) deixam de casar
+    # no corpo, só valendo em título/lead - onde a menção é significativa.
+    - alias: e-commerce
+      requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
+                     consumidores, mercado, faturamento, crescimento, marketplace,
+                     online, digital, entrega, logística, plataforma, compra,
+                     compras, brasil, brasileiro, setor]
+    - alias: comércio eletrônico
+      requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
+                     consumidores, mercado, faturamento, crescimento, marketplace,
+                     online, digital, entrega, logística, plataforma, compra,
+                     compras, brasil, brasileiro, setor]
+    - alias: comercio eletronico
+      requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
+                     consumidores, mercado, faturamento, crescimento, marketplace,
+                     online, digital, entrega, logística, plataforma, compra,
+                     compras, brasil, brasileiro, setor]
     - remessa conforme
     # Cross-border / taxação de importados (tema central da tese)
     - taxa das blusinhas
