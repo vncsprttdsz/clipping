@@ -48,6 +48,14 @@ FEED_TIMEOUT = 10
 # Scoring por região do texto (reduz falso positivo de RSS longo)
 LEAD_CHARS = 500
 BODY_CHARS = 3000
+
+# Score minimo para a materia entrar no JSON final.
+# title=20, lead=8, body=2. Com piso 8, uma materia precisa casar no TITULO ou
+# no LEAD para entrar; match isolado no corpo (2 pts) nao basta. Motivo: os
+# feeds (O Globo em especial) injetam manchetes relacionadas DENTRO do texto
+# ("Anvisa aprova 5 novas canetas a base de semaglutida" no meio de uma materia
+# sobre agua com gas), o que gerava dezenas de falsos positivos de corpo.
+MIN_SCORE_KEEP = 8
 ECONOMY_SECTOR = "Economia"
 
 JUNK_TITLES = {
@@ -1141,7 +1149,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
                 source=a_dict.get("source", ""),
             )
             score_article(a)
-            if a.score >= 1:
+            if a.score >= MIN_SCORE_KEEP:
                 rescored.append(a.to_json())
             else:
                 dropped += 1
@@ -1194,7 +1202,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             continue
 
         score_article(a)
-        if a.score >= 1:
+        if a.score >= MIN_SCORE_KEEP:
             existing.append(a.to_json())
             existing_urls.add(nu)
             if norm_title:
