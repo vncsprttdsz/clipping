@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-01T11:04:59.336356+00:00",
-  "count": 347,
-  "new_this_run": 3,
+  "generated_at": "2026-08-02T07:01:01.051202+00:00",
+  "count": 341,
+  "new_this_run": 14,
   "articles": [
     {
       "title": "Anvisa aprova cinco novas canetas com semaglutida, princípio ativo do Ozempic",
@@ -665,60 +665,6 @@
         }
       ],
       "score": 80.0
-    },
-    {
-      "title": "Além da perda de peso: estudo aponta efeito de Ozempic e Mounjaro nos cabelos",
-      "summary": "Pesquisa comparou quase 40 mil pacientes e encontrou aumento discreto no risco de alopecia entre usuários de medicamentos GLP-1",
-      "url": "https://exame.com/ciencia/alem-da-perda-de-peso-estudo-aponta-efeito-de-ozempic-e-mounjaro-nos-cabelos",
-      "published": "2026-07-26T06:01:22+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "glp-1",
-        "mounjaro",
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "mounjaro",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 76.0
     },
     {
       "title": "Anvisa aprova 5 novas canetas à base de semaglutida após fim da patente; saiba quando devem chegar às farmácias",
@@ -2107,6 +2053,45 @@
           "field": "lead",
           "score": 8,
           "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Notas fiscais emitidas na 2ª feira sem informar valor de CBS e IBS não serão rejeitadas",
+      "summary": "As notas fiscais que forem emitidas a partir desta segunda-feira (3) sem informar os valores da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS) não serão rejeitadas, informou neste sábado (1) a Receita Federal. Os dados sobre os novos tributos precisam ser informados nas notas fiscais para iniciar a fase de testes da reforma tributária, que começa nesta segunda-feira. No entanto, nem todas as empresas estão preparadas para cumprir essa obrigação. Havia grande preocupação no setor privado quanto ao risco de, não sendo informados os valores do IBS e da CBS, a emissão de notas travar, o que poderia provocar efeitos em cadeia em toda a economia. Na sexta-feira (31), Receita e Comitê Gestor do IBS divulgaram um cronograma de exigência de documentos do novo sistema tributário e informaram que haverá um programa de conformidade que fará de 2026 um ano sem aplicação de multas para os contribuintes que estiverem avançando na implementação dos novos sistemas. No entanto, não estava claro o que ocorreria com as notas fiscais para aqueles que não cumprissem a obrigação de destacar CBS e IBS. A nota da Receita responde a isso. \"Receita Federal e o Comitê Gestor do IBS – CGIBS aprovarão, em Ato Técnico Conjunto, a suspensão da obrigatoriedade do preenchimento de informações relativas a CBS e IBS em documentos fiscais eletrônicos como NF-e, NFC-e, CT-e, CT-e OS, GTV-e, BP-e, NF3e e NFCom. O Ato aprovará alterações em regras de validação para ajustes decorrentes da Reforma Tributária do Consumo e ratificará documentações técnicas anteriormente publicadas. Portanto, os documentos fiscais não serão rejeitados na ausência de campos da CBS e do IBS.” “Ou seja, na segunda-feira, os documentos fiscais não serão rejeitados na ausência de campos da CBS e do IBS”, avaliou o tributarista Guilherme Alves, tributarista do Salomão Advogados. “Deu mais um fôlego para os contribuintes, mas deve ser prioridade máxima a adequação dos documentos fiscais. A RFB e o CGBIS estão dando todas as oportunidades aos contribuintes.” O cronograma das obrigações foi recebido com ressalvas pelo setor privado por causa dos prazos curtos de adaptação. Esse é um ponto que preocupa também o governo. No entanto, a emenda constitucional da reforma tributária marcou para o próximo dia 1º de janeiro a entrada em vigor dos primeiros pontos da reforma, como a cobrança da CBS. Para alterar essa data, seria necessário alterar a Constituição. Nota fiscal Arquivo/Agência Brasil",
+      "url": "https://valor.globo.com/noticia/2026/08/01/notas-fiscais-emitidas-na-2a-feira-sem-informar-valor-de-cbs-e-ibs-nao-serao-rejeitadas.ghtml",
+      "published": "2026-08-01T15:19:21+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 48.0
@@ -3992,6 +3977,45 @@
       "score": 36.0
     },
     {
+      "title": "Governo edita MP para injetar R$ 2,75 bi nos fundos que garantem renegociação de dívidas",
+      "summary": "O governo federal editou medida provisória, em edição extra do Diário Oficial, para aumentar o alcance das iniciativas de apoio ao crédito e renegociação de dívida. A União está autorizada a participar nos fundos Garantidor para Investimento (FGI) e Garantidor de Operações (FGO) com um total de R$ 2,75 bilhões. Anúncios falsos em redes sociais usam Desenrola para enganar usuários. Veja como funcionam os golpes Entenda: Por que a inadimplência atingiu recorde em maio mesmo com Desenrola? O montante servirá para viabilizar as operações de crédito para microempreendedores individuais, micro e pequenas empresas, no âmbito do Programa Emergencial de Acesso a Crédito (Pronampe) criado em 2020. Serão R$ 2 bilhões para o FGI que garante os financiamentos do programa. A medida provisória autoriza a União ainda a injetar recursos no montante de R$ 750 milhões no FGO, que é destinado ao apoio dos financiamentos do Pronampe, também voltado para pequenas empresas. O aumento da garantia permite que o programa possa atender mais empresas. A medida igualmente permite que sejam combinados recursos das instituições financeiras habilitadas a operar o Desenrola Adimplentes com os destinados pela União, para viabilizar as operações de crédito no programa. O ato do presidente Luiz Inácio Lula da Silva ainda aumenta o prazo de execução das ações de educação financeira adotadas pelos bancos no Novo Desenrola Brasil. Na última terça-feira, o ministro da Fazenda, Dario Durigan, informou que a atual edição do Novo Desenrola Brasil, até o dia 31 de agosto. Lançado em maio, estava originalmente previsto para acabar no próximo dia 3 de agosto.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/01/governo-edita-mp-para-injetar-r-275-bi-nos-fundos-que-garantem-renegociacao-de-dividas.ghtml",
+      "published": "2026-08-02T00:57:27+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola",
+        "inadimplência",
+        "renegociação de dívidas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "lead",
+          "score": 8,
+          "topic": "desenrola"
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Vinted: conheça o e-commerce de roupas usadas que cobra comissão do comprador e quer globalizar o modelo a partir dos EUA",
       "summary": "Thomas Plantenga diz, sem qualquer constrangimento, que vem \"roubando\" ideias de empresas do mundo inteiro. O CEO da Vinted, maior marketplace de moda entre consumidores europeus (C2C), afirma que aproveitou livremente estratégias de diversas companhias para construir uma plataforma on-line que hoje está transformando a indústria da moda da região, avaliada em € 500 bilhões (US$ 573 bilhões). Agente descontrolado da OpenAI que 'hackeou' startup fez outra vítima: invasão de conta de segunda empresa foi identificada Desenrola 2.0: ministro confirma prorrogação do programa, que já renegociou R$ 22 bi em dívidas \"Li uma enorme quantidade de relatórios de empresas como Amazon, Mercado Livre, Mercari e Costco sobre como funcionam e o que fazem, e selecionamos os melhores elementos das melhores empresas do mundo para construir um marketplace transacional C2C como ninguém jamais havia criado\", disse o executivo holandês de 42 anos durante uma entrevista na sede da Vinted, localizada em um prédio de quatro andares no coração de Vilnius, capital da Lituânia. O escritório da Vinted fica a poucos minutos de caminhada do centro histórico da cidade, em uma região onde antigas fábricas da era soviética convivem com lofts descolados, polos criativos e modernos centros empresariais. Sentado em uma sala de reuniões cercada por paredes de vidro, usando bermuda jeans e mocassins de couro, Plantenga demonstra tranquilidade e não tem pressa naquele dia de julho. Aplicativo da Depop - eBay comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados Gabby Jones/Bloomberg O ambiente ao redor transmite a mesma atmosfera: funcionários — muitos vindos dos escritórios europeus da empresa para o encontro anual de verão — conversam descontraidamente enquanto tomam café nas áreas comuns. Pela primeira vez: Brasil torna-se maior importador global de carros chineses com US$ 5,2 bilhões em compras Fundada em 2008 como uma plataforma para pessoas comprarem e venderem roupas usadas, a Vinted criou um marketplace tão poderoso que, ao lado de alguns concorrentes, vem reduzindo as vendas de marcas de moda e de luxo. Segundo o relatório State of Fashion 2026, da McKinsey, o mercado de segunda mão crescerá entre duas e três vezes mais rápido do que o mercado de produtos novos entre 2025 e 2027, à medida que consumidores mais econômicos buscam melhores oportunidades. \"O risco para todo o setor é que as roupas de segunda mão canibalizem as vendas de peças novas\", escreveram analistas do RBC Capital Markets em relatório divulgado neste mês. Eles também destacaram que diversas marcas internacionais estão correndo para reduzir esse impacto, criando suas próprias ofertas de revenda. Taxa das blusinhas: ministro da Fazenda diz que pode propor a Lula volta da taxação se importações afetarem indústria nacional Com o desaparecimento do preconceito em relação à compra e venda de roupas usadas, celebridades como Paris Hilton, Paul Mescal e Chloë Sevigny falam abertamente sobre suas vendas nessas plataformas. No popular podcast Table Manners, a cantora Suki Waterhouse contou que é assim que compra roupas vintage. \"Eu adoro a Vinted\", afirmou. À medida que a necessidade econômica e uma nova geração mais preocupada com sustentabilidade reduzem o estigma em torno das roupas usadas, cerca de 60% dos consumidores globais devem comprar produtos de revenda neste ano, segundo estimativas da McKinsey, com base em dados da ThredUp e da GlobalData. Na China, esse percentual é ainda maior, ultrapassando 70%, impulsionado pela procura por produtos premium e de marcas conhecidas a preços mais acessíveis. Após fim da 'taxa das blusinhas': Compras em e-commerces internacionais mais que dobram A consultoria estima que o mercado global de roupas de segunda mão alcance US$ 317 bilhões até 2027, um crescimento de 23% em relação ao ano passado. Segundo o relatório, a escala alcançada por essas plataformas e os avanços tecnológicos levaram o setor a um \"ponto de inflexão\", permitindo transformar milhões de transações em negócios lucrativos. \"O verdadeiro motor desse crescimento é o consumidor\", afirma Poonam Goyal, analista sênior de varejo da Bloomberg Intelligence. Segundo ele, depois de anos de inflação, os compradores passaram a dar muito mais importância ao custo-benefício, enquanto as gerações mais jovens enxergam a compra de produtos usados como algo absolutamente normal. A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão, diz Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Reprodução de internet \"As pessoas têm orgulho de comprar itens de revenda. Elas gostam de mostrar o bom negócio que encontraram. É uma mentalidade completamente diferente.\" A Vinted lidera esse movimento na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma. Essa escala lhe deu massa crítica suficiente para permanecer à frente dos concorrentes. Analistas do Wells Fargo, liderados por Ken Gawrelski, classificam a empresa como \"uma força disruptiva no comércio C2C\" da Europa Ocidental. Entenda: Por que a Shein, símbolo do 'fast fashion', comprou uma marca de moda sustentável nos EUA? Avaliada em € 8 bilhões durante uma venda secundária de ações neste ano, a companhia tem entre seus investidores EQT, BlackRock, Ontario Teachers' Pension Plan e Schroders Capital, além de se preparar para o que pode ser uma das maiores ofertas públicas iniciais (IPO) de uma empresa de tecnologia na Europa nos últimos anos. Embora ainda não tenha sido tomada uma decisão sobre bancos coordenadores, cronograma ou bolsa de valores onde as ações serão listadas, a Vinted já se prepara para esse momento há bastante tempo, afirma Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Por enquanto, porém, a administração da empresa continua concentrada em expandir o negócio, em vez de correr para abrir capital, acrescenta ela. Investimento: 99 lança 99Compras, serviço de entrega para supermercados e farmácias, em São Paulo O desafio mais imediato de Plantenga é conquistar o mercado americano. \"No meio de uma expansão nos Estados Unidos, você não faz um IPO. Isso seria uma loucura\", afirma. A expansão nos EUA coloca a Vinted frente a frente com rivais já consolidados, incluindo o “pioneiro” do setor, o eBay — que este ano comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados —, o Facebook Marketplace, a Poshmark e a ThredUp. \"Se realmente conseguiremos competir e vencer nesse mercado ainda é uma grande incógnita\", diz Plantenga, recusando-se a revelar detalhes sobre os planos da empresa para o país. Segundo ele, a Vinted ainda está em fase inicial de testes nos Estados Unidos, mas os primeiros resultados são animadores. Analistas do Wells Fargo que acompanham o eBay escreveram, em relatório divulgado em julho, que o número de usuários ativos diários da Vinted nos EUA cresceu mais de seis vezes no segundo trimestre em comparação com o mesmo período do ano anterior, após sua entrada no mercado americano em janeiro. O crescente interesse mundial pela moda de revenda estimulou o surgimento de inúmeros concorrentes. Entre eles estão plataformas como a japonesa Mercari; as britânicas Hardly Ever Worn It e Depop; a francesa Vestiaire Collective; a americana The RealReal, entre várias outras. Muitas delas, porém, ainda enfrentam dificuldades para transformar a forte demanda em lucros consistentes. A Vestiaire Collective espera registrar seu primeiro lucro anual apenas em 2026, mais de quinze anos depois de sua fundação. A Vinted lidera o movimento de revenda de itens usados na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma Bloomberg Na Ásia, uma das regiões de crescimento mais acelerado do setor, plataformas como Idle Fish, apoiada pelo Alibaba, Poizon, Mercari e Kream vêm expandindo rapidamente suas operações. Um dos maiores desafios para essas empresas é garantir acesso suficiente ao estoque de produtos, seja por meio de marcas que desejam liquidar excedentes de produção, seja por pessoas interessadas em ganhar dinheiro com itens que não usam mais. Depois de assumir o comando da empresa em 2016, Plantenga reformulou profundamente o modelo de negócios da Vinted. A mudança mais importante foi eliminar as taxas cobradas dos vendedores e passar a cobrar dos compradores. Essa estratégia atraiu mais vendedores, aumentou a liquidez do marketplace e criou as bases para a rentabilidade da empresa, permitindo que a Vinted investisse pesadamente em sua infraestrutura — hoje considerada pelos investidores seu principal diferencial competitivo. Em 2025, a Vinted movimentou € 10,8 bilhões em mercadorias, um crescimento de 47% em relação ao ano anterior. A receita aumentou 38%, chegando a € 1,1 bilhão. Já o lucro líquido caiu 19%, para € 62 milhões, devido à aceleração dos investimentos na Alemanha e na Vinted Go, sua operação de logística. Mesmo assim, essa redução no lucro não impediu que os investidores avaliassem a empresa em € 8 bilhões neste ano, acima dos € 5 bilhões registrados em 2024. A EQT, da Suécia, que investiu pela primeira vez na Vinted em 2021 e continua sendo um de seus maiores acionistas, acredita que a vantagem competitiva da empresa já vai muito além do mercado de roupas usadas. Segundo Carolina Brochado, a Vinted se parece cada vez mais com gigantes de marketplace como Airbnb, Uber e Mercado Livre, graças aos seus efeitos de rede, à infraestrutura tecnológica e ao ecossistema de serviços em constante expansão. \"A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão\", afirma. Enquanto isso, a empresa continua ampliando sua presença na Europa e expandindo para novas categorias de produtos, como eletrônicos, livros e brinquedos. Por meio da Vinted Go, ela já opera mais de 18 mil pontos de coleta e entrega espalhados pela Europa, incluindo armários inteligentes (lockers) e lojas parceiras. Já a Vinted Pay amplia sua atuação para o segmento de pagamentos. O modelo da Vinted é simples: vender na plataforma é gratuito para o vendedor, que fica com 100% do valor anunciado. Basta tirar fotos dos itens que deseja vender, adicionar uma descrição, definir o preço e publicar o anúncio no aplicativo. Quando um comprador efetua a compra, a Vinted cobra dele uma pequena taxa de serviço e fornece ao vendedor uma etiqueta de envio pré-paga. O vendedor embala o produto e o entrega em um ponto de coleta. Assim que o comprador confirma o recebimento, a Vinted libera o dinheiro para a carteira virtual do vendedor. Erika Orlovskiene, mãe de dois filhos que mora em Vilnius, usa a Vinted há quase dez anos para comprar e vender de tudo: roupas infantis, vestidos, livros e até um aquário. \"Crianças crescem muito rápido e as roupas se acumulam num instante. O que fazer com peças que foram usadas tão pouco?\", diz ela, estimando que economizou \"milhares de euros\" ao longo dos anos. \"Não se trata apenas de economizar, mas também de sustentabilidade.\" À medida que sua base de usuários cresceu, a Vinted direcionou grandes investimentos para construir sua própria infraestrutura de logística, seus sistemas de pagamento e seus softwares de atendimento ao cliente. A empresa chega até mesmo a operar seus próprios servidores, em vez de utilizar serviços de computação em nuvem. Plantenga reconhece que esses investimentos não são exatamente glamourosos, mas afirma que eles sustentam a vantagem de custos da empresa. \"Tudo o que a Vinted faz na área de logística e de pagamentos existe para fortalecer o marketplace\", afirma Carolina Brochado, da EQT. Segundo ela, custos menores por transação beneficiam os consumidores e, ao mesmo tempo, reforçam a economia do negócio. É justamente esse modelo que a empresa pretende levar para os Estados Unidos. Ainda não está claro, porém, se a cobrança de uma taxa ao comprador será bem recebida pelos consumidores americanos. Para Poonam Goyal, da Bloomberg Intelligence, os compradores nos EUA tendem a resistir muito mais a esse tipo de cobrança, especialmente quando ela aparece separadamente do preço anunciado. Mas, segundo ela, \"se a Vinted conseguir fazer esse modelo funcionar nos Estados Unidos, poderá estabelecer um novo padrão para o mercado, que os concorrentes talvez acabem adotando, tornando todo o setor mais lucrativo.\" Plantenga diz que já observa sinais dessa mudança.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/07/29/vinted-conheca-o-e-commerce-de-roupas-usadas-que-cobra-comissao-do-comprador-e-quer-globalizar-o-modelo-a-partir-dos-eua.ghtml",
@@ -4184,69 +4208,6 @@
       "score": 30.0
     },
     {
-      "title": "Cacau Show aposta no porta a porta para vender bilhões",
-      "summary": "Empresa está se transformando numa espécie de Avon do Chocolate",
-      "url": "https://veja.abril.com.br/coluna/radar-economico/cacau-show-aposta-no-porta-a-porta-para-vender-r-500-mi-na-pascoa-e-natal",
-      "published": "2026-07-25T15:30:38+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "Varejo Alimentar",
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "avon",
-        "cacau show"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "cacau show",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "avon",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Bets foram alvo de mais de cem processos da Fazenda por infrações desde 2025",
-      "summary": "Infrações cometidas por casas de apostas online levaram à abertura de mais de cem processos administrativos no Ministério da Fazenda desde 2025, quando começou o mercado regulado de apostas, segundo dados obtidos via lei de acesso à informação em junho. Leia mais (07/25/2026 - 15h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/bets-foram-alvo-de-mais-de-cem-processos-da-fazenda-por-infracoes-desde-2025.shtml",
-      "published": "2026-07-25T18:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Apps de entrega e e-commerce aceleram carteiras de FIDCs e superam R$ 25 bi em concessão de crédito",
       "summary": "O iFood levantou R$ 600 milhões por meio de uma oferta de cotas seniores de um de seus fundos de crédito, encerrada na semana passada. Com a nova captação, a empresa de delivery consolida uma estrutura de cinco FIDCs que somava cerca de R$ 3,2 bilhões em patrimônio líquido até junho — volume que deve [&#8230;] O post Apps de entrega e e-commerce aceleram carteiras de FIDCs e superam R$ 25 bi em concessão de crédito apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/apps-de-entrega-e-e-commerce-aceleram-carteiras-de-fidcs-e-superam-r-25-bi-em-concessao-de-credito",
@@ -4335,68 +4296,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Governo Lula prorrogará Desenrola Brasil 2.0 em meio a melhora na popularidade",
-      "summary": "O governo Lula renovará o programa de renegociação de dívidas Desenrola Brasil 2.0 por ao menos mais 30 dias, até 31 de agosto. A decisão foi confirmada pelo ministro da Fazenda, Dario Durigan, no início da noite desta terça-feira (28). Leia mais (07/28/2026 - 12h01)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-lula-prorrogara-desenrola-brasil-20-em-meio-a-melhora-na-avaliacao-de-governo.shtml",
-      "published": "2026-07-28T15:01:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Governo deve estender segunda fase do Desenrola Brasil por pelo menos 30 dias",
-      "summary": "O governo deve estender a vigência da segunda fase do Desenrola Brasil, programa voltado à renegociação de dívidas bancárias, pelo menos, por 30 dias, mas com possibilidade de adotar um prazo mais longo. A informação foi antecipada pelo jornal O Globo e confirmada pelo Valor. O programa foi lançado em maio, com prazo inicialmente de 90 dias, até 3 de agosto. O novo modelo foi anunciado em mais uma tentativa de melhorar a popularidade do presidente Luiz Inácio Lula da Silva (PT), que busca se reeleger neste ano, em meio aos juros elevados da economia. Até o dia 23 de julho, o Desenrola Famílias havia registrado cerca de 3,6 milhões de renegociações, envolvendo R$ 22 bilhões em dívidas originais, reduzidas para aproximadamente R$ 4 bilhões após os descontos. O programa permite a renegociação de dívidas do cartão de crédito, cheque especial e crédito pessoal com 30% a 90% de desconto, com taxa de juros de até 1,99% ao mês e possibilidade de parcelamento de até quatro anos. Essa nova versão abarca dívidas contratadas até 31 de janeiro de 2026 e que estejam em atraso entre 90 dias e dois anos. Além disso, conta com garantia do Fundo de Garantia de Operações (FGO), possibilitando que os bancos ofereçam as condições mais favoráveis de renegociação. O modelo também permite sacar até 20% do saldo do Fundo de Garantia por Tempo de Serviço (FGTS) para pagamento das dívidas. Até o momento, foram contabilizadas 110 mil operações, totalizando R$ 62,2 milhões. O governo também lançou uma modalidade para pessoas jurídicas. No Desenrola Empresas, foram contratadas 159 mil operações do Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte (Pronampe), no valor de R$ 23,4 bilhões, e outras 41 mil operações pelo Procred, que somaram R$ 1,6 bilhão.",
-      "url": "https://valor.globo.com/financas/noticia/2026/07/28/governo-deve-estender-segunda-fase-do-desenrola-brasil-por-pelo-menos-30-dias.ghtml",
-      "published": "2026-07-28T15:48:01+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
         }
       ],
       "score": 28.0
@@ -4650,37 +4549,6 @@
       "score": 28.0
     },
     {
-      "title": "Veja as obrigações da reforma tributária que começam a valer no dia 3 de agosto",
-      "summary": "A Receita Federal e o Comitê Gestor do IBS (Imposto sobre Bens e Serviços) publicaram nesta sexta-feira (31) o cronograma com as datas de início da obrigatoriedade de emissão dos documentos fiscais com informações referentes à reforma tributária . Leia mais (07/31/2026 - 10h41)",
-      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/07/veja-as-obrigacoes-da-reforma-tributaria-que-comecam-a-valer-no-dia-3-de-agosto.shtml",
-      "published": "2026-07-31T13:41:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Opinião: Discussão sobre a escala 6x1 deixou claro que nosso RH está atrasado",
       "summary": "Com a PEC 221 e a PEC 12 em discussão, a redução da jornada de trabalho e o fim da escala 6x1 exigem novas estratégias e uso de dados no RH",
       "url": "https://exame.com/bussola/opiniao-discussao-sobre-a-escala-6x1-deixou-claro-que-nosso-rh-esta-atrasado",
@@ -4712,51 +4580,66 @@
       "score": 28.0
     },
     {
-      "title": "As 10 fintechs brasileiras entre as melhores do mundo em 2026",
-      "summary": "O Brasil reúne 1o representantes na lista das 500 principais fintechs do mundo em 2026, elaborada pela CNBC em parceria com a empresa alemã de pesquisa Statista. Agibank, C6 Bank, CloudWalk, Creditas, Inter, Mercado Pago, Neon, Nubank, PicPay e Stone foram reconhecidas por sua atuação em bancos digitais, pagamentos e financiamento alternativo. O levantamento analisou aproximadamente 3.500 mil empresas de tecnologia financeira e mais de 25 mil pontos de dados. A seleção considerou indicadores gerais de desempenho e métricas específicas de cada segmento, como receitas, crescimento, número de usuários, volume de transações e alcance dos produtos. A relação não estabelece uma classificação geral do primeiro ao 500º lugar. As empresas são avaliadas dentro de suas respectivas categorias e, portanto, a ordem em que aparecem não indica qual delas obteve o melhor resultado. As 500 selecionadas estão distribuídas por 55 países e territórios. Os Estados Unidos concentram cerca de 42% dos nomes, seguidos pelo Reino Unido, com 13%. A Índia aparece na terceira posição, com 27 empresas, e Singapura, na quarta, com 25. Prédio do Nubank — Foto: Divulgação Divulgação Conheça as representantes do Brasil Entre as 10 companhias vinculadas ao mercado brasileiro, seis foram classificadas principalmente como bancos digitais, três atuam em pagamentos e uma foi reconhecida no segmento de financiamento alternativo: Bancos digitais -Agibank -C6 Bank -Inter -Neon -Nubank -PicPay Pagamentos -CloudWalk -MercadoPago -Stone Financiamento alternativo -Creditas Mercado Pago Divulgação Pagamentos lideram seleção mundial As empresas de pagamentos formam o maior grupo da lista, com 115 representantes, equivalentes a 23% do total. O segmento inclui companhias globais como Stripe, Visa, PayPal, Adyen, Nuvei e Thunes. Na segunda posição aparecem as empresas de tecnologia para gestão patrimonial, com 75 nomes, ou 15% da seleção. Essa categoria reúne plataformas de investimentos como Robinhood, eToro e Tiger Brokers. As fintechs empresariais e as de financiamento alternativo aparecem na sequência, com 60 empresas cada. O primeiro grupo desenvolve sistemas financeiros para organizações, enquanto o segundo oferece modalidades de crédito e financiamento fora dos modelos bancários tradicionais. Insurtechs e bancos digitais contam com 55 representantes cada. Entre os neobancos selecionados estão, além das empresas brasileiras, plataformas internacionais como Revolut, Monzo e Chime. As categorias de ativos digitais e tecnologia regulatória, incluídas pela primeira vez no levantamento, possuem 40 empresas cada. A primeira reúne nomes ligados a criptomoedas, custódia e infraestrutura de blockchain, como Coinbase, Ripple, Gemini, Crypto.com e Ledger. A segunda abrange companhias que ajudam instituições a cumprir normas, verificar identidades, prevenir fraudes e combater crimes financeiros. Força brasileira em bancos e pagamentos A concentração das representantes brasileiras em bancos digitais e meios de pagamento reflete a transformação do setor financeiro do país nos últimos anos. A disseminação dos smartphones, a ampliação do acesso a contas digitais, a criação do Pix e as mudanças regulatórias abriram espaço para novos modelos de negócio e aumentaram a concorrência com os bancos tradicionais. A seleção também revela estratégias diferentes. Enquanto Nubank, Inter, C6 Bank, Neon e PicPay procuram reunir diversos produtos em um único aplicativo, empresas como Stone e CloudWalk se concentram nos serviços destinados a comerciantes. A Creditas, por sua vez, se especializa em modalidades de crédito com garantia. Algumas dessas companhias já avançam para fora do Brasil. O Nubank atua no México e na Colômbia e prepara sua entrada nos Estados Unidos. Inter e CloudWalk também possuem operações no mercado americano, enquanto Stone, PicPay e Agibank têm buscado ampliar produtos e conquistar novos perfis de clientes dentro do país. A edição de 2026 é a quarta da lista produzida pela CNBC e pela Statista. A diversidade das empresas selecionadas mostra como o conceito de fintech deixou de se limitar às contas digitais e aos cartões e passou a incluir diferentes camadas do sistema financeiro, como crédito, seguros, investimentos, infraestrutura tecnológica, ativos digitais e conformidade regulatória. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/futuro-do-dinheiro/noticia/2026/07/as-10-fintechs-brasileiras-entre-as-melhores-do-mundo-em-2026.ghtml",
-      "published": "2026-07-25T16:47:55+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
+      "title": "'Penetração do ecommerce ainda é muito pequena', diz CEO da Log",
+      "summary": "Sérgio Fischer tem muitos planos para a Log Commercial Properties, líder no mercado brasileiro de galpões e condomínios logísticos . O CEO quer abrir outras unidades em diferentes estados e concluir estratégia de investimento de R$ 4 bilhões no ciclo 2025-2028. Leia mais (08/01/2026 - 14h00)",
+      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/08/penetracao-do-ecommerce-ainda-e-muito-pequena-diz-ceo-da-log.shtml",
+      "published": "2026-08-01T17:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
         "E-commerce"
       ],
       "matched_aliases": [
-        "c6",
-        "mercado pago",
-        "nubank",
-        "revolut"
+        "ecommerce",
+        "galpões"
       ],
       "matches": [
         {
           "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "lead",
-          "score": 8,
+          "alias": "ecommerce",
+          "field": "title",
+          "score": 20,
           "topic": null
         },
         {
           "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "c6",
+          "alias": "galpões",
           "field": "lead",
           "score": 8,
           "topic": null
         }
       ],
-      "score": 26.0
+      "score": 28.0
+    },
+    {
+      "title": "Governo Lula altera medidas para ampliar crédito e estimular renegociação de dívidas",
+      "summary": "O governo do presidente Luiz Inácio Lula da Silva (PT) publicou neste sábado uma MP (medida provisória) que busca ampliar o crédito e estimular a renegociação de dívidas. O texto permite que o Executivo faça aportes de até R$ 2,75 bilhões em fundos garantidores. Também possibilita que recursos públicos e privados sejam combinados no Desenrola Adimplentes. A MP, publicada em edição extra do Diário Oficial da União, autoriza um aumento de até R$ 2 bilhões na participação da União no FGI (Fundo Garantidor para Investimentos). O dinheiro seria para cobrir operações do Peac-FGI, um programa de ampliação de crédito para microempresários individuais e micro, pequenas e médias empresas. O texto também autoriza o aumento de até R$ 750 milhões da participação da União no FGO (Fundo Garantidor de Operações). O fundo garante, por exemplo, operações de crédito do do Pronampe (Programa Nacional de Apoio às Microempresas e Empresas de Pequeno Porte). O governo, por meio da mesma medida provisória, também autorizou que recursos públicos e privados sejam combinados para operações do Desenrola Adimplentes, de forma a ampliar o dinheiro disponível para ação em instituições financeiras habilitadas pela Caixa Econômica Federal e pelo Banco do Brasil. O Desenrola Adimplentes é um programa de renegociação de dívidas voltado para trabalhadores informais e autônomos que estão com as contas em dia ou atrasadas por até 90 dias. É elegível quem tem dívidas de até R$ 15 mil. A proposta também prorroga até agosto de 2027 as ações de educação financeira previstas no Desenrola Brasil 2.0. Inicialmente, o prazo era até maio de 2027. As medidas para renegociar dívidas são uma das principais apostas de Lula para melhorar sua popularidade. O petista é candidato à reeleição, e tem buscado medidas que atraiam apoio do eleitorado. Na última semana, o ministro Dario Durigan (Fazenda) anunciou que o Desenrola Brasil 2.0 vigorará por 30 dias além do prazo inicial, chegando até 31 de agosto. O balanço mais recente do Ministério da Fazenda aponta que até o dia 23 foram renegociados R$ 22 bilhões em dívidas, com 3,6 milhões de operações. Pesquisa Quaest divulgada em julho indicou que o programa auxilia na melhora da aprovação do presidente. Na ocasião, 55% dos entrevistados afirmaram que o programa era positivo. Em maio, o número estava em 50%. No total, o ministro Dario Durigan disse que até 9 milhões de famílias já foram atingidas pelo programa. A última pesquisa Datafolha, divulgada há uma semana, mostra Lula na liderança da corrida presidencial. Ele aparece com 40% das intenções de voto para o primeiro turno. O segundo colocado é o senador Flávio Bolsonaro (PL-RJ), seu principal adversário, com 32%. O petista tem 48% das intenções de voto para o segundo turno contra 43% de Flávio. Pexels",
+      "url": "https://valor.globo.com/brasil/noticia/2026/08/01/governo-lula-altera-medidas-para-ampliar-crdito-e-estimular-renegociao-de-dvidas.ghtml",
+      "published": "2026-08-01T22:01:40+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola",
+        "renegociação de dívidas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "lead",
+          "score": 8,
+          "topic": "desenrola"
+        }
+      ],
+      "score": 28.0
     },
     {
       "title": "On abre lojas para vestir brasileiro dos pés à cabeça",
@@ -5079,167 +4962,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Canetas emagrecedoras no Brasil: conheça as disponíveis em 2026 - Veja Saúde",
-      "summary": "Canetas emagrecedoras no Brasil: conheça as disponíveis em 2026 &nbsp;&nbsp; Veja Saúde",
-      "url": "https://saude.abril.com.br/web-stories-abril/canetas-emagrecedoras-no-brasil-conheca-as-disponiveis-em-2026",
-      "published": "2026-07-25T12:01:11+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "‘Sobre a escala 6x1, não sou radicalmente contra nem a favor’, diz Luiza Helena Trajano - Exame",
-      "summary": "‘Sobre a escala 6x1, não sou radicalmente contra nem a favor’, diz Luiza Helena Trajano &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/carreira/sobre-a-escala-6x1-nao-sou-radicalmente-contra-nem-a-favor-diz-luiza-helena-trajano",
-      "published": "2026-07-25T14:40:29+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bets levam ao governo parecer que contesta impacto no endividamento",
-      "summary": "Documento aponta falhas relevantes em estudo da CNC, mas não apresenta evidências próprias de que apostas sejam inofensivas às finanças das famílias",
-      "url": "https://veja.abril.com.br/coluna/radar-economico/bets-levam-ao-governo-parecer-que-contesta-impacto-no-endividamento",
-      "published": "2026-07-25T15:00:06+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "'Aviação não é brinquedo de luxo, é infraestrutura para turismo', diz CEO do Beach Park",
-      "summary": "Em 2026, o Beach Park, complexo de parques e hotéis em Aquiraz, nos arredores de Fortaleza -CE, completa 40 anos. Para comemorar as quatro décadas, a empresa espera abrir no final de setembro o Ohana Beach Park. O novo resort do grupo será direcionado para o público de alta renda. Leia mais (07/25/2026 - 14h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/07/aviacao-nao-e-brinquedo-de-luxo-e-infraestrutura-para-turismo-diz-ceo-do-beach-park.shtml",
-      "published": "2026-07-25T17:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Meta lança aplicativo para vendedores do Facebook Marketplace",
-      "summary": "Há dez anos, quando a Meta percebeu que milhões de usuários do Facebook estavam comprando e vendendo produtos na plataforma, a empresa criou uma seção do aplicativo chamada Facebook Marketplace justamente para essa finalidade. Qual a data de lançamento do iPhone 18? Qual o preço? Veja o que se sabe até agora A IA sabe mais sobre você do que parece: veja 4 perguntas para fazer ao ChatGPT e descobrir Desde então, o Marketplace se tornou uma das seções mais populares do Facebook, onde as pessoas vão em busca do que é, essencialmente, o maior bazar virtual da internet, com roupas, móveis e carros usados. Na sexta-feira, a Meta aproveitou esse sucesso para lançar o Seller, um aplicativo independente voltado para vendedores do Marketplace. A iniciativa faz parte da estratégia da companhia de inovar em sua rede social original. Em maio, a empresa lançou o Forum, um aplicativo para usuários que utilizam os Grupos do Facebook, outra parte essencial da plataforma, em uma tentativa de fortalecer as comunidades mais populares da rede para além do feed de notícias. Tom Alison, chefe do Facebook, afirmou que o aplicativo do Marketplace será para os vendedores o que as ferramentas de edição de vídeos foram para os criadores de conteúdo. Initial plugin text — Eu vejo essas iniciativas como algo que complementa o aplicativo principal e atende às comunidades de usuários mais engajadas — disse ele em entrevista. — Essa é a ideia que está por trás de grande parte do que estamos fazendo ou tentando fazer neste ano. Ainda estamos em uma fase inicial, é algo experimental. O Facebook Marketplace se tornou um sucesso e ajudou a manter o interesse dos usuários — especialmente os mais jovens — pela plataforma. Um terço dos jovens adultos que usam o Facebook diariamente também utiliza o Marketplace, segundo Alison. Todos os meses, mais de 430 milhões de itens, incluindo 44 milhões de veículos, são anunciados em todo o mundo por lá. Os usuários podem acessar o Seller com suas contas do Facebook, que sincronizarão os anúncios antigos de produtos à venda. A partir daí, será possível navegar entre a caixa de entrada, um painel com dados sobre anúncios anteriores e uma ferramenta para criar novas ofertas. ChatGPT, Gemini ou Claude? Guia interativo compara preços e serviços de 11 chats de IA; confira O Seller é gratuito e também estará disponível em navegadores da web para usuários que baixarem o aplicativo. A Meta gera receita com o Marketplace por meio de anúncios exibidos na plataforma e não fica com uma porcentagem das vendas realizadas. O Seller também inclui novos recursos de inteligência artificial (IA), como a análise de fotos com ferramentas de IA para preencher automaticamente informações dos anúncios. O objetivo dos recursos de IA é tornar a venda de itens menos trabalhosa sem substituir o fator humano, disse Alison.",
-      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/07/25/meta-lanca-aplicativo-para-vendedores-do-facebook-marketplace.ghtml",
-      "published": "2026-07-25T19:59:32+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Casal é preso por venda irregular de canetas emagrecedoras, paga fiança e é liberado no interior de SP - G1",
-      "summary": "Casal é preso por venda irregular de canetas emagrecedoras, paga fiança e é liberado no interior de SP &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/sp/sao-carlos-regiao/noticia/2026/07/25/casal-e-preso-por-venda-irregular-de-canetas-emagrecedoras-paga-fianca-e-e-liberado-no-interior-de-sp.ghtml",
-      "published": "2026-07-25T21:02:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Empresas assumem papel de anfitrião de Airbnb em São Paulo",
-      "summary": "A cidade de São Paulo possui 42.354 anúncios disponíveis no Airbnb, segundo dados da iniciativa global Inside Airbnb divulgados neste mês. A maioria desses apartamentos, casas e quartos oferecidos para estadias temporárias na capital paulista é gerida por perfis de locadores que possuem múltiplos anúncios na plataforma, com presença de empresas especializadas na gestão de imóveis de terceiros. O levantamento aponta que 72,9% dessas ofertas são controladas por contas que reúnem mais de uma hospedagem anunciada. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/07/26/empresas-assumem-papel-de-anfitriao-de-airbnb-em-sao-paulo.ghtml",
-      "published": "2026-07-26T07:00:31+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "airbnb"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "airbnb",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Turismo de Bem-estar Pode Ultrapassar US$ 900 Bilhões em 2030",
@@ -8738,6 +8460,98 @@
       "score": 20.0
     },
     {
+      "title": "To keep growing, incoming Best Buy CEO says he first wants to go smaller",
+      "summary": "As incoming CEO Jason Bonfig prepares to take the reins, he told CNBC he's focused on expanding the company's reach and enhancing the customer experience.",
+      "url": "https://www.cnbc.com/2026/08/01/best-buy-ceo-jason-bonfig-smaller-stores.html",
+      "published": "2026-08-01T12:00:01+00:00",
+      "source": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "best buy"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "best buy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Apreensões de canetas emagrecedoras aumentam quase 120% neste ano no Aeroporto do Galeão - CBN",
+      "summary": "Apreensões de canetas emagrecedoras aumentam quase 120% neste ano no Aeroporto do Galeão &nbsp;&nbsp; CBN",
+      "url": "https://cbn.globo.com/rio-de-janeiro/noticia/2026/08/01/apreensoes-de-canetas-emagrecedoras-aumentam-quase-120percent-neste-ano-no-aeroporto-do-galeao.ghtml",
+      "published": "2026-08-01T12:48:40+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Por que a Coreia do Sul está virando um dos principais destinos do turismo médico",
+      "summary": "sem descrição BBC News fonte Instituto Médico KMI Liping Chao acaba de chegar a Seul. Olhando pela janela do seu táxi, ele observa os famosos arranha-céus da capital sul-coreana. Mas, em vez de ir passear na Torre Namsan ou visitar as famosas lojas do bairro de Myeongdong, Chao segue para o distrito de Mapo, até o Centro Médico Medione. Na espaçosa e asséptica sala de espera, ele observa mais rostos estrangeiros do que coreanos. Chao se troca no vestiário e guarda seus pertences. Uma enfermeira traz a sua ficha e o leva para o primeiro exame. Não se tratava de uma emergência médica. Tudo aquilo era um dos pontos do seu roteiro de viagem. Chao faz parte de um grupo cada vez maior de visitantes estrangeiros que incluem check-ups de saúde nas suas viagens à Coreia do Sul. Entre sessões de noraebang (o karaokê coreano) e pratos da comida de rua, juntam-se agora exames de sangue, ultrassons e até colonoscopias. Tendência contagiosa Esta tendência não dá sinais de parar tão cedo. O Ministério da Saúde e Bem-Estar da Coreia do Sul indica que 2 milhões de pacientes estrangeiros visitaram o país em 2025. Este número representa 71,7% a mais que o ano anterior. Os pacientes vêm principalmente da China e do Japão, seguidos por Taiwan e pelos Estados Unidos. Donkyo Seo é o CEO (diretor-executivo) da Himedi, um serviço de concierge de saúde de Seul. Ele explica que, \"para a Coreia, o turismo médico é uma indústria de exportação\". A atividade recebe ativo apoio da legislação local, criada para promover a expansão da medicina do país no exterior. Cada vez mais visitantes estrangeiros acrescentam check-ups médicos ao seu itinerário de visita à Coreia do Sul BBC News fonte HimediCada vez mais visitantes estrangeiros acrescentam check-ups médicos ao seu itinerário de visita à Coreia do Sul Mas por que voar até a Coreia do Sul em busca de assistência médica? A CEO da agência de viagens de Seul Creatrip, Heamin Lee, explica que, em última análise, é uma questão de custo e eficiência. Os pacientes de muitos países enfrentam encaminhamentos, aprovações de seguro e longas filas de espera. Mas muitos centros de triagem coreanos oferecem check-ups abrangentes de saúde em uma única consulta. O melhor é que a assistência médica na Coreia do Sul é considerada a segunda melhor do mundo, segundo o Índice de Assistência Médica CEOWorld de 2025. E é bastante acessível, já que o governo regulamenta os preços dos serviços de saúde pelo governo. \"A diferença é significativa\", segundo Lee. \"Em muitos casos, o preço de uma única ressonância magnética nos Estados Unidos pode cobrir um exame corporal completo na Coreia... Mesmo considerando a passagem aérea, ainda pode ser mais acessível.\" Além do apelo da alta qualidade e dos custos mais baixos, Hyeonah Hong, chefe de divisão do Instituto Médico da Coreia (KMI, na sigla em inglês), destaca que \"a Coreia tem um sistema de assistência médica bem estabelecido e voltado à prevenção. Este ambiente permite a detecção precoce de doenças.\" Este motivo levou Heather Barlow a acrescentar uma consulta médica às suas atividades de férias. \"Tenho problemas de saúde e meu médico recomendou que eu conseguisse uma avaliação completa\", explica ela. \"Uma avaliação similar no meu país [Hong Kong] custaria três a quatro vezes o que paguei na Coreia.\" Odisseias médicas Como muitos outros turistas de saúde, Chao e Barlow ficaram sabendo dos serviços de assistência médica oferecidos na Coreia do Sul por meio de amigos que passaram por procedimentos no país. Chao reservou seu voo de Los Angeles, nos Estados Unidos, para Seul em abril de 2026. Em seguida, ele começou a pesquisar no Google e nas redes sociais, em busca de clínicas de saúde. Os vídeos de muitos visitantes satisfeitos, que passaram por check-ups no país com bons resultados, aumentaram sua confiança. \"A Coreia do Sul é uma meca da beleza\", segundo ele. \"A saúde não está longe disso, o que me fez confiar ainda mais.\" \"A enorme quantidade de exames que eles oferecem me deixou confortável para poder confiar nos profissionais de saúde.\" O sistema de saúde sul-coreano é popular devido ao seu baixo custo, serviço excelente e fácil agendamento BBC News fonte Instituto Médico KMIO sistema de saúde sul-coreano é popular devido ao seu baixo custo, serviço excelente e fácil agendamento Esta prática pode estar ganhando popularidade entre os não coreanos. Mas, para os cidadãos do país que moram no exterior, viajar para a Coreia do Sul para check-ups médicos é uma prática comum há anos. A coreano-americana Rebecca Gladstone, moradora de Nova York, nos Estados Unidos, ficou sabendo dos check-ups avançados oferecidos no país a custos acessíveis pelos seus amigos e parentes coreanos. Por isso, ela deu início à sua própria pesquisa. \"Eu já tinha planos de ir à Coreia e sabia que aproveitaria a oportunidade para programar um check-up\", ela conta. \"Ainda estou surpresa por conseguir um exame completo em uma única consulta.\" Gladstone marcou seu exame no setor especializado em saúde da mulher do Centro Médico da Universidade CHA. Ela pagou pouco menos de 754.951 wones (US$ 516, cerca de R$ 2,6 mil). Barlow também descreve uma experiência rápida e perfeita no Instituto KMI Gwanghwamun. Ela agendou um pacote intermediário, que incluía exames de laboratório de rotina, raios X, ultrassons e alguns procedimentos minimamente invasivos. \"A espera entre um exame e outro foi curta\", segundo ela. \"O máximo que precisei esperar foram 15 minutos.\" \"Você pode levar seu telefone ou livro todo o tempo, de forma que, em nenhum momento, fiquei entediada ou ansiosa enquanto esperava.\" \"Todos os funcionários, enfermeiros e médicos eram gentis e pacientes. Não me senti fazendo os exames de forma apressada. Além disso, o ambiente como um todo era muito eficiente.\" Barlow entrou na clínica às 8h30 e terminou seus exames às 13 horas. Os pacientes podem fazer diversos exames em poucas horas BBC News fonte Instituto Médico KMIOs pacientes podem fazer diversos exames em poucas horas Liping Chao relembra ter ficado um pouco nervoso durante seus exames. Ele pediu um pacote básico, que incluía um exame de sangue, raio X do peito, ultrassom e endoscopia. \"O exame, do início ao fim, levou cerca de três horas\", ele conta. \"Este tempo inclui a sedação para a endoscopia... Fui orientado a não comer por cerca de quatro horas após o exame porque eles retiraram pólipos do meu estômago.\" Sua conta total foi de 456.706 wones (US$ 312, cerca de R$ 1,6 mil). Mesmo com o procedimento surpresa no estômago, Chao descreve seu exame como uma \"experiência tranquila e confortável, muito acolhedora para um estrangeiro\". Ele terminou ao meio-dia e seguiu para seu passeio em Seul. Chao encontrou um amigo no badalado bairro de Seonsu-dong, cortou o cabelo e terminou a noite com um jantar no luxuoso distrito de Gangnam. Nada se perde na tradução Mas possíveis barreiras linguísticas e sistemas desconhecidos podem fazer o agendamento de procedimentos de saúde no exterior parecer confuso. Rebecca Gladstone fala coreano fluentemente. Ela marcou o exame completo de saúde da mulher com a Himedi, para ajudar a gerenciar a logística. \"Mesmo com recomendações de amigas, eu precisava entrar em contato com as clínicas e descobrir como marcar os exames\", explica ela. \"Mas a Himedi já tinha os contatos e finalizou a reserva para mim, além de fornecer uma intérprete\", para esclarecer os termos médicos. Na clínica, \"minha intérprete designada, JeeSu, me encontrou e tudo foi tranquilo. Ela me acompanhou de uma sala de exame para outra.\" \"Também tive uma breve consulta com um dos médicos para esclarecer questões antes de começar o meu check-up.\" Gladstone recebeu seus resultados por e-mail protegido por senha, em inglês, algumas semanas depois. Um ultrassom pélvico indicou um ponto que precisava de acompanhamento. Com o agente de reserva e a clínica, ela conseguiu fazer ao médico coreano algumas perguntas e também teve seus resultados analisados pelo seu médico local. O detalhamento e a eficiência do check-up foram exatamente o que suas amigas descreveram. Agora, ela própria recomenda uma visita ao médico na Coreia do Sul para outros visitantes. As consultas de acompanhamento também podem ser feitas na Coreia após o exame. \"Se um exame de saúde identificar uma condição que exija tratamento posterior, nós encaminhamos os pacientes para a nossa rede de instituições médicas e hospitais afiliados, para que eles possam receber os cuidados adequados\", explica o chefe de divisão do KMI, Hyeonah Hong. Heather Barlow também pediu um tradutor à Himedi e recomenda este procedimento para os visitantes. \"A maior parte dos enfermeiros fala inglês básico e todos os médicos que encontrei falam inglês fluentemente, mas não era o caso de alguns funcionários e acabei usando o aplicativo de tradução Papago para me comunicar.\" Mas, de forma geral, a experiência de Barlow no centro de saúde \"foi muito positiva\". \"Provavelmente retornarei à Coreia para outro exame daqui a um ou dois anos, pois alguns dos exames mostraram regiões que precisam ser acompanhadas. E o custo e a eficiência ainda valem a pena para mim, mesmo com os gastos de viagem e hospedagem.\" Planeje o seu check-up Os serviços de concierge de saúde, como a Creatrip e a Himedi, ajudam os visitantes estrangeiros a reservar pacotes. Agende seus exames com antecedência e programe os serviços para o início da sua viagem, pois pode ser necessário um período de jejum, sedação ou acompanhamento posterior. Hospitais e clínicas de triagem especializadas oferecem check-ups completos. As clínicas são mais baratas, mas os pacientes que apresentarem resultados fora dos padrões podem ser encaminhados para o hospital. O apoio em língua estrangeira (basicamente, inglês) varia entre as instituições. Por isso, confirme a disponibilidade de um intérprete antes de programar os exames. Os resultados são normalmente enviados por e-mail em sete a 14 dias após o exame e disponíveis em diversas línguas. O Instituto Médico da Coreia (KMI, na sigla em inglês) e o Hospital da Universidade Nacional de Seul fornecem serviços totalmente em inglês. É recomendável encaminhar os resultados ao seu médico local e contratar seguro de viagem para turismo de saúde. Leia a versão original desta reportagem (em inglês) no site BBC Travel. 'Turismo médico': milhões que moram em potências mundiais viajam a países mais pobres para fazer cirurgias Por que 1 milhão de americanos se arriscam em turismo médico no México a cada ano Cirurgia de bumbum: morte de britânica na Turquia leva a reunião de governos sobre turismo médico 'Nicarágua virou a Coreia do Norte da América Latina': a reação diante do início do plano de Ortega para acabar com eleições no país O país onde perguntar a idade dos outros é uma necessidade O país com menor taxa de natalidade do mundo, mas que tem clínicas de fertilização 'lotadas' BBC FOOTER NOVO BBC Mais Lidas",
+      "url": "https://epocanegocios.globo.com/mundo/noticia/2026/08/cdatapor-que-a-coreia-do-sul-esta-virando-um-dos-principais-destinos-do-turismo-medico.ghtml",
+      "published": "2026-08-01T18:54:14+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Demitir trabalhador por vício em bets traz custos a empresa e pode render ação na Justiça; entenda",
+      "summary": "Demitir trabalhadores por vício em bets pode trazer custos adicionais à empresa, mesmo em caso de dispensa por justa causa. O TST (Tribunal Superior do Trabalho) estuda comparar a ludopatia ao alcoolismo, doença que tem proteção na CLT (Consolidação das Leis do Trabalho) contra este tipo de demissão, considerada a maior punição a um trabalhador. Leia mais (08/01/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/demitir-trabalhador-por-vicio-em-bets-traz-custos-a-empresa-e-pode-render-acao-na-justica-entenda.shtml",
+      "published": "2026-08-02T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Só 11% das empresas familiares no Brasil têm plano de sucessão",
       "summary": "A disputa pela herança de Anita Harley, principal acionista da Pernambucanas, e a guerra entre os irmãos para ocupar o lugar do pai, Bernard Arnault, como CEO do grupo de luxo LVMH – que reúne marcas como Louis Vuitton, Dior e Moët et Chandon – evidenciam o que a falta de planejamento sucessório pode desencadear em grupos familiares. No Brasil, apesar das empresas familiares representarem 90% das organizações empresariais, apenas 11% delas têm um plano estruturado de sucessão, contra 64% no mundo. É o que mostra a pesquisa da Mardô Family House Integration, consultoria especializada em governança familiar e sucessão patrimonial, que atende famílias de milionários e bilionários e já prestou serviço para mais de 300 grupos familiares. A falta de planejamento pode acelerar a mortalidade das companhias, por falta de gestão profissional e disputa de herança. Segundo o estudo, menos de 30% das empresas familiares brasileiras sobrevivem à terceira geração e apenas 3% a 7% alcançam a quarta. A raiz raramente é financeira: o patrimônio se fragiliza somente após a coesão familiar se dissolver. “Muitos herdeiros não se conectam com o negócio ou tem uma vida paralela”, diz Marcia Dolores, CEO e fundadora da Mardô. Casos de família: as brigas que podem corroer até 5% do PIB Jusfy atrai Quona e Thomson Reuters para criar a fintech dos advogados O Oráculo e o Algoritmo: a nova chamada de margem da governança De acordo com dados de mercados maduros mapeados pelo estudo em diferentes fontes, 53% dos herdeiros apontam que o maior entrave para o sucesso da transição é a dificuldade da geração atualmente à frente dos negócios em ceder espaço e abrir mão do controle. Muitas vezes os fundadores resistem a passar o bastão, apesar dos questionamentos dos investidores - na LVMH, Arnault estendeu a idade de aposentadoria de CEO de 80 para 85 anos para continuar no cargo. Anita Harley, da Pernambucanas: disputas societárias comprometem patrimônio Divulgação/Reprodução Globo Para Dolores, o ideal é que as empresas comecem a organizar a sucessão a partir do momento em que o negócio começar a ganhar tamanho relevante, representando a principal fonte de renda da família. “Grupos com receita a partir de R$ 80 milhões a R$ 100 milhões já devem pensar em profissionalizar a sucessão”, diz a especialista. Não significa apenas fazer um testamento, mas definir e conscientizar os herdeiros sobre a cultura do negócio. “O planejamento sucessório envolve mais do que divisão de bens por testamento. Primeiro é preciso organizar as relações familiares e governança, envolvendo desde as gerações mais jovens, para manter o legado”, diz Dolores. A escolha do sucessor também deve ser feita de maneira profissional, levando em conta as aptidões de cada herdeiro, e não apenas uma escolha do fundador, para evitar litígio - como aconteceu com o grupo de mídia liderado por Rupert Murdoch. Família Hering quer a marca de volta Ometto segue com cadeira de chairman da Cosan até 81 anos Na terceira geração, Bananinha Paraibuna recusa M&amp;A A disputa em ritmo do thriller Succession pelo comando do império de mídia construído por Murdoch, de 94 anos, resultou em uma batalha judicial entre seus seis filhos, de três casamentos, que acabou definindo o filho mais velho como o sucessor do pai. “Disputas judiciais acabam gerando paralisação decisória. Um herdeiro pode se recusar a vender sua parte e impedir transações que podem comprometer o patrimônio das próximas gerações ou levar a uma venda precipitada de ativos”, diz Dolores. Nem toda a família tem o perfil para dar continuidade nos negócios. A Mardô define quatro perfis de sucessores: o executivo, que é capaz de continuar à frente do negócio; o empreendedor, que faz a expansão vertical do grupo; o investidor, que traz possibilidade de investimentos em novos negócios, e o rentista consciente, cujo papel é preservar o patrimônio e a cultura da família. Série Succession se inspira em caso real de batalha de herdeiros pelo trono Reprodução A Mardô aplica metodologia baseada inclusive na neurociência para apontar os herdeiros com melhor perfil para sucessor. “Nem todo mundo quer continuar os negócios. A nova geração, composta especialmente por jovens entre 25 e 35 anos, está ressignificando conceitos de rentista e herdeiro, transformando-os em sinônimos de investidores que estão se profissionalizando para atuar em conselhos de administração, liderar family offices e buscar novos investimentos não necessariamente relacionados com os da família ”, afirma Dolores. As investidas de Benchimol em hotelaria Bauducco busca sócio minoritário; Mondelez quer o controle Esther Safra vende participação no grupo familiar aos irmãos A pesquisa estima que o Brasil terá R$ 9 trilhões de transferência de patrimônio com eventos de liquidez até 2045, transformando herdeiros em investidores de venture capital e de family offices. “Após a venda ou abertura de capital das empresas, muitos herdeiros podem ficar tentados a reinvestir o dinheiro e fazerem maus negócios. Por isso, a gente recomenda esperar pelo menos um ano para alocar melhor o capital levantado”, diz ela.",
       "url": "https://pipelinevalor.globo.com/mercado/noticia/so-11percent-das-empresas-familiares-no-brasil-tem-plano-de-sucessao.ghtml",
@@ -9028,6 +8842,37 @@
       "score": 16.0
     },
     {
+      "title": "Gasto acelerado com IA gera impacto bilionário no caixa das big techs",
+      "summary": "O ritmo acelerado de gastos de capital (capex) em infraestrutura de inteligência artificial afetou o fluxo de caixa livre da Alphabet -dona do Google-, Amazon, Meta e Microsoft. Mas para analistas consultados pelo Valor, a demanda de empresas de diversos setores por IA justifica o aumento dessas despesas e a redução do caixa. A tendência para os próximos trimestres é de continuidade de capex em alta, mas com projeção de retorno em dois a três anos, projetam os especialistas. A Alphabet encerrou o segundo trimestre com fluxo de caixa negativo de US$ 5,9 bilhões, queimando caixa pela primeira vez desde sua abertura de capital, em 2004. A Amazon reportou caixa negativo em US$ 7,6 bilhões, após três anos com fluxo positivo. A Meta, dona do Facebook, Instagram e WhatsApp reduziu seu caixa em 91% na comparação anual, encerrando junho com reserva de US$ 784 milhões. E a Microsoft fechou seu quarto trimestre fiscal com caixa de US$ 19,6 bilhões, redução de 23% ante o mesmo período do ano anterior. Apesar da apreensão dos investidores sobre as despesas elevadas das big techs, o economista-chefe da Avenue, William Alves, nota que o crescimento das receitas de serviços de nuvem e inteligência artificial das empresas Alphabet, Microsoft e Amazon, responde a uma demanda real e ainda crescente por estes serviços. “As próprias empresas estão dizendo que não conseguem atender a demanda e por isso precisam investir mais”, nota Alves. “Elas conseguiram finalmente afastar as preocupações sobre uma bolha de IA.” A receita da Amazon Web Services (AWS), líder do mercado de nuvem, alcançou US$ 42,2 bilhões no segundo trimestre, um crescimento de 36,7% na base anual. A Microsoft, segunda colocada no setor, teve alta de 43% na receita com a plataforma Azure, no quarto trimestre fiscal de 2026. No ano fiscal, a receita da divisão de nuvem bateu a marca de US$ 100 bilhões, destacou o executivo-chefe (CEO) da empresa, Satya Nadella, em comunicado. “Estamos expandindo as fronteiras da curva de custo versus resultados, garantindo que cada cliente possa transformar tokens em resultados de negócios”, disse o executivo. Já o Google Cloud, com a terceira posição no mercado de nuvem, apresentou o maior salto de receita entre as concorrentes. As vendas de US$ 24,8 bilhões entre abril e junho superaram em 82% o resultado obtido um ano antes. Em conferência com analistas, na quinta-feira (30), o CEO da Amazon explicou que, mesmo com o aumento da projeção de gastos de US$ 200 bilhões para US$ 220 bilhões em infraestrutura este ano, a Amazon ainda não terá “capacidade suficiente para atender a toda a demanda que teremos em 2026”, sinalizando que a dinâmica será mantida em 2027. O executivo também detalhou que os data centers oferecem “mais de 30 anos de monetização sem necessidade de capital inicial adicional” e que os servidores e equipamentos de rede atingem o ponto de equilíbrio sobre investimentos em menos de três anos. Já os “clientes geralmente contratam capacidade de IA por pelo menos cinco anos.” Para os analistas, as informações compartilhadas por Nadella e pelo CEO da Amazon, Andy Jassy, foram suficientes para acalmar o mercado sobre os gastos de capital das big techs. Na sexta-feira (31), as ações da Amazon fecharam em alta de 15,32% na bolsa americana Nasdaq, colaborando para a recuperação dos papéis da Alphabet, com alta de 6,88%. A Microsoft teve alta de mais de 15% no valor das ações após a divulgação do balanço, na quarta-feira (29). Na sexta-feira, as ações da companhia fecharam em alta de 3,02%. O sócio do fundo Global Tech da São Pedro Capital, José Medeiros, afirma que a explicação de Jassy sobre a lógica de retorno sobre os investimentos em infraestrutura de IA vale para todas as hyperscalers [empresas de serviços de nuvem e IA em larga escala]. “Conforme ele explicou, o negócio se paga dentro de dois a três anos, incluindo as unidades de processamento gráfico (GPUs, na sigla em inglês) e a construção dos data centers. Só que os contratos da AWS são de pelo menos cinco anos”, diz Medeiros. “Considerando que uma GPU pode ter uma duração de dez anos e o retorno dos investimentos com uma margem incremental, o investidor vai apoiar esse capex [gasto de capital]”, ele observa. Olhando para a demanda corporativa de IA, a analista da Legacy Capital, Letícia Tonholo projeta que a receita de inteligência artificial da AWS, que alcançou US$ 25 bilhões no segundo trimestre, dobrará até o fim do ano. “Essa demanda deve continuar crescendo, porque a adoção de IA pelas empresas ainda está no começo”, afirma Tonholo. O analista de Global Tech do Itaú BBA, Stephano Gabriel, observa que o avanço da receita de nuvem da Alphabet terá continuidade. “O segmento de Google Cloud sai de um crescimento de 40% no quarto trimestre de 2025, na base anual, para alta de 60% no primeiro trimestre e, agora, de mais de 80%. Fazendo algumas estimativas em cima do ‘backlog’ [receita projetada em contratos] podemos ver essas receitas acelerando em mais de 100% ao ano, até o final do ano”, afirma. Entre as cinco principais empresas de tecnologia americanas, a Meta Platforms enfrentou a reação mais pessimista do mercado aos resultados trimestrais. As ações caíram mais de 10% após a empresa apresentar um lucro por ação abaixo das estimativas de analistas e nova projeção de aumento de gastos com infraestrutura computacional. O resultado refletiu despesas de US$ 2,4 bilhões com processos judiciais e de US$ 1,18 bilhão em custos de indenizações. Em maio, a empresa demitiu cerca de 8 mil funcionários (10% da equipe global). O fluxo de caixa livre da empresa de Mark Zuckerberg caiu 91% para US$ 784 milhões, ante US$ 8,55 bilhões no ano anterior, devido aos investimentos pesados em data centers de IA. A estratégia também elevou a estimativa de capex anual para um valor entre US$ 130 bilhões e US$ 145 bilhões para apoiar a expansão agressiva de data centers voltados para IA. Na visão dos especialistas, a entrada da Meta na oferta de serviços de computação em nuvem, gerando receita com capacidade computacional excedente, e os avanços de IA sobre a geração de anúncios trazem sentido à elevação do capex. “É um cenário completamente diferente do que vimos em 2022, quando a empresa estava gastando com o metaverso [na divisão Reality Labs] e sentiu um impacto de US$ 10 bilhões em receita diante das mudanças na privacidade de anúncios da Apple”, compara Medeiros, da São Pedro Capital. A mudança de perspectiva dos investidores sobre aumento de gastos pode não ter sido uma notícia tão favorável à Apple, que corre por fora dos mercados de serviços de nuvem e IA em larga escala. “Como a Apple não tem esses gastos elevados com infraestrutura de IA em uma operação de 'hyperscale', manteve o fluxo de caixa muito positivo. Mas a situação mudou muito após esses últimos anúncios [sobre retornos de investimentos em IA]”, observa o sócio da São Pedro Capital. A semana da dona do iPhone começou no topo do ranking das empresas mais valiosas do mundo, superando o valor de US$ 5 trilhões, e terminou com uma queda de 7,35% em suas ações na sexta-feira. Embora tenha elevado o lucro líquido e a receita, a companhia não alcançou a estimativa de crescimento de receita na China e no segmento de serviços, que inclui assinaturas de conteúdos e armazenamento de dados na nuvem. A expectativa de manutenção destes patamares para serviços e vendas no mercado chinês no próximo trimestre também não agradou ao mercado. A inflação no mercado de chips de memória gera preocupação com as margens de lucro da Apple, mesmo com um portfólio de dispositivos mais caros, no segmento premium. “Historicamente, ela era mais relevante entre os fornecedores [de chips], mas agora os fornecedores têm dado prioridade à cadeia de data centers”, nota Gabriel, do Itaú BBA. 01/08/2026 16:06:39",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/01/gasto-acelerado-com-ia-impacta-caixa-de-big-techs-mas-h-demanda-e-retorno-deve-aparecer-em-at-3-anos.ghtml",
+      "published": "2026-08-01T19:18:42+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Funcionários precisam de ‘alfabetização’ em dados",
       "summary": "Com treinamento, as áreas fazem pedidos mais claros e entendem melhor as informações que precisam, diz Paulo Ruza, do Carrefour Divulgação Empresas não se tornam orientadas por dados apenas porque compraram tecnologia, criaram áreas de “analytics” ou melhoraram a qualidade de suas bases. O fator decisivo continua sendo a capacidade das pessoas de compreender, interpretar e utilizar essas informações no cotidiano, afirma o americano Jordan Morrow, vice-presidente sênior de transformação de dados e IA da AgileOne. “Essa alfabetização é importante para capacitar as pessoas não apenas a olhar para painéis e ver o que aconteceu, mas a descobrir o porquê e dar vida aos dados”, diz. Em um mundo que produz cerca de 400 milhões de terabytes de dados por dia, segundo o site Exploding Topics, compreender e aplicar essas informações tornou-se essencial. Relatório do site DataCamp com líderes dos EUA e Reino Unido mostra que 40% apontam a perda de produtividade como principal consequência da baixa alfabetização em dados. A TIM iniciou essa jornada há quatro anos. “Temos três trilhas. A Expert prepara durante seis meses cientistas, engenheiros e arquitetos de dados; a Consumer atende quem utiliza dados nas decisões cotidianas; e a Translator forma profissionais capazes de traduzir necessidades das áreas de negócio para os times técnicos”, diz Maria Antonietta Russo, VP de pessoas, cultura e organização da TIM. Segundo ela, o programa já alcançou 96% dos colaboradores. “Quando as pessoas compreendem melhor os dados, conseguem transformar problemas em hipóteses, hipóteses em análises e análises em decisões mais conectadas aos objetivos da companhia.” No Banco Carrefour, o projeto começou na instituição financeira e depois foi expandido para o restante do grupo. “Foi um programa do zero, explicando o que é dado e sua importância na tomada de decisão. Depois gravamos esse treinamento em módulos e o disponibilizamos para os 120 mil colaboradores”, afirma Paulo Ruza, superintendente de dados e IA. Segundo ele, as áreas passaram a formular pedidos mais claros e compreender melhor quais informações de fato precisavam. A alfabetização também despertou novos interesses. “Uma colaboradora da comunicação achava que nem precisava. Fez o treinamento, gostou, buscou outros cursos e, um ano depois, veio trabalhar com a gente na área de dados”, diz Ruza. O Grupo Boticário também vem acelerando sua cultura de dados. “Decidimos investir na alfabetização para garantir que os mais de 20 mil colaboradores pudessem usar a informação de forma ética, eficiente e estratégica”, afirma Renato Pedigoni, CTO da companhia. Considerada a segunda empresa mais admirada em dados da América Latina pela pesquisa “State of Data Brazil 2025-2026”, da Data Hackers e Bain & Company, a empresa aposta em uma jornada que começa com plataformas de análise e SQL (linguagem universal usada para conversar com bancos de dados). “Hoje, com agentes de IA, um colaborador consegue realizar análises altamente complexas sem necessariamente escrever código”, diz Pedigoni. Para Henrique Portella, fundador da DataSchool, especializada em alfabetização de dados, o objetivo não é transformar todos os funcionários em analistas ou programadores, mas criar uma linguagem comum. “Não é usar Excel, pois isso é letramento digital. Estamos falando de entender gráficos de dispersão, correlação, a diferença entre mediana e média e como contar uma história com dados”, afirma. Segundo ele, investir milhões em plataformas de “business intelligence” (BI), IA e “analytics” ou contratar cientistas de dados não basta se poucos conseguem usar essas análises. Marcos Sirelli, vice-presidente de tecnologia, dados e atendimento do Grupo Porto, afirma que a empresa estruturou sua trilha de dados primeiro em nível inicial e intermediário, em que o foco é saber ler e interpretar o negócio através de dados. “Tivemos um colaborador, por exemplo, que desenvolveu uma ferramenta que reúne milhares de pesquisas de Net Promoter Score [NPS], que é uma métrica padrão global para medir a lealdade e a satisfação dos clientes, para indicar automaticamente onde as jornadas precisam ser melhoradas e quais mudanças têm maior potencial de impacto na experiência do consumidor.”",
       "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-corporativa/noticia/2026/07/29/funcionarios-precisam-de-alfabetizacao-em-dados.ghtml",
@@ -9122,52 +8967,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Com esta empresa de construção vai faturar R$1,2 bilhão sem usar cimento e tijolo",
-      "summary": "Empresa aposta na expansão da rede, na capacitação de profissionais e na popularização do steel frame na construção civil brasileira",
-      "url": "https://exame.com/negocios/com-esta-empresa-de-construcao-vai-faturar-r12-bilhao-sem-usar-cimento-e-tijolo",
-      "published": "2026-07-25T14:28:51+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Material de Construção"
-      ],
-      "matched_aliases": [
-        "construção civil"
-      ],
-      "matches": [
-        {
-          "sector": "Material de Construção",
-          "alias": "construção civil",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "'Voluntárias da beleza' podem ganhar até R$ 10 mil para testar produtos; veja vídeo",
-      "summary": "Existe um lugar que Rosa Maria Mesquita Rodrigues, 59, conhece quase tão bem quanto a própria casa: as salas de avaliação da ALS (Australian Laboratory Services), multinacional australiana que realiza testes de produtos de beleza para grandes empresas, como Grupo Boticário , L'Occitane e Pierre Fabre . Leia mais (07/25/2026 - 13h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/voluntarias-da-beleza-podem-ganhar-ate-r-10-mil-para-testar-produtos-veja-video.shtml",
-      "published": "2026-07-25T16:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Acredite, o Leite Que Você Bebe É Agora a Nota Mais Inesperada no Seu Perfume",
@@ -10151,6 +9950,29 @@
         {
           "sector": "E-commerce",
           "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Comprar ou assinar: qual é a melhor opção para seu próximo smartphone",
+      "summary": "A próxima disputa da indústria de smartphones pode não estar nos recursos ou no design dos aparelhos, mas na forma como os consumidores têm acesso a eles. Com os dispositivos mais caros e o ritmo de renovação mais lento, fabricantes como Apple e Samsung começam a apostar em aluguel, assinaturas e programas de recompra. Nos Estados Unidos, a Apple lançou o Apple Upgrade em parceria com a empresa de pagamentos Klarna. O programa permite alugar iPhones por períodos de 12 ou 24 meses, com mensalidades a partir de US$ 17,99 (R$ 91). Macs, iPads e Apple Watches também estão disponíveis no serviço. Ao fim do contrato, o cliente pode devolver o aparelho, trocá-lo por uma versão mais recente ou pagar a diferença para adquiri-lo definitivamente. Caso escolha apenas devolvê-lo ou iniciar outro aluguel, o dispositivo continua pertencendo à empresa. A Samsung oferece uma proposta semelhante com o Galaxy Forever na Índia. O programa combina financiamento e valor de recompra garantido para facilitar a troca periódica dos celulares mais avançados da marca. No Brasil, as fabricantes ainda não oferecem diretamente esse tipo de serviço, mas bancos e empresas parceiras já disponibilizam aparelhos por assinatura. A iPlace, por exemplo, oferece o iPhone 17 Pro Max de 256 GB em um plano de 21 meses, com mensalidades de R$ 349. O Itaú também disponibiliza produtos da Apple em contratos de 21 meses, durante os quais o cliente paga o equivalente a 70% do valor do aparelho. Ao fim do período, é possível trocá-lo por um modelo mais recente, devolvê-lo ou pagar o saldo restante para ficar com o dispositivo. O Banco do Brasil, por sua vez, mantém uma parceria com a Leapfone para oferecer aparelhos da Apple, Samsung e Xiaomi por assinatura. As iniciativas surgem em um momento no qual os consumidores permanecem mais tempo com o mesmo aparelho, segundo o TechCrunch. A Counterpoint Research estima que o ciclo médio global de substituição de smartphones chegará a quatro anos em 2026, ante três anos e meio em 2025. Nos Estados Unidos, proprietários de modelos premium já ficam, em média, 42 meses com o dispositivo, segundo a IDC. iPhone 17 em loja da Apple Getty Images Lentidão para troca de aparelhos Entre os motivos estão a elevação dos preços, o encarecimento de componentes como os chips de memória e as melhorias mais graduais entre uma geração e outra. Como os aparelhos antigos continuam funcionando bem por mais tempo, muitos consumidores não encontram razões suficientes para substituí-los anualmente; Para as fabricantes, os programas de assinatura podem encurtar esse intervalo e tornar as receitas mais previsíveis. O modelo também abastece o mercado de aparelhos usados e recondicionados: os celulares devolvidos podem ser revisados e comercializados novamente, prolongando sua vida útil. Para o consumidor, a principal vantagem é o desembolso inicial menor e a possibilidade de usar modelos recentes sem pagar o valor integral de uma só vez. Por outro lado, a mensalidade não garante a propriedade do aparelho. Também podem existir cobranças por devolução antecipada ou por danos, além de um pagamento adicional para ficar com o dispositivo. A comparação entre compra e assinatura depende, portanto, dos hábitos de cada usuário. Quem troca de celular frequentemente pode encontrar mais previsibilidade no aluguel. Já quem utiliza o mesmo aparelho durante vários anos tende a obter maior vantagem financeira ao comprá-lo e conservar seu valor de revenda. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/08/comprar-ou-assinar-apple-e-samsung-apostam-em-aluguel-de-smartphones-para-acelerar-a-troca-de-aparelhos.ghtml",
+      "published": "2026-08-01T20:50:16+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "smartphones"
+      ],
+      "matches": [
+        {
+          "sector": "Eletrônicos",
+          "alias": "smartphones",
           "field": "lead",
           "score": 8,
           "topic": null
