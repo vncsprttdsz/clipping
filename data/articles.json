@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-02T10:28:22.400868+00:00",
-  "count": 341,
-  "new_this_run": 6,
+  "generated_at": "2026-08-02T10:58:53.387100+00:00",
+  "count": 343,
+  "new_this_run": 8,
   "articles": [
     {
       "title": "Anvisa aprova cinco novas canetas com semaglutida, princípio ativo do Ozempic",
@@ -8622,6 +8622,52 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Caneta emagrecedora pode desacelerar o envelhecimento biológico, diz estudo - Globo.com",
+      "summary": "Caneta emagrecedora pode desacelerar o envelhecimento biológico, diz estudo &nbsp;&nbsp; Globo.com",
+      "url": "https://revistamarieclaire.globo.com/google/amp/saude/noticia/2026/08/caneta-emagrecedora-pode-desacelerar-o-envelhecimento-biologico-diz-estudo.ghtml",
+      "published": "2026-08-02T09:01:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Itaú pressiona por acordo na disputa societária da Azzas - O GLOBO",
+      "summary": "Itaú pressiona por acordo na disputa societária da Azzas &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/08/itau-pressiona-por-acordo-na-disputa-societaria-da-azzas.ghtml",
+      "published": "2026-08-02T10:20:08+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
           "field": "title",
           "score": 20,
           "topic": null
