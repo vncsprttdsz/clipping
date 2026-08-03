@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T09:47:31.981224+00:00",
-  "count": 343,
-  "new_this_run": 13,
+  "generated_at": "2026-08-03T10:22:14.781337+00:00",
+  "count": 345,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Anvisa aprova cinco novas canetas com semaglutida, princípio ativo do Ozempic",
@@ -8617,6 +8617,52 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "RD Saúde quer testar potencial da beleza com uma Raia à la Boots - Brazil Journal",
+      "summary": "RD Saúde quer testar potencial da beleza com uma Raia à la Boots &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/rd-saude-quer-testar-potencial-da-beleza-com-uma-raia-a-la-boots",
+      "published": "2026-08-03T09:50:09+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "raia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "raia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "RD Saúde lança novo tipo de loja para vender de skincare coreano a perfumes árabes - Exame",
+      "summary": "RD Saúde lança novo tipo de loja para vender de skincare coreano a perfumes árabes &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/invest/mercados/rd-saude-lanca-novo-tipo-de-loja-para-vender-de-skincare-coreano-a-perfumes-arabes",
+      "published": "2026-08-03T10:08:01+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
           "field": "title",
           "score": 20,
           "topic": null
