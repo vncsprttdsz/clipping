@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-03T10:22:14.781337+00:00",
-  "count": 345,
-  "new_this_run": 6,
+  "generated_at": "2026-08-03T11:08:05.483827+00:00",
+  "count": 346,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Anvisa aprova cinco novas canetas com semaglutida, princípio ativo do Ozempic",
@@ -8617,6 +8617,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein revela prospecto de IPO em Hong Kong: investigações nos EUA e na Europa e pressão de tarifas - Estadão",
+      "summary": "Shein revela prospecto de IPO em Hong Kong: investigações nos EUA e na Europa e pressão de tarifas &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/einvestidor/cenarios-e-mercado/com-prospecto-censurado-shein-faz-ipo-em-hong-kong-sob-efeitos-de-tarifas-e-pressao-de-eua-e-europa",
+      "published": "2026-08-03T09:45:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
           "field": "title",
           "score": 20,
           "topic": null
