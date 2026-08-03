@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T12:10:39.870064+00:00",
-  "count": 345,
+  "generated_at": "2026-08-03T12:51:34.256972+00:00",
+  "count": 342,
   "new_this_run": 6,
   "articles": [
     {
@@ -3830,43 +3830,66 @@
       "score": 40.0
     },
     {
-      "title": "Como CEOs Estão Preparando Empresas para a Reforma Tributária",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. À espera do novo cronograma operacional, empresas revisam contratos, fornecedores, projeções de caixa e cláusulas de M&#038;A para a implantação do IBS e da CBS O post Como CEOs Estão Preparando Empresas para a Reforma Tributária apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/07/como-ceos-preparam-empresas-reforma-tributaria",
-      "published": "2026-07-30T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
+      "title": "Via-crúcis, funeral, luto pelo CTN e o poder do sistema CBS/IBS na EC 132/23",
+      "summary": "Será doloroso aceitar a completa incompatibilidade da EC 132/23 com o Código Tributário Nacional",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/via-crucis-funeral-luto-pelo-ctn-e-o-poder-do-sistema-cbs-ibs-na-ec-132-23",
+      "published": "2026-08-03T12:02:57+00:00",
+      "source": "https://www.jota.info/feed",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
         "cbs",
-        "ibs",
-        "reforma tributária"
+        "ibs"
       ],
       "matches": [
         {
           "sector": "Economia",
           "alias": "ibs",
-          "field": "lead",
-          "score": 8,
+          "field": "title",
+          "score": 20,
           "topic": "reforma_tributaria"
         },
         {
           "sector": "Economia",
           "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
         }
       ],
-      "score": 36.0
+      "score": 40.0
+    },
+    {
+      "title": "Dois homens são presos suspeitos de roubar canetas emagrecedoras em farmácias de João Pessoa - G1",
+      "summary": "Dois homens são presos suspeitos de roubar canetas emagrecedoras em farmácias de João Pessoa &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/pb/paraiba/noticia/2026/08/03/dois-homens-sao-presos-suspeitos-de-roubar-canetas-emagrecedoras-em-farmacias-de-joao-pessoa.ghtml",
+      "published": "2026-08-03T12:14:46+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
     },
     {
       "title": "Profarma triplica lucro no 2º trimestre com impacto da integração da 4Bio",
@@ -4926,37 +4949,6 @@
       "score": 24.0
     },
     {
-      "title": "Durigan diz que poderá propor a Lula revisão da isenção da ‘taxa das blusinhas’ se perceber impacto na indústria",
-      "summary": "O ministro da Fazenda, Dario Durigan, afirmou nesta segunda-feira (27) que poderá propor ao presidente Luiz Inácio Lula da Silva uma revisão da decisão de extinguir a chamada \"taxa das blusinhas\", caso o governo identifique que as importações estejam afetando a indústria nacional. “Estamos fazendo período de amostragem para ver qual impacto [do fim da taxa das blusinhas]. E temos visto que tem aumentado a importação desses produtos. Como a gente já tem todo controle, a qualquer momento que a gente perceber que está fora dos padrões e gerando falta de isonomia para a produção nacional, é possível propor ao presidente uma mudança desse cenário”, disse em entrevista à Rádio Jornal de Pernambuco. O ministro reforçou que a equipe econômica tem acompanhado de perto a trajetória das importações em decorrência do fim da taxa das blusinhas para monitorar o cenário. Em maio, o presidente Lula editou uma Medida Provisória (MP) que zerou o imposto de importação de 20% para compras de até US$ 50 em sites como Shein, Shopee e AliExpress. A proposta foi anunciada em meio à preocupação do governo com o impacto eleitoral da cobrança. A medida desagradou empresas brasileiras afetadas pelo aumento da concorrência de produtos importados. Agora, as novas tarifas impostas pelo governo de Donald Trump reforçaram a mobilização do setor para tentar reverter, no Congresso, a decisão de zerar a tributação ou, ao menos, aprovar medidas compensatórias. Ministro da Fazenda, Dario Durigan Wenderson Araujo/Valor",
-      "url": "https://valor.globo.com/brasil/noticia/2026/07/27/durigan-diz-que-podera-propor-a-lula-revisao-da-isencao-da-taxa-das-blusinhas-se-perceber-impacto-na-industria.ghtml",
-      "published": "2026-07-27T12:25:30+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "aliexpress",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "aliexpress",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 22.0
-    },
-    {
       "title": "Vendas da LVMH avançam com demanda dos EUA compensando impacto da guerra no Irã",
       "summary": "A gigante do setor de luxo LVMH informou nesta segunda-feira (27) um aumento nas vendas trimestrais, à medida que a forte demanda nos Estados Unidos ajudou a compensar gastos mais fracos na Europa e na região do Golfo Pérsico devido à guerra com o Irã. As vendas do segundo trimestre da proprietária das marcas Louis Vuitton, Dior e Bulgari cresceram 3%, ajustadas pelas variações cambiais, para 19,5 bilhões de euros (US$ 22,2 bilhões), em linha geral com a estimativa consensual dos analistas, segundo a Visible Alpha. O crescimento foi impulsionado pelos Estados Unidos, onde as vendas avançaram 6% no segundo trimestre, após alta de 3% nos três primeiros meses do ano, informou a LVMH. As marcas europeias de luxo têm intensificado seu foco nos Estados Unidos, abrindo lojas e promovendo eventos de moda para atrair consumidores de alta renda beneficiados pelo “boom” da inteligência artificial e da tecnologia, enquanto a demanda permanece moderada em outras regiões. No entanto, a atualização da LVMH — o primeiro grande grupo de luxo a divulgar resultados do primeiro semestre — pode não ser suficiente para convencer os investidores de que o setor de luxo, avaliado em 400 bilhões de euros, está, finalmente, saindo de uma desaceleração que já dura dois anos. Crescimento abaixo das expectativas A divisão de moda e artigos de couro, responsável pela maior parte do lucro operacional da LVMH, registrou crescimento orgânico de 1%. Foi o primeiro avanço trimestral da unidade em dois anos, mas ficou abaixo das expectativas dos analistas, que projetavam alta de 1,7%. A LVMH afirmou que a guerra com o Irã reduziu o crescimento da divisão em um ponto percentual, mas acrescentou que a Dior está ganhando impulso sob a direção do novo diretor criativo, Jonathan Anderson. Na Europa, as vendas ficaram estáveis no trimestre, após uma queda nos três primeiros meses do ano, à medida que o conflito no Oriente Médio afetou o turismo. No primeiro semestre, as vendas aumentaram 2% em base orgânica, mas recuaram 3% em termos reportados, para 38,6 bilhões de euros. No mesmo período, o lucro operacional recorrente caiu 4%, para 8,7 bilhões de euros, embora a margem operacional tenha permanecido praticamente estável em 22,5%. As ações do grupo francês, controlado pelo bilionário Bernard Arnault, acumulam queda de 28% desde o início do ano, tornando a LVMH uma das ações de grande capitalização com pior desempenho na Europa. LVMH Bloomberg",
       "url": "https://valor.globo.com/empresas/noticia/2026/07/27/vendas-da-lvmh-avancam-com-demanda-dos-eua-compensando-impacto-da-guerra-no-ira.ghtml",
@@ -5050,75 +5042,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Contrabando de canetas emagrecedoras do Paraguai quase triplica - G1",
-      "summary": "Contrabando de canetas emagrecedoras do Paraguai quase triplica &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/bom-dia-brasil/video/contrabando-de-canetas-emagrecedoras-do-paraguai-quase-triplica-14814082.ghtml",
-      "published": "2026-07-27T12:12:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Shein registra prejuízo no 1º trimestre com desaceleração nas vendas antes de abertura de capital",
-      "summary": "A Shein registrou prejuízo no primeiro trimestre em meio à desaceleração das vendas, enquanto a gigante de “fast fashion” se prepara para uma planejada listagem de suas ações na Bolsa de Hong Kong. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/27/shein-registra-prejuizo-no-1o-trimestre-com-desaceleracao-nas-vendas-antes-de-abertura-de-capital.ghtml",
-      "published": "2026-07-27T12:21:36+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Americanas diz que arbitragem extinguiu processo de R$ 500 milhões contra varejista",
-      "summary": "A Americanas disse nesta segunda-feira (27) que um processo de R$ 500 milhões contra a empresa foi encerrado na câmara de arbitragem da B3, depois que os requerentes entraram com um pedido de desistência. Leia mais (07/27/2026 - 09h44)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/americanas-diz-que-arbitragem-extinguiu-processo-contra-a-companhia-por-desistencia.shtml",
-      "published": "2026-07-27T12:44:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "americanas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "americanas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Canetas emagrecedoras e queda de cabelo: estudo lança luz sobre esse possível efeito - VEJA",
