@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-04T11:19:41.139109+00:00",
-  "count": 342,
-  "new_this_run": 10,
+  "generated_at": "2026-08-04T11:48:32.766322+00:00",
+  "count": 344,
+  "new_this_run": 8,
   "articles": [
     {
       "title": "Anvisa aprova cinco novas canetas com semaglutida, princípio ativo do Ozempic",
@@ -5111,29 +5111,6 @@
       "score": 22.0
     },
     {
-      "title": "Mais de 160 mil canetas emagrecedoras são apreendidas no Brasil - G1",
-      "summary": "Mais de 160 mil canetas emagrecedoras são apreendidas no Brasil &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/go/goias/videos-bom-dia-go/video/mais-de-160-mil-canetas-emagrecedoras-sao-apreendidas-no-brasil-14817277.ghtml",
-      "published": "2026-07-28T11:24:02+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "S&P corta perspectiva de notas de crédito da Natura para negativa em meio a gargalos operacionais e queda na receita",
       "summary": "A S&amp;P Global Ratings cortou a perspectiva da nota de crédito global “BB” da Natura de estável para negativa, enquanto a S&amp;P National Ratings fez o mesmo movimento para a nota nacional “brAAA”. Os analistas das agências de avaliação de crédito escrevem que alteração reflete os desafios contínuos da companhia para melhorar sua geração de caixa e rentabilidade, apontando para um risco de rebaixamento nas notas nos próximos 12 a 18 meses. A deterioração do cenário da companhia baseia-se em uma combinação de entraves operacionais e demanda enfraquecida, que vêm ameaçando a liderança de mercado da Natura no Brasil. A implementação de novos sistemas internos, como o SAP, e a realocação de linhas de produção após o fechamento da fábrica de Interlagos geraram gargalos de suprimento e escassez de produtos. Esse revés logístico, somado à inflação e ao consumo retraído que afetam a renda disponível, resultou em uma queda significativa nos volumes do canal de venda direta, responsável por 85% a 90% do faturamento da gigante de cosméticos. A complexidade na integração entre as marcas Natura e Avon também continua sendo um forte ponto de atenção para os analistas, mantendo um cenário de custos de reestruturação persistentes e sinergias mais lentas que o esperado. Apesar da piora operacional que levou a S&amp;P a reclassificar a nota, eles ressaltam que a Natura mantém um colchão de liquidez robusto e flexibilidade financeira satisfatória para enfrentar o atual momento. As vendas recentes da Aesop e da The Body Shop injetaram cerca de R$ 14 bilhões no caixa, recursos que foram utilizados para o pré-pagamento de dívidas e alongamento de prazos, deixando a empresa sem vencimentos significativos até o ano de 2028. A agência também avalia como um fator importante o recente ingresso da Advent, com a expectativa que a gestora utilize sua vasta experiência em varejo para apoiar a atual estratégia de fortalecimento da execução e retomada do crescimento da Natura. Divulgação/Natura",
       "url": "https://valor.globo.com/empresas/noticia/2026/07/28/sp-corta-perspectiva-de-notas-de-crdito-da-natura-para-negativa-em-meio-a-gargalos-operacionais-e-queda-na-receita.ghtml",
@@ -8377,6 +8354,52 @@
       "score": 20.0
     },
     {
+      "title": "IPO da Shein: empresa reduz valuation às vésperas da estreia na bolsa",
+      "summary": "Varejista de moda mira estreia na Bolsa de Hong Kong com avaliação entre US$ 30 bilhões e US$ 40 bilhões, bem abaixo do pico de 2022",
+      "url": "https://exame.com/invest/mercados/ipo-da-shein-empresa-reduz-valuation-as-vesperas-da-estreia-na-bolsa",
+      "published": "2026-08-04T08:13:59+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Pfizer tops quarterly estimates, hikes low end of revenue guidance on strength of non-Covid products",
+      "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
+      "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
+      "published": "2026-08-04T11:13:24+00:00",
+      "source": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "pfizer"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "pfizer",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Basic Materials Roundup: Market Talk",
       "summary": "Find insight on gold and silver prices, palm oil, Air Liquide and more in the latest Market Talks covering Basic Materials.",
       "url": "https://www.wsj.com/business/basic-materials-roundup-market-talk-f6d05f97?mod=rss_markets_main",
@@ -8878,6 +8901,47 @@
         {
           "sector": "Pet",
           "alias": "cobasi",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 12.0
+    },
+    {
+      "title": "Agenda de empresas: Lucro da ISA Energia recua 32%; ganho do BB Seguridade soma R$ 2,15 bi",
+      "summary": "ISA Energia A ISA Energia Brasil encerrou o segundo trimestre do ano com um lucro líquido regulatório de R$ 174 milhões, montante que representa uma redução de 32% ante o verificado em igual etapa do ano passado. A teleconferência será realizada às 10h. BB Seguridade A BB Seguridade encerrou o segundo trimestre com lucro gerencial de R$ 2,15 bilhões, o que representa uma queda de 6,5% ante o registrado no mesmo período de 2025. A teleconferência será realizada às 11h. Pague Menos A Pague Menos apresentou um lucro líquido de R$ 71,1 milhões no segundo trimestre de 2026, representando uma melhora anual de 41,6%. A teleconferência será realizada às 10h. Marcopolo A Marcopolo registrou lucro líquido de R$ 272,4 milhões no segundo trimestre de 2026, representando uma piora de 14,7% ante o resultado do mesmo período de 2025. A teleconferência será realizada às 9h. BradSaúde A Bradsaúde, nova empresa que reúne os negócios de saúde do Grupo Bradesco, registrou um lucro líquido de R$ 1,1 bilhão, alta de 24,8% na comparação anual. A teleconferência será realizada às 11h. Tegma A Tegma, empresa do ramo de logística, apresentou um lucro líquido de R$ 83,1 milhões no segundo trimestre de 2026, representando alta de 23,8% em um ano. A teleconferência será realizada às 15h. Cogna A Cogna Educação anunciou que o conselho de administração da Vasta Platform Limited, sua controlada, aprovou a sua incorporação pela Somos Sistemas de Ensino, sua controlada indireta. Motiva Grupo Soares Penido, Votorantim e Itaúsa manifestaram ao Grupo Mover a intenção de renovar o acordo de acionistas da Motiva. IMC A International Meal Company (IMC) concluiu a venda da subsidiária RA Catering, que fornece refeições para companhias aéreas, à Aerovip, por R$ 20 milhões. Paranapanema A Paranapanema, companhia em recuperação judicial, informou que seu conselho de administração homologou parcialmente um aumento de capital por meio da subscrição privada de ações Balanços A C&amp;A, CBA, Gerdau, GPA, Iguatemi, Itaú Unibanco, Prio, RD Saúde, Tenda e Vulcabras divulgam seus resultados trimestrais após o fechamento do mercado. No exterior, são esperados os resultados da Aramco, Archer Daniels Midland (ADM), Bayer, BP, Caterpillar, Continental, DuPont, Eve, HSBC, Kimberly-Clark, Lufthansa, McDonald’s, Nippon Steel, Pfizer, Spotify, Toyota, AMD, Latam, Mattel, Mosaic, Paramount Skydance, SpaceX e Ternium. Pexels",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/04/agenda-de-empresas-lucro-da-isa-energia-recua-32percent-ganho-do-bb-seguridade-soma-r-215-bi.ghtml",
+      "published": "2026-08-04T11:16:35+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias",
+        "Wellness e Esportes",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "pague menos",
+        "pfizer",
+        "vulcabras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "pague menos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "vulcabras",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "pfizer",
           "field": "body",
           "score": 2,
           "topic": null
