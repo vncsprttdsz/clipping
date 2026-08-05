@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T06:58:44.622229+00:00",
-  "count": 353,
-  "new_this_run": 61,
+  "generated_at": "2026-08-05T09:20:06.865834+00:00",
+  "count": 344,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Anvisa aprova cinco novas canetas com semaglutida, princípio ativo do Ozempic",
@@ -770,53 +770,6 @@
       "score": 70.0
     },
     {
-      "title": "Anvisa aprova cinco novas canetas emagrecedoras com semaglutida no Brasil",
-      "summary": "Com a decisão, a Anvisa chega a seis medicamentos aprovados no edital criado para acelerar o registro de versões sintéticas de agonistas de GLP-1 e ampliar a oferta desses tratamentos no Brasil",
-      "url": "https://exame.com/brasil/anvisa-aprova-cinco-novas-canetas-emagrecedoras-com-semaglutida-no-brasil",
-      "published": "2026-07-29T07:21:36+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "glp-1",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 68.0
-    },
-    {
       "title": "Tiffany & Co. Estende a Colaboração com o Estúdio Campana em Nova Pop-up Store",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com fachada inspirada nas ondas do mar, a joalheria abriu o novo espaço no shopping JK Iguatemi O post Tiffany &amp; Co. Estende a Colaboração com o Estúdio Campana em Nova Pop-up Store apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-life/2026/08/tiffany-co-estende-a-colaboracao-com-o-estudio-campana-em-nova-pop-up-store",
@@ -964,45 +917,6 @@
         }
       ],
       "score": 62.0
-    },
-    {
-      "title": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida - G1",
-      "summary": "Anvisa aprova registro de 5 novas canetas emagrecedoras à base de semaglutida &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/saude/noticia/2026/07/29/anvisa-aprova-registro-de-5-novos-medicamentos-a-base-de-semaglutida.ghtml",
-      "published": "2026-07-29T07:12:26+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Anvisa aprova cinco novas canetas emagrecedoras de semaglutida - CNN Brasil",
@@ -2162,6 +2076,45 @@
       "score": 48.0
     },
     {
+      "title": "Comitê estima alíquota de IBS e CBS em 28%, acima do teto previsto na reforma",
+      "summary": "O CGIBS (Comitê Gestor do Imposto sobre Bens e Serviços) publicou resolução em que estima a alíquota de referência do novo sistema de tributação sobre o consumo, composto por IBS (Imposto sobre Bens e Serviços) e CBS (Contribuição sobre Bens e Serviços), em 27,91%, após a transição que vai até 2033. O percentual é superior ao teto de 26,5% previsto na regulamentação da reforma tributária . Leia mais (08/05/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/comite-estima-aliquota-de-ibs-e-cbs-em-28-acima-do-teto-previsto-na-reforma.shtml",
+      "published": "2026-08-05T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Valor Inovação:  Mercado Livre é destaque no setor de comércio",
       "summary": "O Mercado Livre foi a empresa mais inovadora no setor de comércio, segundo a pesquisa Valor Inovação Brasil 2026, realizada pelo Valor e pela Época Negócios, em parceria com a Strategy&, da PWC, responsável pelo desenvolvimento da metodologia e aplicação da pesquisa e elaboração do ranking. Além do Mercado Livre, Lojas Renner, Comexport, C&amp;A e Grupo Panvel completam o Top 5 da inovação no setor. O anuário Valor Inovação Brasil 2026 aponta quais empresas lideram esse quesito em 26 setores da economia. A metodologia destaca até cinco organizações em cada área de atividade — neste ano, 283 empresas se inscreveram na pesquisa, sendo que 270 foram elegíveis. André de Castilho Costa Pinto, diretor senior de Marketplace do Mercado Livre Gabriel Reis / Valor",
       "url": "https://valor.globo.com/inovacao/noticia/2026/08/03/valor-inovao-mercado-livre-destaque-no-setor-de-comrcio.ghtml",
@@ -2248,99 +2201,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Gucci beat sparks Kering rally as luxury rivals fail to impress - Reuters",
-      "summary": "Gucci beat sparks Kering rally as luxury rivals fail to impress &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/guccis-quarterly-sales-beat-set-boost-kering-shares-2026-07-29",
-      "published": "2026-07-29T06:59:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gucci",
-        "kering"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "kering",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "gucci",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Kering’s shares rise 11% after Gucci owner returns to growth",
-      "summary": "Strong demand for jewellery and eyewear delivers luxury group’s first sales increase in three years",
-      "url": "https://www.ft.com/content/afdf9b5d-48bf-4792-85f0-cbde9a8c9031?syn-25a6b1a6=1",
-      "published": "2026-07-29T08:11:12+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gucci",
-        "kering"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "kering",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "gucci",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Vendas da Hermès aceleram com recuperação do setor de luxo",
-      "summary": "A Hermès informou que o crescimento das vendas acelerou no segundo trimestre, tornando a fabricante das bolsas Birkin o mais recente sinal de que as empresas de luxo podem estar deixando para trás anos de demanda fraca. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/29/vendas-da-herms-aceleram-com-recuperao-do-setor-de-luxo.ghtml",
-      "published": "2026-07-29T08:22:29+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "hermes",
-        "hermès"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "hermes",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "hermès",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Procedimentos estéticos e canetas emagrecedoras inspiram Eudora para “Dia do Batom” - InfoMoney",
@@ -4282,54 +4142,6 @@
       "score": 36.0
     },
     {
-      "title": "Vinted: conheça o e-commerce de roupas usadas que cobra comissão do comprador e quer globalizar o modelo a partir dos EUA",
-      "summary": "Thomas Plantenga diz, sem qualquer constrangimento, que vem \"roubando\" ideias de empresas do mundo inteiro. O CEO da Vinted, maior marketplace de moda entre consumidores europeus (C2C), afirma que aproveitou livremente estratégias de diversas companhias para construir uma plataforma on-line que hoje está transformando a indústria da moda da região, avaliada em € 500 bilhões (US$ 573 bilhões). Agente descontrolado da OpenAI que 'hackeou' startup fez outra vítima: invasão de conta de segunda empresa foi identificada Desenrola 2.0: ministro confirma prorrogação do programa, que já renegociou R$ 22 bi em dívidas \"Li uma enorme quantidade de relatórios de empresas como Amazon, Mercado Livre, Mercari e Costco sobre como funcionam e o que fazem, e selecionamos os melhores elementos das melhores empresas do mundo para construir um marketplace transacional C2C como ninguém jamais havia criado\", disse o executivo holandês de 42 anos durante uma entrevista na sede da Vinted, localizada em um prédio de quatro andares no coração de Vilnius, capital da Lituânia. O escritório da Vinted fica a poucos minutos de caminhada do centro histórico da cidade, em uma região onde antigas fábricas da era soviética convivem com lofts descolados, polos criativos e modernos centros empresariais. Sentado em uma sala de reuniões cercada por paredes de vidro, usando bermuda jeans e mocassins de couro, Plantenga demonstra tranquilidade e não tem pressa naquele dia de julho. Aplicativo da Depop - eBay comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados Gabby Jones/Bloomberg O ambiente ao redor transmite a mesma atmosfera: funcionários — muitos vindos dos escritórios europeus da empresa para o encontro anual de verão — conversam descontraidamente enquanto tomam café nas áreas comuns. Pela primeira vez: Brasil torna-se maior importador global de carros chineses com US$ 5,2 bilhões em compras Fundada em 2008 como uma plataforma para pessoas comprarem e venderem roupas usadas, a Vinted criou um marketplace tão poderoso que, ao lado de alguns concorrentes, vem reduzindo as vendas de marcas de moda e de luxo. Segundo o relatório State of Fashion 2026, da McKinsey, o mercado de segunda mão crescerá entre duas e três vezes mais rápido do que o mercado de produtos novos entre 2025 e 2027, à medida que consumidores mais econômicos buscam melhores oportunidades. \"O risco para todo o setor é que as roupas de segunda mão canibalizem as vendas de peças novas\", escreveram analistas do RBC Capital Markets em relatório divulgado neste mês. Eles também destacaram que diversas marcas internacionais estão correndo para reduzir esse impacto, criando suas próprias ofertas de revenda. Taxa das blusinhas: ministro da Fazenda diz que pode propor a Lula volta da taxação se importações afetarem indústria nacional Com o desaparecimento do preconceito em relação à compra e venda de roupas usadas, celebridades como Paris Hilton, Paul Mescal e Chloë Sevigny falam abertamente sobre suas vendas nessas plataformas. No popular podcast Table Manners, a cantora Suki Waterhouse contou que é assim que compra roupas vintage. \"Eu adoro a Vinted\", afirmou. À medida que a necessidade econômica e uma nova geração mais preocupada com sustentabilidade reduzem o estigma em torno das roupas usadas, cerca de 60% dos consumidores globais devem comprar produtos de revenda neste ano, segundo estimativas da McKinsey, com base em dados da ThredUp e da GlobalData. Na China, esse percentual é ainda maior, ultrapassando 70%, impulsionado pela procura por produtos premium e de marcas conhecidas a preços mais acessíveis. Após fim da 'taxa das blusinhas': Compras em e-commerces internacionais mais que dobram A consultoria estima que o mercado global de roupas de segunda mão alcance US$ 317 bilhões até 2027, um crescimento de 23% em relação ao ano passado. Segundo o relatório, a escala alcançada por essas plataformas e os avanços tecnológicos levaram o setor a um \"ponto de inflexão\", permitindo transformar milhões de transações em negócios lucrativos. \"O verdadeiro motor desse crescimento é o consumidor\", afirma Poonam Goyal, analista sênior de varejo da Bloomberg Intelligence. Segundo ele, depois de anos de inflação, os compradores passaram a dar muito mais importância ao custo-benefício, enquanto as gerações mais jovens enxergam a compra de produtos usados como algo absolutamente normal. A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão, diz Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Reprodução de internet \"As pessoas têm orgulho de comprar itens de revenda. Elas gostam de mostrar o bom negócio que encontraram. É uma mentalidade completamente diferente.\" A Vinted lidera esse movimento na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma. Essa escala lhe deu massa crítica suficiente para permanecer à frente dos concorrentes. Analistas do Wells Fargo, liderados por Ken Gawrelski, classificam a empresa como \"uma força disruptiva no comércio C2C\" da Europa Ocidental. Entenda: Por que a Shein, símbolo do 'fast fashion', comprou uma marca de moda sustentável nos EUA? Avaliada em € 8 bilhões durante uma venda secundária de ações neste ano, a companhia tem entre seus investidores EQT, BlackRock, Ontario Teachers' Pension Plan e Schroders Capital, além de se preparar para o que pode ser uma das maiores ofertas públicas iniciais (IPO) de uma empresa de tecnologia na Europa nos últimos anos. Embora ainda não tenha sido tomada uma decisão sobre bancos coordenadores, cronograma ou bolsa de valores onde as ações serão listadas, a Vinted já se prepara para esse momento há bastante tempo, afirma Carolina Brochado, sócia da gestora sueca de private equity EQT e integrante do conselho da plataforma. Por enquanto, porém, a administração da empresa continua concentrada em expandir o negócio, em vez de correr para abrir capital, acrescenta ela. Investimento: 99 lança 99Compras, serviço de entrega para supermercados e farmácias, em São Paulo O desafio mais imediato de Plantenga é conquistar o mercado americano. \"No meio de uma expansão nos Estados Unidos, você não faz um IPO. Isso seria uma loucura\", afirma. A expansão nos EUA coloca a Vinted frente a frente com rivais já consolidados, incluindo o “pioneiro” do setor, o eBay — que este ano comprou a plataforma de moda Depop por cerca de US$ 1,2 bilhão para fortalecer sua oferta de produtos usados —, o Facebook Marketplace, a Poshmark e a ThredUp. \"Se realmente conseguiremos competir e vencer nesse mercado ainda é uma grande incógnita\", diz Plantenga, recusando-se a revelar detalhes sobre os planos da empresa para o país. Segundo ele, a Vinted ainda está em fase inicial de testes nos Estados Unidos, mas os primeiros resultados são animadores. Analistas do Wells Fargo que acompanham o eBay escreveram, em relatório divulgado em julho, que o número de usuários ativos diários da Vinted nos EUA cresceu mais de seis vezes no segundo trimestre em comparação com o mesmo período do ano anterior, após sua entrada no mercado americano em janeiro. O crescente interesse mundial pela moda de revenda estimulou o surgimento de inúmeros concorrentes. Entre eles estão plataformas como a japonesa Mercari; as britânicas Hardly Ever Worn It e Depop; a francesa Vestiaire Collective; a americana The RealReal, entre várias outras. Muitas delas, porém, ainda enfrentam dificuldades para transformar a forte demanda em lucros consistentes. A Vestiaire Collective espera registrar seu primeiro lucro anual apenas em 2026, mais de quinze anos depois de sua fundação. A Vinted lidera o movimento de revenda de itens usados na Europa graças aos investimentos pesados em logística, pagamentos e tecnologia, atraindo cada vez mais compradores e vendedores para sua plataforma Bloomberg Na Ásia, uma das regiões de crescimento mais acelerado do setor, plataformas como Idle Fish, apoiada pelo Alibaba, Poizon, Mercari e Kream vêm expandindo rapidamente suas operações. Um dos maiores desafios para essas empresas é garantir acesso suficiente ao estoque de produtos, seja por meio de marcas que desejam liquidar excedentes de produção, seja por pessoas interessadas em ganhar dinheiro com itens que não usam mais. Depois de assumir o comando da empresa em 2016, Plantenga reformulou profundamente o modelo de negócios da Vinted. A mudança mais importante foi eliminar as taxas cobradas dos vendedores e passar a cobrar dos compradores. Essa estratégia atraiu mais vendedores, aumentou a liquidez do marketplace e criou as bases para a rentabilidade da empresa, permitindo que a Vinted investisse pesadamente em sua infraestrutura — hoje considerada pelos investidores seu principal diferencial competitivo. Em 2025, a Vinted movimentou € 10,8 bilhões em mercadorias, um crescimento de 47% em relação ao ano anterior. A receita aumentou 38%, chegando a € 1,1 bilhão. Já o lucro líquido caiu 19%, para € 62 milhões, devido à aceleração dos investimentos na Alemanha e na Vinted Go, sua operação de logística. Mesmo assim, essa redução no lucro não impediu que os investidores avaliassem a empresa em € 8 bilhões neste ano, acima dos € 5 bilhões registrados em 2024. A EQT, da Suécia, que investiu pela primeira vez na Vinted em 2021 e continua sendo um de seus maiores acionistas, acredita que a vantagem competitiva da empresa já vai muito além do mercado de roupas usadas. Segundo Carolina Brochado, a Vinted se parece cada vez mais com gigantes de marketplace como Airbnb, Uber e Mercado Livre, graças aos seus efeitos de rede, à infraestrutura tecnológica e ao ecossistema de serviços em constante expansão. \"A Vinted tem potencial para se tornar a Amazon do mercado de segunda mão\", afirma. Enquanto isso, a empresa continua ampliando sua presença na Europa e expandindo para novas categorias de produtos, como eletrônicos, livros e brinquedos. Por meio da Vinted Go, ela já opera mais de 18 mil pontos de coleta e entrega espalhados pela Europa, incluindo armários inteligentes (lockers) e lojas parceiras. Já a Vinted Pay amplia sua atuação para o segmento de pagamentos. O modelo da Vinted é simples: vender na plataforma é gratuito para o vendedor, que fica com 100% do valor anunciado. Basta tirar fotos dos itens que deseja vender, adicionar uma descrição, definir o preço e publicar o anúncio no aplicativo. Quando um comprador efetua a compra, a Vinted cobra dele uma pequena taxa de serviço e fornece ao vendedor uma etiqueta de envio pré-paga. O vendedor embala o produto e o entrega em um ponto de coleta. Assim que o comprador confirma o recebimento, a Vinted libera o dinheiro para a carteira virtual do vendedor. Erika Orlovskiene, mãe de dois filhos que mora em Vilnius, usa a Vinted há quase dez anos para comprar e vender de tudo: roupas infantis, vestidos, livros e até um aquário. \"Crianças crescem muito rápido e as roupas se acumulam num instante. O que fazer com peças que foram usadas tão pouco?\", diz ela, estimando que economizou \"milhares de euros\" ao longo dos anos. \"Não se trata apenas de economizar, mas também de sustentabilidade.\" À medida que sua base de usuários cresceu, a Vinted direcionou grandes investimentos para construir sua própria infraestrutura de logística, seus sistemas de pagamento e seus softwares de atendimento ao cliente. A empresa chega até mesmo a operar seus próprios servidores, em vez de utilizar serviços de computação em nuvem. Plantenga reconhece que esses investimentos não são exatamente glamourosos, mas afirma que eles sustentam a vantagem de custos da empresa. \"Tudo o que a Vinted faz na área de logística e de pagamentos existe para fortalecer o marketplace\", afirma Carolina Brochado, da EQT. Segundo ela, custos menores por transação beneficiam os consumidores e, ao mesmo tempo, reforçam a economia do negócio. É justamente esse modelo que a empresa pretende levar para os Estados Unidos. Ainda não está claro, porém, se a cobrança de uma taxa ao comprador será bem recebida pelos consumidores americanos. Para Poonam Goyal, da Bloomberg Intelligence, os compradores nos EUA tendem a resistir muito mais a esse tipo de cobrança, especialmente quando ela aparece separadamente do preço anunciado. Mas, segundo ela, \"se a Vinted conseguir fazer esse modelo funcionar nos Estados Unidos, poderá estabelecer um novo padrão para o mercado, que os concorrentes talvez acabem adotando, tornando todo o setor mais lucrativo.\" Plantenga diz que já observa sinais dessa mudança.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/07/29/vinted-conheca-o-e-commerce-de-roupas-usadas-que-cobra-comissao-do-comprador-e-quer-globalizar-o-modelo-a-partir-dos-eua.ghtml",
-      "published": "2026-07-29T07:00:38+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "costco",
-        "e-commerce",
-        "marketplace",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "e-commerce",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "costco",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 32.0
-    },
-    {
       "title": "Full da Shopee cresce 15x e impulsiona PMEs",
       "summary": "A Shopee registrou crescimento de 15 vezes no número de pedidos processados por meio de suas operações de fulfillment no último ano, consolidando o modelo como uma das principais estratégias para pequenos e médios negócios, além de grandes marcas, escalarem com eficiência. Parte desse crescimento está associada à capacidade do Full em otimizar a experiência de compra do consumidor, garantindo entregas até três vezes mais rápidas do que os modelos convencionais. Isso acontece porque os produtos são armazenados nos centros logísticos Fulfillment da Shopee, o que reduz etapas de envio após a compra. Essa agilidade ajuda os vendedores a atender melhor às expectativas dos consumidores por entregas rápidas e confiáveis. Além da velocidade, os itens que participam do Full têm acesso a campanhas e cupons exclusivos da modalidade, entre outros incentivos, o que amplia sua visibilidade na plataforma, um fator que pode multiplicar por cinco o volume de pedidos em comparação aos produtos fora do programa. \"O Full permite que os empreendedores escalem suas vendas sem a necessidade de novos investimentos, uma vez que cuidamos do armazenamento, separação, embalagem, envio e devoluções dos produtos. Com isso, os vendedores economizam o tempo gasto no gerenciamento das atividades do dia a dia para focar em iniciativas estratégicas para o crescimento de seus negócios, como a ampliação do seu portfólio\", afirma Felipe Lima, Diretor de Desenvolvimento de Negócios e Operações de Fulfillment da Shopee. Vendedores que escalam seus negócios com o Full A Essencial Baby, loja especializada em produtos infantis e de maternidade que fatura cerca de R$ 3 milhões por mês na Shopee, é uma das vendedoras que têm visto seus negócios ganharem uma nova escala com o Full ao garantir agilidade no envio das encomendas. \"Hoje a Shopee envia mais de 800 pedidos por dia da minha loja, sem que eu precise separar ou embalar. Tenho a Shopee trabalhando 24 horas, em qualquer dia da semana, para entregar o pedido ao meu cliente.\", afirma Kathleen Moura, fundadora da Essencial Baby. Já a Movelove, loja online especializada em móveis, aumentou as vendas sem ter que ampliar a sua operação proporcionalmente. Apenas entre abril e maio deste ano, a empresa registrou um crescimento de vendas de cerca de 50% e R$ 800 mil em faturamento, o maior resultado da sua história no marketplace. \"O Full nos permitiu crescer de forma escalável, enquanto direcionamos nossos esforços para o desenvolvimento do negócio e para oferecer uma experiência cada vez melhor aos nossos clientes\", disse Leonardo Pereira da Silva, Gestor da Operação da Movelove. Expansão da operação O Full vem sendo continuamente expandido pelo marketplace para atender um número cada vez maior de vendedores e ampliar a capacidade da operação. Em 2026, a Shopee inaugurou três novos centros de fulfillment, alcançando cinco unidades em operação no Brasil, localizadas em São Paulo, Pernambuco, Goiás, Minas Gerais e Rio Grande do Sul. Esses complexos operam integrados à malha logística robusta da Shopee, que hoje soma 26 centros de distribuição (CDs) e mais de 200 hubs de primeira e última milha, cobrindo o território nacional de ponta a ponta. Programa de incentivos Full+ Para oferecer ainda mais oportunidades de crescimento para os vendedores, a companhia lançou em junho o Full+, programa de incentivo voltado aos participantes da modalidade. Vendedores podem receber de volta até 2 pontos percentuais na taxa de comissão em itens a partir de R$ 50. Dependendo da categoria e da faixa de participação, esse retorno pode representar até 14% de desconto sobre a comissão. O benefício é válido até dezembro de 2026. \"Para muitos pequenos negócios, esses benefícios adicionais criam mais oportunidades para reinvestir no crescimento. Isso reflete nosso compromisso em apoiar empreendedores locais, que hoje representam mais de 95% de todas as vendas realizadas na Shopee no Brasil\", complementa Lima. Atualmente, a Shopee reúne mais de 3 milhões de vendedores brasileiros e oferece um ecossistema amplo de soluções para que os empreendedores possam desenvolver seus negócios, como Shopee Ads, Shopee Lives e Shopee Vídeo. A expansão do Full fortalece essa estrutura, alinhando conveniência, confiança e alta performance logística para o e-commerce brasileiro.",
       "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/07/31/full-da-shopee-cresce-15x-e-impulsiona-pmes-1.ghtml",
@@ -4985,45 +4797,6 @@
       "score": 24.0
     },
     {
-      "title": "Locação por temporada passa a ser tratada como hotelaria, mas nem todo anfitrião paga mais",
-      "summary": "A reforma tributária do consumo, regulamentada pela Lei Complementar 214/2025 e ajustada pela LC 227/2026, alterou a forma como o Estado tributa a locação por temporada. Pela nova regra (art. 253), a locação de imóvel residencial por até 90 dias ininterruptos, quando feita por contribuinte do regime regular, passa a ser tributada como serviço de hotelaria, com incidência de IBS e CBS sobre a receita bruta, e não mais apenas Imposto de Renda. Leia mais (08/04/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/locacao-por-temporada-passa-a-ser-tratada-como-hotelaria-mas-nem-todo-anfitriao-paga-mais.shtml",
-      "published": "2026-08-04T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 24.0
-    },
-    {
       "title": "Quem é Ben Weisfeld, o gênio do marketing esportivo que conquistou a Fifa, a Coca-Cola, o Google e a Nike",
       "summary": "A fabricante de chocolates Ferrero Rocher queria desenvolver uma campanha para conversar com o público americano, mas tinha apenas o embrião de uma ideia: “Mesmo as pessoas com estilo de vida atlético curtem um docinho de vez em quando”. O pior desafio, porém, era definir quem seria o atleta ideal para transmitir a mensagem. Quando empresas têm esse tipo de dúvida, recorrem cada vez mais a um gênio do marketing esportivo: Ben Weisfeld, CEO e fundador da agência Ten Toes, com sede em Londres. Sob a liderança de Weisfeld, a Ten Toes avança em várias direções ao mesmo tempo – em abril, ganhou pela segunda vez o reconhecimento como Agência do Ano no Football Business Awards, uma das mais prestigiadas premiações do mundo em negócios esportivos. A equipe de Weisfeld vem fechando em sequência contratos com astros como Harry Kane, do Bayern de Munique, e Alessia Russo, do Arsenal. É consultora também da Fifa, entidade máxima do futebol, e de times com bases de fãs globais, como os londrinos Arsenal e Chelsea. “Sempre acreditamos que criatividade e eficácia comercial não são alternativas excludentes. Uma multiplica a força da outra”, afirmou o empreendedor. AI Washing: como diferenciar inovação real de estratégia de marketing enganosa Criadores humanos perdem espaço para vídeos de IA no TikTok Shop O quebrasileiros pensam de influenciadores que fazem publicidade de bets O mercado vem se impressionando com essa eficácia comercial. Assim, a Ten Toes se tornou parceira e consultora de companhias que entendem um tanto de marketing, como Budweiser, Coca-Cola, Google, McDonald’s e Nike. Mas o grande salto está para acontecer. A Ten Toes lançou em maio a plataforma de inteligência artificial Ten Beat. Trata-se de um simulador de reação de público composto por 1 milhão de IAs com perfis distintos, representando a população global. Segundo a agência, cada IA foi construída a partir de uma pessoa real, com base em fala, posts, buscas e consumo de conteúdo. Se quiser, o cliente pode interagir com uma IA individualmente, por texto. Pode também agrupá-las de acordo com diferentes recortes demográficos a fim de testar como respondem a campanhas e conferir os resultados em questão de horas. A promessa da Ten Toes é não fazer extrapolações, nem assumir nada – as conclusões são totalmente extraídas da plataforma. Segundo Weisfeld, o projeto começou em 2025 e foi desenvolvido a partir do zero. Weisfeld e sua equipe representam craques como Alessia Russo, do futebol, e Maro Itoje, do rúgbi Divulgação O executivo conta que sempre gostou de esportes – que define como “a mais poderosa força cultural do planeta”. Mas, sem a aptidão física para se destacar neles, concluiu que o marketing esportivo seria seu caminho. Refinou suas habilidades de craque da comunicação a partir dos 22 anos, trabalhando em Nova York e Londres como analista na agência de marketing digital Anomaly, considerada uma instituição desbravadora do setor no século 21. Desde os anos 2000, a Anomaly se consagrou como uma das pioneiras no uso integrado de todas as mídias, num momento em que o marketing começava a explorar as redes sociais. Weisfeld diz que aprendeu muito sobre marketing e redes antes de sair do emprego para, aos 28 anos, fundar seu próprio negócio, em 2015. “Vi a demanda por uma abordagem mais estratégica e criativa do marketing esportivo e fiz a aposta em ocupar esse espaço”, afirmou, em entrevista ao site especializado Behind Sport. O empreendedor é extremamente discreto sobre sua vida fora do trabalho. Ele define de diferentes formas seu estilo de gerir o negócio: focado em atrair gente talentosa, preocupado com diversidade, globalizado, ciente de que pequenos passos levam a um grande resultado, orientado por uma visão maior e aberto a clientes de todos os tamanhos, setores e origens. Weisfeld acredita no poder da rede – “relacionamentos são tudo”, como ele resume. O trabalho da Ten Toes começou pelo futebol e avançou para outros esportes, como golfe, com o Torneio Masters, nos Estados Unidos, e rúgbi, com as seleções masculina e feminina da Inglaterra. Em 2025, ele contou que adorava assistir aos jogos da NFL (a liga de futebol americano dos EUA), mas lamentava nunca ter trabalhado com esse esporte. Então a Ferrero Rocher o procurou, pedindo ajuda para a campanha com atletas que não dispensam um chocolatinho. A ideia ganhou corpo e rosto com um gigante dos esportes, Tom Brady, sete vezes campeão nacional de futebol americano, cinco vezes considerado o melhor jogador da partida final e provavelmente o melhor quarterback de todos os tempos (os brasileiros o conhecem também como ex-marido de Gisele Bündchen). Brady se aposentou em 2023. Mas, aos 48 anos, aparece volta e meia sem camisa em alguma campanha e se mostra em extrema boa forma, a ponto de os fãs pedirem que ele volte. Esse é o ídolo que, nos próximos meses, vai inspirar milhões de americanos a comer chocolate sem culpa – graças à visão de Ben Weisfeld. Essa reportagem foi publicada originalmente na edição de junho/julho de Época NEGÓCIOS",
       "url": "https://epocanegocios.globo.com/personalidades/inovadores/noticia/2026/07/quem-e-ben-weisfeld-o-genio-do-marketing-esportivo-que-conquistou-a-fifa-a-coca-cola-o-google-e-a-nike.ghtml",
@@ -5086,98 +4859,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Governo derruba 937 perfis de influencers por anúncio irregular de bets e acha logo em uniforme infantil",
-      "summary": "O Ministério da Fazenda removeu, entre janeiro de 2025 e junho deste ano, 937 páginas de influenciadores que desrespeitaram as regras de aposta online, mostra resposta a pedidos de acesso à informação. Leia mais (07/29/2026 - 04h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/governo-derruba-937-perfis-de-influencers-por-anuncio-irregular-de-bets-e-acha-logo-em-uniforme-infantil.shtml",
-      "published": "2026-07-29T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Aumento de Salário, Home Office ou Redução de Jornada: O Que os Profissionais Priorizam em 2026",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pesquisa aponta alinhamento entre recrutadores e empregados: remuneração lidera as escolhas, seguida pela flexibilidade no modelo de trabalho O post Aumento de Salário, Home Office ou Redução de Jornada: O Que os Profissionais Priorizam em 2026 apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/carreira/2026/07/rascunho-automatico",
-      "published": "2026-07-29T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "redução de jornada"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "redução de jornada",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold Edges Higher Ahead of Fed Meeting",
-      "summary": "Gold prices ticked higher as investors await the Federal Reserve’s interest-rate decision and Chair Kevin Warsh’s remarks.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-drops-amid-hawkish-monetary-policy-backdrop-e4e56785?mod=rss_markets_main",
-      "published": "2026-07-29T08:19:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Disputa bilionária redefine mercado de canetas emagrecedoras - Panorama Farmacêutico",
-      "summary": "Disputa bilionária redefine mercado de canetas emagrecedoras &nbsp;&nbsp; Panorama Farmacêutico",
-      "url": "https://panoramafarmaceutico.com.br/videos/painel-da-industria/disputa-bilionaria-redefine-mercado-de-canetas-emagrecedoras",
-      "published": "2026-07-29T09:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Lucro do Santander cai para R$ 3 bilhões no 2º tri com piora na inadimplência",
@@ -7802,6 +7483,29 @@
       "score": 20.0
     },
     {
+      "title": "Bancos y billeteras disputan un segmento clave, pero Mercado Pago ya sacó ventaja - iProUP",
+      "summary": "Bancos y billeteras disputan un segmento clave, pero Mercado Pago ya sacó ventaja &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/70227-mercado-pago-billetera-virtual-desplaza-bancos-jovenes-prefieren-agosto-2026",
+      "published": "2026-08-04T09:54:49+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Pfizer tops quarterly estimates, hikes low end of revenue guidance on strength of non-Covid products",
       "summary": "Pfizer said it cut its full-year revenue expectation for its Covid products to $4 billion, down from around $5 billion previously.",
       "url": "https://www.cnbc.com/2026/08/04/pfizer-pfe-earnings-q2-2026.html",
@@ -8446,35 +8150,73 @@
       "score": 20.0
     },
     {
-      "title": "Os bastidores da batalha entre Naouri e Bompard",
-      "summary": "Jean-Charles Naouri, ex-CEO do Casino, condenado neste ano, se diz vítima Simone Marinho/Agência O Globo No dia 23 de setembro de 2018, o grupo francês Casino publicou um comunicado dizendo que foi contatado pelo Carrefour para uma fusão de negócios global. O anúncio sacudiu o mercado de varejo. Além de ser raríssimo antecipar abertamente negociações desse porte, o tom da nota não era nada amistoso. Jean-Charles Naouri, então CEO do Casino, falava em se defender do rival. Pouco mais de três horas depois, já perto da meia-noite, pelo horário de Paris, o Carrefour soltou uma nota dura negando as conversas, e qualquer interesse no Casino. Mais do que isso, o concorrente ainda expunha o Casino: falava das dificuldades enfrentadas por ele. Altamente alavancado, numa estrutura complexa de empréstimos, o Casino perdia valor de mercado, e o Carrefour dizia que esses problemas poderiam ter motivado “comunicações enganosas e infundadas”, afirmava o texto autorizado para publicação por Alexandre Bompard, presidente do Carrefour. Na época, ambos terem escancarado que algo não andava nada bem entre duas das maiores redes de varejo alimentar da Europa caiu como uma bomba no país. O Brasil é o segundo maior mercado do Carrefour e o Casino era dono do GPA, que controlava o Pão de Açúcar. Alexandre Bompard, do Carrefour, depôs a respeito das alegações de Naouri Arnaud Favrier Para Bompard, o Casino buscava criar fatos positivos no mercado para tentar sair das cordas, pressionado por investidores que apostavam contra os papéis da rede na bolsa francesa. E na visão de Naouri, Bompard articulava nos bastidores com boatos negativos para o Casino perder valor, e o Carrefour se fortalecer no mercado eventualmente numa futura fusão ou compra de ativos - algo que nunca aconteceu. No acumulado de 2018, a ação do Casino caía mais de 40%, num ataque de investidores com vendas a descoberto do papel. A questão hoje é que, segundo apurou o Valor, aquele embate público de versões, e seus desdobramentos, oito anos atrás, é uma das peças de um processo em andamento atualmente na esfera civil que envolveu neste ano uma outra fase, recém-descoberta. Trata-se de uma operação de busca e apreensão de documentos no escritório sede do Carrefour, em Massy, região metropolitana de Paris, onde trabalha Bompard e o comitê executivo (Comex), ocorrida no dia 3 de fevereiro, segundo relatou na semana passada o site francês La Lettre. O Valor confirmou as informações dessa operação com uma fonte a par do tema. O que motivou as buscas foram dois depoimentos de Naouri, de outubro de 2025 e fevereiro de 2026, que citam suposta atuação de Bompard e de fundos de investimentos, relativos a eventuais irregularidades cometidas pelas partes, na visão do ex-chefe do Casino. A origem das alegações é uma denúncia protocolada por Naouri em julho de 2024, depois de ele já ter sido condenado por corrupção e disseminação de informações falsas num caso paralelo já encerrado. E após Naouri já perdido o controle do Casino por conta de decisões erradas tomadas em sua gestão à frente da empresa. Segundo a fonte ouvida, após a denúncia de Naouri, de 2024, automaticamente ocorre a abertura de um inquérito judicial para análise das informações pela Justiça francesa, portanto, os investigadores estão seguindo os trâmites normais para esses casos. Os investigadores fizeram buscas por documentos no andar ocupado também pelos 13 integrantes do comitê executivo do Carrefour. Segundo o site La Lettre, também no dia 3 de fevereiro, a sede do banco Lazard, em Paris, que supostamente teria assessorado o Carrefour em 2018 num projeto de oferta pública de aquisição (OPA) da rede sobre o Casino, como alega Naouri em sua denúncia, também foi alvo da operação. As buscas foram coordenadas pelo serviço de investigação da Gendarmaria de Paris, polícia local que recolhe provas e conduz inquéritos. Dois juízes de instrução foram designados conjuntamente para o caso, Pascal Gastineau e Fanny Huboux. Na prática, parte do trabalho em andamento está em questionar o Carrefour de alegações levantadas por Naouri, de uso de informação privilegiada e divulgação no mercado de informações falsas por parte de Bompard e dos fundos. Por exemplo, entre 2017 e 2018, investidores estrangeiros suspeitavam que o Casino já teria problemas contábeis e de governança muito maiores do que aqueles vistos nas subsidiárias brasileiras da Cnova e do GPA nos últimos anos. Naquela época, já se havia descoberto que a operação on-line da Cnova sofria desvios de mercadorias e uma má contabilidade disso nos estoques e no balanço no país. O Valor apurou que Naouri teria dito em seu depoimento à polícia francesa que, nesse ambiente, Bompard poderia ter repercutido junto ao mercado notícias negativas sobre ativos importantes do Casino, como os do Brasil, que contaminavam a imagem do grupo. O CEO do Carrefour e presidente do conselho de administração já foi ouvido em outubro de 2024, conforme relato de uma segunda fonte à reportagem, e negou aos investigadores as acusações, e qualquer projeto de fusão com o Casino. Segundo esta pessoa, Bompard teria alegado que mantém contatos com diversos executivos do ramo varejista, como parte de sua rotina, e mantinha conversas protocolares com Naouri depois que ele, Bompard, se tornou presidente do Carrefour em 2017. Procurada, a empresa confirma a operação de busca na sede, e refuta veementemente todas as alegações feitas contra o grupo. Parte da estratégia jurídica de Naouri envolve a existência de troca de mensagens de celulares e e-mails relativos a reuniões entre Naouri, Bompard e a Lazard em datas específicas, e isso foi anexado à denúncia. Embate de oito anos atrás é uma das peças de um processo em andamento hoje na esfera civil A equipe de defesa de Naouri reuniu dados de pelo menos oito encontros marcados entre 1º e 24 de setembro de 2018 - pouco antes da publicação do ríspido comunicado público entre as partes naquele ano -, com a presença de Bompard e Naouri, alegam eles. Em 25 de setembro de 2018, o Valor publicou uma reportagem em que citava que o empresário Alain Minc, com bom trânsito no governo francês e próximo a Bompard, teria telefonado a Naouri e proposto um encontro com o chefe do Casino, que levou a outros contatos em seguida. A conversa foi marcada no escritório de Minc, na avenida George V, próxima à Champs-Elysées. Uma fonte próxima ao Carrefour naquele período, e com conhecimento das movimentações, afirmou ao Valor que Bompard teria dito aos investigadores que o Casino poderia até buscar algum tipo de parceria global, mas que o Carrefour nunca havia chegado a tratativas porque buscava outros caminhos de crescimento. Além disso, uma eventual notícia de uma suposta fusão de Casino e Carrefour, diz esta fonte, com base no comunicado de 2018, teria impulsionado o preço das ações do Casino na época, podendo mudar o rumo dos papéis da rede naquele período, altamente depreciados desde que investidores a descoberto apostaram contra a ação. Em setembro de 2018, a ação do grupo Casino subiu 7,7%, após ter caído 20% em agosto e 41% no acumulado do ano. Para Naouri, o declínio do grupo na sua gestão não se deve aos seus passivos bilionários assumidos em vários negócios cruzados, mas aos “ataques” de fundos que assumiram posições vendidas em 2015, disse ele em depoimento após a sua denúncia de 2024. Dezessete fundos se posicionaram contra o Casino coletivamente por meio de vendas a descoberto a partir de 2015. Os dois depoimentos de Naouri que envolvem Bompard e os fundos - e complementam a denúncia de 2024 - foram prestados entre o fim de 2025 e o início de 2026. O empresário foi condenado pela Justiça francesa em janeiro deste ano, a respeito de um esquema ligado às notícias relacionadas à suposta fusão de Casino e Carrefour. Seis meses atrás, o Tribunal Criminal de Paris julgou Naouri culpado por corrupção privada ativa e manipulação de mercado por grupo organizado (através da disseminação de informações falsas ou enganosas), em parte relacionadas com um esquema para melhorar a reputação do Casino sobre o tema da fusão, entre outros assuntos. A Justiça entendeu que Naouri pagou o jornalista Nicolas Miguet, entre setembro 2018 e maio de 2019, para divulgar informações favoráveis ao Casino na fase de perda de valor de mercado da rede. O acerto teria ocorrido entre os dois num almoço organizado em setembro de 2018 pelo então diretor de comunicação do Casino (também condenado) Nicolas Boudot. Naouri recorreu da decisão. Alegou que o contrato foi feito para divulgar informações verdadeiras da empresa, quando o grupo estava sob ataque de fundos na posição vendida (“short”) e para um serviço de consultoria. Entre as informações a comentar no boletim do jornalista, segundo o processo, estava a divulgação do tema da suposta oferta de aquisição do Casino pelo Carrefour. Segundo o tribunal, Miguet recebeu € 823 mil pelo serviço de nove meses, e ele também foi condenado a quatro anos de prisão (dois anos acabaram suspensos e o restante ficou válido, mas com liberdade condicional). O próprio jornalista tinha ações do Casino na carteira, cerca de 125 mil papéis. O Casino foi multado em €40 milhões, com €20 milhões da multa suspensos. A empresa não recorreu. Naouri foi condenado a quatro anos de prisão (três dos quatro anos acabaram suspensos), sendo um deles em regime de prisão domiciliar com monitoramento eletrônico. Houve ainda multa de € 1 milhão, e proibição de ocupar qualquer cargo de gestão por cinco anos. Procurado, Naouri não se manifestou até o fechamento desta edição. Em nota publicada após a condenação, Naouri disse que está “determinado a lutar para garantir que a Justiça declare sua completa inocência”, acrescentando que também apresentou uma queixa relativa à manipulação de mercado da qual o Casino foi vítima entre 2015 e 2018. Questionado a respeito, o Carrefour confirma, em nota, que foi alvo de uma busca e apreensão há seis meses. Afirma ainda que, como a apresentação de uma queixa formal envolvendo uma ação civil automaticamente acarreta a nomeação de um juiz de instrução, a busca e apreensão é uma etapa processual padrão e rotineira nesses casos, diz na nota. Também diz que a Autoridade dos Mercados Financeiros, espécie de Comissão de Valores Mobiliários (CVM) da França, conduziu sua própria investigação, e não encontrou fundamentos para queixa contra o Carrefour neste caso. “O Carrefour se mantém totalmente confiante e refuta veementemente todas as alegações feitas contra o grupo. A empresa fornecerá às autoridades judiciais todas as informações que forem solicitadas”, afirma. Nicolas Miguet não se manifestou até o fechamento desta edição.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/29/os-bastidores-da-batalha-entre-naouri-e-bompard.ghtml",
-      "published": "2026-07-29T08:01:17+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
+      "title": "Aos 50 anos, C&A abrirá 'loja conceito' na Avenida Paulista, nova vitrine do varejo",
+      "summary": "Unidade será inaugurada com o conceito \"Energia\" e integra plano de crescimento da varejista, que fechou o 2º trimestre com lucro recorde, apesar de desaceleração das vendas",
+      "url": "https://exame.com/invest/mercados/aos-50-anos-cea-abrira-loja-conceito-na-avenida-paulista-vitrine-varejo",
+      "published": "2026-08-05T05:30:23+00:00",
+      "source": "https://exame.com/feed/",
       "matched_sectors": [
-        "Varejo Alimentar"
+        "Fashion"
       ],
       "matched_aliases": [
-        "carrefour",
-        "casino"
+        "c&a"
       ],
       "matches": [
         {
-          "sector": "Varejo Alimentar",
-          "alias": "casino",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "lead",
-          "score": 8,
+          "sector": "Fashion",
+          "alias": "c&a",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "Pague Menos admite erro, mas resultados melhoram",
+      "summary": "O comando da Pague Menos disse ontem que cometeu erros na gestão de seu braço digital e isso afetou o crescimento da empresa no intervalo de abril a junho. Apesar desse efeito, os ganhos operacionais agradaram aos investidores e a ação fechou o dia com alta de 8,62% na B3. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/05/pague-menos-admite-erro-mas-resultados-melhoram.ghtml",
+      "published": "2026-08-05T08:01:52+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "pague menos"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "pague menos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Como o iFood Aposta no Uso da IA sem Demitir Funcionários",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Em entrevista à Forbes, o VP de Pessoas do iFood, Raphael Bozza, comenta o saltou de 2 mil para 8 mil colaboradores enquanto amplia os agentes de IA nos processos O post Como o iFood Aposta no Uso da IA sem Demitir Funcionários apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-mkt/2026/08/como-o-ifood-aposta-no-uso-da-ia-sem-demitir-funcionarios",
+      "published": "2026-08-05T08:02:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "ACI Worldwide e dLocal fecham parceria para oferta de Pix e carteiras digitais da América Latina",
@@ -8934,38 +8676,6 @@
       "score": 12.0
     },
     {
-      "title": "Funcionários precisam de ‘alfabetização’ em dados",
-      "summary": "Com treinamento, as áreas fazem pedidos mais claros e entendem melhor as informações que precisam, diz Paulo Ruza, do Carrefour Divulgação Empresas não se tornam orientadas por dados apenas porque compraram tecnologia, criaram áreas de “analytics” ou melhoraram a qualidade de suas bases. O fator decisivo continua sendo a capacidade das pessoas de compreender, interpretar e utilizar essas informações no cotidiano, afirma o americano Jordan Morrow, vice-presidente sênior de transformação de dados e IA da AgileOne. “Essa alfabetização é importante para capacitar as pessoas não apenas a olhar para painéis e ver o que aconteceu, mas a descobrir o porquê e dar vida aos dados”, diz. Em um mundo que produz cerca de 400 milhões de terabytes de dados por dia, segundo o site Exploding Topics, compreender e aplicar essas informações tornou-se essencial. Relatório do site DataCamp com líderes dos EUA e Reino Unido mostra que 40% apontam a perda de produtividade como principal consequência da baixa alfabetização em dados. A TIM iniciou essa jornada há quatro anos. “Temos três trilhas. A Expert prepara durante seis meses cientistas, engenheiros e arquitetos de dados; a Consumer atende quem utiliza dados nas decisões cotidianas; e a Translator forma profissionais capazes de traduzir necessidades das áreas de negócio para os times técnicos”, diz Maria Antonietta Russo, VP de pessoas, cultura e organização da TIM. Segundo ela, o programa já alcançou 96% dos colaboradores. “Quando as pessoas compreendem melhor os dados, conseguem transformar problemas em hipóteses, hipóteses em análises e análises em decisões mais conectadas aos objetivos da companhia.” No Banco Carrefour, o projeto começou na instituição financeira e depois foi expandido para o restante do grupo. “Foi um programa do zero, explicando o que é dado e sua importância na tomada de decisão. Depois gravamos esse treinamento em módulos e o disponibilizamos para os 120 mil colaboradores”, afirma Paulo Ruza, superintendente de dados e IA. Segundo ele, as áreas passaram a formular pedidos mais claros e compreender melhor quais informações de fato precisavam. A alfabetização também despertou novos interesses. “Uma colaboradora da comunicação achava que nem precisava. Fez o treinamento, gostou, buscou outros cursos e, um ano depois, veio trabalhar com a gente na área de dados”, diz Ruza. O Grupo Boticário também vem acelerando sua cultura de dados. “Decidimos investir na alfabetização para garantir que os mais de 20 mil colaboradores pudessem usar a informação de forma ética, eficiente e estratégica”, afirma Renato Pedigoni, CTO da companhia. Considerada a segunda empresa mais admirada em dados da América Latina pela pesquisa “State of Data Brazil 2025-2026”, da Data Hackers e Bain & Company, a empresa aposta em uma jornada que começa com plataformas de análise e SQL (linguagem universal usada para conversar com bancos de dados). “Hoje, com agentes de IA, um colaborador consegue realizar análises altamente complexas sem necessariamente escrever código”, diz Pedigoni. Para Henrique Portella, fundador da DataSchool, especializada em alfabetização de dados, o objetivo não é transformar todos os funcionários em analistas ou programadores, mas criar uma linguagem comum. “Não é usar Excel, pois isso é letramento digital. Estamos falando de entender gráficos de dispersão, correlação, a diferença entre mediana e média e como contar uma história com dados”, afirma. Segundo ele, investir milhões em plataformas de “business intelligence” (BI), IA e “analytics” ou contratar cientistas de dados não basta se poucos conseguem usar essas análises. Marcos Sirelli, vice-presidente de tecnologia, dados e atendimento do Grupo Porto, afirma que a empresa estruturou sua trilha de dados primeiro em nível inicial e intermediário, em que o foco é saber ler e interpretar o negócio através de dados. “Tivemos um colaborador, por exemplo, que desenvolveu uma ferramenta que reúne milhares de pesquisas de Net Promoter Score [NPS], que é uma métrica padrão global para medir a lealdade e a satisfação dos clientes, para indicar automaticamente onde as jornadas precisam ser melhoradas e quais mudanças têm maior potencial de impacto na experiência do consumidor.”",
-      "url": "https://valor.globo.com/publicacoes/especiais/tecnologia-corporativa/noticia/2026/07/29/funcionarios-precisam-de-alfabetizacao-em-dados.ghtml",
-      "published": "2026-07-29T08:04:37+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Varejo Alimentar",
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário",
-        "carrefour"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 10.0
-    },
-    {
       "title": "Quase metade da receita das lojas de departamento vem das vendas pela internet, mostra IBGE",
       "summary": "Quase metade (47,9%) da receita das lojas de departamento vem das vendas pela internet, percentual bem superior à de 9,8% na média do comércio varejista. O segmento é o que tem a maior participação desse canal de vendas no varejo. O perfil contrasta com o de hipermercados e supermercados, onde este percentual é de 1,6%. Em minimercados, mercearias e armazéns esse percentual ainda é menor, de 0,8%. Os dados se referem ao ano de 2024 e são parte da Pesquisa Anual do Comércio (PAC) do Instituto Brasileiro de Geografia e Estatística (IBGE). A metodologia da pesquisa mudou e os números não são diretamente comparáveis com os de anos anteriores. Como referência, no entanto, os números de 2019 – ainda antes da pandemia – mostravam que as vendas pela internet respondiam por 5,3% da receita do varejo naquele momento. Essa parcela saltou para 8,4% em 2020 e 9,8% em 2021, depois caiu para 9,1% em 2022 e 8,8% em 2023. “Uma parcela de quase 10% de receita vinda da internet é representativa, principalmente considerando que tem muitas empresas comerciais presenciais em todo o país. [...] Considero um número grande, alto. Afirmo categoricamente que 9,8% representa um grande valor da receita de vendas do comércio no país”, afirma o analista do IBGE Marcelo Miranda, responsável pela pesquisa. Um dos pontos a se considerar nesse resultado, segundo ele, é o fato de que o segmento de hipermercados e supermercados é o que tem maior participação no faturamento total do varejo, com 12%. Como neste segmento a parcela de vendas pelos canais digitais é menor, isso contribui para puxar o resultado para baixo. Entre os destaques das vendas pela internet também se destacam o comércio de equipamentos de informática e comunicação (44%) e de eletrodomésticos, equipamentos de áudio e vídeo, instrumentos musicais e acessórios (38,5%). Na parte de móveis, artigos de iluminação, peças e acessórios e outros artigos de uso doméstico, 22,2% de toda a receita das empresas vêm da internet. “Mesmo quando pensamos as vendas de móveis, que poderia se esperar mais força do presencial, tem 22,2% da receita pela internet. É uma presença alta”, diz Miranda. Outros segmentos com participação da receita das vendas pela internet acima da média geral de 9,8% são comércio de outros produtos novos e usados (19,7%), calçados, artigos de couro e viagem (19,2%), artigos culturais, recreativos e esportivos (13,7%), vestuário e complementos (12,4%) e produtos farmacêuticos, perfumaria e cosméticos e artigos médicos, ortopédicos e de óptica (10,7%).",
       "url": "https://valor.globo.com/brasil/artigo/quase-metade-da-receita-das-lojas-de-departamento-vem-das-vendas-pela-internet-mostra-ibge.ghtml",
@@ -9059,121 +8769,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Como Cris Barros Faz “Quiet Luxury” Há Mais de Duas Décadas",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estilista manteve a liderança criativa após venda da grife para o grupo Azzas 2154 e ganhou fôlego para novas apostas O post Como Cris Barros Faz &#8220;Quiet Luxury&#8221; Há Mais de Duas Décadas apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-mulher/2026/07/como-cris-barros-faz-quiet-luxury-ha-mais-de-duas-decadas",
-      "published": "2026-07-29T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "azzas"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "azzas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Avança a guerra de versões sobre megafusão na França",
-      "summary": "Há cerca de seis meses, a polícia francesa cumpriu mandado de busca e apreensão de documentos na sede do Carrefour, onde trabalham o CEO, Alexandre Bompard, e o comitê executivo do grupo. A informação, do site francês La Lettre, foi confirmada pelo Valor. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/07/29/avanca-a-guerra-de-versoes-sobre-megafusao-na-franca.ghtml",
-      "published": "2026-07-29T08:00:15+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "carrefour"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Seguro ajuda a viabilizar novas infraestruturas",
-      "summary": "Apólices de seguro para infraestrutura vêm deixando de ser só um mecanismo de proteção patrimonial para tornarem-se um instrumento de viabilização de investimentos. Seguradoras e corretoras estruturam produtos próximos de empreendimentos, com acompanhamentos para garantir a viabilidade e a continuidade das obras. O estímulo veio do seguro-garantia com cláusula de retomada, que permite a seguradora assumir a obra em caso de inadimplência, evitando paralisações, o que levou companhias a acompanhar mais de perto os projetos. “Esse movimento tende a ampliar a demanda por soluções de seguros cada vez mais especializadas e customizadas, capazes de acompanhar projetos de elevada complexidade técnica e financeira”, diz o presidente da Federação Nacional de Seguros Gerais (FenSeg), Ney Ferraz Dias. O seguro-garantia cresceu 24% no ano passado, com arrecadação de R$ 6,2 bilhões, alta superior a de modalidades como riscos de engenharia (22,4%), grandes riscos (12%) e transportes (7,74%). O seguro de responsabilidade civil para riscos ambientais registrou uma das maiores expansões do período, com alta de 39,3%. A expectativa é que essas cifras sigam avançando diante dos projetos no pipeline para os próximos anos. “Estamos falando de um ciclo de investimentos da ordem de trilhões de reais ao longo da próxima década”, diz Fábio Scatigno, superintendente de garantia da AXA no Brasil. Além dos riscos tradicionais de construção, a companhia mira nos impactos climáticos, riscos ambientais, atrasos de cronograma e exigências dos financiadores. Esses produtos vêm acompanhados de visitas técnicas, análises de risco e monitoramento. As seguradoras não participam da gestão da obra; atuam de forma mais consultiva, de modo a prevenir sinistros, mitigar gargalos e contribuir para que o empreendimento avance com maior previsibilidade, segurança e proteção financeira. “O acompanhamento técnico das obras é cada vez mais relevante em um cenário em que atrasos e aumentos de custos representam riscos significativos para o sucesso dos projetos”, segue Scatigno. É uma “parceira estratégica na gestão de riscos, engenharia e governança dos projetos”, como diz Sidney Cezarino, diretor de seguros patrimoniais da Tokio Marine. Segundo André Dabus, diretor de infraestrutura da Marsh Risk, produtos para obras de infraestrutura, concessões e parcerias público-privadas (PPPs), os produtos são desenhados a partir das características de cada projeto, incluindo exigências de financiadores, aspectos regulatórios e exposição a eventos climáticos extremos. “O foco passou a ser a construção de soluções capazes de acompanhar o empreendimento desde sua estruturação até a conclusão da obra, integrando instrumentos em um grande ecossistema de gestão”, completa Cristina Tseimatzidis, diretora de construção e garantias da WTW Brasil.",
-      "url": "https://valor.globo.com/publicacoes/especiais/rodovias-portos-e-ferrovias/noticia/2026/07/29/seguro-ajuda-a-viabilizar-novas-infraestruturas.ghtml",
-      "published": "2026-07-29T08:03:36+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Integração entre modais pode reduzir custos logísticos",
-      "summary": "A integração entre modais de transporte pode estimular a migração de cargas para opções com fretes mais baratos e eficientes, com impacto direto no planejamento e no caixa das grandes empresas e no chamado “custo Brasil”. Hoje, o custo do transporte de cargas no país corresponde a 9% do Produto Interno Bruto (PIB), calcula o Instituto de Logística e Supply Chain (Ilos), contra 5,7% nos Estados Unidos. Quando se observa a operação logística total, que engloba também gastos com armazenagem e estoque - elevados diante da imprevisibilidade das entregas de insumos e produtos acabados -, a desvantagem brasileira é ainda maior. Enquanto o país gasta 15,6% do PIB nessa conta, a média de custo logístico entre os membros da Organização para a Cooperação e Desenvolvimento Econômico (OCDE) é de 8,4%. Especialistas avaliam que a formação de corredores intermodais integrados tem potencial de reduzir a dependência brasileira do modal rodoviário, com impactos positivos nos custos do transporte de cargas. “Poderíamos reduzir em dois pontos percentuais do PIB os custos logísticos se tivéssemos uma matriz de transporte mais equilibrada entre modais e integrada”, diz Pedro Moreira, presidente da Associação Brasileira de Logística (Abralog). “Seria uma economia de R$ 250 bilhões por ano.” O Ilos constatou que o interesse por troca de modais é alto, mesmo diante das limitações atuais da infraestrutura. Pesquisa concluída em julho com as 100 maiores empresas brasileiras da indústria, do agronegócio e do varejo, indica que 25% delas pretendem alterar imediatamente o meio de transporte de suas mercadorias. “As empresas buscam novos modais logísticos. O que falta é disponibilidade de infraestruturas alternativas”, diz Maria Fernanda Hijjar, sócia diretora do Ilos. Está nos planos do governo federal a criação de 31 corredores logísticos prioritários para o transporte de cargas, compostos por infraestruturas novas e já existentes, passíveis de ampliação. A medida, que faz parte do Plano Nacional de Logística (PNL 2050), prevê a substituição do modelo que sempre privilegiou projetos e obras isoladas por um planejamento que promova o uso combinado de modais para gerar fluidez no transporte. “Os corredores contemplam projetos rodoviários, ferroviários, hidroviários, portuários e a integração entre esses modais, numa abordagem de transporte multimodal”, diz Gabriela Monteiro Avelino, subsecretária de fomento e planejamento do Ministério dos Transportes. A ideia é concluir o PNL 2050 até agosto. Hoje viajam por caminhão 63% das mercadorias do país, segundo o Ilos. Em outros países de grandes extensões, como EUA e China, rodovias respondem respectivamente por 50% e 29% da matriz de transportes; na União Europeia, 24%. Essa diferença é um dos fatores que encarece a movimentação de cargas no país. “O transporte rodoviário é improdutivo, não há ganho de escala”, diz Hijjar. Um vagão de soja transporta o equivalente a três caminhões de seis eixos - e uma única locomotiva puxa 50 vagões. “O caminhão só é eficiente a uma distância de até 300 km. Além disso, é preciso usar ferrovias, hidrovias e cabotagem”, diz Paulo Resende, professor de logística da Fundação Dom Cabral (FDC). “Temos caminhões rodando mil, 2 mil km por falta de transportes alternativos.” As empresas buscam novos modais. O que falta é dispo- nibilidade de alternativas” Já a oferta ferroviária é muito baixa. São 30 mil km de trilhos, sendo 21 mil km operacionais. Os EUA têm 225 mil km de ferrovias, e a China, 162 mil km. A oferta hidroviária também é limitada; são 20 mil km, apesar do país contar com 41,7 mil km de rios navegáveis, segundo a Agência Nacional de Transportes Aquaviários (Antaq). E as hidrovias não são estruturadas com cartas náuticas, balizamento, nem têm manutenção regular para garantir a navegação o ano inteiro. Pesquisa da Confederação Nacional da Indústria (CNI) detectou que só 8% das grandes e médias indústrias brasileiras usam trens para transportar a produção, mas 28,5% optariam pelo modal se houvesse uma oferta ferroviária adequada. Promover a intermodalidade demanda mais do que investimentos. “A disponibilidade de infraestrutura é a base; será necessário interconectar os modais”, diz Hijjar. “Os modais de transportes no Brasil não se conversam. A maioria dos portos não é atendida por ferrovias. As ferrovias não possuem oferta adequada de pontos de transbordo para receber os caminhões”, completa Resende. Os planos do governo federal vão na direção de ampliar a oferta multimodal. O Ministério dos Transportes programa oito leilões de ferrovias em 2026 e terminais para transbordo na Ferrovia Norte-Sul, com projeção de estimular investimentos de R$ 160 bilhões. Mas nenhum dos leilões já tem agenda definido. O Ministério dos Portos e Aeroportos, por sua vez, chegou a anunciar planos de leiloar em 2026 as hidrovias dos rios amazônicos Madeira, Tapajós e Tocantins, fundamentais para o escoamento da produção agrícola do Norte e do Centro-Oeste, e da hidrovia do rio Paraguai, mas todos foram adiados para 2027. Na área portuária, houve avanços, com 28 concessões de terminais e canais de acesso marítimo desde 2023, que vão gerar investimentos de R$ 8,5 bilhões. As iniciativas federais, até agora, têm beneficiado mais o modal rodoviário; foram 25 concessões desde junho de 2026. Para o professor da FDC, além de criar conexões físicas, será preciso integrar os modais com softwares que planejem o fluxo de mercadorias de acordo com a programação dos navios, por exemplo. “Hoje, os caminhões com a produção ficam parados, às vezes por dias, nos terminais ferroviários, esperando o comboio de vagões. E depois os trens seguem em direção aos portos, sem saber quando os navios vão atracar”, diz. Já Moreira propõe que o país invista em plataformas multimodais de grande porte, hubs com infraestrutura de armazenagem, consolidação de cargas, centros de distribuição, serviços aduaneiros e atividades de valor agregado. “Cinco grandes plataformas logísticas regionais atenderiam bem as nossas necessidades.”",
-      "url": "https://valor.globo.com/publicacoes/especiais/rodovias-portos-e-ferrovias/noticia/2026/07/29/integracao-entre-modais-pode-reduzir-custos-logisticos.ghtml",
-      "published": "2026-07-29T08:04:12+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "logística"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "logística",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Ideias de presentes para o Dia dos Pais 2026",
-      "summary": "Confira sugestões que vão da joalheria à cafeteria para comemorar a data",
-      "url": "https://exame.com/casual/ideias-de-presentes-para-o-dia-dos-pais-2026",
-      "published": "2026-07-29T08:13:22+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "joalheria"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joalheria",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "A Edge achou um atalho para “dar um gás” para a Cosan. E ele não passa pelo gasodutos",
@@ -10377,6 +9972,98 @@
       "url": "https://www1.folha.uol.com.br/mercado/2026/08/luiza-trajano-pede-cota-de-50-para-mulher-em-cargo-de-lideranca-em-evento-que-tem-carmen-lucia-ovacionada.shtml",
       "published": "2026-08-04T23:17:00+00:00",
       "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "magazine luiza"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "'A velocidade e o apetite são menores', diz presidente do Sicredi sobre crédito rural",
+      "summary": "Apesar do avanço da inadimplência, cooperativa mantém aposta no agronegócio e prevê expansão mais moderada da carteira",
+      "url": "https://exame.com/agro/a-velocidade-e-o-apetite-sao-menores-diz-presidente-do-sicredi-sobre-credito-rural",
+      "published": "2026-08-05T06:01:42+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Comer batata com casca faz mal? Especialistas apontam os cuidados necessários",
+      "summary": "Cada vez mais receitas recomendam aproveitar a casca da batata. De chips crocantes a caldos e acompanhamentos, essa parte do tubérculo deixou de ser vista como um simples resíduo para se tornar um símbolo da culinária sustentável. Demanda crescente: SUS amplia em mais de 16.000% teleatendimentos para vício em bets Duas pessoas morreram: Surto de ciclosporíase se espalha e já atinge 15 estados nos EUA Em um momento em que reduzir o desperdício de alimentos é uma prioridade, reutilizar aquilo que antes era descartado parece uma decisão lógica. Mas surge uma pergunta importante: é completamente seguro consumir a casca da batata? A resposta é mais complexa do que parece. Embora contenha fibras alimentares, vitaminas, minerais e compostos antioxidantes, a casca também concentra a maior quantidade de glicoalcaloides, substâncias naturais produzidas pela batata como mecanismo de defesa contra insetos, fungos e outros agentes externos. Os compostos que a batata produz para se proteger Os principais glicoalcaloides presentes na batata são a α-solanina e a α-chaconina. A análise dessas substâncias exige métodos avançados, capazes de detectar concentrações muito baixas em alimentos e seus derivados. Os avanços recentes permitiram compreender melhor como esses compostos se distribuem nas diferentes partes do tubérculo. Embora estejam presentes em toda a planta, suas concentrações são especialmente elevadas na casca e na polpa próxima a ela. A casca pode concentrar níveis muito mais altos de α-solanina e α-chaconina do que a polpa, o que explica por que o consumo de batatas descascadas representa uma exposição muito menor a esses compostos. Nas quantidades normalmente encontradas em uma batata bem conservada e consumida sem casca ou com pequenas porções dela, essas substâncias não representam um problema para a saúde. O risco aumenta quando são ingeridas grandes quantidades de casca ou batatas com alto teor de glicoalcaloides. Nesses casos, podem surgir efeitos adversos como náuseas, vômitos, dor abdominal e diarreia. Em situações extremas, descritas principalmente após o consumo de batatas em mau estado ou armazenadas de forma inadequada, também foram observadas alterações neurológicas. A Autoridade Europeia para a Segurança dos Alimentos (EFSA) considera que os glicoalcaloides passam a representar motivo de preocupação quando a exposição ultrapassa determinados níveis: 1 mg de glicoalcaloides por quilo de peso corporal por dia. O acúmulo dessas substâncias pode ocorrer quando as batatas são expostas à luz ou sofrem danos mecânicos durante o manuseio. A coloração esverdeada que aparece em alguns tubérculos costuma ser um sinal de alerta, pois geralmente indica condições que favorecem o aumento desses compostos. Por isso, as autoridades de saúde recomendam evitar o consumo de batatas com partes verdes, brotadas ou deterioradas. Na Espanha, a Agência Espanhola de Segurança Alimentar e Nutrição (AESAN), com base na avaliação científica da EFSA, recomenda armazenar as batatas em locais frescos, secos e escuros, retirar completamente as partes verdes e os brotos antes do consumo e descartar tubérculos em mau estado. O que acontece com a casca durante o preparo? A crescente popularidade das estratégias de aproveitamento de alimentos despertou o interesse em saber se os métodos culinários tradicionais conseguem reduzir a presença desses compostos. Com esse objetivo, um grupo de pesquisadores avaliou o efeito de diferentes técnicas de preparo sobre os níveis de α-solanina e α-chaconina nas cascas de batata. Foram analisados métodos amplamente utilizados tanto em casa quanto na indústria: fervura, assamento e fritura. Também foram testadas diferentes combinações de temperatura e tempo para identificar quais fatores mais influenciam a redução dos glicoalcaloides. Os resultados mostraram que o cozimento reduz significativamente o teor desses compostos, embora a eficácia dependa da intensidade do tratamento. Assar a 200°C por 15 minutos ou fritar a 200°C por cinco minutos proporcionou as maiores reduções de α-solanina e α-chaconina, enquanto a fervura a 100°C resultou em reduções mais moderadas após 10 e 20 minutos. Temperatura e tempo fazem diferença Entre os métodos estudados, os preparos mais intensos foram os que apresentaram as maiores reduções. A fritura e o assamento em altas temperaturas diminuíram consideravelmente as concentrações de α-solanina e α-chaconina. Já métodos mais brandos, como alguns processos de fervura ou aquecimento por menos tempo, mostraram-se menos eficazes. A explicação está relacionada à estabilidade dos glicoalcaloides. Embora sejam compostos relativamente resistentes, eles podem se degradar parcialmente quando submetidos a temperaturas suficientemente altas durante períodos adequados. No entanto, há um aspecto importante: cozinhar não elimina completamente o risco. Mesmo nas condições mais eficazes avaliadas, os glicoalcaloides não desapareceram por completo. Isso significa que a segurança do alimento também depende da qualidade da matéria-prima utilizada. Nem todas as batatas são iguais A variedade da batata é um dos fatores mais importantes para explicar as diferenças no teor de glicoalcaloides. As cascas de algumas variedades apresentam naturalmente níveis mais baixos dessas substâncias, cerca de 200 mg por quilo de peso seco, enquanto outras podem acumular quantidades muito maiores, chegando a 3.000 mg por quilo de peso seco. Por isso, cozinhar corretamente as cascas é uma medida útil, mas insuficiente por si só. A escolha de batatas em bom estado e provenientes de variedades com baixos níveis de glicoalcaloides deve ser considerada uma prática essencial para minimizar a exposição a esses compostos. Economia circular, mas com base em evidências científicas O aproveitamento de subprodutos alimentares é uma das estratégias mais promissoras para tornar os sistemas alimentares mais sustentáveis. A casca da batata é um bom exemplo: é gerada em grande quantidade tanto nas residências quanto na indústria e contém nutrientes e compostos bioativos que poderiam ser melhor aproveitados. Seu potencial como matéria-prima para novos ingredientes e produtos alimentícios vem despertando crescente interesse científico. No entanto, sustentabilidade e segurança alimentar precisam caminhar juntas. A economia circular não consiste apenas em reutilizar subprodutos, mas em identificar quais usos são seguros, viáveis e benéficos para o consumidor. Nesse contexto, a pesquisa científica desempenha papel fundamental ao determinar em quais condições determinados resíduos podem ser reincorporados à cadeia alimentar sem representar riscos. Aproveitar a casca da batata pode ajudar a reduzir o desperdício de alimentos, mas fazê-lo com segurança exige seguir recomendações respaldadas por evidências científicas. Afinal, uma alimentação verdadeiramente sustentável não busca apenas reduzir o desperdício, mas também garantir a segurança do que chega à mesa.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/08/05/comer-batata-com-casca-faz-mal-especialistas-apontam-os-cuidados-necessarios.ghtml",
+      "published": "2026-08-05T07:00:58+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "A desaceleração da economia é desigual",
+      "summary": "O consumo das famílias perde fôlego. Ele cresceu 1,3% em 2025 em relação ao ano anterior, ante o crescimento de 5,1% em 2024. No entanto, há sinais de descompasso na dinâmica de consumo entre as classes sociais. O segmento mais rico sente menos a desaceleração da economia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/zeina-latif/coluna/2026/08/a-desaceleracao-da-economia-e-desigual.ghtml",
+      "published": "2026-08-05T07:01:05+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "consumo das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "consumo das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "“Quando a gente assume o poder, é um peso terrível”, diz Luiza Trajano",
+      "summary": "“Vocês não imaginam que quando a gente assume o poder é um peso terrível”, disse Luiza Helena Trajano, presidente do conselho de administração do Magazine Luiza, no Summit Mulheres nas Profissões, evento que começou ontem (4) e se estende até hoje (5), em São Paulo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/carreira/noticia/2026/08/05/quando-a-gente-assume-o-poder-e-um-peso-terrivel-diz-luiza-trajano.ghtml",
+      "published": "2026-08-05T09:01:02+00:00",
+      "source": "https://pox.globo.com/rss/valor",
       "matched_sectors": [
         "E-commerce"
       ],
