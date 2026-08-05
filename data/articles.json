@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T11:18:09.325609+00:00",
-  "count": 338,
-  "new_this_run": 7,
+  "generated_at": "2026-08-05T11:36:44.941212+00:00",
+  "count": 339,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Canetas emagrecedoras turbinam vendas nas farmácias, mas não a bolsa",
@@ -240,93 +240,6 @@
         }
       ],
       "score": 88.0
-    },
-    {
-      "title": "Hypera: Semavy tem potencial para ser um dos nossos principais produtos",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou nesta quarta-feira (29) o registro do Semavy, a caneta com semaglutida que será vendida no país pela farmacêutica brasileira Hypera. O medicamento é um dos cinco novos aprovados no país com a substância, a mesma usada nas canetas emagrecedoras da dinamarquesa Novo Nordisk, fabricante do Ozempic e do Wegovy, desde que ela perdeu a exclusividade em março. O produto é resultado de parceria com a indiana Sun Pharma, laboratório que também obteve registro próprio para dois medicamentos com a molécula nesta quarta. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/29/hypera-caneta-emagrecedora-semavy-tem-potencial-para-ser-um-dos-nossos-principais-produtos.ghtml",
-      "published": "2026-07-29T11:23:12+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta",
-        "canetas",
-        "canetas emagrecedoras",
-        "hypera",
-        "medicamento",
-        "novo nordisk",
-        "ozempic",
-        "semaglutida",
-        "wegovy"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "caneta",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "wegovy",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "novo nordisk",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "hypera",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 84.0
     },
     {
       "title": "Ozempic e Mounjaro ganham mais 5 concorrentes; Anvisa aprova novas canetas para tratamento da obesidade - Money Times",
@@ -7832,6 +7745,52 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "CVS Health Profits Hit $2.9 Billion As Firm Gets Handle On Aetna Costs",
+      "summary": "CVS Health's second quarter net income nearly tripled to $2.9 billion compared to the year ago quarter as the company gets a better handle on its Aetna health plan costs.",
+      "url": "https://www.forbes.com/sites/brucejapsen/2026/08/05/cvs-health-profits-hit-29-billion-as-firm-gets-handle-on-aetna-costs",
+      "published": "2026-08-05T10:30:00+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "cvs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "cvs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência de terceiros em projeto de infraestrutura pode afetar banco financiador?",
+      "summary": "Principal modelo de crédito para grandes obras levanta preocupação de que falhas de contratados afetem credor",
+      "url": "https://www.jota.info/coberturas-especiais/direito-e-desenvolvimento/inadimplencia-de-terceiros-em-projeto-de-infraestrutura-pode-afetar-banco-financiador",
+      "published": "2026-08-05T11:10:56+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
           "field": "title",
           "score": 20,
           "topic": null
