@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T11:13:34.071887+00:00",
-  "count": 334,
-  "new_this_run": 5,
+  "generated_at": "2026-08-06T11:48:39.294492+00:00",
+  "count": 337,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -2823,6 +2823,37 @@
         {
           "sector": "Global Consumer",
           "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Smart Fit (SMFT3): lucro líquido recorrente totaliza R$ 204 milhões, alta anual de 8% - Estadão",
+      "summary": "Smart Fit (SMFT3): lucro líquido recorrente totaliza R$ 204 milhões, alta anual de 8% &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/einvestidor/cenarios-e-mercado/smart-fit-smft3-lucro-liquido-recorrente-totaliza-r-204-milhoes-alta-anual-de-8",
+      "published": "2026-08-05T23:46:54+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "smart fit",
+        "smft3"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "smft3",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
           "field": "title",
           "score": 20,
           "topic": null
@@ -6481,6 +6512,29 @@
       "score": 20.0
     },
     {
+      "title": "Meta lanzó una app con IA para vender más en Facebook Marketplace - iproup.com",
+      "summary": "Meta lanzó una app con IA para vender más en Facebook Marketplace &nbsp;&nbsp; iproup.com",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPVmlMTnJmYjUtRGg1T0hkaXBtNnpwQ1JUck1FOHZCNGJrYUd3UUNLM0pMRzJUSVJEYlAxNWh1R0xELUlwRlluWXdzamhnTXlCaUdLclJpTUhnTEs4Q0JYR1lCZVNlcHZsVUNsbDVrb3A5TUNpU0R2cFIzd0M3N1FCb2FtS1J2WVNfaE1TSFpfWVkyOGNjTHdWM1VXRkN5cF9iVXhuVmFucWhEdWfSAbABQVVfeXFMTVdZdmxUSmZXRHprT3ZXNk51Zld0U2lDZmlqWWMtRm9YcVBNWEhkd2dPNDRaVlItQzdNV01oMEozNTlLOTBDNE1NcktuV1hmN3pScVhjZ1NMMnZwZUx1YUF6TE96VjlLR3NGR3Z5YnR6WER4eG5lOXhUM0VzNXVLeElRTnZCZlpUMFdEYk5KSndrMjVEb0hBcXdlYVZKUWFmeGpyTzZuUkhsbGdKTGctRC0?oc=5",
+      "published": "2026-08-04T23:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Aos 50 anos, C&A abrirá 'loja conceito' na Avenida Paulista, nova vitrine do varejo",
       "summary": "Unidade será inaugurada com o conceito \"Energia\" e integra plano de crescimento da varejista, que fechou o 2º trimestre com lucro recorde, apesar de desaceleração das vendas",
       "url": "https://exame.com/invest/mercados/aos-50-anos-cea-abrira-loja-conceito-na-avenida-paulista-vitrine-varejo",
@@ -7324,6 +7378,29 @@
         {
           "sector": "E-commerce",
           "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lucro da Vivara (VIVA3) tem leve alta em um ano e alcança R$ 156,7 milhões no 2T26 - Estadão",
+      "summary": "Lucro da Vivara (VIVA3) tem leve alta em um ano e alcança R$ 156,7 milhões no 2T26 &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/einvestidor/cenarios-e-mercado/lucro-da-vivara-viva3-tem-leve-alta-em-um-ano-e-alcanca-r-1567-milhoes-no-2t26",
+      "published": "2026-08-05T23:16:22+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "vivara"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "vivara",
           "field": "title",
           "score": 20,
           "topic": null
