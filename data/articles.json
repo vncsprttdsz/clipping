@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-06T09:18:48.285880+00:00",
-  "count": 339,
-  "new_this_run": 12,
+  "generated_at": "2026-08-06T10:06:02.911721+00:00",
+  "count": 332,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -917,6 +917,45 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Reforma Tributária: governo prepara programa que livra empresas de multas na transição da CBS e do IBS",
+      "summary": "O governo e o comitê gestor do Imposto sobre Bens e Serviços (IBS) devem lançar nas próximas semanas um \"programa de conformidade\" para as empresas que estão emitindo notas destacando os tributos da Reforma Tributária. Pela legislação, os contribuintes pessoa jurídica já precisam mostrar nas notas fiscais quanto seria recolhido de Contribuição sobre Bens e Serviços (CBS) e IBS se elas já estivessem valendo, considerando uma alíquota de 1%. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/fabio-graner/post/2026/08/reforma-tributaria-governo-prepara-programa-que-livra-empresas-de-multas-na-transicao-da-cbs-e-do-ibs.ghtml",
+      "published": "2026-08-06T09:00:15+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 60.0
@@ -2997,45 +3036,6 @@
       "score": 36.0
     },
     {
-      "title": "Reforma Tributária: entenda a mudança em notas fiscais que começa nesta segunda",
-      "summary": "A partir de 3 de agosto, empresas do regime normal precisam citar alíquotas de CBS e IBS, embora a cobrança ainda não seja feita agora",
-      "url": "https://exame.com/economia/reforma-tributaria-entenda-a-mudanca-em-notas-fiscais-que-comeca-nesta-segunda",
-      "published": "2026-08-03T06:01:09+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 36.0
-    },
-    {
       "title": "STF derruba restrição da Reforma Tributária e amplia isenção para compra de carro por autistas e pessoas com deficiência mental",
       "summary": "O Supremo Tribunal Federal (STF) decidiu nesta segunda-feira ampliar a isenção prevista na regulamentação da Reforma Tributária para a compra de veículos por pessoas com transtorno do espectro autista (TEA) e pessoas com deficiência mental. A decisão foi tomada por unanimidade. Os ministros derrubaram um trecho da lei que restringia o benefício apenas a casos classificados como moderados ou graves, permitindo que a alíquota zero de IBS e CBS (os impostos criados pela reforma na fusão de PIS, Cofins, ICMS, ISS e IPI) passe a valer independentemente do grau da deficiência. Move Brasil: qual carro cabe no seu bolso? Calculadora do GLOBO simula parcela de cada modelo para motoristas de app e táxi IBS e CBS: entenda o que são as novas siglas que estarão nas notas fiscais a partir de hoje Foi o primeiro julgamento do plenário do STF dedicado exclusivamente a um ponto da regulamentação da Reforma Tributária. A Corte analisou duas ações diretas de inconstitucionalidade que questionavam critérios estabelecidos pela Lei Complementar responsável por regulamentar a Emenda Constitucional 132, que instituiu a reforma. A lei previa a concessão da alíquota zero dos novos tributos sobre consumo — o Imposto sobre Bens e Serviços (IBS) e a Contribuição sobre Bens e Serviços (CBS) — na compra de automóveis por pessoas com deficiência e autistas, mas condicionava o benefício, nos casos de deficiência mental e transtorno do espectro autista, à comprovação de comprometimento moderado ou grave. Ploc e Ping Pong: como a Mondelez tenta recuperar direitos sobre as marcas de chiclete que marcaram gerações As ações foram apresentadas pelo Instituto Nacional de Direitos da Pessoa com Deficiência Oceano Azul e pela Associação Nacional de Apoio às Pessoas com Deficiência (ANAPcD). As entidades sustentaram que a regulamentação da Reforma Tributária passou a tratar de forma desigual pessoas com deficiência ao vincular o acesso à isenção ao grau de comprometimento. Moraes: 'Não vai acabar com a indústria' Ao votar, o relator, ministro Alexandre de Moraes, afirmou que a própria Emenda Constitucional 132 não estabeleceu qualquer distinção entre graus de deficiência ou níveis de suporte do autismo, razão pela qual o legislador não poderia criar essa limitação na regulamentação. — A Constituição não fez essa diferenciação — afirmou o ministro. Initial plugin text Moraes também rebateu o argumento de que a ampliação do benefício poderia provocar impacto relevante nas contas públicas. Segundo ele, dados do Mapa Autismo Brasil apontam que existem cerca de 12,6 mil pessoas com TEA nível 1 aptas a pleitear a isenção. — Se todas pedirem para comprar, a cada três anos, seriam 4 mil pessoas por ano. Esse aumento não vai acabar com a indústria automobilística no país — disse. Limite na Constituição O relator votou para retirar da legislação as expressões que restringiam o benefício a pessoas com deficiência mental \"severa ou profunda\" e a pessoas com transtorno do espectro autista em grau ou nível \"moderado ou grave\", mantendo os demais dispositivos da lei. O entendimento foi acompanhado pelos ministros Cristiano Zanin, Cármen Lúcia, Flávio Dino, André Mendonça, Luiz Fux, Dias Toffoli, Gilmar Mendes e Edson Fachin. Ao acompanhar o relator, Zanin ressaltou que a concessão de benefícios fiscais, em regra, é uma opção do Legislativo, mas afirmou que, neste caso, a restrição criada pela Lei Complementar extrapolou os limites definidos pela própria Constituição. — É possível que a isenção tributária preveja algumas limitações, mas aqui não havia essa liberdade para o legislador — afirmou. A ministra Cármen Lúcia também entendeu que a diferenciação não encontrava respaldo constitucional. Segundo ela, a norma rompeu a proteção já assegurada às pessoas com deficiência. — Havia já uma legislação prevendo, com integridade do sistema, a proteção garantida a deficientes e autistas, incluída num guarda-chuva constitucional. Isso não é um benefício no sentido de privilégio, mas uma garantia constitucional para a fruição de direitos fundamentais — ela disse.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/08/03/stf-derruba-restricao-da-reforma-tributaria-e-amplia-isencao-para-compra-de-carro-por-autistas-e-pessoas-com-deficiencia-mental.ghtml",
@@ -3972,144 +3972,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Adidas eleva meta de vendas e nomeia nova diretora financeira",
-      "summary": "A Adidas elevou sua projeção de vendas para o ano fechado após apresentar um forte desempenho no primeiro semestre, além de ter anunciado a nomeação de uma nova diretora financeira. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/07/30/adidas-eleva-meta-de-vendas-e-nomeia-nova-diretora-financeira.ghtml",
-      "published": "2026-07-30T09:41:18+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "adidas"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "adidas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "O que se sabe sobre as novas canetas emagrecedoras aprovadas pela Agência Nacional de Vigilância Sanitária - Folha PE",
-      "summary": "O que se sabe sobre as novas canetas emagrecedoras aprovadas pela Agência Nacional de Vigilância Sanitária &nbsp;&nbsp; Folha PE",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOVDdsdWxxdlVKOEY1SXRUZ1Myb0ZTRnJObl9DMkp4eWpRMzZqRjZ1dUwtNUYtcUtRZk15Y3pkcFZyU2x5bExuZHhhbGJxelZXenVoano2dFFpUjNxdUFoNmxjN0NYVzBNWHhwOG0xX2JYTFR0cVhhS0dkd1RXRlVMb0lfaklSVTk3UWRlaENOSGVKMEdtSE9pMnhITlNQMlpiMlFoVlZKNkFKX1NHWGc?oc=5",
-      "published": "2026-07-30T09:42:27+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Quem vai suceder Bernard Arnault? - Brazil Journal",
-      "summary": "Quem vai suceder Bernard Arnault? &nbsp;&nbsp; Brazil Journal",
-      "url": "https://braziljournal.com/quem-vai-suceder-bernard-arnault",
-      "published": "2026-07-30T09:50:29+00:00",
-      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "bernard arnault"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "bernard arnault",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas para o vício? O que diz a ciência sobre o efeito de remédios como Ozempic contra a dependência",
-      "summary": "Medicamentos são testados no tratamento de dependências químicas como a alcoólica",
-      "url": "https://veja.abril.com.br/saude/canetas-contra-o-vicio-o-que-diz-a-ciencia-sobre-o-efeito-de-remedios-como-ozempic-contra-a-dependencia",
-      "published": "2026-07-30T10:00:00+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mercado livre pode não baratear energia em 2028 se distorções não forem corrigidas, diz executivo - Folha de S.Paulo",
-      "summary": "Mercado livre pode não baratear energia em 2028 se distorções não forem corrigidas, diz executivo &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/07/mercado-livre-pode-nao-baratear-energia-em-2028-se-distorcoes-nao-forem-corrigidas-diz-executivo.shtml",
-      "published": "2026-07-30T10:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado livre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Agência de Comunicação - China Hoje: A economia da experiência e o novo turismo chinês - Estadão Blue Studio",
-      "summary": "Agência de Comunicação - China Hoje: A economia da experiência e o novo turismo chinês &nbsp;&nbsp; Estadão Blue Studio",
-      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/prnewswire/china-hoje-a-economia-da-experiencia-e-o-novo-turismo-chines",
-      "published": "2026-07-30T10:02:17+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Juro médio das operações de crédito sobe a 33,4% ao ano em junho; inadimplência fica estável",
@@ -8085,29 +7947,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Sob nova gestão, Ribeiro Caram direciona 60% do esforço para construção de data centers",
-      "summary": "Diego Baez assume o cargo CEO da Ribeiro Caram com um objetivo principal: colocar a empresa, que hoje opera, sobretudo, galpões logísticos, no mapa dos data centers. Leia mais (07/30/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/07/sob-nova-gestao-ribeiro-caram-direciona-60-do-esforco-para-construcao-de-data-centers.shtml",
-      "published": "2026-07-30T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "galpões logísticos"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "galpões logísticos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Concessões de crédito aumentam 0,4% em junho, informa BC",
