@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-09T05:38:26.477892+00:00",
+  "generated_at": "2026-08-09T07:43:29.473496+00:00",
   "count": 445,
-  "new_this_run": 21,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -3427,45 +3427,6 @@
         }
       ],
       "score": 38.0
-    },
-    {
-      "title": "Shoppings apostam em lives, games e minibairros para reconquistar o cliente que compra on-line",
-      "summary": "Ir ao shopping center não é mais como antes. Se há pouco tempo o centro comercial era o lugar preferencial para fazer compras, o crescimento acelerado do comércio eletrônico tirou muita gente dos corredores e de lojas físicas, além de ter chacoalhado as estratégias das administradoras dos centros comerciais. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/02/shoppings-apostam-em-lives-games-e-minibairros-para-reconquistar-o-cliente-que-compra-on-line.ghtml",
-      "published": "2026-08-02T07:01:08+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "comercio eletronico",
-        "compra on-line",
-        "comércio eletrônico"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "compra on-line",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comercio eletronico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0
     },
     {
       "title": "STF derruba restrição da Reforma Tributária e amplia isenção para compra de carro por autistas e pessoas com deficiência mental",
@@ -10259,6 +10220,29 @@
         {
           "sector": "Global Consumer",
           "alias": "pfizer",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras escancaram luta desigual por acesso à saúde no Brasil - G1",
+      "summary": "Canetas emagrecedoras escancaram luta desigual por acesso à saúde no Brasil &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/saude/noticia/2026/08/08/canetas-emagrecedoras-escancaram-luta-desigual-por-acesso-a-saude-no-brasil.ghtml",
+      "published": "2026-08-08T11:27:43+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
