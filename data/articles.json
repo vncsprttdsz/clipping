@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T10:17:00.089420+00:00",
-  "count": 448,
-  "new_this_run": 3,
+  "generated_at": "2026-08-10T10:52:38.250940+00:00",
+  "count": 452,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -3751,6 +3751,84 @@
           "alias": "americanas",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Reforma tributária nas informações contábeis - Parte 1",
+      "summary": "Bastante aguardada pelo mercado, especialmente pelos profissionais da contabilidade, o Conselho Federal de Contabilidade – CFC publicou a Orientação Técnica – OT CFC n° 001/2026. Neste documento, o CFC expõe as diretrizes para o reconhecimento, a mensuração e a divulgação do IBS e da CBS. Desde logo, parabenize-se o trabalho técnico do CFC: pela forma e pelo conteúdo da OT. Não foi o propósito da OT tratar de todas as situações da reforma tributária que têm impacto nas informações contábeis – essa tarefa talvez seja impossível. De maneira adequada, a OT estabelece diretrizes para o regime geral de IBS e CBS. O documento foca nos pontos mais controvertidos até agora: o reconhecimento da receita, o reconhecimento dos créditos fiscais e o tratamento contábil para este ano de teste e definição da alíquota de referência. Quanto à receita, especializa para a matéria e concretiza as normas brasileiras de contabilidade (NBC): na demonstração do resultado, o CFC recomenda que seja informada o que conhecemos como “receita líquida”. Isto é, o valor da operação é segregado entre o preço do produto, serviço ou direito e o valor dos tributos. O primeiro é propriamente a receita da empresa; o segundo, um passivo a ser reconhecido. Com relação aos créditos fiscais, esclarece que tanto a existência de uma única conta contábil quanto de duas contas – “crédito fiscal a apropriar” e “crédito fiscal apropriado” – produzem igualmente informações financeira útil, cabendo à administração da empresa decidir como apresentar o ativo. O importante é que seja transmitida informação adequada à realidade das transações da empresa. A prática das empresas, que pode resultar em uma prática reiterada e consolidada, mostra-se no seguinte sentido: no balancete de verificação, documento contábil analítico, são abertas duas contas, tal como comentado; no balanço patrimonial, sintético, apenas uma conta, que pode ser complementada com nota explicativa correspondente. Nessa prática, a principal preocupação reside no controle da mudança de “status” do crédito fiscal: de “a apropriar” para “apropriado”. Por enquanto, parece que a única forma de controle é “acreditar” na apuração assistida prometida pelo governo. Por fim, com relação ao ano de 2026, também de maneira adequada, a OT expõe os argumentos para as duas possibilidades: tratar IBS e CBS já nas demonstrações contábeis ou, especialmente porque não são devidos esses tributos, deixá-los de fora das informações contábeis. Novamente, essa questão depende do julgamento da administração da empresa. Entretanto, tem-se visto notas fiscais com destaque do IBS e da CBS, o que está correto, mas cujos valores são somados ao total da nota fiscal (não é raro que haja divergência entre o valor total da nota fiscal e o valor do boleto para pagamento, este menor do que aquele. Trata-se, provavelmente, de diferença na parametrização do sistema de informática (ERP) destinado à emissão do documento fiscal. calculadora Chris Ratcliffe/Bloomberg",
+      "url": "https://valor.globo.com/legislacao/fio-da-meada/post/2026/08/reforma-tributaria-nas-informacoes-contabeis-parte-1.ghtml",
+      "published": "2026-08-10T10:00:51+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Anvisa espera analisar até dezembro 13 pedidos de análogos sintéticos de GLP-1",
+      "summary": "A chegada das versões 'genéricas' de canetas emagrecedoras é apontada como mecanismo protetor contra o uso de produtos sem registro",
+      "url": "https://www.jota.info/saude/anvisa-espera-analisar-ate-dezembro-13-pedidos-de-analogos-sinteticos-de-glp-1",
+      "published": "2026-08-10T10:30:32+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "glp-1"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -10534,6 +10612,29 @@
       "score": 20.0
     },
     {
+      "title": "Desenrola Adimplentes começa hoje; veja quem pode renegociar dívidas",
+      "summary": "Programa permite renegociar até R$ 15 mil em dívidas de trabalhadores informais com juros reduzidos; governo alterou regras para ampliar adesão dos bancos",
+      "url": "https://exame.com/invest/minhas-financas/desenrola-adimplentes-comeca-hoje-veja-quem-pode-renegociar-dividas",
+      "published": "2026-08-10T07:13:25+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "title",
+          "score": 20,
+          "topic": "desenrola"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Revolut gets French bank license - reuters.com",
       "summary": "Revolut gets French bank license &nbsp;&nbsp; reuters.com",
       "url": "https://www.reuters.com/business/finance/revolut-gets-french-bank-license-2026-08-10",
@@ -10572,6 +10673,52 @@
         {
           "sector": "E-commerce",
           "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Revolut wins French banking licence",
+      "summary": "Authorisation from regulator accelerates UK-headquartered fintech’s European expansion plans",
+      "url": "https://www.ft.com/content/1f5e2807-5110-47bc-baf1-757c7b675cb0?syn-25a6b1a6=1",
+      "published": "2026-08-10T09:43:23+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Revolut recebe licença bancária na França para ampliar operação na Europa Ocidental - Bloomberg Línea Brasil",
+      "summary": "Revolut recebe licença bancária na França para ampliar operação na Europa Ocidental &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/revolut-recebe-licenca-bancaria-na-franca-para-ampliar-operacao-na-europa-ocidental",
+      "published": "2026-08-10T10:15:04+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
           "field": "title",
           "score": 20,
           "topic": null
@@ -12404,29 +12551,6 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Mega-Sena: bolão de Fortaleza acerta seis números e leva R$ 164,9 milhões; veja dezenas sorteadas",
-      "summary": "A Caixa Econômica Federal realizou neste domingo o sorteio do concurso 3.042 da Mega-Sena, com o prêmio principal de R$ 164.895.645,50 milhões. As dezenas sorteadas foram: 02 - 35 - 53 - 10 - 40 - 05. Uma aposta feita na Lotérica Aldeota, em Fortaleza (CE), por meio de um bolão com 100 cotas, foi a grande vencedora do concurso e levará sozinha R$ 164,9 milhões. Desenrola Brasil 2.0: calculadora mostra quanto você economiza no cheque especial FGTS aprova distribuição de lucro de R$ 13 bi a trabalhadores. Veja na calculadora quanto vai para sua conta O prêmio será dividido entre os participantes do bolão, de acordo com a quantidade de cotas de cada um. Segundo a Caixa Econômica Federal, o jogo foi registrado por multicanal. Nesse tipo de aposta, parte das cotas do mesmo bilhete é vendida no balcão da lotérica, enquanto outra parte fica disponível nos canais digitais da Caixa. Das demais apostas feitas, 246 acertaram a quina e levarão R$ 22.927,51 cada. Outros 13.158 apostadores tiveram quatro acertos e ficarão com R$ 706,56 cada. O sorteio foi realizado às 11h, horário de Brasília, no Espaço da Sorte, em São Paulo (SP), e conta transmissão ao vivo pelas redes sociais da instituição. Como jogar na Mega-sena? Para jogar na Mega-Sena, o palpite mínimo custa R$ 6,00. Além desse modelo de aposta, com seis números selecionados, que paga o prêmio principal, ainda é possível ganhar prêmios ao acertar quatro ou cinco dezenas. As apostas podem ser feitas até as 20h do dia do concurso, nas casas lotéricas credenciadas, pela internet ou no aplicativo da loteria. Os sorteios ocorrem às 21h, no Espaço da Sorte, em São Paulo (SP), com transmissão ao vivo pelas redes sociais da instituição. Bolão O Bolão Caixa é a possibilidade que o apostador tem de realizar apostas em grupo. Basta preencher o campo próprio no volante ou solicitar ao atendente da lotérica. Na Mega-Sena, os bolões têm um preço mínimo de apenas R$ 18,00, com cada cota a partir de R$ 6,00. Os maiores prêmios da Mega-Sena Veja os dez maiores prêmios sorteados na História da Mega-Sena: Concurso 3.010 (24/05/2026) — R$ 336.340.043,67 Concurso 2.525 (01/10/2022) — R$ 317.853.788,54 Concurso 2.150 (11/05/2019) — R$ 289.420.865,00 Concurso 2.237 (27/02/2020) — R$ 211.652.717,74 Concurso 2.795 (09/11/2024) — R$ 207.460.095,00 Concurso 2.696 (05/03/2024) — R$ 206.475.189,75 Concurso 1.764 (25/11/2015) — R$ 205.329.753,89 Concurso 1.772 (22/12/2015) — R$ 197.377.949,52 Concurso 2.464 (19/03/2022) — R$ 189.381.872,36 Concurso 2.745 (04/07/2024) — R$ 162.788.325,19",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/08/09/mega-sena-sorteia-premio-de-r-165-milhoes-veja-numeros-sorteados.ghtml",
-      "published": "2026-08-09T14:01:33+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
         }
       ],
       "score": 8.0
