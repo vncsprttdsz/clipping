@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T09:07:18.255975+00:00",
-  "count": 447,
-  "new_this_run": 0,
+  "generated_at": "2026-08-10T09:40:53.985473+00:00",
+  "count": 449,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -3667,6 +3667,53 @@
         }
       ],
       "score": 36.0
+    },
+    {
+      "title": "Reforma muda tributação das bets no Brasil",
+      "summary": "A reforma tributária criou um regime específico para as bets . Também determinou que o Imposto Seletivo , tributo criado para incidir sobre bens e serviços considerados prejudiciais à saúde ou ao meio ambiente , faça parte da base de cálculo do IBS (Imposto sobre Bens e Serviços) e da CBS (Contribuição sobre Bens e Serviços), que serão cobrados a partir de 2027. Leia mais (08/10/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/reforma-muda-tributacao-das-bets-no-brasil.shtml",
+      "published": "2026-08-10T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "imposto seletivo",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "imposto seletivo",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 32.0
     },
     {
       "title": "Vendas no varejo relacionadas a Dia dos Pais devem crescer 2,9% e atingir R$ 8,52 bi, diz CNC",
@@ -10483,6 +10530,29 @@
         {
           "sector": "Global Consumer",
           "alias": "target",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Revolut gets French bank license - reuters.com",
+      "summary": "Revolut gets French bank license &nbsp;&nbsp; reuters.com",
+      "url": "https://www.reuters.com/business/finance/revolut-gets-french-bank-license-2026-08-10",
+      "published": "2026-08-10T07:41:07+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
           "field": "title",
           "score": 20,
           "topic": null
