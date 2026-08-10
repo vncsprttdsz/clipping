@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-10T06:01:34.042513+00:00",
-  "count": 447,
-  "new_this_run": 18,
+  "generated_at": "2026-08-10T08:21:23.997779+00:00",
+  "count": 449,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -1684,6 +1684,45 @@
         {
           "sector": "Farmácias",
           "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "‘Pretendemos investir fortemente em serviços’, diz CEO da Petz Cobasi",
+      "summary": "Há 40 anos, os pastores alemães da família de Paulo Nassar ficavam no quintal e se alimentavam da comida feita pela mãe dele. Hoje, a yorkshire Roma come ração balanceada e dorme dentro de casa — geralmente na cama do executivo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/10/pretendemos-investir-fortemente-em-servicos-diz-ceo-da-petz-cobasi.ghtml",
+      "published": "2026-08-10T07:00:43+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Pet"
+      ],
+      "matched_aliases": [
+        "cobasi",
+        "petz",
+        "ração"
+      ],
+      "matches": [
+        {
+          "sector": "Pet",
+          "alias": "petz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Pet",
+          "alias": "cobasi",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Pet",
+          "alias": "ração",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -3427,6 +3466,37 @@
         {
           "sector": "E-commerce",
           "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Una financiera se convierte en billetera y va por el negocio de Mercado Pago y Ualá - iProUP",
+      "summary": "Una financiera se convierte en billetera y va por el negocio de Mercado Pago y Ualá &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/70529-una-financiera-se-convierte-en-billetera-y-va-por-el-negocio-de-mercado-pago-y-uala",
+      "published": "2026-08-09T07:47:23+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago",
+        "ualá"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ualá",
           "field": "title",
           "score": 20,
           "topic": null
@@ -5184,29 +5254,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Gold Rises As Middle East Diplomacy Hopes Push Oil Lower",
-      "summary": "Gold prices edge higher as renewed Middle East diplomacy pushed oil prices lower.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-rises-on-technical-rebound-e221dd67?mod=rss_markets_main",
-      "published": "2026-08-03T07:58:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Shein revela prospecto de IPO em Hong Kong: investigações nos EUA e na Europa e pressão de tarifas - Estadão",
@@ -10317,6 +10364,29 @@
       "score": 20.0
     },
     {
+      "title": "IA argentina crea fotos y videos de productos para vender más en Mercado Libre - iProUP",
+      "summary": "IA argentina crea fotos y videos de productos para vender más en Mercado Libre &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/startups/70530-ia-argentina-crea-fotos-y-videos-de-productos-para-vender-mas-en-mercado-libre",
+      "published": "2026-08-09T06:44:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado libre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado libre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Na era das canetas emagrecedoras, academias criam método para preservar massa muscular - O GLOBO",
       "summary": "Na era das canetas emagrecedoras, academias criam método para preservar massa muscular &nbsp;&nbsp; O GLOBO",
       "url": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/08/na-era-das-canetas-emagrecedoras-academias-criam-metodo-para-preservar-massa-muscular.ghtml",
@@ -10470,6 +10540,29 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "J.P. Morgan lifts 2026-end target for S&P 500 to 8,000 on AI, earnings strength - Reuters",
+      "summary": "J.P. Morgan lifts 2026-end target for S&amp;P 500 to 8,000 on AI, earnings strength &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/jp-morgan-lifts-2026-end-target-sp-500-8000-ai-earnings-strength-2026-08-10",
+      "published": "2026-08-10T06:21:44+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "target"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "target",
           "field": "title",
           "score": 20,
           "topic": null
@@ -10789,6 +10882,37 @@
       "score": 16.0
     },
     {
+      "title": "Endividamento entre famílias de baixa renda alcança 84,9%",
+      "summary": "O endividamento das famílias de baixa renda bateu recorde em julho, segundo pesquisa da Confederação Nacional do Comércio (CNC). Recorte exclusivo do levantamento, divulgado ao Valor, mostra que a parcela de famílias endividadas com renda de até três salários mínimos (R$ 4.863) foi de 84,9%, maior percentual pelo menos desde maio de 2023, início da pesquisa. Consideradas todas as faixas de renda, o endividamento atinge 82%, também recorde. O recorte ainda mostra o aumento da inadimplência entre os grupos de menor renda, que representam 43% do universo de 17,8 mil famílias pesquisas. O percentual daquelas que admitiram dívidas atrasadas subiu de 38,3% em junho para 38,5%. A proporção de inadimplentes sem condição de quitar seus compromissos subiu de 17,6% para 17,8% no período. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/08/10/endividamento-entre-familias-de-baixa-renda-alcanca-849.ghtml",
+      "published": "2026-08-10T08:00:20+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento das famílias",
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Agenda de empresas: Lucro da ISA Energia recua 32%; ganho do BB Seguridade soma R$ 2,15 bi",
       "summary": "ISA Energia A ISA Energia Brasil encerrou o segundo trimestre do ano com um lucro líquido regulatório de R$ 174 milhões, montante que representa uma redução de 32% ante o verificado em igual etapa do ano passado. A teleconferência será realizada às 10h. BB Seguridade A BB Seguridade encerrou o segundo trimestre com lucro gerencial de R$ 2,15 bilhões, o que representa uma queda de 6,5% ante o registrado no mesmo período de 2025. A teleconferência será realizada às 11h. Pague Menos A Pague Menos apresentou um lucro líquido de R$ 71,1 milhões no segundo trimestre de 2026, representando uma melhora anual de 41,6%. A teleconferência será realizada às 10h. Marcopolo A Marcopolo registrou lucro líquido de R$ 272,4 milhões no segundo trimestre de 2026, representando uma piora de 14,7% ante o resultado do mesmo período de 2025. A teleconferência será realizada às 9h. BradSaúde A Bradsaúde, nova empresa que reúne os negócios de saúde do Grupo Bradesco, registrou um lucro líquido de R$ 1,1 bilhão, alta de 24,8% na comparação anual. A teleconferência será realizada às 11h. Tegma A Tegma, empresa do ramo de logística, apresentou um lucro líquido de R$ 83,1 milhões no segundo trimestre de 2026, representando alta de 23,8% em um ano. A teleconferência será realizada às 15h. Cogna A Cogna Educação anunciou que o conselho de administração da Vasta Platform Limited, sua controlada, aprovou a sua incorporação pela Somos Sistemas de Ensino, sua controlada indireta. Motiva Grupo Soares Penido, Votorantim e Itaúsa manifestaram ao Grupo Mover a intenção de renovar o acordo de acionistas da Motiva. IMC A International Meal Company (IMC) concluiu a venda da subsidiária RA Catering, que fornece refeições para companhias aéreas, à Aerovip, por R$ 20 milhões. Paranapanema A Paranapanema, companhia em recuperação judicial, informou que seu conselho de administração homologou parcialmente um aumento de capital por meio da subscrição privada de ações Balanços A C&amp;A, CBA, Gerdau, GPA, Iguatemi, Itaú Unibanco, Prio, RD Saúde, Tenda e Vulcabras divulgam seus resultados trimestrais após o fechamento do mercado. No exterior, são esperados os resultados da Aramco, Archer Daniels Midland (ADM), Bayer, BP, Caterpillar, Continental, DuPont, Eve, HSBC, Kimberly-Clark, Lufthansa, McDonald’s, Nippon Steel, Pfizer, Spotify, Toyota, AMD, Latam, Mattel, Mosaic, Paramount Skydance, SpaceX e Ternium. Pexels",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/04/agenda-de-empresas-lucro-da-isa-energia-recua-32percent-ganho-do-bb-seguridade-soma-r-215-bi.ghtml",
@@ -10891,52 +11015,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Receio de calote e dificuldade de comprovar renda travam Move Brasil",
-      "summary": "Pouco mais de um mês após o lançamento do Move Brasil, programa de financiamento de automóveis voltado a taxistas e motoristas de aplicativos, muitos deles enfrentam dificuldades para adquirir um carro. Entre os principais entraves estão inadimplência, elevado nível de endividamento e dificuldade para comprovar renda, já que boa parte é trabalhador autônomo. Há queixas ainda de demora na liberação dos veículos, mesmo quando o crédito é aprovado. Com tantos obstáculos, a linha registrou demanda de R$ 2,2 bilhões até o fim da semana passada, 7,3% do total — o governo reservou R$ 30 bilhões. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/03/receio-de-calote-e-dificuldade-de-comprovar-renda-travam-move-brasil.ghtml",
-      "published": "2026-08-03T07:30:16+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Multinacionais aproveitam ações baratas e aceleram a retirada de filiais da bolsa",
-      "summary": "A estratégia do Santander de adquirir os 10% restantes do Santander Brasil segue uma tendência de conglomerados estrangeiros de comprarem as fatias minoritárias de subsidiárias listadas na B3. Em ambiente de juros altos, baixa liquidez e escassez de novas emissões, grupos globais como Iberdrola, EDP e Carrefour retiraram suas operações locais do mercado, enquanto outros avaliam lançar ofertas públicas de aquisição de ações (OPAs). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/08/03/multinacionais-aproveitam-acoes-baratas-e-aceleram-a-retirada-de-filiais-da-bolsa.ghtml",
-      "published": "2026-08-03T08:01:26+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "carrefour"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Empresas mais inovadoras do país serão homenageadas hoje em premiação do Valor e de Época NEGÓCIOS",
