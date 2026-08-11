@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T09:52:08.638192+00:00",
-  "count": 459,
-  "new_this_run": 4,
+  "generated_at": "2026-08-11T10:24:56.745841+00:00",
+  "count": 464,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -1638,6 +1638,45 @@
         {
           "sector": "Farmácias",
           "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Grupo SBF, da Centauro, acelera reforma de lojas - Bloomberg Línea Brasil",
+      "summary": "Grupo SBF, da Centauro, acelera reforma de lojas &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/mercados/grupo-sbf-da-centauro-acelera-reforma-de-lojas",
+      "published": "2026-08-11T09:49:30+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "centauro",
+        "grupo sbf",
+        "sbf"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "centauro",
           "field": "title",
           "score": 20,
           "topic": null
@@ -4172,6 +4211,45 @@
       "score": 36.0
     },
     {
+      "title": "Reforma tributária nas informações contábeis - Parte 2",
+      "summary": "Ao lado da Orientação Técnica – OT CFC n° 001/2026, em que o Conselho Federal de Contabilidade – CFC expõe as diretrizes para o reconhecimento, a mensuração e a divulgação do IBS e da CBS, o Ibracon, instituto dos auditores independentes, publicou a Circular n° 02/2026 sobre a apresentação dos impactos financeiros da reforma tributária. Conquanto esse documento tenha como destinatários os auditores externos, suas diretrizes servem para antecipar o que será cobrado pelas empresas, especialmente companhias abertas e demais empresas auditadas. Inicialmente, há uma certeza sobre a reforma tributária: ainda faltam muitos atos normativos e regulamentares. Ocorre que há outras certezas sobre a reforma tributária que impactam as demonstrações contábeis das empresas. Dessa forma, já é possível apurar os impactos da reforma tributária sobre os números das empresas, o que indica que se pode esperar que sejam feitos comentários sobre tais impactos em notas explicativas, especialmente para as companhias que publicam suas demonstrações contábeis. Dentre essas certezas, temos que PIS/Cofins serão extintos e sua substituta, a CBS, proporciona a tomada integral de créditos fiscais. Sendo assim, é imperioso que as projeções feitas pelas empresas considerem essa substituição de tributos e seus efeitos. Tais projeções, como o Ibracon adverte, podem servir para determinar ajustes relativos à redução do valor recuperável de ativos (“impairment”) e o valor justo de ativos. Portanto, as empresas têm informações a prestar sobre os impactos financeiros da reforma tributária, mesmo no corrente ano (2026). SAIBA MAIS: Outra certeza é que para identificar e avaliar os impactos da reforma tributária nas demonstrações contábeis, faz-se necessário simular os efeitos da reforma tributária. Várias empresas estão tomando como base os números reais de 2024 ou mesmo 2025 e realizando uma simulação contrafactual (como os economistas gostam de usar). Essa simulação aponta para a situação que as finanças corporativas teriam se – “ceteris paribus” (outra expressão dos economistas), isto é, tudo o mais constante – as regras da reforma tributária já estivessem em vigor em 2024 ou em 2025. Como pesquisador das (e apaixonado pelas) demonstrações contábeis, estou ansioso para ler as notas explicativas publicas pelas companhias sobre os impactos financeiros da reforma tributária. balanço; contabilidade; contas Unsplash",
+      "url": "https://valor.globo.com/legislacao/fio-da-meada/post/2026/08/reforma-tributaria-nas-informacoes-contabeis-parte-2.ghtml",
+      "published": "2026-08-11T10:00:41+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Reforma muda tributação das bets no Brasil",
       "summary": "A reforma tributária criou um regime específico para as bets . Também determinou que o Imposto Seletivo , tributo criado para incidir sobre bens e serviços considerados prejudiciais à saúde ou ao meio ambiente , faça parte da base de cálculo do IBS (Imposto sobre Bens e Serviços) e da CBS (Contribuição sobre Bens e Serviços), que serão cobrados a partir de 2027. Leia mais (08/10/2026 - 04h00)",
       "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/reforma-muda-tributacao-das-bets-no-brasil.shtml",
@@ -5261,6 +5339,37 @@
       "score": 28.0
     },
     {
+      "title": "O luxo ficou caro. Agora, a Kering mira as peças usadas",
+      "summary": "Grupo francês, dono de Gucci, Balenciaga e Saint Laurent, discute internamente a criação de uma plataforma própria de revenda",
+      "url": "https://exame.com/casual/o-luxo-ficou-caro-agora-a-kering-mira-as-pecas-usadas",
+      "published": "2026-08-11T06:49:10+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gucci",
+        "kering"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "kering",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "gucci",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Lucro da Smart Fit recua 4% no segundo trimestre",
       "summary": "A Smart Fit encerrou o segundo trimestre com lucro líquido de R$ 178,3 milhões, queda de 4% em relação ao mesmo período do ano anterior. Segundo a companhia, o resultado foi impactado por R$ 31,8 milhões em despesas financeiras não recorrentes relacionadas ao pré-pagamento da 7ª e da 9ª emissões de debêntures e de dívidas no México. Desconsiderados esses efeitos, o lucro líquido recorrente foi de R$ 203,6 milhões, alta de 8%. O Ebitda somou R$ 711,6 milhões entre abril e junho, avanço de 24% na comparação anual e o maior valor trimestral já registrado pela companhia. A margem Ebitda passou de 32,2% para 32,7%. Confira os resultados e indicadores da Smart Fit e das demais companhias de capital aberto no portal Valor Empresas 360 A receita líquida cresceu 22%, para R$ 2,2 bilhões, impulsionada pela expansão da rede de academias e pelo crescimento da linha de outras receitas, que inclui a plataforma TotalPass. No fim de junho, a Smart Fit operava 2.170 academias em 16 países, alta de 19% em relação ao mesmo período de 2025. Nos últimos 12 meses, a companhia inaugurou 352 unidades e manteve a projeção de abrir entre 330 e 350 academias em 2026. Os investimentos totalizaram R$ 624,6 milhões no trimestre, alta de 37% na comparação anual. Desse total, R$ 462,8 milhões foram destinados à expansão da rede. TotalPass Na operação da TotalPass, a receita da linha de outras receitas avançou 47% na comparação anual. A plataforma encerrou o trimestre com 2,2 milhões de clientes no Brasil e no México, crescimento de 70% sobre um ano antes. A dívida líquida ajustada alcançou R$ 4,6 bilhões no fim de junho, ante R$ 3,3 bilhões um ano antes. A alavancagem passou de 1,14 vez no fim de março para 1,20 vez. A companhia encerrou o trimestre com posição de caixa de R$ 2,6 bilhões. Após o encerramento do trimestre, a Smart Fit concluiu a aquisição da rede Evolve, acrescentando 30 academias próprias no Centro-Oeste. Academia da SmartFit Divulgacao/SmartFit",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/05/lucro-da-smart-fit-recua-4percent-no-segundo-trimestre.ghtml",
@@ -5645,52 +5754,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Bancos y billeteras disputan un segmento clave, pero Mercado Pago ya sacó ventaja - iProUP",
-      "summary": "Bancos y billeteras disputan un segmento clave, pero Mercado Pago ya sacó ventaja &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/finanzas/70227-mercado-pago-billetera-virtual-desplaza-bancos-jovenes-prefieren-agosto-2026",
-      "published": "2026-08-04T09:54:49+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bancos y billeteras disputan un segmento clave, pero Mercado Pago ya sacó ventaja - iproup.com",
-      "summary": "Bancos y billeteras disputan un segmento clave, pero Mercado Pago ya sacó ventaja &nbsp;&nbsp; iproup.com",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORzZLX1NvRzdCcmd3Mlk3TU1nSjV1ZG5Za0VwU2ZWM1lNdHZ5WE1CVzVKejV1Z2JhXzFjZ3JwOU9ENnZqLVQ1WjgwVHNSWHh0MWhxWmxMNU5XTWFHSkNnajRXb0t1TEI2ck1NWFNydkdicjBYMVBWMHhWSWlMcWI4MlZOSG1reFpnN2w0WUZ1b1FQNmpDbDZVNGVzN0ZfMlFuNHpUWjFiTUxpbWpCeHJIbXlFYy3SAboBQVVfeXFMUGpUeHJjQlY0V0RZSnhxcnhkMjhKdHZYQzJmZHN2UTBxOGNpc2pPeEJIdUJjZ2I3d0F5ZU1DSGw1VVFMaHBzcVVEcVh3cUF0X1FsWUs2cjdvQVZiUmh0Q09KbnBiSXB5bnY4bE8yODRjc0p1QlhzeW5IOXpibWcwX1ZCWXdwVTFGNmd4WlVvNnlUM1VJMXJXclE5UTAzM2JBV19XV092ZzBDeDNXRXpndkFOalo2aWNCdW1n?oc=5",
-      "published": "2026-08-04T09:54:49+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Pfizer tops quarterly estimates, hikes low end of revenue guidance on strength of non-Covid products",
@@ -10962,6 +11025,29 @@
       "score": 20.0
     },
     {
+      "title": "7 erros mais comuns de quem usa canetas emagrecedoras - boaforma.abril.com.br",
+      "summary": "7 erros mais comuns de quem usa canetas emagrecedoras &nbsp;&nbsp; boaforma.abril.com.br",
+      "url": "https://boaforma.abril.com.br/web-stories-abril/caneta-emagrecedora-erros-comuns",
+      "published": "2026-08-11T00:03:15+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Escala 6x1: a judicialização e o reequilíbrio de contratos que a mudança demandaria",
       "summary": "",
       "url": "https://www.estadao.com.br/economia/escala-6x1-a-judicializacao-e-o-reequilibrio-de-contratos-que-a-mudanca-demandaria",
@@ -11046,6 +11132,52 @@
         {
           "sector": "Farmácias",
           "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Grupo familiar de turismo de R$ 2 bilhões lança negócio para conectar agências e fornecedores",
+      "summary": "Konvia amplia a atuação do Grupo Kontik na distribuição de viagens para agências; companhia prevê faturar R$ 2,5 bilhões em 2026 e começa a nova operação pelo Rio de Janeiro",
+      "url": "https://exame.com/negocios/grupo-familiar-de-turismo-de-r-2-bilhoes-lanca-negocio-para-conectar-agencias-e-fornecedores",
+      "published": "2026-08-11T07:00:05+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Com eleição no horizonte, governo corre para aprovar MPs do fim da Taxa das Blusinhas e motofrete",
+      "summary": "Ao todo, Congresso tem 33 medidas provisórias; governo quer aprovar cinco delas",
+      "url": "https://exame.com/brasil/com-eleicao-no-horizonte-governo-corre-para-aprovar-mps-do-fim-da-taxa-das-blusinhas-e-motofrete",
+      "published": "2026-08-11T07:00:58+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -11164,6 +11296,29 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Reforma tributária torna necessária revisão de contratos de concessão do poder público",
+      "summary": "A regulamentação da reforma prevê o direito ao reequilíbrio econômico e financeiro, mas pode haver dificuldade nas negociações",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/reforma-tributaria-torna-necessaria-revisao-de-contratos-de-concessao-do-poder-publico",
+      "published": "2026-08-11T10:04:36+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 20.0
@@ -11581,29 +11736,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Renan Santos propõe choque fiscal de R$ 250 bi com desvinculação de despesas",
-      "summary": "O candidato à Presidência Renan Santos (Missão) defende desvincular a Previdência Social e benefícios como BPC (Benefício de Prestação Continuada) e Bolsa Família do salário mínimo, além de acabar com os pisos constitucionais de saúde e educação, para dar um choque de redução de despesas. Leia mais (08/04/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/painel/2026/08/renan-santos-propoe-choque-fiscal-de-r-250-bi-com-desvinculacao-de-despesas.shtml",
-      "published": "2026-08-04T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "salário mínimo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "salário mínimo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Um senhor seed money de US$ 85 milhões para popularizar o wealth management",
@@ -12912,6 +13044,29 @@
         {
           "sector": "Eletrônicos",
           "alias": "smartphones",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Economia do frio: quem ganha com o inverno de quase R$ 6 bilhões do Rio Grande do Sul",
+      "summary": "Hotéis, restaurantes, vinícolas e parques faturam mais com a queda dos termômetros; após as enchentes de 2024, o estado projeta nova alta do turismo em 2026",
+      "url": "https://exame.com/negocios/economia-do-frio-quem-ganha-com-o-inverno-de-quase-r-6-bilhoes-do-rio-grande-do-sul",
+      "published": "2026-08-11T07:02:49+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
           "field": "lead",
           "score": 8,
           "topic": null
