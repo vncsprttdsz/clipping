@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T08:22:45.411821+00:00",
-  "count": 457,
-  "new_this_run": 5,
+  "generated_at": "2026-08-11T09:52:08.638192+00:00",
+  "count": 459,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -11115,6 +11115,52 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras intensificam disputa - panoramafarmaceutico.com.br",
+      "summary": "Canetas emagrecedoras intensificam disputa &nbsp;&nbsp; panoramafarmaceutico.com.br",
+      "url": "https://panoramafarmaceutico.com.br/videos/painel-da-industria/canetas-emagrecedoras-intensificam-disputa",
+      "published": "2026-08-11T09:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Após Copa ‘histórica’, dona da Centauro se apoia em corrida e reforma de lojas, diz CEO - Bloomberg Línea Brasil",
+      "summary": "Após Copa ‘histórica’, dona da Centauro se apoia em corrida e reforma de lojas, diz CEO &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/apos-copa-historica-dona-da-centauro-se-apoia-em-corrida-e-reforma-de-lojas-diz-ceo",
+      "published": "2026-08-11T09:00:01+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "centauro"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "centauro",
           "field": "title",
           "score": 20,
           "topic": null
