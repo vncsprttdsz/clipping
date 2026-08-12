@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T08:08:46.575187+00:00",
-  "count": 449,
-  "new_this_run": 6,
+  "generated_at": "2026-08-12T08:51:15.030765+00:00",
+  "count": 451,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -3908,6 +3908,45 @@
           "field": "lead",
           "score": 8,
           "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "De 0 a 28%: reforma tributária e créditos de carbono do mercado voluntário",
+      "summary": "Como CBS e IBS geram dúvidas sobre tributação das operações ambientais",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/de-0-a-28-reforma-tributaria-e-creditos-de-carbono-do-mercado-voluntario",
+      "published": "2026-08-12T08:20:18+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 36.0
@@ -10789,6 +10828,29 @@
       "score": 20.0
     },
     {
+      "title": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say - Reuters",
+      "summary": "Shein plans to launch Hong Kong IPO as soon as August 19, sources say &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/shein-plans-launch-hong-kong-ipo-soon-next-wednesday-sources-say-2026-08-11",
+      "published": "2026-08-11T18:49:39+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Natura tem desempenho fraco como esperado no 2º tri, mas mostra sinais positivos, segundo analistas",
       "summary": "A Natura já havia antecipado que a receita do segundo trimestre seria marcada por desafios operacionais internos e pelo ambiente desaquecido de consumo no Brasil. Então, o balanço do período, divulgado na noite de segunda-feira (10), veio com surpresas limitadas e parte dos analistas viu indícios positivos da parte da fabricante de cosméticos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/11/natura-tem-desempenho-fraco-como-esperado-no-2o-tri-mas-mostra-sinais-positivos-segundo-analistas.ghtml",
@@ -11011,6 +11073,29 @@
         {
           "sector": "Farmácias",
           "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lucro da Natura cai 92% com falha na operação",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/12/lucro-da-natura-cai-92-com-falha-na-operacao.ghtml",
+      "published": "2026-08-12T08:01:45+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
           "field": "title",
           "score": 20,
           "topic": null
@@ -12371,29 +12456,6 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "O nanoempreendedor ante a macroburocracia",
-      "summary": "Regulamentação da reforma tributária pode ter ampliado burocracia para pequenos trabalhadores informais",
-      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-nanoempreendedor-ante-a-macroburocracia",
-      "published": "2026-08-11T15:00:48+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 8.0
