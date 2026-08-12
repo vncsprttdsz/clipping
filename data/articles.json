@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T09:41:10.224005+00:00",
-  "count": 450,
-  "new_this_run": 6,
+  "generated_at": "2026-08-12T09:57:59.625089+00:00",
+  "count": 451,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -11042,6 +11042,29 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mônica Bergamo: Governo prepara mudanças no Farmácia Popular, com teleatendimento e exames em unidades - Folha de S.Paulo",
+      "summary": "Mônica Bergamo: Governo prepara mudanças no Farmácia Popular, com teleatendimento e exames em unidades &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/08/governo-prepara-mudancas-no-farmacia-popular-com-teleatendimento-e-exames-em-unidades.shtml",
+      "published": "2026-08-12T09:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
           "field": "title",
           "score": 20,
           "topic": null
