@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-12T06:04:22.109590+00:00",
-  "count": 452,
-  "new_this_run": 52,
+  "generated_at": "2026-08-12T08:08:46.575187+00:00",
+  "count": 449,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Donas do Mounjaro e do Ozempic aumentam previsão de lucro com boom de canetas emagrecedoras",
@@ -1592,45 +1592,6 @@
       "score": 50.0
     },
     {
-      "title": "Comitê estima alíquota de IBS e CBS em 28%, acima do teto previsto na reforma",
-      "summary": "O CGIBS (Comitê Gestor do Imposto sobre Bens e Serviços) publicou resolução em que estima a alíquota de referência do novo sistema de tributação sobre o consumo, composto por IBS (Imposto sobre Bens e Serviços) e CBS (Contribuição sobre Bens e Serviços), em 27,91%, após a transição que vai até 2033. O percentual é superior ao teto de 26,5% previsto na regulamentação da reforma tributária . Leia mais (08/05/2026 - 04h00)",
-      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/comite-estima-aliquota-de-ibs-e-cbs-em-28-acima-do-teto-previsto-na-reforma.shtml",
-      "published": "2026-08-05T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 48.0
-    },
-    {
       "title": "Com 20 milhões de compradores a mais no país, comércio eletrônico caminha para recorde: impulso contribui para endividamento",
       "summary": "Fazer compras on-line já se tornou realidade para mais da metade dos brasileiros que utilizam internet (mais de 90% da população, segundo o IBGE). Esse número vem crescendo fortemente nos últimos anos, e a tendência é que continue avançando após bater um recorde no país neste ano, apontam pesquisas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/07/com-20-milhoes-de-compradores-a-mais-no-pais-comercio-eletronico-caminha-para-recorde-impulso-contribui-para-endividamento.ghtml",
@@ -1919,6 +1880,45 @@
         {
           "sector": "Wellness e Esportes",
           "alias": "centauro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Canetas emagrecedoras: como o bombardeio de postagens está distorcendo a maneira como os jovens veem o próprio corpo",
+      "summary": "Amelia Cate Prosser lembra-se de como, em 2024, os medicamentos da classe GLP-1 pareciam estar em toda parte: guardados nas geladeiras dos pais de suas amigas, exaltados no tapete vermelho e dominando as conversas no refeitório de sua escola particular só para meninas, em Melbourne, na Austrália. Mas foi nas redes sociais que o burburinho era — e continua sendo — mais intenso. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/08/12/canetas-emagrecedoras-como-o-bombardeio-de-postagens-esta-distorcendo-a-maneira-como-os-jovens-veem-o-proprio-corpo.ghtml",
+      "published": "2026-08-12T07:30:18+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "glp-1"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -3874,6 +3874,45 @@
       "score": 36.0
     },
     {
+      "title": "Dona da Shopee tem alta de 10,6% no lucro no 2º trimestre, com apoio de vendas no Brasil",
+      "summary": "A Sea, sediada em Cingapura, divulgou na terça-feira um forte crescimento de receita para o trimestre de abril a junho, impulsionado por seu negócio principal de comércio eletrônico, a Shopee, e apoiado pela expansão nos segmentos de serviços financeiros digitais e jogos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/12/dona-da-shopee-tem-alta-de-106-pontos-percentuais-no-lucro-no-2-trimestre-com-apoio-de-vendas-no-brasil.ghtml",
+      "published": "2026-08-12T05:53:19+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "comercio eletronico",
+        "comércio eletrônico",
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "comercio eletronico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Um rival para a Chilli Beans, outro para a Smart Fit: a aposta de Paulo Morais",
       "summary": "Depois de 18 anos à frente da Espaçolaser, o empresário Paulo Morais, ex-CEO e cofundador da empresa de depilação, segue de olho no mercado de franquias. Com um portfólio de uma dúzia de negócios, ele agora faz apostas em duas empresas em que vê potencial de escala e briga com gente grande: uma candidata a rival de Chilli Beans e a outra, da Smart Fit. A Yoface, uma marca nativa digital de óculos de grau e de sol criados por meio de impressoras 3D, é o investimento mais recente. Fundada pelo empresário Ivan Cavilha, ex-executivo da Chilli Beans e em 2019, a companhia desenvolve produtos ópticos personalizados sob demanda para os clientes. A principal vantagem do modelo da companhia, que recebeu R$ 500 mil de investimento da Shark Tank Carol Paiffer, é a redução de estoque e de desperdício de matéria-prima, problema comum às empresas do ramo. Espaçolaser muda tese e quer metade da rede em franquias até 2030 Zamp acerta o molho no Subway A entrada de Paulo Morais como sócio, firmada há duas semanas por meio da holding PG&amp;MP, veio com mudanças no negócio. O fundador da Espaçolaser exigiu uma queda nos preços dos óculos, hoje vendidos a quase R$ 800 nos novos modelos – em troca, o empresário pediu mais eficiência na produção para compensar eventuais reduções nas margens. Paulo Morais na Izi Gym: rede de academias low cost Divulgação Além disso, além do investimento financeiro recebido, cujo valor não foi revelado, a companhia vai usar o know-how de Morais para entrar no varejo físico pela primeira vez: ainda neste ano, três quiosques devem ser inaugurados em shoppings para as classes B e C na capital paulista. “A partir daí, com o modelo caminhando bem, dá para acelerar com franquias”, diz Morais. Até 2030, a Yoface pode capturar um sell-out de R$ 500 milhões por meio de 300 quiosques espalhados pelo Brasil, projeta o empresário. A estimativa inclui também a venda por meio de parceiros do varejo, como óticas, com uma divisão de 50% para cada canal. “Queremos pôr os esforços no varejo físico, com venda nas óticas e nos quiosques. E aí surge o digital como apoio para reforçar a presença da marca”, explica. Crise do controlador da Havanna gera atrito com franqueados 'Não prevemos o futuro, criamos o futuro', diz CEO da Oakley Além da Yoface, Morais virou um dos sócios da Izi Gym, rede de academias low cost criada para competir com Smart Fit, Panobianco, Gaviões e Skyfit – um mercado que parece saturado e, ainda assim, não para de ganhar competidor. Ele divide sociedade com os empresários João Bordignon (Capricórnio Têxtil), Abrão Antonio Sébe (Grupo IUNI), Tarcísio de Almeida Filho e Lucas Haddad. O CEO é Alan Feis Haddad, franqueado da Espaçolaser. Com três unidades já inauguradas desde o lançamento em março passado, a Izi Gym tem planos de somar mais de 30 academias pelo Brasil até 2027. A rede está presente em São Paulo, Belo Horizonte e Manaus. O principal diferencial é o que Morais chama de “low cost premium”: cobrando entre R$ 160 a R$ 180 na mensalidade, a rede oferece academias de até 1,2 mil m², equipamentos Technogym e “o cuidado de não superlotar a academia a ponto de haver filas para revezar” os equipamentos, diz. Grupo Open Brasil quer fazer do Rio a capital nacional do wellness Vicci entra na disputa das academias de luxo, com mensalidade de R$ 7 mil “Estou bem empolgado com o setor de academias, que está sendo impulsionado pela tendência de autocuidado da Geração Z e pelo uso das canetas emagrecedoras, que tem um efeito cascata em diversos setores”, afirma Morais, que também colocou marcas de alimentação saudável e vestuário fitness no radar. Ele deixou a função executiva na Espaçolaser em 2022 e criou a holding PM&amp;GP (as iniciais dos membros da sua família: Paulo, Márcia, Gabriela, Pedro Paulo). Além de suas ações na companhia de depilação, a estrutura compra fatias minoritárias de negócios de serviços de beleza, saúde e wellness. A condição, diz o empresário, é ter uma posição relevante o suficiente para “contribuir de forma positiva”. “Não sou investidor passivo. Não ponho dinheiro e fico rezando para dar certo”, diz ele. Citi avalia a TotalPass em R$ 1,7 bi, quase 15% da Smart Fit Os irmãos que querem fazer da Goper a Peloton brasileira — sem os erros O portfólio da PM&amp;GP conta ainda com a Bioma by Laces&amp;Hair, de tratamento capilar, com 100 unidades; a Novofio, rede de franquias de transplante capilar, com 60; além de Mundo Terra, a CGE e a Capricórnio Têxtil. “Busco por modelos que sejam minimamente testados. Não queremos inventar a roda, mas ajudar a acelerar algo que já existe”, diz.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/um-rival-para-a-chilli-beans-outro-para-a-smart-fit-a-aposta-de-paulo-morais.ghtml",
@@ -5433,98 +5472,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Canetas emagrecedoras podem afetar a libido? Entenda os impactos do uso no desejo sexual - Gshow",
-      "summary": "Canetas emagrecedoras podem afetar a libido? Entenda os impactos do uso no desejo sexual &nbsp;&nbsp; Gshow",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWF80MHdQNkVybHA0eVFkTzlrV1hkREJUWmhaZDlxeWZlakt5WnBwYU1vVmpnaXpSSlRIZWlvZkxoN3p4dVNKNlg1bHRyc01LVi1OU2tOeTZnRnBFcFhBWVd3bU9JYm9nb0pBX21acUE3dGlVS05vcFRMYnhiZ1dHNF9vRkp1eDh5WlhacWhuZE1oQWZ3cEhzZERLcGtRSEhSOEtWRzhQTUF0TWpkaExjZ0hwR1l3Q0xoMVdwLTVZUzNVWDZWT04wemVBVDNNTzU0dVFzZFJFQl9iUlZSTnV5NEM3a3phZ9IB9AFBVV95cUxNQlh4elRRaUh5bXFxcTJrNUJNUHQ1aklzTUFkZEVSdVhobDFXcGNzVFBqT3pMS1VDMk0yWFNKWkwySzZmblVXekNFVHRwa0JKcXV3Y2ZYdmp3bURaUk03b0R3ODVDeDFaWjdyZ0lRNjZlTnBpNXVXcjlLREQ0RUlwUDZxdW83WE04bklnVkIwT25FWS1ZMDNJNzJpeTlvRVlYQ3NSTUlKMjVXLU5fTFdBU3cyR1I2YzNnQWFhRUVscVhsbGVObk5fbzJ4LXZpeHJacVljZHZBMGJUN0lnQmt3cjR1YXh1bVlfUVZIalptd2lJMG1n?oc=5",
-      "published": "2026-08-05T07:01:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Brasil pode ser polo de canetas emagrecedoras - Correio Braziliense",
-      "summary": "Brasil pode ser polo de canetas emagrecedoras &nbsp;&nbsp; Correio Braziliense",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQc2E5enJiemxFbDZxam9EeWRMMllHQUNxeDhPc0hoZG5URHMyMkd2dGtzMVk2NE1vMmNmS1Y0MnhxdkJEWDhpUFRpelNDcUI3MTIycW03VzVySko4TmYwZUE2akpjc1dpd1lYRkJESzVMdjl4blZSOHNIblZIWXl2ekZYLTN4ckNSSTNyM2JKVUJ3aVRoTUZvdGRLZ1ZOcE56d0U3UGc3eDhhMGlBcU9oN1pKZ9IBuAFBVV95cUxNek16c3BKSzAyNVFReGpEeUV2Y09yY2ZvTGJGQ2tRVWtGR0tLdlZEekg2MVRocVplajJiSUVFYnhrLW5PQnhwQl8wQmwzMUoweW9TOG04MEhDcHpERG93OUREaWVtRGZiYjFyVTBXUGVmSGRxWEdMNkdzUHllNVBhakNveU5nV0VaNU9sbXp0MFl3OFc4WEVoLVhMLTVycVE0NlBWMjhkMnl1aDBFa3o2V0RaenpEZmQw?oc=5",
-      "published": "2026-08-05T08:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Pague Menos admite erro, mas resultados melhoram",
-      "summary": "O comando da Pague Menos disse ontem que cometeu erros na gestão de seu braço digital e isso afetou o crescimento da empresa no intervalo de abril a junho. Apesar desse efeito, os ganhos operacionais agradaram aos investidores e a ação fechou o dia com alta de 8,62% na B3. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/05/pague-menos-admite-erro-mas-resultados-melhoram.ghtml",
-      "published": "2026-08-05T08:01:52+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "pague menos"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "pague menos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Como o iFood Aposta no Uso da IA sem Demitir Funcionários",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Em entrevista à Forbes, o VP de Pessoas do iFood, Raphael Bozza, comenta o saltou de 2 mil para 8 mil colaboradores enquanto amplia os agentes de IA nos processos O post Como o iFood Aposta no Uso da IA sem Demitir Funcionários apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-mkt/2026/08/como-o-ifood-aposta-no-uso-da-ia-sem-demitir-funcionarios",
-      "published": "2026-08-05T08:02:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Quase unicórnio: o valuation da Decade, startup de dois ex-Nubank",
@@ -11049,6 +10996,29 @@
       "score": 20.0
     },
     {
+      "title": "Gaab comenta perda de 44 Kg com auxílio de canetas emagrecedoras: 'Reencontro comigo mesmo' - Gshow",
+      "summary": "Gaab comenta perda de 44 Kg com auxílio de canetas emagrecedoras: 'Reencontro comigo mesmo' &nbsp;&nbsp; Gshow",
+      "url": "https://gshow.globo.com/cultura-pop/famosos/noticia/gaab-comenta-perda-de-44-kg-com-auxilio-de-canetas-emagrecedoras-reencontro-comigo-mesmo.ghtml",
+      "published": "2026-08-12T06:00:12+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Petrobras, mercado de trabalho nos EUA e balança comercial: o que move os mercados",
       "summary": "No Brasil, os investidores acompanham os resultados de Petrobras, Localiza, Lojas Renner e Magazine Luiz",
       "url": "https://exame.com/invest/mercados/petrobras-mercado-de-trabalho-nos-eua-e-balanca-comercial-o-que-move-os-mercados",
@@ -11389,52 +11359,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Comer batata com casca faz mal? Especialistas apontam os cuidados necessários",
-      "summary": "Cada vez mais receitas recomendam aproveitar a casca da batata. De chips crocantes a caldos e acompanhamentos, essa parte do tubérculo deixou de ser vista como um simples resíduo para se tornar um símbolo da culinária sustentável. Demanda crescente: SUS amplia em mais de 16.000% teleatendimentos para vício em bets Duas pessoas morreram: Surto de ciclosporíase se espalha e já atinge 15 estados nos EUA Em um momento em que reduzir o desperdício de alimentos é uma prioridade, reutilizar aquilo que antes era descartado parece uma decisão lógica. Mas surge uma pergunta importante: é completamente seguro consumir a casca da batata? A resposta é mais complexa do que parece. Embora contenha fibras alimentares, vitaminas, minerais e compostos antioxidantes, a casca também concentra a maior quantidade de glicoalcaloides, substâncias naturais produzidas pela batata como mecanismo de defesa contra insetos, fungos e outros agentes externos. Os compostos que a batata produz para se proteger Os principais glicoalcaloides presentes na batata são a α-solanina e a α-chaconina. A análise dessas substâncias exige métodos avançados, capazes de detectar concentrações muito baixas em alimentos e seus derivados. Os avanços recentes permitiram compreender melhor como esses compostos se distribuem nas diferentes partes do tubérculo. Embora estejam presentes em toda a planta, suas concentrações são especialmente elevadas na casca e na polpa próxima a ela. A casca pode concentrar níveis muito mais altos de α-solanina e α-chaconina do que a polpa, o que explica por que o consumo de batatas descascadas representa uma exposição muito menor a esses compostos. Nas quantidades normalmente encontradas em uma batata bem conservada e consumida sem casca ou com pequenas porções dela, essas substâncias não representam um problema para a saúde. O risco aumenta quando são ingeridas grandes quantidades de casca ou batatas com alto teor de glicoalcaloides. Nesses casos, podem surgir efeitos adversos como náuseas, vômitos, dor abdominal e diarreia. Em situações extremas, descritas principalmente após o consumo de batatas em mau estado ou armazenadas de forma inadequada, também foram observadas alterações neurológicas. A Autoridade Europeia para a Segurança dos Alimentos (EFSA) considera que os glicoalcaloides passam a representar motivo de preocupação quando a exposição ultrapassa determinados níveis: 1 mg de glicoalcaloides por quilo de peso corporal por dia. O acúmulo dessas substâncias pode ocorrer quando as batatas são expostas à luz ou sofrem danos mecânicos durante o manuseio. A coloração esverdeada que aparece em alguns tubérculos costuma ser um sinal de alerta, pois geralmente indica condições que favorecem o aumento desses compostos. Por isso, as autoridades de saúde recomendam evitar o consumo de batatas com partes verdes, brotadas ou deterioradas. Na Espanha, a Agência Espanhola de Segurança Alimentar e Nutrição (AESAN), com base na avaliação científica da EFSA, recomenda armazenar as batatas em locais frescos, secos e escuros, retirar completamente as partes verdes e os brotos antes do consumo e descartar tubérculos em mau estado. O que acontece com a casca durante o preparo? A crescente popularidade das estratégias de aproveitamento de alimentos despertou o interesse em saber se os métodos culinários tradicionais conseguem reduzir a presença desses compostos. Com esse objetivo, um grupo de pesquisadores avaliou o efeito de diferentes técnicas de preparo sobre os níveis de α-solanina e α-chaconina nas cascas de batata. Foram analisados métodos amplamente utilizados tanto em casa quanto na indústria: fervura, assamento e fritura. Também foram testadas diferentes combinações de temperatura e tempo para identificar quais fatores mais influenciam a redução dos glicoalcaloides. Os resultados mostraram que o cozimento reduz significativamente o teor desses compostos, embora a eficácia dependa da intensidade do tratamento. Assar a 200°C por 15 minutos ou fritar a 200°C por cinco minutos proporcionou as maiores reduções de α-solanina e α-chaconina, enquanto a fervura a 100°C resultou em reduções mais moderadas após 10 e 20 minutos. Temperatura e tempo fazem diferença Entre os métodos estudados, os preparos mais intensos foram os que apresentaram as maiores reduções. A fritura e o assamento em altas temperaturas diminuíram consideravelmente as concentrações de α-solanina e α-chaconina. Já métodos mais brandos, como alguns processos de fervura ou aquecimento por menos tempo, mostraram-se menos eficazes. A explicação está relacionada à estabilidade dos glicoalcaloides. Embora sejam compostos relativamente resistentes, eles podem se degradar parcialmente quando submetidos a temperaturas suficientemente altas durante períodos adequados. No entanto, há um aspecto importante: cozinhar não elimina completamente o risco. Mesmo nas condições mais eficazes avaliadas, os glicoalcaloides não desapareceram por completo. Isso significa que a segurança do alimento também depende da qualidade da matéria-prima utilizada. Nem todas as batatas são iguais A variedade da batata é um dos fatores mais importantes para explicar as diferenças no teor de glicoalcaloides. As cascas de algumas variedades apresentam naturalmente níveis mais baixos dessas substâncias, cerca de 200 mg por quilo de peso seco, enquanto outras podem acumular quantidades muito maiores, chegando a 3.000 mg por quilo de peso seco. Por isso, cozinhar corretamente as cascas é uma medida útil, mas insuficiente por si só. A escolha de batatas em bom estado e provenientes de variedades com baixos níveis de glicoalcaloides deve ser considerada uma prática essencial para minimizar a exposição a esses compostos. Economia circular, mas com base em evidências científicas O aproveitamento de subprodutos alimentares é uma das estratégias mais promissoras para tornar os sistemas alimentares mais sustentáveis. A casca da batata é um bom exemplo: é gerada em grande quantidade tanto nas residências quanto na indústria e contém nutrientes e compostos bioativos que poderiam ser melhor aproveitados. Seu potencial como matéria-prima para novos ingredientes e produtos alimentícios vem despertando crescente interesse científico. No entanto, sustentabilidade e segurança alimentar precisam caminhar juntas. A economia circular não consiste apenas em reutilizar subprodutos, mas em identificar quais usos são seguros, viáveis e benéficos para o consumidor. Nesse contexto, a pesquisa científica desempenha papel fundamental ao determinar em quais condições determinados resíduos podem ser reincorporados à cadeia alimentar sem representar riscos. Aproveitar a casca da batata pode ajudar a reduzir o desperdício de alimentos, mas fazê-lo com segurança exige seguir recomendações respaldadas por evidências científicas. Afinal, uma alimentação verdadeiramente sustentável não busca apenas reduzir o desperdício, mas também garantir a segurança do que chega à mesa.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/08/05/comer-batata-com-casca-faz-mal-especialistas-apontam-os-cuidados-necessarios.ghtml",
-      "published": "2026-08-05T07:00:58+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "A desaceleração da economia é desigual",
-      "summary": "O consumo das famílias perde fôlego. Ele cresceu 1,3% em 2025 em relação ao ano anterior, ante o crescimento de 5,1% em 2024. No entanto, há sinais de descompasso na dinâmica de consumo entre as classes sociais. O segmento mais rico sente menos a desaceleração da economia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/zeina-latif/coluna/2026/08/a-desaceleracao-da-economia-e-desigual.ghtml",
-      "published": "2026-08-05T07:01:05+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "consumo das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "consumo das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "“Quando a gente assume o poder, é um peso terrível”, diz Luiza Trajano",
@@ -11992,29 +11916,6 @@
       "score": 8.0
     },
     {
-      "title": "Após reunião com sindicatos, Boulos diz que governo descarta mudar PEC da redução da jornada e pressiona Senado por votação",
-      "summary": "O ministro da Secretaria-Geral da Presidência, Guilherme Boulos, afirmou nesta sexta-feira que o governo não pretende negociar alterações no texto da PEC que reduz a jornada de trabalho e que não há espaço para ampliar o período de transição da proposta. Em fala a jornalistas, Boulos disse que nenhum compromisso foi firmado entre o presidente do Senado, Davi Alcolumbre, e o presidente Luiz Inácio Lula da Silva, em reunião recente. No entanto, espera que isso aconteça nas próximas semanas. Jantar para selar reaproximação: Lula e Alcolumbre deixam discussão sobre 6x1 para depois das eleições Petrobras: 'Meta é para os fracos', diz Magda ao atribuir lucro à alta da produção e do preço do petróleo Durante o encontro entre os dirigentes, segundo apuração do GLOBO, a mudança na jornada de trabalho não foi tratada diretamente. Para interlocutores, a discussão sobre o tema deve acontecer depois das eleições. — Não dá para algumas pessoas da política brasileira fingirem que a PEC do fim da 6 por 1 não existe [...] Nós não vamos negociar texto. O texto está bom. Foi fruto de um processo de negociação na Câmara, muito grande. O que falta é botar na pauta e votar. O que falta é o presidente Davi Alcolumbre jogar lá para a CCJ (Comissão de Constituição e Justiça), pautar na CCJ, aprovar na CCJ e botar no plenário. É isso que a gente espera que aconteça. Hoje, em São Paulo, Boulos se reuniu com representantes de centrais sindicais e movimentos de trabalhadores para discutir como pressionar pelo avanço da proposta no Senado, onde ela está parada há cerca de dois meses. O texto chegou à Casa em 28 de maio, depois de ser aprovado pela Câmara, e virou prioridade do Palácio do Planalto na campanha eleitoral. A proposta reduz a jornada semanal de 44 para 40 horas, com uma transição de um ano. Pela regra aprovada na Câmara, 60 dias após a aprovação final no Congresso haveria um corte imediato de duas horas na jornada, seguido de mais duas horas ao longo de até 12 meses. Trabalhadores com salários acima de R$ 21,1 mil ficariam fora do limite. O ministro também criticou a tentativa de alongar o prazo de transição, ponto que vem sendo alvo de críticas por parte do empresariado brasileiro: — Não tem mais limite aceitável, francamente. Um ano, quando é para aprovar aumento de salário de deputados e senadores, no dia seguinte está valendo. Quando é para aprovar que grande empresário tenha benefício fiscal, no dia seguinte está valendo. Por que, quando é para aprovar um direito para o trabalhador, quer fazer transição de dois anos, três anos, cinco anos? Já deu. Já está no máximo. Boulos afirmou ainda que, caso a PEC não seja votada antes das eleições, há risco de a oposição usar o período pós-eleitoral para barrar a iniciativa, evitando custos políticos diante de uma proposta com amplo apoio popular: — Se votar antes da eleição, acontece o que aconteceu na Câmara. Meia dúzia de votos contra e 90% da casa a favor [...] Por isso o governo terá como pauta prioritária. Está chancelado pelo presidente Lula, a pauta prioritária do governo nesse Congresso, nesse semestre do Congresso, é o fim da escala 6 por 1. Existe o tema dos minerais críticos, existe a PEC da segurança, existem várias outras pautas que nós consideramos importantes, mas a prioridade principal é o fim da escala 6 por 1.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/08/07/apos-reuniao-com-sindicatos-boulos-diz-que-governo-descarta-mudar-pec-da-reducao-da-jornada-e-pressiona-senado-por-votacao.ghtml",
-      "published": "2026-08-07T16:47:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 8.0
-    },
-    {
       "title": "Cursos on-line de tecnologia oferecem certificação gratuita",
       "summary": "O Instituto Energisa, organização do terceiro setor vinculada ao grupo de energia Energisa, e a IBM, de tecnologia, abriram inscrições para três cursos gratuitos de competências digitais. As formações são on-line, têm vagas ilimitadas e oferecem certificado emitido pela IBM. Os conteúdos foram desenvolvidos pela IBM SkillsBuild e abordam computação em nuvem, inteligência artificial e segurança digital, com carga horária entre 5 e 17 horas. Os cursos são voltados a pessoas em busca de qualificação, estudantes do ensino médio, técnico e superior, interessados em ingressar ou migrar para a área de tecnologia, profissionais que buscam atualização em competências digitais, empreendedores e profissionais autônomos. Gerenciamento de dados e computação em nuvem O curso \"Gerenciamento de dados e computação em nuvem\" tem carga horária de 17 horas. As inscrições podem ser feitas pelo link. O início está previsto para agosto. O trabalho como fonte de equilíbrio A engenheira que viu antes o potencial da saúde mental ‘Trabalho S/A’, de Stela Campos, investiga os desafios da vida corporativa Inteligência artificial aplicada Com cinco horas de duração, a formação \"Inteligência artificial aplicada\" propõe atividades práticas com IA. As inscrições estão disponíveis no link. O curso começa em setembro. Instituto Energisa e IBM abrem inscrições para três cursos gratuitos com carga horária entre 5 e 17 horas Unsplash Proteja-se no digital O curso \"Proteja-se no digital\" tem 11 horas de carga horária e trata do uso seguro de novas tecnologias, com conteúdo também direcionado a idosos. As inscrições são feitas pelo link. O início ocorre na primeira semana de outubro.",
       "url": "https://valor.globo.com/carreira/empregos-oportunidades/post/2026/08/cursos-on-line-de-tecnologia-oferecem-certificacao-gratuita.ghtml",
@@ -12475,6 +12376,29 @@
       "score": 8.0
     },
     {
+      "title": "O nanoempreendedor ante a macroburocracia",
+      "summary": "Regulamentação da reforma tributária pode ter ampliado burocracia para pequenos trabalhadores informais",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-nanoempreendedor-ante-a-macroburocracia",
+      "published": "2026-08-11T15:00:48+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "Vendas da Tesla no varejo na China caem 32%, mesmo com avanço dos veículos elétricos a bateria",
       "summary": "A Tesla, de Elon Musk, não está imune às dificuldades que afetam o mercado automotivo chinês. As vendas no varejo da Tesla na China caíram 32% em julho, superando as quedas observadas no mercado mais amplo de veículos elétricos a bateria, de acordo com dados da Associação Chinesa de Carros de Passageiros (CPCA) citados pelo The Wall Street Journal. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/11/vendas-da-tesla-no-varejo-na-china-caem-32percent-mesmo-com-avanco-dos-veiculos-eletricos-a-bateria.ghtml",
@@ -12654,6 +12578,29 @@
           "field": "lead",
           "score": 8,
           "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "De olho na eleição, Lula se reaproxima de Alcolumbre e Motta para aprovar pautas antes do primeiro turno",
+      "summary": "O governo Luiz Inácio Lula da Silva (PT) estreitou o diálogo com a cúpula do Congresso nas últimas semanas em um movimento que combina interesses eleitorais e a tentativa de aprovar a agenda prioritária do Palácio do Planalto no Legislativo antes do primeiro turno. A avaliação do entorno do petista é que é preciso avançar com temas de forte apelo popular, a exemplo da Proposta de Emenda à Constituição (PEC) que acaba com a jornada de trabalho 6x1, para usá-las como vitrine na campanha de reeleição. Na mesma frente de negociação, há a expectativa entre os atuais chefes do Congresso de conseguir acertar o apoio do presidente da República para serem reconduzidos à frente da Câmara e do Senado no próximo biênio. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/08/12/de-olho-na-eleicao-lula-se-reaproxima-de-alcolumbre-e-motta-para-aprovar-pautas-antes-do-primeiro-turno.ghtml",
+      "published": "2026-08-12T06:30:14+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 8.0
