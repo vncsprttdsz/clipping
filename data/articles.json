@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T09:15:37.580854+00:00",
-  "count": 393,
-  "new_this_run": 8,
+  "generated_at": "2026-08-15T09:51:50.992086+00:00",
+  "count": 396,
+  "new_this_run": 11,
   "articles": [
     {
       "title": "Na era do Ozempic, ingerir proteína virou mania global. Mas como saber se você está comendo os alimentos certos?",
@@ -2478,6 +2478,37 @@
       "url": "https://valor.globo.com/empresas/noticia/2026/08/13/lucro-do-grupo-petz-cobasi-cresce-435percent-no-2o-trimestre.ghtml",
       "published": "2026-08-13T22:33:58+00:00",
       "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Pet"
+      ],
+      "matched_aliases": [
+        "cobasi",
+        "petz"
+      ],
+      "matches": [
+        {
+          "sector": "Pet",
+          "alias": "petz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Pet",
+          "alias": "cobasi",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Grupo Petz Cobasi cresce, ganha margem e prepara captura de até R$ 260 milhões em sinergias - exame.com",
+      "summary": "Grupo Petz Cobasi cresce, ganha margem e prepara captura de até R$ 260 milhões em sinergias &nbsp;&nbsp; exame.com",
+      "url": "https://exame.com/insight/petz-cobasi-cresce-ganha-margem-e-prepara-captura-de-ate-r-260-milhoes-em-sinergias/p",
+      "published": "2026-08-13T23:23:12+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Pet"
       ],
@@ -9474,6 +9505,52 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Você pode estar fazendo skincare errado sem perceber; veja os erros mais comuns - O GLOBO",
+      "summary": "Você pode estar fazendo skincare errado sem perceber; veja os erros mais comuns &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/ela/noticia/2026/08/15/voce-pode-estar-fazendo-skincare-errado-sem-perceber-veja-os-erros-mais-comuns.ghtml",
+      "published": "2026-08-15T07:02:10+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "LG inaugura fábrica no Paraná e mira 20% do mercado de linha branca",
+      "summary": "A LG inaugurou nesta quinta-feira (13) sua primeira fábrica para a produção de linha branca no Brasil. Com uma planta de 770 mil metros quadrados instalada em Fazenda Rio Grande, região metropolitana de Curitiba , a companhia quer trazer para o país a força de sua principal frente de negócios no mundo, hoje responsável por 38% do faturamento. Leia mais (08/15/2026 - 06h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/lg-inaugura-fabrica-no-parana-e-mira-20-do-mercado-de-linha-branca.shtml",
+      "published": "2026-08-15T09:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "linha branca"
+      ],
+      "matches": [
+        {
+          "sector": "Eletrônicos",
+          "alias": "linha branca",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
