@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T09:13:29.560479+00:00",
-  "count": 394,
-  "new_this_run": 8,
+  "generated_at": "2026-08-16T09:57:05.609425+00:00",
+  "count": 395,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Na era do Ozempic, ingerir proteína virou mania global. Mas como saber se você está comendo os alimentos certos?",
@@ -2407,6 +2407,38 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Canetas emagrecedoras movimentam R$ 2,3 bilhões em vendas online - Panorama Farmacêutico",
+      "summary": "Canetas emagrecedoras movimentam R$ 2,3 bilhões em vendas online &nbsp;&nbsp; Panorama Farmacêutico",
+      "url": "https://panoramafarmaceutico.com.br/canetas-emagrecedoras-movimentam-r-23-bilhoes-em-vendas-online",
+      "published": "2026-08-16T09:30:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "vendas online"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "vendas online",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
