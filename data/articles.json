@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-18T07:17:10.725747+00:00",
-  "count": 476,
-  "new_this_run": 3,
+  "generated_at": "2026-08-18T08:07:47.367314+00:00",
+  "count": 478,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Canetas emagrecedoras: Anvisa aprova primeiro genérico de semaglutida no Brasil",
@@ -1350,6 +1350,55 @@
         {
           "sector": "Global Consumer",
           "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
+      "title": "O que levou empresas como Casas Bahia, Grupo Toky, Marabraz e Americanas a pedirem recuperação judicial? Entenda",
+      "summary": "A exemplo do que fez a Casa Bahia, a lista de empresas pedindo proteção à Justiça com o objetivo de superar uma crise financeira e reestruturar o negócio é crescente: Americanas, Toky (Mobly e Tok&amp;Stok), Lojas Marabraz, CVLB (Casa & Video e Le Biscuit). O pano de fundo é a combinação da taxa de juros elevada por um longo período, que encarece e limita o acesso a crédito, e o alto endividamento das famílias brasileiras, que retrai o consumo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/18/o-que-levou-empresas-como-casas-bahia-grupo-toky-marabraz-e-americanas-a-pedirem-recuperacao-judicial-entenda.ghtml",
+      "published": "2026-08-18T07:00:52+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Fashion",
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "casas bahia",
+        "endividamento das famílias",
+        "mobly"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "mobly",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -3444,6 +3493,46 @@
       "score": 36.0
     },
     {
+      "title": "Casas Bahia: quem ganha espaço com a crise da varejista e quem pode sentir reflexos? Veja o que dizem analistas",
+      "summary": "O pedido de recuperação judicial da Casas Bahia, cujas ações registraram a maior queda de sua história em um único dia, trará efeitos sobre o setor de varejo, especialmente o de eletrodomésticos e eletrônicos, que analistas já começam a estimar. Embora os impactos não sejam imediatos, os agentes avaliam que o fechamento de lojas e a redução da operação da varejista podem abrir espaço para concorrentes, especialmente aqueles mais dependentes do varejo físico. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/18/casas-bahia-quem-ganha-espaco-com-a-crise-da-varejista-e-quem-pode-sentir-reflexos-veja-o-que-dizem-analistas.ghtml",
+      "published": "2026-08-18T07:00:14+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "eletrodomésticos",
+        "eletrônicos"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Eletrônicos",
+          "alias": "eletrônicos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Eletrônicos",
+          "alias": "eletrodomésticos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Um rival para a Chilli Beans, outro para a Smart Fit: a aposta de Paulo Morais",
       "summary": "Depois de 18 anos à frente da Espaçolaser, o empresário Paulo Morais, ex-CEO e cofundador da empresa de depilação, segue de olho no mercado de franquias. Com um portfólio de uma dúzia de negócios, ele agora faz apostas em duas empresas em que vê potencial de escala e briga com gente grande: uma candidata a rival de Chilli Beans e a outra, da Smart Fit. A Yoface, uma marca nativa digital de óculos de grau e de sol criados por meio de impressoras 3D, é o investimento mais recente. Fundada pelo empresário Ivan Cavilha, ex-executivo da Chilli Beans e em 2019, a companhia desenvolve produtos ópticos personalizados sob demanda para os clientes. A principal vantagem do modelo da companhia, que recebeu R$ 500 mil de investimento da Shark Tank Carol Paiffer, é a redução de estoque e de desperdício de matéria-prima, problema comum às empresas do ramo. Espaçolaser muda tese e quer metade da rede em franquias até 2030 Zamp acerta o molho no Subway A entrada de Paulo Morais como sócio, firmada há duas semanas por meio da holding PG&amp;MP, veio com mudanças no negócio. O fundador da Espaçolaser exigiu uma queda nos preços dos óculos, hoje vendidos a quase R$ 800 nos novos modelos – em troca, o empresário pediu mais eficiência na produção para compensar eventuais reduções nas margens. Paulo Morais na Izi Gym: rede de academias low cost Divulgação Além disso, além do investimento financeiro recebido, cujo valor não foi revelado, a companhia vai usar o know-how de Morais para entrar no varejo físico pela primeira vez: ainda neste ano, três quiosques devem ser inaugurados em shoppings para as classes B e C na capital paulista. “A partir daí, com o modelo caminhando bem, dá para acelerar com franquias”, diz Morais. Até 2030, a Yoface pode capturar um sell-out de R$ 500 milhões por meio de 300 quiosques espalhados pelo Brasil, projeta o empresário. A estimativa inclui também a venda por meio de parceiros do varejo, como óticas, com uma divisão de 50% para cada canal. “Queremos pôr os esforços no varejo físico, com venda nas óticas e nos quiosques. E aí surge o digital como apoio para reforçar a presença da marca”, explica. Crise do controlador da Havanna gera atrito com franqueados 'Não prevemos o futuro, criamos o futuro', diz CEO da Oakley Além da Yoface, Morais virou um dos sócios da Izi Gym, rede de academias low cost criada para competir com Smart Fit, Panobianco, Gaviões e Skyfit – um mercado que parece saturado e, ainda assim, não para de ganhar competidor. Ele divide sociedade com os empresários João Bordignon (Capricórnio Têxtil), Abrão Antonio Sébe (Grupo IUNI), Tarcísio de Almeida Filho e Lucas Haddad. O CEO é Alan Feis Haddad, franqueado da Espaçolaser. Com três unidades já inauguradas desde o lançamento em março passado, a Izi Gym tem planos de somar mais de 30 academias pelo Brasil até 2027. A rede está presente em São Paulo, Belo Horizonte e Manaus. O principal diferencial é o que Morais chama de “low cost premium”: cobrando entre R$ 160 a R$ 180 na mensalidade, a rede oferece academias de até 1,2 mil m², equipamentos Technogym e “o cuidado de não superlotar a academia a ponto de haver filas para revezar” os equipamentos, diz. Grupo Open Brasil quer fazer do Rio a capital nacional do wellness Vicci entra na disputa das academias de luxo, com mensalidade de R$ 7 mil “Estou bem empolgado com o setor de academias, que está sendo impulsionado pela tendência de autocuidado da Geração Z e pelo uso das canetas emagrecedoras, que tem um efeito cascata em diversos setores”, afirma Morais, que também colocou marcas de alimentação saudável e vestuário fitness no radar. Ele deixou a função executiva na Espaçolaser em 2022 e criou a holding PM&amp;GP (as iniciais dos membros da sua família: Paulo, Márcia, Gabriela, Pedro Paulo). Além de suas ações na companhia de depilação, a estrutura compra fatias minoritárias de negócios de serviços de beleza, saúde e wellness. A condição, diz o empresário, é ter uma posição relevante o suficiente para “contribuir de forma positiva”. “Não sou investidor passivo. Não ponho dinheiro e fico rezando para dar certo”, diz ele. Citi avalia a TotalPass em R$ 1,7 bi, quase 15% da Smart Fit Os irmãos que querem fazer da Goper a Peloton brasileira — sem os erros O portfólio da PM&amp;GP conta ainda com a Bioma by Laces&amp;Hair, de tratamento capilar, com 100 unidades; a Novofio, rede de franquias de transplante capilar, com 60; além de Mundo Terra, a CGE e a Capricórnio Têxtil. “Busco por modelos que sejam minimamente testados. Não queremos inventar a roda, mas ajudar a acelerar algo que já existe”, diz.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/um-rival-para-a-chilli-beans-outro-para-a-smart-fit-a-aposta-de-paulo-morais.ghtml",
@@ -4698,6 +4787,37 @@
       "score": 28.0
     },
     {
+      "title": "Como as ações da Casas Bahia passaram de mais de R$ 500 para centavos em seis anos?",
+      "summary": "As ações da Casas Bahia despencaram na segunda-feira após seu pedido de recuperação judicial. O papel, negociado com o tíquete BHIA3, fechou o último pregão valendo R$ 0,44, queda de 33,33% em um único dia, a maior retração nessa base de comparação para a varejista. O tombo das ações ocorre após a empresa protocolar, no domingo, um pedido de reorganização, no qual informou uma dívida de R$ 17,3 bilhões. A empresa teve um prejuízo de R$ 10,1 bilhões no segundo trimestre deste ano. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/08/18/como-as-acoes-da-casas-bahia-passaram-de-mais-de-r-500-para-centavos-em-seis-anos.ghtml",
+      "published": "2026-08-18T07:00:15+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "bhia3",
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "bhia3",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Congresso instala hoje comissão para analisar MP que acabou com taxas das blusinhas",
       "summary": "O Congresso Nacional instala nesta quarta-feira a comissão mista (que reúne deputados e senadores) que vai analisar a medida provisória (MP) que acaba com a “taxa das blusinhas”, a cobrança de 20% sobre compras internacionais. No limite: Governo Lula tenta aproveitar volta do Congresso para destravar MP da taxa das blusinhas e manter efeito eleitoral Expansão: ‘Pretendemos investir fortemente em serviços’, diz CEO da Petz Cobasi O colegiado irá escolher presidente e relator da proposta, mas ainda não há data para a votação. O texto precisa ser votado na Câmara e no Senado até o dia 8 de setembro, para não perder a validade. Esse é um tema que preocupa o Palácio do Planalto, já que essa cobrança dividiu o governo, gerou desgastes ao Executivo e foi revertida neste ano após a avaliação de que ela poderia prejudicar eleitoralmente Lula. Nesta terça-feira, o presidente da Câmara, Hugo Motta (Republicanos-PB), disse que o texto precisa ser votada \"nas próximas semanas\" pela Casa para não perder validade. Vinted: Conheça o e-commerce de roupas usadas que cobra comissão do comprador e quer globalizar o modelo a partir dos EUA – A MP vence em meados de setembro. Então, para que essa taxação não volte, é necessário que o Congresso trate desse tema nas próximas semanas. Eu irei tratar disso no colégio de líderes e com o presidente (do Senado, Davi) Alcolumbre, já que será uma comissão mista – disse Motta, antes de reunião de líderes. O temor entre aliados de Lula é que o Congresso deixe a medida caducar, com objetivo de afetar negativamente o presidente, um mês antes das eleições. A MP foi criticada por setores da economia, sobretudo varejistas, e vista por parlamentares como uma medida eleitoreira. Veja preços: Stanley faz parceria inédita com Farm Rio e amplia portfólio Antes do recesso parlamentar, o presidente do Senado, Davi Alcolumbre (União Brasil-AP), se reuniu com representantes do varejo e ouviu apelos para que a medida não avançasse no Legislativo. De acordo com relatos, Alcolumbre não apresentou calendário para a análise da proposta nem deu pistas do que deverá fazer com a medida. Em meio ao clima eleitoral e com parlamentares focando a sua atuação nos redutos eleitorais, Câmara e Senado definiram um calendário de duas semanas de esforço concentrado, em que ocorrem sessões de votação: de 10 a 14 de agosto e 31 de agosto a 3 de setembro. Um auxiliar de Lula fala que é preciso aproveitar essa primeira semana para destravar temas considerados mais urgentes.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/08/12/congresso-instala-hoje-comissao-para-analisar-mp-que-acabou-com-taxas-das-blusinhas.ghtml",
@@ -4986,52 +5106,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Gold eases from over two-month peak, inflation reports in focus - Reuters",
-      "summary": "Gold eases from over two-month peak, inflation reports in focus &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/world/india/gold-rises-third-straight-session-inflation-prints-focus-2026-08-11",
-      "published": "2026-08-11T07:32:53+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Previsões do PIB recuam sob peso de inadimplência e juros",
-      "summary": "A economia deve entrar em desaceleração com a inadimplência em seu auge, em um ciclo vicioso em que a estagnação ou a queda de salários e o aumento gradual do desemprego diminuirão a renda disponível, reduzindo o consumo e piorando o desempenho das atividades econômicas. O temor do cenário ruim que se esboça entrou nas previsões: há semanas o boletim Focus diminui suas projeções para o comportamento do PIB de 2027. No início de julho, elas estavam em 1,65%, e no início de agosto (ontem) caíram a 1,52%. A demanda por crédito continua boa, mas os executivos das principais instituições financeiras, ao anunciar seus balanços trimestrais, indicaram que a oferta deverá ser mais seletiva e em menor escala. Os estímulos fiscais e parafiscais do governo mantiveram a economia crescendo acima de seu potencial, mas seus efeitos tendem a diminuir com o tempo. As atividades devem desacelerar no segundo semestre sob o peso da maior taxa de juros em duas décadas. As projeções de desempenho da economia para o segundo trimestre, depois da aceleração no primeiro trimestre, estão encolhendo. Serviços, varejo e indústria perderam dinamismo, inclusive, o que é revelador, o comércio de alimentos. A procura por crédito não arrefeceu mesmo com taxas muito altas de juros, garantindo mais problemas à frente. O ciclo é o mesmo que levou à atual inadimplência elevada. As camadas de baixa renda têm notas menores nas avaliações de crédito, as que não lhes beneficiam com juros menores, e contratam as linhas mais caras. Segundo dados da Serasa Experian, a demanda por empréstimos subiu 14,8% em junho em relação ao mesmo mês de 2025. A demanda por quem ganha até dois salários mínimos, por outro lado, aumentou 50,8%. Levantamento da Confederação Nacional do Comércio (CNC) mostrou um recorde de endividados na faixa de até três salários mínimos, de 84,9%, acima da média de 82% das demais rendas, outro recorde. O peso dos juros se mostra, entre outras coisas, no aumento dos inadimplentes que se declaram sem condições de quitar suas dívidas, grupo que subiu em um mês de 17,6% para 17,8% (Valor, ontem). Pelos dados da CNC, há um comprometimento médio de 30,6% da renda com dívidas. Segundo as estatísticas do Banco Central, a inadimplência ficou estável (7,6%, alta) para pessoas físicas no crédito livre, com crescimento de 1,1 ponto percentual em 12 meses. O endividamento das famílias chegou ao recorde de 48,9%, com o comprometimento da renda subindo para 28,1%. O comprometimento crescente da capacidade de consumo vai minando o desempenho das empresas comerciais. Esse movimento é nítido nas grandes varejistas de capital aberto que divulgaram balanços do segundo semestre, nos quais várias mostraram um recuo na receita líquida, outras, aumento do prejuízo, e quase todas, uma perspectiva de crescimento menor das vendas até o fim do ano. Entre as companhias abertas como um todo, os indicadores financeiros já haviam apontado a tendência geral de avanço da carga dos juros nas medidas de desempenho operacional. A tendência geral é de que maior parcela do Ebitda (potencial de geração de caixa) está sendo destinada ao pagamento de encargos financeiros, fazendo recuar a parcela que poderia se converter em investimentos. As empresas mais alavancadas, que dependem mais de empréstimos, estão com dificuldades com a manutenção de juros altos por bastante tempo, especialmente as pequenas e médias empresas. Por isso o número de recuperações judiciais continua subindo: atingiu 6.341 empresas no primeiro semestre, com alta de 6,2% ante igual período do ano passado. Em 12 meses, o salto é maior, 21,2%. Mas as recuperações extrajudiciais, usadas por grandes empresas, se avolumaram no período, envolvendo R$ 75 bilhões em débitos. As empresas inadimplentes, consideradas as que deixaram de pagar um compromisso vencido, somavam em maio 9 milhões, um aumento de 17,4% anual, perfazendo uma montanha de débitos de R$ 230 bilhões, segundo a Serasa Experian. A grande maioria delas era de pequenas e microempresas, com 8,5 milhões de negativadas e dívidas de R$ 198,8 bilhões. Além das micro e pequenas, o número de empresas agropecuárias com dificuldades em saldar seus compromissos cresceu 66%. A inadimplência cresceu mesmo com quatro anos de bom crescimento (3% ao ano) e aumento crescente da renda. Ela deve piorar na virada do ciclo, quando a economia esfriar, o desemprego aumentar, os salários deixarem de correr um pouco à frente da inflação e o crédito se tornar difícil. Era mais que previsível que nada de bom proviria de uma política fiscal e parafiscal expansionista convivendo e antagonizando com um extraordinário aperto dos juros. Os efeitos são os esperados: o crescimento vai diminuir, a inflação demorará mais a ceder, o consumo se retrairá, os investimentos, nunca sustentavelmente vigorosos, entrarão mais uma vez em compasso de espera, e a inadimplência se ampliará. É uma conta pesada trazida pela política econômica, plenamente evitável.",
-      "url": "https://valor.globo.com/opiniao/coluna/previsoes-do-pib-recuam-sob-peso-de-inadimplencia-e-juros.ghtml",
-      "published": "2026-08-11T08:01:55+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Canetas emagrecedoras intensificam disputa - panoramafarmaceutico.com.br",
@@ -10899,6 +10973,29 @@
       "score": 20.0
     },
     {
+      "title": "Denuncian que Mercado Pago cobra tasas del 1.300% anual en créditos - iProUP",
+      "summary": "Denuncian que Mercado Pago cobra tasas del 1.300% anual en créditos &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/70765-denuncian-que-mercado-pago-cobra-tasas-del-1-300-anual-en-creditos",
+      "published": "2026-08-17T19:30:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Demissões na Casas Bahia chegaram a 3 mil; Lenovo e Hisense ameaçaram vencimento de dívida",
       "summary": "O pedido de recuperação judicial da Casas Bahia, encaminhado na noite de domingo (16) para a 2ª Vara de Falências e Recuperações Judiciais, informa oficialmente o número de 3 mil demitidos na empresa na atual reestruturação, 9,9% da base total de empregados da empresa, com base no último relatório da área de recursos humanos anexado pelo grupo na Comissão de Valores Mobiliários, em maio. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/17/demisses-na-casas-bahia-chegaram-a-3-mil-dois-fornecedores-e-um-fundo-ameaaram-vencimento-antecipado.ghtml",
@@ -11420,6 +11517,29 @@
         {
           "sector": "Economia",
           "alias": "apostas esportivas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mike Ashley’s Frasers lifts stake in Hugo Boss to 48%",
+      "summary": "UK retail group pushes deeper into luxury sector",
+      "url": "https://www.ft.com/content/13b9ac91-e7f2-4d70-b302-93f6b7b4c26a?syn-25a6b1a6=1",
+      "published": "2026-08-18T07:06:29+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "hugo boss"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "hugo boss",
           "field": "title",
           "score": 20,
           "topic": null
@@ -12047,29 +12167,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Escola de tempo integral tem média mais alta no Ideb, mostra levantamento",
-      "summary": "O Índice de Desenvolvimento da Educação Básica (Ideb) de escolas públicas de ensino médio 100% integrais ficou 0,5 ponto acima do registrado pelas unidades em tempo parcial em 2025, segundo análise feita pelo Instituto Sonho Grande e Instituto Natura. O estudo afirma que escolas integrais alcançaram média no Ideb de 4,8, ante 4,3 das escolas parciais. Foram analisados os resultados de 9.345 escolas parciais e 3.399 integrais das redes estaduais, considerando unidades voltadas para a formação geral básica e a educação profissional e tecnológica. A principal conclusão é a de que a implementação do ensino integral observada nos últimos anos tem colhido frutos. No entanto, Ana Paula Pereira, diretora-executiva do Instituto Sonho Grande, reconhece que, considerando a média nacional, os dados do Ideb de 2025 mostram um cenário ainda de retomada do ensino para os patamares registrados antes da pandemia de 2020. “Na média do Brasil a gente vê esse cenário de retomada. Por enquanto, a gente faz mais uma recuperação para os patamares pré-pandemia. De fato, em língua portuguesa a gente recuperou e passou um pouco, enquanto em matemática estamos igualzinho a 2019 na escala Saeb. Na média brasileira essa é a conclusão. O que eu diria que é diferente é que alguns estados evoluíram e estão em patamares diferentes, como o Piauí”, explica. O crescimento das unidades que migraram para o modelo integral a partir de 2020 também foi 80% superior ao registrado pelas escolas que permaneceram no modelo parcial, de acordo com o estudo. Também é feita a diferenciação entre “integrais maduras” — aquelas que funcionaram nesse modelo desde 2019. O levantamento mostra que, apesar de uma média superior às outras, as “maduras” avançaram apenas 0,1 ponto, passando de 5,1 em 2019 para 5,2 em 2025. A diferença em relação às unidades parciais, que registraram 4,4 no Ideb em 2025, caiu de 1,1 ponto em 2019 para 0,8 ponto no ano passado. Enquanto isso, as “integrais recentes” tiveram crescimento de 0,6 ponto no Ideb nos últimos seis anos, alcançando média de 4,7. Segundo a diretora-executiva do Instituto Sonho Grande, a principal hipótese da estagnação das escolas maduras vem justamente da dificuldade de melhorar um resultado que já é alto. “Sempre que encontramos grandes crescimentos, eles vêm de redes com patamar mais baixo e que fizeram um avanço importante. As melhores redes têm dificuldade de crescer”. Ana Paula também destaca que o desempenho dos Estados varia de acordo com a matriz curricular aplicada e a forma de implementação da política pública de escola integral. Segundo o estudo, o desempenho superior das escolas integrais maduras é explicado por dois fatores: um melhor aprendizado, refletido na nota padronizada de 5,2 no Saeb, e uma maior taxa de aprovação, com indicador de 0,98. Além disso, o tempo em que os estudantes passam na escola também faz diferença. Escolas integrais maduras com carga horária de 9 horas atingem o Ideb mais alto do levantamento, de 5,2, enquanto as do mesmo grupo com jornada de sete horas registram 4,8. Entre as escolas integrais recentes, não há vantagem significativa para as unidades com jornada de nove horas, que registram Ideb de 4,6, enquanto as de sete horas ficam em 4,7. “A expansão tem mudado também. Nos últimos anos, vimos uma expansão do ensino integral, mas com carga horária menor na média. E isso preocupa por esse ser um dos pontos que é uma alavanca de resultados”, avalia a diretora-executiva do Instituto Sonho Grande. Ela também ressalta que também não adianta apenas o aumento da carga horária sem o acompanhamento devido da implementação desta política pública. “Honestamente você pode ter 7h por dia e estar fazendo a mesma coisa da escola de 5h. Tivemos experiências antigas com essa característica. E isso não traz resultado superior” “A gente defende que não basta colocar na jornada integral e estender a carga horária. O que mais importa é um currículo integrado, efetivamente centrado no estudante e no seu projeto de vida, para reverter a situação de desengajamento do jovem com as escolas”, afirma. Entre os Estados, o Piauí se destacou com uma evolução expressiva: saiu do 11° lugar em 2021 para 2° no Ideb 2025 da rede estadual, com um resultado de 4,9. Segundo o estudo, também registrou o maior aumento do país de proficiência em matemática da série histórica, avançando 20 pontos, entre 2023 e o ano passado. Esse crescimento acompanhou a universalização do ensino médio em tempo integral, que expandiu sua presença de 22% para 100% das escolas no período, totalizando 512 unidades. Na visão de Ana Paula, a priorização política da educação foi o principal destaque dessa evolução. “Essa priorização política veio atrelada a duas políticas públicas em alta, ensino integral e ensino técnico, as quais eles levaram ao extremo, porque chegaram em 100% das escolas. Vimos o Piauí priorizar essas duas políticas públicas e chegaram em pouco tempo com trabalho de qualidade e em 100% das escolas ofertando essas duas modalidades. O que fez diferença no resultado evidenciado pelo Ideb”, diz. Por fim, a diretora-executiva do Instituto Sonho Grande ressalta o foco importante nos componentes de matemática e língua portuguesa. No Piauí, o crescimento na rede estadual foi de 20 pontos em 2 anos em matemática, de 266,60 pontos em 2023, para 286,60 pontos em 2025. “É maior do que a maioria dos Estados teve em 20 anos”. Já o Rio Grande do Sul se destacou como o Estado que apresentou o maior avanço absoluto no Ideb (0,8) entre 2023 e 2025. A rede integral atingiu 12% das escolas estaduais de ensino médio em 2025. Na rede estadual, os estudantes do integral registram o equivalente a três anos a mais de aprendizado em Matemática e a um ano e meio a mais em Língua Portuguesa, em comparação com o modelo parcial. “Enquanto esse crescimento geral das integrais maduras é de 0,1 ponto tem estados que tem crescido muito mais. O crescimento das integrais maduras no Rio Grande do Sul, por exemplo, é de 0,6 ponto. E as integrais maduras no RS cresceram tanto quanto as parciais”, afirma a diretora-executiva do Instituto Sonho Grande.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/08/11/escola-de-tempo-integral-tem-media-mais-alta-no-ideb-mostra-levantamento.ghtml",
-      "published": "2026-08-11T08:03:20+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "natura"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "BTG tem lucro recorde, com expansão no crédito",
