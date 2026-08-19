@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T07:16:15.075752+00:00",
-  "count": 526,
-  "new_this_run": 9,
+  "generated_at": "2026-08-19T08:05:28.466990+00:00",
+  "count": 525,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Canetas emagrecedoras: Anvisa aprova primeiro genérico de semaglutida no Brasil",
@@ -1341,45 +1341,6 @@
         }
       ],
       "score": 56.0
-    },
-    {
-      "title": "Canetas emagrecedoras: como o bombardeio de postagens está distorcendo a maneira como os jovens veem o próprio corpo",
-      "summary": "Amelia Cate Prosser lembra-se de como, em 2024, os medicamentos da classe GLP-1 pareciam estar em toda parte: guardados nas geladeiras dos pais de suas amigas, exaltados no tapete vermelho e dominando as conversas no refeitório de sua escola particular só para meninas, em Melbourne, na Austrália. Mas foi nas redes sociais que o burburinho era — e continua sendo — mais intenso. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/08/12/canetas-emagrecedoras-como-o-bombardeio-de-postagens-esta-distorcendo-a-maneira-como-os-jovens-veem-o-proprio-corpo.ghtml",
-      "published": "2026-08-12T07:30:18+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "glp-1"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "Fabricante do Mounjaro decreta guerra ao mercado paralelo de remédios para emagrecer",
@@ -5736,29 +5697,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Lucro da Natura cai 92% com falha na operação",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/12/lucro-da-natura-cai-92-com-falha-na-operacao.ghtml",
-      "published": "2026-08-12T08:01:45+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "natura"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Servidor do Banco Central tentou intermediar venda de braço do Master ao Nubank, mostram mensagens",
@@ -12561,6 +12499,29 @@
         {
           "sector": "E-commerce",
           "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mercado Pago ofrece $7.000 para quienes ingresen USD 500 a la app - iProUP",
+      "summary": "Mercado Pago ofrece $7.000 para quienes ingresen USD 500 a la app &nbsp;&nbsp; iProUP",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVVrck1RNm5nRU82aHZNTGRianFkRmt2V2Z0MHRRMHJRMGZ2V01rVzBzbExmR0hSTXo5cU9IZlIyWTNQVjFNSEpudnBOVFB4TkQ0bUxFa3ZUVmcwY3pxTUUyaXMwVUVtWXNUZDZnZFpYUTJmRmtXS2xNX1Y4Z2tCWmljVVNPVG1qZFJURHpvbUo2cmYyWk9HdUpNTDh4a3hNc3FOSdIBqgFBVV95cUxPLXMxaTk3c1VPT21qYVVMWGxhazhyazh5NFVqalZtSzRXcUVHTVoxcnQ2T3VQdUd0NjdoOUVSYlpGUDBUN3R4NndFX3I4YW1NbzgzRkhfVDQ1dmN2SV9aZEI2WWVGUTFxQnkwb2lOYnJQeS1qNjhjc1V5c3pnOVBnRXFBOGhjSXR4T0V5TWNyNEdWbHYxeU5pWGpoTm55aEZXN3JZLWtDckx6UQ?oc=5",
+      "published": "2026-08-18T23:21:27+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
           "field": "title",
           "score": 20,
           "topic": null
