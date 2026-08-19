@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T05:10:41.678279+00:00",
+  "generated_at": "2026-08-19T07:16:15.075752+00:00",
   "count": 526,
-  "new_this_run": 96,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Canetas emagrecedoras: Anvisa aprova primeiro genérico de semaglutida no Brasil",
@@ -3188,45 +3188,6 @@
       "score": 40.0
     },
     {
-      "title": "Dona da Shopee tem alta de 10,6% no lucro no 2º trimestre, com apoio de vendas no Brasil",
-      "summary": "A Sea, sediada em Cingapura, divulgou na terça-feira um forte crescimento de receita para o trimestre de abril a junho, impulsionado por seu negócio principal de comércio eletrônico, a Shopee, e apoiado pela expansão nos segmentos de serviços financeiros digitais e jogos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/12/dona-da-shopee-tem-alta-de-106-pontos-percentuais-no-lucro-no-2-trimestre-com-apoio-de-vendas-no-brasil.ghtml",
-      "published": "2026-08-12T05:53:19+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "comercio eletronico",
-        "comércio eletrônico",
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comercio eletronico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0
-    },
-    {
       "title": "De 0 a 28%: reforma tributária e créditos de carbono do mercado voluntário",
       "summary": "Como CBS e IBS geram dúvidas sobre tributação das operações ambientais",
       "url": "https://www.jota.info/opiniao-e-analise/artigos/de-0-a-28-reforma-tributaria-e-creditos-de-carbono-do-mercado-voluntario",
@@ -3836,6 +3797,45 @@
           "field": "lead",
           "score": 8,
           "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "24% das empresas não sabem impacto da reforma tributária, aponta levantamento",
+      "summary": "Praticamente uma em cada quatro empresas ainda não simulou os impactos financeiros da reforma tributária , que começou a ser implementada em 2026 e irá até 2033, quando haverá a completa substituição dos tributos atuais por dois novos: a CBS (Contribuição sobre Bens e Serviços), federal, e o IBS (Imposto sobre Bens e Serviços), de competência de estados e municípios. Leia mais (08/19/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/24-das-empresas-nao-sabem-impacto-da-reforma-tributaria-aponta-levantamento.shtml",
+      "published": "2026-08-19T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 36.0
@@ -5736,75 +5736,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Gaab comenta perda de 44 Kg com auxílio de canetas emagrecedoras: 'Reencontro comigo mesmo' - Gshow",
-      "summary": "Gaab comenta perda de 44 Kg com auxílio de canetas emagrecedoras: 'Reencontro comigo mesmo' &nbsp;&nbsp; Gshow",
-      "url": "https://gshow.globo.com/cultura-pop/famosos/noticia/gaab-comenta-perda-de-44-kg-com-auxilio-de-canetas-emagrecedoras-reencontro-comigo-mesmo.ghtml",
-      "published": "2026-08-12T06:00:12+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mercado Libre, Tiendanube y tarjetas ya prueban compras agénticas en Argentina - iProUP",
-      "summary": "Mercado Libre, Tiendanube y tarjetas ya prueban compras agénticas en Argentina &nbsp;&nbsp; iProUP",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2JzRDJhelE4U1A1eFdPRjZ2ckZlRjBFOTRFRHdKQmNNRWlyUEpBeHlLdDAtZi1oZFQwaWNFRF9BOXF0MXJHNHRMcWJ4dDdOeS02WHJuQ0JhNEpubkE5TENTSTR6STBTUVY2cUwtR1lhSjg4Wjc0NnNEcWNSYVpaMkZkQzVRT25Zdkx1STE3LWlLaXhqNnFubEV4QXZjcEtqQV9sLU9DWUp5d2JlTmRmTkNRcE5rUdIBuwFBVV95cUxOcnI5aTMzWlh1OGtnaHhDNDlGYnVZZnFoVGt4QjdrMWRGRU5CSDJHYjAzRDZveVNheE9mRHZXTHJTbEFEN3BGNFFhMXNXV0I0ZlhRSEVuaEU1T2ZwcUo3eEFkVU5FNHBNU2FkNDhneEpJS0MwUFFlbW05R0g0UV91ZFZXeE1rRzFLUnRJQ1NkY0FIUmVvYXBtY3RlWVdDVE53Vkpjcy1GSzBFNXdqMk03dTROeWhSUE45ZzRv?oc=5",
-      "published": "2026-08-12T06:48:54+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado libre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado libre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Por que o Congresso analisa hoje a MP da 'taxa das blusinhas'",
-      "summary": "Medida provisória que zerou o imposto para compras de até US$ 50 começa a tramitar no Congresso e precisa ser aprovada até 8 de setembro",
-      "url": "https://exame.com/brasil/entenda-por-que-a-mp-da-taxa-das-blusinhas-volta-ao-congresso-hoje",
-      "published": "2026-08-12T06:57:37+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Lucro da Natura cai 92% com falha na operação",
@@ -12791,6 +12722,75 @@
         {
           "sector": "Global Consumer",
           "alias": "target",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Ferraris, ouro e vinhos: super-ricos investem em bunkers de luxo na Suíça",
+      "summary": "Um complexo subterrâneo de alta segurança está sendo construído sob os Alpes suíços para atender a um público restrito: os mais ricos do mundo. Enterrados a mais de 100 metros de profundidade sob o maciço de Brünig, perto do vilarejo de Lungern, os cofres poderão armazenar obras de arte, metais preciosos, carros de luxo, vinhos e outros bens de alto valor. Caso Ryanair: Investigação revela como peça do motor de avião quebrou janela e quase sugou passageiro para fora Ratos, moscas e alimentos vencidos: fiscalização fecha restaurantes conhecidos em Mumbai, na Índia O projeto é comandado pelo empresário suíço Thomas Gasser, presidente do conselho da Brünig Mega Safe. A previsão é que a estrutura seja inaugurada no próximo ano. Segundo os responsáveis, a proteção oferecida será comparável à do Banco Nacional Suíço. O complexo deverá ter cerca de 20 cofres privados escavados na rocha. Os espaços estão sendo oferecidos em contratos de 99 anos, com preços a partir de quase 1 milhão de francos suíços, o equivalente a cerca de R$ 6,4 milhões. O modelo prevê que o cliente tenha um registro próprio da propriedade e possa até mesmo usá-la como garantia para um financiamento. Bunkers de luxo estão sendo construídos na Suíça Divulgação | Brünig Mega Safe O acesso será submetido a rígidos protocolos de segurança. Segundo Gasser, os clientes terão de passar por um posto de controle especial e deixar o veículo antes de serem submetidos a outras verificações. — Você primeiro terá que passar por um posto de controle especial e sair do veículo: haverá várias verificações de segurança, que obviamente não serão divulgadas ao público — afirmou o empresário à emissora suíça RTS. Nem mesmo jornalistas autorizados a acompanhar as obras puderam conhecer a futura entrada dos cofres. As imagens liberadas mostram apenas os túneis de acesso. Representação do interior dos cofres suíços para os super-ricos Divulgação | Brünig Mega Safe A empresa também prevê acesso 24 horas por meio de um túnel suficientemente grande para a passagem de caminhões. A temperatura natural no interior das cavernas deverá ficar em torno de 13°C, condição considerada adequada para a conservação de determinados bens, como vinhos e obras de arte. Além dos espaços destinados ao armazenamento, o empreendimento prevê módulos adicionais que poderão funcionar como salas de reunião, lounges e áreas de retiro temporário. A companhia também pretende instalar no local um centro voltado para treinamento de segurança, análise de riscos e sobrevivência. Bunkers de luxo estão sendo construídos na Suíça Divulgação | Brünig Mega Safe A estrutura está sendo escavada em uma área que já teve outras funções. O local abrigava a Cantina Caverna, restaurante e espaço para eventos, além de um estande de tiro e um centro de treinamento para bombeiros que simulava incêndios em túneis. A Suíça já possui uma longa tradição de proteção subterrânea. Em 2024, os bancos do país administravam cerca de 9,3 trilhões de francos suíços, aproximadamente R$ 61 trilhões, sendo cerca de metade desse montante proveniente do exterior. Galerias Relacionadas A tendência, no entanto, é ainda mais ampla: na Finlândia, por exemplo, Helsinque possui milhares de abrigos subterrâneos escavados na rocha, com capacidade para proteger centenas de milhares de pessoas. O projeto suíço, porém, tem uma diferença fundamental: em vez de ser destinado à população em geral, foi concebido como um refúgio de altíssimo padrão para a proteção do patrimônio de uma pequena parcela da população mundial.",
+      "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/08/19/ferraris-ouro-e-vinhos-super-ricos-investem-em-bunkers-de-luxo-na-suica.ghtml",
+      "published": "2026-08-19T06:00:29+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "ouro"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "ouro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras já mudam gastos com comida e até o PIB de países; entenda os efeitos - G1",
+      "summary": "Canetas emagrecedoras já mudam gastos com comida e até o PIB de países; entenda os efeitos &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/g1-explica/noticia/2026/08/19/canetas-emagrecedoras-ja-mudam-gastos-com-comida-e-ate-o-pib-de-paises-entenda-os-efeitos.ghtml",
+      "published": "2026-08-19T06:00:47+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "De ‘Bolsonaro da Shopee’ a 'Lula da tapioca': candidatos recorrem a nomes de líderes políticos para disputar votos",
+      "summary": "De “Bolsonaro da Shopee” a integrantes da própria família do ex-presidente, o sobrenome Bolsonaro continuará espalhado pelas urnas do país nas eleições deste ano, mas em proporção menor do que nos últimos pleitos. Ao todo, 29 candidatos foram registrados com o nome na identificação que aparecerá para o eleitor, segundo levantamento do GLOBO feito a partir dos dados da Justiça Eleitoral. São 35% menos do que os 45 concorrentes que fizeram a mesma escolha nas eleições gerais de 2022. No outro polo da disputa presidencial, Lula aparece no nome de urna de outros dez candidatos — sem contar o próprio presidente —, queda de 29% em relação aos 14 registrados há quatro anos. A retração fica mais acentuada quando os números são colocados ao lado dos de 2024. Nas eleições municipais daquele ano, 75 candidatos a prefeito ou vereador recorreram a Bolsonaro no nome de urna, enquanto Lula apareceu em 162 registros. Dois anos depois, os contingentes caíram para 29 e dez, reduções de 61% e 94%, respectivamente. A diferença entre os tipos de eleição, porém, recomenda cautela na comparação: as disputas municipais colocam em jogo milhares de vagas a mais do que as eleições gerais. No caso de Bolsonaro, ao mesmo tempo em que diminuiu o número de candidatos que pegam emprestado o sobrenome, a própria família se espalhou pelas urnas. Sete dos 29 registros, ou quase um quarto do total, pertencem ao clã: Flávio Bolsonaro disputa a Presidência; Michelle concorre ao Senado pelo Distrito Federal; Carlos tenta chegar à mesma Casa por Santa Catarina, onde Jair Renan busca uma vaga na Câmara; Renato Bolsonaro, irmão do ex-presidente, concorre a deputado federal por São Paulo; Marcelo Bolsonaro, primo de Jair, disputa uma cadeira de deputado estadual no mesmo estado; e Rogéria Bolsonaro, primeira mulher do ex-presidente e mãe de Flávio, Carlos e Eduardo, tenta chegar à Câmara pelo Rio. São Paulo é o estado que concentra o maior número de “Bolsonaros” nesta eleição, com sete registros. Além de Renato e Marcelo, há cinco candidatos sem vínculo familiar com o ex-presidente. Clodoaldo Dias Guimarães será “Clodoaldo Bolsonaro” na disputa para deputado estadual; Samanta Salerno de Almeida adotou “Samanta Bolsonaro”; Fabiana de Lima Barroso Souza virou “Fabiana Bolsonaro”; e Valéria Muller Ramos Bolsonaro concorre como “Valéria Bolsonaro”. Completa a lista paulista Renata Cristina Tedesque Bolsonaro, candidata a vice-governadora pelo Agir. O uso do sobrenome, neste caso, produz uma situação peculiar: o PL integra a coligação do governador Tarcísio de Freitas (Republicanos), candidato à reeleição, e não a chapa da candidata que terá uma “Bolsonaro” como vice. No Rio de Janeiro, estado onde Jair Bolsonaro construiu sua carreira política e de onde saíram os primeiros mandatos de seus filhos, são quatro registros. Um deles pertence à família: Rogéria Bolsonaro concorre a deputada federal. Os demais são Vanessa da Silva Oliveira, a “Negona do Bolsonaro”; Jean Carlos Dias Barbosa Lopes, o “Jean Bolsonaro”; e Renato de Araújo Correa, registrado como “Renato Araújo do Bolsonaro”. O sobrenome também aparece de forma concentrada em Santa Catarina, novo endereço eleitoral de parte da família. Carlos Bolsonaro deixou a política municipal do Rio para disputar uma cadeira no Senado pelo estado. Seu irmão Jair Renan tenta chegar à Câmara dos Deputados e fez uma escolha ainda mais direta para a urna: embora seu nome completo seja Jair Renan Valle Bolsonaro, registrou-se eleitoralmente como “Jair Bolsonaro”, repetindo o nome pelo qual o pai ficou conhecido nacionalmente. No Distrito Federal, Michelle Bolsonaro disputa uma cadeira no Senado. A ex-primeira-dama divide o sobrenome nas urnas da capital com Alessandro Gonçalves de Almeida, candidato a deputado distrital que adotou “Alessandro Bolsonaro”. Do ‘Bolsonaro da Shopee’ ao ‘Bolsonaro Sergipano’ Fora da família, o levantamento mostra que a tentativa de pegar emprestada parte da identidade política associada ao ex-presidente não desapareceu. Dos 29 registros, 22 são de candidatos que não integram o clã e estão espalhados por diferentes regiões e níveis da disputa. No Mato Grosso, Vilmar Rigo, candidato a deputado federal, decidiu levar para a urna o apelido de “Bolsonaro da Shopee”. No mesmo estado, Flaviane Ramalho de Oliveira concorre à Assembleia Legislativa como “Flaviane do Bolsonaro”. Em Sergipe, Francisco Olinda de Assis optou por combinar a referência política com a origem e será “Bolsonaro Sergipano”. Minas Gerais tem “Decinho Bolsonaro do Barreiro”, nome escolhido por Wanderson Matozinho de Souza para disputar uma cadeira de deputado federal e que acrescenta ao sobrenome a referência ao Barreiro, região de Belo Horizonte. A fórmula se repete pelo país. Boaz David de Lima Gino será “Boaz do Bolsonaro” na disputa para deputado estadual no Ceará. No Paraná, Crysthofour Pereira de Almeida concorre como “Fão do Bolsonaro”. No Espírito Santo, Edson Alves de Freitas escolheu “Freitas Bolsonaro”. Há ainda candidatos que incorporaram o sobrenome sem complementos. O deputado Hélio Lopes disputa o Senado por Roraima como “Hélio Bolsonaro”. Em Rondônia, o presidente do PL no estado Bruno Scheid será “Bruno Bolsonaro Scheid”, também candidato ao Senado. No Tocantins, Hélio Rodrigues Carvalho aparece como “Hélio Rodrigues Bolsonaro”. A associação chega às disputas pelos governos estaduais. No Rio Grande do Norte, Karlo Rodrigo Lucio Vieira registrou “Rodrigo Bolsonaro” como nome de urna para concorrer ao governo pelo Agir. A escolha não significa, contudo, que ele seja o nome do partido do ex-presidente na disputa: o candidato do PL no estado é o ex-prefeito Álvaro Dias. De ‘Lula da Tapioca’ a ‘Lula Tio do Biscoito’ O uso do nome do principal adversário de Flávio também aparece entre candidatos pelo país, embora em número menor. Lula está em dez nomes de urna neste ano, sem considerar o próprio presidente, uma redução de 29% em relação aos 14 registrados nas eleições gerais de 2022. Nas municipais de 2024, eram 162. Na Paraíba, Luiz Gonzaga Rodrigues Filho concorre a deputado federal como “Lula da Tapioca”. Em Minas Gerais, Valcir da Silva escolheu “Lula Tio do Biscoito” para a disputa pela Câmara, enquanto Antonio Carlos Vieira será “Carlin Lula”. No Rio Grande do Norte, o nome do presidente aparece em duas disputas majoritárias. Samanda Alves de Freitas concorre ao Senado como “Samanda de Lula”, enquanto Carlos Eduardo Xavier adotou “Cadu de Lula” na corrida pelo governo. No Maranhão, Pâmela Maranhão acrescentou Lula ao nome de urna e concorre a deputada estadual como “Pâmela Maranhão Lula”. No Rio de Janeiro, João Panayotis Damatis disputa uma vaga na Assembleia Legislativa como “Panayotis do Lula”. Os números mostram que os nomes dos dois principais candidatos ao Planalto continuam guiando outras candidaturas, mas em menor escala do que na última eleição geral. O uso de sobrenome de terceiros provoca uma discussão eleitoral há anos e já chegou a gerar impedimentos no passado. Em Rondônia, por exemplo, o Ministério Público Eleitoral pediu na semana passada a impugnação da candidatura de Bruno Scheid, alegando risco de desinformação e de indução do eleitorado ao erro, por usar o sobrenome de Jair Bolsonaro.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/19/de-bolsonaro-da-shopee-a-lula-da-tapioca-candidatos-recorrem-a-nomes-de-lideres-politicos-para-disputar-votos.ghtml",
+      "published": "2026-08-19T06:30:41+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
           "field": "title",
           "score": 20,
           "topic": null
