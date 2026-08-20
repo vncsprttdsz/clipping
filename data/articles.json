@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T05:09:01.700807+00:00",
-  "count": 565,
-  "new_this_run": 83,
+  "generated_at": "2026-08-20T07:17:12.156556+00:00",
+  "count": 560,
+  "new_this_run": 11,
   "articles": [
     {
       "title": "Canetas emagrecedoras: Anvisa aprova primeiro genérico de semaglutida no Brasil",
@@ -417,51 +417,75 @@
       "score": 76.0
     },
     {
-      "title": "Shopee lança entrega em até 4 horas e acirra disputa com Mercado Livre e Amazon",
-      "summary": "Além das categorias tradicionais do e-commerce, o serviço contempla alimentos frescos, produtos perecíveis, congelados e bebidas",
-      "url": "https://exame.com/negocios/shopee-lanca-entrega-em-ate-4-horas-e-acirra-disputa-com-mercado-livre-e-amazon",
-      "published": "2026-08-13T07:00:43+00:00",
-      "source": "https://exame.com/feed/",
+      "title": "Primeiro genérico de semaglutida: tudo o que se sabe sobre preço, indicação e o que muda para pacientes diabéticos",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) concedeu à empresa brasileira EMS o registro do primeiro medicamento genérico à base de semaglutida sintética no país, indicado para o tratamento do diabetes tipo 2. O produto tem como medicamento de referência o Ozivy, primeira caneta à base de semaglutida de fabricação nacional, desenvolvida pela farmacêutica e lançada em junho deste ano. Anvisa determina apreensão de cosméticos sem registro Câncer de pele: Moderna e MSD anunciam resultados promissores de vacina contra a forma mais agressiva do tumor Na mesma decisão, a agência aprovou um medicamento similar da Germed, que será comercializado com o nome Semaclique. Para entender o que muda para os pacientes com a chegada das novas opções, O GLOBO ouviu Fernando Valente, endocrinologista e coordenador do Departamento de Educação em Diabetes e Campanhas da Sociedade Brasileira de Diabetes (SBD). Veja algumas das principais dúvidas sobre o novo medicamento: O que é a semaglutida e por que ela se tornou tão popular? A semaglutida pertence à classe dos agonistas do receptor de GLP-1. A substância auxilia no controle da glicose e aumenta a sensação de saciedade. Ela é utilizada em medicamentos conhecidos como Ozempic e Wegovy e se tornou popular nos últimos anos por seus efeitos no controle do diabetes e na perda de peso. O genérico terá a mesma eficácia dos medicamentos já disponíveis? Segundo Valente, a aprovação da Anvisa demonstra que o produto passou pelas avaliações exigidas. — A aprovação da Anvisa significa que estamos falando de um medicamento que teve sua segurança e eficácia avaliadas e comparadas ao produto de referência — afirma. Quem usa Ozempic ou Wegovy poderá fazer a troca? A troca deve ser discutida com o médico responsável pelo tratamento. Embora os medicamentos tenham a mesma substância ativa, a substituição depende da avaliação clínica de cada paciente e das regras de intercambialidade estabelecidas pela Anvisa. A aprovação vale para tratamento da obesidade? Não. Os produtos aprovados pela Anvisa têm indicação para adultos com diabetes tipo 2 insuficientemente controlado, como complemento à dieta e à prática de exercícios físicos. Embora a semaglutida também seja utilizada no tratamento da obesidade em outras formulações e dosagens, essa não é a indicação aprovada para os produtos registrados nesta segunda-feira (17). Segundo Valente, porém, a chegada das novas opções pode ter reflexos indiretos no tratamento da obesidade. — A dose da semaglutida usada para obesidade é de 2,4 mg. Ainda assim, existe perda de peso mesmo em doses menores. Eu acho que sim, pode haver repercussão também para o tratamento da obesidade — afirma. Quanto o genérico pode custar? A EMS ainda não divulgou o preço do genérico. O Ozivy, medicamento de referência da própria farmacêutica, foi lançado com preço a partir de R$ 452. Pela legislação brasileira, medicamentos genéricos devem custar ao menos 35% menos que o produto de referência, o que representaria um valor próximo de R$ 294. Quando o produto chega às farmácias? Segundo a EMS, o medicamento deve chegar ao mercado nos próximos meses. A farmacêutica afirma, porém, que o cronograma ainda depende da conclusão dos trâmites regulatórios e das definições relacionadas à precificação. O principal impacto para os pacientes Para o especialista, a principal mudança pode ser a ampliação do acesso ao tratamento. — O grande problema desses medicamentos é o custo elevado. São doenças crônicas que exigem tratamento prolongado. Quando o preço diminui, aumenta a chance de o paciente iniciar o tratamento e, mais do que isso, conseguir mantê-lo no longo prazo — afirma Valente. *aluna do curso Jornalismo do Futuro sob supervisão de Daniel Biasetto.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/08/20/primeiro-generico-de-semaglutida-tudo-o-que-se-sabe-sobre-preco-indicacao-e-o-que-muda-para-pacientes-diabeticos.ghtml",
+      "published": "2026-08-20T06:00:41+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
       "matched_sectors": [
-        "E-commerce"
+        "Farmácias"
       ],
       "matched_aliases": [
-        "amazon",
-        "e-commerce",
-        "mercado livre",
-        "shopee"
+        "caneta",
+        "ems",
+        "farmácias",
+        "genérico",
+        "medicamento",
+        "ozivy",
+        "semaglutida"
       ],
       "matches": [
         {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "body",
+          "score": 2,
           "topic": null
         },
         {
-          "sector": "E-commerce",
-          "alias": "e-commerce",
+          "sector": "Farmácias",
+          "alias": "ems",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "genérico",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "E-commerce",
-          "alias": "amazon",
+          "sector": "Farmácias",
+          "alias": "ozivy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 68.0
+      "score": 74.0
     },
     {
       "title": "Ação da Magazine Luiza (MGLU3) sobe forte em meio ao tombo da Casas Bahia",
@@ -3392,43 +3416,35 @@
       "score": 40.0
     },
     {
-      "title": "Reforma tributária e os desafios dos saldos credores do ICMS",
-      "summary": "A Reforma Tributária do Consumo (Emenda Constitucional nº 132/2023) promete transformar um dos sistemas tributários mais complexos do mundo em modelo mais uniforme e menos sujeito às distorções que historicamente marcaram a tributação sobre o consumo no Brasil. Baseada no IBS e na CBS, tributos que gradualmente substituirão ICMS, ISS, PIS/PASEP, COFINS e parte do IPI até 2032, a reforma também traz à tona questão fundamental: como preservar os saldos credores de ICMS acumulados por inúmeros contribuintes ao longo de décadas de vigência do modelo atual? Leia mais (08/13/2026 - 04h00)",
-      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/08/reforma-tributaria-e-os-desafios-dos-saldos-credores-do-icms.shtml",
-      "published": "2026-08-13T07:00:00+00:00",
+      "title": "Casas Bahia enfrenta ações de despejo de lojas e galpões logísticos",
+      "summary": "A Casas Bahia enfrenta dezenas de ações de despejo movidas por proprietários e administradores de imóveis em diferentes cidades de São Paulo, além de notificações para rescisão ou vencimento antecipado de contratos de locação. Leia mais (08/20/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/casas-bahia-enfrenta-acoes-de-despejo-de-lojas-e-galpoes-logisticos.shtml",
+      "published": "2026-08-20T07:00:00+00:00",
       "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
-        "Economia"
+        "E-commerce"
       ],
       "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
+        "casas bahia",
+        "galpões logísticos"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
+          "sector": "E-commerce",
+          "alias": "casas bahia",
           "field": "title",
           "score": 20,
-          "topic": "reforma_tributaria"
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões logísticos",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
-      "score": 36.0
+      "score": 40.0
     },
     {
       "title": "Varejo restrito sobe 0,5% em junho ante maio, diz IBGE",
@@ -5965,121 +5981,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Termos para novas debêntures em plano de recuperação do GPA são aprovados",
-      "summary": "A Companhia Brasileira de Distribuição (GPA) informou nesta quarta-feira (12), em Fato Relevante enviado à Comissão de Valores Mobiliários (CVM), a aprovação dos principais termos e condições para a emissão de novas debêntures, operação que integra a solução de reestruturação financeira prevista em seu plano de recuperação extrajudicial. O chamado Term Sheet, documento que reúne as condições que deverão constar das escrituras das novas debêntures, foi apresentado ao juízo responsável pelo processo de recuperação extrajudicial, conforme previsto no plano. A aprovação contou com o apoio de credores que representam mais da metade do total de credores sujeitos ao plano. Entre aqueles que escolheram a opção A de pagamento, que prevê a contribuição de novos recursos para a companhia, mais de dois terços aprovaram os termos. O Term Sheet ficará disponível para consulta nos autos do processo de recuperação extrajudicial e no site de relações com investidores da companhia. Segundo o GPA, a aprovação representa uma etapa importante para a implementação da reestruturação financeira prevista no plano. A emissão das novas debêntures, contudo, ocorrerá após a homologação do plano de recuperação extrajudicial.",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/13/termos-para-novas-debentures-em-plano-de-recuperacao-do-gpa-sao-aprovados.ghtml",
-      "published": "2026-08-13T05:24:54+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "gpa"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "gpa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Do TikTok à loja física: como a Sephora acompanha a nova jornada de compra",
-      "summary": "Em entrevista ao Marketing Trends, Cataldo Domenicis, diretor de marketing da Sephora Brasil, detalha a estratégia da marca para personalizar a experiência do cliente",
-      "url": "https://exame.com/marketing/do-tiktok-a-loja-fisica-como-a-sephora-acompanha-a-nova-jornada-de-compra",
-      "published": "2026-08-13T06:00:57+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "sephora"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "sephora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Adesivos de skincare funcionam? Entenda o que há por trás dos patches para a pele - O GLOBO",
-      "summary": "Adesivos de skincare funcionam? Entenda o que há por trás dos patches para a pele &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/ela/noticia/2026/08/13/adesivos-de-skincare-funcionam-entenda-o-que-ha-por-tras-dos-patches-para-a-pele.ghtml",
-      "published": "2026-08-13T06:30:56+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Varejo pressiona Congresso pela volta da taxa das blusinhas",
-      "summary": "ABVTEX e IDV tentam reverter no Congresso decisão de Lula que zerou imposto de 20% sobre compras de até US$ 50; comando da comissão mista segue sem acordo",
-      "url": "https://exame.com/brasil/varejo-pressiona-congresso-pela-volta-da-taxa-das-blusinhas",
-      "published": "2026-08-13T06:53:02+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Revés judicial do governo em mudança no Bolsa Família deve diminuir economia inicialmente prevista no orçamento em 2027",
-      "summary": "Um revés judicial do governo federal em relação às regras do Bolsa Família pode reduzir a economia prevista para 2027 com medidas de revisão de gastos já implementadas ao longo do terceiro mandato do presidente Luiz Inácio Lula da Silva. Por outro lado, o governo teve uma vitória ontem ao conseguir aprovar, dentro do projeto de lei complementar para desoneração dos combustíveis, gatilhos para contenção de despesas que podem valer para o ano que vem. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/08/13/reves-judicial-do-governo-em-mudanca-no-bolsa-familia-deve-diminuir-economia-inicialmente-prevista-no-orcamento-em-2027.ghtml",
-      "published": "2026-08-13T07:00:22+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Canetas emagrecedoras movimentam R$ 2,35 bi e viram alvo de fraudes online - InfoMoney",
@@ -12085,6 +11986,29 @@
       "score": 20.0
     },
     {
+      "title": "Campanha de Flávio quer mudar reforma tributária, mas não detalha como baixar IVA",
+      "summary": "O coordenador da campanha de Flávio Bolsonaro ( PL ), senador Rogério Marinho (PL-RN), afirmou nesta terça-feira (18) que pretende revisitar a reforma tributária em um prazo de quatro a seis meses, caso o presidenciável do PL seja eleito. Ele disse querer reduzir o IVA (Imposto sobre Valor Agregado), mas não detalhou quais setores seriam afetados com uma alíquota diferente da atual, entre 26,5% e 28%. Leia mais (08/18/2026 - 20h10)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/campanha-de-flavio-quer-mudar-reforma-tributaria-mas-nao-detalha-como-baixar-iva.shtml",
+      "published": "2026-08-18T23:10:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Lula pressiona Congresso e diz estar convencido que fim da ‘taxa das blusinhas’ será aprovado",
       "summary": "Presidente Luiz Inácio Lula da Silva Brenno Carvalho/Agência O Globo Como forma de pressão ao Congresso, o presidente Luiz Inácio Lula da Silva gravou um vídeo em que diz estar convencido de que a medida provisória (MP) que prevê acabar com a chamada “taxa das blusinhas” será aprovada no Parlamento. Com receio de impacto eleitoral, Lula disse que zerar o imposto federal de importação sobre compras internacionais de até US$ 50 é \"questão de justiça\". Leia mais A declaração foi feita em um vídeo gravado nesta terça-feira (18), no estúdio em Brasília em que o petista tem feito seu material de campanha. \"Eu estou muito otimista com a aprovação da medida provisória que eu mandei para acabar com a taxação das blusinhas\", comentou o chefe do Executivo. O texto em questão acaba com o imposto de importação de 20% sobre compras internacionais de até 50 dólares. A tramitação, porém, é considerada difícil diante da resistência do setor varejista, contrário ao fim da alíquota. Além da redução do imposto, a MP também amplia a discricionariedade da Fazenda para alterar a tributação das remessas internacionais no futuro. Lula, então, diz não saber o porquê \"algumas pessoas estão incomodadas achando que isso prejudica o comércio\". \"Se você entrar em uma loja qualquer, você vai ver que as roupas vêm de Bangladesh, do Vietnã, da China\", rebateu. Em uma pressão pela aprovação, Lula disse estar \"convencido\" de que tanto o presidente do Senado, Davi Alcolumbre (União-AP), quanto da Câmara, Hugo Motta (Republicanos-PB), vão votar a MP e aprovar o fim da taxação. Em sua visão, a aprovação é uma \"questão de justiça\". \"A classe média alta viaja para fora, ela pode gastar 2 mil dólares e não paga imposto. Por que uma pessoa da periferia, uma mulher, uma jovem, um menino, compra um negócio de 50 dólares e querem taxar ele? É apenas uma questão de justiça e eu tenho certeza que, se tratando de justiça, o Senado e a Câmara vão votar para que o povo brasileiro possa comprar as coisas que eles precisam sem ninguém perturbá-los\", finalizou o vídeo. A principal preocupação em torno do presidente sobre o tema se dá porque há uma avaliação que uma eventual perda de validade da MP, com a retomada da cobrança do imposto, poderia ter impacto eleitoral relevante sobre Lula, o que aumenta a pressão pela aprovação da medida no Congresso. A medida precisa ser aprovada até 8 de setembro. Caso contrário, perde a validade e a tributação de 20% volta a ser cobrada a partir do dia 9. Embora o Imposto de Importação tenha caráter regulatório e a Constituição permita ao Executivo alterar suas alíquotas por decreto, o Congresso fixou em lei, em 2024, as alíquotas aplicáveis às remessas internacionais. Na prática, isso restringiu a margem do governo para mudar a tributação das chamadas \"blusinhas\" sem uma nova alteração legislativa. A MP, no entanto, muda esse desenho ao prever expressamente que ato do ministro da Fazenda poderá alterar as alíquotas, dentro dos limites estabelecidos na legislação. Pelo texto, a pasta poderá reduzir a zero a alíquota para remessas de até US$ 50 e a 30% na faixa de até US$ 3 mil, além de diferenciar a tributação conforme o tipo de produto importado ou a adesão ao programa de conformidade da Receita Federal. Na semana passada, Lula se encontrou com Alcolumbre e defendeu a necessidade de avançar a medida para evitar com que ela perca o prazo de validade. A instalação da comissão especial que vai analisar a MP, contudo, foi adiada e está prevista apenas para o dia 1º de setembro. Nesta manhã, o chefe do Executivo se reuniu com ministros para debater o tema.",
       "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/18/lula-pressiona-congresso-e-diz-estar-convencido-que-fim-da-taxa-das-blusinhas-sera-aprovado.ghtml",
@@ -13465,46 +13389,6 @@
       "score": 20.0
     },
     {
-      "title": "Implante de cabelo, perda de peso e renovação do guarda-roupa: candidatos apostam em mudanças de visual antes da eleição",
-      "summary": "É quase um dogma do marketing político que o candidato a um cargo eletivo não pode ter sapatos novos. O desgaste do calçado funciona como prova de humildade e experiência. Com o tempo, porém, novos pilares foram acrescentados neste livro de regras, de forma consciente ou não. Agora, a ideia de juventude, saúde e virilidade se tornaram ativos políticos, com a adoção de procedimentos estéticos ou mudanças estratégicas no guarda-roupa para projetar esse vigor. Na era das canetas emagrecedoras, dos implantes capilares e das harmonizações faciais, cada vez mais candidatos e líderes políticos, dos mais diversos matizes ideológicos, vêm moldando a própria imagem. No caso das canetas emagrecedoras, a maioria, como o governador de São Paulo, Tarcísio de Freitas (Republicanos), e o ex-candidato à prefeitura de São Paulo, Guilherme Boulos (PSOL), admite seu uso. Longe de declarações oficiais, o uso é confessado em meio a brincadeiras ou comentado por aliados próximos. Tarcísio, que vai disputar a reeleição, além de ter emagrecido cerca de 20 quilos ao longo dos últimos meses, também abriu mão dos cabelos grisalhos e passou a pintar os fios de um tom mais escuro. Isso tudo é acompanhado por uma mudança nas redes: desde o ano passado, ele passou a publicar alguns vídeos correndo na esteira ou pedalando. Tarcísio durante evento no Palácio dos Bandeirantes (2023) - Tarcísio durante formatura do programa Caminho da Capacitação (2026) Governo de São Paulo/Marcelo S. Camargo - Governo de São Paulo/Celio Messias O presidente Luiz Inácio Lula da Silva (PT) também não escapa. Grande parte do conteúdo que viraliza nas redes sociais do mandatário é durante a realização de atividades físicas e treinos na academia. Próximo de completar 81 anos, Lula teme ganhar a pecha do ex-presidente americano Joe Biden, que saiu da corrida de 2024 após ganhar o apelido de “Sleepy Joe” (\"Joe Dorminhoco\"), devido à idade avançada e ao claro cansaço nos eventos de campanha. Lula durante a participação na Corrida e Caminhada MEC 95 anos, na Esplanada dos Ministérios (2025) Presidência da República/Ricardo Stuckert Caso seja reeleito ao Planalto, Lula terminará seu quarto mandato com 86 anos de idade. Diante disso, há um esforço para grudar no presidente a imagem de vitalidade e força. Em 2024, Lula também aderiu ao uso de canetas emagrecedoras. Especialistas em comunicação política e em imagem pessoal ouvidos pelo GLOBO apontam que, historicamente, existe um esforço da classe política de usar elementos visuais, seja no cabelo, no peso, na maquiagem ou no modo de vestir, para passar mensagens, atrair determinada parcela do eleitorado ou criar conexão com o público. Deniza Gurgel, consultora e pesquisadora da imagem na comunicação política, aponta que as imagens dos candidatos circulam antes mesmo do eleitor escutar o que o político está falando — por vezes, o áudio dos vídeos nem importam tanto quanto o que se vê. — As imagens viram um atalho cognitivo para o cérebro do eleitor começar a tirar conclusões a respeito de quem é essa liderança. E a gente está num momento em que a cultura “wellness”, de praticar atividade física e cuidar da saúde estão em alta. No caso do Lula, começou a haver questionamentos se ele conseguiria cumprir um novo mandato, então ele passou a postar vídeos e fotos fazendo atividade física, usando roupas esportivas. E isso traz a imagem de que tem energia e que a idade é um detalhe — comenta. Na direita, Flávio Bolsonaro (PL) também vem sutilmente mudando a aparência. No ano passado, ele chegou a usar canetas emagrecedoras e perdeu 15 quilos, segundo a coluna de Lauro Jardim, do GLOBO. Os óculos de grau, antes mais presentes, agora pouco aparecem. Outro artifício visual tem chamado a atenção: camisetas com frases marcantes. Na tentativa de se mostrar mais moderado que seu pai, o ex-presidente Jair Bolsonaro (PL), já apareceu mais de uma vez em vídeos publicados em suas redes sociais com uma camiseta na qual se lê a frase “pai de menina”. Em aceno a eleitores mais jovens e moderados, Flávio Bolsonaro tem apostado em camisetas com frases de efeito e marcas associadas à classe média Vittor Sales Nos últimos meses, Flávio tem apostado em discursos e conteúdos voltados às mulheres, na tentativa de reverter a rejeição das mulheres que seu pai enfrentou na disputa eleitoral de 2022. Estampar a frase em seu peito, avaliam os especialistas, é uma forma de fazer um contraponto à fala de Jair Bolsonaro que disse ter dado uma “fraquejada” ao ter uma filha mulher. Em visita ao Rio Grande do Norte e à Paraíba, usou camisas com a frase “Nordeste é solução”. Ao comparecer à Agrishow, em Ribeirão Preto (SP), apostou na frase “orgulho do nosso agro” estampada na roupa. — E quando ele coloca uma camiseta sobre o Nordeste, está avançando num reduto eleitoral que, em tese, tem predominância muito mais social-democrata do que conservadora. É um caminho para diminuição da rejeição, que vem do pai — avalia Marcelo Vitorino, professor de marketing político da ESPM. Deniza acrescenta que tem especial significado a marca da camiseta “pai de menina”, da Reserva, por ser uma grife que se conecta com “jovens, de classe média, empreendedores”, um público que Flávio tem tentado alcançar — inclusive com a ajuda do coach Pablo Marçal (União), que lhe ministrou uma espécie de media training com dicas para atrair profissionais liberais, jovens que trabalham com internet e tecnologia e quem quer abrir os próprios negócios. — Esse modo de vestir do Flávio, além de comunicar jovialidade, informalidade, algo muito presente na narrativa da família Bolsonaro, ao mesmo tempo o diferencia do pai, que usava mais camisa de futebol, bermudão, chinelo. Ele já tem um requinte maior, menos desleixado. A camiseta da Reserva, uma marca jovem, se conecta com jovens de classe média, que têm esse mindset de transformar o país, trabalhar e ao mesmo tempo ser dono do seu próprio tempo, que é algo que está muito presente nos discursos que o próprio Flávio representa — acrescenta Deniza. Já Ronaldo Caiado (PSD), também candidato à presidência, tem tentado tirar alguns anos das costas, mas de forma mais discreta. O goiano, apesar de não ter emagrecido ou abandonado os cabelos grisalhos, fez um implante capilar no ano passado. O processo de transformação foi compartilhado pela clínica Capilife, responsável pelo implante. Governador Ronaldo Caiao (PSD) com os médicos Domingos Coelho e Jefferson Freitas Reprodução/Redes Sociais Renan Santos, candidato ao Planalto pelo partido Missão, também trocou os cabelos desgrenhados por um corte de cabelo e barba mais alinhados nos últimos meses. Nos últimos anos, também foi visível as mudanças de visual de Michelle Bolsonaro, hoje candidata ao Senado pelo Distrito Federal. A mudança no modo de vestir passou a ficar mais evidente após ela assumir a presidência do PL Mulher, quando passou a adotar mais ternos e camisas em tons neutros, destoando dos vestidos em tons pastéis que usava quando era primeira-dama. Mudanças no visual de políticos não são uma novidade. Em 2024, Marçal fez um trabalho de visagismo antes da corrida eleitoral pela prefeitura de São Paulo, mudou o corte de cabelo e da barba, perdeu alguns quilos e passou a apostar mais em ternos e blazers. Já o prefeito de São Paulo Ricardo Nunes (MDB) fez branqueamento nos dentes e mudou o corte de cabelo antes da campanha — e, logo após vencer a disputa pela prefeitura, recorreu a intervenções cirúrgicas para melhorar o semblante, com uma harmonização facial e uma cirurgia de correção de pálpebras. Postagem de clínica de estética mostra antes e depois do prefeito Ricardo Nunes (MDB) Reprodução/Redes Sociais Alexia Teles, consultora de imagem pessoal com experiência em estratégia de imagem política, afirma que percebe um aumento na procura de políticos pelos seus serviços em períodos pré-eleitorais. Para ela, as escolhas de roupa, estilo do cabelo, apostar na perda de peso ou em um físico atlético não são apenas vaidade e que mudanças sutis são mais estratégicas do que as bruscas, especialmente numa época de superexposição nas redes sociais. — Hoje a gente vê um movimento mais sutil, principalmente relacionado a esse movimento de saúde, de vitalidade, ou mudanças estéticas interpretadas simbolicamente como saúde. O emagrecimento, o cabelo, que o público interpreta como símbolo de segurança, de capacidade de controlar a sua própria rotina. A inteligência artificial e cortes de vídeos nas redes fazem com que o eleitorado construa várias versões de uma mesma pessoa e, se o político não tiver essa imagem coerente, haverá um problema — pondera. Com cada vez mais recursos para vender essa ideia de juventude, em um esforço que não se limita a uma ida ao barbeiro ou uma mudança no guarda-roupa, a política tem ficado cada vez mais magra, mais tingida e mais cabeluda.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/13/implante-de-cabelo-perda-de-peso-e-renovacao-do-guarda-roupa-candidatos-apostam-em-mudancas-de-visual-antes-da-eleicao.ghtml",
-      "published": "2026-08-13T06:30:31+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Cosméticos",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "maquiagem"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 18.0
-    },
-    {
       "title": "Correios vão passar a entregar no Brasil compras feitas pela internet em sites de lojas do Paraguai",
       "summary": "Uma novidade para os consumidores brasileiros: a partir de agora, já podem comprar em sites de varejistas do Paraguai e receber as encomendas em qualquer endereço do país por meio dos Correios. A nova modalidade de entrega, anunciada pela estatal nesta semana, permite que produtos vendidos por lojas paraguaias sejam adquiridos pela internet e entregues diretamente no Brasil. De selo para capacete a produtos Jequiti: Correios ampliam parcerias para recuperar o caixa 'Taxa das blusinhas': Governo tentará aprovar MP no início de setembro, diz ministro da Fazenda Atualmente, o serviço está disponível para duas varejistas paraguaias, a Cellshop e a New Zone Importados, que ficam localizadas em Ciudad del Este. Segundo os Correios, as empresas são homologadas no Programa Remessa Conforme, da Receita Federal, e estão habilitadas a comercializar seus produtos para o mercado brasileiro. As entregas serão transportadas por modal terrestre por meio do Correios Packet, serviço que permite a importação de encomendas de até 30 kg, com rastreamento completo. A partir da saída do Centro Internacional dos Correios no Brasil, as encomendas seguem os mesmos prazos de entrega das remessas nacionais. Capital: O fôlego das compras em sites asiáticos após salto com fim da ‘taxa das blusinhas’ Segundo os Correios, a nova modalidade oferece vantagens tanto para consumidores quanto para varejistas. Para os brasileiros, a principal delas é a possibilidade de comprar pela internet produtos comercializados por lojistas paraguaios e receber as encomendas em casa. Para os varejistas, o serviço amplia o acesso ao mercado brasileiro, contribui para a redução dos custos logísticos e incentiva a formalização das operações e a arrecadação de tributos.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/08/19/correios-vao-passar-a-entregar-no-brasil-compras-feitas-pela-internet-em-sites-de-lojas-do-paraguai.ghtml",
@@ -14251,52 +14135,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Varejo, inflação, emprego e leilão de Treasuries nos EUA: o que move os mercados",
-      "summary": "A temporada de resultados também movimenta o mercado nesta quinta-feira, 13, com balanços de Nubank, Cyrela, Azul, entre outras companhias",
-      "url": "https://exame.com/invest/mercados/varejo-inflacao-emprego-e-leilao-de-treasuries-nos-eua-o-que-move-os-mercados",
-      "published": "2026-08-13T05:30:13+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Por que as marcas esportivas estão olhando para a África",
-      "summary": "Free the Youth, Homecoming e Waf. lideram uma safra de colaborações que aproxima Nike, Adidas e Puma de criadores africanos, num movimento que também é comercial",
-      "url": "https://exame.com/casual/por-que-as-marcas-esportivas-estao-olhando-para-a-africa",
-      "published": "2026-08-13T06:33:51+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "puma"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "puma",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "“Queremos Levar Tarsila Pro Brasil Todo”: Os Bastidores da Nova Mostra Imersiva da Modernista",
@@ -15625,6 +15463,52 @@
         {
           "sector": "E-commerce",
           "alias": "casas bahia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Às vésperas da eleição, governo Lula avalia reduzir juros do Minha Casa, Minha Vida",
+      "summary": "Às vésperas das eleições presidenciais, o governo Lula estuda reduzir os juros dos financiamentos habitacionais para as famílias enquadradas na Faixa 3 (renda entre R$ 5 mil e R$ 9 mil mensais) do programa Minha Casa, Minha Vida. Fabio Graner: Custo efetivo da dívida atinge maior valor em 10 anos. Entenda o porquê Reintegração: Justiça suspende demissões da Casas Bahia e veta novos cortes sem mediação de sindicato Segundo técnicos a par do assunto, a ideia é dividir essa faixa em dois grupos, com juros mais baixos, beneficiando principalmente a mais baixa renda. Atualmente, a taxa é de 8,16% ao mês mais TR (Taxa Referencial) e para 7,66% para trabalhadores cotistas do FGTS. A apresentação das novas taxas ao Conselho Curador do FGTS aguarda a conclusão de estudos sobre impactos da medida nas contas do Fundo de Garantia do Tempo de Serviço, principal fonte de recursos do programa habitacional do governo. Os juros cobrados nos financiamentos são a principal receita do Fundo, além das aplicações de recursos disponíveis em títulos do Tesouro Nacional. A medida seria uma alternativa à proposta do setor da construção civil para elevar o limite de renda para as famílias de classe média, enquadrada na Faixa 4 (renda de até R$ 13 mil) e limite de valor do imóvel em R$ 600 mil. Além de aumentar a renda, o setor defende elevar o teto do valor do imóvel para R$ 1,2 milhão. Os juros cobrados no programa para esse segmento da população é de 10% ao ano, abaixo dos juros na modalidade fora do programa, pelo Sistema Brasileiro de Poupança e Empréstimo (SBPE). Neste caso, a taxa varia entre 10,5% ao ano e 12%, mais a TR (Taxa Referencial). A classe média foi incluída no Minha Casa, Minha Vida, por determinação do presidente Lula, na Faixa 4 e começou a funcionar efetivamente em abril deste ano. Contudo, técnicos avaliam que o FGTS tem foco na habitação popular e que privilegiar a classe média nesse momento poderia implicar falta de recursos para outras faixas de renda.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/20/as-vesperas-da-eleicao-governo-lula-avalia-reduzir-juros-do-minha-casa-minha-vida.ghtml",
+      "published": "2026-08-20T07:00:43+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Robô humanoide chinês corre mais rápido que seres humanos — mas tem dificuldade para frear",
+      "summary": "As ações da empresa chinesa pioneira em robôs humanoides Unitree, cujos aparelhos com capacidade de dar cambalhotas encantaram o mundo neste ano, dispararam mais de 600% nesta quarta-feira (19), em sua aguardada estreia na Bolsa, em mais uma demonstração da força do setor no país asiático. Além de Zezé Di Camargo: veja quais famosos possuem jatos da Cessna Ferraris, ouro e vinhos: super-ricos investem em bunkers de luxo na Suíça As máquinas da empresa, com sede na cidade de Hangzhou (leste), viraram um símbolo da aceleração do setor na China, que recebe forte apoio do governo e possui sólidas cadeias de suprimento nacionais. A robótica avançada aparece como a próxima fronteira do boom global da inteligência artificial, o que envolve o entusiasmo dos investidores e a rivalidade entre China e Estados Unidos. Superman: mais rápido que Bolt... até frear A Unitree apresentou na segunda-feira um novo robô humanoide chamado \"Superman\", que segundo a empresa é capaz de saltar até dois metros e correr a uma velocidade de 12,66 metros por segundo, mais rápido que o ritmo médio do recorde mundial de Usain Bolt nos 100 metros rasos, caso conseguisse prosseguir com a velocidade durante toda a prova. Initial plugin text A empresa já havia chamado a atenção durante a tradicional cerimônia anual do Festival da Primavera na China ao revelar robôs habilidosos, vestidos com trajes tradicionais, que praticavam kung fu e saltavam sobre as mesas. Em sua estreia nesta quarta-feira na Bolsa de Xangai, as ações da empresa dispararam até 629%, chegando a 1.100 yuans (quase 160 dólares, 834 reais) no início da sessão, em comparação com seu preço de oferta de 150,80 yuans. Durante o dia, o valor recuou e fechou a 845 yuans (125 dólares, 643 reais), uma alta de 460%. Robô humanoide \"Superman\", da Unitree: pula mais alto e corre mais rápido que seres humanos Reprodução | X Unitree \"Isso foi o mercado lançando um sinalizador sobre a próxima fronteira especulativa da China\", avaliou Stephen Innes, estrategista global da Quintex Intel. \"A mensagem é bastante clara: a IA física virou o novo objeto de desejo\". Conferência Mundial em Pequim A oferta pública inicial da Unitree coincidiu com o dia de abertura da Conferência Mundial de Robótica em Pequim, onde o estande da Unitree ficou lotado de visitantes e jornalistas. Muitas pessoas tiravam selfies com um Unitree GD01 de três metros de altura, um imponente robô que, segundo a empresa, pode alternar entre os modos bípede e quadrúpede. À esquerda do GD01, um pequeno humanoide devolvia saques de pingue-pongue a um funcionário da Unitree, que lamentou que o robô ainda não consiga pegar a bola. Do outro lado da vitrine, oito robôs dançavam ao ritmo da canção pop chinesa dos anos 1990 \"Lovebird\". Galerias Relacionadas O uso comercial desse tipo de aparelho continua limitado, já que a maioria é utilizada para pesquisa ou exibição. Especialistas afirmam que o \"santo graal\" do setor, ou seja, a criação de máquinas capazes de reagir de forma independente a qualquer situação da vida real, ainda está muito distante para qualquer empresa. — Treinar o 'cérebro' (de um robô) é uma tarefa muito difícil — disse à AFP Zhu Tianle, engenheiro da primeira escola de robótica da China, em Hangzhou. — Embora tenhamos alcançado um certo nível de domínio técnico, fazer com que os robôs compreendam o mundo continua sendo um desafio global. — A próxima fase do setor não consiste tanto em demonstrar que um robô é capaz de caminhar, mas em demonstrar que pode executar atividades úteis do ponto de vista econômico — acrescenta o analista Kangyuxiao Li, da Morningstar. China vs EUA Os produtos da Unitree são utilizados não apenas por acadêmicos chineses, mas também por gigantes da tecnologia dos Estados Unidos, como Nvidia, Google e Amazon, disse Renjie Guo, fundador e CEO da empresa de engenharia robótica Zeroth. As ações da Unitree começaram a ser negociadas no mercado STAR da Bolsa de Valores de Xangai, focado em tecnologia e frequentemente comparado à Nasdaq dos Estados Unidos. Outras empresas chinesas de robôs humanoides, como a UBTech, com sede em Shenzhen, abriram capital em Hong Kong. Galerias Relacionadas A UBTech lançou o robô \"U1\", equipado com câmeras nos olhos, sensores no peito e microfones, no início do ano. O modelo foi apresentado como o primeiro humanoide ultrarrealista em tamanho real do mundo projetado para produção em massa. O governo chinês designou a robótica como uma indústria estratégica e afirmou que, até o ano passado, mais de 140 empresas locais lançaram mais de 330 modelos de robôs humanoides. Com o desenvolvimento, o setor virou uma nova frente de disputa na corrida tecnológica entre Estados Unidos e China. A Unitree foi incluída em uma lista de empresas que Washington acusou, em junho, de apoiar o Exército chinês. No mês seguinte, o governo de Donald Trump acrescentou os robôs humanoides e quadrúpedes — incluindo os da China — a uma lista de produtos e empresas cuja importação para os Estados Unidos está proibida por motivos de segurança nacional.",
+      "url": "https://oglobo.globo.com/economia/epoca/noticia/2026/08/20/robo-humanoide-chines-corre-mais-rapido-que-seres-humanos-mas-tem-dificuldade-para-frear.ghtml",
+      "published": "2026-08-20T07:00:59+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "ouro"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "ouro",
           "field": "lead",
           "score": 8,
           "topic": null
