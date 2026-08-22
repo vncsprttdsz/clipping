@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T09:08:58.373295+00:00",
-  "count": 550,
-  "new_this_run": 7,
+  "generated_at": "2026-08-22T09:51:35.315494+00:00",
+  "count": 551,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Canetas emagrecedoras: Anvisa aprova primeiro genérico de semaglutida no Brasil",
@@ -12803,6 +12803,29 @@
         {
           "sector": "Farmácias",
           "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Após conquistar o mundo, Shein sofre para dar o passo seguinte",
+      "summary": "A Shein já foi uma das empresas mais comentadas do varejo . Ela conseguia identificar o que a geração Z queria e, em poucos dias, transformar essas tendências em vestidos de tela de US$ 10 e tops cropped de US$ 5. Leia mais (08/22/2026 - 06h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/apos-conquistar-o-mundo-shein-sofre-para-dar-o-passo-seguinte.shtml",
+      "published": "2026-08-22T09:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
           "field": "title",
           "score": 20,
           "topic": null
