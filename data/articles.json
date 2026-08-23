@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-23T07:13:14.602989+00:00",
-  "count": 571,
-  "new_this_run": 2,
+  "generated_at": "2026-08-23T07:57:49.533638+00:00",
+  "count": 576,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Canetas emagrecedoras: Anvisa aprova primeiro genérico de semaglutida no Brasil",
@@ -330,6 +330,53 @@
         {
           "sector": "Farmácias",
           "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
+      "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo - Exame",
+      "summary": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/ciencia/ozempic-generico-novo-medicamento-de-semaglutida-tem-resultado-promissor-em-estudo",
+      "published": "2026-08-22T13:16:11+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "genérico",
+        "ozempic",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "genérico",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
           "field": "title",
           "score": 20,
           "topic": null
@@ -13389,6 +13436,98 @@
         {
           "sector": "Farmácias",
           "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras mudam perfil de alunos em academias e exigem adaptação dos treinos - Folha de S.Paulo",
+      "summary": "Canetas emagrecedoras mudam perfil de alunos em academias e exigem adaptação dos treinos &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrio/2026/08/canetas-emagrecedoras-mudam-perfil-de-alunos-em-academias-e-exigem-adaptacao-dos-treinos.shtml",
+      "published": "2026-08-23T07:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Com fadiga devido ao uso de caneta emagrecedora, atriz adaptou o treino na academia - 21/08/2026 - Equilibrio - UOL",
+      "summary": "Com fadiga devido ao uso de caneta emagrecedora, atriz adaptou o treino na academia - 21/08/2026 - Equilibrio &nbsp;&nbsp; UOL",
+      "url": "https://fotografia.folha.uol.com.br/galerias/1874175288840126-com-fadiga-devido-ao-uso-de-caneta-emagrecedora-atriz-adaptou-o-treino-na-academia",
+      "published": "2026-08-23T07:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "A maquiagem dos anos 2000 voltou, mas não como antes; veja o que mudou - O GLOBO",
+      "summary": "A maquiagem dos anos 2000 voltou, mas não como antes; veja o que mudou &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/ela/noticia/2026/08/23/a-maquiagem-dos-anos-2000-voltou-mas-nao-como-antes-veja-o-que-mudou.ghtml",
+      "published": "2026-08-23T07:01:54+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Artigo: CEO do iFood diz que quem matou Cláudio Rafael não merece ser chamado de entregador - O GLOBO",
+      "summary": "Artigo: CEO do iFood diz que quem matou Cláudio Rafael não merece ser chamado de entregador &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/rio/noticia/2026/08/23/artigo-ceo-do-ifood-diz-que-quem-matou-claudio-rafael-nao-merece-ser-chamado-de-entregador.ghtml",
+      "published": "2026-08-23T07:30:18+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "title",
           "score": 20,
           "topic": null
