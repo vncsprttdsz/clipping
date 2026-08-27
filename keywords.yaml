@@ -741,28 +741,34 @@ sectors:
     # Ciclo de credito do varejo. "recuperacao judicial" nao existia como
     # alias: so aparecia dentro de requires_any de "americanas", onde nunca
     # dispara sozinho. Perdia Casas Bahia, Marisa, Marabraz e Tok&Stok.
+    # ATENCAO: o requires_any aqui NAO pode conter termo generico de credito
+    # (divida, credor, reestruturacao, debenture). Toda materia de RJ tem
+    # esses termos, de qualquer setor, entao o gate vira decorativo: a versao
+    # anterior deixou entrar Braskem, Lupatech, OSX, Oncoclinicas, Ambipar e
+    # BRB (petroquimica, oleo, saude, banco). O gate tem que ser allowlist de
+    # VAREJO/CONSUMO, nunca blocklist de setores.
     - alias: recuperação judicial
-      requires_any: [varejo, varejista, varejistas, loja, lojas, consumo,
-                     consumidor, credor, credores, fornecedor, fornecedores,
-                     dívida, dívidas, endividamento, comércio, shopping,
-                     moda, supermercado, farmácia, magazine, casas bahia,
-                     marisa, americanas, tok&stok, mobly, marabraz, gpa,
-                     debênture, debêntures, reestruturação]
-      requires_none: [companhia aérea, aérea, azul linhas, gol linhas, latam,
-                      construtora, incorporadora, usina, frigorífico,
-                      operadora de saúde, hospital]
+      requires_any: [varejo, varejista, varejistas, loja, lojas, lojista,
+                     consumidor, consumidores, comércio, comerciante,
+                     shopping, moda, vestuário, calçado, supermercado,
+                     atacarejo, farmácia, drogaria, magazine, magalu,
+                     casas bahia, marisa, americanas, tok&stok, mobly,
+                     marabraz, gpa, renner, riachuelo, e-commerce,
+                     marketplace, varejo alimentar, bens de consumo]
     - alias: recuperações judiciais
-      requires_any: [varejo, varejista, varejistas, loja, lojas, consumo,
-                     consumidor, credor, credores, comércio, shopping,
-                     supermercado, farmácia, moda]
-    # Termo juridico especifico e de baixo volume: sem requires_any, pra nao
-    # perder materia de tendencia do ciclo ("Conversao de recuperacao
-    # extrajudicial em judicial cresce"), que nao traz vocabulario de varejo
-    # no titulo. So bloqueia setores claramente fora da tese.
+      requires_any: [varejo, varejista, varejistas, loja, lojas, consumidor,
+                     consumidores, comércio, shopping, supermercado,
+                     farmácia, drogaria, moda, e-commerce, bens de consumo]
+    # Sem requires_any, este alias trouxe ~14 materias de Braskem alem de
+    # Lupatech, OSX e Oncoclinicas numa unica rodada. Mesmo gate de varejo da
+    # RJ acima. Custo aceito: perde "Conversao de recuperacao extrajudicial
+    # em judicial cresce", que nao tem termo de varejo no titulo.
     - alias: recuperação extrajudicial
-      requires_none: [oi s.a., falência da oi, telecom, telefonia, operadora,
-                      companhia aérea, construtora, incorporadora, usina,
-                      frigorífico, hospital]
+      requires_any: [varejo, varejista, varejistas, loja, lojas, consumidor,
+                     consumidores, comércio, shopping, moda, vestuário,
+                     supermercado, farmácia, drogaria, magazine, magalu,
+                     casas bahia, marisa, americanas, tok&stok, mobly,
+                     marabraz, gpa, e-commerce, bens de consumo]
     - alias: endividamento
       requires_any: [família, famílias, consumidor, consumidores, baixa renda,
                      renda, cartão, crédito, varejo, inadimplência, brasileiro,
