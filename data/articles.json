@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T17:56:44.850789+00:00",
-  "count": 400,
-  "new_this_run": 29,
+  "generated_at": "2026-08-27T18:27:53.986775+00:00",
+  "count": 398,
+  "new_this_run": 22,
   "articles": [
     {
       "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo - Exame",
@@ -2534,6 +2534,46 @@
       "score": 36.0
     },
     {
+      "title": "Congresso antecipa escolha de presidência e relatoria da MP do fim da taxa das blusinhas",
+      "summary": "A comissão mista que analisa a Medida Provisória do fim da chamada “taxa das blusinhas” antecipou a reunião para definir a escolha da presidência e relatoria. Inicialmente prevista para a próxima terça-feira, agora a comissão vai se reunir nesta sexta-feira, às 10h. Fim da escala 6x1: Senador apresenta relatório e mantém texto da Câmara para acelerar tramitação Após acordo: Alcolumbre escolhe relatores aliados de Lula para MP do fim da taxa das blusinhas e projetos sobre minerais críticos e data centers Há um acordo para que a presidência da comissão fique com o deputado Reginaldo Lopes (PT-MG) e a relatoria com a senadora Leila Barros (PDT-DF). Ambos são aliados do presidente Luiz Inácio Lula da Silva. A proposta é considerada um ativo eleitoral pelo petista, que é candidato à reeleição. O colegiado já havia sido instalado no início de agosto, mas sem a definição dos principais postos. A MP estava travada e corria o risco de perder a validade sem ser votada devido a falta de acordo. Após reunião entre Lula, o presidente do Senado, Davi Alcolumbre (União-AP), e o presidente da Câmara, Hugo Motta (Republicanos-PB), na quarta-feira, foi fechado um entendimento para ela ser votada antes da data limite, prevista para o dia 8 de setembro. Míriam Leitão: O que tem mais chance de ser aprovado no esforço concentrado do Congresso Nas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF). A iniciativa acaba com a cobrança de 20% para produtos importados de até US$ 50. O termo \"taxa das blusinhas\", que a MP quer dar fim, é utilizado para se referir ao programa Remessa Conforme, criado para viabilizar a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. Antes, na prática, a taxa estava zerada. Para compras acima de US$ 50, segue valendo o imposto de 60%. 'Juntos para sempre': Da 'blusinha' à 6x1, entenda o acordo entre Lula, Motta e Alcolumbre para avançar pauta eleitoral A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Palácio do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas. O principal receio para redução da taxa das blusinhas era a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/27/congresso-antecipa-escolha-de-presidencia-e-relatoria-da-mp-do-fim-da-taxa-das-blusinhas.ghtml",
+      "published": "2026-08-27T17:47:23+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "remessa conforme",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "remessa conforme",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 30.0
+    },
+    {
       "title": "Entre Despejos e Tombo de FIIs, Crise das Casas Bahia Põe sob Pressão 2,5 Milhões de M²",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com R$ 17,3 bilhões em dívidas e o fechamento de quase 300 lojas, a crise da varejista respinga fortemente em fundos imobiliários e galpões logísticos O post Entre Despejos e Tombo de FIIs, Crise das Casas Bahia Põe sob Pressão 2,5 Milhões de M² apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/recuperacao-judicial-casas-bahia-imoveis",
@@ -3365,52 +3405,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Walmart sales under strain as US shoppers pull back",
-      "summary": "High gas prices and weaker pharmacy sales pushed Walmart's growth to its slowest pace in six years",
-      "url": "https://www.bbc.co.uk/news/articles/cpq8rjy7vxlo?at_medium=RSS&at_campaign=rss",
-      "published": "2026-08-20T17:59:59+00:00",
-      "source": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Casas Bahia, blusinhas e 6×1 levam campanha para a rotina do eleitor",
-      "summary": "Governo tem argumentos e pautas populares, mas precisa provar que tudo isso chegou à vida real",
-      "url": "https://www.jota.info/opiniao-e-analise/colunas/coluna-do-mura/casas-bahia-blusinhas-e-6x1-levam-campanha-para-a-rotina-do-eleitor",
-      "published": "2026-08-20T18:00:11+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Ouro escurece? Especialista esclarece os mitos e verdades",
@@ -8105,29 +8099,6 @@
       "score": 20.0
     },
     {
-      "title": "PEC do fim da escala 6x1 não deve ir a plenário no Senado antes da eleição; saiba por quê",
-      "summary": "Pedido de vista e de realização de audiência púbica na CCJ protelariam votação do texto",
-      "url": "https://exame.com/brasil/pec-do-fim-da-escala-6x1-nao-deve-ir-a-plenario-no-senado-antes-da-eleicao-saiba-por-que",
-      "published": "2026-08-27T06:00:20+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Harmony Gold’s Earnings Rise on Higher Gold Prices",
       "summary": "The South African miner’s headline earnings per share rose 87%.",
       "url": "https://www.wsj.com/business/earnings/harmony-golds-earnings-rise-on-higher-gold-prices-b5d1be87?mod=rss_markets_main",
@@ -8238,29 +8209,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Renan Santos defende fim da Justiça do Trabalho e diz que fim da escala 6x1 'é pauta perigosíssima' em sabatina do Valor, O Globo e CBN",
-      "summary": "O candidato do Missão à Presidência da República, Renan Santos, se referiu às discussões sobre o fim da escala de trabalho 6x1 como uma \"pauta perigosíssima\" em sabatina promovida nesta manhã (27) pelo Valor, O Globo e CBN. \"Estão prometendo que as pessoas vão trabalhar menos e ganhar mais. É um problema drmático vindo de uma medida populista\", declarou. Ele também defendeu acabar com a Justiça Trabalhista. Renan afirmou ver chances de capturar eleitores tanto de Luiz Inácio Lula da Silva (PT) como de Flávio Bolsonaro (PL). Declarou não se arrepender das ofensas que proferiu aos dois adverários durante o debate da Band, no dia 23, mas disse que \"não teria a mesma postura\" em um novo programa. Também na sabaina, o candidato do Missão prometeu uma revisão geral nos subsídios, mas disse que pouparia o agronegócio, por se tratar de um setor competitivo. Renan também afirmou que não pretende ter conflitos com o Supremo Tribunal Federal (STF), se disse um \"pacificador\", mas declarou que não cumprirá \"decisão ilegal\". \"O que estou falando é que exijo ser respeitado se eu for presidente da República\", disse. Na área da segurança, afirmou que pretende investir na desocupação de territórios dominados por facções - o que seria feito pelas polícias estaduais - e declarou se inspirar nos modelos prisionais dos Estados Unidos e de El Salvador. Renan é o terceiro convidado da série de entrevistas com presidenciáveis. A sabatina começou às 10h30 e tem duração de 1h30. Justiça do Trabalho e escala 6x1 Renan se referiu à Justiça do Trabalho como uma \"caixinha de supresas\". \"Nós temos a pior Justiça Trabalhista do mundo. Eu acho que ela tem que caminhar para obsolescência e substituição\", disse, propondo que as disputas entre empregadores e empregados sejam tratados na esfera cível, na Justiça comum. Em relação so fim da escala 6x1, ele que seria especialmente prejudicial em um momento de dificuldades para o comércio e o varejo, setores que, segundo ele, enfrentam um período difícil. Renan disse ainda que se for aprova neste ano e ele, eleito para a Presidência, assim que assumir fará modificações na legislação. Para o candidato do Missão, o país precisa de uma nova legislação trabalhista, com um modelo alternativo à Consolidação das Leis do Trabalho (CLT) e ao Microempreendedor Individual (MEI), que, na visão dele, permita ampliar a contratação e a formalização de trabalhadores sem elevar a carga tributária ao longo da cadeia. Ele voltou a defender um modelo de legislação que estabeleça a remuneração por hora trabalhada. O Congresso terá, na próxima semana, um período de esforço concentrado para tentar votar projetos antes do primeiro turno das eleições, em outubro. Com o avanço da campanha, deputados e senadores têm permanecido em seus Estados, reduzindo o ritmo das atividades em Brasília. A votação do fim da escala 6x1 está entre as prioridades alinhadas em reunião entre o presidente Luiz Inácio Lula da Silva e os presidentes da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e do Senado Federal, Davi Alcolumbre (União-AP). Corte de subsídios e convite para ministério Renan Santos disse, na entrevista, que pretende rever uma série de subsídios. Os do agronegócios, no entanto, seriam mantidos. Não haveria qualquer alteração para o setor. Questionado sobre por que o benefício seria restrito ao agro, Renan afirmou que o setor é competitivo, enquanto os demais não teriam a mesma condição. Para justificar a manutenção, mencionou um estudo do economista do Insper Marcos Lisboa sobre o agronegócio, que, segundo ele, aponta ser o único setor que cresce a produtividade em níveis de competitividade com outros países. “Alguns poucos subsídios vão ser mantidos. A maior parte dos subsídios brasileiros vai desaparecer, especialmente os estaduais, com a nova reforma tributária”, declarou. Ao comentar os incentivos fiscais, Renan afirmou que o destinado à Zona Franca de Manaus (ZFM) é “altamente inefetivo” e terá que ser revisto. Durante a sabatina, o candidato afirmou ainda que convidou o economista Marcos Lisboa para ser ministro em um eventual governo. \"Convidei o Marcos Lisboa para ser meu ministro. Gostaria de contar com pessoas desse nível, Marcos Lisboa, uma Elena Landau [diretora-presidente da Elandau Consultoria Econômica]\", disse. Presídios à moda Bukele Renan criticou o sistema prisional brasileiro e disse que as as unidades são “muito passíveis de serem controladas pelo tráfico”. “Não há uma cadeia que não seja comandada pelo crime organizado”, ele declarou. O modelo que pretende adotar, disse, é inspirado no dos Estados Unidos e de El Salvador. “É um modelo que pega alto volume prisional e alto controle evitando infecção pelas facções”, declarou. Renan afirmou que pretende construir presídios maiores e com um padrão de isolamento \"muito maior que os cadeiões\". Questionado se aceitaria receber imigrantes deportados ou criminosos dos Estados Unidos para abrigá-los nos presídios brasileiros, como já fizeram outros países, Renan disse não ser “fã dessa tese” e afirmou que a questão não é um problema brasileiro. “Não vejo isso como business”, disse. Facções criminosas Ainda na área de segurança pública, Renan defendeu uma política baseada na ocupação dos territórios dominados por facções criminosas, destruição da liderança do crime organizado, desmonte estratégico e, por fim, uma política de “desfavelização”. Esta última é a principal proposta de segurança pública presente no seu plano de governo. Ele afirmou ainda que o combate ao crime organizado nas favelas é uma atribuição do governo federal e que os governadores não têm condições de resolver o problema sozinhos. Segundo o candidato, no entanto, as Forças Armadas não serão responsáveis pela desocupação de territórios dominados por facções criminosas. Isso, segundo ele, será feito pelas polícias estaduais. A proposta faz parte da política de \"estado de exceção\" que Renan defende implementar. Renan disse ainda que não há prazo definido para a manutenção de um estado de exceção em territórios ocupados por facções criminosas. “Não é um jogo de War no sentido em que vou ocupar pequenos territórios. Eu reconheço que tenho uma guerra”, declarou. Renan afirmou também que não pretende dialogar com organizações não governamentais (ONGs) que atuam em favelas. Disse preferir conversar diretamente com moradores e associações comunitárias dessas comunidades. “Eu não ligo para essa ONG. Eu falo com as pessoas. Eu não vou falar com essa ONG, eu vou falar com as pessoas”, afirmou. Em seguida, ressaltou que já visitou favelas e associações de moradores e disse que não pretende desprezar as comunidades nem sua autonomia para decidir sobre o próprio futuro. STF O candidato do Missão afirmou que não pretende ter “nenhum conflito” com o Supremo Tribunal Federal (STF), mas disse que não cumprirá de imediato uma decisão monocrática que considere ilegal. “Não quero nenhum conflito com o STF. Eu serei um presidente que será pacificador. Não vou entrar em conflitos idiotas. O que estou falando é que exijo ser respeitado se eu for presidente da República”, disse. “Não é que eu vou ficar igual um doido desrespeitando decisão judicial, isso é maluquice”, completou Renan afirmou que, no caso de uma decisão monocrática que impeça a decretação de uma Garantia da Lei e da Ordem (GLO), não vai retirar imediatamente as tropas de uma área ocupada pelo crime organizado. Segundo ele, antes da negativa, consultará a Advocacia-Geral da União (AGU), convocará uma coletiva de imprensa e conversará com representantes políticos. “Eu posso pedir [liminar], mas, enquanto não for [concedida], não vou cumprir [decisão do STF]”, afirmou. Sabatinas Na terça-feira (25), o convidado foi Romeu Zema (Novo) e ontem, Ronaldo Caiado (PSD). Amanhã será a vez de Augusto Cury (Avante). Os candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foram convidados, mas declinaram. As entrevistas com os candidatos à Presidência são conduzidas por Milton Jung, apresentador da CBN, Maria Cristina Fernandes, colunista do Valor, e Lauro Jardim e Malu Gaspar, colunistas do Globo. Segundo pesquisa Datafolha divulgada na sexta-feira (21), Renan tem 4% das intenções de voto. Lula, com 39%, e Flávio, com 33%, aparecem à frente. A margem de erro da pesquisa é de dois pontos para mais ou para menos. Completam o cenário de primeiro turno: Ronaldo Caiado, com 5%, Romeu Zema, com 3%, e Augusto Cury, com 2%.",
-      "url": "https://valor.globo.com/noticia/2026/08/27/renan-santos-participa-de-sabatina-do-valor-o-globo-e-cbn-assista.ghtml",
-      "published": "2026-08-27T11:12:46+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -8606,6 +8554,29 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Relator da PEC do fim da escala 6x1 no Senado mantém texto aprovado na Câmara",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/relator-da-pec-do-fim-da-escala-6x1-no-senado-mantem-texto-aprovado-na-camara",
+      "published": "2026-08-27T17:44:52+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -8985,6 +8956,37 @@
       "score": 16.0
     },
     {
+      "title": "Tecido adiposo pode guardar 'memória' da obesidade mesmo após emagrecimento, aponta estudo",
+      "summary": "O tecido adiposo pode manter uma espécie de “memória” molecular da obesidade mesmo depois que uma pessoa perde peso. É o que sugere um novo estudo publicado nesta quarta-feira, 26 de agosto, na revista científica Science Translational Medicine. + Estudo testa composto que queima gordura sem mudar a alimentação + Jejum intermitente: o que os influenciadores não te contam + Primeiro genérico de semaglutida: tudo o que se sabe sobre preço, indicação e o que muda para pacientes diabéticos + Medicamentos para perder peso podem ser considerados doping no esporte? Pesquisadores identificaram alterações persistentes em células do sistema imunológico presentes no tecido adiposo, os chamados macrófagos. Essas mudanças podem ajudar a explicar por que o organismo mantém algumas características associadas à obesidade mesmo após o emagrecimento e por que perder gordura adicional pode se tornar mais difícil. O trabalho se concentrou em um processo chamado splicing alternativo, mecanismo pelo qual as células “editam” o RNA mensageiro antes de usá-lo como instrução para produzir proteínas. Nos experimentos com camundongos, a obesidade provocou mudanças nesse processo que não desapareceram completamente quando os animais passaram de uma dieta rica em gordura para uma dieta com baixo teor de gordura. Segundo os pesquisadores, 51,9% dos genes que apresentaram alterações de splicing associadas à obesidade continuaram modificados depois da perda de peso. Essa persistência seria uma das formas pelas quais o tecido adiposo “memoriza” a obesidade. Como essa “memória” pode dificultar a perda de gordura Os cientistas investigaram especialmente alterações em um gene chamado Scarb1. Durante a obesidade, o processamento anormal desse gene reduziu a capacidade dos macrófagos de realizar um processo pelo qual essas células removem células mortas do organismo. Essa falha desencadeou uma sequência de efeitos que acabou reduzindo a lipólise, processo de quebra da gordura armazenada no tecido adiposo. Em outras palavras, mesmo depois da perda de peso, algumas células continuaram funcionando de uma maneira semelhante à observada durante a obesidade. Os autores afirmam que essas alterações persistentes no processamento do RNA representam um componente importante da chamada “memória da obesidade”. Tratamento experimental conseguiu reverter parte do mecanismo Em uma etapa posterior, os pesquisadores testaram em camundongos um oligonucleotídeo antisense, uma pequena molécula desenvolvida para modificar a maneira como determinado RNA é processado. O tratamento foi direcionado ao gene Scarb1 e conseguiu corrigir parte do splicing anormal. Nos animais, a intervenção restaurou a presença de uma proteína importante na superfície dos macrófagos, melhorou a remoção de células mortas e recuperou mecanismos associados à quebra de gordura. Como resultado, os pesquisadores observaram novamente perda de gordura nos camundongos analisados. O experimento funciona, porém, apenas como uma prova de conceito. O tratamento não foi testado em seres humanos, e os resultados não significam que já exista uma terapia capaz de eliminar essa “memória” da obesidade em pacientes. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/08/tecido-adiposo-pode-guardar-memoria-da-obesidade-mesmo-apos-emagrecimento-aponta-estudo.ghtml",
+      "published": "2026-08-27T15:04:28+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "genérico",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "genérico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Confiança do comércio cai 0,6% em agosto, diz CNC",
       "summary": "Após cair 0,8% em julho, o Índice de Confiança do Empresário do Comércio (Icec) da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) recuou 0,6% em agosto, para 101,3 pontos, informou a organização nessa quarta-feira (29). A retração conduziu a confiança do varejo ao menor patamar desde novembro de 2025 (100,5 pontos). Na comparação com agosto do ano passado, a queda foi de 0,7%. Para a confederação, o resultado indica que o empresário do comércio está menos confiante em agosto, preocupado com condições atuais do negócio. Isso é perceptível na evolução dos três indicadores componentes do Icec. Enquanto o de expectativas subiu 0,4% e o de intenção de investimentos recuou 0,3%, o de condições atuais amargou queda de 2,5% de julho a agosto. Na comparação com igual mês no ano passado, a queda de condições atuais foi de 2,8% em agosto desse ano, recuo mais intenso do que observado no tópico expectativas (-0,2%), nessa mesma comparação. Já intenção de investimentos subiu 0,1%, em agosto ante agosto de 2025. Em comunicado, o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, avaliou o momento atual do setor como “complexo”. Porém, disse estar confiante na continuidade da redução da taxa básica de juros (Selic), que norteia juros de mercado, pelo Conselho de Política Monetária (Copom) do Banco Central (BC). Isso porque, na prática, quando o juro fica mais alto, comprar a crédito também encarece para o consumidor, afetando diretamente as vendas no varejo. Atualmente, a Selic está em 14% ao ano. “O patamar recorde de empresas inadimplentes registrado pela pesquisa de junho do Serasa, é reflexo do aperto monetário causado pela alta taxa Selic, alvo de nossos alertas há meses”, continuou ele. “Acompanhamos de perto essa situação, lamentando cada negócio que não consegue desempenhar como gostaria e atuando diante de autoridades para reverter esse ciclo”, completou. Ao detalhar o impacto do atual patamar de juros, considerado elevado no entendimento da CNC, a organização mapeou ainda o tópico “condições atuais” por diferentes segmentos, principalmente os que dependem mais de crédito para vendas. Os destaques de recuo, nesse tópico, ficaram com os chamados “semiduráveis”. Em agosto, a confederação apurou quedas nas avaliações sobre condições atuais entre empresários de roupas, calçados, tecidos e acessórios (-0,4%), supermercados, farmácias e lojas de cosméticos (-3,5%) e eletrônicos, eletrodomésticos, móveis e decoração, cine/foto/som, material de construção e veículos (-4,6%). “Mesmo que a taxa Selic mantenha sua queda responsavelmente, alguns meses são necessários para que essa futura redução chegue até o preço praticado pelo varejo e consequente alívio no bolso do cidadão”, acrescentou economista da CNC, Catarina Carneiro. “Só então, vencendo as instabilidades, teremos um arrefecimento nos níveis de comprometimento da renda tanto por parte dos empresários quanto dos consumidores”, comentou ela. A CNC ponderou ainda que, para o empresariado do comércio, a conjuntura econômica também é ponto de atenção em agosto. Isso porque os próximos meses são de campanha eleitoral no Brasil (o que pode mudar a condução de política econômica). Possíveis impactos na atividade de influências externas ainda decorrentes da guerra dos EUA contra o Irã e de eleições americanas também estão no radar dos empresários do setor, informou ainda a organização. Marcello Casal Jr/Agência Brasil",
       "url": "https://valor.globo.com/brasil/noticia/2026/08/26/confiana-do-comrcio-cai-06-pontos-percentuais-em-agosto-diz-cnc.ghtml",
@@ -9056,29 +9058,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "U.S. Stocks Fall After Weak Earnings Reports",
-      "summary": "U.S. stocks fell after weak earnings reports from Walmart and Alibaba.",
-      "url": "https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main",
-      "published": "2026-08-20T18:18:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "69% dos consumidores temem comprar medicamentos falsificados pela internet, aponta pesquisa",
