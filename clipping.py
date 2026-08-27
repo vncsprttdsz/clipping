@@ -153,6 +153,7 @@ TRUSTED_SOURCE_DOMAINS = {
     "moneytimes.com.br", "seudinheiro.com", "suno.com.br",
     "bloomberglinea.com.br", "cnnbrasil.com.br", "timesbrasil.com.br",
     "jota.info", "mercadoeconsumo.com.br", "diariodocomercio.com.br",
+    "meioemensagem.com.br", "revistapegn.globo.com",
     # Financeiro internacional
     "wsj.com", "reuters.com", "ft.com", "cnbc.com", "forbes.com",
     "bloomberg.com", "bbc.co.uk", "bbc.com", "economist.com",

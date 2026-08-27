@@ -50,6 +50,11 @@ sectors:
     - tok&stok
     - mobly
     - guararapes
+    # H&M abriu operacao BR: so existia em Global Consumer com gate em ingles,
+    # entao "H&M vai abrir mais quatro lojas no Brasil" nao casava em lugar nenhum.
+    - h&m
+    - chilli beans
+    - marabraz
 
     # Tickers. A imprensa de mercado (InfoMoney, Money Times, Suno) escreve
     # manchete ticker-first ("LREN3 sobe 4% apos balanco"), sem citar a marca.
@@ -179,12 +184,14 @@ sectors:
       requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
                      consumidores, mercado, faturamento, crescimento, marketplace,
                      online, digital, entrega, logística, plataforma, compra,
-                     compras, brasil, brasileiro, setor]
+                     compras, brasil, brasileiro, setor,
+                     renda, gasto, gastos, dinheiro, ticket médio]
     - alias: comércio eletrônico
       requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
                      consumidores, mercado, faturamento, crescimento, marketplace,
                      online, digital, entrega, logística, plataforma, compra,
-                     compras, brasil, brasileiro, setor]
+                     compras, brasil, brasileiro, setor,
+                     renda, gasto, gastos, dinheiro, ticket médio]
     # NOTA: nao existe entrada separada "comercio eletronico" sem acento. O
     # pipeline remove acento antes de comparar (NFKD), entao ela normalizava
     # para a MESMA regex de "comércio eletrônico". Eram duas regras identicas,
@@ -194,6 +201,22 @@ sectors:
     - taxa das blusinhas
     - taxa das blusinha
     - imposto das blusinhas
+    # A pauta virou "MP das blusinhas" na imprensa e nenhuma variante casava.
+    # "blusinhas" sozinho e inequivoco no noticiario BR.
+    - blusinhas
+    - mp das blusinhas
+    - taxa de importação
+    - remessas internacionais
+    - compras internacionais
+    - alias: contrabando
+      requires_any: [caneta, canetas, emagrec, tirzepatida, semaglutida,
+                     mounjaro, ozempic, paraguai, importação, importados,
+                     fronteira, internet, e-commerce, varejo, medicamento,
+                     medicamentos, remédio, produto, produtos, marketplace]
+    - alias: correios
+      requires_any: [compra, compras, importação, importados, encomenda,
+                     encomendas, e-commerce, entrega, paraguai, internet,
+                     remessa, remessas, blusinhas, loja, lojas]
     - cross-border
     - keeta
     - 99 food
@@ -287,7 +310,9 @@ sectors:
                       fortuna de musk]
     - alias: tiktok
       requires_any: [shop, ecommerce, e-commerce, vendas, marketplace,
-                     live commerce, comércio eletrônico]
+                     live commerce, comércio eletrônico, compra, compras,
+                     crédito, financeira, fintech, pagamento, transportadora,
+                     logística, entrega, varejo, consumidor, beleza, sephora]
 
   # ------------------------------------------------------------
   # VAREJO ALIMENTAR
@@ -361,7 +386,10 @@ sectors:
       requires_any: [supermercado, varejo, gpa, pão de açúcar, ações, controlador, francês]
     - alias: carrefour
       requires_any: [brasil, atacadao, atacadão, grupo, supermercado,
-                     hipermercado, atacarejo, ações, loja, lojas, crfb3]
+                     hipermercado, atacarejo, ações, loja, lojas, crfb3,
+                     marca própria, marcas próprias, banco carrefour, cartão,
+                     cliente, clientes, varejo, venda, vendas, fideliza,
+                     sam's club, ceo, balanço, trimestre]
     - alias: tenda
       requires_any: [atacado, supermercado, atacarejo, varejo, alimentos, compra]
 
@@ -372,6 +400,7 @@ sectors:
     - smartfit
     - bio ritmo
     - total pass
+    - totalpass
     - wellhub
     - gympass
     - panobianco
@@ -389,10 +418,11 @@ sectors:
     - crossfit
 
     # Ambíguos
-    - alias: smart fit
-      requires_any: [academia, fitness, musculação, bem-estar, saúde, ações,
-                     aluno, alunos, unidade, unidades, expansão, rede,
-                     franquia, smft3, balanço, trimestre, receita]
+    # "smart fit" (2 palavras) e marca inequivoca em portugues. Com gate,
+    # perdia manchete sem vocabulario de academia ("Estudios ganham espaco na
+    # estrategia interna da Smart Fit", "Um rival para a Chilli Beans, outro
+    # para a Smart Fit"). SMFT3 e cobertura.
+    - smart fit
 
   # ------------------------------------------------------------
   # COSMÉTICOS
@@ -417,6 +447,8 @@ sectors:
     - beleza na web
     - skala
     - sephora
+    - ysl beauty
+    - yves saint laurent
     - aura beauty
     - auau3
     - wepink
@@ -482,6 +514,8 @@ sectors:
     - ems
     - medley
     - cimed
+    - sandoz
+    - biolab
     # Canetas emagrecedoras - termo coloquial BR para GLP-1, inequívoco.
     # A imprensa brasileira usa muito mais isso que os nomes técnicos.
     - canetas emagrecedoras
@@ -511,6 +545,13 @@ sectors:
       requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
     - alias: drogasil
       requires_any: [droga, raia, farmácia, medicamento, genérico, saúde]
+    # O alias e casado de forma EXATA (so termos de contexto toleram plural),
+    # entao "medicamento" nao casava "medicamentos", grafia mais comum em
+    # manchete regulatoria.
+    - alias: medicamentos
+      requires_any: [farmácia, drogaria, raia, drogasil, pague menos, panvel,
+                     dpsp, distribuição, venda, receita, varejo, anvisa,
+                     marketplace, delivery, e-commerce]
     - alias: medicamento
       requires_any: [farmácia, drogaria, raia, drogasil, pague menos, panvel,
                      dpsp, distribuição, venda, receita, varejo, anvisa]
@@ -555,7 +596,9 @@ sectors:
                      perda de peso, injetável, injetavel, dose, bariátrica,
                      utiliza energia, metabolismo, gasto energético,
                      preço, preços, barato, redução de preço, brasileiro,
-                     genérico, similar, no brasil]
+                     genérico, similar, no brasil,
+                     paraguai, contrabando, contrabandeado, cfm, prescrev,
+                     falsificado, clandestino]
     # Ozivy: genérico/similar brasileiro de semaglutida (EMS). Nome inequívoco
     # e especificamente do mercado BR, então entra como alias simples.
     - ozivy
@@ -668,6 +711,9 @@ sectors:
                      incentivo fiscal]
       requires_none: [igrejas, defesa, vorcaro, brb, fertilizantes, combustível,
                       combustíveis]
+    # Split payment: vocabulario central da regulamentacao do IBS/CBS.
+    - alias: split payment
+      topic: reforma_tributaria
     - substituição tributária
     - icms-st
     - difal
@@ -692,9 +738,55 @@ sectors:
       requires_none: [zona do euro, eurozona, união europeia, uniao europeia,
                       alemanha, frança, franca, estados unidos, eua, japão,
                       japao, china, reino unido, pib da frança, pib dos eua]
+    # Ciclo de credito do varejo. "recuperacao judicial" nao existia como
+    # alias: so aparecia dentro de requires_any de "americanas", onde nunca
+    # dispara sozinho. Perdia Casas Bahia, Marisa, Marabraz e Tok&Stok.
+    - alias: recuperação judicial
+      requires_any: [varejo, varejista, varejistas, loja, lojas, consumo,
+                     consumidor, credor, credores, fornecedor, fornecedores,
+                     dívida, dívidas, endividamento, comércio, shopping,
+                     moda, supermercado, farmácia, magazine, casas bahia,
+                     marisa, americanas, tok&stok, mobly, marabraz, gpa,
+                     debênture, debêntures, reestruturação]
+      requires_none: [companhia aérea, aérea, azul linhas, gol linhas, latam,
+                      construtora, incorporadora, usina, frigorífico,
+                      operadora de saúde, hospital]
+    - alias: recuperações judiciais
+      requires_any: [varejo, varejista, varejistas, loja, lojas, consumo,
+                     consumidor, credor, credores, comércio, shopping,
+                     supermercado, farmácia, moda]
+    # Termo juridico especifico e de baixo volume: sem requires_any, pra nao
+    # perder materia de tendencia do ciclo ("Conversao de recuperacao
+    # extrajudicial em judicial cresce"), que nao traz vocabulario de varejo
+    # no titulo. So bloqueia setores claramente fora da tese.
+    - alias: recuperação extrajudicial
+      requires_none: [oi s.a., falência da oi, telecom, telefonia, operadora,
+                      companhia aérea, construtora, incorporadora, usina,
+                      frigorífico, hospital]
+    - alias: endividamento
+      requires_any: [família, famílias, consumidor, consumidores, baixa renda,
+                     renda, cartão, crédito, varejo, inadimplência, brasileiro,
+                     brasileiros, pessoa física, desenrola]
+      requires_none: [dívida pública, dívida bruta, endividamento do governo,
+                      endividamento público, estados, municípios, empresas
+                      estatais]
     - apostas online
     - apostas esportivas
     - bettors
+    # Beneficios (vale-refeicao/alimentacao): tema de consumo que nao existia.
+    - vale-refeição
+    - vale refeição
+    - vale-alimentação
+    - vale alimentação
+    - alelo
+    - sodexo
+    - pluxee
+    - alias: vr
+      requires_any: [vale-refeição, vale refeição, vale-alimentação, alelo,
+                     sodexo, pluxee, ticket, benefício, benefícios, cashback,
+                     flash, swile, caju, empresas]
+      requires_none: [realidade virtual, virtual reality, óculos, headset,
+                      meta quest, vision pro, games]
     - alias: renegociação de dívidas
       requires_any: [consumidor, consumidores, pessoa física, famílias,
                      endividamento, inadimplência, desenrola, fgts, bancos,
@@ -744,7 +836,9 @@ sectors:
       requires_any: [varejo, consumo, endividamento, inadimplência, regulamentação,
                      lei das bets, vício, apostas online, apostas esportivas,
                      apostadores, jogadores, ministério da fazenda, banco central,
-                     sigap, senacon, impacto no varejo, gastos das famílias]
+                     sigap, senacon, impacto no varejo, gastos das famílias,
+                     ministro da fazenda, pib, depósito, depósitos, prêmio,
+                     prêmios, bônus, aposta, apostar, estudo, bilhões, bilhão]
       requires_none: [dono de bets, empresário de bets, jatinho,
                       hugo motta, ciro nogueira, patrocínio, patrocinios,
                       time de futebol, clubes de futebol, mercado de previsão,
@@ -923,7 +1017,9 @@ sectors:
 
     # Ambíguos
     - alias: nike
-      requires_any: [brasil, vendas, loja, centauro, fisia, esportivo, varejo]
+      requires_any: [brasil, vendas, loja, centauro, fisia, esportivo, varejo,
+                     ações, papéis, bolsa, queda, alta, balanço, trimestre,
+                     tênis, sneaker, corrida]
     - alias: sbf
       requires_any: [centauro, grupo, fisia, nike, esportivo, ações, sbfg3]
     - alias: centauro
@@ -1095,7 +1191,10 @@ sectors:
     - alias: eli lilly
       requires_any: [fda, indianapolis, mounjaro, zepbound, obesity,
                      stock, earnings, shares, pharma, us, acquisition,
-                     acquires, biotech, cancer, billion]
+                     acquires, biotech, cancer, billion,
+                     weight-loss, weight loss, oral, pill,
+                     perda de peso, emagrecimento, emagrecer, comprimido,
+                     obesidade, regulador, processa, patente, novo nordisk]
       requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
                       brasil, fabricante brasileira]
     - alias: ozempic
