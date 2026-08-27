@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T09:43:51.518991+00:00",
-  "count": 396,
-  "new_this_run": 69,
+  "generated_at": "2026-08-27T15:29:40.601720+00:00",
+  "count": 397,
+  "new_this_run": 30,
   "articles": [
     {
       "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo - Exame",
@@ -490,6 +490,45 @@
       "score": 60.0
     },
     {
+      "title": "Regulador da China aceita pedido da Novo Nordisk para comercializar Wegovy em comprimidos",
+      "summary": "A Novo Nordisk anunciou que a agência reguladora de medicamentos da China aceitou seu pedido para vender seu medicamento para perda de peso no país. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/27/regulador-da-china-aceita-pedido-da-novo-nordisk-para-comercializar-wegovy-em-comprimidos.ghtml",
+      "published": "2026-08-27T11:25:42+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "novo nordisk",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "novo nordisk",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Mercado de marmitas cresce e aposta em cardápio sob medida para a era das canetas emagrecedoras",
       "summary": "O mercado de alimentos e bebidas descobriu que tem um novo cliente para agradar: o estômago mais discreto de quem usa canetas emagrecedoras . Da cerveja proteica ao \"rodízio Mounjaro\" , a indústria está incorporando o apetite dos usuários dos medicamentos GLP-1 ao cardápio, e o filão de marmitas congeladas também já se sentou à mesa. Leia mais (08/22/2026 - 10h00)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/08/mercado-de-marmitas-cresce-e-aposta-em-cardapio-sob-medida-para-a-era-das-canetas-emagrecedoras.shtml",
@@ -715,68 +754,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "As diferenças entre Ozempic e Ozivy: da molécula ao preço - VEJA",
-      "summary": "As diferenças entre Ozempic e Ozivy: da molécula ao preço &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/saude/as-diferencas-entre-ozempic-e-ozivy-da-molecula-ao-preco",
-      "published": "2026-08-20T12:18:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ozempic",
-        "ozivy"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ozivy",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Fabricante do Ozempic estuda menor dose oral de semaglutida capaz de ajudar na perda de peso - Folha de S.Paulo",
-      "summary": "Fabricante do Ozempic estuda menor dose oral de semaglutida capaz de ajudar na perda de peso &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/fabricante-do-ozempic-estuda-menor-dose-oral-de-semaglutida-capaz-de-ajudar-na-perda-de-peso.shtml",
-      "published": "2026-08-20T13:13:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ozempic",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Novo relatório de crédito da Moody’s classifica Grupo Petz Cobasi como AA+ e pode abrir caminho para novo upgrade",
@@ -2119,6 +2096,37 @@
       "score": 40.0
     },
     {
+      "title": "TikTok Shop: a nova era do e-commerce - Estadão",
+      "summary": "TikTok Shop: a nova era do e-commerce &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/economia/negocios/tiktok-shop-a-nova-era-do-e-commerce",
+      "published": "2026-08-27T11:07:08+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "tiktok",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Leilão de estoque da Casas Bahia acende alerta para quem busca produtos mais baratos on-line",
       "summary": "Um leilão para liquidação de produtos de estoque da Casas Bahia, que pediu recuperação judicial, realizado nesta terça-feira (25), incluindo itens como notebooks, smartphones, refrigeradores, lavadoras e fogões, chama atenção para a busca do consumidor por preços mais baixos nas compras on-line. Especialistas, porém, afirmam que é preciso atenção para não cair em golpes. Expectativa: Mercado financeiro espera medidas mais concretas de corte de gastos após encontro com Durigan Revés: Justiça suspende temporariamente demissões da Casas Bahia e veta novos cortes sem mediação de sindicato A procura por ofertas ocorre em um cenário de expansão das compras em plataformas internacionais: 81,2 milhões de brasileiros compraram ao menos um produto vindo do exterior nos últimos 12 meses, segundo levantamento da Confederação Nacional de Dirigentes Lojistas (CNDL) e do SPC Brasil. Entre as plataformas digitais que comercializam produtos vindos de fora do país, Shopee (73%) e Shein (50%) lideram a preferência dos brasileiros na hora de importar. Em seguida aparecem Amazon (44%) e Mercado Livre (44%). Completam o ranking AliExpress (25%) e Temu (15%). Diante da variedade de ofertas disponíveis em plataformas de e-commerce, especialistas em direito do consumidor recomendam atenção antes de concluir uma compra, seja em um leilão ou em uma plataforma estrangeira. Para Janderson Teles, advogado do consumidor, um dos primeiros passos é verificar a idoneidade e a confiabilidade do site, da empresa e dos responsáveis pelo leilão: — É preciso ter muito cuidado com sites que oferecem veículos ou outros produtos por valores muito abaixo do mercado e exigem pagamento imediato, principalmente por PIX para contas de terceiros. Casas Bahia: da entrega do produto à garantia, como fica o consumidor A especialista em Direito do Consumidor e relações bancárias Débora Farias acrescenta que a aparência profissional de uma página não é suficiente para atestar sua confiabilidade. Segundo ela, é preciso também verificar a situação do leiloeiro e os canais pelos quais a oferta foi divulgada. — Antes de dar qualquer lance, é importante pesquisar quem é o leiloeiro, verificar se ele está regularmente registrado na Junta Comercial. O ideal é procurar o leiloeiro pelos canais oficiais, fazer uma ligação certificando-se da idoneidade e não simplesmente clicar em um anúncio que apareceu no Google, Instagram, Facebook ou chegou pelo WhatsApp. Nas compras internacionais, a atenção não deve ficar restrita ao preço anunciado. O consumidor também precisa verificar o frete e os tributos que podem incidir sobre a importação, como o Imposto de Importação e o Imposto sobre a Circulação de Mercadorias e Serviços (ICMS), conforme o caso. Teles explica que um produto anunciado por R$ 500 em um site estrangeiro não necessariamente terá esse valor como custo final. Dependendo da operação, podem ser cobrados tributos de importação e outras despesas. Em determinadas situações, a mercadoria chega ao Brasil e fica aguardando o pagamento dos tributos para ser liberada. Entrega do produto e defeitos Além de verificar o preço e as condições da compra, o consumidor deve saber quais são seus direitos caso o produto não seja entregue ou apresente algum problema. Se em uma compra o produto não for entregue, o artigo 35 do Código de Defesa do Consumidor permite ao comprador escolher entre exigir o cumprimento da oferta, ou seja, a entrega do produto; aceitar outro artigo ou serviço equivalente; ou ainda rescindir o contrato e receber de volta o valor pago, monetariamente atualizado, além de perdas e danos quando cabíveis. O consumidor também pode registrar reclamação na própria plataforma onde realizou a compra, no Procon, no Consumidor.gov.br ou em plataformas de reclamação, como o Reclame Aqui. Para o advogado, o mais importante é produzir provas de que o problema ocorreu e que houve tentativa de solução. Nas compras realizadas por canais digitais, o consumidor também possui, em regra, o direito de arrependimento previsto no artigo 49 do Código de Defesa do Consumidor, podendo desistir da contratação no prazo de sete dias, contados da data da compra ou do recebimento do produto ou serviço, conforme a hipótese legal. ‘Quer pagar quanto?’ Slogans-chicletes, fusões, trocas de nome, denúncias da família Klein: os 70 anos da Casas Bahia Nos casos de defeito em que a empresa não dê retorno ao cliente, é possível recorrer ao Procon, ao Consumidor.gov.br e, se necessário, ao Judiciário, especificamente no Juizado Especial Cível, popularmente chamado de “pequenas causas”. Estão previstos mecanismos para reparação, substituição do produto, abatimento do preço ou devolução do valor, conforme a situação, de acordo com Débora Farias. — Sempre recomendo que o consumidor documente tudo: tire print do anúncio, guarde a descrição do produto, comprovante de pagamento, confirmação do pedido, conversas com o vendedor e fotos ou vídeos do produto recebido. Em uma eventual reclamação ou processo, isso faz muita diferença, pontua a especialista. No caso dos leilões, Teles destaca que o consumidor deve analisar como o produto foi anunciado e, principalmente, o que consta no edital e nas condições da arrematação. — Se um veículo, por exemplo, foi expressamente anunciado como usado, sem garantia de funcionamento ou vendido no estado em que se encontra, o consumidor deve ter ciência de que está assumindo determinados riscos. Por isso, antes de dar qualquer lance, é fundamental ler o edital, verificar o estado do bem, possíveis débitos e restrições, despesas adicionais, condições de pagamento, retirada e documentação, alerta. * Aluno do curso Jornalismo do Futuro, sob supervisão de Danielle Nogueira",
       "url": "https://oglobo.globo.com/economia/noticia/2026/08/21/leilao-de-estoque-da-casas-bahia-acende-alerta-para-quem-busca-produtos-mais-baratos-on-line.ghtml",
@@ -2165,86 +2173,6 @@
         }
       ],
       "score": 38.0
-    },
-    {
-      "title": "Walmart registra rara frustração nas vendas comparáveis com consumidores reduzindo gastos",
-      "summary": "O Walmart não atingiu as expectativas de Wall Street para as vendas comparáveis do segundo trimestre do ano fiscal de 2027, em meio aos gastos mais contidos dos consumidores americanos A maior varejista do mundo, no entanto, elevou ligeiramente suas metas anuais pela primeira vez neste ano e o diretor-presidente, John Furner, destacou o crescimento da divisão de comércio eletrônico. Os resultados oferecem um importante indicativo da capacidade da varejista de atrair consumidores sensíveis aos preços, que estão priorizando alimentos e outros produtos essenciais em detrimento de itens discricionários antes dos períodos de volta às aulas e das festas de fim de ano. As vendas comparáveis trimestrais da empresa nos Estados Unidos aumentaram 2,6%, ante estimativas de crescimento de 3,8%, segundo dados compilados pela LSEG. O valor médio gasto por transação cresceu 1,1%, em linha com o primeiro trimestre, mas bem abaixo da alta de 3,1% registrada no segundo trimestre de 2026. A empresa agora espera que as vendas líquidas no ano fiscal de 2027 cresçam entre 4% e 5%, ante a meta anterior de expansão entre 3,5% e 4,5%. As vendas comparáveis da categoria de saúde e bem-estar recuaram em um dígito baixo, prejudicadas por um impacto de 9 pontos percentuais decorrente da implementação do preço justo máximo previsto na Lei de Redução da Inflação. Excluindo o impacto da lei federal, o Walmart afirmou que suas vendas comparáveis nas principais operações dos Estados Unidos cresceram 3,4%. O Walmart reduziu os preços de mais de 7 mil itens neste ano e vem sustentando suas margens por meio de negócios complementares lucrativos, como publicidade e uma plataforma de vendas de terceiros em expansão. O Walmart Connect, negócio de publicidade da empresa nos Estados Unidos, cresceu 43%, enquanto as vendas do comércio eletrônico aumentaram 24%. O Walmart afirmou nesta quinta-feira que continuará destinando os reembolsos tarifários recebidos à redução de preços. O lucro operacional ajustado incluiu um benefício de 7,5 pontos percentuais decorrente desses reembolsos. O número médio de transações aumentou 1,5%, ante crescimento de 3% no primeiro trimestre. A empresa registrou crescimento de um dígito médio na categoria de alimentos, a maior em vendas de produtos. A categoria de mercadorias em geral, que inclui brinquedos e vestuário, avançou um dígito baixo. Na quarta-feira, a varejista Target elevou suas projeções anuais pela segunda vez neste ano, colhendo os primeiros resultados de seu esforço de recuperação após vários anos de perda de espaço, provocada por erros na seleção de produtos e outras falhas. O Walmart agora espera lucro ajustado por ação entre US$ 2,80 e US$ 2,87 no ano, ante a meta anterior de US$ 2,75 a US$ 2,85. A empresa prevê lucro ajustado por ação entre US$ 0,62 e US$ 0,64 no terceiro trimestre, abaixo da estimativa de US$ 0,68. O Walmart espera que as vendas líquidas do terceiro trimestre cresçam entre 3% e 3,75%, também abaixo da estimativa de expansão de 4,9%. Patrick T. Fallon/Bloomberg",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/20/walmart-registra-rara-frustrao-nas-vendas-comparveis-com-consumidores-reduzindo-gastos.ghtml",
-      "published": "2026-08-20T11:55:14+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "comercio eletronico",
-        "comércio eletrônico",
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comercio eletronico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 36.0
-    },
-    {
-      "title": "Intenção de consumo das famílias cai 0,6% em agosto, diz CNC",
-      "summary": "A Intenção de Consumo das Famílias (ICF), calculada pela Confederação Nacional de Bens, Serviços e Turismo (CNC), caiu 0,6% em agosto, perante o mês anterior, para 104,9 pontos. Na comparação com agosto de 2025, no entanto, o ICF subiu 2,3%. Incertezas sobre ritmo futuro de vagas no mercado de trabalho e risco de inadimplência puxaram a queda do indicador, informou a confederação. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/08/20/inteno-de-consumo-das-famlias-cai-06-pontos-percentuais-em-agosto-diz-cnc.ghtml",
-      "published": "2026-08-20T14:19:39+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia",
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "consumo das famílias",
-        "inadimplência",
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "consumo das famílias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0
     },
     {
       "title": "Famílias empresárias antecipam sucessão para se ajustar à reforma tributária",
@@ -2482,6 +2410,45 @@
       "score": 36.0
     },
     {
+      "title": "Reforma Tributária: desafio é manter dados confiáveis no ERP",
+      "summary": "A Reforma Tributária do Consumo entrou em nova fase de implementação em 2026, após a publicação do Ato Conjunto RFB/CGIBS nº 4, no final de julho, no Portal da Nota Fiscal Eletrônica. O ato estabeleceu calendário para obrigatoriedade de emissão de documentos fiscais eletrônicos vinculados ao IBS (Imposto sobre Bens e Serviços) e à CBS (Contribuição sobre Bens e Serviços). Para NF‑e e NFC‑e, a exigência começou em 3 de agosto de 2026; outras modalidades seguirão datas específicas, e os contribuintes optantes pelo Simples Nacional terão início em 1º de janeiro de 2027. Paralelamente, a Receita Federal e o Comitê Gestor do IBS anunciaram flexibilização nas regras de validação de documentos como NF‑e, NFC‑e e CT‑e, permitindo que sejam aceitos mesmo sem os campos referentes ao IBS e à CBS durante o período de adequação. Essa medida visa reduzir rejeições e facilitar a transição. A mudança vai além da atualização de softwares de gestão. Empresas precisam revisar cadastros, ajustar parametrizações fiscais, garantir a integração entre sistemas internos e adaptar rotinas operacionais para conviver com o modelo tributário atual e o novo regime. Um levantamento realizado pela NTT DATA, citado pelo Portal Contábeis, entrevistou mais de mil organizações em 20 estados. O estudo apontou que 41 % das empresas ainda têm dúvidas sobre a migração para o modelo baseado em IBS e CBS, destacando preocupações com alterações nos processos internos, risco de erros de apuração e desafios de integração com sistemas existentes. \"A Reforma Tributária não se resolve apenas com a interpretação da legislação. Ela exige que as empresas revisem seus cadastros, integrem informações e preparem seus sistemas para transformar as novas regras em dados confiáveis\", afirmou Glauber Silva, arquiteto de soluções da Upper. \"É essa capacidade de organização que permitirá antecipar impactos sobre preços, créditos e fluxo de caixa, reduzindo riscos durante a transição.\" No contexto da adaptação tecnológica, soluções de gestão integrada ganham destaque. Segundo a SAP, o SAP Business One consolida informações de contabilidade, finanças, compras, estoque, vendas, relacionamento com clientes, relatórios e análises em uma única plataforma, facilitando a organização e a disponibilização de dados para fins fiscais e gerenciais. A Upper atua como parceira na comercialização, consultoria e implementação do SAP Business One, oferecendo serviços que incluem atualização tecnológica, revisão de processos e adequações específicas para cada operação durante a transição tributária. Esses trabalhos visam garantir que as empresas mantenham a conformidade fiscal e a confiabilidade dos dados enquanto adotam as novas regras. Especialistas apontam que a capacidade de integrar informações de diferentes áreas e gerar relatórios consistentes será decisiva para que as organizações consigam monitorar impactos sobre margens, preços e fluxo de caixa ao longo do período de transição. A adoção de práticas de governança de dados e a revisão de processos internos são recomendadas como medidas preventivas para minimizar riscos operacionais e financeiros.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/08/27/reforma-tributaria-desafio-e-manter-dados-confiaveis-no-erp-1.ghtml",
+      "published": "2026-08-27T13:12:42+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Entre Despejos e Tombo de FIIs, Crise das Casas Bahia Põe sob Pressão 2,5 Milhões de M²",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com R$ 17,3 bilhões em dívidas e o fechamento de quase 300 lojas, a crise da varejista respinga fortemente em fundos imobiliários e galpões logísticos O post Entre Despejos e Tombo de FIIs, Crise das Casas Bahia Põe sob Pressão 2,5 Milhões de M² apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/recuperacao-judicial-casas-bahia-imoveis",
@@ -2601,37 +2568,6 @@
           "field": "lead",
           "score": 8,
           "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Receita coloca contadores no centro do novo modelo de conformidade da reforma tributária",
-      "summary": "Ato conjunto com o Comitê Gestor do IBS prevê atuação mais preventiva durante a implantação das novas regras e afasta criação de nova obrigação acessória",
-      "url": "https://veja.abril.com.br/economia/receita-coloca-contadores-no-centro-do-novo-modelo-de-conformidade-da-reforma-tributaria",
-      "published": "2026-08-22T13:30:42+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 28.0
@@ -3312,144 +3248,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Semaglutida genérica: quando chega, preço, indicação e mais detalhes - InfoMoney",
-      "summary": "Semaglutida genérica: quando chega, preço, indicação e mais detalhes &nbsp;&nbsp; InfoMoney",
-      "url": "https://www.infomoney.com.br/saude/semaglutida-generica-quando-chega-preco-indicacao-e-mais-detalhes",
-      "published": "2026-08-20T10:24:40+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Agenda de empresas: TIM Brasil aprova recompra de R$ 1 bi; Justiça ainda avalia pedido de RJ da Casas Bahia",
-      "summary": "TIM Brasil Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/20/agenda-de-empresas-tim-brasil-aprova-recompra-de-r-1-bi-justica-ainda-avalia-pedido-de-rj-da-casas-bahia.ghtml",
-      "published": "2026-08-20T11:14:01+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Shein deve lançar IPO na próxima semana e planeja estrear na Bolsa de Hong Kong em 1º de setembro",
-      "summary": "A varejista chinesa Shein pretende lançar sua oferta pública inicial de ações (IPO) em Hong Kong na segunda-feira (22), segundo uma fonte a par do assunto, e mira a listagem para 1º de setembro – data ligeiramente posterior à planejada inicialmente –, disseram outras duas fontes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/20/shein-deve-lanar-ipo-na-prxima-semana-e-planeja-estrear-na-bolsa-de-hong-kong-em-1-de-setembro.ghtml",
-      "published": "2026-08-20T12:48:04+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Danni Eiger troca a XP pelo Boticário - Brazil Journal",
-      "summary": "Danni Eiger troca a XP pelo Boticário &nbsp;&nbsp; Brazil Journal",
-      "url": "https://braziljournal.com/danni-eiger-troca-a-xp-pelo-boticario",
-      "published": "2026-08-20T13:18:57+00:00",
-      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Citi prevê inadimplência avançando nos próximos trimestres no Brasil",
-      "summary": "Analistas do Citi esperam que a inadimplência continuará subindo no Brasil nos proximos trimestres. A avaliação segue um paradoxo do atual ciclo: mais crédito, mais transferências e mais liquidez já não são suficientes para evitar o aumento do estresse financeiro das famílias . Leia mais (08/20/2026 - 10h51)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/08/citi-preve-inadimpencia-avancando-nos-proximos-trimestres-no-brasil.shtml",
-      "published": "2026-08-20T13:51:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Para o Citi, a piora da inadimplência está longe de terminar - Brazil Journal",
-      "summary": "Para o Citi, a piora da inadimplência está longe de terminar &nbsp;&nbsp; Brazil Journal",
-      "url": "https://braziljournal.com/para-o-citi-a-piora-da-inadimplencia-esta-longe-de-terminar",
-      "published": "2026-08-20T15:25:24+00:00",
-      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Leilão da Casas Bahia não é só oportunidade: atenção para não cair em golpes ou pagar custos escondidos",
@@ -7431,29 +7229,6 @@
       "score": 20.0
     },
     {
-      "title": "Urgência eleitoral não deveria pautar votação da escala 6x1",
-      "summary": "",
-      "url": "https://www.estadao.com.br/politica/fernando-schuler/urgencia-eleitoral-nao-deveria-pautar-votacao-da-escala-6x1",
-      "published": "2026-08-25T23:47:46+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Gold Slips as Markets Await Fed Chairman Comments at Jackson Hole",
       "summary": "Gold declined in Asian trade. Markets appear to be waiting for Fed Chairman Kevin Warsh to clarify his views on when the central bank is likely to react to inflation when he speaks at the annual Jackson Hole gathering, ANZ said.",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-slips-as-markets-await-fed-chairman-comments-at-jackson-hole-5a931818?mod=rss_markets_main",
@@ -8121,6 +7896,29 @@
       "score": 20.0
     },
     {
+      "title": "Médica explica o perigo do uso de canetas emagrecedoras por crianças e adolescentes - G1",
+      "summary": "Médica explica o perigo do uso de canetas emagrecedoras por crianças e adolescentes &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/to/tocantins/videos-ja-1-edicao-to/video/medica-explica-o-perigo-do-uso-de-canetas-emagrecedoras-por-criancas-e-adolescentes-14904408.ghtml",
+      "published": "2026-08-26T19:35:40+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Magalu lança programa para acelerar 100 startups no Startup Summit; veja como participar - Exame",
       "summary": "Magalu lança programa para acelerar 100 startups no Startup Summit; veja como participar &nbsp;&nbsp; Exame",
       "url": "https://exame.com/negocios/magalu-lanca-programa-para-acelerar-100-startups-no-startup-summit-veja-como-participar",
@@ -8205,6 +8003,29 @@
         {
           "sector": "E-commerce",
           "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nova marca da Cimed esgota 10 mil pedidos em 8 minutos - Exame",
+      "summary": "Nova marca da Cimed esgota 10 mil pedidos em 8 minutos &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/marketing/nova-marca-da-cimed-esgota-10-mil-pedidos-em-8-minutos",
+      "published": "2026-08-26T21:00:42+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8435,6 +8256,213 @@
         {
           "sector": "Fashion",
           "alias": "c&a",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "C&A lidera alta do Ibovespa: por que as ações disparam hoje?",
+      "summary": "Papéis da varejista sobem mais de 4% em dia de Bolsa em queda",
+      "url": "https://exame.com/invest/mercados/ca-lidera-alta-do-ibovespa-por-que-as-acoes-disparam-hoje",
+      "published": "2026-08-27T10:57:39+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "c&a"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "c&a",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Renan Santos defende fim da Justiça do Trabalho e diz que fim da escala 6x1 'é pauta perigosíssima' em sabatina do Valor, O Globo e CBN",
+      "summary": "O candidato do Missão à Presidência da República, Renan Santos, se referiu às discussões sobre o fim da escala de trabalho 6x1 como uma \"pauta perigosíssima\" em sabatina promovida nesta manhã (27) pelo Valor, O Globo e CBN. \"Estão prometendo que as pessoas vão trabalhar menos e ganhar mais. É um problema drmático vindo de uma medida populista\", declarou. Ele também defendeu acabar com a Justiça Trabalhista. Renan afirmou ver chances de capturar eleitores tanto de Luiz Inácio Lula da Silva (PT) como de Flávio Bolsonaro (PL). Declarou não se arrepender das ofensas que proferiu aos dois adverários durante o debate da Band, no dia 23, mas disse que \"não teria a mesma postura\" em um novo programa. Também na sabaina, o candidato do Missão prometeu uma revisão geral nos subsídios, mas disse que pouparia o agronegócio, por se tratar de um setor competitivo. Renan também afirmou que não pretende ter conflitos com o Supremo Tribunal Federal (STF), se disse um \"pacificador\", mas declarou que não cumprirá \"decisão ilegal\". \"O que estou falando é que exijo ser respeitado se eu for presidente da República\", disse. Na área da segurança, afirmou que pretende investir na desocupação de territórios dominados por facções - o que seria feito pelas polícias estaduais - e declarou se inspirar nos modelos prisionais dos Estados Unidos e de El Salvador. Renan é o terceiro convidado da série de entrevistas com presidenciáveis. A sabatina começou às 10h30 e tem duração de 1h30. Justiça do Trabalho e escala 6x1 Renan se referiu à Justiça do Trabalho como uma \"caixinha de supresas\". \"Nós temos a pior Justiça Trabalhista do mundo. Eu acho que ela tem que caminhar para obsolescência e substituição\", disse, propondo que as disputas entre empregadores e empregados sejam tratados na esfera cível, na Justiça comum. Em relação so fim da escala 6x1, ele que seria especialmente prejudicial em um momento de dificuldades para o comércio e o varejo, setores que, segundo ele, enfrentam um período difícil. Renan disse ainda que se for aprova neste ano e ele, eleito para a Presidência, assim que assumir fará modificações na legislação. Para o candidato do Missão, o país precisa de uma nova legislação trabalhista, com um modelo alternativo à Consolidação das Leis do Trabalho (CLT) e ao Microempreendedor Individual (MEI), que, na visão dele, permita ampliar a contratação e a formalização de trabalhadores sem elevar a carga tributária ao longo da cadeia. Ele voltou a defender um modelo de legislação que estabeleça a remuneração por hora trabalhada. O Congresso terá, na próxima semana, um período de esforço concentrado para tentar votar projetos antes do primeiro turno das eleições, em outubro. Com o avanço da campanha, deputados e senadores têm permanecido em seus Estados, reduzindo o ritmo das atividades em Brasília. A votação do fim da escala 6x1 está entre as prioridades alinhadas em reunião entre o presidente Luiz Inácio Lula da Silva e os presidentes da Câmara dos Deputados, Hugo Motta (Republicanos-PB), e do Senado Federal, Davi Alcolumbre (União-AP). Corte de subsídios e convite para ministério Renan Santos disse, na entrevista, que pretende rever uma série de subsídios. Os do agronegócios, no entanto, seriam mantidos. Não haveria qualquer alteração para o setor. Questionado sobre por que o benefício seria restrito ao agro, Renan afirmou que o setor é competitivo, enquanto os demais não teriam a mesma condição. Para justificar a manutenção, mencionou um estudo do economista do Insper Marcos Lisboa sobre o agronegócio, que, segundo ele, aponta ser o único setor que cresce a produtividade em níveis de competitividade com outros países. “Alguns poucos subsídios vão ser mantidos. A maior parte dos subsídios brasileiros vai desaparecer, especialmente os estaduais, com a nova reforma tributária”, declarou. Ao comentar os incentivos fiscais, Renan afirmou que o destinado à Zona Franca de Manaus (ZFM) é “altamente inefetivo” e terá que ser revisto. Durante a sabatina, o candidato afirmou ainda que convidou o economista Marcos Lisboa para ser ministro em um eventual governo. \"Convidei o Marcos Lisboa para ser meu ministro. Gostaria de contar com pessoas desse nível, Marcos Lisboa, uma Elena Landau [diretora-presidente da Elandau Consultoria Econômica]\", disse. Presídios à moda Bukele Renan criticou o sistema prisional brasileiro e disse que as as unidades são “muito passíveis de serem controladas pelo tráfico”. “Não há uma cadeia que não seja comandada pelo crime organizado”, ele declarou. O modelo que pretende adotar, disse, é inspirado no dos Estados Unidos e de El Salvador. “É um modelo que pega alto volume prisional e alto controle evitando infecção pelas facções”, declarou. Renan afirmou que pretende construir presídios maiores e com um padrão de isolamento \"muito maior que os cadeiões\". Questionado se aceitaria receber imigrantes deportados ou criminosos dos Estados Unidos para abrigá-los nos presídios brasileiros, como já fizeram outros países, Renan disse não ser “fã dessa tese” e afirmou que a questão não é um problema brasileiro. “Não vejo isso como business”, disse. Facções criminosas Ainda na área de segurança pública, Renan defendeu uma política baseada na ocupação dos territórios dominados por facções criminosas, destruição da liderança do crime organizado, desmonte estratégico e, por fim, uma política de “desfavelização”. Esta última é a principal proposta de segurança pública presente no seu plano de governo. Ele afirmou ainda que o combate ao crime organizado nas favelas é uma atribuição do governo federal e que os governadores não têm condições de resolver o problema sozinhos. Segundo o candidato, no entanto, as Forças Armadas não serão responsáveis pela desocupação de territórios dominados por facções criminosas. Isso, segundo ele, será feito pelas polícias estaduais. A proposta faz parte da política de \"estado de exceção\" que Renan defende implementar. Renan disse ainda que não há prazo definido para a manutenção de um estado de exceção em territórios ocupados por facções criminosas. “Não é um jogo de War no sentido em que vou ocupar pequenos territórios. Eu reconheço que tenho uma guerra”, declarou. Renan afirmou também que não pretende dialogar com organizações não governamentais (ONGs) que atuam em favelas. Disse preferir conversar diretamente com moradores e associações comunitárias dessas comunidades. “Eu não ligo para essa ONG. Eu falo com as pessoas. Eu não vou falar com essa ONG, eu vou falar com as pessoas”, afirmou. Em seguida, ressaltou que já visitou favelas e associações de moradores e disse que não pretende desprezar as comunidades nem sua autonomia para decidir sobre o próprio futuro. STF O candidato do Missão afirmou que não pretende ter “nenhum conflito” com o Supremo Tribunal Federal (STF), mas disse que não cumprirá de imediato uma decisão monocrática que considere ilegal. “Não quero nenhum conflito com o STF. Eu serei um presidente que será pacificador. Não vou entrar em conflitos idiotas. O que estou falando é que exijo ser respeitado se eu for presidente da República”, disse. “Não é que eu vou ficar igual um doido desrespeitando decisão judicial, isso é maluquice”, completou Renan afirmou que, no caso de uma decisão monocrática que impeça a decretação de uma Garantia da Lei e da Ordem (GLO), não vai retirar imediatamente as tropas de uma área ocupada pelo crime organizado. Segundo ele, antes da negativa, consultará a Advocacia-Geral da União (AGU), convocará uma coletiva de imprensa e conversará com representantes políticos. “Eu posso pedir [liminar], mas, enquanto não for [concedida], não vou cumprir [decisão do STF]”, afirmou. Sabatinas Na terça-feira (25), o convidado foi Romeu Zema (Novo) e ontem, Ronaldo Caiado (PSD). Amanhã será a vez de Augusto Cury (Avante). Os candidatos Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) foram convidados, mas declinaram. As entrevistas com os candidatos à Presidência são conduzidas por Milton Jung, apresentador da CBN, Maria Cristina Fernandes, colunista do Valor, e Lauro Jardim e Malu Gaspar, colunistas do Globo. Segundo pesquisa Datafolha divulgada na sexta-feira (21), Renan tem 4% das intenções de voto. Lula, com 39%, e Flávio, com 33%, aparecem à frente. A margem de erro da pesquisa é de dois pontos para mais ou para menos. Completam o cenário de primeiro turno: Ronaldo Caiado, com 5%, Romeu Zema, com 3%, e Augusto Cury, com 2%.",
+      "url": "https://valor.globo.com/noticia/2026/08/27/renan-santos-participa-de-sabatina-do-valor-o-globo-e-cbn-assista.ghtml",
+      "published": "2026-08-27T11:12:46+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Brasil tem um dos maiores índices de inadimplência bancária em LatAm; Argentina lidera - Bloomberg Línea Brasil",
+      "summary": "Brasil tem um dos maiores índices de inadimplência bancária em LatAm; Argentina lidera &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/mercados/brasil-tem-um-dos-maiores-indices-de-inadimplencia-bancaria-em-latam-argentina-lidera/?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM",
+      "published": "2026-08-27T11:36:10+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein será avaliada em US$ 26,5 bi no IPO, 73% abaixo do pico, diz site",
+      "summary": "Companhia chinesa enfrenta desaceleração da receita, margens menores e pressão de custos e concorrência",
+      "url": "https://exame.com/invest/mercados/shein-sera-avaliada-em-us-265-bi-no-ipo-73-abaixo-do-pico-diz-site",
+      "published": "2026-08-27T11:48:07+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Medicamento da AstraZeneca e da Amgen para asma tem sucesso em estudo avançado",
+      "summary": "A AstraZeneca afirmou nesta quinta-feira (27) que seu medicamento para asma Tezspire atingiu os principais objetivos de um estudo de fase avançada em pacientes com um distúrbio inflamatório crônico do esôfago, trazendo uma boa notícia para a companhia após uma série de reveses em seu portfólio de medicamentos em desenvolvimento. O estudo mostrou que o Tezspire, desenvolvido em parceria com a Amgen, reduziu significativamente a inflamação no esôfago e aliviou a dificuldade para engolir em comparação com placebo em pacientes com esofagite eosinofílica, doença que afeta mais de 470 mil pessoas nos Estados Unidos. O diretor-presidente, Pascal Soriot, está conduzindo a AstraZeneca rumo à meta de alcançar US$ 80 bilhões em vendas anuais até 2030, contando com até 20 lançamentos de novos medicamentos, enquanto a companhia lida com vencimentos de patentes e desafios geopolíticos. Mas a farmacêutica sofreu vários reveses recentes. Em julho, o Wainua falhou inesperadamente em um estudo para doença cardíaca, enquanto um estudo de fase avançada do medicamento Ultomiris, para doença rara, também fracassou. Em maio, um painel regulatório dos Estados Unidos rejeitou o medicamento camizestrant, para câncer de mama, por questões relacionadas ao desenho do estudo. A AstraZeneca também interrompeu neste mês um estudo avançado do medicamento experimental volrustomig, para câncer de pulmão, depois que um comitê responsável pelo acompanhamento do estudo afirmou que era improvável que ele atingisse seu principal objetivo. As ações da companhia acumulam queda de 14% desde o fracasso do estudo do Wainua. Embora os resultados do Tezspire tenham sido animadores, os investidores continuam concentrados nos próximos resultados de dois estudos sobre câncer, considerados cruciais para o portfólio de medicamentos em desenvolvimento da AstraZeneca e para aliviar a pressão sobre as ações. O Tezspire é um anticorpo monoclonal que bloqueia uma proteína conhecida como TSLP, capaz de desencadear inflamação em doenças impulsionadas por eosinófilos, um tipo de glóbulo branco, além da asma grave. O medicamento já é aprovado nos Estados Unidos, na União Europeia e em outros países como tratamento complementar para asma grave e concorre com o Dupixent, medicamento de grande sucesso comercial da Sanofi e da Regeneron. O Tezspire gerou US$ 1,13 bilhão em vendas para a AstraZeneca em 2025. O medicamento já é aprovado nos Estados Unidos, na União Europeia e em outros países como tratamento complementar para asma grave Jason Alden/Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/27/medicamento-da-astrazeneca-e-da-amgen-para-asma-tem-sucesso-em-estudo-avanado.ghtml",
+      "published": "2026-08-27T11:55:43+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein capta US$ 1,7 bilhão em IPO em Hong Kong e é avaliada em US$ 26 bi, dizem fontes - Bloomberg Línea Brasil",
+      "summary": "Shein capta US$ 1,7 bilhão em IPO em Hong Kong e é avaliada em US$ 26 bi, dizem fontes &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/shein-capta-us-17-bilhao-em-ipo-em-hong-kong-e-e-avaliada-em-us-26-bi-dizem-fontes",
+      "published": "2026-08-27T13:32:10+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Por Que o BTLG11 Pagou R$ 375 Milhões em um Novo Galpão Logístico em Guarulhos",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fundo do BTG Pactual adquire ativo Triple A em raio de 30 km de SP; negócio tem cap rate de entrada de 9,1% e eleva para 42% a exposição do fundo à região metropolitana da capital paulista O post Por Que o BTLG11 Pagou R$ 375 Milhões em um Novo Galpão Logístico em Guarulhos apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/btlg11-compra-galpao-logistico-guarulhos",
+      "published": "2026-08-27T14:06:06+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "galpão logístico"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "galpão logístico",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Caneta emagrecedora pode afetar o ciclo menstrual? Veja o que se sabe - Veja Saúde",
+      "summary": "Caneta emagrecedora pode afetar o ciclo menstrual? Veja o que se sabe &nbsp;&nbsp; Veja Saúde",
+      "url": "https://saude.abril.com.br/medicina/caneta-emagrecedora-pode-afetar-o-ciclo-menstrual-veja-o-que-se-sabe",
+      "published": "2026-08-27T14:17:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Pediatras alertam para os riscos de uso inadequado de “canetas emagrecedoras” em crianças e adolescentes - Superinteressante",
+      "summary": "Pediatras alertam para os riscos de uso inadequado de “canetas emagrecedoras” em crianças e adolescentes &nbsp;&nbsp; Superinteressante",
+      "url": "https://super.abril.com.br/saude/pediatras-alertam-para-os-riscos-de-uso-inadequado-de-canetas-emagrecedoras-em-criancas-e-adolescentes",
+      "published": "2026-08-27T15:01:55+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8755,6 +8783,37 @@
       "score": 16.0
     },
     {
+      "title": "Mastercard lança ferramenta que ajuda médias empresas a se preparar para compras feitas por agentes de IA",
+      "summary": "Se hoje um site de comércio eletrônico é desenhado para que uma pessoa entre, pesquise um produto, compare opções e clique em \"comprar\", a Mastercard acredita que uma parcela crescente dessas tarefas será realizada por um novo tipo de cliente: os agentes de inteligência artificial. Para preparar empresas para esse cenário, a companhia está lançando o Agent Connect, solução que ajuda lojistas a adaptar sua presença digital para que agentes de IA consigam acessar catálogos, interagir com sistemas e realizar pagamentos em nome dos consumidores. A novidade faz parte de um conjunto de serviços da Mastercard voltados ao chamado comércio agêntico, no qual sistemas de IA deixam de apenas recomendar produtos e passam a executar tarefas, incluindo a conclusão de uma compra. \"Hoje, todos os sites são legíveis por humanos, mas não são legíveis por máquinas\", afirma Pablo Fourez, Chief Digital Officer da Mastercard, em entrevista a Época NEGÓCIOS. \"Eles são otimizados para o consumo humano. Você entra, clica aqui, vê os anúncios. O agente não se importa com a imagem. Ele precisa ter acesso ao catálogo de uma maneira específica.\" A ferramenta Agent Connect funciona como uma camada de serviços e APIs que permite adaptar a infraestrutura existente da empresa sem exigir a troca do processador de pagamentos. A proposta é reduzir a complexidade provocada pelo surgimento de diferentes agentes e protocolos. \"A ideia é fazer com que, como comerciante, você não precise se preocupar com protocolos e agentes. O serviço cuida dessa complexidade\", diz Fourez. O desafio das médias empresas Embora possa ser utilizado por companhias de diferentes portes, Fourez vê uma utilidade maior para médias empresas. Grandes varejistas já perceberam a chegada do comércio agêntico e têm recursos para desenvolver suas próprias estratégias. Na outra ponta, pequenos negócios frequentemente terceirizam boa parte de sua infraestrutura digital para plataformas de comércio eletrônico. No meio desse caminho estão empresas que mantêm parte da operação internamente e contratam fornecedores para outras etapas. \"Se você é uma empresa muito grande, tem uma equipe de estratégia e sabe o que está fazendo. Se é muito pequena, isso está completamente terceirizado. Se está no meio, tem muito mais perguntas do que respostas\", afirma. Pablo Fouez, Chief Digital Officer da Mastercard. Divulgação Entre essas dúvidas, segundo o executivo, estão questões como a compatibilidade dos meios de pagamento e a necessidade de adoção dos novos protocolos desenvolvidos para agentes. Por enquanto, o Agent Connect começará a ser testado nos Estados Unidos. A Mastercard pretende posteriormente expandir a solução para outros mercados, embora ainda não tenha divulgado um cronograma. Fourez diz acreditar que a tecnologia chegará ao Brasil e cita a familiaridade do consumidor brasileiro com serviços digitais como um dos motivos. \"É um mercado muito atraente. A população é muito digital, usa WhatsApp, celular. É muito fácil entender por que isso viria para o Brasil também.\" O Agent Connect é mais uma peça de uma estratégia que a Mastercard vem construindo para pagamentos realizados por agentes de IA. O problema que a companhia tenta resolver vai além de permitir que um robô clique no botão de compra. Se um consumidor disser a um agente para comprar determinado produto, por exemplo, comerciantes e bancos precisam conseguir identificar que aquela transação realmente foi autorizada pelo cliente – e quais eram exatamente os limites dessa autorização. Para lidar com situações desse tipo, a Mastercard vem trabalhando em diferentes camadas de segurança. Uma delas é o Agent Pay, estrutura baseada em tokenização e autenticação. A companhia também adotou o conceito de \"conheça seu agente\", em referência aos processos de KYC (\"know your customer\") usados pelo setor financeiro. A ideia é que o agente não se passe pelo consumidor. Ele deve ser identificado como uma entidade distinta, autorizada a agir em nome daquela pessoa. Colaboração entre parceiros Fazer agentes de diferentes empresas comprarem em milhares de sites também exige que companhias de pagamentos e desenvolvedores de inteligência artificial falem a mesma língua. Questionado sobre as conversas da Mastercard com empresas como OpenAI, Anthropic e Google, Fourez afirma que existe uma colaboração intensa entre os diferentes participantes desse novo mercado. Segundo ele, as companhias que desenvolvem modelos e agentes querem oferecer uma experiência na qual a IA também consiga concluir ações, sem assumir diretamente a infraestrutura e os riscos envolvidos nos pagamentos. É aí que entram empresas como a Mastercard. \"Elas querem entender como proteger o pagamento. Querem trabalhar conosco e com outros. Há muita colaboração nessa indústria\", diz Fourez. Novas ferramentas no Brasil Foi também na Febraban Tech que a Mastercard Brasil revelou sua nova estratégia para crescer no país. Segundo Marcelo Tangioni, presidente da empresa, o foco agora é o mercado de pagamento entre empresas. “Os cartões de crédito têm hoje uma penetração de 57% no consumo privado. Se adicionarmos o Pix, mais de 90% do consumo das pessoas físicas já é eletrônico. O papel-moeda praticamente não existe mais no mercado, o que coloca o Brasil em uma posição de referência global. Das dez maiores economias do mundo, talvez o Brasil seja o primeiro país a eliminar completamente o papel”, diz Tangioni. Marcelo Tangioni, presidente da Mastercard Brasil Divulgação Nesse cenário, diz, faz sentido que a Mastercard se volte para pagamentos entre empresas. “Se, no lado da pessoa física, somos robustos, dá para ver que as taxas de crescimento mudaram. Continuamos crescendo, mas não tanto quanto há cinco anos. Existe uma oportunidade gigante em uma área em que a indústria de cartões ainda é muito nascente: o mundo dos pagamentos entre empresas. Essa é a nossa principal aposta agora.” Segundo o executivo, os cartões de crédito movimentam R$ 4,5 trilhões anualmente no país - os números são da Abecs (Associação Brasileira de Empresas de Cartões de Crédito). Mas apenas 9% desse valor corresponde a pagamentos entre empresas. \"Fizemos um estudo para entender o potencial dos cartões nesse universo. Identificamos mais de R$ 3 trilhões em volume que já circula entre empresas, que podem vir a ser negociados usando cartões. Obviamente, ainda estamos no começo e há muita coisa para construir.” Dentro dessa estratégia, o universo das pequenas e grandes empresas é está no alvo da empresa. Segundo Walter Pimenta, vice-presidente executivo de Pagamentos Comerciais e Novos Fluxos da Mastercard para a América Latina e o Caribe (LAC), a Mastercard desenvolveu uma nova proposta de valor para atrair esse público. Walter Pimenta, vice-presidente executivo de Pagamentos Comerciais e Novos Fluxos da Mastercard para a América Latina e o Caribe (LAC) Divulgação \"Analisamos a estrutura do produto PJ para pequenas e médias empresas e vimos muito rapidamente que ela era muito parecida com a do produto de consumo. Então, decidimos criar novos benefícios\", diz Pimenta. Entre eles, está uma solução criada pelo parceiro Bee Digital. A ferramenta faz uma análise de quão visível o negócio está no comércio eletrônico, em diferentes canais e acessos. \"Dependendo do nível de visibilidade, apresenta uma série de ações recomendadas para que o pequeno negócio se torne mais visível e se mantenha vivo no comércio digital\", diz o executivo. Outra estratégia para conquistar as pequenas e médias empresas foi proporcionar uma solução de cibersegurança, uma grande preocupação desses empreendedores. \"Temos um produto chamado My Cyber Risk que faz uma análise de quão expostos a loja ou o comércio estão a uma fraude ou a um ataque cibernético, e sugere proteções\", afirma Pimenta. Para as grandes empresas, a Mastercard está oferecendo ajuda no processo de reconciliação de pagamentos, o processo financeiro que envolve a correspondência e a comparação de registros de transação para que os pagamentos feitos ou recebidos sejam precisos e condizentes com os registros. \"Hoje isso é muito difícil para as grandes corporações, porque muitos pagamentos ainda são feitos por transferência bancária ou boleto\", diz Pimenta. A proposta da empresa é que as empresas passem a trabalhar com cartões virtuais nos pagamentos B2B. \"Nesse caso, o cartão virtual é único e específico para cada transação. Se uma empresa A faz um pagamento para uma empresa B, consigo determinar que o pagamento é destinado a um fornecedor específico, definir o valor e a data-limite. Todos os termos comerciais da transação podem ser incorporados ao cartão virtual\", diz o executivo. Isso permitiria uma reconciliação automática, diz, feita pelo próprio cartão. \"Também oferece garantia de pagamento ao recebedor e ajuda as empresas no monitoramento e na gestão do fluxo de caixa\", completa Pimenta. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/08/mastercard-lanca-ferramenta-que-ajuda-medias-empresas-a-se-preparar-para-compras-feitas-por-agentes-de-ia.ghtml",
+      "published": "2026-08-26T23:24:36+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "comercio eletronico",
+        "comércio eletrônico"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "comercio eletronico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Mesmo com juro alto, Rio vive novo ciclo imobiliário com 25 mil lançamentos de imóveis em 12 meses",
       "summary": "O mercado imobiliário do Rio está aquecido, com uma combinação de fatores, segundo especialistas e executivos. Mudanças nas regras de construção, com o novo Plano Diretor da cidade, de 2024, facilitaram projetos residenciais na Zona Norte, no Centro e na Região Portuária, com foco no programa Minha Casa, Minha Vida. Em outro flanco, o turismo aumenta o apetite por projetos de hotelaria e por empreendimentos desenhados para o aluguel por temporada, também facilitados pelo novo Plano Diretor. Com retrofits, Praça Onze Maravilha e investidores estrangeiros, Rio Comprido entra no radar imobiliário da cidade Salto: Aluguel por temporada faz preço do metro quadrado em Ipanema disparar Em 2024, o número de unidades lançadas disparou 42%, para 21,2 mil, segundo a consultoria Brain Inteligência Estratégica. Ano passado, houve redução de 8% nas unidades lançadas, mas os lançamentos somaram R$ 16,5 bilhões em valor geral de vendas (VGV, um indicador de mercado), salto de 28%. O ano começou com 6,6 mil unidades lançadas, e, no acumulado em 12 meses até junho, foram 25 mil, segundo Leonardo Mesquita, presidente da Associação de Dirigentes de Empresas do Mercado Imobiliário do Rio (Ademi-RJ), o que aponta para crescimento este ano. Em alta: Mercado de luxo cresce no Rio e dobra participação nos lançamentos imobiliários Apesar dos juros altos, que deveriam esfriar a demanda ao encarecer os imóveis nas compras a prazo, a procura “é resistente, e vai bem mesmo em um momento complexo”, diz Mesquita. Segundo Guilherme Mororó, diretor Comercial e de Marketing da construtora e incorporadora CTV, que foca no Minha Casa, Minha Vida e no médio padrão, “com eventual melhora do cenário de juros, o mercado terá ainda mais espaço para crescer”. Panorama do mercado imobiliário no Rio Editoria de Arte/O Globo Segundo Thiago Lima, sócio da JGP Real Estate, braço imobiliário da gestora, o aquecimento é “seletivo”, mas “o Rio entrou em novo ciclo de lançamentos, impulsionado por mudanças urbanísticas, escassez de terrenos, demanda por locação, turismo e novos programas habitacionais”. Em alta: Estado do Rio bate recorde e chega a 2,19 milhões de turistas internacionais em 2025; capital estima impacto de R$ 12,8 bilhões no verão Parte da demanda tem a ver com o Minha Casa, Minha Vida, cujos juros subsidiados ficam protegidos da alta das taxas de mercado. Mas a mudança no Plano Diretor, incentivos no Porto Maravilha, e o programa Reviver Centro, que favorece a reocupação de edifícios na região, dão um impulso adicional, diz Mesquita. O presidente da Ademi-RJ é presidente da Cury, incorporadora e construtora focada no Minha Casa, Minha Vida, que lançou oito empreendimentos no Rio este ano, num total de 5,4 mil unidades, em bairros como Centro, Ramos, São Cristóvão e Piedade. Mercado imobiliário: imóveis populares, de luxo e estúdios puxam alta de lançamentos no Rio A Tenda, que foca no Minha Casa, Minha Vida, espera crescimento de 30% no volume de lançamentos este ano, com residenciais em São Cristóvão, Cascadura e Tomaz Coelho, diz Alexandre Millen, diretor de Negócios Regional da Tenda. Estúdios e hotelaria Os impulsos do programa habitacional e do turismo convergem numa tendência de imóveis menores, próximos ao transporte público, priorizando áreas comuns de lazer e serviços como lavanderia e academia de ginástica. Segundo a MRV, especializada na moradia popular, os lançamentos recentes têm oferecido cerca de dez opções de “lazer e interação”, e 85% dos projetos têm piscina. — Em junho, um terço das unidades lançadas eram compactas. É o produto que gira mais rápido. Mas compacto não é sinônimo de Airbnb. No Centro e na Região Portuária, cerca de 70% das compras usam FGTS, coisa de quem vai morar — diz Vinicius Benevides, vice-presidente do Sindicato da Indústria da Construção Civil (Sinduscon-Rio). Classe média se aperta, e imóveis de dois quartos compactos puxam vendas do setor Mesquita, da Ademi-RJ e da Cury, vê demanda reprimida, após anos de poucos lançamentos. Combinado com a escassez de terrenos em bairros como Ipanema e Leblon, isso favorece o alto padrão. O Opportunity Imobiliário, braço da gestora que atua na incorporação e operação de projetos, criou, em 2024, a marca Be.in.Rio, de estúdios em endereços estratégicos da Zona Sul. Lançou 11 residenciais da bandeira e prepara o lançamento de mais cinco, conta Marcelo Naidich, gestor do Opportunity Imobiliário, ressaltando que o mercado não está aquecido de “maneira indiscriminada”, mas de forma seletiva, com foco em “localização e qualidade do produto”. Imóveis de luxo: Rio se consolida como segundo maior mercado do país no segmento Para Gabriel Pecly, responsável por Novos Negócios da Balassiano Engenharia, que se concentra em residenciais em Ipanema e no Leblon, “os estúdios ficaram mais de 30 anos impedidos de serem produzidos, e a legislação foi modernizada na última revisão do Plano Diretor”, o que “destravou alavancas”. Initial plugin text Além disso, o Rio está “em alta no Brasil e no mundo”, completa Pecly. O fluxo de turistas está batendo recordes. Em 2025, o Brasil recebeu 9,3 milhões de visitantes estrangeiros, salto de 37% sobre 2024 e recorde da série histórica da Embratur, a agência federal de promoção; e 2,2 milhões deles chegaram pelo Rio. Os estúdios despontam, mas há investimentos em hotelaria. A Glória Participações — holding de investimentos imobiliários que acaba de adquirir o Praia Ipanema, na Avenida Vieira Souto, para instalar um hotel de ultraluxo — tem oito hotéis, no Centro e Copacabana, e investe no mercado carioca desde 2016, fundo do poço da recessão iniciada em 2014. Você é um dos milhões de brasileiros endividados? Ferramenta do GLOBO ajuda a organizar suas contas; confira Os investimentos se sustentam no crescimento do turismo, que começa a se materializar, com promoção de eventos e retomada de voos internacionais no Galeão, diz Daniel Pierro, sócio da Glória: — Sempre acreditamos que a cidade tinha o potencial para ter uma retomada incrível. E estávamos certos. O Rio é a capital de fato internacional, que representa o Brasil. Segundo Pierro, o crescimento do turismo se espalha para o Centro, atraindo visitantes que querem pagar menos na hospedagem, o que combina com as políticas de incentivo à ocupação. Isso já aparece nos escritórios, conta Hilton Rejman, presidente executivo da BGRE no Brasil. Airbnb e outras plataformas de aluguel por temporada no Rio: veja novas regras propostas pela Câmara e pontos polêmicos A empresa — braço da Brookfield que desenvolve e opera os ativos imobiliários da gestora — tem seis edifícios corporativos no Rio: Ventura Corporate Towers, Edifício Manchete, L’Oréal, Sylvio Fraga, Senado e AQWA Corporate. Combinados, têm ocupação agregada de 89%, diz Rejman.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/27/mesmo-com-juro-alto-rio-vive-novo-ciclo-imobiliario-com-25-mil-lancamentos-de-imoveis-em-12-meses.ghtml",
@@ -8827,37 +8886,6 @@
       "score": 12.0
     },
     {
-      "title": "Pílula que imita efeitos do exercício passa no primeiro teste em humanos",
-      "summary": "A empresa de biotecnologia americana Enveda anunciou nesta semana os primeiros resultados de segurança de um medicamento que tenta reproduzir, em forma de comprimido, parte dos efeitos metabólicos causados pelo exercício físico. O composto, batizado de ENV-308, concluiu sua primeira fase de testes em humanos sem registrar eventos adversos graves entre os participantes. Segundo a empresa, sediada em Boulder, no Colorado, o ensaio de Fase 1 recrutou 88 voluntários saudáveis, que receberam diferentes doses do composto por via oral. Nenhum deles abandonou o tratamento ou teve a dose interrompida, e a Enveda classificou o perfil de segurança gastrointestinal como \"excepcional\", já que um dos principais motivos que levam pacientes a interromper o uso de medicamentos da classe dos agonistas de GLP-1, como a semaglutida. + Primeiro genérico de semaglutida: tudo o que se sabe sobre preço, indicação e o que muda para pacientes diabéticos + Gurus e xamãs criados por IA não têm respaldo científico e podem prejudicar tratamentos de saúde, alerta Anvisa + Pessoas que passam dos cem anos têm grande quantidade de células que matam câncer, diz estudo O que é a molécula por trás do remédio O ENV-308 foi desenvolvido para imitar a ação da N-lactoil-fenilalanina, ou Lac-Phe, uma molécula que o corpo humano produz naturalmente durante exercícios de alta intensidade e também após as refeições. A substância foi identificada em 2022 por pesquisadores da Universidade Stanford, que associaram seus níveis elevados à supressão do apetite. Em testes com camundongos obesos, animais tratados com Lac-Phe perderam peso. Como a molécula natural fica pouco tempo no organismo, a Enveda usou um modelo próprio de inteligência artificial, batizado de PRISM, para desenhar uma versão sintética capaz de manter o efeito por mais tempo e permitir a administração em comprimido diário. \"O ENV-308 é a nossa tentativa de colocar a química do exercício físico em um comprimido diário, oferecendo uma solução sustentável e conveniente que se soma aos hábitos das pessoas e as apoia no caminho para a saúde de longo prazo\", afirmou Viswa Colluru, fundador e CEO da Enveda, em comunicado da empresa. Embora o objetivo da a Fase 1 seja avaliar segurança, e não eficácia, o estudo encontrou um dado exploratório considerado relevante pela empresa: os voluntários apresentaram queda nos níveis circulantes de leptina, hormônio que sinaliza saciedade ao cérebro. A redução foi maior entre os participantes que tinham os níveis mais altos de leptina no início do estudo, segundo dados divulgados pela BioSpace. Pessoas com obesidade costumam ter níveis elevados de leptina, mas apresentam resistência ao hormônio, de forma parecida com o que ocorre com a insulina em quadros de diabetes tipo 2. Em modelos animais, o ENV-308 também preservou massa muscular magra durante a perda de peso e evitou o reganho de peso após a interrupção de tratamentos com GLP-1, de acordo com a empresa. Aposta bilionária contra a obesidade O anúncio ocorre em um momento de forte disputa financeira pelo mercado de obesidade, hoje dominado por Novo Nordisk e Eli Lilly. A Enveda já levantou US$ 517 milhões em rodadas de investimento desde sua fundação, em 2019, e atingiu valor de US$ 1 bilhão após uma rodada Série D de US$ 150 milhões liderada pela gestora Premji Invest, segundo o BioPharma Dive. Entre os investidores da companhia estão nomes como Baillie Gifford, Kinnevik e a farmacêutica Sanofi. A aposta da Enveda é atender a pacientes que interrompem o uso de canetas emagrecedoras e voltam a ganhar peso, muitas vezes perdendo massa muscular no processo. Diferentemente dos GLP-1, que atuam reduzindo o apetite por meio de múltiplos mecanismos hormonais, o ENV-308 seria voltado à manutenção do peso perdido, e não necessariamente à perda inicial. A Enveda afirmou que pretende avançar para uma Fase 2 maior, voltada especificamente à manutenção de peso após o uso de medicamentos GLP-1. A empresa também avalia testar o composto para outras condições associadas aos benefícios do exercício físico, como enxaqueca e doença inflamatória intestinal. Por ora, os resultados divulgados se limitam a segurança e tolerabilidade em voluntários saudáveis, sem indicação de que o composto substitua a atividade física ou tenha eficácia comprovada para perda de peso. Isso só poderá ser avaliado em fases posteriores do desenvolvimento clínico. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/08/pilula-que-imita-efeitos-do-exercicio-passa-no-primeiro-teste-em-humanos.ghtml",
-      "published": "2026-08-20T13:22:05+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "medicamento",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 10.0
-    },
-    {
       "title": "Bilionários brasileiros doam R$ 4 milhões nas eleições 2026; veja quem são",
       "summary": "Quatro bilionários brasileiros aparecem, até 25 de agosto, entre os doadores de campanhas eleitorais de 2026, segundo os registros divulgados pelo Tribunal Superior Eleitoral (TSE). Juntos, Alexandre Grendene Bartelle, Pedro Grendene Bartelle, Walter Moreira Salles Junior e João Moreira Salles destinaram R$ 4,05 milhões a candidatos. Com o auxílio de inteligência artificial sob supervisão humana, o Valor analisou mais de 10 mil doações feitas por mais de 9 mil pessoas físicas, que foram declaradas no sistema do TSE para as eleições 2026. O maior doador é Alexandre Grendene Bartelle, que aparece com R$ 3 milhões em contribuições. O empresário destinou R$ 500 mil para a campanha de Ciro Gomes (PSDB) ao governo do Ceará e outros R$ 2,5 milhões para Luciano Zucco (PL), candidato ao governo do Rio Grande do Sul. O empresário é cofundador da empresa de calçados Grendene e aparece na lista de bilionários brasileiros da Forbes, com patrimônio estimado em US$ 2,4 bilhões. Apesar de ter sua sede administrativa em Farroupilha, no Rio Grande do Sul, onde a Grendene foi fundada em 1971, as unidades industriais estão concentradas principalmente no Ceará. Segundo a própria empresa, só o complexo na cidade de Sobral reúne seis fábricas de calçados, uma fábrica de PVC e um centro de distribuição. Ao todo, a Grendene informa ter 11 fábricas de calçados: 10 no Ceará, sendo seis em Sobral, duas em Fortaleza, duas no Crato e uma no Rio Grande do Sul, em Farroupilha. O irmão de Alexandre, Pedro Grendene Bartelle, com patrimônio estimado em US$ 1,3 bilhão, também realizou suas doações. Ele destinou R$ 200 mil a Fabiano Feltrin (PL), candidato a deputado estadual no Rio Grande do Sul, e outros R$ 500 mil a Ciro Gomes, totalizando R$ 700 mil em contribuições registradas. Com isso, Ciro Gomes recebeu R$ 1 milhão dos irmãos Grendene Bartelle nos registros apresentados. Herdeiro do Itaú doa para neto de Rubens Paiva Walter Moreira Salles Junior, com patrimônio estimado em US$ 5,1 bilhões, também aparece entre os doadores, com quatro transferências que somam R$ 300 mil até o momento. O cineasta brasileiro e herdeiro da fortuna do Itaú Unibanco destinou R$ 100 mil para João Francisco Paiva Avelino (PSB), candidato a deputado federal no Rio de Janeiro e neto do ex-deputado Rubens Paiva e de Eunice Paiva, que tiveram as histórias retratadas na obra “Ainda estou aqui” dirigida por Walter Salles. O candidato escolheu se lançar com o nome Chico Rubens Paiva nas urnas. O diretor também destinou R$ 100 mil para Manuela D'Ávila (PSOL), candidata ao Senado pelo Rio Grande do Sul, R$ 50 mil para Abidan Henrique da Silva (PSB), candidato a deputado estadual por São Paulo, e R$ 50 mil para Vilma Maria dos Santos Reis (PT), candidata a deputada estadual pela Bahia. Walter Moreira Salles Junior é cineasta e diretor brasileiro, nascido no Rio de Janeiro e filho do banqueiro e diplomata Walther Moreira Salles, fundador do grupo que deu origem ao Unibanco. Ele e os irmãos João Moreira Salles, Pedro Moreira Salles e Fernando Roberto Moreira Salles integram a família de grandes herdeiros da fortuna ligada ao Itaú Unibanco. Na lista da Forbes de 2026, Walter Júnior e João aparecem ambos com patrimônio estimado em US$ 5,1 bilhões. João Moreira Salles, também cineasta e herdeiro da fortuna do Itaú Unibanco, registrou uma contribuição eleitoral até o momento. Ele destinou R$ 50 mil a Abidan Henrique da Silva (PSB). *Estagiário sob supervisão de Diogo Max",
       "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/26/bilionarios-brasileiros-doam-r-4-milhoes-nas-eleicoes-2026-veja-quem-sao.ghtml",
@@ -8888,98 +8916,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Hotéis cariocas esperam ocupação acima de 80% com Rock in Rio",
-      "summary": "A menos de um mês do Rock in Rio, festival de música e entretenimento que começa em 4 de setembro, a hotelaria da capital fluminense vive expectativa de aumentos na ocupação e no valor de diária média. A taxa de ocupação hoteleira média no próximo mês deve ficar acima de 80%, com “picos” superiores a 90% nas duas semanas do festival, projetou a HotéisRio, sindicato dos meios de hospedagem do Rio. Essas taxas são equivalentes às registradas em temporadas de Ano Novo, disse Alfredo Lopes, presidente da HotéisRio. Bandeiras hoteleiras ouvidas pelo Valor também foram unânimes em apontar o festival como impulsionador de rentabilidade. “O Rock in Rio é fundamental para hotelaria na cidade, e ocorre justamente em mês que não é alta temporada”, completou Lopes. Normalmente em meses de setembro, sem o evento, a taxa de ocupação média mensal hoteleira gira entre 65% e 70%, explicou o executivo. “Mas quando tem o Rock in Rio [normalmente realizado em setembro], temos [taxas de] ocupações de 80% a 85%. E, na região próxima ao Parque Olímpico [zona oeste, onde é o festival], fica lotado”, afirmou. Alfredo Lopes, oresidente da Hotéis Rio, diz que festival eleva ritmo de ocupação hoteleira a resultado similar ao de período de ano novo Luciana Whitaker/Valor Outro aspecto lembrado por Lopes é que o evento impulsiona ocupação não somente próxima ao festival. Nos últimos anos, disse, a mobilidade montada para atender ao evento melhorou. Isso permite que o público se hospede em diferentes locais da cidade. E, como o perfil de renda de público do festival é variado, a influência positiva abrange tanto bandeiras de luxo, quanto econômicas. Um exemplo do cenário traçado por Lopes é o Fasano, com 89 quartos na zona sul. O hotel registra 100% de ocupação durante o período do festival, desde 2011, informou o grupo. A avaliação de Lopes também foi comprovada no ritmo de reservas das unidades administradas pelo grupo gaúcho ICH Administração de Hotéis. No Rio, a rede conta com hotel de luxo Yoo2, com 143 quartos na zona sul, e o Intercity Porto Maravilha, na região portuária, com 225 quartos, de categoria intermediária — “midscale” no jargão do mercado. Ambos, com categorias diferentes e fora da região onde é realizado o festival, têm expectativa de ocupação em alta para setembro, informou o diretor comercial e de marketing do grupo, Marcelo Marinho. “Devemos ter incremento nos dois [hotéis, na taxa de ocupação] na faixa dos 15 pontos percentuais”, disse. O Yoo deve ter taxa em torno 75%, disse Marinho. “Mas o ‘Porto Maravilha’ deve lotar [no período do festival].” O festival também eleva a diária média do hotel, disse Marcelo Gorin, do Grupo City & Sea, que administra os hotéis “midscale” Ipanema Inn e Arpoador, na zona sul, com 56 e 49 acomodações, respectivamente. “Vamos ter aumento médio de 20% na diária média de setembro [ante meses de setembro sem festival]”, disse. Um ponto vantajoso para os hotéis, disse Gorin, é que o público do Rock in Rio vem com disposição para consumir. Isso gera maior demanda por alimentos e bebidas da unidade, bem como em serviços de spa, como massagens. Também atenta à procura por reservas em datas do festival, a Rede Windsor Hoteis elaborou campanha promocional. A rede oferece 10% de desconto nas reservas realizadas até 13 de setembro nas 15 unidades no Rio. Vitor Almeida, gerente de Marketing da Rede Windsor Hoteis. Foto: Ariel Guevara/Divulgação. Foto: Ariel Guevara/Divulgação. “Assim como nas últimas edições, temos observado que a procura por hospedagem se intensifica nas semanas de realização dos shows”, disse Vitor Almeida, gerente de Marketing da Windsor. “Nossa expectativa para dias do festival é de repetir índices alcançados em 2024, quando chegamos a ocupação média de 80% na cidade.” Para Alexandra Bueno, gerente-geral do Grand Hyatt Rio de Janeiro, que tem 436 quartos na zona oeste da cidade, um evento da dimensão do Rock in Rio gera demanda positiva em relação a ocupação e diária médias, o que se reflete na rentabilidade da operação, incluindo a área de alimentos e bebidas. “Mais do que movimento pontual, enxergamos o Rock in Rio como importante indutor de negócios para o período”, disse. “E existe ainda ganho além da ocupação: o festival coloca a cidade no radar de pessoas que podem voltar, em outras ocasiões.” Omar Caffaro, vice-presidente de operações Accor Brasil para hotéis do Rio, concordou: “É um hóspede de lazer, que vai ficar no mínimo dois a três dias. Muitas vezes é a primeira vez desse turista no Rio e ele volta [aos hotéis da Accor]”, afirmou, e acrescentou que a empresa é marca apoiadora do evento. “Nós somos a rede oficial de hospedagem do Rock in Rio.” A Accor possui 22 hotéis nas divisões luxo (“premium”), intermediária (“midscale”) e econômica (“economy”) na cidade. Caffaro disse que, no caso das unidades ibis e Novotel Rio de Janeiro Parque Olímpico, com respectivos 256 quartos e 149 quartos, próximas à “Cidade do Rock”, não descarta lotação esgotada nas semanas do evento. O vice-presidente lembrou que o “Rock in Rio” atrai público variado em termos de renda e de idade, desde jovens, que preferem hotéis econômicos, até famílias e idosos, que optam por hotéis com mais estrutura ou categorias superiores.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/20/hoteis-cariocas-esperam-ocupacao-acima-de-80percent-com-rock-in-rio.ghtml",
-      "published": "2026-08-20T11:00:29+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "hotelaria"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "hotelaria",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "MP Eleitoral pede ao TRE que negue registro de candidatura de Arruda ao governo do DF",
-      "summary": "O Ministério Púiblico Eleitoral pediu ao Tribunal Regional Eleitoral (TRE-DF) que negue o registro da candidatura de José Roberto Arruda (PSD) ao governo do Distrito Federal. Para a Procuradoria, Arruda continua inelegível por condenações por improbidade administrativa, algumas delas relacionadas a casos revelados pela Operação Caixa de Pandora, e permanece impedido de disputar eleições até 11 de dezembro de 2030. O ex-governador, por outro lado, diz que a punição já terminou e acusa adversários de tentarem tirá-lo da disputa “no tapetão”. O pedido foi feito no processo de registro da candidatura de Arruda pela coligação Resgatar Brasília, formada por PSD e Avante. Na manifestação, a Procuradoria afirma que o Tribunal de Justiça do Distrito Federal e dos Territórios (TJDFT) já confirmou sentenças contra o ex-governador por improbidade, envolvendo dano aos cofres públicos e enriquecimento ilícito. O órgão pede que o TRE rejeite a candidatura ou, caso Arruda seja eleito e diplomado antes de uma decisão definitiva, determine posteriormente o cancelamento do diploma. Para chegar a 2030, o Ministério Público toma como ponto de partida uma condenação por improbidade relacionada a fatos ocorridos durante o governo Arruda. O processo envolveu pagamentos feitos pelo governo do DF a uma empresa por serviços prestados entre 2007 e 2009, sem cobertura contratual. Segundo a decisão reproduzida na manifestação, parte desses recursos foi desviada para o pagamento de propina. A Justiça afirmou que foi montado um esquema em que os valores pagos por meio de reconhecimento de dívida eram superfaturados para viabilizar os repasses ilegais. Arruda foi condenado a reparar, de forma solidária com outros réus, R$ 11,8 milhões em prejuízos aos cofres públicos, além de multa e suspensão dos direitos políticos por oito anos. Ao confirmar a condenação, o TJDFT afirmou que os elementos reunidos demonstravam um “esquema de desvio de recursos públicos do Distrito Federal”, com preços superfaturados para viabilizar o pagamento de propina. Essa condenação foi confirmada por um colegiado do TJDFT em 11 de dezembro de 2018. Depois dela, outras decisões contra Arruda foram mantidas pela Justiça, incluindo condenações confirmadas em 2022, 2024 e neste ano. É essa sequência que, segundo a Procuradoria, sustenta a inelegibilidade do ex-governador. Das sete sentenças condenatórias citadas na manifestação, seis são consideradas pelo Ministério Público para a eleição deste ano por terem sido confirmadas por órgão colegiado há menos de oito anos do pleito. Na manifestação, o órgão resume sua conclusão: \"A parte impugnada encontra-se inelegível desde 11/12/2018\", afirma o Ministério Público, que acrescenta que a restrição se estende por 12 anos, “ou seja, até 11/12/2030”. O documento também recupera episódios da Caixa de Pandora que deram origem a condenações de Arruda. A operação revelou um esquema de corrupção no governo do Distrito Federal que envolvia empresas contratadas pelo poder público, pagamentos de propina e distribuição de dinheiro a agentes públicos e políticos. Em um dos processos citados pelo Ministério Público, a Justiça analisou o pagamento de vantagens indevidas por uma empresa a integrantes do governo. Segundo a acusação reproduzida na manifestação, a propina correspondia a percentuais dos pagamentos recebidos pela empresa por serviços prestados ao governo do DF e era entregue por um intermediário que se tornou delator. Ao manter a condenação neste ano, o TJDFT afirmou que ficou comprovado um “esquema sistemático de corrupção, com pagamento de propinas a agentes públicos a partir de contratos administrativos irregulares e uso indevido de reconhecimento de dívida”. Nesse caso, a Justiça apontou Arruda entre os responsáveis pelo desvio e determinou o ressarcimento de R$ 257 mil aos cofres públicos. A sentença também estabeleceu suspensão dos direitos políticos por 12 anos e multa no mesmo valor do prejuízo. A decisão foi mantida por unanimidade pela 6ª Turma Cível do TJDFT em junho deste ano. A discussão sobre a duração da inelegibilidade ganhou um novo capítulo com uma mudança feita na Lei de Inelegibilidades em 2025. A nova regra estabeleceu limites para a soma dos períodos de inelegibilidade quando uma pessoa acumula condenações por improbidade. No caso de Arruda, o Ministério Público considera que as diferentes condenações não tratam de fatos juridicamente conexos e, por isso, sustenta que o período de impedimento chega a 12 anos, contados desde dezembro de 2018. A Procuradoria ressalva, porém, que não é possível aproveitar nessa conta uma punição que já havia acabado quando a lei mudou. Por isso, uma condenação mais antiga de Arruda, confirmada em 2014, ficou de fora. Segundo o Ministério Público, os efeitos eleitorais desse caso terminaram em julho de 2022 e não podem ser retomados agora. Arruda e sua defesa contestam essa interpretação. A tese apresentada é que a própria manifestação do Ministério Público reconhece a validade da mudança feita na legislação em 2025 e o limite máximo de 12 anos para a inelegibilidade, mas usa o marco inicial errado para fazer a contagem. Para a defesa, o prazo deve começar na primeira condenação confirmada por um colegiado, em julho de 2014, e, portanto, teria terminado em junho deste ano. Em nota, os advogados também sustentam que as ações tratam de fatos conexos, ponto que é rejeitado pela Procuradoria. — Isso faz parte do jogo, de certa forma já era esperado, mas a própria manifestação do Ministério Público diz que o parágrafo 8º do artigo 1º da Lei 219/25 vale, é constitucional. Segundo essa legislação, os 8 anos de inelegibilidade começam a contar na decisão de segundo grau, que, no meu caso, foi em junho de 2014. Com mais de uma decisão, são 12 anos a partir da primeira, portanto venceu em junho de 2026 — afirmou Arruda. O ex-governador disse ainda estar confiante de que o TRE-DF aceitará sua candidatura e criticou a tentativa de barrá-lo na Justiça Eleitoral. — O registro da minha candidatura está em acordo com a lei e quem tem a lei do lado não pode ter medo de voto. Agora, essa mania de querer me tirar do tapetão significa claramente que têm medo de voto. Eu prefiro ser julgado pelo voto da população. Não tenho nenhuma dúvida que a minha candidatura receberá o registro de acordo com a lei e vamos disputar a eleição e fazer com que a população possa escolher quem vai governar Brasília nos próximos quatro anos. Arruda terá sete dias para apresentar sua defesa no processo. Depois, caberá ao TRE-DF decidir se aceita ou não o pedido do Ministério Público. Ao final da manifestação, a Procuradoria pede que a ação seja julgada procedente para “indeferir o pedido de registro de candidatura” ou, eventualmente, cancelar o diploma que venha a ser concedido a Arruda.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/20/mp-eleitoral-pede-ao-tre-que-negue-registro-de-candidatura-de-arruda-ao-governo-do-df.ghtml",
-      "published": "2026-08-20T11:51:10+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "pandora"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "pandora",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Quem é Sophia Barclay, candidata do PL que critica programas sociais, mas recebe benefícios",
-      "summary": "Conhecida por usar seus perfis nas redes sociais para criticar programas de assistência do governo federal, como o Bolsa Família e o Gás do Povo, a candidata a deputada federal por São Paulo Sophia Barclay (PL) passou a ser alvo de críticas na internet após dados do Portal da Transparência mostrarem que ela própria é beneficiária das duas iniciativas. Sophia recebe pagamentos do Bolsa Família desde 2018 e consta na lista de beneficiários do Gás do Povo desde março deste ano. Direita, centro ou esquerda? Descubra o seu perfil idiológico Com qual candidato a presidente você mais se identifica? Faça o teste do GLOBO e descubra A candidata, que se define como “trans de direita”, é original do Rio de Janeiro, influenciadora digital e também tenta seguir carreira na música, com faixas publicadas no YouTube. Em dezembro de 2025, filiou-se ao Novo para lançar uma pré-candidatura a deputada federal por São Paulo, mas deixou a legenda em fevereiro deste ano para apoiar Flávio Bolsonaro na disputa pela Presidência. Segundo Sophia, dirigentes do Novo informaram que ela não poderia continuar apoiando Flávio, uma vez que a legenda havia lançado o governador de Minas Gerais, Romeu Zema, ao Planalto. A influenciadora afirmou que sua lealdade a Jair Bolsonaro e ao candidato apoiado pelo ex-presidente era “inegociável”. Após se desligar do Novo, Sophia filiou-se ao PL. Ao anunciar a mudança, publicou uma foto ao lado do presidente nacional do partido, Valdemar Costa Neto, e confirmou que disputaria uma vaga na Câmara dos Deputados por São Paulo. Lobista amiga de Lulinha postou foto em mansão usada para reuniões no dia de operação da PF sobre fraudes no INSS Apesar de atualmente apoiar Flávio, Sophia já protagonizou uma polêmica envolvendo o filho mais velho de Jair Bolsonaro. Em 2023, durante a participação em um podcast, ela afirmou que o então senador teria mantido uma relação com uma amiga sua, uma mulher trans. Barclay disse ainda que o suposto encontro teria ocorrido em uma festa promovida pelo jogador Neymar. Na ocasião, Flávio denunciou o caso à Secretaria de Polícia do Senado Federal. No documento, negou as acusações e afirmou que a influenciadora havia feito declarações “mentirosas e criminosas”. Também disse não ter participado de uma festa promovida pelo jogador, que, na época, defendia o Al-Hilal. Neymar também entrou com um Pedido de Explicações contra Sophia, na época, após ela afirmar, na mesma entrevista, que o jogador teria mantido relações sexuais com o surfista Pedro Scooby. No ano seguinte, Sophia publicou uma retratação nas redes sociais. Ela afirmou nunca ter tido contato com Flávio e disse estar arrependida das declarações, diante da “infelicidade e inveracidade do conteúdo”. A “nota de retratação pública”, assinada por ela e por dois advogados, foi publicada tanto no feed quanto nos stories. Barclay também divulgou um vídeo no qual leu o mesmo texto. A trajetória da candidata nas redes sociais também é marcada por outros episódios de repercussão. Em entrevista ao portal Universa, em 2020, Barclay afirmou ter sofrido agressões e vivido na rua durante uma semana na adolescência, após ser expulsa de casa aos 15 anos, quando se assumiu como LGBT+. Procurada pelo portal na ocasião, a mãe de Sophia negou os relatos da influenciadora, incluindo as alegações de que teria sido vítima de abuso sexual cometido por um amigo da família e agredida pelo pai. Investigado: PGR pede a Mendonça que inquéritos sobre Lulinha saiam do STF e fiquem com a primeira instância Em setembro de 2022, Sophia voltou a aparecer em páginas de celebridades após publicar uma “mensagem de despedida” nas redes sociais. No texto, pediu desculpas aos fãs e afirmou “não conseguir suportar as frustrações” provocadas por não se encaixar na sociedade. No ano seguinte, o perfil oficial da influenciadora anunciou sua morte no X, então chamado de Twitter. Uma reportagem do portal POP Mais informou ter procurado a equipe de Sophia, que, em um primeiro momento, confirmou a informação. Pouco depois, a influenciadora afirmou nas redes sociais que estava viva e que sua conta havia sido invadida. Initial plugin text",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/20/quem-e-sophia-barclay-candidata-do-pl-que-critica-programas-sociais-mas-recebe-beneficios.ghtml",
-      "published": "2026-08-20T13:00:27+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Associação de cartões convoca assembleia e novo estatuto deve afastar paytechs da entidade",
-      "summary": "A Abecs (Associação Brasileira das Empresas de Cartões de Crédito e Serviços) convocou assembleia geral extraordinária para esta quinta-feira (20). Na pauta, está a reforma completa do estatuto social da entidade que representa as empresas do setor de cartões e pagamentos digitais. O plano é substituir o conselho administrativo por um comitê executivo, em mudanças que, na prática, afastam da organização as paytechs como Stone , PagBank e Mercado Pago , entre outras. Leia mais (08/20/2026 - 12h10)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/08/associacao-de-cartoes-convoca-assembleia-e-novo-estatuto-deve-afastar-paytechs-da-entidade.shtml",
-      "published": "2026-08-20T15:10:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Vila Figo aposta em hotelaria de luxo em Trancoso e mira faturamento de R$ 8 milhões em 2026",
@@ -10356,6 +10292,75 @@
         {
           "sector": "Viagens",
           "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "O que tem mais chance de ser aprovado no esforço concentrado do Congresso",
+      "summary": "A próxima semana será de esforço concentrado no Congresso. Na lista de prioridades, é razoável supor que a MP que retira a chamada “taxa das blusinhas” seja aprovada. É bom lembrar que foi o próprio governo que criou a taxa e agora trabalha para retirá-la. Se a MP não for votada até o dia 8 de setembro, caduca, e a tarifa volta a valer. A medida é popular, pois zera a taxação das compras de até US$ 50, mas há divisão dentro do próprio governo: parte da equipe avalia que retirar a taxa pode piorar a situação do varejo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/08/o-que-tem-mais-chance-de-ser-aprovado-no-esforco-concentrado-do-congresso.ghtml",
+      "published": "2026-08-27T12:27:21+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Varejo recorre a hábitos de compra para conceder crédito",
+      "summary": "Com o recorde de 83,5 milhões de brasileiros em situação de inadimplência em 2026, de acordo com um levantamento do Serasa, o poder de compra das famílias sofreu uma expressiva retração. No varejo alimentar, o estudo de Peic ainda revela que 70% dos brasileiros que vão ao supermercado não conseguem exercer plenamente sua necessidade ou desejo de compra. O cenário impõe ao setor o desafio de expandir a oferta de crédito com segurança para consumidores informais ou com múltiplas fontes de renda. Diante das limitações das análises tradicionais restritas ao histórico financeiro do CPF, empresas de tecnologia financeira vêm desenvolvendo modelos alternativos baseados nos dados operacionais das próprias redes. Nessa linha, a Rock Encantech, empresa referência em conhecimento do consumidor e soluções de relacionamento para o varejo e a indústria, estruturou o \"Score de Consumo\", solução que analisa a frequência de compras, a composição da cesta e o histórico de relacionamento do cliente com o estabelecimento para complementar as ferramentas convencionais de crédito. \"Enquanto o modelo convencional parte de dados financeiros externos para avaliar um CPF, a solução da Rock Encantech parte de dentro para fora. Na prática, nós analisamos primeiro o que o cliente consome, como ele paga, qual é o seu momento de vida e, a partir disso, ajudamos a definir a real necessidade e capacidade de crédito daquele consumidor\", explica Elinton Bobrik, co-fundador da Rock Encantech. Do carrinho ao score: como funciona o modelo Segundo a Rock Encantech, o Score de Consumo é organizado em três etapas. Na primeira, a partir da identificação do cliente nos canais do varejista, são analisados dados relacionados ao histórico de compras. A ferramenta considera informações que podem indicar características como composição familiar, momento de vida e hábitos de consumo. Na segunda fase, esses dados são utilizados para a definição do limite de crédito. O objetivo é estabelecer uma relação entre o perfil de consumo identificado e o valor disponibilizado ao cliente. Já a terceira frente diz respeito ao relacionamento do consumidor com o varejista. A solução contempla diferentes níveis de interação a partir da base de clientes, do aplicativo e do cartão, com benefícios vinculados a cada etapa da jornada. Para o varejista, a utilização desses dados também está relacionada à estratégia comercial. A Rock Encantech considera que o crédito pode ser integrado a mecanismos de fidelização e aos canais digitais utilizados pelos consumidores. \"Todos esses produtos representam uma nova fonte de receita com margens atrativas, aumento da fidelização dos shoppers, fortalecimento do aplicativo e equiparação competitiva com as grandes plataformas digitais. Já os consumidores passam a ter acesso a crédito adequado e justo, além de contar com um limite adequado às suas necessidades de compra\", afirma Bobrik. Sobre a Rock Encantech A Rock Encantech é um ecossistema de soluções que conecta dados, tecnologia e relacionamento para transformar o conhecimento do cliente em valor real para negócios e consumidores. Com mais de 130 milhões de consumidores cadastrados em sua base, atua em toda a América Latina com estratégias de engajamento B2B2C que combinam inteligência artificial, ciência do consumo e automação para personalizar jornadas e maximizar resultados. Guiada pelo conceito de Return on Customer Knowledge (Retorno Sobre o Conhecimento do Cliente), a empresa acredita que entender profundamente o consumidor é o primeiro passo para gerar conexões. Ao entregar soluções completas em dados, mídia, fidelização e insights acionáveis, ajuda empresas a entenderem, engajarem e encantarem seus públicos com mais precisão e impacto.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/08/27/varejo-recorre-a-habitos-de-compra-para-conceder-credito-1.ghtml",
+      "published": "2026-08-27T12:54:45+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "JOTA Principal | Alcolumbre dá vitórias a Lula, mas guarda cartas na manga para jogadas seguintes",
+      "summary": "Maior urgência do governo, a MP da taxa das blusinhas será votada na semana que vem",
+      "url": "https://www.jota.info/newsletters/jota-principal/alcolumbre-vitorias-lula",
+      "published": "2026-08-27T13:10:04+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
           "field": "lead",
           "score": 8,
           "topic": null
