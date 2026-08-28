@@ -1,8 +1,63 @@
 {
-  "generated_at": "2026-08-28T09:41:02.293738+00:00",
-  "count": 393,
-  "new_this_run": 54,
+  "generated_at": "2026-08-28T16:58:45.318089+00:00",
+  "count": 414,
+  "new_this_run": 62,
   "articles": [
+    {
+      "title": "Dono da Centauro, Grupo SBF (SBFG3) Renova Contrato com Nike até 2034",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. A renovação mantém a Fisia como distribuidora exclusiva da marca no país e amplia de cinco para sete anos a previsibilidade da operação O post Dono da Centauro, Grupo SBF (SBFG3) Renova Contrato com Nike até 2034 apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/08/grupo-sbf-renova-contrato-nike-2034-brasil",
+      "published": "2026-08-28T13:38:36+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "centauro",
+        "fisia",
+        "grupo sbf",
+        "nike",
+        "sbf"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "fisia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "centauro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 88.0
+    },
     {
       "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo - Exame",
       "summary": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo &nbsp;&nbsp; Exame",
@@ -115,6 +170,69 @@
       "score": 78.0
     },
     {
+      "title": "Regulador dos EUA aprova Mounjaro, da Eli Lilly, para reduzir risco cardiovascular",
+      "summary": "A Eli Lilly informou, nesta sexta-feira (28,) que a Agência de Alimentos e Medicamentos dos Estados Unidos (FDA) aprovou seu medicamento para diabetes, Mounjaro, para reduzir o risco de ataque cardíaco ou derrame em adultos com diabetes tipo 2 que apresentam alto risco de eventos cardiovasculares. O Mounjaro é o medicamento para diabetes da empresa que atua sobre a proteína GLP-1 e também é usado para perda de peso. Nos EUA, a versão para obesidade é comercializada sob a marca Zepbound. A aprovação se baseou nos resultados de um estudo que demonstrou que o Mounjaro superou o Trulicity, medicamento mais antigo da Lilly para diabetes, na redução do risco de ataque cardíaco e derrame em um grande estudo comparativo direto. O estudo demonstrou que o Mounjaro reduziu o risco de eventos cardíacos adversos graves em 8% a mais do que o Trulicity. As vendas do Mounjaro aumentaram 91%, para US$ 9,94 bilhões, durante o segundo trimestre, à medida que a forte demanda impulsionou os volumes de vendas nos mercados globais. A rival dinamarquesa Novo Nordisk obteve a aprovação da FDA para seu medicamento para perda de peso, o Wegovy, na redução de riscos cardíacos em 2024 em adultos com sobrepeso ou obesidade sem diabetes. Em 2025, a FDA também aprovou seu medicamento mais antigo para diabetes, o Rybelsus, para reduzir o risco de eventos cardíacos graves em pacientes diabéticos. Tanto a Lilly quanto a Novo buscam ampliar o alcance de seus medicamentos à base de GLP-1, testando-os em condições que vão desde doenças cardiovasculares até distúrbios hepáticos.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/28/regulador-dos-eua-aprova-mounjaro-da-eli-lilly-para-reduzir-risco-cardiovascular.ghtml",
+      "published": "2026-08-28T15:42:23+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly",
+        "glp-1",
+        "medicamento",
+        "mounjaro",
+        "zepbound"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "zepbound",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 72.0
+    },
+    {
       "title": "Anvisa Aprova Segundo Genérico de Semaglutida em Caneta Injetável",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Medicamento para diabetes requer receita e acompanhamento médico O post Anvisa Aprova Segundo Genérico de Semaglutida em Caneta Injetável apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-saude/2026/08/anvisa-aprova-segundo-generico-de-semaglutida-em-caneta-injetavel",
@@ -156,6 +274,100 @@
           "alias": "semaglutida",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "Grupo SBF estende acordo para continuar distribuindo produtos da Nike no Brasil até 2034",
+      "summary": "O Grupo SBF anunciou nesta sexta-feira (28) que estendeu o acordo para a sua subsidiária Fisia continuar distribuindo produtos da Nike no Brasil até o fim de maio de 2034. O aditamento ao contrato original assinado em 2020 também estabeleceu um mecanismo de renovação contínua, onde as companhias se reunirão anualmente para negociar a prorrogação do contrato por períodos adicionais de um ano. A dinâmica permite ao grupo trabalhar com uma previsibilidade contratual constante de aproximadamente sete anos, em comparação ao horizonte de cerca de cinco anos mantido no modelo anterior. A dona das lojas Centauro destacou que o novo acordo representa um marco para o fortalecimento da parceria comercial, proporcionando maior segurança operacional, estabilidade de longo prazo e alinhamento estratégico para seus negócios. A Fisia atua como distribuidora exclusiva no território brasileiro para calçados, vestuário, acessórios e equipamentos da Nike, além de operar as lojas físicas e o canal de comércio eletrônico da marca no país. Rebecca Maria/Agência O Globo",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/28/grupo-sbf-estende-acordo-para-continuar-distribuindo-produtos-da-nike-no-brasil-at-2034.ghtml",
+      "published": "2026-08-28T11:59:02+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "fisia",
+        "grupo sbf",
+        "nike",
+        "sbf"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "fisia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "“Let’s do it”: Grupo SBF estende acordo com a Nike até 2034",
+      "summary": "Após o desempenho registrado na Copa do Mundo de 2026 e diante do impacto positivo observado nos últimos cinco anos, o Grupo SBF decidiu estender o acordo que mantém com a Nike. O controlador da Centauro anunciou, na sexta-feira, 28 de agosto, a celebração de um aditamento ao contrato de distribuição firmado com a Nike, [&#8230;] O post &#8220;Let&#8217;s do it&#8221;: Grupo SBF estende acordo com a Nike até 2034 apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/lets-do-it-grupo-sbf-estende-acordo-com-a-nike-ate-2034",
+      "published": "2026-08-28T13:15:58+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "centauro",
+        "grupo sbf",
+        "nike",
+        "sbf"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "centauro",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -217,43 +429,59 @@
       "score": 64.0
     },
     {
-      "title": "Eurofarma reduz preço de caneta de semaglutida Poviztra em até 39% nas doses de 1,7 mg e 2,4 mg - Folha de S.Paulo",
-      "summary": "Eurofarma reduz preço de caneta de semaglutida Poviztra em até 39% nas doses de 1,7 mg e 2,4 mg &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/eurofarma-reduz-preco-de-caneta-de-semaglutida-poviztra-em-ate-39-nas-doses-de-17-mg-e-24-mg.shtml",
-      "published": "2026-08-21T13:38:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "title": "Dono da Centauro prorroga acordo para distribuir produtos da Nike no Brasil até 2034",
+      "summary": "O Grupo SBF, dono da rede de lojas de artigos esportivos Centauro, informou nesta sexta-feira (28) que o contrato de distribuição com a Nike foi estendido até 31 de maio de 2034. Leia mais (08/28/2026 - 12h31)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/dono-da-centauro-prorroga-acordo-para-distribuir-produtos-da-nike-no-brasil-ate-2034.shtml",
+      "published": "2026-08-28T15:31:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
-        "Farmácias"
+        "Wellness e Esportes"
       ],
       "matched_aliases": [
-        "caneta",
-        "eurofarma",
-        "semaglutida"
+        "artigos esportivos",
+        "centauro",
+        "grupo sbf",
+        "nike",
+        "sbf"
       ],
       "matches": [
         {
-          "sector": "Farmácias",
-          "alias": "caneta",
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "artigos esportivos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "lead",
+          "score": 8,
           "topic": null
         },
         {
-          "sector": "Farmácias",
-          "alias": "eurofarma",
+          "sector": "Wellness e Esportes",
+          "alias": "centauro",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 60.0
+      "score": 64.0
     },
     {
       "title": "'Bafo de Ozempic': canetas emagrecedoras podem causar mau hálito? - Exame",
@@ -842,17 +1070,19 @@
       "score": 44.0
     },
     {
-      "title": "O que explica a previsão dos bancos de piora da inadimplência após o Desenrola",
-      "summary": "Os bancos estão prevendo que a inadimplência continuará piorando no terceiro trimestre, apesar da realização do Desenrola. O programa do governo federal focou nos públicos mais fragilizados, pessoas de renda mais baixa, com dívidas mais caras, como cheque especial e rotativo do cartão de crédito, que estrangulam a vida financeira de qualquer um. O que o Desenrola propôs foi que esse grupo conseguisse renegociar seus débitos com desconto e trocar dívidas caras por um crédito mais barato. Alguns aproveitaram a oportunidade e quitaram suas dívidas, mas há quem continue endividado, sem estar inadimplente. Para esse grupo, foi implementado recentemente um novo programa, também com o objetivo de trocar dívidas caras por outras mais baratas e mais pagáveis. De qualquer maneira, o ambiente econômico permanece o mesmo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/08/o-que-explica-a-previsao-dos-bancos-de-piora-da-inadimplencia-apos-o-desenrola.ghtml",
-      "published": "2026-08-21T11:30:54+00:00",
+      "title": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central",
+      "summary": "A inadimplência das famílias registrou recorde em julho, segundo dados do Banco Central divulgados nesta sexta-feira. Subiu de 5,4% em junho para 5,8%, o maior patamar desde março de 2011. O aumento ocorre mesmo sob o funcionamento do Desenrola 2.0, lançado no quinto mês do ano pelo governo federal para propiciar a renegociação de dívidas das famílias com juros mais baratos No crédito livre, modalidades em que os juros são pactuados livremente entre o banco e o tomador do empréstimo, o número é ainda maior, passou de 7,4% para 7,8% – também a maior taxa da série histórica. Da mesma forma, a inadimplência pessoa física foi recorde no crédito direcionado, com alta de 3% para 3,4%. O comportamento das famílias influenciou a inadimplência geral, que também alcançou o maior nível da série histórica em julho, de 4,9%, contra 4,6% em julho. No crédito livre, foi a 6,4%, de 6,0% em junho, e no direcionado, a 2,9% ante 2,7%. No caso das empresas, a inadimplência também subiu no crédito livre, de 4,0% para 4,2%, e no direcionado, de 2,0% para 2,1%. No geral, aumentou de 3,2% para 3,3%. Nenhum dos percentuais para pessoas jurídicas foi recorde, no entanto. Em outra frente, o comprometimento das famílias com o pagamento de dívidas continuou subindo em junho e alcançou um novo recorde da série histórica iniciada em março de 2011. O indicador que mede o percentual do orçamento mensal que é usado para pagar as parcelas das dívidas subiu de 28,5% em maio para 28,9% em junho. Sem considerar o financiamento imobiliário, o comprometimento de renda cresceu de 26,2% para 26,6%. Já o endividamento das famílias, que mede qual é o percentual total de dívidas em relação à renda geral, cedeu marginalmente em junho, de 49,9% para 49,8%, mantendo-se, porém, em patamares elevados considerando a média histórica. Sem o crédito habitacional, o percentual caiu de 31,1% para 30,8%. Os indicadores de endividamento e comprometimento de renda têm defasagem de dois meses em relação ao período da divulgação. Esses números aumentam a preocupação com o mercado de crédito do país, na mira dos bancos, de especialistas e das autoridades. No campo empresarial, tem se acumulado notícias sobre recuperações judiciais e extrajudiciais. Além dos programas de renegociação de dívidas já lançados pelo governo, o Banco Central também anunciou que prepara medidas para mitigar o risco de crédito, sobretudo considerando a composição de modalidades onerosas na dívida das famílias diante do comprometimento de renda recorde. Diante da queda gradual da taxa Selic, que baliza as demais taxas de mercado, e em meio ao Desenrola, o juro médio no crédito total caiu de 33,3% ao ano em junho para 32,1% ao ano em julho. No crédito livre, a redução foi de 49,7% para 47,7% ao ano, enquanto no direcionado houve recuo marginal de 12,2% para 12,1%. No crédito livre para famílias, a queda foi de 63,9% para 60,0%, mas, para as empresas, houve alta de 24,3% para 25,4%. Por modalidades, no crédito livre a pessoas físicas, a taxa média do rotativo do cartão de crédito também caiu, mas continuou acima de 400% ao ano, foi de 442,4% em junho para 436,2% em julho (cerca de 15% ao mês para 14,9% ao mês). No parcelado do cartão, a redução foi de 191,4% ao ano para 189,3% ao ano. Já no cheque especial, a queda foi de 139,9% para 137,3%. O recuo do juro médio no crédito pessoal sem garantia foi de 149,5% para 130,1%. Essas modalidades são alvo do Desenrola para famílias. A concessão de crédito total em julho caiu 1,6% ante junho, para R$ 736,8 bilhões. No crédito livre, a queda foi de 1,9%, para R$ 656,1 bilhões. Nesse segmento, houve aumento de 6,1% para os desembolsos para famílias, alcançando R$ 359,3 bilhões, e queda de 10% para as empresas, atingindo R$ 296,9 bilhões. No crédito direcionado, as concessões totais subiram 1,0% em julho, para R$ 80,7 bilhões, com redução de 0,2% para famílias (R$ 47,1 bilhões) e aumento de 2,4% para empresas (R$ 33,5 bilhões).",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/comprometimento-de-renda-das-familias-com-dividas-sobe-a-298percent-em-junho-e-bate-recorde-diz-banco-central.ghtml",
+      "published": "2026-08-28T12:06:00+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
         "desenrola",
-        "inadimplência"
+        "dívidas das famílias",
+        "inadimplência",
+        "renegociação de dívidas"
       ],
       "matches": [
         {
@@ -864,106 +1094,27 @@
         },
         {
           "sector": "Economia",
+          "alias": "dívidas das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
           "alias": "desenrola",
-          "field": "title",
-          "score": 20,
+          "field": "lead",
+          "score": 8,
           "topic": "desenrola"
         }
       ],
-      "score": 40.0
-    },
-    {
-      "title": "'Não estou demonizando canetas emagrecedoras e não estou romantizando a obesidade', diz Leandra Leal após polêmica - Terra",
-      "summary": "'Não estou demonizando canetas emagrecedoras e não estou romantizando a obesidade', diz Leandra Leal após polêmica &nbsp;&nbsp; Terra",
-      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxNQ3BNZG5zTHN2bnNxOWFkcmI5VVV0bjJOcHpPQlFidGRadTFYdllaNzJoMjFKNmNIWjYydEFBenRYV1hlNlZOdFFsamMyTVZXdUdyVGtpSFVfQVRjYk8wYmZldTh0REN6NTB0VV9wSHhCenl4TDB5MmU1QjZ5UHdNY21yVDhpZWdsSnhCd21fQ29JeXZEZUliUG5NRVNmeXk4bXB3dUIzN1BndHIwczdJSWF1Q2t0TUhkNDBnY0JmUkhVa1NJUWt1YkZ5WUlRLVZqSE5yUTk4dEdJVGNxMlZsTzFmbndFUENIdmN1YjNKVTc2cF9WSV85YzZMMUVLc3Y0bTUtbjB1bG1QRXdiWnUxNnZjWlMzQUV6MkNSTVd4ZkNaa3V3eTh4NXpB?oc=5",
-      "published": "2026-08-21T12:43:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Canetas emagrecedoras: como elas ajudam na perda de peso - Terra",
-      "summary": "Canetas emagrecedoras: como elas ajudam na perda de peso &nbsp;&nbsp; Terra",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNSVViTHVpdGRzaV92NE5KNzhUdnpFaEZNSl8yTVlzalY3dGFrenJicGtsOW1jcDZrU29QMUtrSzhlNy00RXRodEx4cDJRUjM2YmE0cU5YMXM1TTFPS1JEU3h5OHl3Yjg4alpCN1FnalJGSTdiSHZTRXdRUExQNW8xYTVUNlFrTG5Pdl8wVTBLSFdxbHRvcUU4bmJmSl80M1FIczBkMEI5WVY1RVlpeDFVY184X1B2OFNZX1Rkc3ViN056blM2ZHVpQXRKWWlnYlZpTW1YNHRmaw?oc=5",
-      "published": "2026-08-21T14:29:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Owozy: como funciona e quando chegará ao mercado a nova caneta de semaglutida brasileira - VEJA",
-      "summary": "Owozy: como funciona e quando chegará ao mercado a nova caneta de semaglutida brasileira &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/saude/owozy-como-funciona-e-quando-chegara-ao-mercado-a-nova-caneta-de-semaglutida-brasileira",
-      "published": "2026-08-21T16:00:40+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
+      "score": 44.0
     },
     {
       "title": "Grupo SBF prepara nova plataforma de corrida com lojas, conteúdo e streaming",
@@ -2205,6 +2356,131 @@
       "score": 40.0
     },
     {
+      "title": "Dona da Keeta volta ao lucro no 2º trimestre após guerra de preços na China",
+      "summary": "A Meituan voltou ao lucro no segundo trimestre, à medida que a principal empresa de entrega de comida da China se recupera de uma violenta guerra de preços no segundo maior mercado consumidor do mundo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/28/dona-da-keeta-volta-ao-lucro-no-2o-trimestre-apos-guerra-de-precos-na-china.ghtml",
+      "published": "2026-08-28T11:46:33+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "keeta"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Grupo SBF estende contrato com a Nike, reduzindo seu maior risco - Brazil Journal",
+      "summary": "Grupo SBF estende contrato com a Nike, reduzindo seu maior risco &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/grupo-sbf-estende-contrato-com-a-nike-reduzindo-seu-maior-risco",
+      "published": "2026-08-28T14:36:41+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "grupo sbf",
+        "sbf"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "iFood rebate governo e afirma que entregadores não recebem menos do que o salário mínimo",
+      "summary": "O iFood afirma que nenhum entregador ligado à plataforma recebe valor menor do que o salário mínimo nacional por hora, hoje em R$ 1.621. A afirmação está em documento enviado à Secretaria-Geral da Presidência da República, que responde a questionamento do ministro Guilherme Boulos . Leia mais (08/28/2026 - 12h55)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/ifood-rebate-governo-e-afirma-que-entregadores-nao-recebem-menos-do-que-o-salario-minimo.shtml",
+      "published": "2026-08-28T15:55:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "ifood",
+        "salário mínimo"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "salário mínimo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Mesmo com Desenrola, endividamento e inadimplência crescem e renovam recorde",
+      "summary": "Em junho, quase um terço da renda das famílias estava tomado pelo pagamento de parcelas e juros de dívidas, a maior proporção desde 2005, de acordo com o BC",
+      "url": "https://veja.abril.com.br/economia/mesmo-com-desenrola-endividamento-e-inadimplencia-crescem-e-renovam-recorde",
+      "published": "2026-08-28T16:31:06+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola",
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "title",
+          "score": 20,
+          "topic": "desenrola"
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Eudora entra no Beautybox e amplia base de clientes ativa para 25 milhões",
       "summary": "Eudora, marca do Grupo Boticário, começa a ser distribuída no Beautybox, programa de fidelidade que já reúne as marcas O Boticário e Quem Disse, Berenice?. Leia mais (08/21/2026 - 18h00)",
       "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/08/eudora-entra-no-beautybox-e-amplia-base-de-clientes-ativa-para-25-milhoes.shtml",
@@ -2520,6 +2796,84 @@
       "score": 36.0
     },
     {
+      "title": "Agenda de empresas: GPA rebate MP sobre recuperação extrajudicial; Multiplan capta R$ 300 milhões",
+      "summary": "GPA O GPA, varejista controlador de redes como Pão de Açúcar e Extra Mercado, peticionou a sua defesa ao posicionamento do Ministério Público de São Paulo (MPSP) contrário à homologação do plano de recuperação extrajudicial da empresa. No processo, a empresa questiona o argumento do Ministério Público de que o grupo de credores criado para a negociação do plano exige uma “identidade econômica e jurídica”, e afirma que isso não encontra amparo na lei nem na jurisprudência — o critério legal é de semelhança, alega a rede. Natura A Natura concluiu a formalização dos acordos relacionados à entrada da gestora Advent International em sua estrutura societária, após obter aprovação dos acionistas em assembleia geral extraordinária. Multiplan A Multiplan anunciou a conclusão de uma captação de R$ 300 milhões por meio de uma oferta pública de Certificados de Recebíveis Imobiliários (CRIs). A operação foi estruturada pela Opea Securitizadora e tem como lastro debêntures emitidas pela própria companhia. Fertilizantes Heringer A Fertilizantes Heringer iniciou um procedimento de mediação com credores e entrou na Justiça com um pedido de tutela cautelar para viabilizar as negociações. Banco do Brasil O Banco do Brasil estima receber R$ 1 bilhão em propostas de financiamento durante a 49ª Expointer, que será realizada entre os dias 29 de agosto e 6 de setembro no Parque de Exposições Assis Brasil, em Esteio (RS). C&amp;A O Morgan Stanley voltou a atingir uma participação na C&amp;A de 5,1% do total de ações ordinárias da companhia. HBR A HBR Realty recebeu uma proposta da SPX Real Estate Gestão de Recursos (SPX RE) para a aquisição de parte de sua fatia em quatro empreendimentos imobiliários: Mogi Shopping, Suzano Shopping, Patteo Olinda Shopping e o edifício corporativo Lead Corporate Faria Lima. O valor das operações não foi divulgado. Tuane Fernandes/Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/28/agenda-de-empresas-gpa-rebate-mp-sobre-recuperacao-extrajudicial-multiplan-capta-r-300-milhoes.ghtml",
+      "published": "2026-08-28T11:10:23+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "pao de acucar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pao de acucar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Agência FDA, nos Estados Unidos, Aprova Mounjaro para Reduzir Risco Cardiovascular",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O medicamento para diabetes da Eli Lilly atua sobre a proteína GLP-1 e também é usado para perda de peso O post Agência FDA, nos Estados Unidos, Aprova Mounjaro para Reduzir Risco Cardiovascular apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-saude/2026/08/agencia-fda-nos-estados-unidos-aprova-mounjaro-para-reduzir-risco-cardiovascular",
+      "published": "2026-08-28T13:46:09+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "glp-1",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Congresso antecipa escolha de presidência e relatoria da MP do fim da taxa das blusinhas",
       "summary": "A comissão mista que analisa a Medida Provisória do fim da chamada “taxa das blusinhas” antecipou a reunião para definir a escolha da presidência e relatoria. Inicialmente prevista para a próxima terça-feira, agora a comissão vai se reunir nesta sexta-feira, às 10h. Fim da escala 6x1: Senador apresenta relatório e mantém texto da Câmara para acelerar tramitação Após acordo: Alcolumbre escolhe relatores aliados de Lula para MP do fim da taxa das blusinhas e projetos sobre minerais críticos e data centers Há um acordo para que a presidência da comissão fique com o deputado Reginaldo Lopes (PT-MG) e a relatoria com a senadora Leila Barros (PDT-DF). Ambos são aliados do presidente Luiz Inácio Lula da Silva. A proposta é considerada um ativo eleitoral pelo petista, que é candidato à reeleição. O colegiado já havia sido instalado no início de agosto, mas sem a definição dos principais postos. A MP estava travada e corria o risco de perder a validade sem ser votada devido a falta de acordo. Após reunião entre Lula, o presidente do Senado, Davi Alcolumbre (União-AP), e o presidente da Câmara, Hugo Motta (Republicanos-PB), na quarta-feira, foi fechado um entendimento para ela ser votada antes da data limite, prevista para o dia 8 de setembro. Míriam Leitão: O que tem mais chance de ser aprovado no esforço concentrado do Congresso Nas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF). A iniciativa acaba com a cobrança de 20% para produtos importados de até US$ 50. O termo \"taxa das blusinhas\", que a MP quer dar fim, é utilizado para se referir ao programa Remessa Conforme, criado para viabilizar a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. Antes, na prática, a taxa estava zerada. Para compras acima de US$ 50, segue valendo o imposto de 60%. 'Juntos para sempre': Da 'blusinha' à 6x1, entenda o acordo entre Lula, Motta e Alcolumbre para avançar pauta eleitoral A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Palácio do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas. O principal receio para redução da taxa das blusinhas era a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/08/27/congresso-antecipa-escolha-de-presidencia-e-relatoria-da-mp-do-fim-da-taxa-das-blusinhas.ghtml",
@@ -2598,99 +2952,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Diretor financeiro do Mercado Livre diz que há ‘muito espaço para continuar crescendo’ na América Latina",
-      "summary": "A revolução das compras on-line que tomou conta das varejistas dos Estados Unidos na década de 2010 está em um estágio anterior na América Latina, e o Mercado Livre está liderando esse movimento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/21/diretor-financeiro-do-mercado-livre-diz-que-h-muito-espao-para-continuar-crescendo-na-amrica-latina.ghtml",
-      "published": "2026-08-21T11:58:38+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "compras on-line",
-        "mercado livre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "compras on-line",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Paladino compra 13,2% das ações da dona da Tok&Stok; dois fundos deixam grupo",
-      "summary": "O grupo Toky, dono da Tok&amp;Stok e Mobly, anunciou nesta quinta-feira (20) que a Paladino Capital adquiriu cerca de 13,21% das ações do conglomerado. Leia mais (08/21/2026 - 09h05)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/08/paladino-compra-132-das-acoes-da-dona-da-tokstok-dois-fundos-deixam-grupo.shtml",
-      "published": "2026-08-21T12:05:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "mobly",
-        "tok&stok"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "tok&stok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "mobly",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Daniella Marques diz que fim da escala 6x1 é ‘debate populista e inócuo na realidade atual das famílias’",
-      "summary": "Ex-presidente da Caixa Econômica Federal e coordenadora do plano econômico do presidenciável Flávio Bolsonaro (PL-RJ), Daniella Marques criticou, nesta sexta-feira (21), a proposta de emenda à Constituição que prevê a redução da jornada de trabalho de 6 dias trabalhados por 1 de folga. “É um debate populista e inócuo na realidade atual das famílias brasileiras. O cara tem que ter liberdade para trabalhar o quanto ele quiser”, disse Marques, em evento com empresários no Rio de Janeiro. Leia mais: PEC do fim da escala 6x1 avança no Senado Caiado defende o fim da 6x1 e promete Selic em 6% em 18 meses “É uma ficção dizer que está se concedendo alguma coisa, enquanto quem produz não vai ter condição e vai ter um custo enorme em relação a isso. Então, o problema não é a 6 por 1. O problema é a falta de liberdade do cidadão para discutir o seu contrato com o empregador sem o Estado interferir”, continuou. A PEC do fim da escala 6x1 é uma das principais pautas do presidente Luiz Inácio Lula da Silva (PT) e tem sido criticada pelo entorno de Flávio. O senador Rogério Marinho (PL-RN), coordenador da campanha do presidenciável, chegou a apresentar uma proposta alternativa que prevê um regime flexível baseado em horas trabalhadas. O projeto, contudo, não teve adesão no Congresso. No evento do Rio, Marques criticou também o projeto de lei que pretende criminalizar o discurso de ódio às mulheres, o chamado PL da Misoginia. Marques deu as declarações na abertura de seu discurso. Ela era a única mulher no painel que discutia cenários do Brasil para economia e mercado. Como tem feito em outros eventos, a coordenadora da campanha de Flávio aproveitou a ocasião para criticar o governo do presidente Lula (PT), adversário do bolsonarista na disputa presidencial. “Espero que eu tenha ficado por último [a falar] por eu ser mais especial, e não por misoginia. Até porque, eu não acredito nesse tipo de coisa”, disse Marques. “Porque não é por um discurso hipócrita nem por leis inócuas que a gente está protegida. Já existe lei de ofensas e agressão, e a gente precisa que elas sejam afetivas e colocadas em prática.” “Nós, homens e mulheres, temos liberdade para sermos o que quisermos e isso é uma questão de vocação, e vocação nada tem a ver com gênero”, completou. O público feminino é um dos calcanhares de Aquiles da campanha de Flávio. O filho do ex-presidente Jair Bolsonaro (PL), assim como o pai, enfrenta resistência em atrair o voto de mulheres. Para sanar a questão, o entorno do senador tentou emplacar uma mulher como vice, e Marques chegou a ser cotada para o posto. No final, no entanto, sem conseguir alianças com outros partidos, o presidenciável escolheu o deputado federal Alfredo Gaspar (PL-AL) para a vaga. Ao discursar no evento, Marques afirmou que não “se vê numa candidatura extrema” e disse procurar o diálogo. “Assim é feita a democracia”, declarou a ex-presidente da Caixa, que logo depois elogiou seu colega de painel, o ex-senador Jean Paul Prates (PDT), que foi contemporâneo de Flávio no Senado. Na época, Prates, que foi presidente da Petrobras nos primeiros anos do terceiro mandato de Lula, era filiado ao PT. Sobre a estatal, Marques falou brevemente com jornalistas e defendeu que a companhia terá “uma governança sólida e segura” num eventual governo Flávio. A coordenadora do plano econômico do presidenciável também prometeu que, se o bolsonarista for eleito, o número de ministérios será algo em torno de 20 a 25 pastas.",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/21/daniella-marques-diz-que-fim-da-escala-6x1-e-debate-populista-e-inocuo-na-realidade-atual-das-familias.ghtml",
-      "published": "2026-08-21T15:11:55+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1",
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Com logística “commoditizada”, construtora mira data centers para ampliar rentabilidade",
@@ -3132,6 +3393,37 @@
       "score": 28.0
     },
     {
+      "title": "Senador rejeita emendas, entrega relatório e fim da escala 6x1 fica pronto para votação na CCJ",
+      "summary": "O senador Omar Aziz (PSD-AM) divulgou nesta quinta-feira (27) o relatório da PEC (Proposta de Emenda à Constituição) que reduz a jornada de trabalho e acaba com a escala 6x1. O congressista atendeu ao governo Lula e manteve o texto aprovado pela Câmara em maio. Leia mais (08/27/2026 - 13h27)",
+      "url": "https://www1.folha.uol.com.br/poder/2026/08/senador-rejeita-emendas-entrega-relatorio-e-fim-da-escala-6x1-fica-pronta-para-votacao-na-ccj.shtml",
+      "published": "2026-08-27T16:27:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Alcolumbre escolhe relatores aliados de Lula para MP do fim da taxa das blusinhas e projetos sobre minerais críticos e datacenters",
       "summary": "O presidente do Senado, Davi Alcolumbre (União-AP), definiu nesta terça-feira os relatores de medidas consideradas prioritárias pelo presidente Luiz Inácio Lula da Silva. Após retomar diálogo com o petista após meses de afastamento, Alcolumbre definiu que a senadora Leila Barros (PDT-DF), conhecida como Leila do Vôlei, vai relatar a medida provisória (MP) que acaba com a chamada “taxa das blusinhas”. Fim da escala 6x1: Senador apresenta relatório e mantém texto da Câmara para acelerar tramitação Omar Aziz: Relator descarta mudanças e diz que trabalha para votar texto sobre fim da escala 6x1 em comissão do Senado na próxima semana A MP estava travada e corria o risco de perder a validade sem ser votada devido a falta de acordo para a instalação de uma comissão mista. Após reunião entre Alcolumbre, Lula e o presidente da Câmara, Hugo Motta (Republicanos-PB), na quarta-feira, foi fechado um acordo para ela ser votada antes da data limite, prevista para o dia 8 de setembro. O presidente da comissão mista da MP vai ser o deputado Reginaldo Lopes (PT-MG), do partido de Lula. Initial plugin text Alcolumbre também definiu que o senador Eduardo Braga (MDB-AM) vai ser relator do projeto que regulamenta a exploração de minerais críticos e que Cid Gomes (PSB-CE) vai relatar o projeto que estabelece o Redata, o plano nacional de incentivos para o setor de data centers. Guilherme Boulos: Ministro da Secretaria-Geral da Presidência diz que governo espera aprovação da PEC 6x1, bandeira eleitoral de Lula, antes do pleito Os três senadores escolhidos como relatores são base de Lula no Congresso e vão concorrer à reeleição em uma aliança com o PT. Os três parlamentares se comprometeram a dar palanque para o presidente em seus estados. Na reunião de quarta-feira com os presidentes do Senado e da Câmara, Lula definiu cinco iniciativas consideradas prioritárias e que o governo pretende ver aprovadas na semana que vem, que deve ser o último período de votações do Congresso antes das eleições, em outubro. Míriam Leitão: Oposição articula e tenta levar PEC do fim da 6x1 a outras comissões antes da votação do relatório Na semana passada, o governo já havia emplacado aliados nas relatorias da proposta de emenda à Constituição (PEC) do fim da escala de trabalho 6x1, que ficou com Omar Aziz (PSD-AM), e na PEC da Segurança, que está sob a responsabilidade de Rogério Carvalho (PT-SE). Diferente dos outros textos, essas duas propostas se encontram na análise da Comissão de Constituição e Justiça do Senado e Alcolumbre ainda não garantiu que elas terão a votação no plenário na semana que vem. Em meio a decisões sobre 'penduricalhos' de juízes: STF cria nova gratificação de até 22,5% para assessores da Corte Nas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF).",
       "url": "https://oglobo.globo.com/economia/noticia/2026/08/27/alcolumbre-escolhe-relatores-aliados-de-lula-para-mp-do-fim-da-taxa-das-blusinhas-e-projetos-sobre-minerais-criticos-e-datacenters.ghtml",
@@ -3283,6 +3575,68 @@
           "alias": "cvc",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "MPF e Receita realizam operação contra sonegação e lavagem de dinheiro relacionadas a bets",
+      "summary": "O Ministério Público Federal (MPF) e a Receita Federal deflagraram nesta sexta-feira a Operação Jogo de Sombras para apurar supostos crimes de sonegação fiscal, evasão de divisas e lavagem de dinheiro relacionados à exploração de apostas de quota fixa (bets). A investigação tem como foco um grupo empresarial responsável pela exploração de plataforma de apostas esportivas que teria movimentado mais de R$ 5 bilhões apenas no ano de 2025. Segundo o MPF, por determinação judicial, são cumpridos seis mandados de busca e apreensão nos municípios de João Pessoa (PB), Recife (PE) e São Paulo (SP), além da apreensão de bens e valores. Conduzida pelo Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF, a investigação aponta que as supostas irregularidades tributárias e financeiras teriam ocorrido tanto antes quanto após a regulamentação do setor de apostas de quota fixa no Brasil. \"De acordo com os elementos reunidos até o momento, os investigados teriam constituído uma empresa de fachada em Curaçao com o objetivo de simular que a operação da plataforma ocorria fora do país em período anterior à regulamentação do segmento. As investigações indicam, contudo, que empresas nacionais vinculadas ao grupo seriam as verdadeiras responsáveis pela operacionalização das atividades no Brasil\", informou a MPF. Ainda forma identificados indícios da utilização de instituições de pagamento e de operações financeiras estruturadas para a movimentação de recursos entre o Brasil e o exterior. Parte desses valores teria retornado posteriormente ao país sob a forma de pagamentos por prestação de serviços, em possível mecanismo destinado a justificar a repatriação de recursos anteriormente enviados ao exterior. \"As apurações revelaram ainda a possível utilização de contas bolsão mantidas em fintechs para dificultar o rastreamento da circulação dos recursos e a identificação de seus beneficiários finais\", explicou o MPF. Embora o grupo investigado tenha obtido autorização para atuação no segmento a partir de 2025, há indícios de que a exploração da atividade já ocorria anteriormente em território nacional, sem autorização e sem o recolhimento dos tributos devidos. As investigações também buscam esclarecer se os recursos utilizados para o pagamento da outorga tiveram origem em atividades desenvolvidas antes da regulamentação do setor. Segundo o MPF, as investigações apontam ainda possíveis irregularidades praticadas após a entrada em vigor do novo marco regulatório das apostas de quota fixa. Conforme os elementos apurados, parte das estruturas utilizadas anteriormente teria sido adaptada para continuar viabilizando mecanismos de sonegação fiscal. Entre os fatos investigados está a declaração ao Fisco de despesas supostamente fictícias, com potencial impacto na redução indevida dos tributos devidos a partir do ano-calendário de 2025. Bruno Peres/Agência Brasil",
+      "url": "https://valor.globo.com/brasil/noticia/2026/08/28/mpf-e-receita-realizam-operao-contra-sonegao-e-lavagem-de-dinheiro-relacionadas-a-bets.ghtml",
+      "published": "2026-08-28T11:50:15+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas esportivas",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas esportivas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Receita estima lançar R$ 300 milhões em tributos contra grupo investigado por operação com bets",
+      "summary": "A Receita Federal estima lançar cerca de R$ 300 milhões em tributos contra um grupo empresarial alvo de uma operação deflagrada nesta sexta-feira (28) para apurar suspeitas de sonegação fiscal, evasão de divisas e lavagem de dinheiro relacionadas à exploração de apostas esportivas, as bets. Segundo o secretário do órgão, Robinson Barreirinhas, as empresas começaram a ser notificadas nesta sexta-feira (28) para a realização dos lançamentos nos próximos dias. O valor pode aumentar a partir dos elementos coletados na operação. A Operação Jogo de Sombras foi deflagrada nesta sexta-feira pela Receita e pelo MPF. O grupo investigado obteve autorização para atuação no segmento a partir de 2025 e a plataforma segue em funcionamento, mas é alvo de dois processos administrativos, que podem resultar em sanções. A investigação aponta que as supostas irregularidades tributárias e financeiras do grupo empresarial teriam ocorrido tanto antes quanto após a regulamentação do setor de apostas de quota fixa no Brasil. As investigações também buscam esclarecer se os recursos utilizados para o pagamento da outorga tiveram origem em atividades desenvolvidas antes da regulamentação do setor. \"De acordo com os elementos reunidos até o momento, os investigados teriam constituído uma empresa de fachada em Curaçao com o objetivo de simular que a operação da plataforma ocorria fora do país em período anterior à regulamentação do segmento. As investigações indicam, contudo, que empresas nacionais vinculadas ao grupo seriam as verdadeiras responsáveis pela operacionalização das atividades no Brasil\", informou o MPF. Barreirinhas afirmou que, durante cerca de quatro anos, a movimentação declarada pelas empresas que compõem o grupo ficou em torno de R$ 1,2 bilhão. Já em 2025, quando passou a haver maior controle do setor por meio da Secretaria de Prêmios e Apostas (SPA) por meio da regulamentação das bets, o grupo movimentou mais de R$ 5 bilhões. Essa diferença, disse o secretário, representa um forte indício de que houve movimentação e resultados maiores do que os declarados ao Fisco. É a partir desses elementos que a Receita estima que os lançamentos a serem realizados nos próximos dias devem se aproximar de R$ 300 milhões. A Receita e o MPF reforçaram ainda o compromisso de combater a atuação de bets ilegais no país. Segundo os órgãos, há um número elevado de plataformas de apostas operando sem autorização, o que gera preocupação adicional porque essas empresas ficam fora do acompanhamento e da fiscalização realizados pelo Estado. “Quando a bet é ilegal, ela não se sujeita às regulações da Secretaria de Primos e Apostas, ela não impede, por exemplo, o jogo infantil, não traz as ferramentas de autorrestrição das pessoas que optam por jogar. E não recolhem tributos que, no caso das bets, vão diretamente, boa parcela deles, para o Ministério da Saúde, para ações de saúde pública para combater a ludopatia, o vício”, disse Barreirinhas. “Se a bet já é um grande problema, independentemente de ser legal ou ilegal, ela já é um problema reconhecidamente no Brasil, a bet ilegal é um problema potencializado”, acrescentou. Secretário da Receita Federal, Robinson Barreirinhas Gabriel Reis/Valor",
+      "url": "https://valor.globo.com/brasil/noticia/2026/08/28/receita-estima-lanar-r-300-milhes-em-tributos-contra-grupo-investigado-por-operao-com-bets.ghtml",
+      "published": "2026-08-28T16:03:06+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas esportivas",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas esportivas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -3566,188 +3920,35 @@
       "score": 22.0
     },
     {
-      "title": "Leilão da Casas Bahia termina com descontos de até 67% - Exame",
-      "summary": "Leilão da Casas Bahia termina com descontos de até 67% &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/invest/mercados/leilao-da-casas-bahia-termina-com-descontos-de-ate-67",
-      "published": "2026-08-21T12:28:11+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "title": "Governo emplaca aliados no comando da MP do fim da ‘taxa das blusinhas’, e texto deve ser votado segunda-feira",
+      "summary": "O governo conseguiu emplacar aliados na relatoria da medida provisória (MP) sobre o fim da “taxa das blusinhas” e na presidência da comissão que vai analisar o tema. A manutenção do fim da cobrança de 20% sobre compras internacionais de até US$ 50 é uma das bandeiras eleitorais que o presidente Lula pretende usar na campanha à reeleição. A tendência é que o texto seja votado segunda-feira no colegiado. Após acordo com Lula: Congresso instala comissão mista para analisa MP da 'taxa das blusinhas' 'Juntos para sempre': Da 'blusinha' à 6x1, entenda o acordo entre Lula, Motta e Alcolumbre para avançar pauta eleitoral Por acordo entre os parlamentares, o deputado Reginaldo Lopes (PT-MG) foi eleito presidente da comissão. O petista definiu a senadora Leila Barros (PDT-DF) como relatora do colegiado. Inicialmente, a sessão de hoje estava prevista apenas para a semana que vem, mas foi antecipada. A data da votação na comissão também foi antecipada e deixa de ser na terça-feira para acontecer na segunda. A escolha dos principais postos da comissão aconteceu após uma reunião entre o presidente Luiz Inácio Lula da Silva e os presidentes do Senado, Davi Alcolumbre (União-AP), e da Câmara, Hugo Motta (Republicanos-PB). O presidente e a relatora são aliados do presidente Lula. Míriam Leitão: O que tem mais chance de ser aprovado no esforço concentrado do Congresso A proposta é considerada um ativo eleitoral pelo petista, que é candidato à reeleição. O colegiado já havia sido instalado no início de agosto, mas sem a definição dos principais postos. A MP estava travada e corria o risco de perder a validade sem ser votada devido à falta de acordo. Após reunião entre Lula, Alcolumbre e Motta , foi fechado um entendimento para ela ser votada antes da data limite, prevista para o dia 8 de setembro. Reginaldo Lopes, presidente da comissão, disse que a ideia é que a comissão mista vote o texto na segunda-feira. Nas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF). Fim da escala 6x1: Entenda o que diz o texto e a regra de transição A MP acaba com a cobrança de 20% para produtos importados de até US$ 50. O termo \"taxa das blusinhas\", que a MP quer dar fim, é utilizado para se referir ao programa Remessa Conforme, criado para viabilizar a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. Antes, na prática, a taxa estava zerada. Para compras acima de US$ 50, segue valendo o imposto de 60%. Aperto no orçamento: Comprometimento de renda das famílias com dívidas sobe a 29,8% em junho e bate recorde, diz Banco Central A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Palácio do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas. O principal receio para redução da taxa das blusinhas era a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/governo-emplaca-aliados-na-relatoria-da-mp-do-fim-da-taxa-das-blusinhas-e-na-presidencia-da-comissao-e-texto-deve-ser-votado-segunda.ghtml",
+      "published": "2026-08-28T13:33:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "E-commerce"
       ],
       "matched_aliases": [
-        "casas bahia"
+        "remessa conforme",
+        "taxa das blusinhas"
       ],
       "matches": [
         {
           "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
+          "alias": "remessa conforme",
+          "field": "body",
+          "score": 2,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold Above $4,600 on Weaker Dollar, Debt Fears",
-      "summary": "Gold climbed back above the $4,600-an-ounce mark as investors viewed the U.S. Treasury’s plans to expand bond buybacks to bring long-term yields lower as a sign of stress, sparking a fresh round of dollar selling.",
-      "url": "https://www.wsj.com/finance/investing/gold-above-4-600-on-weaker-dollar-debt-fears-7a7d1eb4?mod=rss_markets_main",
-      "published": "2026-08-21T13:15:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "O que acontece com as ações trabalhistas da Casas Bahia? Tire suas dúvidas",
-      "summary": "A Justiça não autorizou, por enquanto, que a Casas Bahia retire mais de R$ 750 milhões depositados em processos trabalhistas. A empresa havia pedido que os valores fossem transferidos para a recuperação judicial e posteriormente liberados para o grupo. O Secor (Sindicato dos Empregados no Comércio de Osasco e Região) contestou o pedido na quarta-feira (19). Leia mais (08/21/2026 - 11h02)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/08/o-que-acontece-com-as-acoes-trabalhistas-da-casas-bahia-tire-suas-duvidas.shtml",
-      "published": "2026-08-21T14:02:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
+        },
         {
           "sector": "E-commerce",
-          "alias": "casas bahia",
+          "alias": "taxa das blusinhas",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 20.0
-    },
-    {
-      "title": "Leandra Leal polemiza uso de canetas emagrecedoras e rebate acusações - VEJA",
-      "summary": "Leandra Leal polemiza uso de canetas emagrecedoras e rebate acusações &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/cultura/leandra-leal-polemiza-uso-de-canetas-emagrecedoras-e-rebate-acusacoes",
-      "published": "2026-08-21T14:03:53+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras e câncer: o que os estudos revelam sobre a relação - Jornal Mais Expressão - Indaiatuba",
-      "summary": "Canetas emagrecedoras e câncer: o que os estudos revelam sobre a relação &nbsp;&nbsp; Jornal Mais Expressão - Indaiatuba",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOM1QyaXlNOWNRMllEMHNuSlpTQVhpVERUem1uWF9rNnlodm5aV2pjQVo1aTBnT2VjWmJiblRVQWdLRnNZaU8tT0ltMFZDb1Q4UmpPQllkRDhHRVZRYmZaaEkxa2RsbTBXak9FcmdSQXNodUhyWGd4b2I2TUFQNVY3S0tqYWNhNWRORkVtQzNuR0oxdWhfb2U0VG43QTQya3FyTTIyRVFvejI2QWg4empmX1NnWlpFd1JlanVz?oc=5",
-      "published": "2026-08-21T14:30:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras são encontradas escondidas dentro de skates elétricos no Paraná; vídeo - O GLOBO",
-      "summary": "Canetas emagrecedoras são encontradas escondidas dentro de skates elétricos no Paraná; vídeo &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/brasil/noticia/2026/08/21/canetas-emagrecedoras-sao-encontradas-escondidas-dentro-de-skates-eletricos-no-parana.ghtml",
-      "published": "2026-08-21T14:47:06+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Espancamento em Copacabana: iFood diz que entregadores envolvidos no caso foram banidos da plataforma - O GLOBO",
-      "summary": "Espancamento em Copacabana: iFood diz que entregadores envolvidos no caso foram banidos da plataforma &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/rio/noticia/2026/08/21/espancamento-em-copacabana-ifood-diz-que-entregadores-envolvidos-no-caso-foram-banidos-da-plataforma.ghtml",
-      "published": "2026-08-21T15:20:39+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "FIDCs ligados à Casas Bahia somam R$ 3,95 bilhões após pedido de recuperação judicial",
-      "summary": "O Grupo Casas Bahia, que entrou com pedido de recuperação judicial (RJ) no último domingo, tem papéis na carteira de 12 fundos de investimento em direitos creditórios (FIDCs) que somavam patrimônio líquido de aproximadamente R$ 3,95 bilhões em julho, segundo levantamento da Uqbar, consultoria especializada em crédito estruturado. Os veículos têm diferentes tipos de exposição à varejista, desde o financiamento do crediário e de fornecedores até a compra de títulos de dívida da própria companhia, conforme o estudo da Uqbar. O montante, portanto, não representa necessariamente o volume de créditos sujeito à RJ, que envolve cerca de R$ 17,3 bilhões em dívidas. O maior dos veículos identificados é o FIDC IBCB-AF01, com patrimônio de R$ 1,9 bilhão em julho, diz o relatório. O fundo, administrado pela Hemera e gerido pela Intrabank Asset Management, é uma estrutura de risco sacado relacionada principalmente às operações com fornecedores, na qual empresas do Grupo Casas Bahia aparecem como sacadas. A petição da recuperação judicial relaciona o fundo entre os credores quirografários da varejista, com R$ 1,09 bilhão a receber. Outro veículo com características semelhantes, o FIDC CBSB, tinha patrimônio de R$ 239,2 milhões e aparece na lista de credores com R$ 233,9 milhões. Já o FIDC GCB Fornecedores Comerciais, com patrimônio de R$ 790,7 milhões, foi criado para financiar a cadeia de suprimentos da Casas Bahia. Os fornecedores cedem ao fundo valores a receber por vendas feitas a prazo para a varejista. Após o pedido de recuperação judicial, a administradora Oliveira Trust informou que a Casas Bahia é devedora de direitos creditórios integrantes da carteira. Os cotistas contrataram um escritório de advocacia para representá-lo na recuperação judicial. Há também fundos expostos ao crediário da varejista. O FIDC Grupo Casas Bahia, criado em 2024 para financiar compras de clientes nas lojas do grupo, tinha patrimônio de R$ 159,6 milhões, mas já acumulava R$ 113,3 milhões em provisões para devedores duvidosos e R$ 32,2 milhões em créditos vencidos e não pagos em julho. Outro exemplo levantado pela Uqbar é o FIDC FGCB III Segmento Multicarteira, com patrimônio de R$ 384 milhões, que combina recebíveis do crediário com notas comerciais emitidas pela própria Casas Bahia. O fundo registrava R$ 66,9 milhões em provisões e R$ 49,4 milhões em créditos vencidos e não pagos. Os efeitos da recuperação judicial também começaram a aparecer nos fundos ligados ao BanQi, plataforma financeira do grupo. O FIDC BanQi EP, que tinha patrimônio de R$ 188,3 milhões, convocará assembleia para avaliar o grau de comprometimento de suas atividades após o pedido de recuperação. No BanQi II, conforme o relatório da Uqbar, com R$ 141 milhões, os cotistas reconheceram a ocorrência de um evento de avaliação decorrente da RJ, mas decidiram pela não liquidação e manutenção do funcionamento regular do fundo. Decisão semelhante foi tomada no BanQi III, que tinha patrimônio de R$ 40,2 milhões.",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/21/fidcs-ligados-a-casas-bahia-somam-r-395-bilhoes-apos-pedido-de-recuperacao-judicial.ghtml",
-      "published": "2026-08-21T15:46:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
+      "score": 22.0
     },
     {
       "title": "Americans’ Top Retailers Are Getting Billions In Tariff Refunds—Including Walmart, Target—But Many Consumers Still Aren’t",
@@ -8488,6 +8689,29 @@
       "score": 20.0
     },
     {
+      "title": "El Gobierno impulsa un piso de ingresos de $1.000.000 en la previa del Consejo del Salario Mínimo - Ambito",
+      "summary": "El Gobierno impulsa un piso de ingresos de $1.000.000 en la previa del Consejo del Salario Mínimo &nbsp;&nbsp; Ambito",
+      "url": "https://www.ambito.com/politica/en-la-previa-del-consejo-del-salario-minimo-el-gobierno-impulsa-un-piso-salarial-1000000-traves-bonos-n6315705",
+      "published": "2026-08-28T00:06:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ambito.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "salário mínimo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "salário mínimo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Natura conclui acordo com Advent e amplia conselho após aprovação dos acionistas",
       "summary": "A Natura concluiu nesta quinta-feira (27) a formalização dos acordos relacionados à entrada da gestora Advent International em sua estrutura societária, após obter aprovação dos acionistas em assembleia geral extraordinária. A companhia anunciou a assinatura do acordo entre os grupos de acionistas signatários do acordo anterior, firmado em março deste ano, e o Lotus Fundo de Investimento em Participações Multiestratégia, veículo ligado à Advent. A operação dá sequência ao compromisso vinculante celebrado entre as partes em março de 2026. Confira os resultados e indicadores da Natura e das demais companhias de capital aberto no portal Valor Empresas 360 Como condição para a formalização dos acordos, os acionistas aprovaram a dispensa da obrigação de realização de uma Oferta Pública de Aquisição de Ações (OPA) por parte da Advent, desde que a participação detida pela gestora permaneça abaixo do limite máximo previsto no estatuto social da companhia. Além disso, em assembleia realizada no mesmo dia, a Natura aprovou uma série de mudanças em sua governança corporativa. O conselho de administração da empresa de cosméticos passou a poder contar com até dez integrantes, número que foi imediatamente adotado para o mandato em curso. Com isso, foram eleitos os executivos Juan Pablo Zucchini e Rafael Patury Carneiro Leão para o colegiado. A assembleia ainda promoveu alterações no estatuto social da Natura para determinar que o comitê de auditoria seja coordenado por um membro independente, medida voltada ao fortalecimento das práticas de governança. Além disso, os acionistas aprovaram um programa de opções de compra ou subscrição de ações para executivos e colaboradores elegíveis.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/27/natura-conclui-acordo-com-advent-e-amplia-conselho-aps-aprovao-dos-acionistas.ghtml",
@@ -8603,29 +8827,6 @@
       "score": 20.0
     },
     {
-      "title": "Flávio assinou proposta de redução de jornada em 2025",
-      "summary": "Embora esteja no centro de uma articulação para evitar a votação da proposta de emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1, o candidato à Presidência pelo PL, senador Flávio Bolsonaro (RJ), é um dos proponentes de uma PEC sobre o mesmo tema, que foi idealizada pelo senador Cleitinho Azevedo (Republicanos-MG). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/politica/noticia/2026/08/28/flavio-assinou-proposta-de-reducao-de-jornada-em-2025.ghtml",
-      "published": "2026-08-28T08:01:12+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "redução de jornada"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "redução de jornada",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "MPSP é contra homologação de plano de recuperação do GPA; rede defende acordo",
       "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/28/mpsp-e-contra-homologacao-de-plano-de-recuperacao-do-gpa-rede-defende-acordo.ghtml",
@@ -8695,35 +8896,510 @@
       "score": 20.0
     },
     {
-      "title": "Regras para venda de medicamentos em marketplaces vão passar por consulta pública",
-      "summary": "Agência iniciou processo que vai definir as normas para atuação de canais digitais e plataformas de comércio eletrônico de medicamentos",
-      "url": "https://www.jota.info/saude/regras-para-venda-de-medicamentos-em-marketplaces-vao-passar-por-consulta-publica",
-      "published": "2026-08-21T14:00:36+00:00",
+      "title": "Aprueban tratados de ecommerce y billeteras en Mercosur - iProUP",
+      "summary": "Aprueban tratados de ecommerce y billeteras en Mercosur &nbsp;&nbsp; iProUP",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkhBLVVDQTBCem5tMjZKbE9CVXNLakxRQnRhSG5CUnNPSm13c1VGOGdzaXRkR0EzbUs1Nl9NNnVTMk1wSHlpTnV1YndMa0pWenhPekJIMHR5TXJrU0VrS3owWHVKOXJsblF6WHcxU01oNEs0aFNaTHQxQ2FUd0Z2elVESTlsbGVzWF9MWlZEOC1SU2PSAZgBQVVfeXFMTk5yNGZPbVlrajR4R1plV1ByTE1oeUxQS0ctSGd5QUVSQ0NOMng2Y2JBbnlLNzBDeHBUM0N5WDM4U3dDRktXVXVBQUVDVW0xcFhzdDlkY2JzVllreTE3TGpFanR2Ukl2LW8xbnhsUGNyMXp6OUtFTFZGX0d5T1RXcUtQZkNNNF9KeTQ2VnktY1EteE1PNWZvb2I?oc=5",
+      "published": "2026-08-28T09:07:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ecommerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ecommerce",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O que não pode faltar no treino de quem usa canetas emagrecedoras - VEJA",
+      "summary": "O que não pode faltar no treino de quem usa canetas emagrecedoras &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/o-que-nao-pode-faltar-no-treino-de-quem-usa-canetas-emagrecedoras",
+      "published": "2026-08-28T11:30:21+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Laboratório clandestino de canetas emagrecedoras - G1",
+      "summary": "Laboratório clandestino de canetas emagrecedoras &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sc/santa-catarina/videos-bom-dia-santa-catarina/video/laboratorio-clandestino-de-canetas-emagrecedoras-14909341.ghtml",
+      "published": "2026-08-28T11:52:36+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Jeff Bezos lo arriesgó todo a los 30 años y creó Amazon - iProUP",
+      "summary": "Jeff Bezos lo arriesgó todo a los 30 años y creó Amazon &nbsp;&nbsp; iProUP",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUzZ3UnItNnNJX0lxUW8tYk9CdGJUZm1IbzdYRVBac0w2Umo4REE5bGpuUm54ZDZqUlBlUGpiNlZZNVNmNGk5Nll0TkNvZjlnQ3M2SktfVThEbDJmZXVjOHQ0czlJTkhza2VzVWQ3Mks3bjlfQ29lYWlJRE5UWTlXV2ZOWU1xSTNLdGJ6dFdjSmxOcmw1M0xKdXA3ZThTNEV3am9F0gGoAUFVX3lxTE5nT3JMZlI1NnBOeW5iR1RRNF8wdUg0blo4OXdEemNsQXlxYUlKcnl3RkpIN051UmpJb0hRWG03SXJSQTd6YkNydk5aWXdQRUJ0VFNZSmlYSkVrS2ZYNHU1N2VEV3J0eXFCaER4eW1yaG5hSnhoLUVoOFBFLTIyclhBWVF0V0xabktCT2FxZXk0VlU2WWlyV1I2MER2RFNwZFdMS2Jnc200cA?oc=5",
+      "published": "2026-08-28T12:02:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência das operações de crédito sobe 4,9% em julho e atinge o maior patamar desde 2011",
+      "summary": "A inadimplência média das operações de crédito subiu de 4,6% em junho para 4,9% em julho. Atingiu o maior patamar da série histórica, iniciada em 2011. Os dados foram divulgados pelo Banco Central (BC) nesta sexta-feira (28). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/financas/noticia/2026/08/28/inadimplencia-das-operacoes-de-credito-sobe-49percent-em-julho-e-atinge-o-maior-patamar-desde-2011.ghtml",
+      "published": "2026-08-28T12:11:32+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Dois sócios da Advent entram no conselho da Natura",
+      "summary": "A Advent International formalizou sua entrada no conselho de administração da Natura com a eleição de Juan Pablo Zucchini e Rafael Patury. Os executivos ocuparão as duas cadeiras destinadas ao fundo Lotus, veículo da gestora que acumulou 109,96 milhões de ações da fabricante de cosméticos, equivalentes a cerca de 8% do capital. A eleição ocorreu depois que os acionistas aprovaram a ampliação do conselho para dez integrantes no mandato atual e dispensaram a Advent da obrigação de realizar uma oferta pública de aquisição de ações (OPA). O colegiado poderá ter nove ou dez membros, dos quais pelo menos quatro deverão ser independentes. Advent enfim monta posição em Natura e vai entrar no conselho Por que a Natura sobe mais de 7% à espera de um balanço pior O acordo de acionistas assinado ontem entre o Lotus e os cinco blocos familiares da Natura não inclui poderes de veto para a Advent. A gestora também não será obrigada a votar com os demais signatários em matérias como estratégia, orçamento, aquisições, dividendos e endividamento. A coordenação de votos ficará restrita à composição do conselho e de seus órgãos de assessoramento. Os blocos familiares continuarão responsáveis pela indicação de três ou quatro conselheiros não independentes, dos quatro independentes e do presidente do conselho. Quando houver a escolha de novos independentes, ao menos dois candidatos deverão passar por processo conduzido por uma empresa de recrutamento. A Advent poderá participar e apresentar avaliações, mas a decisão final caberá às famílias. Data: 05/02/2018 Editoria: Empresas Reporter: Alexandre Melo Local:Sao Paulo, SP. Pauta: Natura, que anunciou nova marca corporativa Natura &amp;Co, vai falar da integracao na companhia das controladas Na ATENÇÃO: DEFINIR CRÉDITO! A gestora também terá presença nos comitês. Um de seus conselheiros coordenará o Comitê de Performance e Projetos Estratégicos, que substituirá o Comitê Estratégico, e outro poderá integrar o Comitê de Pessoas. A Advent ainda poderá indicar um observador, sem voto, para o Comitê de Produtos. O Conselho Consultivo, no qual passaram a atuar os fundadores Luiz Seabra, Guilherme Leal e Pedro Passos, ficou fora desse arranjo. A Advent não poderá indicar integrantes, pedir a destituição dos membros escolhidos pelos blocos nem solicitar a eleição de novos conselheiros para o órgão. Natura vende Avon na América Central por US$ 1 – alívio no caixa compensa Natura será uma empresa de regeneração, diz CEO O acordo estabelece um lock-up das ações iniciais da Advent até 27 de agosto de 2027. Depois desse prazo, se quiser vender sua participação em uma transação privada, a gestora deverá primeiro dar aos blocos familiares a oportunidade de apresentar uma proposta pela totalidade do lote. Se rejeitar a oferta, só poderá vender a um terceiro por um preço à vista ao menos 2% superior. A partir do quarto aniversário do acordo, em agosto de 2030, a Advent poderá exigir que a Natura organize um follow-on para a venda de suas ações. Será permitido um exercício desse direito, e os papéis da gestora terão prioridade na oferta. Os blocos poderão postergar a operação por até dois períodos não consecutivos de seis meses, desde que a decisão seja justificada por condições adversas de mercado. \"Estamos voltando às nossas fortalezas\", diz CEO da Natura Natura vai incorporar holding, o que mexe no alto escalão Os direitos da Advent também estão vinculados ao tamanho de sua participação. Se a fatia cair para menos de 8%, a gestora poderá perder direitos sobre ofertas públicas, comitês e indicação de uma das duas cadeiras. Se superar 15% e não vender o excedente em até 120 dias, perderá os direitos de indicação ao conselho e de participação nos comitês. As partes ainda se comprometeram a trabalhar na criação de um plano de opções de ações para executivos, cujo preço de exercício deverá considerar, na medida do possível, o preço médio pago pela Advent na compra da participação inicial. O acordo vigorará até março de 2036 e poderá ser renovado por mais dez anos.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/dois-socios-da-advent-entram-no-conselho-da-natura.ghtml",
+      "published": "2026-08-28T12:39:43+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência no Brasil Sobe a 6,4% em Julho e Atinge Maior Nível da Série Histórica",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. As concessões de empréstimos recuaram na comparação com o mês anterior, com o estoque total de crédito a R$7,372 trilhões. O post Inadimplência no Brasil Sobe a 6,4% em Julho e Atinge Maior Nível da Série Histórica apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/08/inadimplencia-no-brasil-sobe-a-64-em-julho-e-atinge-maior-nivel-da-serie-historica",
+      "published": "2026-08-28T13:40:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Comissão mista da MP da taxa das blusinhas inicia os trabalhos nesta sexta-feira",
+      "summary": "A comissão mista da medida provisória (MP) que suspende a taxa de importação de produtos abaixo de US$ 50, conhecida como \"taxa das blusinhas\", iniciou os trabalhos na manhã desta sexta-feira (28). A discussão e possível deliberação do parecer pelo colegiado, que estava marcada para terça-feira (1), foi adiantada para a próxima segunda-feira (31). A MP perde os seus efeitos em 8 de setembro. Por isso, a base aliada ao governo de Luiz Inácio Lula da Silva (PT) corre para aprovar o texto antes do fim do esforço concentrado do Legislativo, que acontecerá na próxima semana. Na próxima segunda-feira (31), será realizada a leitura do parecer. O receio dos governistas é que um possível retorno da taxa das blusinhas, possivelmente causado pela queda da MP, possa gerar efeitos negativos para a campanha de Lula a menos de dois meses do primeiro turno do pleito. Nesta sessão, o deputado Reginaldo Lopes (PT-MG) foi eleito para a presidência do colegiado. Já a senadora Leila Barros (PDT-DF) será a relatora da matéria. Leila afirmou que apresentará o seu parecer no início da próxima semana. Ela, contudo, adiantou ser a favor do texto editado pelo Executivo federal. \"São 112 emendas. A gente está analisando uma a uma. Na parte da tarde agora teremos uma reunião com o governo. Vamos dialogar com todos que têm interesse em dar suas manifestações [sobre a MP]\", disse Leila. \"Sou absolutamente a favor do texto inicial que foi apresentado, mas não deixaremos de conversar com todos.\" A instalação da MP aconteceu após uma reaproximação do presidente do Senado, Davi Alcolumbre (União-AP), com o presidente da República. Além dessa matéria, Alcolumbre destravou outras proposições de interesse do Planalto, como a proposta de emenda à Constituição que coloca fim à escala de trabalho 6x1. Senadora Leila Barros (PDT-DF) Andressa Anholete/Agência Senado",
+      "url": "https://valor.globo.com/politica/noticia/2026/08/28/comissao-mista-da-mp-da-taxa-das-blusinhas-inicia-os-trabalhos-nesta-sexta-feira.ghtml",
+      "published": "2026-08-28T13:42:17+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Comissão que analisa fim da taxa das blusinhas inicia atividades, e relatório deve ser votado na segunda (31)",
+      "summary": "O Congresso Nacional deu início nesta sexta-feira (28) às atividades da comissão mista formada por senadores e deputados responsável por analisar a MP (medida provisória) editada pelo governo Luiz Inácio Lula da Silva (PT) que acabou com a chamada taxa das blusinhas. Leia mais (08/28/2026 - 10h49)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/congresso-instala-grupo-para-analisar-fim-da-taxa-das-blusinhas-as-vesperas-da-eleicao.shtml",
+      "published": "2026-08-28T13:49:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fim da escala 6x1: entenda o que diz o texto e a regra de transição",
+      "summary": "A proposta de emenda à Constituição (PEC) que acaba com a escala 6x1, uma das bandeiras eleitorais do presidente Luiz Inácio Lula da Silva, pode avançar no Senado Federal no último esforço concentrado do Congresso antes das eleições, marcada para a semana que vem. Escala 6x1: Relator descarta mudanças e diz que trabalha para votar texto em comissão do Senado na próxima semana Guilherme Boulos: Ministro da Secretaria-Geral da Presidência diz que governo espera aprovação da PEC 6x1, bandeira eleitoral de Lula, antes do pleito A Câmara aprovou a PEC em maio. Desde então, a proposta não andou no Senado, que agora prevê uma votação às vésperas das eleições. O Congresso reduziu as atividades durante a campanha e terá uma nova semana de esforço concentrado entre 31 de agosto e 4 de setembro. O relator, Omar Aziz (PSD-AM), apresentou seu texto nesta quinta-feira e manteve a proposta aprovada na Câmara. Initial plugin text A PEC deve ser votada na Comissão de Constituição e Justiça (CCJ) na próxima semana. Se passar pela CCJ, a proposta ainda precisa ser aprovada em dois turnos pelo plenário do Senado, com pelo menos 49 votos em cada um. Como se trata de uma emenda à Constituição, não há sanção presidencial. Se os senadores mantiverem integralmente o texto da Câmara, a PEC poderá ser promulgada pelo Congresso. Em meio a decisões sobre 'penduricalhos' de juízes: STF cria nova gratificação de até 22,5% para assessores da Corte Veja detalhes do texto O que diz a regra geral A duração do trabalho normal não pode ser superior a 8 diárias e 40 horas semanais, permitida a compensação de horários e a redução da jornada, mediante acordo ou convenção coletiva de trabalho. Hoje, o limite é de 44 horas semanais, seis dias por semana Haverá dois dias de repouso semanal remunerado, um dos quais preferencialmente aos domingos. Hoje é obrigatório um dia de descanso. Excepcionalmente, convenção ou acordo coletivo de trabalho poderão, inclusive para os trabalhadores sujeitos a regimes diferenciados de trabalho, estabelecer regime compensatório que assegure, na média, dois dias de repouso semanal remunerado dentro do mês, garantido o usufruto de pelo menos um dos dias dentro do período máximo de uma semana de trabalho. Uma nova lei vai tratar sobre hipóteses e condições em que a duração do trabalho e os dias de repouso semanal remunerado poderão observar regimes diferenciados, respeitados os limites previstos na PEC. Não haverá redução de salários e nem de pisos salariais. O que diz a regra de transição A PEC entra em vigor 60 dias após ser aprovada na Câmara e no Senado. A redução da duração do trabalho normal para 40 horas semanais será implementada de forma progressiva: 60 dias após a publicação da PEC, a duração do trabalho normal não excederá a 42 horas semanais; 12 meses depois desses 60 dias, a duração do trabalho normal não excederá a 40 horas semanais. No prazo de 60 dias após a aprovação da PEC, convenção ou acordo coletivo de trabalho poderão ampliar a duração diária do trabalho normal para viabilizar a distribuição da duração semanal do trabalho. Ou seja, absorver as horas que estão sobrando na jornada diária. Diferença para quem ganha mais de R$ 21.188 por mês Pelo texto, ao empregado com diploma de nível superior e que receba remuneração mensal igual ou superior a 2,5 vezes o teto do INSS (hoje, o equivalente a R$ 21.188 por mês), não se aplicam as regras relativas à duração do trabalho e ao controle da jornada. Isso poderá ser alterado por liberalidade do empregador ou se houver previsão em acordo ou convenção coletiva de trabalho. Isso não se aplica aos empregados públicos da administração direta e indireta de quaisquer dos poderes da União, dos Estados, do Distrito Federal e dos Municípios. Compete à Justiça do Trabalho processar e julgar as ações relativas ao tema. Regra para quem já trabalha menos de 40 horas A aprovação da PEC não implicará redução proporcional das jornadas de trabalho já fixadas em patamar igual ou inferior a 40 horas semanais. Mitigação de impactos Uma nova lei poderá estabelecer medidas, condicionadas à manutenção de níveis de emprego, para mitigar os impactos da redução da jornada para os microempreendedores individuais, as microempresas e as empresas de pequeno porte.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/fim-da-escala-6x1-entenda-o-que-diz-o-texto-e-a-regra-de-transicao.ghtml",
+      "published": "2026-08-28T14:09:20+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Turismo pet friendly ganha força nas estâncias paulistas",
+      "summary": "Viajar com o cachorro ou o gato deixou de ser exceção no Brasil. Pesquisa da Booking.com feita em 31 países mostra que 46% dos brasileiros consideram a receptividade aos pets na hora de escolher o destino de férias, bem acima da média mundial, de 31%. Na escolha da hospedagem, 43% fazem a mesma conta. Não é por acaso. Segundo a Abinpet e o Instituto Pet Brasil, o mercado pet brasileiro movimentou R$ 75,4 bilhões em 2024, deve chegar perto de R$ 78 bilhões em 2025 e ocupa a terceira posição entre os maiores do mundo, atrás apenas de Estados Unidos e China. Em 2026, o Ministério do Turismo anunciou, em parceria com a Unesco, um estudo nacional para mapear o turismo pet friendly nos 26 estados e no Distrito Federal. Nas estâncias turísticas de São Paulo, essa mudança já aparece na prática: em leis, selos e estruturas pensadas para quem chega acompanhado do bicho de estimação. Santos: pioneira em cães na praia Desde janeiro de 2022, Santos é a primeira cidade do estado de São Paulo a permitir cães na praia por lei. A área liberada fica na Praia do José Menino, no trecho entre o Posto 1 de Salvamento e o Parque Roberto Mário Santini, das 6h às 9h e das 16h às 19h. O cão deve estar na coleira, com plaquinha de identificação, e com vacinação e vermifugação em dia. Recolher as fezes é obrigatório, e animais no cio não podem entrar. Os cães também podem usar os chuveiros da orla nas áreas permitidas, e a Prefeitura acompanha todo mês a qualidade da areia. A cidade mantém ainda praças e parques que recebem animais, como a Praça Nossa Senhora Aparecida, a Lagoa da Saudade, no Morro da Nova Cintra, o Parque Roberto Mário Santini e o Espaço Pet Embaré. Desde 2023, uma lei municipal criou o selo \"Estabelecimento Amigo dos Animais\" para cafés, lojas e restaurantes que oferecem água, espaço sinalizado e equipe preparada para receber o pet. Socorro: aventura na Mantiqueira com o pet junto No Circuito das Águas Paulista, Socorro se destaca por receber quem viaja com animais. A cidade abriga o projeto Socorro Destino Pet Friendly, parceria entre poder público e empresários que prepara hotéis, restaurantes e passeios para atender esse público. Entre os atrativos que aceitam animais estão o Centro de Lazer Pitauá, o Parque Monjolinho e operadoras de ecoturismo que oferecem até rafting com pets. O município também é sede da Villa Ayê, apontada como a primeira rede de pousadas pet friendly do Brasil. Sua fundadora coordena a Comissão de Turismo Pet Friendly de Socorro e participa da comissão da ABNT que discute regras nacionais para o segmento. Águas de Lindóia: descanso entre montanhas Conhecida pelas fontes de águas minerais, Águas de Lindóia, na Serra da Mantiqueira, aparece no guia estadual com hotéis e pousadas preparados para receber animais e opções para quem busca descanso no clima de montanha sem deixar o pet para trás. Amparo: história, fazendas e vinícolas Em Amparo, cidade de casario preservado da época do café, o guia estadual lista passeios que aceitam pets, como o Mirante do Cristo Redentor, o Jardim Público, o Parque Ecológico Dr. Paulino Recch, a Pinacoteca Municipal Dr. Constâncio Cintra e fazendas históricas e vinícolas da zona rural, além de pousadas e hotéis. Lindóia: praças e o Grande Lago Em Lindóia, conhecida pela produção de água mineral, os espaços que recebem animais incluem a Praça Dr. Getúlio Vargas, a Praça das Águas, o Monumento do Cristo e o Complexo do Grande Lago, área de lazer à beira d'água. Monte Alegre do Sul: cafés e aventura Monte Alegre do Sul soma ao roteiro pet friendly propriedades rurais como o Cafezal em Flor, passeios de turismo de aventura e um conjunto de pousadas listadas no guia estadual. Serra Negra: rede hoteleira adaptada Em Serra Negra, cidade de clima serrano conhecida pelas compras, o guia estadual reúne uma das maiores ofertas de hospedagem pet friendly do circuito, com hotéis-fazenda, pousadas e chalés, além de atrativos como o Park Vitrine das Flores. Estado mapeia os destinos que recebem pets O avanço das estâncias é acompanhado pela Secretaria de Turismo e Viagens do Estado de São Paulo (Setur-SP), que mantém o guia Estado de São Paulo Destino Pet Friendly, com a relação de atrativos e hospedagens por cidade, e promove treinamentos para quem atende o turista. Planejamento evita constrangimentos Antes de pegar a estrada, vale lembrar: viajar com o pet exige planejamento. Santos é uma exceção — na maior parte das cidades do litoral, a presença de animais na faixa de areia é proibida e pode render multa. Por isso, confirme as regras de cada destino com antecedência. Também vale entender a diferença entre o lugar que apenas aceita o animal, muitas vezes em área separada, e o que é de fato pet friendly, com o bicho integrado às atividades do atrativo, da hospedagem e do restaurante. Consultar o guia estadual e os canais oficiais de cada cidade evita surpresas. No trajeto, transporte o animal na caixinha ou preso ao cinto de segurança com equipamento próprio para pets. Solto no carro, ele corre mais risco e pode aumentar a gravidade de acidentes. Para as estâncias, a conta fecha: quem viaja com o pet costuma voltar, ficar mais tempo e viajar o ano inteiro. Acolher o animal é acolher a família que viaja com ele. \"Os destinos pet friendly são uma oportunidade concreta para as estâncias. Quem viaja com o animal de estimação busca estrutura, permanece mais tempo e movimenta a economia local. Nosso papel é apoiar os municípios para que transformem esse potencial em desenvolvimento e geração de oportunidades\", afirma João Victor Barboza, presidente da APRECESP e prefeito de Águas de São Pedro. Sobre a APRECESP | Turismo Paulista: entidade criada em 1985, a organização representa as 78 estâncias paulistas nas quatro categorias (balneárias, climáticas, hidrominerais e turísticas), atua junto aos governos estadual e federal e, desde janeiro de 2026, é presidida por João Victor Barboza, com o canal Turismo Paulista (turismopaulista.tur.br).",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/08/28/turismo-pet-friendly-ganha-forca-nas-estancias-paulistas-1.ghtml",
+      "published": "2026-08-28T14:14:58+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "MP que coloca fim na ‘taxa das blusinhas’ é assunto de discussão na Casa JOTA",
+      "summary": "Encontro na próxima terça (1/9) irá abordar os impactos da medida, com foco no varejo, na indústria e no mercado de trabalho",
+      "url": "https://www.jota.info/casa-jota/mp-que-coloca-fim-na-taxa-das-blusinhas-e-assunto-de-discussao-na-casa-jota",
+      "published": "2026-08-28T14:22:43+00:00",
       "source": "https://www.jota.info/feed",
       "matched_sectors": [
         "E-commerce"
       ],
       "matched_aliases": [
-        "comercio eletronico",
-        "comércio eletrônico"
+        "taxa das blusinhas"
       ],
       "matches": [
         {
           "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comercio eletronico",
-          "field": "lead",
-          "score": 8,
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "Natura (NATU3): Advent Entra no Bloco de Controle e Acionistas Dispensam OPA",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Apesar do reforço, a Advent não assume o controle da fabricante de cosméticos O post Natura (NATU3): Advent Entra no Bloco de Controle e Acionistas Dispensam OPA apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/08/advent-natura-bloco-controle-opa",
+      "published": "2026-08-28T14:31:59+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Cofundadora do Nubank, Cristina Junqueira acumula fortuna de R$ 8,1 bilhões; conheça sua trajetória",
+      "summary": "Cristina Junqueira, cofundadora do Nubank, tem um patrimônio estimado em R$ 8,1 bilhões e é atualmente a quinta mulher mais rica do Brasil, segundo ranking divulgado pela Forbes Brasil. Aos 42 anos, a executiva também integra um grupo ainda mais restrito: o das brasileiras que construíram a própria fortuna, em vez de recebê-la por herança. Segundo a Forbes, Junqueira detém cerca de 2,9% das ações do Nubank. A participação na instituição financeira, fundada por ela em 2013 ao lado de David Vélez e Edward Wible, é a principal origem de seu patrimônio. A executiva entrou para a lista de bilionários depois da abertura de capital do Nubank na Bolsa de Nova York, em dezembro de 2021. Na época, aos 37 anos, tornou-se a primeira mulher a alcançar o status de bilionária a partir da criação de uma fintech no Brasil, de acordo com a Forbes. O novo levantamento coloca Junqueira em quinto lugar entre as mulheres mais ricas do país. A presença feminina, porém, continua minoritária entre os bilionários brasileiros: apenas 50 mulheres aparecem na lista da Forbes com fortunas de pelo menos R$ 1 bilhão, menos de 20% do total. Da engenharia à criação do Nubank Formada em engenharia pela Universidade de São Paulo (USP), Junqueira trabalhou no Boston Consulting Group (BCG) e construiu parte de sua carreira no setor financeiro antes de empreender. Em 2013, deixou um cargo executivo no Itaú Unibanco para criar o Nubank com Vélez e Wible. Nos primeiros anos da fintech, a estrutura era pequena a ponto de a própria cofundadora atender ligações de clientes em seu celular. A empresa começou oferecendo um cartão de crédito sem anuidade e cresceu até se transformar em uma das maiores plataformas de serviços financeiros digitais da América Latina. Dos primeiros clientes à expansão nos Estados Unidos Mais de uma década depois da fundação, Junqueira está envolvida diretamente em uma nova etapa da história do Nubank: a entrada nos Estados Unidos. A executiva mudou-se para Miami com a família para liderar a operação americana. Em janeiro de 2026, o Nubank recebeu aprovação condicional para estabelecer um banco nacional nos Estados Unidos, passo necessário para avançar no mercado financeiro do país. A missão, segundo a própria Junqueira, está longe de ser simples. Em entrevista ao Valor Econômico em abril, afirmou que “nada será mais difícil do que construir uma marca nos EUA”. Ao chegar ao país, contou inclusive ter enfrentado dificuldades para obter um cartão de crédito – uma barreira que remete, de certa forma, ao problema que ajudou a atacar quando criou o Nubank no Brasil. A expansão também ganhou uma vitrine de grande alcance em 2026. O Nubank fechou um acordo para dar nome ao estádio do Inter Miami, que passará a se chamar Nu Stadium, parte da estratégia para ampliar o reconhecimento da marca no mercado americano. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/08/cofundadora-do-nubank-cristina-junqueira-acumula-fortuna-de-r-81-bilhoes-conheca-sua-trajetoria.ghtml",
+      "published": "2026-08-28T14:49:42+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência no crédito livre atinge recorde, e atraso de famílias chega a 7,8%, diz BC",
+      "summary": "A parcela de empréstimos em atraso no crédito livre -que inclui modalidades como cartão, crédito pessoal e financiamento de veículos- atingiu 6,4% em julho, o maior nível da série histórica do Banco Central , iniciada em março de 2011. Entre as pessoas físicas, a inadimplência nesse segmento chegou a 7,8%. Leia mais (08/28/2026 - 11h54)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/inadimplencia-no-brasil-sobe-a-64-e-atinge-maior-nivel-da-serie-historica-mostra-bc.shtml",
+      "published": "2026-08-28T14:54:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência do consignado CLT atinge 10%, maior valor desde março de 2011",
+      "summary": "A inadimplência no crédito consignado destinado ao trabalhador do setor privado (CLT) privado subiu de 8,7% em junho para 10% em julho, patamar recorde da série histórica iniciada em março de 2011, segundo o Banco Central. O atraso maior que 90 dias no pagamento da parcela do empréstimo vem crescendo continuamente e em ritmo acelerado desde novembro do ano passado, quando o percentual foi de 5%. Move Brasil: Governo amplia prazo para pagamento do empréstimo para compra de carro Veja: Quais motos você consegue financiar? Calculadora do GLOBO faz simulação — A inadimplência do consignado privado tem crescido de forma acelerada. Bateu o recorde da série em julho, em junho já tinha sido recorde. O crescimento é muito significativo em termos estatísticos, bastante acima do que comumente vemos nas séries (das estatísticas de crédito) — destacou o chefe do Departamento de Estatísticas do BC, Fernando Rocha. Segundo Rocha, parte da explicação é estatística. Em março do ano passado, o governo de Luiz Inácio Lula da Silva reformulou o programa para ampliar o acesso a todos os trabalhadores com vínculo de emprego CLT. Antes, essa modalidade só podia ser contratada por funcionários de empresas que tinham convênios bilaterais com os bancos, que costumavam ser as maiores, restringindo bastante o público. Com nova regra da Caixa: Acesso de motoristas e entregadores de app a financiamento da casa própria fica mais fácil Com a ampliação a partir do novo modelo, as concessões do consignado privado cresceram em um ritmo muito acelerado. Até fevereiro de 2025, as concessões mensais rodavam abaixo de R$ 1,5 bilhão. De março de 2025 a julho deste ano, a média mensal foi de R$ 6,6 bilhões, mais de 4 vezes superior ao desempenho de fevereiro, antes do lançamento do programa intitulado Crédito do Trabalhador. Nos primeiros meses, a inadimplência foi baixa, porque as operações só são consideradas inadimplentes no conceito do BC quando ultrapassam mais de 90 dias de atraso. Mas, depois, a parcela da inadimplência foi ganhando corpo, enquanto, principalmente neste ano, o ritmo de concessões, embora ainda alto, foi desacelerando. Você é um dos milhões de brasileiros endividados? Saiba organizar as contas Outro fator que explica o rápido crescimento da inadimplência é que, como é um formato novo, as instituições financeiras ainda estão aprendendo a calibrar seus modelos de risco. O programa não só aumentou o acesso do público como de instituições financeiras que oferecem a modalidade. Rocha afirmou que ainda não é possível avaliar quando a inadimplência tende a se estabilizar. — Ainda não temos, a partir das estatísticas, uma avaliação sobre o ponto de estabilidade dessa inadimplência do consignado do setor privado. No geral, a inadimplência das famílias também registrou recorde no mês passado. Subiu de 5,4% em junho para 5,8%, o maior patamar desde março de 2011. Qual carro cabe no seu bolso? Simule a parcela de cada modelo No crédito livre, modalidades em que os juros são pactuados livremente entre o banco e o tomador do empréstimo, o número é ainda maior, passou de 7,4% para 7,8% - também a maior taxa da série histórica. Da mesma forma, a inadimplência pessoa física foi recorde no crédito direcionado, com alta de 3,0% para 3,4%. O comportamento das famílias influenciou a inadimplência geral, que também alcançou o maior nível da série histórica em julho, de 4,9%, contra 4,6% em julho. No crédito livre, foi a 6,4%, de 6,0% em junho, e no direcionado, a 2,9% ante 2,7%.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/em-alta-acelerada-inadimplencia-do-consignado-para-trabalhador-privado-atinge-10percent-em-julho-maior-valor-desde-marco-de-2011.ghtml",
+      "published": "2026-08-28T15:17:46+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Rússia amplia ataques à logística da Ucrânia com efeito sobre armazenagem de alimentos",
+      "summary": "Os recentes ataques aéreos da Rússia à Ucrânia destruíram em torno de 90% da logística do varejo de alimentação no país, disse nesta sexta-feira o ministro da Agricultura ucraniano, Taras Vysotsky. Ambos os países têm aumentado os ataques recíprocos nas últimas semanas, pelo ar, visando em especial alvos econômicos ligados à estrutura de grandes redes varejistas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/mundo/noticia/2026/08/28/rssia-amplia-ataques-logstica-da-ucrnia-com-efeito-sobre-armazenagem-de-alimentos.ghtml",
+      "published": "2026-08-28T15:23:11+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mounjaro é aprovado nos EUA para reduzir risco cardiovascular",
+      "summary": "Medicamento demonstrou, em estudos, redução de ataques cardíacos e AVC em pacientes com diabetes 2",
+      "url": "https://veja.abril.com.br/saude/mounjaro-e-aprovado-nos-eua-para-reduzir-risco-cardiovascular",
+      "published": "2026-08-28T15:48:23+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência do crédito consignado privado supera 10% e atinge recorde",
+      "summary": "A inadimplência em operações de crédito consignado para trabalhadores da iniciativa privada bateu recorde após aumentar de 8,68% em junho, para 10,03% em julho. A série histórica do Banco Central (BC), que divulgou os dados nesta sexta-feira (28), começa em março de 2011. A taxa de inadimplência nesta modalidade aumentou 4,52 pontos percentuais (p.p.) no acumulado do ano e 3,86 p.p. no acumulado em 12 meses. Leia mais: Inadimplência das operações de crédito sobe 4,9% em julho e atinge o maior patamar desde 2011 A autoridade monetária divulgou que a inadimplência média da economia brasileira, considerando todas as modalidades de crédito do Sistema Financeiro Nacional (SFN), subiu de 4,6% em junho para 4,9% em julho, também patamar recorde. Ao considerar aos financiamentos somente às pessoas físicas, a inadimplência aumentou de 5,4% para 5,8% no mesmo período de comparação. Dentro deste grupo, a taxa de inadimplência avançou de 7,4% em junho para 7,8% em julho entre as operações com recursos livres, aquela em que os bancos e instituições financeiras emprestam recursos próprios ou captados no mercado sem vinculação a regras ou subsídios governamentais. Um novo modelo do crédito consignado para trabalhadores do setor privado (chamado Crédito do Trabalhador) foi lançado no ano passado pelo governo federal, permitindo, por exemplo, a negociação direta com as instituições financeiras. Em junho deste ano, houve a regulamentação do uso do Fundo de Garantia do Tempo de Serviço (FGTS) como garantia para obter crédito mais barato nesta linha. Com as regras, a taxa de juros das operações com garantias do FGTS ficou limitada a 1,99% ao mês. Taxa de juros A taxa média de juros do crédito consignado para trabalhadores do setor privado recuou 0,1 p.p. em julho em relação ao mês anterior e foi a 53,9% ao ano. Em 12 meses, recuou 1,6 ponto percentual. O saldo de crédito na modalidade atingiu R$ 117,66 bilhões em julho, uma alta de 3,8% em relação a junho e de 135,9% em 12 meses. As novas concessões do crédito consignado para trabalhadores do setor privado aumentaram 15% em julho ante junho, marcando R$ 8,83 bilhões no mês passado. Em 12 meses, cresceram 213,6%. O chefe do departamento de estatística do BC, Fernando Rocha, disse que, de novembro de 2025 até julho de 2026, a inadimplência do crédito consignado para trabalhadores do setor privado aumentou em 5 pontos percentuais. Ele afirmou que o desempenho \"chama a atenção\", mas afirmou que há um efeito estatístico provocado pela diminuição do ritmo das novas concessões de crédito. \"Eu diria que o primeiro efeito disso [aumento da inadimplência] é a própria dinâmica estatística de uma modalidade nova que cresceu muito rápido. A segunda causa é que é uma modalidade nova em que as instituições financeiras tinham que conhecer melhor o seu cliente e o perfil de risco\", disse Rocha. O chefe do departamento de estatística disse que o BC não tem uma avaliação do ponto de estabilidade da inadimplência do consignado para trabalhadores do setor privado.",
+      "url": "https://valor.globo.com/financas/noticia/2026/08/28/inadimplencia-do-credito-consignado-privado-supera-10percent-e-atinge-recorde.ghtml",
+      "published": "2026-08-28T16:08:33+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Panorama da travel tech corporativa: Loupit lança marketplace no Brasil",
+      "summary": "O segmento de travel tech corporativa registra movimentação intensa no cenário internacional, com três players concentrando parcela expressiva do mercado. A SAP Concur mantém posição consolidada em integração com sistemas ERP para corporações multinacionais, enquanto a Navan captou volume significativo de venture capital, refletindo a tese de crescimento acelerado. A TravelPerk, por sua vez, expandiu presença na Europa e América Latina com foco em flexibilidade de políticas e inventário ampliado. O apetite de fundos de private equity pela categoria se intensificou em 2024, sustentado por recorrência de receita, aderência regulatória crescente e digitalização ainda incipiente de empresas de médio porte em mercados emergentes. A projeção de margem operacional das principais plataformas incorpora expectativa de expansão orgânica combinada com ganho de escala, o que justifica múltiplos elevados mesmo em ambiente de juros restritivos. No Brasil, particularidades tributárias e a exigência de integração com sistemas de nota fiscal eletrônica limitam a adoção direta de soluções globais. Esse contexto impulsionou o desenvolvimento de plataformas locais, como a Loupit, que lançou o primeiro marketplace de viagens corporativas voltado a agências, conforme noticiado pela Panrotas. O modelo permite consolidar cotações simultâneas de múltiplas agências parceiras em uma única pesquisa, otimizando a identificação de disparidades de preços entre fornecedores para o mesmo trecho e período. \"A consolidação de funcionalidades em uma única plataforma, viagens, despesas, relatórios, mobilidade urbana, T&amp;E (Travel & Expense) multipaís e negociação de tarifas, responde a uma demanda clara de CFOs e controllers por governança e redução de custos administrativos\", afirma Patrick Tytgadt, fundador da Loupit. O mercado brasileiro de viagens corporativas encerrou o último ciclo com faturamento recorde de R$ 148 bilhões, segundo levantamento da FecomercioSP (Federação do Comércio de Bens, Serviços e Turismo do Estado de São Paulo) em parceria com a ALAGEV (Associação Latino Americana de Gestão de Eventos e Viagens Corporativas). As projeções para o encerramento do ciclo atual oscilam entre R$ 158 bilhões e R$ 160 bilhões. Apenas em maio de 2026, o setor movimentou R$ 17,9 bilhões, alta de 6,4% em relação ao mesmo mês do ano anterior e recorde histórico para o período, segundo o LVC (Levantamento de Viagens Corporativas). No acumulado de janeiro a julho de 2026, o segmento de turismo de negócios atingiu R$ 8,4 bilhões em movimentação isolada nos modais auditados. O transporte aéreo segue como a maior fatia do orçamento corporativo, representando aproximadamente 59,6% do gasto de movimentação, de acordo com a ABEAR (Associação Brasileira das Empresas Aéreas) e a FecomercioSP. Para CFOs e controllers, a decisão de plataforma deixou de ser tema exclusivo de procurement e passou a integrar o planejamento financeiro estratégico, dado o impacto direto em visibilidade de caixa e compliance. A ABRACORP (Associação Brasileira de Agências de Viagens Corporativas) reforça esse movimento ao acompanhar a profissionalização do setor, num momento em que a combinação entre economia por cotação simultânea e adaptação regulatória local deve orientar a avaliação de fornecedores para o ciclo 2025-2026.",
+      "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/08/28/panorama-da-travel-tech-corporativa-loupit-lanca-marketplace-no-brasil-1.ghtml",
+      "published": "2026-08-28T16:19:35+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Exclusivo: Governo espera ‘em particular’ aprovação da MP que acaba com taxa das blusinhas, diz Moretti",
+      "summary": "Após os entendimentos entre o presidente Luiz Inácio Lula da Silva (PT) e os presidentes da Câmara, Hugo Motta (Republicanos-PB), e do Senado, Davi Alcolumbre (União-AP), o governo tem expectativa de aprovação de itens da pauta legislativa. \"Em particular, a [Medida Provisória da] taxa das blusinhas, porque ela reflete a escolha política de reduzir o ônus tributário que pesa sobre a população mais vulnerável do país\", disse ao Valor o ministro do Planejamento, Bruno Moretti. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/brasil/noticia/2026/08/28/exclusivo-governo-espera-em-particular-aprovacao-da-mp-que-acaba-com-taxa-das-blusinhas-diz-moretti.ghtml",
+      "published": "2026-08-28T16:22:39+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Walmart settles lawsuit over painkiller prescriptions",
+      "summary": "Retailer resolves case with US justice department over allegations it fuelled the nation’s opioid crisis",
+      "url": "https://www.ft.com/content/d0a485ea-af87-4834-aa9a-3611028a7b6e?syn-25a6b1a6=1",
+      "published": "2026-08-28T16:31:33+00:00",
+      "source": "https://www.ft.com/rss/home",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "walmart"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "walmart",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "Insônia: farmacêuticas anunciam chegada ao Brasil do Dayvigo, novo remédio eleito o melhor por Oxford; saiba quando e valores",
@@ -9235,75 +9911,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Do Technos Skydiver à Kombi elétrica, nostalgia virou estratégia de venda",
-      "summary": "Enquanto alguns empreendedores novatos tentam reinventar a roda, marcas tradicionais têm recorrido a modelos que marcaram época para resgatar a antiga clientela e os adeptos ao vintage, como os brinquedos da Estrela e o Razr da Motorola, recriado como smartphone dobrável. Numa movimentação recente, a Technos relançou no fim de julho o Skydiver, para fazer frente aos smartwatches. As mil unidades da edição limitada de dois modelos vendidos somente pelo e-commerce esgotaram-se em 72 horas – o estoque reduzido costuma ser o braço direito da estratégia de relançamento. Como a Track&amp;Field está aumentando o 'share of wallet' do cliente fitness Apple define o CEO que vai substituir Tim Cook em setembro “Um produto que foi tão importante na trajetória dessa marca centenária continua despertando identificação no presente”, diz Laura Goretti, diretora de marketing da relojoaria fundada em 1924 na Suíça e transformada em empresa brasileira nos anos 1990, com a compra dos direitos globais pelos sócios locais. Casio e Champion mantêm relógios inspirados em modelos das décadas de 1980 e 1990, respectivamente digitais ou de ponteiro com a troca da pulseira em diversas cores. ID. Buzz, releitura da Kombi feita pela Volkswagen: “Flintstones com Jetsons” Divulgação Além do desafio de identificar o que vale a pena para o consumidor ver – e comprar – de novo, marcas como a Adidas buscam o equilíbrio entre reviver um ícone de vendas e preservar o desejo. A marca relançou modelos como Samba, de 1950, Gazelle, de 1966, Campus, dos anos 1980, e SL 72. “A família Originals está entre as nossas principais categorias, junto com corrida, futebol e basquete, inclusive em receita. No fim do dia, somos uma empresa de produtos, então o sucesso tem a ver com a receita gerada”, diz André Svartman, diretor sênior de marketing da Adidas no Brasil. On abre lojas para vestir brasileiro dos pés à cabeça Oppo quer ser a BYD dos celulares no Brasil até 2029 Dona de ícones automobilísticos da memória afetiva nacional, a Volkswagen fez uma releitura elétrica da Kombi, disponível por assinatura, e não para venda direta. A versão de 2026 é para sete passageiros. “O ID. Buzz tem uma equação complexa: trazer a nostalgia junto com uma plataforma futurista. É como colocar os Flintstones e os Jetsons em um cenário só”, define José Carlos Pavone, head de design para Américas da montadora alemã. Nostálgico e futurista, o modelo renovado precisa trazer identificação imediata com o antigo. “Você tem que bater o olho no carro e pensar ‘é a nova Kombi’. Isso leva meio segundo. Se tiver que explicar, o design falhou”, emenda. Technos Skydiver versão 2026: mil unidades se esgotaram em 72 horas no e-commerce Divulgação",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/do-technos-skydiver-a-kombi-eletrica-nostalgia-virou-estrategia-de-venda.ghtml",
-      "published": "2026-08-21T11:45:17+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "e-commerce"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "e-commerce",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Accor terá espaço em área vip do ‘Rock in Rio’  com acesso via programa de fidelidade",
-      "summary": "A Accor, rede hoteleira de origem francesa com 320 hotéis no Brasil, terá, pela primeira vez, espaço exclusivo em camarote na área vip do “Rock in Rio”, festival de música e entretenimento que inicia 11ª edição no país em 4 de setembro, na “Cidade do Rock”, zona sudoeste da capital fluminense. O acesso ao espaço estará disponível mediante resgate de pontos para associados do “All”, programa de fidelidade da empresa. A estratégia funcionará como uma das ativações de marca da companhia no evento, explicou Roberta Vernaglia, Vice-Presidente Sênior de Marketing e Estratégia Digital Accor Américas. O espaço na área vip do evento, informou, estará disponível em todos os sete dias de show do festival. Essa será a quarta vez que a Accor faz parceria com o festival. A companhia, que na edição 2026 é marca apoiadora, e rede de hotéis oficial do “Rock in Rio”, já apoiou o evento duas vezes, também como marca apoiadora. E, em outra ocasião, por meio de resgate de ingressos, via programa de fidelidade. “[A parceria com o Rock in Rio] é uma estratégia que reflete continuidade de um posicionamento de marca que temos dado sequência há alguns anos”, explicou Vernaglia. A executiva contou que a rede já fez parcerias, com outros festivais de música, como o \"The Town\", realizado em São Paulo pela Rock World, também organizadora do Rock in Rio; e o festival internacional Montreux Jazz Festival. Vice-Presidente Sênior de Marketing e Estratégia Digital Accor Américas: parceria com festival é estratégia eficaz de marketing Divulgação No entendimento da executiva, a presença da Accor em festivais de música é estratégia eficiente de marketing, que oferece oportunidade de conectar a imagem da empresa em público de diferentes gerações, e camadas sociais. E, no caso da estratégia delineada para o “Rock in Rio”, continuou ela, outra vantagem é estimular interesse em acesso ao programa de fidelidade, da rede. “Quanto mais as pessoas se hospedam e têm experiências com a Accor, mais elas podem ter benefícios”, disse. “E, dentro desses benefícios, queremos proporcionar experiências para nossos associados”, notou. Outro aspecto favorável na associação, em um evento de grande porte na capital fluminense, acrescentou ela, é o de fortalecer imagem da companhia no Rio de Janeiro, considerado “mercado chave” para a Accor. “O Rio um dos mercados mais relevantes para temos hoje no Brasil. Temos 22 hotéis na cidade”, disse. “Estar em uma cidade como o Rio, em um festival de tanta relevância, é uma estratégia que dá muito certo, e temos todo o interesse em dar continuidade nas próximas edições também [em parcerias com o festival]”, disse. O programa de fidelidade da rede foi lançado em 2008. Atualmente, conta com 130 milhões de membros, sendo 17 milhões nas Americas. Do total, de integrantes no continente americano, metade está no Brasil.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/21/accor-tera-espaco-em-area-vip-do-rock-in-rio-com-acesso-via-programa-de-fidelidade.ghtml",
-      "published": "2026-08-21T14:22:45+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "rede hoteleira"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "rede hoteleira",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Caiado promete derrubar juros para 6% e critica gastos de Lula: ‘governo da gastança’",
-      "summary": "O candidato à presidência Ronaldo Caiado (PSD) defendeu nesta sexta-feira uma política de austeridade fiscal como caminho para reduzir a taxa de juros e recuperar o poder de compra da população. Durante visita ao Mercado Municipal de São Paulo, o ex-governador de Goiás afirmou que, em um eventual governo, trabalharia para derrubar a taxa de juros para 6%, com inflação entre 3% e 4%. Segundo Caiado, o cenário atual de juros elevados e endividamento das famílias tem afetado diretamente o comércio e dificultado a sobrevivência de pequenos e médios empresários. Para o candidato, a redução dos juros dependerá da recuperação da credibilidade do governo e do controle dos gastos públicos. — É o governo que aumenta a gastança. Como o custo do dinheiro são os juros, quando você aumenta a gastança, você aumenta os juros — afirmou, referindo-se ao atual governo do presidente Luiz Inácio Lula da Silva (PT). A taxa básica de juros, a Selic, está atualmente em 14% ao ano, após o Banco Central reduzir o índice em agosto. Na avaliação do candidato do PSD, o aumento dos gastos públicos é responsável pela manutenção dos juros em patamares elevados e acaba transferindo o custo para consumidores e empresários. — O governo Lula faz um gasto irresponsável e quem paga a conta? A população, o comerciante e o empresário — disse. O candidato afirmou ainda que o atual cenário pode levar o país a um processo de \"depressão econômica\", citando o endividamento das famílias e a dificuldade de empresários em obter crédito. Jornada de trabalho Caiado também declarou ser favorável à redução da jornada de trabalho, mas fez ressalvas com relação à forma como a proposta foi apresentada e discutida. Segundo ele, uma mudança desse tipo deveria envolver os empregadores antes de sua aprovação. — Eu seria favorável a uma redução da escala de trabalho. Não tem dificuldade nenhuma de aceitar — afirmou. Ao mesmo tempo, o candidato classificou a medida como \"eleitoreira\" e defendeu uma discussão mais ampla sobre seus efeitos para empresas e trabalhadores. Questionado sobre a aprovação da PEC que trata do tema, Caiado afirmou que a proposta deverá avançar nos próximos dias. O candidato também abordou a segurança pública e citou o uso de drones por criminosos durante confrontos no Rio de Janeiro. Caiado classificou como preocupante o treinamento de jovens para operações com esse tipo de equipamento. — É inaceitável o que nós vimos ontem: jovens alunos no Morro do Alemão, no Complexo da Penha, sendo treinados com drones para atacar outras ações e policiais. É o máximo da sofisticação — disse. Debates Caiado voltou a defender mudanças na legislação eleitoral para obrigar os candidatos a participarem de debates promovidos por veículos de comunicação. Questionado sobre a expectativa para os próximos encontros, afirmou esperar que todos os concorrentes estejam presentes. — Da mesma maneira que o voto é obrigatório, a presença também deveria ser obrigatória — declarou. Para o candidato, a ausência em debates impede que o eleitor compare propostas em um momento que classificou como de grave crise econômica. — É inaceitável que as pessoas se coloquem na condição de fujão no momento em que o país passa pela mais grave crise da economia brasileira — afirmou.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/08/21/caiado-promete-derrubar-juros-para-6percent-e-critica-gastos-de-lula-governo-da-gastanca.ghtml",
-      "published": "2026-08-21T16:09:19+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Basic Materials Roundup: Market Talk",
@@ -10402,6 +11009,75 @@
         {
           "sector": "Cosméticos",
           "alias": "boticário",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Selo Casa Azul+Caixa passa a considerar eficiência hídrica de empreendimentos",
+      "summary": "A eficiência no uso da água passa a fazer parte dos critérios do Selo Casa Azul+Caixa, certificação concedida pela Caixa Econômica Federal a empreendimentos que adotam práticas de sustentabilidade. A mudança foi formalizada nesta segunda-feira (24), com a assinatura de um convênio entre o banco e o Sindicato da Indústria da Construção Civil do Estado de São Paulo (SindusCon-SP). Pelo acordo, a calculadora CEHídrica, desenvolvida pelo Comitê de Meio Ambiente do SindusCon-SP (Comasp), poderá ser utilizada na avaliação dos empreendimentos que buscam a certificação. A ferramenta é gratuita e calcula a pegada hídrica de uma edificação considerando diferentes etapas do ciclo de vida, da obtenção dos materiais à construção e ao período de uso do imóvel. A parceria também prevê um curso para capacitar profissionais a utilizar a ferramenta. Leia também: Setor de construção civil avança na medição da pegada de carbono A inclusão da dimensão hídrica ocorre em um setor em que boa parte do impacto ambiental associado às edificações está relacionada ao consumo de água durante sua utilização. A proposta é ampliar a quantidade de dados disponíveis para que construtoras e demais agentes do mercado possam identificar onde estão os maiores consumos e buscar alternativas de redução. Para Francisco Vasconcellos, do SindusCon-SP, a produção de dados é importante tanto para decisões empresariais quanto para políticas públicas. Segundo ele, indicadores ambientais podem ajudar a direcionar escolhas mais eficientes na construção e no planejamento das cidades. A Caixa também pretende ampliar a utilização de indicadores ambientais na habitação. Segundo a vice-presidente de Habitação da instituição, Inês Magalhães, a intenção é avançar em escala e estimular um mercado imobiliário que seja sustentável nos aspectos econômico, social e ambiental. Da obra ao uso A CEHídrica considera o impacto relacionado à água ao longo do ciclo de vida do empreendimento. Isso inclui a cadeia de produção dos insumos, as etapas de projeto e execução da obra e o período em que o imóvel é ocupado. A lógica é semelhante à de outras ferramentas de mensuração ambiental utilizadas na construção civil. O objetivo é transformar impactos que normalmente ficam dispersos em diferentes etapas da cadeia em indicadores que possam ser comparados e utilizados na tomada de decisão. O próprio SindusCon-SP já desenvolveu a CECarbon, voltada à mensuração das emissões de carbono associadas às construções. Segundo a entidade, a experiência serviu de referência para o desenvolvimento da ferramenta voltada à água. A questão ganha relevância diante dos desafios de abastecimento e saneamento nas cidades brasileiras. Para o Comasp, o consumo de água durante a vida útil das edificações representa uma parcela importante da pegada hídrica urbana, o que torna relevante medir não apenas o desempenho da obra, mas também o comportamento do imóvel depois de entregue. A parceria com a Caixa leva esse tipo de indicador para dentro de uma certificação voltada ao mercado habitacional. O Selo Casa Azul+Caixa é utilizado para reconhecer empreendimentos que adotam soluções relacionadas a aspectos ambientais, sociais e de eficiência. Além da economia de água, a iniciativa pode gerar dados para orientar decisões sobre materiais, sistemas construtivos e equipamentos utilizados nas edificações. Para o setor, a expectativa é que a maior disponibilidade de informações ajude a identificar oportunidades de redução de impactos ao longo da cadeia. A Caixa também vê na agenda ambiental uma possibilidade de ampliar o acesso do setor a recursos internacionais. A instituição avalia que o aprofundamento da mensuração de impactos pode contribuir para atrair capital destinado a projetos com características de sustentabilidade.",
+      "url": "https://valor.globo.com/financas/esg/noticia/2026/08/28/selo-casa-azulcaixa-passa-a-considerar-eficiencia-hidrica-de-empreendimentos.ghtml",
+      "published": "2026-08-28T10:00:39+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "construção civil"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "construção civil",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Índice de Confiança do Comércio cai 1,3 ponto em agosto, para 84,2 pontos, informa FGV",
+      "summary": "O Índice de Confiança do Comércio (ICOM) do Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre) caiu 1,3 ponto em agosto, para 84,2 pontos. Em médias móveis trimestrais, o índice se manteve estável, com 84,9 pontos. “A queda da confiança do comércio em agosto foi influenciada pela piora das expectativas em relação aos próximos meses e disseminada entre os principais segmentos do setor. A piora na confiança do consumidor, o cenário macroeconômico de juros altos, e a expectativa de desaceleração da atividade econômica como um todo indicam cautela e tendem a limitar a melhora da confiança ao longo do segundo semestre”, comenta Rodolpho Tobler, superintendente-adjunto do FGV Ibre. Em agosto, houve queda da confiança em quatro dos seis segmentos pesquisados. O resultado refletiu tanto a piora nas expectativas em relação aos próximos meses quanto as avaliações sobre a situação atual. O Índice de Expectativas do Comércio (IE-COM) recuou 2,7 pontos, para 83,8 pontos. O componente de Tendência dos Negócios apresentou recuo de 2,8 pontos em relação ao mês anterior, para 82,6 pontos, após dois meses em alta. Da mesma forma, o componente de Vendas Previstas chegou a 85,6 pontos, alcançando o menor patamar desde outubro de 2025 (84,1 pontos), com uma queda de 2,6 pontos. O Índice de Situação Atual (ISA-COM) subiu 0,3 ponto, para 85,5 pontos. O componente da Situação Atual dos Negócios subiu 5,0 pontos, chegando a 88,8 pontos, alcançando o maior patamar desde janeiro de 2026 (89,1 pontos). Em contrapartida, O componente de Volume de Demanda Atual registrou 82,6 pontos, com uma queda de 4,4 pontos, alcançando o menor patamar desde junho de 2020 (77,7 pontos). Vista do comércio da Rua 25 de Março, em São Paulo Rovena Rosa/Agência Brasil",
+      "url": "https://valor.globo.com/brasil/noticia/2026/08/28/ndice-de-confiana-do-comrcio-cai-13-ponto-em-agosto-para-842-pontos-informa-fgv.ghtml",
+      "published": "2026-08-28T11:22:25+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "confiança do consumidor"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "confiança do consumidor",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "MPF e Receita fazem operação contra dona da Betnacional por suspeita de lavagem de dinheiro e sonegação",
+      "summary": "O Ministério Público Federal(MPF) e a Receita Federal realizam a Operação Jogo de Sombras nesta sexta-feira com o objetivo de apurar supostos crimes de sonegação fiscal, evasão de divisas e lavagem de dinheiro relacionados à exploração de apostas de quota fixa (bets). A operação mira na dona da Betnacional, o grupo NSX Brasil. Dados de apostadores, jogos e fluxo financeiro: Saiba as informações que bets precisam repassar ao governo federal Apostas: Brasileiros depositaram R$ 220 bi em bets em 2025; do total, R$ 183 bi 'voltaram' como prêmios e bônus São cumpridos seis mandados de busca e apreensão nos municípios de João Pessoa (PB), Recife (PE) e São Paulo (SP). A investigação tem como foco a exploração de plataforma de apostas esportivas pelo grupo empresarial que teria movimentado mais de R$ 5 bilhões apenas em 2025. O grupo tem autorização da Secretaria de Prêmios e Apostas (SPA) do Ministério da Fazenda para operar com a Betnacional no Brasil. Mas, segundo a Receita, as apurações apontam que as supostas irregularidades tributárias e financeiras teriam ocorrido tanto antes quanto após a regulamentação do setor de apostas de quota fixa no Brasil. O mercado regulado começou a valer no ano passado. Do juro alto às bets: Os fatores por trás da crise do varejo De acordo com as investigações, a NSX teria constituído uma empresa de fachada em Curaçao com o objetivo de simular que a operação da plataforma ocorria fora do país em período anterior à regulamentação do segmento. No entanto, as empresas nacionais vinculadas ao grupo seriam as verdadeiras responsáveis pela operacionalização das atividades no Brasil. Initial plugin text Também foram identificados indícios da utilização de instituições de pagamento e de operações financeiras estruturadas para a movimentação de recursos entre o Brasil e o exterior. Segundo a Receita, parte desses valores teria retornado posteriormente ao país sob a forma de pagamentos por prestação de serviços, em possível mecanismo destinado a justificar a repatriação de recursos anteriormente enviados ao exterior. As apurações revelaram ainda a possível utilização de contas bolsão mantidas em fintechs para dificultar o rastreamento da circulação dos recursos e a identificação de seus beneficiários finais. 'Aposta faz você perder dinheiro': Governo publica portaria que impõe alertas em publicidade de bets As investigações apontam ainda possíveis irregularidades praticadas após a entrada em vigor do novo marco regulatório das apostas de quota fixa. Segundo as investigações, parte das estruturas utilizadas anteriormente teria sido adaptada para continuar viabilizando mecanismos de sonegação fiscal. Entre os fatos investigados está a declaração ao Fisco de despesas supostamente fictícias, com potencial impacto na redução indevida dos tributos devidos a partir de 2025.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/mpf-e-receita-fazem-operacao-contra-dona-da-betnacional-por-suspeita-de-lavagem-de-dinheiro-e-sonegacao.ghtml",
+      "published": "2026-08-28T13:13:26+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "lead",
           "score": 8,
           "topic": null
