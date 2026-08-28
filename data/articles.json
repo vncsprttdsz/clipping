@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-27T20:02:36.414109+00:00",
-  "count": 394,
-  "new_this_run": 25,
+  "generated_at": "2026-08-28T09:41:02.293738+00:00",
+  "count": 393,
+  "new_this_run": 54,
   "articles": [
     {
       "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo - Exame",
@@ -576,6 +576,53 @@
       "score": 56.0
     },
     {
+      "title": "Ministério Público contesta plano de recuperação do Pão de Açúcar e aponta risco a credores minoritários",
+      "summary": "O MP-SP ( Ministério Público de São Paulo) se declarou contrário ao plano de recuperação extrajudicial do GPA ( Grupo Pão de Açúcar ) por entender que a companhia criou um grupo de credores muito diverso e que não reflete a mesma identidade econômica. A varejista defende a estratégia e afirma que a rejeição do plano pode piorar a crise. Leia mais (08/27/2026 - 22h59)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/ministerio-publico-contesta-plano-de-recuperacao-pao-de-acucar-e-aponta-risco-a-credores-minoritarios.shtml",
+      "published": "2026-08-28T01:59:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "grupo pão de açúcar",
+        "pao de acucar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pao de acucar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
       "title": "Anvisa aprova 2º genérico de semaglutida no Brasil",
       "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou o registro do segundo medicamento genérico à base de semaglutida no Brasil. A decisão foi publicada no Diário Oficial da União (DOU) desta segunda-feira (24). Lito Sousa: Influenciador aparece em vídeo pela primeira vez desde diagnóstico de doença rara e faz apelo por tratamento experimental 'De ontem para hoje, ele já perdeu mais da visão', diz esposa em apelo para inclusão nos estudos clínicos Produzido pela Germed Farmacêutica, o produto é indicado para o tratamento do diabetes tipo 2 e pertence à classe dos agonistas do receptor de GLP-1, a mesma de medicamentos como Ozempic e Wegovy. O medicamento será disponibilizado em quatro apresentações, com solução injetável de 1,34 mg/mL para aplicação subcutânea. A primeira substância genérica de semaglutida é da farmacêutica EMS e foi aprovada pela Anvisa na última segunda-feira (17). A semaglutida sintética é uma versão produzida por síntese química em laboratório, mas com a mesma molécula e ação farmacológica da semaglutida presente em medicamentos de referência, como o Ozempic. Quanto vai custar o genérico? Ainda não há preço do oficial do medicamento. Pela legislação brasileira, medicamentos genéricos devem custar ao menos 35% menos que o produto de referência.",
       "url": "https://oglobo.globo.com/saude/noticia/2026/08/24/anvisa-aprova-2o-generico-de-semaglutida-no-brasil.ghtml",
@@ -649,6 +696,45 @@
           "field": "lead",
           "score": 8,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "‘O mercado das canetas ainda está só no início’, diz Carlos Sanchez, presidente do conselho da EMS",
+      "summary": "Empresa é a primeira farmacêutica a receber uma licença para produzir os medicamentos similares ao Ozempic no Brasil",
+      "url": "https://veja.abril.com.br/economia/o-mercado-das-canetas-ainda-esta-so-no-inicio-diz-carlos-sanchez-presidente-do-conselho-da-ems",
+      "published": "2026-08-28T08:30:53+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "ems",
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 48.0
@@ -754,37 +840,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "Bancos esperam deterioração da inadimplência no terceiro trimestre apesar do Desenrola",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. A nova etapa do Desenrola está aberta para renegociações de dívidas até o dia 31 de agosto O post Bancos esperam deterioração da inadimplência no terceiro trimestre apesar do Desenrola apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/08/bancos-esperam-deterioracao-da-inadimplencia-no-terceiro-trimestre-apesar-do-desenrola",
-      "published": "2026-08-20T20:52:16+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "O que explica a previsão dos bancos de piora da inadimplência após o Desenrola",
@@ -2119,91 +2174,35 @@
       "score": 40.0
     },
     {
-      "title": "Leilão de estoque da Casas Bahia acende alerta para quem busca produtos mais baratos on-line",
-      "summary": "Um leilão para liquidação de produtos de estoque da Casas Bahia, que pediu recuperação judicial, realizado nesta terça-feira (25), incluindo itens como notebooks, smartphones, refrigeradores, lavadoras e fogões, chama atenção para a busca do consumidor por preços mais baixos nas compras on-line. Especialistas, porém, afirmam que é preciso atenção para não cair em golpes. Expectativa: Mercado financeiro espera medidas mais concretas de corte de gastos após encontro com Durigan Revés: Justiça suspende temporariamente demissões da Casas Bahia e veta novos cortes sem mediação de sindicato A procura por ofertas ocorre em um cenário de expansão das compras em plataformas internacionais: 81,2 milhões de brasileiros compraram ao menos um produto vindo do exterior nos últimos 12 meses, segundo levantamento da Confederação Nacional de Dirigentes Lojistas (CNDL) e do SPC Brasil. Entre as plataformas digitais que comercializam produtos vindos de fora do país, Shopee (73%) e Shein (50%) lideram a preferência dos brasileiros na hora de importar. Em seguida aparecem Amazon (44%) e Mercado Livre (44%). Completam o ranking AliExpress (25%) e Temu (15%). Diante da variedade de ofertas disponíveis em plataformas de e-commerce, especialistas em direito do consumidor recomendam atenção antes de concluir uma compra, seja em um leilão ou em uma plataforma estrangeira. Para Janderson Teles, advogado do consumidor, um dos primeiros passos é verificar a idoneidade e a confiabilidade do site, da empresa e dos responsáveis pelo leilão: — É preciso ter muito cuidado com sites que oferecem veículos ou outros produtos por valores muito abaixo do mercado e exigem pagamento imediato, principalmente por PIX para contas de terceiros. Casas Bahia: da entrega do produto à garantia, como fica o consumidor A especialista em Direito do Consumidor e relações bancárias Débora Farias acrescenta que a aparência profissional de uma página não é suficiente para atestar sua confiabilidade. Segundo ela, é preciso também verificar a situação do leiloeiro e os canais pelos quais a oferta foi divulgada. — Antes de dar qualquer lance, é importante pesquisar quem é o leiloeiro, verificar se ele está regularmente registrado na Junta Comercial. O ideal é procurar o leiloeiro pelos canais oficiais, fazer uma ligação certificando-se da idoneidade e não simplesmente clicar em um anúncio que apareceu no Google, Instagram, Facebook ou chegou pelo WhatsApp. Nas compras internacionais, a atenção não deve ficar restrita ao preço anunciado. O consumidor também precisa verificar o frete e os tributos que podem incidir sobre a importação, como o Imposto de Importação e o Imposto sobre a Circulação de Mercadorias e Serviços (ICMS), conforme o caso. Teles explica que um produto anunciado por R$ 500 em um site estrangeiro não necessariamente terá esse valor como custo final. Dependendo da operação, podem ser cobrados tributos de importação e outras despesas. Em determinadas situações, a mercadoria chega ao Brasil e fica aguardando o pagamento dos tributos para ser liberada. Entrega do produto e defeitos Além de verificar o preço e as condições da compra, o consumidor deve saber quais são seus direitos caso o produto não seja entregue ou apresente algum problema. Se em uma compra o produto não for entregue, o artigo 35 do Código de Defesa do Consumidor permite ao comprador escolher entre exigir o cumprimento da oferta, ou seja, a entrega do produto; aceitar outro artigo ou serviço equivalente; ou ainda rescindir o contrato e receber de volta o valor pago, monetariamente atualizado, além de perdas e danos quando cabíveis. O consumidor também pode registrar reclamação na própria plataforma onde realizou a compra, no Procon, no Consumidor.gov.br ou em plataformas de reclamação, como o Reclame Aqui. Para o advogado, o mais importante é produzir provas de que o problema ocorreu e que houve tentativa de solução. Nas compras realizadas por canais digitais, o consumidor também possui, em regra, o direito de arrependimento previsto no artigo 49 do Código de Defesa do Consumidor, podendo desistir da contratação no prazo de sete dias, contados da data da compra ou do recebimento do produto ou serviço, conforme a hipótese legal. ‘Quer pagar quanto?’ Slogans-chicletes, fusões, trocas de nome, denúncias da família Klein: os 70 anos da Casas Bahia Nos casos de defeito em que a empresa não dê retorno ao cliente, é possível recorrer ao Procon, ao Consumidor.gov.br e, se necessário, ao Judiciário, especificamente no Juizado Especial Cível, popularmente chamado de “pequenas causas”. Estão previstos mecanismos para reparação, substituição do produto, abatimento do preço ou devolução do valor, conforme a situação, de acordo com Débora Farias. — Sempre recomendo que o consumidor documente tudo: tire print do anúncio, guarde a descrição do produto, comprovante de pagamento, confirmação do pedido, conversas com o vendedor e fotos ou vídeos do produto recebido. Em uma eventual reclamação ou processo, isso faz muita diferença, pontua a especialista. No caso dos leilões, Teles destaca que o consumidor deve analisar como o produto foi anunciado e, principalmente, o que consta no edital e nas condições da arrematação. — Se um veículo, por exemplo, foi expressamente anunciado como usado, sem garantia de funcionamento ou vendido no estado em que se encontra, o consumidor deve ter ciência de que está assumindo determinados riscos. Por isso, antes de dar qualquer lance, é fundamental ler o edital, verificar o estado do bem, possíveis débitos e restrições, despesas adicionais, condições de pagamento, retirada e documentação, alerta. * Aluno do curso Jornalismo do Futuro, sob supervisão de Danielle Nogueira",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/08/21/leilao-de-estoque-da-casas-bahia-acende-alerta-para-quem-busca-produtos-mais-baratos-on-line.ghtml",
-      "published": "2026-08-21T03:00:24+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "Natura volta às raízes com aposta na recuperação da Avon e integração de canais de venda",
+      "summary": "Empresa reduziu estrutura global e agora concentra forças na América Latina",
+      "url": "https://veja.abril.com.br/economia/natura-volta-as-raizes-com-aposta-na-recuperacao-da-avon-e-integracao-de-canais-de-venda",
+      "published": "2026-08-28T08:30:53+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
       "matched_sectors": [
-        "E-commerce",
-        "Eletrônicos"
+        "Cosméticos"
       ],
       "matched_aliases": [
-        "aliexpress",
-        "casas bahia",
-        "compras on-line",
-        "smartphones"
+        "avon",
+        "natura"
       ],
       "matches": [
         {
-          "sector": "E-commerce",
-          "alias": "aliexpress",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
+          "sector": "Cosméticos",
+          "alias": "natura",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "E-commerce",
-          "alias": "compras on-line",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Eletrônicos",
-          "alias": "smartphones",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 38.0
-    },
-    {
-      "title": "Famílias empresárias antecipam sucessão para se ajustar à reforma tributária",
-      "summary": "As mudanças recentes no sistema tributário brasileiro começaram a acelerar decisões que, até pouco tempo, eram adiadas por famílias empresárias. A tributação sobre dividendos, as novas regras aplicáveis às heranças e doações e a transição para a CBS e o IBS estão levando empresários a reavaliar estruturas societárias e patrimoniais montadas nos últimos anos. O movimento envolve desde a revisão de holdings familiares até a antecipação de doações, definição de regras de sucessão e reavaliação da forma como os sócios retiram recursos das empresas. Segundo Mayra Maltz, fundadora do Menezes Maltz Advocacia Tributária e Internacional, estruturas consideradas eficientes há alguns anos podem deixar de produzir o mesmo resultado diante do novo ambiente tributário. \"O que era eficiente há cinco anos pode virar um problema caro daqui a pouco. As regras do jogo mudaram, e quem revisa a estrutura agora ainda consegue se organizar com calma, sem decidir no susto.\" Advogada licenciada no Brasil e em Portugal, Mayra atua com famílias brasileiras em mais de 30 países e afirma ter observado um aumento na procura por revisões de planejamento patrimonial e sucessório desde a aprovação das novas regras. Uma das principais mudanças está na distribuição de lucros e dividendos. Com a incidência do Imposto de Renda em determinadas situações, decisões sobre retirada de recursos, reinvestimento e remuneração dos sócios passaram a exigir uma análise mais ampla dos efeitos tributários. Na avaliação da advogada, a mudança tende a tornar menos automática a estratégia de distribuição de resultados adotada por empresas familiares. Dependendo da estrutura societária e do volume distribuído, pode ser necessário comparar diferentes alternativas de remuneração e de manutenção dos recursos dentro da companhia. Há também discussões judiciais relacionadas à tributação dos dividendos. Para Mayra, o acompanhamento desses processos é relevante, mas não elimina a necessidade de revisão das estruturas existentes. \"Cada empresa tem uma realidade. O que dá para afirmar é que distribuir lucros sem olhar para o conjunto ficou arriscado. A diferença entre planejar e não planejar aparece no bolso\", diz. No planejamento sucessório, outro ponto de atenção é o ITCMD, imposto estadual incidente sobre heranças e doações. A Emenda Constitucional 132/2023 tornou obrigatória a adoção de alíquotas progressivas, fazendo com que patrimônios de maior valor possam ficar sujeitos a uma carga mais elevada, conforme as regras definidas por cada Estado. A mudança também ampliou a atenção sobre patrimônios mantidos no exterior, especialmente entre famílias que possuem imóveis, empresas, investimentos ou herdeiros em diferentes países. Nesse contexto, estratégias de sucessão em vida voltaram a ganhar espaço. Entre elas estão a doação de participações societárias e outros ativos com reserva de usufruto, mecanismo que permite antecipar a transferência patrimonial aos herdeiros sem que o doador necessariamente abra mão do controle ou dos rendimentos dos bens. \"Para quem pretende transferir patrimônio aos filhos, antecipar a sucessão em vida costuma ser o caminho mais econômico e mais tranquilo. Doação com reserva de usufruto, por exemplo, permite passar os bens adiante sem abrir mão do controle nem da renda.\" Mayra ressalta, porém, que a decisão não deve ser tomada exclusivamente a partir da alíquota dos impostos. Em empresas familiares, o planejamento sucessório também pode estabelecer critérios de governança, definir quem poderá participar da gestão e reduzir o risco de conflitos entre herdeiros após a saída da geração fundadora. \"No fim das contas, o que está em jogo não é só imposto. É o trabalho de uma vida passando para a próxima geração sem virar motivo de briga\", afirma. Segundo a advogada, antes de realizar doações, alterar holdings ou transferir ativos, o ponto de partida deve ser um diagnóstico que considere conjuntamente a estrutura societária, o patrimônio da família, a residência fiscal de seus integrantes e os objetivos de sucessão. Para famílias com ativos ou herdeiros no exterior, a análise tende a ser ainda mais relevante, já que uma mesma transferência pode produzir efeitos tributários em mais de uma jurisdição.",
-      "url": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/08/20/familias-empresarias-antecipam-sucessao-para-se-ajustar-a-reforma-tributaria-1.ghtml",
-      "published": "2026-08-20T20:35:56+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
+          "sector": "Cosméticos",
+          "alias": "avon",
           "field": "title",
           "score": 20,
-          "topic": "reforma_tributaria"
+          "topic": null
         }
       ],
-      "score": 36.0
+      "score": 40.0
     },
     {
       "title": "Eudora entra no Beautybox e amplia base de clientes ativa para 25 milhões",
@@ -2482,6 +2481,45 @@
       "score": 36.0
     },
     {
+      "title": "GPA rebate na Justiça posição do MPSP e defende plano de recuperação judicial",
+      "summary": "O GPA, varejista controlador de redes como Pão de Açúcar e Extra Mercado, peticionou nesta quinta-feira (27) a sua defesa ao posicionamento do Ministério Público de São Paulo (MPSP) contrário à homologação do plano de recuperação extrajudicial da empresa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/27/gpa-rebate-na-justia-posio-do-mpsp-e-defende-plano.ghtml",
+      "published": "2026-08-27T21:27:28+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "pao de acucar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pao de acucar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Congresso antecipa escolha de presidência e relatoria da MP do fim da taxa das blusinhas",
       "summary": "A comissão mista que analisa a Medida Provisória do fim da chamada “taxa das blusinhas” antecipou a reunião para definir a escolha da presidência e relatoria. Inicialmente prevista para a próxima terça-feira, agora a comissão vai se reunir nesta sexta-feira, às 10h. Fim da escala 6x1: Senador apresenta relatório e mantém texto da Câmara para acelerar tramitação Após acordo: Alcolumbre escolhe relatores aliados de Lula para MP do fim da taxa das blusinhas e projetos sobre minerais críticos e data centers Há um acordo para que a presidência da comissão fique com o deputado Reginaldo Lopes (PT-MG) e a relatoria com a senadora Leila Barros (PDT-DF). Ambos são aliados do presidente Luiz Inácio Lula da Silva. A proposta é considerada um ativo eleitoral pelo petista, que é candidato à reeleição. O colegiado já havia sido instalado no início de agosto, mas sem a definição dos principais postos. A MP estava travada e corria o risco de perder a validade sem ser votada devido a falta de acordo. Após reunião entre Lula, o presidente do Senado, Davi Alcolumbre (União-AP), e o presidente da Câmara, Hugo Motta (Republicanos-PB), na quarta-feira, foi fechado um entendimento para ela ser votada antes da data limite, prevista para o dia 8 de setembro. Míriam Leitão: O que tem mais chance de ser aprovado no esforço concentrado do Congresso Nas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF). A iniciativa acaba com a cobrança de 20% para produtos importados de até US$ 50. O termo \"taxa das blusinhas\", que a MP quer dar fim, é utilizado para se referir ao programa Remessa Conforme, criado para viabilizar a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. Antes, na prática, a taxa estava zerada. Para compras acima de US$ 50, segue valendo o imposto de 60%. 'Juntos para sempre': Da 'blusinha' à 6x1, entenda o acordo entre Lula, Motta e Alcolumbre para avançar pauta eleitoral A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Palácio do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas. O principal receio para redução da taxa das blusinhas era a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/08/27/congresso-antecipa-escolha-de-presidencia-e-relatoria-da-mp-do-fim-da-taxa-das-blusinhas.ghtml",
@@ -2522,35 +2560,44 @@
       "score": 30.0
     },
     {
-      "title": "Entre Despejos e Tombo de FIIs, Crise das Casas Bahia Põe sob Pressão 2,5 Milhões de M²",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com R$ 17,3 bilhões em dívidas e o fechamento de quase 300 lojas, a crise da varejista respinga fortemente em fundos imobiliários e galpões logísticos O post Entre Despejos e Tombo de FIIs, Crise das Casas Bahia Põe sob Pressão 2,5 Milhões de M² apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/08/recuperacao-judicial-casas-bahia-imoveis",
-      "published": "2026-08-20T20:17:13+00:00",
-      "source": "https://forbes.com.br/feed/",
+      "title": "Congresso instala hoje comissão mista para analisa MP da 'taxa das blusinhas'",
+      "summary": "A comissão mista que analisa a medida provisória do fim da chamada “taxa das blusinhas”, a cobrança de 20% sobre compras internacionais de até US$ 50, marcou para esta sexta-feira a reunião para definir a escolha da presidência e relatoria. Inicialmente, a sessão estava prevista apenas para a semana que vem, mas foi antecipada. Fim da escala 6x1: Senador apresenta relatório e mantém texto da Câmara para acelerar tramitação Após acordo: Alcolumbre escolhe relatores aliados de Lula para MP do fim da taxa das blusinhas e projetos sobre minerais críticos e data centers Há um acordo para que a presidência da comissão fique com o deputado Reginaldo Lopes (PT-MG) e a relatoria com a senadora Leila Barros (PDT-DF). Ambos são aliados do presidente Luiz Inácio Lula da Silva. A proposta é considerada um ativo eleitoral pelo petista, que é candidato à reeleição. O colegiado já havia sido instalado no início de agosto, mas sem a definição dos principais postos. A MP estava travada e corria o risco de perder a validade sem ser votada devido a falta de acordo. Após reunião entre Lula, o presidente do Senado, Davi Alcolumbre (União-AP), e o presidente da Câmara, Hugo Motta (Republicanos-PB), na quarta-feira, foi fechado um entendimento para ela ser votada antes da data limite, prevista para o dia 8 de setembro. Míriam Leitão: O que tem mais chance de ser aprovado no esforço concentrado do Congresso Nas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF). A MP acaba com a cobrança de 20% para produtos importados de até US$ 50. O termo \"taxa das blusinhas\", que a MP quer dar fim, é utilizado para se referir ao programa Remessa Conforme, criado para viabilizar a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. Antes, na prática, a taxa estava zerada. Para compras acima de US$ 50, segue valendo o imposto de 60%. 'Juntos para sempre': Da 'blusinha' à 6x1, entenda o acordo entre Lula, Motta e Alcolumbre para avançar pauta eleitoral A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Palácio do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas. O principal receio para redução da taxa das blusinhas era a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/congresso-instala-hoje-comissao-mista-para-analisa-mp-da-taxa-das-blusinhas.ghtml",
+      "published": "2026-08-28T03:01:14+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
-        "E-commerce"
+        "E-commerce",
+        "Economia"
       ],
       "matched_aliases": [
-        "casas bahia",
-        "galpões logísticos"
+        "escala 6x1",
+        "remessa conforme",
+        "taxa das blusinhas"
       ],
       "matches": [
         {
           "sector": "E-commerce",
-          "alias": "casas bahia",
+          "alias": "remessa conforme",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "E-commerce",
-          "alias": "galpões logísticos",
+          "sector": "Economia",
+          "alias": "escala 6x1",
           "field": "lead",
           "score": 8,
-          "topic": null
+          "topic": "jornada_trabalho"
         }
       ],
-      "score": 28.0
+      "score": 30.0
     },
     {
       "title": "Diretor financeiro do Mercado Livre diz que há ‘muito espaço para continuar crescendo’ na América Latina",
@@ -3148,6 +3195,100 @@
       "score": 28.0
     },
     {
+      "title": "Programas de Flávio na TV destacarão endividamento, Lulinha e crise na Casas Bahia",
+      "summary": "Senador Flávio Bolsonaro em sua \"live\" semanal Reprodução/YouTube - Flávio Bolsonaro O programa de televisão da campanha de Flávio Bolsonaro (PL) à Presidência da República deve explorar o endividamento das famílias brasileiras, a perda do poder de compras e a narrativa de que o governo de seu principal adversário nas eleições, Luiz Inácio Lula da Silva (PT), está “quebrando o Brasil”. Além do preço dos alimentos e bens essenciais, Flávio também vai explorar a crise da Casas Bahia para atacar a atual gestão. Como escudo para o caso \"Dark Horse\", a campanha irá explorar a investigação contra o empresário Fábio Luís Lula da Silva, o Lulinha, filho de Lula. A propaganda eleitoral na TV e no rádio começará nesta sexta-feira (28). Flávio Bolsonaro terá 4 minutos e 20 segundos em cada bloco do horário eleitoral gratuito. O tempo dele é menor que o de Lula (5min31s). O senador do PL não conseguiu apoio de outros partidos, o que reduziu sua participação no horário eleitoral e também o número de inserções (propagandas menores exibidas durante a programação diária das emissoras). Nas redes sociais, a campanha de Flávio já vem apostando na estratégia de gravar vídeos em supermercados e emplacar a tese de que o governo Lula é responsável pela corrosão do poder de consumo dos brasileiros. A mesma estratégia também deve ser explorada nos programas de televisão. Além disso, como o Valor mostrou, a crise da Casas Bahia, que pediu recuperação judicial no início do mês, será explorada pela campanha de Flávio como um espelho das famílias brasileiras. Na quarta-feira (19), o candidato do PL gravou um vídeo na porta de uma das lojas da empresa. Uma das maiores e mais populares varejistas do país, a Casas Bahia aguarda resposta ao pedido de recuperação para conseguir honrar as dívidas com os credores. Flávio argumentará que, mais do que reflexo dos problemas de empresários brasileiros, a situação da varejista é a realidade das famílias: todos vítimas da escalada da dívida pública, que leva aos juros altos, que, por sua vez, acarretam o endividamento e a inadimplência da população. O vídeo será usado na propaganda eleitoral e veiculado à exaustão. Análise: Juros altos afetam empresas, mas crise de empresas como a Casas Bahia não se deve apenas à Selic Durante as transmissões semanais nas redes sociais, Flávio já tem explorado o assunto. Para justificar a ausência no debate de presidenciáveis organizado pela TV Band, Flávio afirmou que somente o confronto com Lula – que também faltou – interessava, e citou os assuntos que pretende levar para o centro da campanha na propaganda eleitoral: “Eu quero debater com quem acabou com o poder de compra dos brasileiros, com quem está endividando as famílias, sufocando as empresas, os empresários e os microempreendedores. Eu quero debater com o responsável por sufocar quem gera emprego neste país, com quem expulsou mais de 200 indústrias para o Paraguai, com quem provocou mais de 5 mil pedidos de recuperação judicial de empresas, com quem obrigou até a Casas Bahia a fechar mais de 300 lojas. Eu quero debater com quem é responsável por você, cidadão, trabalhador, estar parcelando em até seis vezes uma pizza no iFood”, declarou durante live. Para rebater eventuais associações de adversários ligando Flávio ao escândalo do Banco Master e ao investimento do filme \"Dark Horse\", a campanha deve explorar o caso Lulinha. Em maio, o site Intercept Brasil revelou trocas de mensagens em que Flávio pede dinheiro ao ex-banqueiro Daniel Vorcaro para financiar a autobiografia do pai. O candidato prometeu apresentar contas detalhadas do uso do dinheiro para a produção do filme, o que não ocorreu até o momento. A resposta da campanha de Flávio envolverá as investigações que rondam o filho do presidente Lula por suspeita de tráfico de influência junto ao governo federal. Além disso, Flávio deve explorar a fraude do INSS e buscar associar o filho do presidente ao escândalo. Os programas da campanha de Lula devem abordar os escândalos associados a Flávio, em especial a relação entre Master e \"Dark Horse\", e focar nas ações de governo que tiveram impacto no cotidiano da maioria da população, como a redução do desemprego e a isenção do Imposto de Renda para quem ganha até R$ 5 mil.",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/08/27/programas-de-flavio-na-tv-destacarao-endividamento-lulinha-e-crise-na-casas-bahia.ghtml",
+      "published": "2026-08-27T19:46:25+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Big Pharma steps up fight against counterfeit weight-loss drugs",
+      "summary": "Novo Nordisk and Eli Lilly use court orders and public campaigns to tackle unlicensed medicines",
+      "url": "https://www.ft.com/content/094467c8-6154-4fd2-8b64-a334d83bd772?syn-25a6b1a6=1",
+      "published": "2026-08-28T04:00:06+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly",
+        "weight-loss drugs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "weight-loss drugs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Quem É o Único Bilionário Brasileiro do Turismo em 2026",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com patrimônio de R$ 1,2 bilhão, Guilherme Paulus cofundou a CVC e viu sua empresa se tornar a maior operadora de viagens do país; veja como ele construiu sua fortuna O post Quem É o Único Bilionário Brasileiro do Turismo em 2026 apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/08/quem-e-o-unico-bilionario-brasileiro-do-turismo-em-2026",
+      "published": "2026-08-28T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "cvc",
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "cvc",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Varejo transforma influenciadores em canal de vendas",
       "summary": "O uso de influenciadores e programas de afiliados como canais de venda vem ganhando espaço entre varejistas, que buscam transformar comunidades formadas nas redes sociais em vendas mensuráveis. Na Centauro, marca esportiva do Grupo SBF, a estratégia, conhecida como “social commerce”, movimentou R$ 183,2 milhões em receita acumulada desde o início do programa, em 2021, até o segundo trimestre de 2026. Para o ano, a companhia projeta superar R$ 100 milhões em faturamento por meio do programa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/23/varejo-transforma-influenciadores-em-canal-de-vendas.ghtml",
@@ -3221,6 +3362,45 @@
           "field": "body",
           "score": 2,
           "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
+      "title": "A tributação dos créditos de carbono",
+      "summary": "IBS, CBS e créditos de carbono: os impasses trazidos pela reforma tributária",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/women-in-tax-brazil/a-tributacao-dos-creditos-de-carbono",
+      "published": "2026-08-28T08:00:01+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 24.0
@@ -3384,374 +3564,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Casas Bahia vira munição de Tarcísio contra economia de Lula",
-      "summary": "Governador cita crise da varejista para atacar juros, falta de crédito e insegurança jurídica durante agenda com Flávio Bolsonaro",
-      "url": "https://veja.abril.com.br/economia/casas-bahia-vira-municao-de-tarcisio-contra-economia-de-lula",
-      "published": "2026-08-20T20:30:44+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "U.S. Stocks Slide as Bond Yields Rebound; Walmart Disappoints",
-      "summary": "U.S. stocks fell as the brief calm in the bond market evaporated.",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-slide-as-bond-yields-rebound-walmart-disappoints-950aa1d1?mod=rss_markets_main",
-      "published": "2026-08-20T20:50:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Walmart shares tumble as sales growth slows to six-year low",
-      "summary": "Retailer to use almost $2.9bn in tariff refunds to deliver price cuts for squeezed American consumers",
-      "url": "https://www.ft.com/content/79f1f638-1fd5-40e1-845b-b4a787a12883?syn-25a6b1a6=1",
-      "published": "2026-08-20T20:52:26+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Walmart sales growth slowdown tests consumer resilience, shares slide 9% - Reuters",
-      "summary": "Walmart sales growth slowdown tests consumer resilience, shares slide 9% &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/walmart-reports-rare-comparable-sales-miss-consumers-pare-back-spending-2026-08-20",
-      "published": "2026-08-20T20:57:11+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Muito além do desempenho: como as marcas de joias estão se aproximando do universo do esporte",
-      "summary": "O esporte deixou de ser apenas uma prática voltada à saúde e passou a representar um estilo de vida. Nos últimos anos, modalidades como corrida, beach tennis, ciclismo e treinos funcionais ganharam espaço entre brasileiros de diferentes idades, influenciando também hábitos de consumo, comportamento e moda. Segundo levantamento da Fundação Seade, 55% da população do estado de São Paulo praticava alguma atividade física em 2025, percentual superior aos 39% registrados em 2019. Já o beach tennis, um dos esportes que mais crescem no país, passou de cerca de 400 mil praticantes em 2021 para aproximadamente 1,1 milhão em 2023, de acordo com a Confederação Brasileira de Tênis (CBT). Nesse cenário, marcas dos mais diversos segmentos têm ampliado sua presença em torneios, eventos esportivos e parcerias com atletas. O movimento vai além do patrocínio tradicional e busca criar conexões com consumidores que enxergam o esporte como parte de sua identidade e de seu estilo de vida. Para Eli Neri, CEO da ACIUM Brazil, marca internacional de joias de aço presente em mais de 15 países e com cerca de 400 unidades ao redor do mundo, essa aproximação reflete uma mudança importante no comportamento do consumidor. \"O esporte deixou de ser apenas uma atividade física. Hoje ele representa bem-estar, convivência, disciplina e qualidade de vida, valores que também estão presentes em diversas marcas. Estar próximo desse universo significa dialogar com consumidores que buscam autenticidade e experiências que façam sentido para sua rotina\", afirma. Historicamente associadas a ocasiões especiais, as joias também acompanham essa transformação. O consumidor passou a incorporar os acessórios ao dia a dia, incluindo momentos de lazer e atividades esportivas, priorizando peças que conciliem design, conforto e durabilidade. Esse comportamento contribui para que materiais como o aço cirúrgico hipoalergênico ganhem cada vez mais espaço no mercado. Além da resistência à oxidação, o material suporta bem a exposição ao suor, calor e umidade, características valorizadas por quem mantém uma rotina dinâmica. \"A joia deixou de ser um acessório reservado para eventos formais. Hoje ela acompanha o consumidor no trabalho, em viagens, nos momentos de lazer e até durante a prática esportiva. Essa mudança faz com que atributos como resistência e versatilidade se tornem tão importantes quanto o design\", explica Eli. Esse movimento já faz parte da estratégia institucional da ACIUM. Em 2026, a marca iniciou sua aproximação com o universo esportivo por meio do patrocínio a dez atletas de beach tennis e da realização de seu primeiro torneio exclusivo para franqueados e convidados, iniciativa que marca o início de um projeto voltado à construção de relacionamento com consumidores, parceiros e atletas. Segundo Eli, a escolha da modalidade aconteceu de forma natural. \"O beach tennis reúne características que conversam diretamente com o propósito da marca. É um esporte que promove interação, qualidade de vida e um lifestyle moderno, aproximando pessoas que valorizam experiências e enxergam os acessórios como uma forma de expressar sua personalidade.\" Mais do que apoiar atletas, a iniciativa acompanha uma tendência observada em diferentes segmentos do varejo: consumidores buscam marcas que compartilhem seus interesses e participem de experiências que fazem parte de sua rotina. Nesse contexto, o esporte se consolida como uma plataforma de relacionamento, capaz de aproximar empresas e clientes por meio de valores em comum. Para a CEO da ACIUM Brazil, esse movimento deve ganhar ainda mais força nos próximos anos. \"As marcas estão percebendo que o consumidor não quer apenas adquirir um produto; ele quer se identificar com aquilo que a empresa representa. O esporte oferece exatamente esse ambiente de conexão, propósito e construção de comunidade.\" Ao aproximar moda, comportamento e qualidade de vida, o universo esportivo amplia seu papel como espaço de relacionamento entre marcas e consumidores. Mais do que acompanhar tendências, empresas que investem nesse segmento passam a fazer parte da rotina e das experiências de um público que valoriza bem-estar, autenticidade e estilo dentro e fora das quadras.",
-      "url": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/08/20/muito-alem-do-desempenho-como-as-marcas-de-joias-estao-se-aproximando-do-universo-do-esporte-1.ghtml",
-      "published": "2026-08-20T21:00:52+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "joias"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Rivais usam crise da Casas Bahia para criticar governo Lula na disputa eleitoral",
-      "summary": "A crise na Casas Bahia foi parar na disputa eleitoral e é usada por candidatos contrários ao governo Lula (PT) para criticar a gestão petista. Na última segunda-feira (17), a varejista entrou com pedido de recuperação judicial , declarando dívida de R$ 17,3 bilhões. Leia mais (08/20/2026 - 19h45)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/08/crise-na-casas-bahia-vira-gancho-para-criticas-ao-governo-lula-na-disputa-eleitoral.shtml",
-      "published": "2026-08-20T22:45:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "JP Morgan faz acordo com o Miami Heat. Itaú, Inter e Nubank disputam a Flórida - Brazil Journal",
-      "summary": "JP Morgan faz acordo com o Miami Heat. Itaú, Inter e Nubank disputam a Flórida &nbsp;&nbsp; Brazil Journal",
-      "url": "https://braziljournal.com/jp-morgan-faz-acordo-com-o-miami-heat-itau-inter-e-nubank-disputam-a-florida",
-      "published": "2026-08-20T22:48:30+00:00",
-      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "De controle a proibição: o que Lula, Flávio, Caiado, Zema e Renan propõem para as bets",
-      "summary": "Lula e Flávio Bolsonaro, que concentram a disputa nas pesquisas presidenciais, incluem medidas contra os efeitos das apostas; estimativa da CNC apontou perda potencial de R$ 103 bilhões para o varejo em 2024",
-      "url": "https://exame.com/brasil/de-controle-a-proibicao-o-que-lula-flavio-caiado-zema-e-renan-propoem-para-as-bets",
-      "published": "2026-08-21T06:00:02+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Casas Bahia negocia com credores e fornecedores para tentar manter estoques e lojas abertas",
-      "summary": "Enquanto aguarda uma decisão da Justiça de São Paulo sobre seu pedido de recuperação judicial, o Grupo Casas Bahia já deu início a negociações com grupos de credores. Com dívidas de R$ 17,3 bilhões, a varejista tem concentrado esforços, segundo pessoas a par das discussões, na manutenção dos estoques e na continuidade das suas operações para manter as lojas abertas. Há relatos de fornecedores suspendendo a entrega de mercadorias e de ações de despejo em imóveis alugados onde há unidades da companhia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/21/casas-bahia-negocia-com-credores-e-fornecedores-para-tentar-manter-estoques-e-lojas-abertas.ghtml",
-      "published": "2026-08-21T07:01:03+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Crise da Casas Bahia será arma eleitoral contra Lula",
-      "summary": "“Tá caro, tá caro, a culpa é do Bolsonaro!” foi um dos bordões da campanha do então candidato Luiz Inácio Lula da Silva (PT) em 2022, que jogou no colo do presidente Jair Bolsonaro a responsabilidade pelos preços altos. Quatro anos depois, estrategistas do candidato do PL à Presidência, Flávio Bolsonaro, afirmam que é hora de revidar. Mais do que corrupção ou segurança pública, a oposição concluiu que o tema central da campanha será o custo de vida, culpa de um governo perdulário. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/politica/coluna/crise-da-casas-bahia-sera-arma-eleitoral-contra-lula.ghtml",
-      "published": "2026-08-21T08:00:45+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Cripto amplia desafio contra lavagem em bets",
-      "summary": "Criptoativos não podem ser usados nas bets autorizadas no Brasil, mas a barreira regulatória não alcança plataformas ilegais que operam fora da autorização do Ministério da Fazenda. A brecha pode permitir que ativos digitais sejam usados para receber recursos, pagar usuários e movimentar dinheiro para fora do país sem passar pelos mesmos controles exigidos das operadoras licenciadas. O ponto central é a diferença entre o mercado regulado e o ilegal, disse um executivo de compliance de uma casa de apostas autorizada, que pediu para não ser identificado. Operadoras licenciadas precisam identificar usuários, validar CPF, monitorar movimentações, comunicar operações suspeitas ao Conselho de Controle de Atividades Financeiras (Coaf) e enviar dados ao sistema de gestão de apostas do governo. Fora desse ambiente, a dinâmica muda. Segundo a fonte, plataformas clandestinas podem recorrer a empresas de fachada, meios de pagamento irregulares, influenciadores e grupos fechados em aplicativos de mensagem para captar usuários e movimentar recursos. Mesmo quando sites ilegais são bloqueados, operadores conseguem trocar de endereço e voltar a divulgar a plataforma em questão de minutos. A criptomoeda entra nesse circuito como um meio conveniente de pagamento e remessa, por dispensar, em alguns casos, a intermediação bancária tradicional. Caio Motta, arquiteto sênior de soluções da Chainalysis para a América Latina, destaca que esse uso está ligado ao papel financeiro dos criptoativos. “Criptos são, primeiro, um ativo financeiro como qualquer outro, que é utilizado por organizações criminosas para movimentar operações, reduzir custos e aumentar a velocidade das operações”, afirma. Segundo relatório da Chainalysis, carteiras ilícitas receberam ao menos US$ 145,9 bilhões em criptoativos em 2025, alta de 155% em relação ao ano anterior. “Quando a gente avalia todo o globo de movimentações, é uma parcela muito reduzida, cerca de 1% de atividade ilícita”, pondera Motta. A tecnologia cria uma aparente contradição. “Qualquer organização criminosa que usa criptoativo acaba abrindo mão do anonimato, porque todas as transferências ficam registradas na blockchain”, diz Motta. “A partir do momento em que eu consigo capturar dinheiro ou uma carteira, eu consigo não só saber o que aquele dinheiro representa, mas avaliar o histórico daquela movimentação.” A fonte do setor de apostas pondera que esse rastro tem limites: “Criptoativos também podem circular por plataformas não reguladas, carteiras próprias, operações entre usuários e ambientes de difícil monitoramento, como a dark web”, o que dificulta as investigações. Para Motta, o combate ao crime depende de ganho operacional das autoridades. “No passado, dados de blockchain eram negligenciados. A partir do momento em que as forças de segurança começaram a entender o valor dessas informações, começaram a incorporar esses dados, e isso resultou em resultados muito concretos e positivos”, afirma.",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2026/08/21/cripto-amplia-desafio-contra-lavagem-em-bets.ghtml",
-      "published": "2026-08-21T08:02:19+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "STJ determina exclusão do ICMS-Difal do cálculo do PIS e da Cofins",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/noticia/2026/08/21/stj-determina-exclusao-do-icms-difal-do-calculo-do-pis-e-da-cofins.ghtml",
-      "published": "2026-08-21T08:03:22+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "difal"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "difal",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Usar perfume no pescoço faz mal à saúde por causa da tireoide? Especialistas respondem",
-      "summary": "Passar perfume no pescoço é um hábito comum antes de sair de casa. Mas uma publicação que viralizou nas redes sociais levantou dúvidas sobre os possíveis efeitos da prática para a saúde da glândula tireoide. Ebola: Congo receberá 70 mil doses da vacina Ervebo para combater o vírus Timo, o órgão menos conhecido que pode ser determinante para a longevidade Na postagem, Ana Canadas, nutricionista e pesquisadora em câncer pela Universidade de Cambridge, afirmou que não existem evidências de que aplicar perfume no pescoço provoque danos à tireoide. Entretanto, chamou atenção para uma possível exposição prolongada a substâncias químicas presentes nas fragrâncias e para seus potenciais efeitos sobre os hormônios. As evidências disponíveis atualmente não indicam que aplicar perfume sobre a região da tireoide faça com que os componentes químicos da fragrância sejam direcionados especificamente para a glândula ou que ela receba uma dose maior dessas substâncias do que outras partes do corpo. A tireoide é uma glândula em formato de borboleta localizada na parte inferior e frontal do pescoço. Ela produz hormônios que, entre outras funções, ajudam a regular a maneira como o organismo utiliza energia. Apesar de estar localizada no pescoço, a glândula não fica imediatamente sob a pele. Ela está protegida por diferentes camadas de tecido conjuntivo e muscular. Quando o perfume é aplicado, seus componentes podem evaporar, permanecer na superfície, penetrar nas camadas da pele ou chegar até à corrente sanguínea. A quantidade absorvida depende de fatores como a composição química da substância, a condição e a localização da pele, a dose utilizada e o tempo de contato. Embora o local de aplicação possa influenciar a absorção de determinadas substâncias, isso não significa que aplicar um produto próximo a um órgão faça com que ele seja diretamente direcionado para esse órgão. 12 crianças da mesma vizinhança são diagnosticadas com câncer raro; entenda Vitamina D: estudo revela que altas doses podem reduzir o risco de demência Grande parte da preocupação envolvendo perfumes está relacionada aos ftalatos, uma família de substâncias químicas utilizada para diferentes finalidades. Um deles é o ftalato de dietila (DEP), que já foi empregado como solvente e fixador em fragrâncias. Outros tipos de ftalatos têm sido usados principalmente na fabricação de plásticos. Em um artigo publicado em 2024 no European Journal of Pediatrics, que reuniu 17 estudos que envolveram 5.616 crianças e adolescentes, os pesquisadores encontraram associações entre a exposição a determinados ftalatos e os níveis de alguns hormônios da tireoide. Para outros hormônios, porém, os resultados foram inconsistentes. Além disso, os estudos analisaram a exposição aos ftalatos proveniente de diferentes fontes. No entanto, eles não investigaram especificamente o uso de perfume no pescoço nem se essa prática poderia provocar doenças da tireoide. Portanto, não foi possível estabelecer uma relação de causa e efeito. Há evidências, contudo, de que perfumes podem contribuir para a exposição ao DEP. Em um estudo com 337 mulheres, as participantes que usavam perfume apresentaram níveis mais elevados na urina de monoetil ftalato, uma substância produzida quando o organismo metaboliza o DEP. O resultado mostra que o perfume pode ser uma fonte de exposição a esse composto, mas o estudo não avaliou possíveis danos à tireoide nem se o local onde o perfume foi aplicado fazia alguma diferença. Gurus e xamãs criados por IA não têm respaldo científico e podem prejudicar tratamentos de saúde, alerta Anvisa Os desreguladores endócrinos são substâncias externas capazes de interferir no sistema hormonal e, em determinadas circunstâncias, produzir efeitos prejudiciais. O risco depende de fatores como o tipo de substância, a quantidade, a forma de exposição e o período durante o qual ela ocorre. Por isso, identificar uma alteração hormonal em um experimento de laboratório não significa, necessariamente, que a mesma consequência ocorrerá com uma pessoa que utiliza perfume nas condições habituais. O uso frequente pode representar exposições repetidas, mas isso não significa que os ftalatos necessariamente se acumulem no organismo. Essas substâncias são transformadas em metabólitos e eliminadas rapidamente pela urina. O uso contínuo, no entanto, pode fazer com que a exposição seja renovada. No Reino Unido, cosméticos precisam passar por avaliações de segurança antes de serem comercializados. Essas análises consideram os ingredientes utilizados, suas concentrações, a maneira como o produto deve ser aplicado e a exposição esperada do consumidor. Turista fica preso em corda de rapel, dá piruetas diante de cachoeira na China e é diagnosticado com estresse agudo; vídeo Embora a relação entre perfume e problemas na tireoide ainda não esteja estabelecida, existem efeitos adversos mais conhecidos associados ao uso de fragrâncias diretamente sobre a pele. Um deles é a dermatite alérgica de contato, uma reação que pode provocar coceira, vermelhidão e inflamação depois que o organismo desenvolve sensibilidade a determinado ingrediente. Uma revisão estimou que a alergia de contato a fragrâncias afeta entre 0,7% e 2,6% da população mundial. Alguns componentes de fragrâncias podem ainda causar fototoxicidade, uma reação semelhante a uma queimadura solar que ocorre quando determinadas substâncias presentes na pele são expostas à luz. Estudos mostram que alguns compostos, como os encontrados no óleo de tangerina, podem provocar esse tipo de reação sob exposição à radiação ultravioleta. Isso não significa que todo perfume provoque fototoxicidade. O risco depende da concentração da substância e da quantidade de radiação à qual a pele é exposta. A exposição prolongada ao sol também é considerada um dos principais fatores associados à chamada poiquilodermia de Civatte, condição que pode deixar a pele do pescoço avermelhada ou acastanhada e com pequenos vasos sanguíneos mais visíveis. Fragrâncias também podem incomodar pessoas que sofrem de enxaqueca. Em estudo publicado na revista Cephalalgia da International Headache Society, pacientes relataram com frequência que perfumes estavam entre os odores que acreditavam desencadear suas crises. Como a pesquisa dependia da lembrança dos próprios participantes, porém, ela não permite estimar a frequência desse efeito na população nem comprovar uma relação de causa e efeito. Ainda não há evidências suficientes para afirmar que a prática represente um risco específico para a tireoide. As principais preocupações relacionadas às fragrâncias estão, até o momento, associadas a reações na pele e à exposição a determinadas substâncias químicas. Ou seja, embora os perfumes possam ser fonte de exposição a diferentes compostos, não há evidências de que aplicá-los no pescoço aumente especificamente o risco de problemas na tireoide.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/08/21/usar-perfume-no-pescoco-faz-mal-a-saude-por-causa-da-tireoide-especialistas-respondem.ghtml",
-      "published": "2026-08-21T08:04:46+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "perfume"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "perfume",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Gold Headed for Weekly Gain of 4%",
-      "summary": "Gold prices rose above $4,600 a troy ounce and were headed for a weekly gain of 4%, buoyed by concerns over the U.S. government debt and borrowing costs.",
-      "url": "https://www.wsj.com/finance/commodities-futures/gold-slips-amid-changing-monetary-policy-expectations-bced8141?mod=rss_markets_main",
-      "published": "2026-08-21T08:17:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "gold"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "gold",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bancos vs billeteras por los sueldos: Mercado Pago y Nación anticipan la pelea - iProUP",
-      "summary": "Bancos vs billeteras por los sueldos: Mercado Pago y Nación anticipan la pelea &nbsp;&nbsp; iProUP",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRnA3VDRXMWtITUFZVEZmLXo2WHpTdFZ1Yi1TWlJDempsb2ZoOHRJX09veXlDbmlBTFA5Nk9ldXJyLTAxQXVlblNfS1M2OGZ6ZzMxcjdHTzZVcmtkRWE3OGpGWVZOZjZDQi1SRlhWOG91azlCNGFsVUF5RGtwLXpmRmNmSkZGd2hrX1FETHZtcnM1OTNvRzV4RTJjcHhVaVMydzRNMHgtTnEzZWpMUjJxWjY1dWxPd9IBuwFBVV95cUxPV1RKOUpWV25IcFE5aXJzTXczRXdOTTNsZjZMSGV3d3UxWHhETE9uSXlLQjY0OS1LVHdWZ0w0YXBNSlF2QkVkVWxkeGFROHNlOThyR1YtYkJLQWJmYTVaUERuYnNjZ1NHcDQ2OE1RaG93VmRLX3NFVlF6b3BBeGpRcmRYTXpSSnNZTkE4OWN1TEN6UmwyZnhmUnVNTnlYTGhCNXZWNkZIbGo5Q05MbGlNeTRCdVVSaFJuN0hn?oc=5",
-      "published": "2026-08-21T09:07:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Leandra Leal explica falas sobre canetas emagrecedoras: 'Retrocesso'; famosos reagem - Globo",
-      "summary": "Leandra Leal explica falas sobre canetas emagrecedoras: 'Retrocesso'; famosos reagem &nbsp;&nbsp; Globo",
-      "url": "https://revistaquem.globo.com/noticias/noticia/2026/08/leandra-leal-se-explicar-apos-falas-sobre-magreza.ghtml",
-      "published": "2026-08-21T09:13:03+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Leilão da Casas Bahia termina com descontos de até 67% - Exame",
@@ -7756,6 +7568,29 @@
       "score": 20.0
     },
     {
+      "title": "Post engana ao relacionar fechamento de agências do Bradesco a recuperação judicial das Casas Bahia - Estadão",
+      "summary": "Post engana ao relacionar fechamento de agências do Bradesco a recuperação judicial das Casas Bahia &nbsp;&nbsp; Estadão",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOWWRKVzBndU1fWlRDcnB5LXBlOU9lRmZMM3V3Y21kNE1vUVdMbUhUOXFyVDZPSndHS3o3SUFPTmFidjRHUTdfS196dWR6aWR2dF9MdHBhUjZTRkgza1p2ZFJBN3VnaFVLT1F5bnRiUXU0NHJacmdkR3NialdOWGluSzlwS1c1dnBVZFJrU3lyVXVRT2czd1gzMmQ4R2w3VXNRZTBaY2Q3LTUxTk95dzdMbG80VjNpcTEzOXp1RG9lYndQeWRxZnpET3NwOTZ3d21YX1Yw0gHYAUFVX3lxTE92WkRZcHRTeENDVkFlQ1FRbmIzVXExZ2h0U1dGYTFYNVZmVU9hd3Nld0cwOFZHdjN2WHJNNmp6QW9tUE9nRjdrZHhKXzhYWEZDVWZRVHBfYUxxdU5fcUNLTkwwMXp6bms5OFVMaXdnc1lkXy1ScHp1RHM5aGxkdlUzVGdoYWJURWNtbXF0eFhpZXhUcEdybFZZaE84OExKckFNVnJEYzZXbGVmbkU1dHJCLWtXQzN3YkhsdWhQRElaekUzMWFmdk9WeDUzZWJHR01MZzBaWlpXTA?oc=5",
+      "published": "2026-08-26T19:51:35+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Magalu lança programa para acelerar 100 startups no Startup Summit; veja como participar - Exame",
       "summary": "Magalu lança programa para acelerar 100 startups no Startup Summit; veja como participar &nbsp;&nbsp; Exame",
       "url": "https://exame.com/negocios/magalu-lanca-programa-para-acelerar-100-startups-no-startup-summit-veja-como-participar",
@@ -8078,6 +7913,29 @@
       "score": 20.0
     },
     {
+      "title": "Be Clean: primeiro app brasileiro que cruza saúde e impacto ambiental na hora de escolher cosmético - Exame",
+      "summary": "Be Clean: primeiro app brasileiro que cruza saúde e impacto ambiental na hora de escolher cosmético &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/esg/be-clean-primeiro-app-brasileiro-que-cruza-saude-e-impacto-ambiental-na-hora-de-escolher-cosmetico",
+      "published": "2026-08-27T11:10:36+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "cosmético"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "cosmético",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Brasil tem um dos maiores índices de inadimplência bancária em LatAm; Argentina lidera - Bloomberg Línea Brasil",
       "summary": "Brasil tem um dos maiores índices de inadimplência bancária em LatAm; Argentina lidera &nbsp;&nbsp; Bloomberg Línea Brasil",
       "url": "https://www.bloomberglinea.com.br/mercados/brasil-tem-um-dos-maiores-indices-de-inadimplencia-bancaria-em-latam-argentina-lidera/?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM",
@@ -8239,6 +8097,29 @@
       "score": 20.0
     },
     {
+      "title": "Caixa amplia margem e minimiza preocupação com inadimplência",
+      "summary": "Com uma melhora robusta na margem financeira em função do avanço mais forte do que o esperado no crédito imobiliário, a Caixa deve atingir todas as suas projeções (“guidance”) para este ano, até superando alguns itens. Apesar do cenário de piora generalizada na inadimplência no setor financeiro, o banco estatal diz ver uma estabilização no agro — e espera uma melhora com os efeitos da medida provisória 1.376 — e também não se preocupa com a carteira de pessoa física, alegando que ela é formada por crédito com garantia, basicamente o consignado. O vice-presidente financeiro da Caixa, Marcos Brasiliano, comentou que a margem financeira bruta do banco teve crescimento anual de 16,0% em junho, acima do guidance, que vai de 11,5% a 15,5%. Segundo ele, a Caixa vinha perseguindo um crescimento maior das receitas de intermediação financeira em relação às despesas, o que foi observado no segundo trimestre, então a perspectiva para o ano é positiva e ele deve mesmo se manter acima do esperado. De acordo com o executivo, a melhora da margem poderia ter sido até mais rápida, se o banco abrisse mão do seu papel social. No fim, a instituição acabou conseguindo conciliar as duas coisas e fez seu “dever de casa”. “A recomposição dessa margem financeira poderia ser mais rápida se a gente desacelerasse o crédito e deixasse de cumprir com esse mandato que nós temos de ser um agente indutor do desenvolvimento do país.” Ele também apontou que o crescimento da carteira de habitação é outra linha que está acima do “guidance”. Na habitação com recursos do FGTS, a expansão está em 13,9%, ante uma faixa projetada de 8,0% a 12,0%; e em habitação com recursos próprios, está em 10,2%, em relação ao guidance de 9,5% a 13,5%. “A carteira de habitação está acima do projeto que fizemos programação orçamentária.” Em termos de contratação, o crédito imobiliário somou R$ 137,6 bilhões no semestre, com alta de 29,3% ante o mesmo intervalo de 2025. Os recursos próprios somaram R$ 52,3 bilhões (crescimento anual de 55,6%), enquanto com recursos do FGTS/fundo social atingiram R$ 85,3 bilhões (expansão de 17,2%). O presidente da Caixa, Carlos Vieira, destacou que a carteira do crédito imobiliário chegou a R$ 1 trilhão, com desempenho muito positivo. Segundo ele, o Minha Casa, Minha Vida tem crescido e se tornado cada vez mais importante. “Eu não sou porta-voz do governo, mas acho que ele ficaria feliz se os bancos privados entrassem no MCMV”, comentou, apontando que a lógica é que esses players entrassem prioritariamente no Faixa 4, voltado basicamente para a média renda. “Todos nós sabemos que o segundo trimestre deste ano, para o mercado como um todo, para o mercado financeiro em particular, foi extremamente desafiador”, afirmou Vieira sobre os resultados do trimestre resultados. “Mas a Caixa colhe números que são muito significativos.” A vice-presidente de Habitação, Inês Magalhães, disse que as mudanças no “funding” do setor foram importantes, inclusive com a liberação de compulsório, mas admitiu que o teto de 12%, que entrará em vigor no próximo ano, é desafiador. “Esse teto de 12% é desafiador. O crédito com recursos do SBPE é um subsídio, e em um país com a pirâmide de renda como o Brasil tem, é muito razoável que tenhamos essa diretriz para que esses recursos sejam para o atendimento de um certo perfil de imóvel, de população. É uma questão circunstancial, mas é um tema bem polêmico.\" Sobre a qualidade da carteira, a vice-presidente de riscos, Henriete Bernabé, afirmou que o banco não está preocupado e não será mais restritivo. “Nós calibramos nossos modelos de risco acompanhando a qualidade da carteira. A inadimplência está supercontrolada. O crédito comercial PF não nos preocupa, é uma carteira formada predominantemente por consignado.” A questão é que, sem os efeitos do programa de renegociação de dívidas Desenrola a inadimplência da carteira comercial da Caixa teria crescido mais no segundo trimestre. O indicador de calotes da carteira comercial foi de 9,32%, pouco acima dos 9,28% registrados três meses antes. “O Desenrola atinge um público importante na Caixa, da carteira comercial, seja na pessoa física ou na pessoa jurídica”, afirmou o vice-presidente de varejo, Adriano Matias. “O Desenrola tem sido muito importante para a gestão da inadimplência da nossa carteira.” Questionado sobre se, sem o Desenrola, a inadimplência teria subido mais, sem compartilhar números, o executivo apenas respondeu que “na nossa visão, sim”. Sobre a MP 1.376, de renegociação de dívidas rurais, Matias afirmou que já ajudou na qualidade da carteira em junho e julho, apesar de ter começado, de fato, na semana passada. “A partir de abril, o pior mês, e a partir de maio os clientes voltaram a crescer a curva de pagamento em dia. Isso, na nossa visão, é devido à maior clareza em relação ao que viria ser a medida provisória 1.376, que já está em vigor”, avaliou. “Todos os clientes já foram abordados para poder fazer a sua renegociação. [...] Junho e julho já foram melhores, o programa começou na semana passada”. A inadimplência da carteira agro saltou para 20,74% no segundo trimestre, de 18,29% três meses atrás e 7,02% um ano antes. “Nós já olhamos para essa curva com uma estabilidade, perda de velocidade”, disse Brasiliano. “Agora, eu olho para essa carteira já como uma oportunidade, por conta de todo o cenário, medida provisória [MP 1.376/2026], possibilidade de a gente ir lá negociar esses créditos e atender o nosso cliente que está hoje com alguma dificuldade.”",
+      "url": "https://valor.globo.com/financas/noticia/2026/08/27/caixa-colheu-numeros-muito-significativos-no-2o-trimestre-apesar-do-cenario-desafiador-diz-ceo.ghtml",
+      "published": "2026-08-27T14:07:46+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Caneta emagrecedora pode afetar o ciclo menstrual? Veja o que se sabe - Veja Saúde",
       "summary": "Caneta emagrecedora pode afetar o ciclo menstrual? Veja o que se sabe &nbsp;&nbsp; Veja Saúde",
       "url": "https://saude.abril.com.br/medicina/caneta-emagrecedora-pode-afetar-o-ciclo-menstrual-veja-o-que-se-sabe",
@@ -8326,29 +8207,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Senador rejeita emendas, entrega relatório e fim da escala 6x1 fica pronto para votação na CCJ",
-      "summary": "O senador Omar Aziz (PSD-AM) divulgou nesta quinta-feira (27) o relatório da PEC (Proposta de Emenda à Constituição) que acaba com a escala 6x1. O congressista atendeu ao governo e manteve o texto aprovado pela Câmara em maio. Leia mais (08/27/2026 - 13h27)",
-      "url": "https://www1.folha.uol.com.br/poder/2026/08/senador-rejeita-emendas-entrega-relatorio-e-fim-da-escala-6x1-fica-pronta-para-votacao-na-ccj.shtml",
-      "published": "2026-08-27T16:27:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -8446,29 +8304,6 @@
       "score": 20.0
     },
     {
-      "title": "Relator da PEC do fim da escala 6x1 no Senado mantém texto aprovado na Câmara",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/relator-da-pec-do-fim-da-escala-6x1-no-senado-mantem-texto-aprovado-na-camara",
-      "published": "2026-08-27T17:44:52+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "iFood movimenta R$ 167 bilhões e já responde por 0,7% do PIB brasileiro",
       "summary": "Estudo da Fipe mostra que impacto econômico da plataforma cresceu 19% em um ano e gerou 1,18 milhão de postos de trabalho diretos e indiretos em 2025",
       "url": "https://veja.abril.com.br/economia/ifood-movimenta-r-167-bilhoes-e-ja-responde-por-07-do-pib-brasileiro",
@@ -8515,6 +8350,29 @@
       "score": 20.0
     },
     {
+      "title": "Jelly Roll ironiza rumores do uso de canetas emagrecedoras após perder 125 kg - Globo",
+      "summary": "Jelly Roll ironiza rumores do uso de canetas emagrecedoras após perder 125 kg &nbsp;&nbsp; Globo",
+      "url": "https://vogue.globo.com/celebridades/noticia/2026/08/jelly-roll-ironiza-rumores-do-uso-de-canetas-emagrecedoras-apos-perder-125-kg.ghtml",
+      "published": "2026-08-27T18:47:45+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "BB diz à Justiça que não debitou R$ 422 mi da Casas Bahia e acusa empresa de má-fé",
       "summary": "O Banco do Brasil negou que tenha retirado R$ 422 milhões da conta da Casas Bahia e afirmou à Justiça que se trata de litigância de má-fé. Na segunda-feira (24), a empresa usou o suposto débito para embasar um pedido de urgência contra a fuga de recursos de seu caixa. Leia mais (08/27/2026 - 16h09)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/08/bb-diz-a-justica-que-nao-debitou-r-422-mi-da-casas-bahia-e-acusa-empresa-de-ma-fe.shtml",
@@ -8553,6 +8411,282 @@
         {
           "sector": "Farmácias",
           "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Exclusivo: Ministério Público de SP é contra homologação de plano de recuperação do GPA",
+      "summary": "O Ministério Público de São Paulo (MPSP) publicou parecer contrário ao plano de recuperação extrajudicial do GPA, semanas depois de credores terem apresentado impugnações ao plano. Para a promotoria, há problemas jurídicos no plano, e o principal seria um excesso de heterogeneidade ao criar um grupo que reuniu uma série de diferentes credores ao mesmo tempo, o que afetou a legitimidade da negociação. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/27/exclusivo-ministerio-publico-de-sp-e-contra-homologacao-de-plano-de-recuperacao-do-gpa.ghtml",
+      "published": "2026-08-27T19:55:58+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O CEO da Riachuelo aprendeu a desacelerar sem perder velocidade",
+      "summary": "﻿ Uma hora antes de se sentar para falar sobre liderança, André Farber estava dentro de uma piscina de ondas. O CEO da Riachuelo havia nadado 3 mil metros, surfado e ainda planejava voltar para a água à noite. Tudo isso em jejum. A entrevista para o Bravamente, programa de Carlos Burle em parceria com [&#8230;] O post O CEO da Riachuelo aprendeu a desacelerar sem perder velocidade apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/bravamente/o-ceo-da-riachuelo-aprendeu-a-desacelerar-sem-perder-velocidade",
+      "published": "2026-08-27T20:02:08+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "riachuelo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "riachuelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Rótulos falsos e material diluído: polícia mira laboratório clandestino de canetas emagrecedoras em SC - G1",
+      "summary": "Rótulos falsos e material diluído: polícia mira laboratório clandestino de canetas emagrecedoras em SC &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sc/santa-catarina/noticia/2026/08/27/laboratorio-clandestino-canetas-emagrecedoras-sc-casal-preso.ghtml",
+      "published": "2026-08-27T22:01:32+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Natura conclui acordo com Advent e amplia conselho após aprovação dos acionistas",
+      "summary": "A Natura concluiu nesta quinta-feira (27) a formalização dos acordos relacionados à entrada da gestora Advent International em sua estrutura societária, após obter aprovação dos acionistas em assembleia geral extraordinária. A companhia anunciou a assinatura do acordo entre os grupos de acionistas signatários do acordo anterior, firmado em março deste ano, e o Lotus Fundo de Investimento em Participações Multiestratégia, veículo ligado à Advent. A operação dá sequência ao compromisso vinculante celebrado entre as partes em março de 2026. Confira os resultados e indicadores da Natura e das demais companhias de capital aberto no portal Valor Empresas 360 Como condição para a formalização dos acordos, os acionistas aprovaram a dispensa da obrigação de realização de uma Oferta Pública de Aquisição de Ações (OPA) por parte da Advent, desde que a participação detida pela gestora permaneça abaixo do limite máximo previsto no estatuto social da companhia. Além disso, em assembleia realizada no mesmo dia, a Natura aprovou uma série de mudanças em sua governança corporativa. O conselho de administração da empresa de cosméticos passou a poder contar com até dez integrantes, número que foi imediatamente adotado para o mandato em curso. Com isso, foram eleitos os executivos Juan Pablo Zucchini e Rafael Patury Carneiro Leão para o colegiado. A assembleia ainda promoveu alterações no estatuto social da Natura para determinar que o comitê de auditoria seja coordenado por um membro independente, medida voltada ao fortalecimento das práticas de governança. Além disso, os acionistas aprovaram um programa de opções de compra ou subscrição de ações para executivos e colaboradores elegíveis.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/27/natura-conclui-acordo-com-advent-e-amplia-conselho-aps-aprovao-dos-acionistas.ghtml",
+      "published": "2026-08-28T01:26:34+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "How Costco’s $4.99 rotisserie chicken defies inflation",
+      "summary": "The retailer built its own factory to keep costs low for the famous bird. But resisting rising prices is a constant struggle",
+      "url": "https://www.ft.com/content/30ac3572-06a9-4718-8043-60b1dee50c40?syn-25a6b1a6=1",
+      "published": "2026-08-28T04:00:06+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "costco"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "costco",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein vai lançar ações na bolsa — como o brasileiro pode participar",
+      "summary": "IPO da varejista em Hong Kong pode movimentar US$ 1,77 bilhão e avaliar empresa em US$ 27 bilhões",
+      "url": "https://exame.com/invest/mercados/shein-vai-lancar-acoes-na-bolsa-como-o-brasileiro-pode-participar",
+      "published": "2026-08-28T05:41:59+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Casal que mantinha laboratório clandestino de manipulação e adulteração de canetas emagrecedoras é preso em SC - Extra online",
+      "summary": "Casal que mantinha laboratório clandestino de manipulação e adulteração de canetas emagrecedoras é preso em SC &nbsp;&nbsp; Extra online",
+      "url": "https://extra.globo.com/blogs/radar-brasil/post/2026/08/casal-que-mantinha-laboratorio-clandestino-de-manipulacao-e-adulteracao-de-canetas-emagrecedoras-e-preso-em-sc.ghtml",
+      "published": "2026-08-28T07:01:18+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Indicadores de inadimplência do setor privado batem recorde",
+      "summary": "Os dados de endividamento do setor privado, tanto das empresas quanto das famílias, são fonte maior de preocupação para os economistas para 2027, num cenário em que a taxa de juros ainda deve permanecer alta como parte de uma política monetária que permita a convergência da inflação para a meta e em ambiente de desaceleração da economia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/brasil/noticia/2026/08/28/indicadores-de-inadimplencia-do-setor-privado-batem-recorde.ghtml",
+      "published": "2026-08-28T08:00:57+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Flávio assinou proposta de redução de jornada em 2025",
+      "summary": "Embora esteja no centro de uma articulação para evitar a votação da proposta de emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1, o candidato à Presidência pelo PL, senador Flávio Bolsonaro (RJ), é um dos proponentes de uma PEC sobre o mesmo tema, que foi idealizada pelo senador Cleitinho Azevedo (Republicanos-MG). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/politica/noticia/2026/08/28/flavio-assinou-proposta-de-reducao-de-jornada-em-2025.ghtml",
+      "published": "2026-08-28T08:01:12+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "redução de jornada"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "redução de jornada",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "MPSP é contra homologação de plano de recuperação do GPA; rede defende acordo",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/28/mpsp-e-contra-homologacao-de-plano-de-recuperacao-do-gpa-rede-defende-acordo.ghtml",
+      "published": "2026-08-28T08:01:23+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "A injeção de inovação da EMS: altas taxas de crescimento e investimento em pesquisa",
+      "summary": "Uma das maiores farmacêuticas brasileiras e líder em genéricos é a grande vencedora da edição 2026 do ranking TOP30",
+      "url": "https://veja.abril.com.br/economia/a-injecao-de-inovacao-da-ems-altas-taxas-de-crescimento-e-investimento-em-pesquisa",
+      "published": "2026-08-28T08:30:30+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ems"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gold Supported by U.S. Debt Worries",
+      "summary": "Gold prices remained supported with ANZ saying investors were seeking protection from runaway budget deficits and a weaker dollar by buying the precious metal.",
+      "url": "https://www.wsj.com/finance/commodities-futures/gold-falls-as-markets-await-jackson-hole-4f46864e?mod=rss_markets_main",
+      "published": "2026-08-28T08:44:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "gold"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "gold",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8967,6 +9101,37 @@
       "score": 16.0
     },
     {
+      "title": "AWS e Sebrae lançam curso gratuito de agentes de IA para empreendedores brasileiros",
+      "summary": "A AWS e o Sebrae Startups lançaram um programa gratuito para ensinar empreendedores brasileiros a criar e utilizar agentes de inteligência artificial. Anunciada nesta quinta-feira, 27 de agosto, durante o Startup Summit 2026, a iniciativa tem como meta capacitar 5 mil pessoas. Batizado de “Agentes de IA na AWS”, o treinamento reúne oito módulos, todos em português, e utiliza ferramentas como Claude, Amazon Quick e Kiro. Segundo as organizações, a proposta é oferecer uma formação prática, que parte dos fundamentos da tecnologia e chega à construção de agentes autônomos. Entre os projetos previstos estão a criação de um agente de suporte para e-commerce, um agente para gestão de finanças pessoais e outro voltado à produção de conteúdo para marketing e redes sociais. Há ainda um módulo sobre a implementação de agentes de IA diretamente na infraestrutura da AWS. “Não basta entender o que é IA, é preciso saber construir com ela. Agentes de IA são a fronteira mais prática e acessível para startups que querem escalar operações, automatizar processos e criar produtos diferenciados sem precisar de grandes equipes técnicas”, disse em nota Karina Lima, head de Startups da AWS no Brasil. Os treinamentos ficam disponíveis até 31 de dezembro de 2026 e podem ser realizados gratuitamente de forma online. As inscrições podem ser feitas neste link. Ao concluir os cursos, os participantes recebem certificações da AWS. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/startups/noticia/2026/08/aws-e-sebrae-lancam-curso-gratuito-de-agentes-de-ia-para-empreendedores-brasileiros.ghtml",
+      "published": "2026-08-27T21:10:08+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Confiança do comércio cai 0,6% em agosto, diz CNC",
       "summary": "Após cair 0,8% em julho, o Índice de Confiança do Empresário do Comércio (Icec) da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) recuou 0,6% em agosto, para 101,3 pontos, informou a organização nessa quarta-feira (29). A retração conduziu a confiança do varejo ao menor patamar desde novembro de 2025 (100,5 pontos). Na comparação com agosto do ano passado, a queda foi de 0,7%. Para a confederação, o resultado indica que o empresário do comércio está menos confiante em agosto, preocupado com condições atuais do negócio. Isso é perceptível na evolução dos três indicadores componentes do Icec. Enquanto o de expectativas subiu 0,4% e o de intenção de investimentos recuou 0,3%, o de condições atuais amargou queda de 2,5% de julho a agosto. Na comparação com igual mês no ano passado, a queda de condições atuais foi de 2,8% em agosto desse ano, recuo mais intenso do que observado no tópico expectativas (-0,2%), nessa mesma comparação. Já intenção de investimentos subiu 0,1%, em agosto ante agosto de 2025. Em comunicado, o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, avaliou o momento atual do setor como “complexo”. Porém, disse estar confiante na continuidade da redução da taxa básica de juros (Selic), que norteia juros de mercado, pelo Conselho de Política Monetária (Copom) do Banco Central (BC). Isso porque, na prática, quando o juro fica mais alto, comprar a crédito também encarece para o consumidor, afetando diretamente as vendas no varejo. Atualmente, a Selic está em 14% ao ano. “O patamar recorde de empresas inadimplentes registrado pela pesquisa de junho do Serasa, é reflexo do aperto monetário causado pela alta taxa Selic, alvo de nossos alertas há meses”, continuou ele. “Acompanhamos de perto essa situação, lamentando cada negócio que não consegue desempenhar como gostaria e atuando diante de autoridades para reverter esse ciclo”, completou. Ao detalhar o impacto do atual patamar de juros, considerado elevado no entendimento da CNC, a organização mapeou ainda o tópico “condições atuais” por diferentes segmentos, principalmente os que dependem mais de crédito para vendas. Os destaques de recuo, nesse tópico, ficaram com os chamados “semiduráveis”. Em agosto, a confederação apurou quedas nas avaliações sobre condições atuais entre empresários de roupas, calçados, tecidos e acessórios (-0,4%), supermercados, farmácias e lojas de cosméticos (-3,5%) e eletrônicos, eletrodomésticos, móveis e decoração, cine/foto/som, material de construção e veículos (-4,6%). “Mesmo que a taxa Selic mantenha sua queda responsavelmente, alguns meses são necessários para que essa futura redução chegue até o preço praticado pelo varejo e consequente alívio no bolso do cidadão”, acrescentou economista da CNC, Catarina Carneiro. “Só então, vencendo as instabilidades, teremos um arrefecimento nos níveis de comprometimento da renda tanto por parte dos empresários quanto dos consumidores”, comentou ela. A CNC ponderou ainda que, para o empresariado do comércio, a conjuntura econômica também é ponto de atenção em agosto. Isso porque os próximos meses são de campanha eleitoral no Brasil (o que pode mudar a condução de política econômica). Possíveis impactos na atividade de influências externas ainda decorrentes da guerra dos EUA contra o Irã e de eleições americanas também estão no radar dos empresários do setor, informou ainda a organização. Marcello Casal Jr/Agência Brasil",
       "url": "https://valor.globo.com/brasil/noticia/2026/08/26/confiana-do-comrcio-cai-06-pontos-percentuais-em-agosto-diz-cnc.ghtml",
@@ -9040,211 +9205,36 @@
       "score": 10.0
     },
     {
-      "title": "Stocks Slump as Bond Yields Rise With Crude Prices",
-      "summary": "Plus, Walmart sinks after reporting weak earnings.",
-      "url": "https://www.wsj.com/finance/investing/stocks-slump-as-bond-yields-rise-with-crude-prices-c61f10d2?mod=rss_markets_main",
-      "published": "2026-08-20T20:09:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Bolsas de NY fecham em queda com avanço dos juros dos Treasuries",
-      "summary": "O avanço dos juros dos títulos do Tesouro americano (Treasuries), nesta quinta-feira (20), devolvendo boa parte do alívio causado pela atuação do Tesouro ontem, levou as bolsas americanas a encerrarem em queda. A alta nos preços do petróleo também pressionou os índices, diante das novas ameaças econômicas dos Estados Unidos contra o Irã. A projeção de vendas abaixo do esperado do Walmart também contribuiu para as perdas, sobretudo do Dow Jones. O índice Dow Jones encerrou em queda de 1,31%, aos 52.760,93 pontos, o S&amp;P 500 cedeu 0,87%, aos 7.641,26 pontos, e o Nasdaq recuou 1%, aos 26.067,17 pontos. O mercado já revertia boa parte dos efeitos do anúncio de ontem desde o início da sessão e a tendência de alta dos juros ganhou tração após o secretário da autarquia, Scott Bessent, vir a público para afirmar que outras medidas ainda não foram descartadas e que os Estados Unidos anunciarão um foco maior na consolidação fiscal, com a dívida tendo ultrapassado a marca US$ 40 trilhões. Há certo grau de descrença entre os agentes financeiros quanto à credibilidade das orientações do Tesouro. Bessent também abordou a guerra no Irã e disse que os EUA ampliaram as pressões econômicas contra Teerã, retirando a possibilidade de novas ofensivas militares. As declarações foram em linha com as últimas falas do presidente americano, Donald Trump, e contribuíram para que os preços do petróleo encerrassem o dia em alta firme. A referência global, o Brent, ficou acima do patamar de US$ 93 por barril. Dow Jones cede nesta quinta-feira (20), dia em que as bolsas dos EUA foram pressionadas pelos juros dos Treasuries, preços do petróleo e projeção ruim para as vendas do Walmart Michael Nagle/Bloomberg",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/20/bolsas-de-ny-fecham-em-queda-com-avanco-dos-juros-dos-treasuries.ghtml",
-      "published": "2026-08-20T20:25:29+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "U.S. Stocks and Bonds Slide, Brushing Off Treasury’s Buyback Plans",
-      "summary": "Mixed results from Walmart and other retailers offered more gloom on the health of the American consumer.",
-      "url": "https://www.wsj.com/finance/stocks/u-s-stocks-and-bonds-slide-brushing-off-treasurys-buyback-plans-57ced23b?mod=rss_markets_main",
-      "published": "2026-08-20T21:32:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "walmart"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "walmart",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Outro brasileiro no alto escalão da Qualcomm",
-      "summary": "A americana Qualcomm contratou o brasileiro Sergio Buniac como vice-presidente executivo e diretor geral da divisão de Mobile, Compute and Personal AI, supervisionando as divisões de chips para smartphones, computação pessoal, vestíveis e realidade virtual. Ele vai se reportar diretamente para o também brasileiro Cristiano Amon, CEO da companhia desde 2021. Buniac passou três décadas como um dos principais executivos da Motorola e desde 2018 era presidente da Motorola Devices. Ficou conhecido no setor pelo feito de manter a companhia de celulares, por anos, como a segunda maior marca de smartphones do Brasil, atrás apenas da Samsung, impedindo a ascensão de novatas chinesas como Xiaomi, Realme e Oppo no país - enquanto a divisão de celulares da Motorola, adquirida pela chinesa Lenovo por US$ 2,91 bilhões em 2014, perdia relevância no resto do mundo. O Brasil ainda se mantém como o principal mercado global da Motorola na divisão de celulares. Crise dos chips de memória chega à Apple Qualcomm na corrida de IA A Qualcomm diz que Buniac será \"fundamental\" na expansão da fabricante de chips para a era da IA agêntica, liderando a transição da companhia para um mercado em que dispositivos de diferentes categorias vão ser capazes de rodar comandos de agentes autônomos. “Sergio tem um histórico sólido de impulsionar inovação, transformar e fazer negócios crescerem”, disse Amon, em nota. Com sede em San Diego, na Califórnia, a Qualcomm é uma das maiores fornecedoras mundiais de chips de usos diversos para smartphones, computadores, IoT e, recentemente, em IA na borda, quando o processamento dos modelos de inteligência artificial acontecem no próprio dispositivo e não vão para a nuvem. O portfólio de clientes da companhia inclui os principais nomes do setor da tecnologia, como Apple, Samsung, Xiaomi, Motorola, Microsoft, Dell e Acer, entre outros. Egresso da Microsoft, Sergio Buniac assume divisão mobile da Qualcomm Divulgação",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/outro-brasileiro-no-alto-escalao-da-qualcomm.ghtml",
-      "published": "2026-08-20T22:02:57+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "Eletrônicos"
-      ],
-      "matched_aliases": [
-        "smartphones"
-      ],
-      "matches": [
-        {
-          "sector": "Eletrônicos",
-          "alias": "smartphones",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Como um aplicativo desenvolvido internamente fez da VLI a empresa mais inovadora do ano em serviços logísticos",
-      "summary": "A maquinista Stefani Queiroz conduz locomotivas da VLI equipadas com tecnologia para redução de emissões Divulgação Para a VLI, uma das maiores empresas de serviços de logística do país, a inovação não é uma tarefa para poucos. No ano passado, por exemplo, a companhia mobilizou mais de 1,4 mil empregados em diferentes programas, projetos e desenvolvimento de soluções e tecnologias inovadoras para seus negócios e investiu mais de R$ 126 milhões. Entre as principais entregas desenvolvidas em casa, destaca-se o CargoCIF, um modelo inovador de serviço aos clientes, informa Alessandro Pena da Gama, diretor-executivo de engenharia, planejamento, tecnologia e inovação da VLI. Apoiado em integração sistêmica, automação transacional e rastreabilidade digital, o aplicativo viabiliza a transferência segura da posse da carga entre o produtor rural e o cliente. Atualmente, a solução está operando em escala em todos os terminais e portos de grãos da VLI. E já movimentou mais de 300 mil toneladas, acumulando aproximadamente R$ 69 milhões em receita líquida, nove grandes clientes, incluindo importantes players do agronegócio. Em 2025, VLI avançou também na adoção de soluções tecnológicas voltadas ao aumento da eficiência energética e à redução das emissões associadas às operações ferroviárias. Uma das iniciativas foi a ampliação do uso do sistema Leader (Locomotive Engineer Assist/Display Event Recorder), tecnologia embarcada que apoia a condução inteligente e padronizada dos trens. A tecnologia foi implementada nas frotas mais novas de locomotivas, que são utilizadas na Ferrovia Norte-Sul (FNS) e nos corredores Leste e Sudeste da Ferrovia Centro-Atlântica (FCA). Além de apostar na tecnologia de ponta, a empresa também considera que a inovação depende de uma visão plural, sustentada por equipes igualmente diversas. Mais do que tudo, confia Gama, a inovação na VLI está incorporada ao plano de carreira e sucessão da empresa, que incentiva o desenvolvimento de competências como a capacidade de solucionar problemas e o aprendizado sobre novas tecnologias. “Essa atuação é sustentada por uma governança que permite que oportunidades sejam identificadas, priorizadas, testadas e escaladas de forma ágil e alinhada às prioridades estratégicas da companhia”, afirma. A possibilidade de transformar conhecimento operacional em novas capacidades para o negócio por meio da tecnologia também permeia a estratégia de inovação da Total Express, transportadora de encomendas para empresas e pessoas físicas, que atua em mais cinco mil cidades brasileiras. Essa abordagem permitiu desenvolver uma série de plataformas e produtos digitais proprietários que hoje fazem parte do portfólio da empresa, aponta Juliano De Conti, CIO e CTO da Total Express. “Um dos projetos mais transformadores foi a reconstrução completa da plataforma de onboarding (integração) de clientes”, diz ele. “Reduzimos drasticamente o tempo de integração, tornando o processo mais de 25 vezes mais eficiente, mudando não apenas um processo de TI, mas a capacidade da empresa de incorporar novos clientes, acelerar o crescimento e responder com muito mis agilidade às demandas do mercado”, acrescenta. Juliano De Conti, CIO e CTO da Total Express Divulgação A construção do Total Conecta, plataforma digital de relacionamento com clientes, seguiu a mesma lógica, segundo De Conti. Antes de tudo, redesenhamos toda experiência digital dos embarcadores, diz. “E o resultado foi uma plataforma capaz de suportar mais de 1.000% de crescimento na capacidade de acessos simultâneos, três vezes mais rápida que a anterior, com redução de 85% na taxa de erros operacionais, e responsável, atualmente, por suportar mis de 80% do crescimento da companhia, afirma. Os resultados alcançados pelos novos projetos mostram que a tecnologia não é o seu ponto de partida, avalia o executivo. Mas, para ela ganhar um papel estratégico, ele diz que foi necessário transformar a cultura da organização: “Tivemos que rever modelos de gestão, questionar práticas estabelecidas e, muitas vezes, promover discussões importantes sobre a forma como atraíamos, desenvolvíamos e retínhamos talento”, diz. “Sempre acreditei que transformação digital é antes de tudo uma transformação de pessoas.” Para a Localiza&amp;Co, que opera com uma frota de mais de 630 mil carros conectados e 20 mil colaboradores, em sete países da América do Sul, a inovação é mais do que uma necessidade. “É um pilar estratégico para transformar a experiência do cliente e impulsionar a evolução do mercado de mobilidade”, diz André Petenussi, diretor de tecnologia da companhia. Para essa transformação, a empresa conta hoje com uma equipe de 300 profissionais no Localiza Labs, o laboratório de tecnologia e ciência de dados criado em Belo Horizonte (MG), em 2024. Trata-se de um investimento contínuo em inovação e tecnologias que se traduz em avanços concretos, segundo Petenussi. A Liza, uma assistente virtual, baseada em IA, nasceu no aluguel de carros (RAC) e vem sendo expandida para outros negócios, como o Localiza Seminovos. Atualmente, a Liza contribui diretamente para a jornada de reservas, que passaram de cerca de duas mil para quase oito mil por mês. “Hoje, 93% das interações relacionadas a reservas no WhatsApp são resolvidas de forma totalmente automatizada, permitindo que nossas equipes concentrem sua atuação nas situações em que a interação humana realmente faz diferença”, conta ele. Outro exemplo é o FAST Retirada Digital, destinado a ampliar a autonomia e a conveniência dos clientes. Após superar a marca de mais de 1 milhão de retiradas digitais em 2025, a solução foi utilizada por mais de 750 mil clientes no primeiro semestre de 2026. “Nossa abordagem parte da escuta ativa dos clientes e do acompanhamento contínuo de sua jornada para identificar comportamentos, necessidades e oportunidades de melhoria”, ressalta Petenussi. Para ampliar sua competitividade no mercado de logística no país, a Loggi, que atua fortemente no segmento de e-commerce, buscou criar uma sólida base tecnológica, relata Rafael Szarf, presidente da companhia. Só este ano serão investidos mais de R$ 100 milhões em infraestrutura, além de outros desembolsos que estão sendo realizados no desenvolvimento de soluções proprietárias baseadas em inteligência artificial (IA) e automações, informa ele. Um dos novos desenvolvimentos é o Logística Self-Service, solução automatizada para integração de plataformas e contratação de fretes – do cadastro à cotação, definição de tabelas de preços e envio, sem necessidade de contato comercial. O aplicativo reduz o tempo de integração de novos clientes de dias para menos de uma hora e suporta mais de 900 mil acessos mensais e cerca de 100 mil pedidos por mês. “Os resultados dos novos projetos de inovações permitiram a geração de mais de R$ 3 milhões em receita recorrente mensal e contribuíram para uma receita bruta superior a R$ 14 milhões em 2025, um crescimento de 46,3% em relação a 2024”, destaca Szarf. No Grupo Águia Branca, fundado em 1946 pela família capixaba Chieppe, e que hoje atua no transporte logístico com centenas de bases operacionais, 20 mil colaboradores e faturamento em torno de R$ 20 bilhões, a tecnologia não é um fim em si mesmo, mas um meio para resolver problemas reais dos clientes, colaboradores e da sociedade, diz Decio Chieppe, vice-presidente de inovação e finanças. “E, a partir disso, gerar ganhos de produtividade, novos modelos de receita e diferenciação competitiva.” Temas como IA, automatização e eletrificação já estão incorporados à estratégia do grupo e têm papel direto na expansão e diversificação das operações, indica ele. A estrutura de inovação foi desenhada para equilibrar estratégia, escala e execução – para isso, o grupo conta com um time enxuto de 11 profissionais especializados. “Desde a sua concepção, a área também priorizou o fortalecimento da cultura de inovação como um elemento central”, diz. “Acreditamos que inovação não é responsabilidade exclusiva de um time, mas uma capacidade organizacional. Por isso, estruturamos uma jornada contínua de sensibilização e engajamento dos colaboradores, para estimular o comportamento inovador no dia a dia.” Mais Lidas",
-      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/08/como-um-aplicativo-desenvolvido-internamente-fez-da-vli-a-empresa-mais-inovadora-do-ano-em-servicos-logisticos.ghtml",
-      "published": "2026-08-20T22:29:32+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "logística"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "logística",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Ambev inicia venda online de cerveja sem álcool com whey protein e colágeno. Veja preço",
-      "summary": "Anunciada no mês passado, a Ambev lançará amanhã sua primeira cerveja sem álcool e com whey protein, em uma estratégia de venda exclusivamente online. A Spaten Pro, com 10 gramas de proteína, coloração escura e notas de chocolate, estreia neste sábado no Zé Delivery, aplicativo de entregas da cervejaria, nas cidades de São Paulo e Rio de Janeiro. Já na próxima semana, o novo rótulo estará disponível para todo o Brasil por meio de sites de e-commerce. Esta é a primeira bebida do tipo no portfólio global da AB InBev (ABI). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/21/ambev-inicia-venda-online-de-cerveja-sem-alcool-com-whey-protein-e-colageno-veja-preco.ghtml",
-      "published": "2026-08-21T03:00:44+00:00",
+      "title": "Great Place To Work: conheça as grandes empresas com atuação no Brasil presentes no ranking",
+      "summary": "Além das empresas que ocupam as primeiras posições, o ranking GPTW conta com companhias brasileiras, como o Itaú, ou que estão presentes em larga escala no país, a exemplo da Arcos Dorados. Essas organizações resumem o que está por trás do reconhecimento como melhores para trabalhar. Na Eurofarma, o diferencial está na “força da cultura organizacional, baseada em respeito, colaboração, diversidade, empreendedorismo e responsabilidade”, diz Daniela Panagassi, vice-presidente global de Pessoas e Organização. Na Sicredi, o objetivo é “oferecer um ambiente acolhedor, inclusivo e seguro, onde cada pessoa possa se desenvolver, contribuir com seu talento e se sentir pertencente”, diz Daniele Schmidt, diretora-executiva de Pessoas e Cultura. Na Experian, o objetivo é “criar um ambiente em que as pessoas tenham espaço para aprender, contribuir e construir trajetórias profissionais”, diz Flávio Balestrin, vice-presidente de Recursos Humanos. Já a Magalu aposta na forma humanizada de olhar colaboradores e clientes, explica Patricia Pugas, diretora-executiva de Gestão de Pessoas. O CEO da Fundimisa, Paulo Ely, destaca que uma empresa só consegue se expandir quando as pessoas crescem junto. Na Gazin, o presidente Gilmar Alves diz que o reconhecimento representa, principalmente, o resultado do trabalho coletivo. Já no Grupo Visagio, a sócia Fernanda Becker atribui o sucesso à “cultura pautada pela confiança radical”. Na ViaCredi, o reconhecimento dos funcionários começa pelo propósito e pela conexão entre aquilo em que a empresa acredita e a forma como faz negócios, diz Letícia Liene Pasold, superintendente de Pessoas, Relacionamento e Comunicação. Na Escola Bahiana de Medicina e Saúde Pública, o sucesso é resultado da “dedicação conjunta para construir e manter um ambiente seguro, acolhedor, que escuta, respeita e confia”, diz Pollyanna Leal, diretora de Relações Humanas. A Tigre, por sua vez, busca “um ambiente baseado na valorização das pessoas, no desenvolvimento contínuo e na oportunidade de cada profissional participar ativamente da evolução da companhia”, diz Juliano Pereira, diretor-executivo global de Pessoas, Sustentabilidade e Processos Organizacionais. A Mag Seguros vê o reconhecimento do GPTW como “consequência de uma agenda contínua de investimentos em desenvolvimento profissional, bem-estar, diversidade, inclusão e formação de lideranças”, na opinião de Patrícia Campos, diretora de Gente e Gestão. Na Vivo, a estratégia passa por “apoiar colaboradores nos momentos que mais importam”, ressalta o vice-presidente de Pessoas, Fernando Luciano. Na Fecomércio-RS/Sesc/Senac e IFEP, o maior de destaque é a cultura fortalecida desde a fundação, há 80 anos. Hoje, diz o presidente da instituição, Luiz Carlos Bohna, a organização está consolidada e representada por cada colaborador. O presidente da Cresol, Cledir Assisio Magri, diz que a empresa “prima pela visão coletiva, colaborativa, participativa”. Já na Volkswagen Caminhões e Ônibus, a conquista é vista como reflexo de uma cultura construída diariamente, “baseada em confiança, respeito, cuidado com as pessoas e espírito de equipe”, diz Anderson Decimoni, vice-presidente de Pessoas e Cultura.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/great-place-to-work-conheca-as-grandes-empresas-com-atuacao-no-brasil-presentes-no-ranking.ghtml",
+      "published": "2026-08-28T09:15:16+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
-        "E-commerce"
+        "E-commerce",
+        "Farmácias"
       ],
       "matched_aliases": [
-        "e-commerce"
+        "eurofarma",
+        "magalu"
       ],
       "matches": [
         {
           "sector": "E-commerce",
-          "alias": "e-commerce",
-          "field": "lead",
-          "score": 8,
+          "alias": "magalu",
+          "field": "body",
+          "score": 2,
           "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "North Korea’s economy enjoys rare ‘dash for flash’",
-      "summary": "Kim Jong Un’s backing for Russian war on Ukraine fuels construction boom and sales of luxury goods",
-      "url": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab",
-      "published": "2026-08-21T03:21:12+00:00",
-      "source": "https://www.ft.com/rss/home",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxury goods"
-      ],
-      "matches": [
+        },
         {
-          "sector": "Global Consumer",
-          "alias": "luxury goods",
+          "sector": "Farmácias",
+          "alias": "eurofarma",
           "field": "lead",
           "score": 8,
           "topic": null
         }
       ],
-      "score": 8.0
-    },
-    {
-      "title": "North Korea enjoys rare ‘dash for flash’",
-      "summary": "Kim Jong Un’s backing for Russian war on Ukraine fuels construction boom and sales of luxury goods",
-      "url": "https://www.ft.com/content/182f8161-b1a8-43f7-8918-f78f34e03cab?syn-25a6b1a6=1",
-      "published": "2026-08-21T03:21:12+00:00",
-      "source": "https://www.ft.com/rss/home",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxury goods"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxury goods",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "SP Gastronomia começa hoje no Villa-Lobos",
-      "summary": "Péricles canta nesta sexta-feira sucessos de seus 40 anos de carreira Ana Branco/Agência O Globo Para provar receitas de dois restaurantes queridos da metrópole, caso do Cittadino - no Grand Hyatt São Paulo, hotel da zona sul - e do Elea Forneria, trattoria que faz sucesso na zona norte, é preciso topar uma viagem de cerca de uma hora de carro entre um e outro. Isso até ontem, porque a partir de hoje os dois levarão suas criações para o mesmo endereço, a Ilha Musical do Parque Villa-Lobos, onde acontece o SP Gastronomia. O festival se estende até domingo e volta entre os dias 28 e 30 de agosto. Os ingressos estão à venda na Ticketmaster. Nada menos que duas dezenas de restaurantes vão levar receitas inspiradas na cozinha global para o gramado do parque. O Cittadino, por exemplo, já garantiu a participação de seu sofisticado gnochetti dourado em manteiga de trufas, delicado creme de funghi porcini e grana padano. Já o Elea Forneria levará a tostata, feita com escabeche de polvo, sardela e aioli na focaccia da casa. De outra área da metrópole, a zona leste, o Mocotó também marcará presença no evento com criações como o baião de dois, que leva carne de sol na nata, farofa d’água e pipoca de queijo coalho. E, é claro, os dadinhos de tapioca originais - criados pelo chef Rodrigo Oliveira há 20 anos. Oliveira, inclusive, dá dicas de três restaurantes dos quais conhece bem a cozinha. “Amo Make Hommus. Not War, estou sempre lá e também peço em casa. É imperdível. Tudo feito com muito apreço, com hommus batido na hora”, afirma. “Não posso deixar de falar do Holy Burger, conheço há muito tempo. É difícil fazer o ranking dos melhores hambúrgueres da cidade, somos tão bem servidos, mas sem dúvida esse é um dos meus favoritos. Lá em casa todo mundo ama”, acrescenta ele, que também recomenda o Elea Forneria. Para os fãs de frutos do mar também não faltarão opções. O Mirandês, por exemplo, levará seus bolinhos de bacalhau (levinhos e dourados) que são sucesso no bairro de Santa Cecília. Para dividir, vai bem a tuna fries, do Muli. Por lá, as fritas ganham cubos de atum, bem fresquinhos, e creme azedo. Já na estação da Mirá Padaria Autoral, de influência japonesa e latina, saem pratos de encher os olhos como o tamago sando, sanduíche frio de salada de ovos cozidos lentamente e marinados em dashi, um caldo tradicional japonês feito de algas e cogumelos. A preparação é uma das diversas alternativas vegetarianas do evento. Se a vontade for de doces, a Luiza Lafer Confeitaria - sucesso do bairro de Pinheiros - levará uma seleção de sobremesas como a torta de chocolate com tahine e o bolo de maracujá com framboesa. São Paulo sempre me recebeu muito bem, é onde tenho uma relação muito forte com o público” Além de todos esses estabelecimentos, o evento ainda vai contar com a presença de A Casa do Porco, Camélia Òdòdó, Ceratti, Moela/Sururu, Osso, QT Pizza Bar, Sushi Vaz/Nori Vaz e Tre Bimbi. A boa mesa não é a única atração do SP Gastronomia. O festival terá uma seleção forte de atividades musicais ao longo de todos os dias. Nesta sexta-feira, a festa será comandada por Péricles, com sucessos de sua carreira solo e outros do seu tempo à frente do Exaltasamba. “Será um grande apanhado da carreira. São 15 anos de carreira solo, mais 25 de Exalta, quase 40 anos de trabalho. Nada melhor que o SP Gastronomia para aproveitar boa comida e um bom samba”, afirma o cantor. “Tudo que foi vivido me transformou no Péricles que sou hoje. É o começo da história.” No sábado, uma atração inédita tomará conta do evento. Será o show em homenagem a Gilberto Gil preparado por seus netos Bento Gil e Flor Gil. A dupla cantará hits incontornáveis da carreira do avô, caso de “A Paz” e “Esotérico”, além de canções que fizeram parte de seu repertório, mas são de outros compositores, como “Rosa Morena”, composta por Dorival Caymmi (1914-2008). O cantor Ferrugem, por sua vez, será o responsável por encerrar a programação noturna no domingo. O artista acaba de lançar o álbum “Sentimento”, com influência da soul music. “São Paulo é muito especial pra mim. É uma cidade que sempre me recebeu muito bem e onde eu tenho uma relação muito forte com o público”, afirma o cantor. O Ministério da Cultura e Petrobras apresentam o SP Gastronomia através da Lei Rouanet. O evento conta com oferecimento da Prefeitura de São Paulo; patrocínio master do Banco do Brasil e Elo e Enel Brasil; patrocínio da Vivo; apoio de Sabesp, SulAmérica, Rede D’Or, Garrafaria, Cielo, EMS e Lacday; participação de Ceratti e Kalassi. O SP Gastronomia tem, ainda, Gol como Companhia Aérea Oficial, Café L’OR como Café Oficial, Grand Hyatt São Paulo como Hotel Oficial e o Parque Villa-Lobos como Local Oficial. Produção RKF e Lanikai; Assessoria de Imprensa InPress, e Parceria de Mídia Eletromídia. A realização é do Globo, CBN, Valor e Ministério da Cultura.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/21/sp-gastronomia-comeca-hoje-no-villa-lobos.ghtml",
-      "published": "2026-08-21T08:01:08+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "hotel"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "hotel",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
+      "score": 10.0
     },
     {
       "title": "Do Technos Skydiver à Kombi elétrica, nostalgia virou estratégia de venda",
@@ -10343,6 +10333,75 @@
         {
           "sector": "E-commerce",
           "alias": "taxa das blusinhas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Aumento da idade mínima, BPC menor, capitalização: as mudanças propostas por especialistas em Previdência",
+      "summary": "Aumentar idade mínima da aposentadoria para 67 anos, igualando para homens e mulheres, implantar um sistema de capitalização no qual metade das contribuições vai para uma conta individual do trabalhador num fundo de previdência, elevar a contribuição para microempreendedor individual (MEI) e reduzir o Benefício de Prestação Continuada (BPC) a 60% do salário mínimo, aumentando o valor conforme os anos de contribuição são algumas das propostas de um grupo de especialistas para reformar a Previdência Social. Fim da escala 6x1: senador apresenta relatório e mantém texto da Câmara para acelerar tramitação Contas públicas: Ministro do Planejamento calcula economia de R$ 20 bilhões no Orçamento de 2027 com ‘gatilhos’ para conter despesas Após sete anos da última reforma, implantada em 2019, especialistas no tema prepararam, durante dez meses, uma nova mudança no sistema de aposentadoria social do Brasil. Segundo o diretor-presidente do Instituto Mobilidade e Desenvolvimento Social, Paulo Tafner, que foi coordenador técnico do estudo, a reforma de 2019 foi incompleta e, com as informações do Censo de 2022, constatou-se que o envelhecimento populacional está acontecendo mais rapidamente do que se esperava e com uma taxa de fecundidade menor: — Houve uma aceleração do gasto. Sem uma nova reforma, vai ficar mais difícil manter o equilíbrio fiscal, o controle da despesa previdenciária, o maior gasto da União. Alta do gasto Segundo cálculos presentes na proposta, a despesa já alcança 8% do Produto Interno Bruto (PIB) e pode chegar a 17,4% do PIB se não for feita uma reforma brevemente, o que permitiria que o gasto ficasse em torno de 10% a partir de 2060. No estudo desenvolvido pelos economistas Bernardo Schettini, Leonardo Rolim, Rogério Nagamine, Sergio Guimarães Ferreira e Tafner, há a previsão de uma mudança estrutural, além das alterações de parâmetros, como a idade mínima. Nesse capítulo entra a capitalização, que já era prevista na última reforma, mas não foi regulamentada. Recuo: Governo afirma que fila do INSS caiu 59% em agosto e atingiu menor patamar desde 2023 A ideia é manter 50% das contribuições no sistema atual e os outros 50% numa conta individual. — Lá na frente, o trabalhador vai receber uma parte nas regras atuais e o restante dessa conta individual. Ele deixa de saber quanto vai receber. Nós estamos mudando o benefício definido por contribuição definida — diz Tafner. Contribuição patronal cai O custo de transição para o sistema de capitalização, já que parte dos recursos vai direto para a conta do trabalhador, é reduzido no início, mas alcança 2,2% do PIB em 2070. O custo seria coberto por revisão de renúncias fiscais, royalties e focalização do abono salarial. A proposta também reduz a contribuição patronal para 16%, limitada ao teto de contribuição da Previdência, enquanto hoje incide sobre o total da folha de pagamento. Eles explicam que isso reduziria a pejotização, a contratação de trabalhadores como pessoas jurídicas, o que tira recursos da Previdência. Veja os detalhes da iniciativa Idade mínima para aposentadoria: pela proposta, sobe para 67 anos, igualando-se para homens e mulheres e para os benefícios urbano e rural. Atualmente, os homens podem se aposentar aos 65 anos e as mulheres, aos 62, com a contagem de um ano e meio de tempo de contribuição por cada filho. No setor rural, é de 60 anos para os homens e de 55 anos para as mulheres. Expectativa de vida: à medida que a esperança de vida ao nascer aumenta, eleva-se a idade mínima. A cada seis meses a mais de longevidade, a idade para se aposentar sobe quatro meses. Mudança no Benefício de Prestação Continuada (BPC): a transferência seria de 60% do salário mínimo (hoje equivalente a um piso completo), subindo dois pontos percentuais a cada ano de contribuição. O benefício só seria de um salário mínimo com 20 anos de contribuição. Contribuição do empregador: ela cai para 16% e vai incidir somente sobre o valor da folha, considerando o teto da aposentadoria do setor privado. Hoje, a contribuição é de 20% sobre o total da folha. Seguro: as empresas precisarão contratar um seguro para cobrir auxílio-doença, acidente de trabalho, aposentadoria por incapacidade permanente e pensão por morte não acidentária. O seguro pode ser contratado com o próprio INSS, que terá a concorrência de outros atores do mercado. Contribuição do MEI: ela sobe dos atuais 5% para 11%, exceto para quem recebe o Bolsa Família. Capitalização: a reforma prevê que metade das contribuições, juntamente com 50% dos repasses para o FGTS, irá para contas individuais administradas por fundos de pensão, que investirão os recursos até o momento da aposentadoria.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/aumento-da-idade-minima-bpc-menor-capitalizacao-as-mudancas-propostas-por-especialistas-em-previdencia.ghtml",
+      "published": "2026-08-28T03:00:21+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "salário mínimo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "salário mínimo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Horário eleitoral leva polarização ao rádio e à TV",
+      "summary": "O horário eleitoral de rádio e televisão começa hoje com quase 80% do tempo de propaganda concentrado nas campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Enquanto Lula usará o espaço para destacar resultados de seu terceiro mandato e fazer uma comparação com o governo de Jair Bolsonaro, Flávio pretende centrar seus programas no endividamento das famílias e empresas. Ronaldo Caiado (PSD), por sua vez, apostará na apresentação de sua trajetória e em sua gestão em Goiás. Sem cumprir as regras da cláusula de barreira nas eleições de 2022, o Novo, de Romeu Zema, e o Missão, de Renan Santos, não terão acesso ao horário eleitoral gratuito. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/08/28/horario-eleitoral-leva-polarizacao-ao-radio-e-a-tv.ghtml",
+      "published": "2026-08-28T08:00:38+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Beleza em todo lugar: Cálamo transforma tecnologia em vantagem competitiva",
+      "summary": "Responsável por abastecer 200 000 pontos de venda do Grupo Boticário, companhia leva prêmio TOP30 na categoria atacado e distribuição",
+      "url": "https://veja.abril.com.br/economia/beleza-em-todo-lugar-calamo-transforma-tecnologia-em-vantagem-competitiva",
+      "published": "2026-08-28T08:30:50+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
           "field": "lead",
           "score": 8,
           "topic": null
