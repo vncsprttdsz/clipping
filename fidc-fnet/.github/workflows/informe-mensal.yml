@@ -1,0 +1,86 @@
+name: Informe Mensal FIDC
+
+# O informe mensal de FIDC vence ~15 dias após o fechamento do mês, e
+# retificações pingam depois. Por isso duas passadas por mês: uma logo após o
+# prazo e outra no fim do mês, que pega entregas atrasadas e versões novas.
+on:
+  schedule:
+    - cron: '0 12 17 * *'   # dia 17, 09:00 BRT — logo depois do prazo de entrega
+    - cron: '0 12 27 * *'   # dia 27, 09:00 BRT — atrasos e retificações
+  workflow_dispatch:
+    inputs:
+      mes:
+        description: 'Mês de referência (AAAA-MM). Vazio = mês anterior.'
+        type: string
+        required: false
+      desde:
+        description: 'Início do intervalo (AAAA-MM) — para carga histórica.'
+        type: string
+        required: false
+      ate:
+        description: 'Fim do intervalo (AAAA-MM). Só vale junto com "desde".'
+        type: string
+        required: false
+      force:
+        description: 'Rebaixar mesmo o que já está no manifesto'
+        type: boolean
+        required: false
+        default: false
+
+permissions:
+  contents: write
+
+# Duas execuções mexendo em data/ ao mesmo tempo dariam conflito de push.
+concurrency:
+  group: fnet-fidc-download
+  cancel-in-progress: false
+
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Instala Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Instala dependências
+        run: pip install -r requirements.txt
+
+      - name: Monta os argumentos da rodada
+        id: args
+        run: |
+          args=""
+          if [ -n "${{ inputs.desde }}" ]; then
+            args="--desde ${{ inputs.desde }}"
+            [ -n "${{ inputs.ate }}" ] && args="$args --ate ${{ inputs.ate }}"
+          elif [ -n "${{ inputs.mes }}" ]; then
+            args="--mes ${{ inputs.mes }}"
+          fi
+          [ "${{ inputs.force }}" = "true" ] && args="$args --force"
+          echo "valor=$args" >> "$GITHUB_OUTPUT"
+          echo "Rodando com: $args"
+
+      - name: Baixa os informes mensais
+        run: python fnet_fidc.py --out data ${{ steps.args.outputs.valor }}
+
+      - name: Commita o que mudou
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- data; then
+            echo "Nada novo no FNET nesta rodada."
+            exit 0
+          fi
+          git add data
+          git commit -m "Informes FIDC $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # Outra rodada pode ter commitado enquanto esta baixava.
+          for tentativa in 1 2 3 4; do
+            git pull --rebase origin "${GITHUB_REF_NAME}" && git push && exit 0
+            sleep $((2 ** tentativa))
+          done
+          exit 1

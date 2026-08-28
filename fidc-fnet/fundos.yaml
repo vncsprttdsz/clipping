@@ -1,0 +1,28 @@
+# Lista de FIDCs a acompanhar no Fundos.NET.
+#
+# Cada entrada precisa de um CNPJ (com ou sem mascara). "nome" e so rotulo;
+# "apelido" define o nome da pasta em data/ (se ausente, usa o nome).
+#
+# Para descobrir o CNPJ de um fundo, procure ele em
+# https://fnet.bmfbovespa.com.br/fnet/publico/abrirGerenciadorDocumentosCVM
+# ou rode:  python fnet_fidc.py --mes 2026-07 --todos --dry-run -v
+
+# tipoFundo no FNET: 1 = FII, 2 = FIDC, 4 = FIP.
+tipo_fundo: 2
+
+# Meses apos a referencia em que ainda procuramos entregas e retificacoes.
+# 3 cobre entrega normal (ate ~15 dias) e a maioria das retificacoes.
+janela_meses: 3
+
+# Regex (sem acento, minusculo) aplicados a categoria + tipo + especie do
+# documento. Amplie aqui se quiser pegar outros documentos mensais.
+padroes:
+  - "informe mensal"
+
+fundos: []
+  # - nome: "Fundo de Investimento em Direitos Creditorios Exemplo"
+  #   apelido: "exemplo"
+  #   cnpj: "12.345.678/0001-90"
+  #
+  # - nome: "Outro FIDC"
+  #   cnpj: "98765432000110"
