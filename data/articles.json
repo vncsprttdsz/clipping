@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-29T13:03:11.774921+00:00",
-  "count": 414,
+  "generated_at": "2026-08-29T13:18:17.246885+00:00",
+  "count": 413,
   "new_this_run": 18,
   "articles": [
     {
@@ -57,53 +57,6 @@
         }
       ],
       "score": 88.0
-    },
-    {
-      "title": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo - Exame",
-      "summary": "Ozempic genérico? Novo medicamento de semaglutida tem resultado promissor em estudo &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/ciencia/ozempic-generico-novo-medicamento-de-semaglutida-tem-resultado-promissor-em-estudo",
-      "published": "2026-08-22T13:16:11+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "genérico",
-        "ozempic",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "genérico",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 80.0
     },
     {
       "title": "Contra o 'Ozempic face': canetas emagrecedoras abrem novo mercado para a indústria de cosméticos",
@@ -9075,29 +9028,6 @@
       "score": 20.0
     },
     {
-      "title": "Fim da escala 6x1 vira aposta eleitoral em jingles de deputados que comandaram comissão",
-      "summary": "",
-      "url": "https://www.estadao.com.br/politica/eleicoes/fim-da-escala-6x1-vira-aposta-eleitoral-em-jingles-de-deputados-que-comandaram-comissao-npr",
-      "published": "2026-08-28T19:34:32+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "França adota sua própria ‘taxa das blusinhas’: até R$ 120 por peça",
       "summary": "Penalidades financeiras buscam frear crescimento da moda 'fast fashion' no país",
       "url": "https://veja.abril.com.br/mundo/franca-adota-sua-propria-taxa-das-blusinhas-ate-r-120-por-peca",
@@ -9346,6 +9276,29 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Confederação diz que fim da escala 6x1 vai aumentar custos até das empresas que já reduziram jornada",
+      "summary": "Uma das entidades que questionam o fim da escala 6x1 , a CNI (Confederação Nacional da Indústria), fez levantamento para mostrar que a redução da jornada semanal para 40 horas, combinada à criação de um segundo DSR (Descanso Semanal Remunerado), pode elevar os custos também das empresas que já trabalham no 5x2. Leia mais (08/29/2026 - 10h00)",
+      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/08/confederacao-diz-que-fim-da-escala-6x1-vai-aumentar-custos-ate-das-empresas-que-ja-reduziram-jornada.shtml",
+      "published": "2026-08-29T13:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
