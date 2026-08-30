@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T13:00:15.548216+00:00",
-  "count": 397,
-  "new_this_run": 10,
+  "generated_at": "2026-08-30T14:05:43.800246+00:00",
+  "count": 398,
+  "new_this_run": 11,
   "articles": [
     {
       "title": "Dono da Centauro, Grupo SBF (SBFG3) Renova Contrato com Nike até 2034",
@@ -8985,6 +8985,29 @@
         {
           "sector": "E-commerce",
           "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa aprova caneta emagrecedora genérica - G1",
+      "summary": "Anvisa aprova caneta emagrecedora genérica &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/globonews/jornal-globonews-edicao-das-10/video/anvisa-aprova-caneta-emagrecedora-generica-14915032.ghtml",
+      "published": "2026-08-30T13:44:11+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
           "field": "title",
           "score": 20,
           "topic": null
