@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T11:07:48.532133+00:00",
-  "count": 400,
-  "new_this_run": 16,
+  "generated_at": "2026-08-31T14:13:52.727112+00:00",
+  "count": 421,
+  "new_this_run": 52,
   "articles": [
     {
       "title": "Dono da Centauro, Grupo SBF (SBFG3) Renova Contrato com Nike até 2034",
@@ -57,6 +57,53 @@
         }
       ],
       "score": 88.0
+    },
+    {
+      "title": "Mercado Livre entra no 'live commerce' e mira disputa com Shopee e TikTok Shop",
+      "summary": "A partir desta segunda-feira (31), o Mercado Livre passará a ter transmissões ao vivo, conhecidas como live commerce, dentro do próprio aplicativo. A estratégia já vem sendo utilizada por concorrentes como Shopee e TiktTok Shop, em um mercado que deve chegar a US$ 6,92 bilhões em 2030, de acordo com o relatório “Brazil Social Commerce Market Intelligence Report 2025”, da Research and Markets. Se a projeção se confirmar, representará mais do que o dobro do total movimentado em 2024. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/08/31/mercado-livre-entra-no-live-commerce-e-mira-disputa-com-shopee-e-tiktok-shop.ghtml",
+      "published": "2026-08-31T12:00:29+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre",
+        "shopee",
+        "tiktok",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
     },
     {
       "title": "Contra o 'Ozempic face': canetas emagrecedoras abrem novo mercado para a indústria de cosméticos",
@@ -374,6 +421,61 @@
         {
           "sector": "Wellness e Esportes",
           "alias": "centauro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 64.0
+    },
+    {
+      "title": "Semaglutida: Anvisa aprova nova caneta nacional contra diabetes 2",
+      "summary": "Yluméc foi registrado como medicamento similar e tem como referência o Ozivy, da farmacêutica EMS",
+      "url": "https://veja.abril.com.br/saude/semaglutida-anvisa-aprova-nova-caneta-nacional-contra-diabetes-2",
+      "published": "2026-08-31T13:52:31+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "ems",
+        "medicamento",
+        "ozivy",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozivy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
           "field": "title",
           "score": 20,
           "topic": null
@@ -733,6 +835,148 @@
       "score": 60.0
     },
     {
+      "title": "Anvisa registra novo medicamento de semaglutida da EMS para diabetes tipo 2 - CNN Brasil",
+      "summary": "Anvisa registra novo medicamento de semaglutida da EMS para diabetes tipo 2 &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/anvisa-registra-novo-medicamento-de-semaglutida-da-ems-para-diabetes-tipo-2",
+      "published": "2026-08-31T12:26:37+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ems",
+        "medicamento",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "E-commerce tem 30 dias para a decisão da Reforma Tributária",
+      "summary": "Entre 1º e 30 de setembro de 2026, as empresas optantes pelo Simples Nacional precisam decidir se vão recolher os dois novos tributos da Reforma Tributária, o IBS e a CBS, dentro da guia única do Simples ou pelas regras do regime regular, o modelo que o mercado chama de Simples híbrido. A janela foi fixada pela Resolução CGSN nº 186/2026 e detalhada pela Resolução CGSN nº 190/2026, publicada em edição extra do Diário Oficial em 10 de agosto. A opção é semestral, se formaliza no Portal do Simples Nacional e produz efeitos a partir de 1º de janeiro de 2027. Quem não fizer nada permanece no modelo padrão, com IBS e CBS dentro do DAS. A próxima oportunidade de mudar só abre em março de 2027 e vale apenas para o segundo semestre daquele ano. Quem optar em setembro pode voltar atrás até o último dia de novembro de 2026. Para Eduardo Sampaio, CEO da ContabilizaEcom, contabilidade especializada em e-commerce que nasceu dentro de uma operação de e-commerce, o problema não é a complexidade da escolha, mas o fato de ela estar acontecendo enquanto o setor discute outro assunto. \"O mercado inteiro passou o ano se preparando para uma data que mudou e vai perder uma data que não mudou\", afirma Sampaio, que também comanda a COZENA, operação de venda online presente em Mercado Livre, Amazon, Shopee e TikTok Shop. Desde o começo do ano, o comércio eletrônico discute o split payment, mecanismo que separa o imposto no momento da liquidação financeira da venda, antes de o dinheiro chegar na conta do vendedor. Em 12 de agosto, em reunião do Comitê Gestor do IBS realizada em São Paulo, o colegiado informou que o mecanismo não estará disponível em janeiro de 2027. A implementação exige mais tempo e as próprias instituições financeiras pediram prazo adicional. Quando chegar, a primeira etapa será opcional e voltada a operações entre empresas. Para 2027, a alternativa prevista é o Recolhimento pelo Adquirente, o RAD, em que o comprador assume o recolhimento, também em caráter opcional. Sampaio faz questão de separar o que o adiamento significa e o que ele não significa. \"Adiaram para os bancos, não para o vendedor. O efeito no caixa continua no mapa, só mudou de data e de nome. Quem leu a notícia como alívio vai chegar lá com o mesmo caixa despreparado e sem a desculpa do prazo.\" O que não foi adiado é a entrada dos tributos. Em 2027, a CBS passa a ser cobrada de fato e substitui PIS e Cofins, enquanto o IBS permanece em alíquota de teste em 2027 e 2028. A substituição do ICMS e do ISS acontece de forma progressiva entre 2029 e 2032, com a extinção dos dois tributos em 2033. E desde 3 de agosto de 2026 as empresas de fora do Simples Nacional já precisam preencher os campos de IBS e CBS na NF-e, com a alíquota-teste de 1%, sendo 0,9% de CBS e 0,1% de IBS. Em 2026 o destaque tem caráter informativo e não gera recolhimento para quem cumpre as obrigações acessórias previstas. A orientação que circula é direta: quem vende para consumidor final permanece no Simples tradicional, porque o comprador não aproveita crédito; quem vende para empresa avalia o regime regular. Sampaio considera a regra correta para a maioria dos negócios e rasa para o comércio eletrônico. \"Essa régua olha só para quem compra de você e ignora o que você compra\", diz o CEO da ContabilizaEcom. \"O seller de Marketplace perfil de varejo e estrutura de custo de indústria. Comissão de plataforma, frete, fulfillment, anúncios, embalagens e aquisição de mercadoria importada. No regime regular, todos esses itens podem gerar créditos. Dentro do DAS, nada disso gera.\" Ele afirma que a conta muda de sinal conforme o peso dessas entradas sobre a receita e que não existe resposta única. \"Tenho cliente com 40% da receita indo embora em comissão, frete e anúncio, e tenho cliente com 12%. São dois negócios que aparecem no mesmo anexo do Simples e que precisam de decisões opostas em setembro. Quem responde isso analisar os custos item a item está chutando.\" O especialista lembra ainda que, pela Resolução CGSN nº 190/2026, o sublimite de R$ 3,6 milhões, que vale para o ICMS e o ISS, passa a alcançar também o IBS, o que puxa a decisão para dentro do planejamento de crescimento da operação. Sampaio elenca quatro frentes para quem vende em Marketplace: Abrir a estrutura de custo antes de decidir. Levantar quanto da receita vai para comissões, frete, Fulfillment, anúncio, embalagem e mercadoria, porque é essa proporção que define qual dos dois modelos custa menos; Simular os dois cenários com números reais. Comparar carga efetiva no modelo unificado e no regime regular com o faturamento e o mix de produtos da própria operação, não com um exemplo genérico; Usar a janela de cancelamento como seguro. Em caso de dúvida fundada, a opção feita em setembro pode ser cancelada até o último dia de novembro, o que dá dois meses de validação. Quem não optar não tem janela de arrependimento: a próxima chance é março de 2027, valendo apenas para o segundo semestre; Tratar o caixa de 2027 como projeto separado. O adiamento do split payment não elimina o efeito, apenas move o calendário. A reserva equivalente ao imposto que atualmente permanece no caixa continua sendo o exercício mais importante do ano. \"Quem não decidir em setembro decidiu ficar no modelo padrão\", conclui Eduardo Sampaio. \"Não decidir é uma decisão. Ela só não passa pela sua mesa.\" A ContabilizaEcom é uma contabilidade especializada em e-commerce, com sede em Curitiba (PR), que atende vendedores de marketplaces como Mercado Livre, Amazon, Shopee e TikTok Shop em todo o Brasil. A empresa nasceu dentro de uma operação de e-commerce e atua em contabilidade, planejamento tributário, auditoria fiscal e adequação dos sellers à Reforma Tributária, atendendo empresas do Simples Nacional e do Lucro Real.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/08/31/ecommerce-tem-30-dias-para-a-decisao-da-reforma-tributaria-1.ghtml",
+      "published": "2026-08-31T12:37:09+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "e-commerce",
+        "fulfillment",
+        "ibs",
+        "reforma tributária",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "fulfillment",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "iFood apresenta denúncia contra Keeta ao Cade alegando práticas predatórias e pede preventiva",
+      "summary": "O iFood apresentou ao Conselho Administrativo de Defesa Econômica um pedido de abertura de processo administrativo contra a Keeta, plataforma de delivery controlada pela chinesa Meituan, por práticas predatórias no mercado brasileiro. É um novo capítulo na disputa entre empresas de delivery (além da Keeta, 99Food) que movimenta a área anticoncorrencial. Na denúncia, o iFood pede também medida preventiva. De acordo com a empresa, a Keeta opera com prejuízo por pedido no Brasil, subsidiando artificialmente a operação com capital da matriz chinesa para conquistar mercado e eliminar concorrentes. O iFood pede ao Cade a abertura de processo administrativo contra a Keeta por prática de preço predatório. A empresa aponta que a Keeta não precisa ter posição dominante para que o órgão antitruste investigue, basta ter capacidade financeira superior à dos concorrentes e usar essa vantagem para impedir que eles cresçam. Além da preventiva para eliminar as alegadas práticas de precificação abaixo de custo e da abertura de processo administrativo formal o iFood pede acesso periódico aos dados de custos e precificação da plataforma por meio de monitoramento independente feito pelo órgão antitruste. O iFood utiliza argumentos de nota técnica publicada pelo Cade em junho. Na nota, o Departamento de Estudos Econômicos do órgão alertou para o risco de empresas com “deep pockets” no mercado de delivery, definindo a capacidade financeira tão superior à dos concorrentes que permite operar abaixo do custo por longos períodos até consolidar posição dominante. “Estamos muito preocupados com o efeito que esse tipo de competição que tem sido trazido pela Keeta vai trazer no médio e longo prazo tanto para restaurantes quanto entregadores”, afirmou Lucas Pittioni, vice-presidente jurídico do iFood. De acordo com o executivo, a competição com a Keeta não se dá por quem tem a melhor tecnologia, serviço ou restaurante, mas “pelo tamanho do bolso”. “Quem tem mais dinheiro para subsidiar os três lados da plataforma (restaurantes, consumidores e entregadores) é quem consegue capturar parcela maior do mercado”, afirmou. O Plenário do Cade deve julgar nessa semana outro caso relevante para o setor, envolvendo Keeta e 99Food. Nesse caso a acusação é da chinesa, que aponta contratos de exclusividade que a excluem, especificamente. O iFood já teve seus contratos de exclusividade limitados pelo Cade em outra ação. Procurada pelo Valor, em nota, a Keeta informou que o mercado brasileiro de delivery de comida permanece “bloqueado e disfuncional” há anos. “Este é o único mercado no mundo caracterizado por um monopólio, com um único player controlando mais de 80% do segmento”, afirmou na nota. Para a empresa, esta nova ação é uma “estratégia monopolista para tentar desviar a atenção das autoridades da investigação à qual foram alvo, descumprindo o acordo que assinaram com o Cade em relação às exclusividades que prejudicam gravemente o mercado”. A Keeta afirma que, ao entrar em um setor marcado por cláusulas de exclusividade e banimento, utiliza cupons para incentivar a experimentação inicial e que uso de cupons é uma prática comum do mercado e é utilizada por todos os players, incluindo o próprio iFood, que inclusive os vende por meio do Clube iFood. A Keeta informou que ainda não foi notificada sobre esta ação e está disposta a fornecer as informações necessárias. Keeta Divulgação/Keeta",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/ifood-apresenta-denncia-contra-keeta-ao-cade-alegando-prticas-predatrias-e-pede-preventiva.ghtml",
+      "published": "2026-08-31T13:28:47+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ifood",
+        "keeta"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Ministério Público contesta plano de recuperação do Pão de Açúcar e aponta risco a credores minoritários",
       "summary": "O MP-SP ( Ministério Público de São Paulo) se declarou contrário ao plano de recuperação extrajudicial do GPA ( Grupo Pão de Açúcar ) por entender que a companhia criou um grupo de credores muito diverso e que não reflete a mesma identidade econômica. A varejista defende a estratégia e afirma que a rejeição do plano pode piorar a crise. Leia mais (08/27/2026 - 22h59)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/08/ministerio-publico-contesta-plano-de-recuperacao-pao-de-acucar-e-aponta-risco-a-credores-minoritarios.shtml",
@@ -851,43 +1095,51 @@
       "score": 56.0
     },
     {
-      "title": "Anvisa aprova 2º genérico de semaglutida no Brasil",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou o registro do segundo medicamento genérico à base de semaglutida no Brasil. A decisão foi publicada no Diário Oficial da União (DOU) desta segunda-feira (24). Lito Sousa: Influenciador aparece em vídeo pela primeira vez desde diagnóstico de doença rara e faz apelo por tratamento experimental 'De ontem para hoje, ele já perdeu mais da visão', diz esposa em apelo para inclusão nos estudos clínicos Produzido pela Germed Farmacêutica, o produto é indicado para o tratamento do diabetes tipo 2 e pertence à classe dos agonistas do receptor de GLP-1, a mesma de medicamentos como Ozempic e Wegovy. O medicamento será disponibilizado em quatro apresentações, com solução injetável de 1,34 mg/mL para aplicação subcutânea. A primeira substância genérica de semaglutida é da farmacêutica EMS e foi aprovada pela Anvisa na última segunda-feira (17). A semaglutida sintética é uma versão produzida por síntese química em laboratório, mas com a mesma molécula e ação farmacológica da semaglutida presente em medicamentos de referência, como o Ozempic. Quanto vai custar o genérico? Ainda não há preço do oficial do medicamento. Pela legislação brasileira, medicamentos genéricos devem custar ao menos 35% menos que o produto de referência.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/08/24/anvisa-aprova-2o-generico-de-semaglutida-no-brasil.ghtml",
-      "published": "2026-08-24T13:50:06+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "title": "Brasileira EMS é a primeira da fila para vender genérico do Mounjaro nos EUA",
+      "summary": "Patente da caneta de tirzepatida só vencerá em 2036 tanto no Brasil quanto nos Estados Unidos",
+      "url": "https://veja.abril.com.br/economia/brasileira-ems-e-a-primeira-da-fila-para-vender-generico-do-mounjaro-nos-eua",
+      "published": "2026-08-31T12:06:46+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
       "matched_sectors": [
         "Farmácias"
       ],
       "matched_aliases": [
-        "genérico",
-        "medicamento",
-        "semaglutida"
+        "caneta",
+        "ems",
+        "mounjaro",
+        "tirzepatida"
       ],
       "matches": [
         {
           "sector": "Farmácias",
-          "alias": "medicamento",
+          "alias": "ems",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
           "sector": "Farmácias",
-          "alias": "genérico",
+          "alias": "mounjaro",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
           "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
-      "score": 48.0
+      "score": 56.0
     },
     {
       "title": "Dez lições sobre CBS/IBS a partir da expressão ‘perdeu, playboy’",
@@ -1234,100 +1486,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Anvisa e Roche cancelam registro do medicamento Elevidys; entenda - O GLOBO",
-      "summary": "Anvisa e Roche cancelam registro do medicamento Elevidys; entenda &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/google/amp/saude/noticia/2026/08/24/anvisa-e-roche-cancelam-do-registro-do-medicamento-elevidys-entenda.ghtml",
-      "published": "2026-08-24T11:42:09+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "medicamento",
-        "roche"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "roche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Anvisa aprova segunda caneta de semaglutida genérica do Brasil - CNN Brasil",
-      "summary": "Anvisa aprova segunda caneta de semaglutida genérica do Brasil &nbsp;&nbsp; CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/saude/anvisa-aprova-segunda-caneta-de-semaglutida-generica-do-brasil",
-      "published": "2026-08-24T12:58:30+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Anvisa aprova segunda caneta genérica de semaglutida; preço pode cair 35% - VEJA",
-      "summary": "Anvisa aprova segunda caneta genérica de semaglutida; preço pode cair 35% &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/saude/anvisa-aprova-segunda-caneta-generica-de-semaglutida-preco-pode-cair-35",
-      "published": "2026-08-24T13:25:57+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Exame sanguíneo para Alzheimer desenvolvido pela Roche e Eli Lilly é aprovado por agência dos EUA",
@@ -2352,43 +2510,128 @@
       "score": 40.0
     },
     {
-      "title": "Positivo lança plataforma para apoiar empresas na reforma tributária",
-      "summary": "A Positivo Tecnologia anunciou nesta segunda-feira (24) o lançamento de uma plataforma para ajudar as empresas a se prepararem para a reforma tributária, chamada “Splithub”. A solução conecta sistemas corporativos, meios de pagamento e infraestrutura tributária, com recursos de conciliação, rastreabilidade e auditabilidade. O objetivo é apoiar as empresas com a dinâmica da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS), principalmente em gestão em recuperação de créditos e operacionalização do Recolhimento pelo Adquirente (RAD), além de preparar para o “split payment”. No RAD, o adquirente recolhe os impostos devidos pelo fornecedor. Já o “split payment” é um mecanismo que irá separar e recolher de forma automática os tributos no momento da liquidação do pagamento. Segundo a Positivo, a solução não substitui o software de Planejamento de Recursos Empresariais (ERP) nem atua como provedor de pagamentos. O “Splithub” é uma interface para integrar os sistemas corporativos, de pagamentos e infraestrutura tributária. A plataforma automatiza a emissão de documentos de arrecadação de tributos, permite integrar pagamentos via open finance e Pix e fazer conciliação de documentos fiscais. Em relação ao ERP, irá entregar, via Interface de Programação de Aplicações (API), informações estruturadas sobre status, valores e créditos confirmados em casos de cancelamentos, devoluções e estornos. Para garantir governança e ajudar em rastreabilidade, a plataforma mantém registros de eventos, como data e horário, assim como o código identificador de cada transação. Para o vice-presidente de Negócios de Consumo e Mobilidade da Positivo, Norberto Maraschin Filho, a visibilidade sobre os eventos fiscais e financeiros é fundamental, especialmente para empresas que movimentam grandes volumes de operações. “A plataforma chega para atender a essa nova necessidade do mercado e dar às empresas mais controle sobre esse processo”, afirma, em nota. “O desafio para as empresas é conectar informações que hoje estão distribuídas entre diferentes sistemas e áreas. O pagamento, o documento fiscal e o crédito tributário precisam ser relacionados para que a companhia tenha uma visão confiável da operação”, acrescenta. O executivo destaca que o objetivo não é substituir as plataformas que as empresas já usam, mas possibilitar que esses sistemas conversem dentro da nova lógica tributária. “A plataforma une fiscal, financeiro e pagamentos para que a companhia tenha mais governança sobre um processo que tende a ganhar importância com a evolução da reforma.” Hoje, o recolhimento de IBS e CBS está em fase de testes. Com a reforma tributária, a apropriação de créditos desses tributos passará a se relacionar com a extinção do débito na etapa anterior, por isso, o acompanhamento dos pagamentos é relevante, conforme a Positivo. Segundo a Positivo, o lançamento do “Splithub” faz parte da sua estratégia de ampliar a atuação no mercado de pagamentos. A Positivo Soluções em Pagamentos, frente da companhia para esse mercado, registrou R$ 567 milhões em receita em 2025, o equivalente a 14% da receita total da Positivo, e cresceu 30% no ano. Reprodução/Splithub",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/24/positivo-lana-plataforma-para-apoiar-empresas-na-reforma-tributria.ghtml",
-      "published": "2026-08-24T12:44:56+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
+      "title": "'Foram 4 assaltos em 10 dias': o pavor e trauma nas farmácias com roubos de canetas emagrecedoras - Folha de S.Paulo",
+      "summary": "'Foram 4 assaltos em 10 dias': o pavor e trauma nas farmácias com roubos de canetas emagrecedoras &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/foram-4-assaltos-em-10-dias-o-pavor-e-trauma-nas-farmacias-com-roubos-de-canetas-emagrecedoras.shtml",
+      "published": "2026-08-31T12:32:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
-        "Economia"
+        "Farmácias"
       ],
       "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
+        "canetas emagrecedoras",
+        "farmácias"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
+          "sector": "Farmácias",
+          "alias": "farmácias",
           "field": "title",
           "score": 20,
-          "topic": "reforma_tributaria"
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
-      "score": 36.0
+      "score": 40.0
+    },
+    {
+      "title": "Petz Cobasi fará resgate antecipado de debêntures da 3ª emissão no total de R$ 133,3 milhões",
+      "summary": "A Petz Cobasi informou que fará o resgate antecipado facultativo da totalidade das debêntures de sua terceira emissão, no total de R$ 133,3 milhões. O procedimento abrangerá todas as 200 mil debêntures da emissão e foi aprovado em assembleia geral de debenturistas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/financas/noticia/2026/08/31/petz-cobasi-far-resgate-antecipado-de-debntures-da-3-emisso-no-total-de-r-1333-milhes.ghtml",
+      "published": "2026-08-31T12:41:27+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Pet"
+      ],
+      "matched_aliases": [
+        "cobasi",
+        "petz"
+      ],
+      "matches": [
+        {
+          "sector": "Pet",
+          "alias": "petz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Pet",
+          "alias": "cobasi",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Justiça Suspende Ações e Execuções contra Casas Bahia (BHIA3) por 180 Dias",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Proteção concedida no processo de recuperação judicial também impede novos bloqueios de bens e valores da companhia e de subsidiárias O post Justiça Suspende Ações e Execuções contra Casas Bahia (BHIA3) por 180 Dias apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/08/justica-suspende-acoes-execucoes-casas-bahia-180-dias",
+      "published": "2026-08-31T13:24:24+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "bhia3",
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "bhia3",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova Yluméc, nova caneta de semaglutida para diabetes tipo 2 - Veja Saúde",
+      "summary": "Anvisa aprova Yluméc, nova caneta de semaglutida para diabetes tipo 2 &nbsp;&nbsp; Veja Saúde",
+      "url": "https://saude.abril.com.br/medicina/anvisa-aprova-ylumec-nova-caneta-de-semaglutida-para-diabetes-tipo-2",
+      "published": "2026-08-31T13:57:42+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
     },
     {
       "title": "Lula definirá se Orçamento de 2027 vai incluir impostos criados na Reforma Tributária",
@@ -2786,6 +3029,45 @@
       "score": 36.0
     },
     {
+      "title": "GPA diz que parecer do MP sobre seu processo de recuperação extrajudicial não tem poder vinculante",
+      "summary": "O GPA diz que o parecer do Ministério Público do Estado de São Paulo contrário à aprovação do seu processo de recuperação extrajudicial não tem poder vinculante sobre a decisão do juiz do caso. Confira resultados e indicadores da GPA e das demais companhias de capital aberto no portal Valor Empresas 360 A dona dos supermercados Pão de Açúcar respondeu a ofício enviado pela Comissão de Valores Mobiliários (CVM), após notícia publicada pelo Valor na semana passada mostrar que a promotoria apontar para problemas jurídicos no plano. Em comunicado, a empresa reforçou que já apresentou sua manifestação oficial sobre o parecer do Ministério Público, defendendo a legalidade do plano e reiterando o pedido de homologação. O GPA também informou que, em decisão proferida ao final de agosto, a Justiça abriu um prazo de cinco dias para que a promotoria e os credores dissidentes apresentem elementos concretos sobre eventuais créditos indevidamente excluídos. A diretoria do GPA declarou total confiança na rejeição das impugnações e na homologação do plano, que obteve expressivo apoio do conjunto de credores, completa, no comunicado. A diretoria do GPA declarou total confiança na rejeição das impugnações e na homologação do plano, que obteve expressivo apoio do conjunto de credores, completa, no comunicado Divulgação",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/gpa-diz-que-parecer-do-mp-sobre-seu-processo-de-recuperao-extrajudicial-no-tem-poder-vinculante.ghtml",
+      "published": "2026-08-31T12:57:53+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "pao de acucar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pao de acucar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Quem São os 22 Bilionários do Varejo Brasileiro em 2026?",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Havan e Magazine Luiza a redes de farmácias e supermercados, os 22 representantes do setor acumulam R$ 53,6 bilhões; Luciano Hang lidera o grupo O post Quem São os 22 Bilionários do Varejo Brasileiro em 2026? apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-money/2026/08/bilionarios-varejo-brasileiro-2026",
@@ -2912,100 +3194,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Anvisa e Roche cancelam o registro do Elevidys, remédio de R$ 11 milhões a dose; entenda",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) e a farmacêutica Roche cancelaram o registro do medicamento Elevidys (delandistrogeno moxeparvoveque), considerados um dos mais caros do mundo. O motivo da decisão, publicada nesta segunda-feira (24) foi baseada na falta de dados que atendam aos requisitos regulatórios da autarquia. \"A Agência Nacional de Vigilância Sanitária esclarece que o cancelamento do registro não altera as obrigações da empresa relacionadas ao acompanhamento dos pacientes previamente expostos ao medicamento nos estudos clínicos e programas existentes, incluindo os pacientes brasileiros que receberam Elevidys entre dezembro de 2024 e julho de 2025, com monitoramento contínuo de segurança e reporte das informações pertinentes à Anvisa, nos termos da regulação aplicável\", diz comunicado. \"A Anvisa reafirma sua disposição em avaliar prioritariamente futuras submissões que tragam evidências adicionais, observados os requisitos regulatórios vigentes\", conclui a autarquia, no comunicado. A aprovação do registro condicional do medicamento ocorreu em dezembro de 2024 apenas para crianças de 4 a 7 anos e que sejam deambuladores, ou seja, capazes de andar sem assistência. Após ser aprovado o uso, a Câmara de Regulação do Mercado de Medicamentos (CMED) havia definido o preço em até R$ 11 milhões a dose. Nos EUA, o custo chega a quase R$ 20 milhões. No entanto, o uso foi limitado a pessoas com distrofia muscular de Duchenne (DMD) para pacientes que não são capazes de andar sem assistência. A medida foi comunicada em junho de 2025 após o óbito de dois adolescentes, de 16 e 15 anos, que utilizavam o remédio. No mês de julho do mesmo ano, a comercialização foi suspensa no Brasil \"em razão da necessidade de avaliação adicional de aspectos relacionados à segurança\", segundo a Anvisa. Com a nova decisão, tomada nesta segunda, o registro foi formalmente cancelado. Como o Elevidys funciona? O Elevidys é uma terapia gênica indicada para o tratamento da distrofia muscular de Duchenne (DMD), uma doença causada pelo gene DMD que produz a distrofina, uma proteína que ajuda a manter as células musculares do corpo intactas. Na DMD, devido a falta dessa proteína, os pacientes sofrem sintomas como dificuldade para caminhar e correr, quedas frequentes, fadiga, dificuldades de aprendizado, problemas cardíacos (devido ao impacto no funcionamento do músculo cardíaco) e problemas respiratórios (devido ao enfraquecimento dos músculos respiratórios). Eles se iniciam geralmente entre os 3 e os 6 anos de idade. Além disso, segundo pesquisadores, a maior parte dos diagnosticados tendem a se tornar dependentes de cadeira de rodas por volta dos 10 a 12 anos de idade e necessita de ventilação mecânica aos 20 anos. A doença se caracteriza por uma lesão muscular progressiva, que leva o indivíduo até o estágio incapacitante. Dessa forma, o medicamento atua por meio de um vetor viral – um vírus incapaz de causar doença que é usado como transporte. O remédio entrega uma cópia funcional do gene que produz a distrofina na célula de modo a compensar o gene defeituoso. Ele tem como objetivo restaurar, ainda que de forma parcial, a liberação da proteína e, consequentemente, a função muscular. O fármaco, criado pela Sarepta Therapeutics, é administrado em uma única dose intravenosa, com a quantidade ajustada de acordo com o peso.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/08/24/anvisa-e-roche-cancelam-do-registro-do-medicamento-elevidys-entenda.ghtml",
-      "published": "2026-08-24T11:42:09+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "medicamento",
-        "roche"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "roche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "TCU suspende uso de dinheiro esquecido para garantir operações do Novo Desenrola",
-      "summary": "O ministro do TCU (Tribunal de Contas da União) Walton Alencar Rodrigues determinou cautelarmente que o Ministério da Fazenda e o Banco do Brasil suspendam o uso do dinheiro esquecido em bancos e instituições financeiras para garantir operações do Desenrola Brasil , programa criado pelo governo federal para facilitar a renegociação de dívidas de pessoas físicas e uma das apostas do presidente Luiz Inácio Lula da Silva (PT) no ano eleitoral. Leia mais (08/24/2026 - 08h43)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/08/tcu-suspende-uso-de-dinheiro-esquecido-para-garantir-operacoes-do-novo-desenrola.shtml",
-      "published": "2026-08-24T11:43:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Boticário usa aniversário de Buritama, no interior de SP, para lançar ferramenta de lembretes",
-      "summary": "O Boticário usou o aniversário de 78 anos de Buritama, no interior de São Paulo, para divulgar uma nova funcionalidade de seu aplicativo. Chamada de \"Lembrete de Datas\", a ferramenta vai permitir cadastrar aniversários e outras ocasiões especiais, além de enviar lembretes e sugerir presentes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/08/24/boticario-usa-aniversario-de-buritama-no-interior-de-sp-para-lancar-ferramenta-de-lembretes.ghtml",
-      "published": "2026-08-24T13:00:34+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário",
-        "o boticário"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "o boticário",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Vestido com camisa ‘Chega de Bets’, Zema se reúne com evangélicos no Rio e compara vicio em plataformas a cocaína",
@@ -3668,6 +3856,68 @@
       "score": 28.0
     },
     {
+      "title": "Uniqlo muda estratégia no Japão e aposta em lojas-âncora nas grandes cidades",
+      "summary": "A Uniqlo, rede de roupas casuais da Fast Retailing, está reformulando sua estratégia de expansão no Japão. Em vez de priorizar lojas padronizadas em shoppings e áreas suburbanas, a empresa pretende concentrar novas unidades em grandes lojas-âncora nos principais centros urbanos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/uniqlo-muda-estratgia-no-japo-e-aposta-em-lojas-ncora-nas-grandes-cidades.ghtml",
+      "published": "2026-08-31T11:11:48+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "fast retailing",
+        "uniqlo"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "fast retailing",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "uniqlo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Natura muda o comando da operação com a saída de João Paulo Ferreira",
+      "summary": "A Natura anunciou nesta segunda-feira (31) que João Paulo Ferreira apresentou sua renúncia ao cargo de diretor-presidente, com efeitos após o próximo dia 30 de setembro. Confira mais informações sobre a Natura &amp;Co e demais companhias de capital aberto no portal Valor Empresas 360 Ferreira havia sido nomeado para o cargo em março de 2025 e é destacado pela empresa como tendo liderado importantes marcos na sua história, como a integração das operações da Avon e a ampliação de presença nos mercados da América Latina. “João Paulo deixa como legado uma empresa sólida e uma marca forte, prontas para o próximo ciclo de expansão”, afirma a companhia, em comunicado enviado à Comissão de Valores Mobiliários (CVM). Ferreira assumiu o cargo de diretor-presidente da Natura após a reorganização promovida há dois anos, quando a holding Natura&amp;Co, que à época era comandada por Fábio Barbosa, foi incorporada pela Natura Cosméticos. Na época da incorporação, Ferreira, além de ser presidente da Natura Cosméticos, também acumulava o cargo de liderança da divisão de negócios da Natura &amp;Co na América Latina. Em seu lugar, a Natura nomeou Alessandro Carlucci, atual presidente do conselho de administração da companhia e que já havia ocupado o cargo de diretor-presidente entre 2005 e 2014. Segundo a Natura, Carlucci reúne profundo conhecimento do modelo de negócios, com vasta experiência recente adquirida em outras grandes organizações nos setores de consumo, varejo e comércio digital. Por conta da nomeação como diretor-presidente, que terá efeitos em 1º de outubro, Carlucci apresentou renúncia imediata ao cargo de presidente do colegiado e à cadeira que ocupava no conselho da Natura. Ao mesmo tempo, o conselho elegeu Fábio Barbosa, membro do conselho consultivo e ex-diretor-presidente da companhia entre 2022 e 2025, para a vaga no colegiado e o nomeou como presidente do órgão. Barbosa volta a ocupar a presidência do conselho da Natura, onde estava da reorganização da companhia até maio deste ano, quando migrou para o conselho consultivo, sendo substituído por Carlucci. “Em observância ao rito societário aplicável, sua nomeação seguirá para ratificação pelos acionistas na próxima assembleia geral da companhia”, diz a Natura, no comunicado. A companhia afirma que suas diretrizes estratégicas permanecem inalteradas, com as mudanças na administração sintetizando o plano focado em rentabilidade, eficiência operacional e alocação eficiente do capital. A empresa também informou que Fábio Barbosa foi eleito para vaga no conselho e vai reassumir presidência do colegiado Hermes de Paula/Agência O Globo",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/natura-muda-o-comando-da-operacao-com-a-saida-de-joao-paulo-ferreira.ghtml",
+      "published": "2026-08-31T12:11:41+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "avon",
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "avon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Marca Ace, da C&A, terá franquias e planeja mais 25 lojas",
       "summary": "Durante a apresentação de seu novo plano de crescimento, batizado “Full Power”, a C&amp;A disse, nesta quarta-feira (26), que vai abrir novas lojas onde não está presente ainda, e isso inclui entrada em novos shoppings. Em apresentação a analistas no C&amp;A Day, afirmou ainda que abrirá franquias de sua nova marca de produtos esportivos, a Ace. Leia mais: C&amp;A lança plano ‘Full Power’ até 2030, com até 100 novas lojas Em maio, a empresa abriu a sua primeira unidade da Ace, no Shopping Ibirapuera, em São Paulo, o mesmo onde a empresa abriu a sua primeira loja, na década de 70. Segundo a C&amp;A, a Ace terá até 10 lojas na onda 1 de crescimento (a rede não citou datas para isso). Uma unidade deve ser aberta em setembro, no Rio de Janeiro, e uma segunda unidade já foi aberta ontem no Shopping Bourbon, em São Paulo. Além disso, a marca terá até 25 lojas na onda 2, com teste de franquias nesta fase da marca. Segundo Filipe Albuquerque, executivo responsável pelo lançamento de ACE no Brasil e presente no “C&amp;A Day”, a empresa quer ter cobertura nacional para a Ace numa terceira onda de crescimento já com franquias em funcionamento. A ideia é que a marca consiga ter um uso amplo, e uma capacidade de se adaptar ao dia a dia do consumidor, e possa ser usada em vários momentos da rotina, e não apenas para uso esportivo, um objetivo que as grandes marcas de lifestyle pelo mundo vem tentando alcançar. Ainda entre fim de agosto e começo de setembro, a empresa deve abrir uma unidade da marca C&amp;A na Avenida Paulista, perto da estação Trianon Masp, chegando depois de suas concorrentes diretas que já passaram ou ainda tem lojas na região, como a Renner e a Riachuelo. A empresa deve apresentar a loja aos analistas nesta quarta-feira, durante o evento que acontece hoje.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/26/marca-ace-da-canda-tera-franquias-e-planeja-mais-25-lojas.ghtml",
@@ -3902,213 +4152,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Dona da Temu supera expectativas no 2º trimestre em meio à forte concorrência e pressão regulatória",
-      "summary": "A dona da varejista eletrônica Temu registrou um lucro melhor do que o esperado no segundo trimestre, à medida que a empresa navega a concorrência doméstica acirrada e ao aumento da pressão regulatória. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/24/dona-da-temu-supera-expectativas-no-2o-trimestre-em-meio-a-forte-concorrencia-e-pressao-regulatoria.ghtml",
-      "published": "2026-08-24T11:11:53+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "temu"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "temu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Sociedade de pediatria pede cautela a médicos ao indicar canetas emagrecedoras para crianças e adolescentes - Folha de S.Paulo",
-      "summary": "Sociedade de pediatria pede cautela a médicos ao indicar canetas emagrecedoras para crianças e adolescentes &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/sociedade-de-pediatria-pede-cautela-a-medicos-ao-indicar-canetas-emagrecedoras-para-criancas-e-adolescentes.shtml",
-      "published": "2026-08-24T12:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "O risco da banalização das 'canetas emagrecedoras' para crianças e adolescentes - O GLOBO",
-      "summary": "O risco da banalização das 'canetas emagrecedoras' para crianças e adolescentes &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/google/amp/blogs/lauro-jardim/post/2026/08/o-risco-da-banalizacao-das-canetas-emagrecedoras-para-criancas-e-adolescentes.ghtml",
-      "published": "2026-08-24T12:12:15+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Shein estima arrecadar US$ 1,7 bilhão com IPO na próxima semana",
-      "summary": "A Shein anunciou nesta segunda-feira (24) que espera arrecadar US$ 1,7 bilhão (R$ 8,7 bilhões) com a IPO (oferta pública inicial de ações) que fará em 1º de setembro na Bolsa de Hong Kong. Leia mais (08/24/2026 - 10h16)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/08/shein-estima-arrecadar-us-17-bilhao-com-ipo-na-proxima-semana.shtml",
-      "published": "2026-08-24T13:16:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Anvisa aprova o segundo genérico de semaglutida do país em uma semana - Folha de S.Paulo",
-      "summary": "Anvisa aprova o segundo genérico de semaglutida do país em uma semana &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/anvisa-aprova-o-segundo-generico-de-semaglutida-do-pais-em-uma-semana.shtml",
-      "published": "2026-08-24T13:30:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Post engana sobre saúde de Lula para gerar cliques em link de compras online - Estadão",
-      "summary": "Post engana sobre saúde de Lula para gerar cliques em link de compras online &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/em-alta/estadao-verifica/post-engana-sobre-saude-de-lula-para-gerar-cliques-em-link-de-compras-online",
-      "published": "2026-08-24T13:54:53+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "compras online"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "compras online",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Hanmi dispara 30% após acordo de US$ 2,31 bi com subsidiária da Roche para tratamento de obesidade",
-      "summary": "As ações da Hanmi Pharmaceutical dispararam quase 30% na Bolsa de Seul nesta segunda-feira (24), após a fabricante de medicamentos sul-coreana assinar um acordo de licenciamento de US$ 2,31 bilhões com a empresa de biotecnologia norte-americana Genentech para desenvolver um tratamento contra a obesidade. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/24/hanmi-dispara-30percent-apos-acordo-de-us-231-bi-com-subsidiaria-da-roche-para-tratamento-de-obesidade.ghtml",
-      "published": "2026-08-24T13:55:12+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "roche"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "roche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Anvisa aprova segundo genérico de semaglutida do Brasil; veja o que muda - Veja Saúde",
-      "summary": "Anvisa aprova segundo genérico de semaglutida do Brasil; veja o que muda &nbsp;&nbsp; Veja Saúde",
-      "url": "https://saude.abril.com.br/medicina/anvisa-aprova-segundo-generico-de-semaglutida-do-brasil-veja-o-que-muda",
-      "published": "2026-08-24T13:56:08+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Entenda por que a Shein perdeu US$ 71 bi em valor antes de chegar à Bolsa de Hong Kong - VEJA",
-      "summary": "Entenda por que a Shein perdeu US$ 71 bi em valor antes de chegar à Bolsa de Hong Kong &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/economia/entenda-por-que-a-shein-perdeu-us-71-bi-em-valor-antes-de-chegar-a-bolsa-de-hong-kong",
-      "published": "2026-08-24T14:10:23+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Qué es la \"prueba de Bernard Arnault\" que Michael Saylor aplica a Bitcoin - iProUP",
@@ -8527,6 +8570,29 @@
       "score": 20.0
     },
     {
+      "title": "Entrevista: Anvisa aprova caneta emagrecedora genérica - G1",
+      "summary": "Entrevista: Anvisa aprova caneta emagrecedora genérica &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/globonews/conexao-globonews/video/entrevista-anvisa-aprova-caneta-emagrecedora-generica-14915016.ghtml",
+      "published": "2026-08-30T13:03:02+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Anvisa aprova caneta emagrecedora genérica - G1",
       "summary": "Anvisa aprova caneta emagrecedora genérica &nbsp;&nbsp; G1",
       "url": "https://g1.globo.com/globonews/jornal-globonews-edicao-das-10/video/anvisa-aprova-caneta-emagrecedora-generica-14915032.ghtml",
@@ -8941,6 +9007,75 @@
       "score": 20.0
     },
     {
+      "title": "Fast-fashion retailer Shein shares fall more than 10% in pre-debut trading - Reuters",
+      "summary": "Fast-fashion retailer Shein shares fall more than 10% in pre-debut trading &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/fast-fashion-retailer-shein-shares-fall-least-10-pre-debut-trading-2026-08-31",
+      "published": "2026-08-31T09:01:41+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mercado Livre lança live shopping e transforma app em canal de compras ao vivo",
+      "summary": "Companhia aproveita o Rock in Rio para testar o formato com transmissões ao vivo direto da Cidade do Rock",
+      "url": "https://exame.com/marketing/mercado-livre-lanca-live-shopping-e-transforma-app-em-canal-de-compras-ao-vivo",
+      "published": "2026-08-31T09:06:16+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Casas Bahia consegue proteção judicial por seis meses no pedido de RJ",
+      "summary": "Decisão suspende ações e execuções contra a varejista e dá 180 dias para negociar com credores",
+      "url": "https://exame.com/invest/mercados/casas-bahia-consegue-protecao-judicial-por-seis-meses-no-pedido-de-rj",
+      "published": "2026-08-31T09:17:15+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Bolsas da Ásia fecham sem coesão em semana de IPO da Shein; BYD cai em HK - Estadão",
       "summary": "Bolsas da Ásia fecham sem coesão em semana de IPO da Shein; BYD cai em HK &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/bolsas-da-asia-fecham-sem-coesao-em-semana-de-ipo-da-shein-byd-cai-em-hk-npr",
@@ -8956,6 +9091,29 @@
         {
           "sector": "E-commerce",
           "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Natura troca CEO após 10 anos e traz de volta Alessandro Carlucci",
+      "summary": "Ex-presidente da Natura retorna ao comando executivo enquanto Fábio Barbosa assume o conselho",
+      "url": "https://exame.com/invest/mercados/natura-troca-ceo-apos-10-anos-e-traz-de-volta-alessandro-carlucci",
+      "published": "2026-08-31T09:45:15+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8987,6 +9145,52 @@
       "score": 20.0
     },
     {
+      "title": "Com o BNDES, Electrolux investe R$ 300 milhões no Brasil para criar nova geração de eletrodomésticos",
+      "summary": "Por meio do financiamento do programa \"BNDES Mais Inovação\", a companhia sueca pretende impulsionar fabricação de eletrodomésticos com inteligência artificial, eficiência energética e tecnologia desenvolvida em seu hub no país",
+      "url": "https://exame.com/tecnologia/com-o-bndes-electrolux-investe-r-300-milhoes-no-brasil-para-criar-nova-geracao-de-eletrodomesticos",
+      "published": "2026-08-31T10:20:03+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "eletrodomésticos"
+      ],
+      "matches": [
+        {
+          "sector": "Eletrônicos",
+          "alias": "eletrodomésticos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "'Sigo confiante', diz João Paulo Ferreira em carta de despedida da Natura",
+      "summary": "No documento obtido pela EXAME, Ferreira celebra virada digital e socioambiental da empresa antes da volta de Alessandro Carlucci ao comando",
+      "url": "https://exame.com/invest/mercados/sigo-confiante-diz-joao-paulo-ferreira-em-carta-de-despedida-da-natura",
+      "published": "2026-08-31T10:25:07+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Gold Falls as Hawkish Fed Outlook Keeps Yields Elevated",
       "summary": "Gold prices fell as elevated Treasury yields and a more hawkish Federal Reserve outlook weighed on the non-yielding metal.",
       "url": "https://www.wsj.com/finance/commodities-futures/gold-declines-pullback-could-be-due-to-profit-taking-282f2342?mod=rss_markets_main",
@@ -9002,6 +9206,374 @@
         {
           "sector": "Global Consumer",
           "alias": "gold",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "99Compras começa a usar carros para entregar grandes compras de supermercado",
+      "summary": "Nova modalidade permite transportar pedidos de até 50 itens em Goiânia e na Grande São Paulo",
+      "url": "https://exame.com/negocios/99compras-comeca-a-usar-carros-para-entregar-grandes-compras-de-supermercado",
+      "published": "2026-08-31T10:42:33+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "99compras"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "99compras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Grupo Casas Bahia confirma antecipação de efeitos do seu pedido de recuperação judicial",
+      "summary": "O Grupo Casas Bahia confirmou que a Justiça de São Paulo aprovou a antecipação dos efeitos do seu pedido de recuperação judicial e suspendeu cobranças contra a companhia por 180 dias. A decisão da 2ª Vara de Falências e Recuperações Judiciais do Foro Central Cível de São Paulo, que havia sido antecipada pelo Valor, suspende todas as ações e execuções contra a companhia e as demais recuperandas e veda novos atos constritivos. No entanto, a juíza Taina Maria Leonardo de Oliveira não aprovou o deferimento do pedido de recuperação judicial, pedindo antes trabalhos periciais para averiguar a real situação financeira da empresa. Casas Bahia Divulgação",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/grupo-casas-bahia-confirma-antecipao-de-efeitos-do-seu-pedido-de-recuperao-judicial.ghtml",
+      "published": "2026-08-31T11:00:51+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "iFood faz parceria com construtoras para ajudar entregadores a financiar imóveis - Estadão",
+      "summary": "iFood faz parceria com construtoras para ajudar entregadores a financiar imóveis &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/jornal-do-carro/ifood-faz-parceria-com-construtoras-para-ajudar-entregadores-a-financiar-imoveis",
+      "published": "2026-08-31T11:08:25+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Agenda de empresas: Justiça antecipa efeitos de RJ da Casas Bahia; MG indica novo presidente da Cemig",
+      "summary": "Casas Bahia Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/agenda-de-empresas-justica-antecipa-efeitos-de-rj-da-casas-bahia-mg-indica-novo-presidente-da-cemig.ghtml",
+      "published": "2026-08-31T11:12:47+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Como o IPO da Shein pode reduzir a fortuna de seu CEO em US$ 15 bilhões - Bloomberg Línea Brasil",
+      "summary": "Como o IPO da Shein pode reduzir a fortuna de seu CEO em US$ 15 bilhões &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/como-o-ipo-da-shein-pode-reduzir-a-fortuna-de-seu-ceo-em-us-15-bilhoes",
+      "published": "2026-08-31T11:17:31+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Eli Lilly to Buy Merida Biosciences for Up to $2.875 Billion",
+      "summary": "Eli Lilly has agreed to pay up to $2.875 billion in cash for biotechnology company Merida Biosciences in a deal that bolsters the drugmaker’s immunology portfolio.",
+      "url": "https://www.wsj.com/health/pharma/eli-lilly-to-buy-merida-biosciences-for-up-to-2-875-billion-91c1d351?mod=rss_Technology",
+      "published": "2026-08-31T11:24:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Natura anuncia Alessandro Carlucci como novo CEO e destaca transição “sem rupturas”",
+      "summary": "Quatro anos depois de abandonar a ambição de ser um grupo global de cosméticos e iniciar um complexo processo de simplificação das suas operações, a Natura está promovendo uma nova reorganização. Agora, no plano das suas lideranças e com a participação de “velhos conhecidos” da casa. A companhia anunciou nesta segunda-feira, 31 de agosto, que [&#8230;] O post Natura anuncia Alessandro Carlucci como novo CEO e destaca transição &#8220;sem rupturas&#8221; apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/natura-anuncia-alessandro-carlucci-como-novo-ceo-e-destaca-transicao-sem-rupturas",
+      "published": "2026-08-31T12:01:51+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "BREAKING. Carlucci é o novo CEO da Natura, Fabio Barbosa volta ao board - Brazil Journal",
+      "summary": "BREAKING. Carlucci é o novo CEO da Natura, Fabio Barbosa volta ao board &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/breaking-carlucci-e-o-novo-ceo-da-naturaco-fabio-barbosa-volta-ao-board",
+      "published": "2026-08-31T12:09:22+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Eli Lilly compra empresa de biotecnologia Merida Biosciences por até US$ 2,87 bi",
+      "summary": "A Eli Lilly segue em ritmo acelerado de aquisições e anunciou um acordo para comprar a empresa de biotecnologia Merida Biosciences por até US$ 2,87 bilhões, reforçando o portfólios de imunologia da farmacêutica. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/eli-lilly-compra-empresa-de-biotecnologia-merida-biosciences-por-at-us-287-bi.ghtml",
+      "published": "2026-08-31T12:35:23+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Congresso inicia esforço concentrado com escala 6×1 e taxa das blusinhas na pauta",
+      "summary": "Câmara e Senado concentram votações entre esta segunda-feira, 31, e sexta-feira, 4; veja as propostas que podem avançar",
+      "url": "https://veja.abril.com.br/economia/congresso-inicia-esforco-concentrado-com-escala-6x1-e-taxa-das-blusinhas-na-pauta",
+      "published": "2026-08-31T12:43:50+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Os detalhes do casamento do herdeiro da Cimed: vestido bordado à mão e Ivete Sangalo - VEJA",
+      "summary": "Os detalhes do casamento do herdeiro da Cimed: vestido bordado à mão e Ivete Sangalo &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/comportamento/os-detalhes-do-casamento-do-herdeiro-da-cimed-vestido-bordado-a-mao-e-ivete-sangalo",
+      "published": "2026-08-31T12:56:16+00:00",
+      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Casas Bahia obtém blindagem judicial com suspensão de cobranças por 180 dias",
+      "summary": "A Casas Bahia comunicou a investidores a suspensão de ações judiciais e cobranças de dívidas contra a empresa por 180 dias . Leia mais (08/31/2026 - 09h57)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/casas-bahia-obtem-blindagem-judicial-com-suspensao-de-cobrancas-por-180-dias.shtml",
+      "published": "2026-08-31T12:57:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Natura anuncia troca de comando e ex-presidente volta ao cargo",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/natura-troca-comando-ex-presidente-volta-npr",
+      "published": "2026-08-31T13:24:20+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Natura anuncia volta de Alessandro Carlucci ao cargo de CEO",
+      "summary": "Executivo comandou a companhia entre 2005 e 2014 e substituirá João Paulo Ferreira a partir de 1º de outubro",
+      "url": "https://veja.abril.com.br/economia/natura-anuncia-volta-de-alessandro-carlucci-ao-cargo-de-ceo",
+      "published": "2026-08-31T13:31:01+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Análise: Troca de comando ‘morna’ da Natura é desafio para o negócio",
+      "summary": "A mudança de comando da Natura era um movimento já esperado pelo mercado, dada a dificuldade que a companhia tem atravessado nos últimos anos. A chegada da Advent, que indicou dois novos membros para o conselho de administração, também é vista como positiva para o grupo, uma vez que a gestora americana tem expertise em “turnaround” (reestruturação). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/analise-troca-de-comando-morna-da-natura-e-desafio-para-o-negocio.ghtml",
+      "published": "2026-08-31T13:37:47+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Ações da Casas Bahia sobem mais de 40% após antecipação de efeitos da recuperação judicial",
+      "summary": "As ações do Grupo Casas Bahia sobem com força no início desta segunda-feira (31). Mais cedo, a varejista confirmou ter obtido a suspensão de todas as cobranças contra si, em uma antecipação dos efeitos da recuperação judicial pedida há pouco mais 15 dias. A informação foi antecipada pelo Valor na sexta-feira (28). Os papéis abriram em alta de dois dígitos, entraram e saíram de leilão, e, por volta das 10h30, subiam 40%. Como mostrou o Valor, a Justiça de São Paulo deferiu, no fim da sexta-feira (28), a antecipação dos efeitos do “stay period” para suspender por 180 dias todas as ações e execuções contra a Casas Bahia, e vedar novos atos constritivos. O juízo fixou o termo inicial do prazo de 180 dias em 19 de agosto de 2026. Assim, a empresa está protegida de processos de cobrança e execuções de credores. A suspensão foi determinada pela juíza do caso, Taina de Oliveira, da 2ª Vara de Falências e Recuperações Judiciais de São Paulo, por volta das 16h, depois de demonstrado pela varejista nos autos que a notícia do ajuizamento recuperacional “deflagrou corrida de credores contra o patrimônio do grupo, com bloqueios judiciais que alcançaram cerca de R$ 9 milhões em poucos dias e risco iminente de desfalque patrimonial”. Por volta do horário mencionado, os papéis da Casas Bahia já haviam movimentado mais de R$ 3,5 milhões, pouco menos da metade do volume registrado durante todo o pregão anterior. Divulgação/Casas Bahia",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/acoes-da-casas-bahia-sobem-mais-de-40percent-apos-antecipacao-de-efeitos-da-recuperacao-judicial.ghtml",
+      "published": "2026-08-31T13:43:22+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
           "field": "title",
           "score": 20,
           "topic": null
@@ -9385,6 +9957,38 @@
       "score": 16.0
     },
     {
+      "title": "Quais são as 10 maiores redes de franquias do varejo brasileiro? Veja o ranking",
+      "summary": "Cacau Show lidera a lista, com 4.308 unidades franqueadas, seguida por Grupo Boticário e Ortobom; dez maiores somam mais de 19 mil operações",
+      "url": "https://exame.com/negocios/quais-sao-as-10-maiores-redes-de-franquias-do-varejo-brasileiro-veja-o-ranking",
+      "published": "2026-08-31T10:01:56+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário",
+        "cacau show"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "cacau show",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Confiança do comércio cai 0,6% em agosto, diz CNC",
       "summary": "Após cair 0,8% em julho, o Índice de Confiança do Empresário do Comércio (Icec) da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) recuou 0,6% em agosto, para 101,3 pontos, informou a organização nessa quarta-feira (29). A retração conduziu a confiança do varejo ao menor patamar desde novembro de 2025 (100,5 pontos). Na comparação com agosto do ano passado, a queda foi de 0,7%. Para a confederação, o resultado indica que o empresário do comércio está menos confiante em agosto, preocupado com condições atuais do negócio. Isso é perceptível na evolução dos três indicadores componentes do Icec. Enquanto o de expectativas subiu 0,4% e o de intenção de investimentos recuou 0,3%, o de condições atuais amargou queda de 2,5% de julho a agosto. Na comparação com igual mês no ano passado, a queda de condições atuais foi de 2,8% em agosto desse ano, recuo mais intenso do que observado no tópico expectativas (-0,2%), nessa mesma comparação. Já intenção de investimentos subiu 0,1%, em agosto ante agosto de 2025. Em comunicado, o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, avaliou o momento atual do setor como “complexo”. Porém, disse estar confiante na continuidade da redução da taxa básica de juros (Selic), que norteia juros de mercado, pelo Conselho de Política Monetária (Copom) do Banco Central (BC). Isso porque, na prática, quando o juro fica mais alto, comprar a crédito também encarece para o consumidor, afetando diretamente as vendas no varejo. Atualmente, a Selic está em 14% ao ano. “O patamar recorde de empresas inadimplentes registrado pela pesquisa de junho do Serasa, é reflexo do aperto monetário causado pela alta taxa Selic, alvo de nossos alertas há meses”, continuou ele. “Acompanhamos de perto essa situação, lamentando cada negócio que não consegue desempenhar como gostaria e atuando diante de autoridades para reverter esse ciclo”, completou. Ao detalhar o impacto do atual patamar de juros, considerado elevado no entendimento da CNC, a organização mapeou ainda o tópico “condições atuais” por diferentes segmentos, principalmente os que dependem mais de crédito para vendas. Os destaques de recuo, nesse tópico, ficaram com os chamados “semiduráveis”. Em agosto, a confederação apurou quedas nas avaliações sobre condições atuais entre empresários de roupas, calçados, tecidos e acessórios (-0,4%), supermercados, farmácias e lojas de cosméticos (-3,5%) e eletrônicos, eletrodomésticos, móveis e decoração, cine/foto/som, material de construção e veículos (-4,6%). “Mesmo que a taxa Selic mantenha sua queda responsavelmente, alguns meses são necessários para que essa futura redução chegue até o preço praticado pelo varejo e consequente alívio no bolso do cidadão”, acrescentou economista da CNC, Catarina Carneiro. “Só então, vencendo as instabilidades, teremos um arrefecimento nos níveis de comprometimento da renda tanto por parte dos empresários quanto dos consumidores”, comentou ela. A CNC ponderou ainda que, para o empresariado do comércio, a conjuntura econômica também é ponto de atenção em agosto. Isso porque os próximos meses são de campanha eleitoral no Brasil (o que pode mudar a condução de política econômica). Possíveis impactos na atividade de influências externas ainda decorrentes da guerra dos EUA contra o Irã e de eleições americanas também estão no radar dos empresários do setor, informou ainda a organização. Marcello Casal Jr/Agência Brasil",
       "url": "https://valor.globo.com/brasil/noticia/2026/08/26/confiana-do-comrcio-cai-06-pontos-percentuais-em-agosto-diz-cnc.ghtml",
@@ -9551,75 +10155,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Xiaomi apresenta novo processador próprio fabricado pela TSMC e aposta em chips para celulares e carros",
-      "summary": "A fabricante chinesa de smartphones Xiaomi revelou nesta segunda-feira uma nova versão de seu processador próprio para celulares, o Xring, apostando que um controle mais profundo sobre componentes-chave ajudará a fortalecer sua cadeia de suprimentos e a reduzir a dependência de fornecedores externos de chips. A apresentação do Xring O3 ocorre um ano após a Xiaomi lançar seu primeiro processador para smartphones, o Xring O1, marcando o passo mais recente no esforço da terceira maior vendedora de smartphones do mundo para se juntar a rivais como Apple, Samsung e Huawei no desenvolvimento de seus próprios chips. A TSMC fabricará o novo chip utilizando sua tecnologia de produção de 3 nanômetros, disseram duas pessoas familiarizadas com o assunto. Uma das fontes afirmou que o chip deve equipar o próximo smartphone dobrável carro-chefe da Xiaomi, com uma meta de produção de 200 mil a 300 mil unidades. A expansão da Xiaomi para o mercado de telefones dobráveis, um segmento mais caro, pode desafiar a principal concorrente doméstica, a Huawei. A Huawei despachou 1,6 milhão de telefones dobráveis na China no segundo trimestre, garantindo uma participação de mercado de 68%, seguida pela Honor, com 13,7%, e pela Oppo, com 8,5%, de acordo com a empresa de pesquisa Smart Analytics Global. As fontes recusaram-se a ser identificadas porque os planos não são públicos. Xiaomi e TSMC não responderam imediatamente a pedidos de comentário sobre o fabricante do chip, a tecnologia de produção ou as metas de remessa. Os processadores de smartphones, ou sistemas em chip, integram funções de computação, gráficos, processamento de inteligência artificial e imagem em um único componente. Fabricantes de dispositivos buscam chips próprios O avanço da Xiaomi no desenvolvimento de chips reflete uma tendência mais ampla da indústria, à medida que os fabricantes de dispositivos buscam diferenciar seus produtos e diminuir a dependência de fornecedores como Qualcomm e MediaTek em meio à concorrência intensificada nos smartphones premium. A Xiaomi informou durante uma teleconferência de resultados na semana passada que as remessas acumuladas de dispositivos equipados com o Xring O1, incluindo smartphones, tablets e relógios, ultrapassaram 1 milhão de unidades desde o seu lançamento. A Xiaomi vendeu cerca de 150 mil smartphones baseados no chip Xring O1 desde o seu lançamento em maio de 2025, de acordo com as fontes. Custos de memória elevam preços Os fabricantes de smartphones estão lidando com uma desaceleração global nas vendas de dispositivos, à medida que os custos de memória e componentes elevam os preços e comprimem a demanda. A Xiaomi vendeu 65 milhões de aparelhos no primeiro semestre a um preço médio de 1.329 yuans (US$ 197,74), em comparação com 84 milhões de unidades vendidas a um preço médio de 1.141 yuans no mesmo período de 2025 e 83 milhões de unidades a 1.123 yuans em 2024, segundo dados da Visible Alpha. Espera-se que as remessas globais de smartphones caiam 14% em 2026, de acordo com a empresa de pesquisa International Data Corporation. A Xiaomi informou que também contratou a TSMC para fabricar outros dois chips Xring, o Xring O100, uma unidade de processamento neural de 6 nanômetros que dará suporte ao modelo de grande linguagem da Xiaomi, o MiMo, em dispositivos eletrônicos de consumo, e o Xring D100, um chip de 3 nanômetros voltado para direção autônoma. Segundo a Xiaomi, o O3 já entrou em produção em massa, enquanto o O100 e o D100 concluíram o desenvolvimento e têm implementação prevista para o próximo ano. Reprodução/ X Xiaomi",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/24/xiaomi-apresenta-novo-processador-prprio-fabricado-pela-tsmc-e-aposta-em-chips-para-celulares-e-carros.ghtml",
-      "published": "2026-08-24T11:20:20+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Eletrônicos"
-      ],
-      "matched_aliases": [
-        "smartphones"
-      ],
-      "matches": [
-        {
-          "sector": "Eletrônicos",
-          "alias": "smartphones",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "BYX compra fintechs E-Risk e Acredity e já origina quase R$ 500 milhões por mês em crédito",
-      "summary": "A BYX, cujos controladores recompraram no início do ano uma fatia de 33% que estava nas mãos do Banco Pine, anunciou agora a aquisição de duas fintechs por valores não revelados. Ela terá uma fatia de 70% na E-Risk, empresa de segurança e monitoramento de fraudes, e uma participação de 90% na Acredity, plataforma que funciona como um marketplace de crédito no varejo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/24/byx-compra-fintechs-e-risk-e-acredity-e-j-origina-quase-r-500-milhes-por-ms-em-crdito.ghtml",
-      "published": "2026-08-24T11:57:50+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "O que é recuperação extrajudicial? Entenda as diferenças para recuperação judicial, falência e liquidação",
-      "summary": "A Braskem anunciou nesta segunda-feira (24) que vai entrar com um pedido de recuperação extrajudicial para reestruturar cerca de US$ 10,9 bilhões em dívidas, o equivalente a aproximadamente R$ 56 bilhões. + CEO da Revolut compra superiate que já pertenceu a Daniel Vorcaro e agora enfrenta processo judicial; entenda + 'O sistema incentiva o surgimento de novos Vorcaros', diz especialista + Como dinheiro do contribuinte pode acabar sendo usado para cobrir parte do rombo bilionário do Banco Master O Conselho de Administração da petroquímica aprovou o ajuizamento da medida, mas o protocolo ainda depende da formalização dos documentos. Mais cedo, o colunista Lauro Jardim, de O Globo, havia noticiado o movimento da companhia para iniciar o processo de reestruturação. Segundo a Braskem, em nota compartilhada com o G1, o processo terá escopo limitado e estritamente financeiro e não abrangerá obrigações com fornecedores, clientes e outros stakeholders, que continuam vigentes e sendo cumpridas normalmente. O caso coloca em evidência um mecanismo menos conhecido do público: a recuperação extrajudicial. Apesar do nome, ela não é igual à recuperação judicial e também não deve ser confundida com falência ou liquidação extrajudicial. O que é recuperação extrajudicial? A recuperação extrajudicial é uma negociação conduzida pela própria empresa diretamente com seus credores para reorganizar suas dívidas. Nesse cenário, a companhia negocia previamente as condições do plano com os credores e, posteriormente, busca sua homologação pela Justiça. O acordo pode incluir, por exemplo, mudanças nos prazos de pagamento e períodos de carência. O objetivo é reorganizar as obrigações financeiras e permitir que a companhia continue funcionando. No caso da Braskem, a empresa deverá negociar com seus credores as condições para reorganizar suas dívidas, incluindo formas e prazos de pagamento. A principal diferença em relação à recuperação judicial está justamente na forma como a negociação é conduzida. Na recuperação extrajudicial, a empresa busca acertar previamente as condições com os credores. Na recuperação judicial, o processo judicial é mais amplo e conta com acompanhamento da Justiça desde o início. E o que é recuperação judicial? A recuperação judicial também busca dar condições para que uma empresa em dificuldade reorganize suas dívidas e tente continuar funcionando. Alexandre Jorge Chaia, professor e mestre em administração do Insper, explicou à Época NEGÓCIOS que, nesse modelo, a companhia entra em um processo de proteção judicial enquanto tenta chegar a um acordo com seus credores. “Outra etapa seria a recuperação judicial, quando um juiz decreta que as dívidas não serão pagas [naquele momento], está num processo de proteção e durante esse período ela tem um período para se recuperar”, afirma. Chaia cita como exemplo uma empresa que consiga negociar o pagamento de apenas uma parcela de suas dívidas ao longo de vários anos. Se os credores concordarem e a Justiça homologar o plano, a companhia passa a ter de cumprir as condições estabelecidas. Tanto a recuperação judicial quanto a extrajudicial, portanto, buscam evitar a falência e criar condições para que a empresa reorganize suas dívidas e continue operando. O caminho utilizado para chegar a esse acordo, porém, é diferente. E o que é falência? Na falência, a lógica muda. O objetivo já não é criar condições para que a empresa se reorganize e continue funcionando. “Falência: a empresa não vai existir, o juiz decreta que tudo vai ser apreendido”, diz Chaia. Nesse processo, os ativos da companhia são utilizados para o pagamento de seus credores de acordo com as regras previstas para o procedimento. A diferença central, portanto, está no objetivo: enquanto os mecanismos de recuperação procuram preservar a empresa e reorganizar suas obrigações, a falência caminha para o encerramento de suas atividades e a utilização dos ativos para quitar dívidas. E a liquidação extrajudicial? Apesar do nome parecido, liquidação extrajudicial e recuperação extrajudicial são mecanismos completamente diferentes. No caso de instituições financeiras reguladas pelo Banco Central, a liquidação extrajudicial pode ser decretada quando o regulador identifica que determinada instituição deixou de atender aos requisitos necessários para continuar funcionando, como exigências de capital ou outras normas operacionais. “O regulador percebe que a instituição descumpriu normas, não tem capital suficiente para cumprir seus compromissos ou corre o risco de agravar a situação. Para evitar que o público perca confiança no sistema financeiro, o Banco Central intervém e decreta a liquidação extrajudicial”, afirma Chaia. Nesse caso, a instituição deixa de operar. O processo busca organizar seus ativos e obrigações e conduzir seu encerramento de maneira ordenada. Chaia compara o mecanismo a uma espécie de “pré-falência”, expressão usada por ele para explicar que o objetivo da atuação do regulador não é recuperar a instituição e devolvê-la ao mercado. “O que o Banco Central faz é uma espécie de pré-falência. Ele não entra para salvar a empresa e devolvê-la ao mercado, mas para sanear o problema antes que ele vire um risco maior”, afirma. Qual é a diferença entre os quatro mecanismos? Na recuperação extrajudicial, a empresa negocia diretamente com seus credores um plano para reorganizar as dívidas e posteriormente busca a homologação judicial. Na recuperação judicial, a renegociação acontece dentro de um processo judicial mais amplo, com proteção e acompanhamento da Justiça. Na falência, o processo caminha para o encerramento da empresa e para a utilização de seus ativos no pagamento dos credores. Já a liquidação extrajudicial, no caso das instituições financeiras reguladas pelo Banco Central, interrompe as operações da instituição e busca organizar sua saída do mercado. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/08/o-que-e-recuperacao-extrajudicial-entenda-as-diferencas-para-recuperacao-judicial-falencia-e-liquidacao.ghtml",
-      "published": "2026-08-24T14:01:42+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "revolut"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "'Não dá para ficar contente com uma notícia de que o crédito cresceu e depois reclamar que o endividamento cresceu', diz Galípolo",
@@ -10787,6 +11322,98 @@
         {
           "sector": "Eletrônicos",
           "alias": "eletrodomésticos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "BioMarin e Ascendis fecham acordo global que inclui pagamento de royalties sobre vendas no Brasil",
+      "summary": "A BioMarin Pharmaceutical e a Ascendis Pharma anunciaram um acordo para encerrar de disputas judiciais em escala global, incluindo ações que tramitavam no Brasil, na Alemanha, na Dinamarca, na Coreia do Sul e nos Estados Unidos. Os litígios envolviam o medicamento Yuviwel, desenvolvido pela Ascendis, e patentes relacionadas à tecnologia de peptídeo natriurético do tipo C (CNP), aplicada no tratamento de condições genéticas raras, como a acondroplasia, da BioMarin. Pelo acordo, a Ascendis pagará à BioMarin royalties equivalentes a 20% das vendas líquidas do Yuviwel nos EUA, retroativos à primeira venda comercial, e de 18% das vendas líquidas na União Europeia, na Coreia do Sul e no Brasil até maio de 2030. O arranjo concede uma licença para o uso das patentes da BioMarin em todas as indicações atuais e potenciais da droga, além do uso combinado com outros medicamentos, afirmam as companhias. Em contrapartida, as farmacêuticas encerrarão todas as reinvindicações legais e a BioMarin retirará a investigação em andamento perante a Comissão de Comércio Internacional dos EUA. Pixabay",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/biomarin-e-ascendis-fecham-acordo-global-que-inclui-pagamento-de-royalties-sobre-vendas-no-brasil.ghtml",
+      "published": "2026-08-31T10:56:36+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Agenda do dia: Dados fiscais, Durigan e Moretti são destaque",
+      "summary": "Os investidores devem acompanhar o resultado primário do setor público consolidado e o relatório sobre a tributação simplificada das remessas postais internacionais, a chamada “taxa das blusinhas”. Além disso, a participação do ministro da Fazenda, Dario Durigan, e do ministro do Planejamento, Bruno Moretti, em evento do banco BTG Pactual será monitorada pelos investidores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/financas/noticia/2026/08/31/agenda-do-dia-dados-fiscais-durigan-e-moretti-sao-destaque.ghtml",
+      "published": "2026-08-31T10:58:19+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Shopper começa expansão nacional com primeiro CD fora de São Paulo",
+      "summary": "A Shopper começa a atender consumidores de Brasília e Goiânia na terça-feira (1º) com a abertura de seu quarto centro de distribuição (CD) e investimento de R$ 25 milhões. É a primeira estrutura do supermercado online fora do Estado de São Paulo e marca a entrada da companhia no Centro-Oeste, primeiro passo de um plano de expansão nacional que tem como meta uma receita líquida de R$ 2 bilhões em 2027. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/shopper-comeca-expansao-nacional-com-primeiro-cd-fora-de-sao-paulo.ghtml",
+      "published": "2026-08-31T11:00:40+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "centro de distribuição"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centro de distribuição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Hepatite: Brasil se une a estudo internacional liderado pela Johns Hopkins para a cura da doença",
+      "summary": "Um estudo encabeçado pela Universidade Johns Hopkins, dos Estados Unidos, para buscar compreender os mecanismos da hepatite B terá a participação do Hospital Universitário Cassiano Antônio Moraes da Universidade Federal do Espírito Santo (Hucam-Ufes) e da Universidade de São Paulo (USP). Novas 'canetas para músculos': medicamentos prometem combater perda de massa e envelhecimento; entenda Como funcionam as 'canetas para músculos': o bebê 'Hércules' que ajudou a desvendar o segredo do crescimento dos músculos O consórcio de pesquisa também vai incluir instituições de ensino da Índia, Senegal e Uganda. A hepatite B é viral, ou seja, ocorre a partir de um vírus. Dessa forma, será analisado o comportamento do vírus no sistema imunológico de pessoas de diferentes países e também como se deu essa resposta imunológica. Outro ponto que será investigado é o que acontece com o organismo quando uma pessoa é infectada pela hepatite B e o HIV ao mesmo. Em solo brasileiro, a pesquisa já teve seu pontapé inicial neste ano. 150 brasileiros com hepatite B e com a coinfecção por hepatite B e HIV farão parte do estudo por quatro anos e meio. Ao todo, a pesquisa contará com 600 participantes, que ajudarão os pesquisadores entenderem melhor quais características genéticas são capazes de proteger as pessoas de uma evolução mais rápida e quais subpartículas do vírus podem funcionar como preditores de cura ou de tratamento. Eu quero descobrir alvos que possam auxiliar no manejo para cura da hepatite B. [O que for achado] pode ser um alvo para desenvolvimento de fármacos, sejam imunoestimuladores, imunomodulador\", afirma a professora do Hucam-Ufes, Tânia Reuter, em comunicado. A pesquisadora corre contra o tempo. Atualmente, ela conta com 40 participantes em seu laboratório e pretende encontrar outros que cumpram os requisitos 35 até dezembro. O prazo dado pelo consórcio é até meados do ano que vem. A hepatite B é viral, ou seja, ocorre a partir de um vírus. A principal maneira de contrair a doença é por meio da exposição a fluídos corporais infectados. Isso pode ocorrer durante relações sexuais sem preservativos, compartilhamento de materiais de higiene pessoal (como escova de dente, alicates de unha, materiais que cortam), confecção de tatuagens e aplicação de piercings, procedimentos odontológicos ou cirúrgicos que não cumprem medidas sanitárias. Outras formas são através do compartilhamento de material para uso de drogas injetáveis, por contato direto com cortes de uma pessoa infectada e transfusão de sangue (mais comum nos anos 80 e 90). Além disso, ela também é transmitida de mãe para filho durante a gestação e o parto. Como é o diagnóstico da hepatite B? Os sintomas tendem a se manifestar apenas em uma fase mais avançada da doença. É recomendado procurar uma Unidade Básica de Saúde próxima para realizar o teste de hepatite. Com o diagnóstico, é possível receber o tratamento disponibilizado pelo SUS. O risco da infeção se tornar crônica varia de acordo com a idade da pessoa contaminada. A faixa etária infantil é a que oferece mais riscos, segundo o Ministério da Saúde, aquelas com menos de um ano, tem 90%; entre um e cinco anos, varia entre 20% e 50%. A forma de prevenção mais segura existente contra o vírus da hepatite B é a vacinação.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/08/31/hepatite-brasil-se-une-a-estudo-internacional-liderado-pela-johns-hopkins-para-a-cura-da-doenca.ghtml",
+      "published": "2026-08-31T12:55:40+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "lead",
           "score": 8,
           "topic": null
