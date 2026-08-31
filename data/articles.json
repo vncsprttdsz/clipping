@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-31T14:13:52.727112+00:00",
-  "count": 421,
-  "new_this_run": 52,
+  "generated_at": "2026-08-31T15:15:35.029620+00:00",
+  "count": 429,
+  "new_this_run": 26,
   "articles": [
     {
       "title": "Dono da Centauro, Grupo SBF (SBFG3) Renova Contrato com Nike até 2034",
@@ -231,6 +231,62 @@
         }
       ],
       "score": 72.0
+    },
+    {
+      "title": "iFood apresenta queixa contra rival chinesa Keeta no Cade",
+      "summary": "O iFood, unidade brasileira da Prosus, apresentou uma denúncia contra a chinesa Meituan, dona da Keeta, ao Conselho Administrativo de Defesa Econômica (Cade), órgão responsável pela defesa da concorrência, acusando sua concorrente de praticar preços artificialmente baixos para eliminar a concorrência. Compra de veículos: iFood e Caixa fecham parceria que vai facilitar acesso de entregadores a crédito para compra de motos e bike elétrica Em São Paulo: 99 lança 99Compras, serviço de entrega para supermercados e farmácias O iFood está pedindo ao órgão antitruste que investigue a economia unitária das operações da Keeta, empresa da Meituan, segundo documentos aos quais a Bloomberg teve acesso. A Keeta chegou a São Paulo há quase um ano e tem buscado agressivamente conquistar participação de mercado. As duas empresas oferecem serviços de entrega de comida preparada por meio de plataformas digitais. A participação de mercado do iFood era estimada em cerca de 75% no ano passado, antes da chegada da Keeta. A denúncia destaca a intensificação da concorrência por serviços baseados na web no Brasil. No documento enviado ao Cade, o iFood acusa a Keeta de usar as reservas de caixa de sua empresa controladora para subsidiar descontos em pedidos de R$ 250 (US$ 45) ou menos e praticar taxas inferiores às dos restaurantes. — Não se trata de uma competição baseada em mérito, mas em quem tem mais recursos para financiar, ao mesmo tempo, descontos agressivos para restaurantes e altos pagamentos para entregadores —disse Lucas Marini Pittioni, vice-presidente sênior de assuntos jurídicos, políticas públicas e fusões e aquisições do iFood. Guerra do delivery: iFood afirma que ex-funcionário admitiu à polícia ter conversado com representantes da Keeta O Cade já está investigando a dinâmica competitiva no setor local de entrega de alimentos. Em uma nota enviada ao órgão regulador em junho, o iFood alertou sobre os riscos impostos por entrantes com \"bolsos fundos\" que operam com prejuízos sustentados para consolidar sua dominância. Em maio, o iFood entrou com uma ação civil contra a Keeta, da Meituan, no tribunal empresarial de São Paulo por concorrência desleal. Pittioni afirmou que o iFood continua crescendo ano após ano e atingiu um número recorde de entregadores ativos enquanto expande sua base de assinantes, mas acrescentou que os subsídios estão desestabilizando o setor. Sua empresa adicionou recentemente entregas de itens de supermercado, produtos para animais de estimação e produtos farmacêuticos. Plataformas globais de entrega estão se expandindo para outros países em meio a regulamentações mais rígidas e um crescimento mais lento na China, onde a Meituan enfrentou escrutínio antitruste nos últimos anos. Gigante em mobilidade: Uber compra Delivery Hero por US$ 14,8 bilhões e avança em entregas de comida A Keeta entrou no Brasil em 2025 com um plano de investir US$ 1 bilhão ao longo de cinco anos. A empresa rapidamente conquistou clientes e superou outra concorrente, a Rappi, em número de usuários ativos mensais apenas de três meses após sua chegada, de acordo com Abe Yousef, analista sênior de insights na empresa de inteligência de mercado Sensor Tower. O iFood alertou que a demora na ação regulatória no Brasil pode levar à repetição de padrões observados em mercados como Hong Kong e Oriente Médio, onde a entrada rápida, subsidiada por elevados gastos de caixa, foi seguida pela saída de concorrentes e, posteriormente, por aumentos nas taxas cobradas dos comerciantes. Nem a Keeta nem o Cade responderam imediatamente a pedidos de comentários até a publicação da reportagem. Em discussão: Anvisa abre processo para regulamentar venda de remédios em app de delivery e e-commerce A Meituan reconheceu, em seus resultados do segundo trimestre, que o Brasil é um mercado “muito atraente”, mas também “bem diferente” dos demais mercados. No início de agosto, o diretor financeiro da Uber, Balaji Krishnamurthy, afirmou que a desaceleração no crescimento das corridas da empresa no segundo trimestre foi atribuída à forte concorrência das plataformas de entrega por motoristas de veículos de duas rodas no Brasil. Uber e iFood iniciaram uma parceria no fim de 2025.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/08/31/ifood-principal-aplicativo-de-entrega-do-brasil-apresenta-queixa-no-cade-contra-rival-chinesa.ghtml",
+      "published": "2026-08-31T14:07:53+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "99compras",
+        "farmácias",
+        "ifood",
+        "keeta"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "99compras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 70.0
     },
     {
       "title": "Anvisa Aprova Segundo Genérico de Semaglutida em Caneta Injetável",
@@ -977,6 +1033,123 @@
       "score": 60.0
     },
     {
+      "title": "iFood acusa Keeta de reduzir preços artificialmente em queixa no Cade",
+      "summary": "O iFood apresentou uma queixa contra a chinesa Keeta junto ao Cade (Conselho Administrativo de Defesa Econômica) , acusando sua concorrente de usar preços artificialmente baixos para sufocar a concorrência. Leia mais (08/31/2026 - 11h19)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/ifood-acusa-keeta-de-reduzir-precos-artificialmente-em-queixa-no-cade.shtml",
+      "published": "2026-08-31T14:19:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ifood",
+        "keeta"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "iFood denuncia Meituan ao Cade e acusa Keeta de preços artificialmente baixos - Bloomberg Línea Brasil",
+      "summary": "iFood denuncia Meituan ao Cade e acusa Keeta de preços artificialmente baixos &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/ifood-denuncia-meituan-ao-cade-e-acusa-keeta-de-precos-artificialmente-baixos",
+      "published": "2026-08-31T14:21:02+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "ifood",
+        "keeta"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova Yluméc, nova caneta de semaglutida da EMS - Folha de S.Paulo",
+      "summary": "Anvisa aprova Yluméc, nova caneta de semaglutida da EMS &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/08/anvisa-aprova-ylumec-nova-caneta-de-semaglutida-da-ems.shtml",
+      "published": "2026-08-31T14:38:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "ems",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Ministério Público contesta plano de recuperação do Pão de Açúcar e aponta risco a credores minoritários",
       "summary": "O MP-SP ( Ministério Público de São Paulo) se declarou contrário ao plano de recuperação extrajudicial do GPA ( Grupo Pão de Açúcar ) por entender que a companhia criou um grupo de credores muito diverso e que não reflete a mesma identidade econômica. A varejista defende a estratégia e afirma que a rejeição do plano pode piorar a crise. Leia mais (08/27/2026 - 22h59)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/08/ministerio-publico-contesta-plano-de-recuperacao-pao-de-acucar-e-aponta-risco-a-credores-minoritarios.shtml",
@@ -1298,6 +1471,45 @@
       "score": 48.0
     },
     {
+      "title": "Dono do Pão de Açúcar diz que Justiça estipulou prazo para MP-SP apresentar provas sobre retirada de credores",
+      "summary": "O GPA, dono do Pão de Açúcar, comunicou nesta segunda-feira (31) que a Justiça concedeu prazo de cinco dias para que o MP-SP (Ministério Público de São Paulo) e os credores que impugnaram o plano de recuperação extrajudicial da companhia apresentem elementos concretos acerca de qualquer crédito que tenha sido indevidamente excluído do plano. Leia mais (08/31/2026 - 11h57)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/dono-do-pao-de-acucar-diz-que-justica-estipulou-prazo-para-mp-sp-apresentar-provas-sobre-retirada-de-credores.shtml",
+      "published": "2026-08-31T14:57:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "pao de acucar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pao de acucar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Canetas emagrecedoras: pediatras alertam para risco de uso em crianças e adolescentes",
       "summary": "A Sociedade Brasileira de Pediatria (SBP) alertou sobre o risco do uso inadequado de “canetas emagrecedoras” entre crianças e adolescentes. Em nota, a entidade afirma que o uso desses medicamentos sem indicação e acompanhamento médico pode aumentar a frequência e a gravidade de eventos adversos. Paciente com câncer de pâncreas morre após diagnóstico apontar diabetes; órgão aponta falhas médicas Febre do Nilo Ocidental: os 8 sintomas sintomas mais conhecidos da infecção que atinge SP e SC Os riscos do uso sem acompanhamento médico incluem déficit de crescimento e desenvolvimento, desidratação e distúrbios eletrolíticos, perda de massa muscular, pancreatite aguda e problemas na vesícula. O uso com finalidade estética também pode servir de gatilho para transtornos alimentares, como anorexia e bulimia, além de ansiedade e quadros depressivos relacionados à imagem corporal. A entidade também contraindica a utilização de produtos sem procedência ou registro sanitário, incluindo preparações clandestinas, manipuladas ou importadas sem registro da Agência Nacional de Vigilância Sanitária (Anvisa). Em comunicado, o presidente do DC de Endocrinologia da SBP, dr. Crésio Alves, ressalta que crianças e adolescentes são bastante suscetíveis à pressão estética, uma vez que estão em processo de desenvolvimento de sua identidade, autoestima e comportamento. O presidente do Departamento Científico de Endocrinologiade da SBP, Crésio Alves, ressalta que crianças e adolescentes são bastante suscetíveis à pressão estética, uma vez que estão em processo de desenvolvimento de sua identidade, autoestima e comportamento. De acordo com a SBP, as \"canetas emagrecedoras\" não devem ser utilizadas por adolescentes com peso adequado simplesmente para modificar a aparência corporal ou atingir padrões estéticos. \"Esses medicamentos não podem ser utilizados simplesmente para modificar aparência corporal, nem para atingir padrões estéticos do ‘corpo ideal’ impostos pela sociedade. Também não devem ser usados para perda rápida de peso antes de festas, viagens ou competições, nem para compensar erro alimentar ou sedentarismo\", ressalta. A entidade ressalta que esses medicamentos possuem indicações específicas para jovens com obesidade ou diabetes tipo 2 e que, mesmo diante do diagnóstico dessas doenças, a prescrição não é automática. \"Antes de decidir pela prescrição, o médico precisa avaliar a resposta às intervenções prévias farmacológicas e não farmacológicas, a gravidade da doença, a presença de comorbidades, os riscos potenciais, a capacidade de acompanhamento e as expectativas do adolescente e de sua família\", elenca a nota de alerta. Nesse sentido, o pediatra deve investigar por que o adolescente deseja emagrecer, quanto deseja emagrecer, quem recomendou o medicamento e quais expectativas estão associadas ao tratamento. Indicações de uso Atualmente, apenas três compostos dessa classe estão aprovados para uso em crianças e adolescentes: liraglutida, semaglutida e tirzepatida. Todas são comercializadas na forma de canetas injetoras para uso subcutâneo. Esses medicamentos agem aumentando a saciedade, reduzindo a ingestão alimentar e retardando o esvaziamento gástrico, além de exercerem efeitos metabólicos, como o aumento da secreção de insulina em resposta à alimentação. Os eventos adversos mais comuns dos medicamentos são gastrointestinais e tendem a ocorrer principalmente durante o escalonamento da dose. Entre eles estão náuseas, vômitos, refluxo, azia, diarreia e constipação. A perda de massa magra também é apontada como um risco. A nota recomenda acompanhamento médico para ajuste da conduta diante de intolerância. Entre os eventos potencialmente graves, destacam-se pancreatite, hipoglicemia e colelitíase. “A evidência científica disponível demonstra eficácia e segurança desses medicamentos em adolescentes quando utilizados dentro dos critérios estudados e associados às intervenções sobre estilo de vida. O problema que temos observado atualmente, principalmente nas redes sociais, não está no medicamento em si, mas na banalização”, contextualiza o documento.",
       "url": "https://oglobo.globo.com/saude/noticia/2026/08/25/canetas-emagrecedoras-pediatras-alertam-para-risco-de-uso-em-criancas-e-adolescentes.ghtml",
@@ -1486,37 +1698,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Exame sanguíneo para Alzheimer desenvolvido pela Roche e Eli Lilly é aprovado por agência dos EUA",
-      "summary": "A Administração de Alimentos e Medicamentos dos Estados Unidos (FDA, na sigla em inglês) aprovou um exame sanguíneo para identificar sintomas da doença de Alzheimer, desenvolvido em conjunto pela Roche e pela Eli Lilly. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/24/exame-sanguineo-para-alzheimer-desenvolvido-pela-roche-e-eli-lilly-e-aprovado-por-agencia-dos-eua.ghtml",
-      "published": "2026-08-24T14:16:14+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "eli lilly",
-        "roche"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "roche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "eli lilly",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "2ª caneta genérica de semaglutida aprovada pela Anvisa - Diário do Comércio",
@@ -2629,6 +2810,37 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "O Simples Nacional e a opção pelo regime de apuração da CBS e do IBS",
+      "summary": "Regime híbrido amplia crédito ao adquirente, mas pode elevar o desembolso financeiro imediato",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-simples-nacional-e-a-opcao-pelo-regime-de-apuracao-da-cbs-e-do-ibs",
+      "published": "2026-08-31T14:00:44+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 40.0
@@ -3761,37 +3973,6 @@
       "score": 28.0
     },
     {
-      "title": "Ato conjunto da Receita e Comitê Gestor do IBS dipensa nanoempreendedor de emissão de documentos fiscais em 2027",
-      "summary": "Ato conjunto da Receita Federal e do Comitê Gestor do Imposto sobre Bens e Serviços dispensou, até 31 de dezembro de 2028, o nanoempreendedor de inscrição no cadastro com identificação única (CNPJ) e da emissão dos documentos fiscais (DFe) de que tratam os Regulamentos da Contribuição sobre Bens e Serviços (CBS) e do Imposto sobre Bens e Serviços (IBS). A medida foi publicada em edição extra do Diário Oficial da União (DOU) publicada neste sábado (29). A dispensa não se aplica àquele que exercer a opção pelo regime regular do IBS e da CBS. O nanoempreendedor é o profissional autônomo ou trabalhador informal que fatura até R$ 40.500 por ano. “Este Ato Conjunto entra em vigor na data de sua publicação no Diário Oficial da União e no sítio eletrônico do Comitê Gestor do Imposto sobre Bens e Serviços produzindo efeitos até 31 de dezembro de 2028”, informou o ato conjunto. Na reforma tributária, vendedoras de produtos de beleza, motoristas e entregadores de aplicativo, por exemplo, foram classificadas como nanoempreendedores e ficaram isentas de pagar os novos tributos (IBS e CBS). A possibilidade de nota fiscal passou a ser uma exigência nos regulamentos do IBS e da CBS, o que foi alterado agora.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/08/29/ato-conjunto-da-receita-e-comit-gestor-do-ibs-dipensa-nanoempreendedor-de-emisso-de-documentos-fiscais-em-2027.ghtml",
-      "published": "2026-08-29T17:36:58+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "PIB, payroll e votação do fim da escala 6x1: o que move os mercados nesta semana",
       "summary": "Semana começa com dados de atividade no Brasil e termina com o principal termômetro do mercado de trabalho dos EUA; Congresso também concentra votações de impacto econômico como o fim da \"taxa das blusinhas\"",
       "url": "https://exame.com/invest/mercados/pib-payroll-e-votacao-do-fim-da-escala-6x1-o-que-move-os-mercados-nesta-semana",
@@ -3856,6 +4037,37 @@
       "score": 28.0
     },
     {
+      "title": "Mounjaro ganha nova aprovação para reduzir risco de infarto e AVC; entenda o que muda",
+      "summary": "Decisão da FDA foi baseada em estudo no qual a tirzepatida apresentou redução 8% maior no risco de eventos cardiovasculares graves em comparação com o Trulicity",
+      "url": "https://exame.com/ciencia/mounjaro-ganha-nova-aprovacao-para-reduzir-risco-de-infarto-e-avc-entenda-o-que-muda",
+      "published": "2026-08-31T10:59:22+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Uniqlo muda estratégia no Japão e aposta em lojas-âncora nas grandes cidades",
       "summary": "A Uniqlo, rede de roupas casuais da Fast Retailing, está reformulando sua estratégia de expansão no Japão. Em vez de priorizar lojas padronizadas em shoppings e áreas suburbanas, a empresa pretende concentrar novas unidades em grandes lojas-âncora nos principais centros urbanos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/31/uniqlo-muda-estratgia-no-japo-e-aposta-em-lojas-ncora-nas-grandes-cidades.ghtml",
@@ -3881,6 +4093,37 @@
           "alias": "uniqlo",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "EXCLUSIVO: Wellhub mira até US$ 500 milhões em eventual IPO nos EUA",
+      "summary": "Antigo Gympass monitora mercado para uma possível abertura de capital; companhia já reúne mais de 5 milhões de assinantes em 18 países",
+      "url": "https://exame.com/exame-in/exclusivo-wellhub-mira-ate-us-500-milhoes-em-eventual-ipo-nos-eua",
+      "published": "2026-08-31T11:34:33+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "gympass",
+        "wellhub"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "gympass",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -3916,6 +4159,85 @@
         }
       ],
       "score": 28.0
+    },
+    {
+      "title": "Decathlon compra 50% da Sport 2000 na França para expandir atuação em esportes de inverno",
+      "summary": "A Decathlon assinou um acordo para comprar 50% da Sport 2000 França, controlada pelo grupo varejista de artigos esportivos Céraclès Coopérative, em um negócio que ampliará sua presença em estações de esqui francesas. As lojas Sport 2000 da Céraclès continuarão a ser operadas de forma independente sob um modelo de franquia, mas o acordo permitirá que a Decathlon entre no mercado de aluguel de esqui e disponibilize seus produtos na rede de lojas do varejista nos Alpes e Pireneus franceses, afirmou Jérémy Angelard, diretor de negócios da Decathlon para a Europa. “Precisamos continuar crescendo e melhorando nossa presença em produtos, mas também em serviços, porque essa é uma fatia enorme do mercado esportivo que estamos atingindo, mas não na velocidade que queremos”, disse Angelard em uma entrevista. A Decathlon, que registrou vendas de 16,8 bilhões de euros em 82 países no ano passado, tem expandido suas próprias marcas e buscado adquirir varejistas especializados com o objetivo de conquistar uma fatia maior do mercado de artigos esportivos em expansão. Os esportes de montanha, incluindo equipamentos para esportes na neve e trilhas, respondem por cerca de 25% dos negócios da Decathlon na França, mas a marca possui apenas cinco lojas nas regiões montanhosas, enquanto a Sport 2000 conta com 190, destacou Angelard. Por meio do acordo com a Céraclès, a Decathlon também terá acesso às outras redes varejistas do grupo, Mondovélo, Espace Montagne, Ekosport-Rent, WAS We Are Select, S2 Sneakers Specialist e Urban Soccer. A Céraclès possui um total de 700 lojas em toda a França, incluindo 400 unidades da Sport 2000, ao passo que a Decathlon opera 325 lojas no país. As discussões estão em andamento e a transação permanece sujeita a aprovações regulatórias, informaram as empresas, que não divulgaram o valor financeiro do negócio. Logotipo da Decathlon Reuters/Stephane Mahe/Foto de Arquivo",
+      "url": "https://valor.globo.com/empresas/noticia/2026/08/31/decathlon-compra-50-pontos-percentuais-da-sport-2000-na-frana-para-expandir-atuao-em-esportes-de-inverno.ghtml",
+      "published": "2026-08-31T14:11:57+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "artigos esportivos",
+        "decathlon"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "decathlon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "artigos esportivos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Ações da Natura (NATU3) disparam após mudança de comando",
+      "summary": "As ações da Natura abriram o pregão desta segunda-feira (31) em alta depois do anúncio da mudança de comando da operação e da saída da empresa do diretor-presidente João Paulo Ferreira. Ele ocupava o cargo há uma década e fazia parte da empresa há 17 anos. Por volta das 11h15, os papéis ordinários (NATU3) subiam 7%, a R$ 9,36. O lugar de Ferreira, como mostrou o Valor, será ocupado por Alessandro Carlucci, atual presidente do conselho de administração da Natura e que também já havia ocupado o cargo de diretor-presidente do grupo por dez anos, entre 2005 e 2014. A mudança do comando ocorre após a assembleia que formalizou o acordo entre Natura e Advent para a indicação de dois sócios da gestora americana para o conselho da empresa de cosméticos brasileira (Pablo Zucchini e Rafael Leão). A condição para a indicação era a aquisição de 8% das ações em circulação da Natura pelo fundo, processo já concluído e que fez da Advent a segunda maior acionista fora do grupo de controle da companhia, formado pelos seus fundadores. Para analistas, a mudança é positiva. O Citi disse que a experiência que Carlucci adquiriu ocupando cadeiras de conselhos de outras empresas de varejo, como Arezzo e Lojas Renner, contribui para a leitura otimista para seu retorno ao cargo, apesar de a empresa ser hoje diferente da que ele liderou há mais de uma década atrás. Por conta da nomeação como diretor-presidente, que terá efeitos em outubro, Carlucci apresentou renúncia imediata ao cargo de presidente do colegiado e à cadeira que ocupava no conselho da empresa. Por isso, Fábio Barbosa, membro do conselho consultivo e ex-diretor-presidente da companhia entre 2022 e 2025, passa a ocupar a vaga que era de Carlucci. O Itaú BBA disse que a nomeação de Carlucci como presidente e a posse de Barbosa como presidente do conselho são positivas, mas que a execução de metas operacionais continua no centro das atenções no curto prazo depois de um segundo trimestre fraco.",
+      "url": "https://valor.globo.com/financas/noticia/2026/08/31/acoes-da-natura-disparam-apos-mudanca-de-comando.ghtml",
+      "published": "2026-08-31T14:23:58+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Fashion",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "arezzo",
+        "lojas renner",
+        "natura",
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "lojas renner",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "arezzo",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 26.0
     },
     {
       "title": "Marca Ace, da C&A, terá franquias e planeja mais 25 lojas",
@@ -4152,75 +4474,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Qué es la \"prueba de Bernard Arnault\" que Michael Saylor aplica a Bitcoin - iProUP",
-      "summary": "Qué es la \"prueba de Bernard Arnault\" que Michael Saylor aplica a Bitcoin &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/economia-digital/70923-que-es-la-prueba-de-bernard-arnault-que-michael-saylor-aplica-a-bitcoin",
-      "published": "2026-08-24T14:35:51+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "bernard arnault"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "bernard arnault",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Caneta emagrecedora genérica: como vai funcionar e quanto será mais barata - CNN Brasil",
-      "summary": "Caneta emagrecedora genérica: como vai funcionar e quanto será mais barata &nbsp;&nbsp; CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/saude/caneta-emagrecedora-generica-como-vai-funcionar-e-quanto-sera-mais-barata",
-      "published": "2026-08-24T14:50:41+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bancos gostam de trabalhar com juros baixos, porque com juros altos a inadimplência aumenta de forma exponencial, diz CEO do Itaú",
-      "summary": "O CEO do Itaú Unibanco, Milton Maluhy, destacou, em painel com CEOs dos grandes bancos brasileiros durante o Febraban Tech, evento de inovação e tecnologia no setor financeiro promovido pela Federação Brasileira de Bancos (Febraban), que, ao contrário do que as pessoas acreditam, os bancos gostam de trabalhar com juros baixos. Isso porque, em um cenário de juros altos, aumenta a inadimplência, o que afeta o crédito. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/24/bancos-gostam-de-trabalhar-com-juros-baixos-porque-com-juros-altos-a-inadimplencia-aumenta-de-forma-exponencial-diz-ceo-do-itau.ghtml",
-      "published": "2026-08-24T15:14:59+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Não temos opção de não avançar em IA, porque os criminosos vão fazer, diz CEO do Nubank para AL",
@@ -9283,6 +9536,29 @@
       "score": 20.0
     },
     {
+      "title": "Ação da Natura sobe mais de 7% com troca de CEO e lidera altas do Ibovespa",
+      "summary": "Volta de ex-CEO anima investidores, e papel dispara no último pregão de agosto",
+      "url": "https://exame.com/invest/mercados/acao-da-natura-sobe-mais-de-7-com-troca-de-ceo-e-lidera-altas-do-ibovespa",
+      "published": "2026-08-31T11:11:46+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Agenda de empresas: Justiça antecipa efeitos de RJ da Casas Bahia; MG indica novo presidente da Cemig",
       "summary": "Casas Bahia Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/08/31/agenda-de-empresas-justica-antecipa-efeitos-de-rj-da-casas-bahia-mg-indica-novo-presidente-da-cemig.ghtml",
@@ -9352,6 +9628,29 @@
       "score": 20.0
     },
     {
+      "title": "Ação da Casas Bahia dispara 45% após Justiça suspender cobranças por 180 dias",
+      "summary": "Decisão dá seis meses de proteção à companhia contra credores, enquanto negocia a reestruturação de R$ 17,3 bilhões",
+      "url": "https://exame.com/invest/mercados/acao-da-casas-bahia-dispara-45-apos-justica-suspender-cobrancas-por-180-dias",
+      "published": "2026-08-31T11:56:27+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Natura anuncia Alessandro Carlucci como novo CEO e destaca transição “sem rupturas”",
       "summary": "Quatro anos depois de abandonar a ambição de ser um grupo global de cosméticos e iniciar um complexo processo de simplificação das suas operações, a Natura está promovendo uma nova reorganização. Agora, no plano das suas lideranças e com a participação de “velhos conhecidos” da casa. A companhia anunciou nesta segunda-feira, 31 de agosto, que [&#8230;] O post Natura anuncia Alessandro Carlucci como novo CEO e destaca transição &#8220;sem rupturas&#8221; apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/natura-anuncia-alessandro-carlucci-como-novo-ceo-e-destaca-transicao-sem-rupturas",
@@ -9390,6 +9689,29 @@
         {
           "sector": "Cosméticos",
           "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Las acciones de Shein caen 10% en las operaciones previas a su OPI - El Economista",
+      "summary": "Las acciones de Shein caen 10% en las operaciones previas a su OPI &nbsp;&nbsp; El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/acciones-shein-caen-10-operaciones-previas-opi-20260831-831035.html",
+      "published": "2026-08-31T12:23:38+00:00",
+      "source": "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
           "field": "title",
           "score": 20,
           "topic": null
@@ -9582,35 +9904,50 @@
       "score": 20.0
     },
     {
-      "title": "Roubos em Museus Têm Se Tornado Mais Violentos, com Ladrões Contratados nas Redes Sociais, Diz Europol",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. A Europol acrescentou que os ladrões têm como alvo, cada vez mais, itens de ouro — desde pepitas e moedas até joias O post Roubos em Museus Têm Se Tornado Mais Violentos, com Ladrões Contratados nas Redes Sociais, Diz Europol apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/08/roubos-em-museus-tem-se-tornado-mais-violentos-com-ladroes-contratados-nas-redes-sociais-diz-europol",
-      "published": "2026-08-24T14:51:13+00:00",
-      "source": "https://forbes.com.br/feed/",
+      "title": "CEO da Natura deixa cargo após dez anos, e Alessandro Carlucci assume companhia",
+      "summary": "A Natura informou nesta segunda-feira (31) que o diretor-presidente João Paulo Ferreira está deixando a empresa após dez anos de liderança. A saída será no dia 30 de setembro, e ele também renunciou à cadeira no conselho de administração, esta com efeito imediato. Leia mais (08/31/2026 - 11h03)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/08/ceo-da-natura-deixa-cargo-apos-dez-anos-e-alessandro-carlucci-assume-companhia.shtml",
+      "published": "2026-08-31T14:03:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
-        "Joias"
+        "Cosméticos"
       ],
       "matched_aliases": [
-        "joias",
-        "ouro"
+        "natura"
       ],
       "matches": [
         {
-          "sector": "Joias",
-          "alias": "joias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "ouro",
-          "field": "lead",
-          "score": 8,
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "Natura Anuncia Alessandro Carlucci Como Novo CEO",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Executivo assume o cargo em outubro; João Paulo Ferreira deixa a liderança após 10 anos O post Natura Anuncia Alessandro Carlucci Como Novo CEO apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/carreira/2026/08/natura-anuncia-alessandro-carlucci-como-novo-ceo",
+      "published": "2026-08-31T14:53:30+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "Como a YSL Beauty planeja aumentar presença no mercado brasileiro",
@@ -10155,29 +10492,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "'Não dá para ficar contente com uma notícia de que o crédito cresceu e depois reclamar que o endividamento cresceu', diz Galípolo",
-      "summary": "Ao falar de endividamento das famílias, o presidente o Banco Central, Gabriel Galípolo, disse que \"não dá para ficar contente com uma notícia de que o crédito cresceu e depois reclamar que o endividamento cresceu\". Em sua fala na palestra de abertura do evento o Febraban tech 2026, em São Paulo, Galípolo falou ainda da necessidade do uso consciente dos instrumentos financeiros. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/08/nao-da-para-ficar-contente-com-uma-noticia-de-que-o-credito-cresceu-e-depois-reclamar-que-o-endividamento-cresceu-diz-galipolo.ghtml",
-      "published": "2026-08-24T14:41:04+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Häagen-Dazs deixa o Brasil: veja onde ainda é possível comprar os sorvetes",
