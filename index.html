@@ -459,26 +459,61 @@
     font-size: 11.5px; color: var(--text-muted);
     margin-top: 4px; word-break: break-all;
   }
-  .item-actions {
+  /* Layout dos controles do item: agrupa por TAREFA e isola por CONSEQUENCIA.
+     Arrastar, mover pro topo e mover pro fim sao a mesma tarefa (posicao) e
+     ficam juntos a esquerda. Remover e destrutivo e vai pra borda oposta,
+     separado pela largura inteira do corpo do card.
+     Antes os tres botoes eram uma pilha com 2px de gap e alvos de ~20px, ou
+     seja, "mover pro fim" e "remover" colados: fat finger garantido. */
+  .pos-controls {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-shrink: 0;
+  }
+  .move-stack {
     display: flex;
     flex-direction: column;
-    gap: 2px;
-    flex-shrink: 0;
+    gap: 4px;
   }
   .item-action-btn {
     background: none;
     border: 1px solid var(--border);
-    border-radius: 6px;
+    border-radius: 8px;
     color: var(--text-muted);
-    font-size: 11px;
-    padding: 4px 6px;
+    font-size: 13px;
     cursor: pointer;
     line-height: 1;
-    min-width: 32px;
+    padding: 0;
+    /* alvo confortavel: 44px de largura, altura 32px. As duas de mover sao
+       reversiveis, entao a altura menor e aceitavel aqui. */
+    min-width: 44px;
+    height: 32px;
     -webkit-appearance: none;
+    touch-action: manipulation;
   }
   .item-action-btn:active { background: var(--bg); opacity: 0.7; }
-  .item-action-btn.danger { color: var(--danger); border-color: var(--danger); }
+  .item-action-btn:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  /* Remover: 44x44 cheio (minimo da Apple HIG) e na borda direita, longe
+     dos botoes de mover. */
+  .remove-btn {
+    flex-shrink: 0;
+    margin-left: auto;
+    width: 44px;
+    height: 44px;
+    font-size: 20px;
+    color: var(--danger);
+    border-color: var(--border);
+  }
+  .remove-btn:active {
+    background: var(--danger);
+    border-color: var(--danger);
+    color: #fff;
+    opacity: 1;
+  }
   .item-action-btn:disabled {
     opacity: 0.3;
     cursor: default;
@@ -508,6 +543,33 @@
     pointer-events: none;
     z-index: 50;
   }
+  /* Toast com acao: segunda linha de defesa do remover. Separacao evita o
+     toque errado; o desfazer conserta quando ele acontece mesmo assim. */
+  .undo-toast {
+    position: fixed; bottom: 90px; left: 50%;
+    transform: translateX(-50%) translateY(20px);
+    display: flex; align-items: center; gap: 14px;
+    background: var(--text); color: var(--bg);
+    padding: 8px 8px 8px 18px;
+    border-radius: 100px;
+    font-size: 13px; font-weight: 500;
+    opacity: 0;
+    transition: opacity 0.2s, transform 0.2s;
+    pointer-events: none;
+    z-index: 51;
+  }
+  .undo-toast.show { opacity: 1; transform: translateX(-50%) translateY(0); pointer-events: auto; }
+  .undo-toast button {
+    background: none; border: none;
+    color: var(--accent);
+    font-size: 13px; font-weight: 600;
+    padding: 8px 14px;
+    border-radius: 100px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    touch-action: manipulation;
+  }
+  .undo-toast button:active { opacity: 0.6; }
   .copy-success.show {
     opacity: 1;
     transform: translateX(-50%) translateY(0);
@@ -579,7 +641,7 @@
   </div>
   <div class="screen-content">
     <div class="reorder-hint">
-      Arraste pelo <strong>⋮⋮</strong> para reordenar, ou use <strong>⤒</strong> (topo) e <strong>⤓</strong> (fim). Toque no <strong>×</strong> para remover.
+      Controles de posição à esquerda: arraste pelo <strong>⋮⋮</strong>, ou use <strong>⤒</strong> (topo) e <strong>⤓</strong> (fim). O <strong>×</strong> à direita remove, e dá pra desfazer.
     </div>
     <div class="reorder-list" id="reorder-list"></div>
     <div class="preview" id="preview"></div>
@@ -593,6 +655,10 @@
 </div>
 
 <div class="copy-success" id="copy-toast">Copiado!</div>
+<div class="undo-toast" id="undo-toast">
+  <span id="undo-msg">Removida</span>
+  <button type="button" id="undo-btn">Desfazer</button>
+</div>
 
 <div id="sources-container" style="padding: 0 16px 40px;"></div>
 
@@ -890,8 +956,17 @@ function render() {
     (groups[key] = groups[key] || []).push(a);
   }
 
+  // Dentro de cada setor: score primeiro (mais provavel de ser relevante no
+  // topo), data so como desempate. Antes era so data, o que enterrava match
+  // forte de titulo embaixo de mencao fraca mais recente.
+  // Artigo manual vem sempre primeiro: foi o usuario que digitou, entao a
+  // intencao dele ganha do score (que e fixo em 1 e o afundaria).
   for (const key of Object.keys(groups)) {
     groups[key].sort((a, b) => {
+      if (a._manual !== b._manual) return a._manual ? -1 : 1;
+      const sa = typeof a.score === 'number' ? a.score : 0;
+      const sb = typeof b.score === 'number' ? b.score : 0;
+      if (sb !== sa) return sb - sa;
       const ta = a.published ? new Date(a.published).getTime() : -Infinity;
       const tb = b.published ? new Date(b.published).getTime() : -Infinity;
       return tb - ta;
@@ -1090,19 +1165,23 @@ function renderReview() {
   const lastIdx = items.length - 1;
   document.getElementById('reorder-list').innerHTML = items.map((a, i) => `
     <div class="reorder-item" data-url="${esc(a.url)}" data-index="${i}">
-      <div class="drag-handle" data-url="${esc(a.url)}">⋮⋮</div>
+      <div class="pos-controls">
+        <div class="drag-handle" data-url="${esc(a.url)}">⋮⋮</div>
+        <div class="move-stack">
+          <button class="item-action-btn" data-action="top" data-url="${esc(a.url)}"
+                  title="Mover para o início" aria-label="Mover para o início"
+                  ${i === 0 ? 'disabled' : ''}>⤒</button>
+          <button class="item-action-btn" data-action="bottom" data-url="${esc(a.url)}"
+                  title="Mover para o fim" aria-label="Mover para o fim"
+                  ${i === lastIdx ? 'disabled' : ''}>⤓</button>
+        </div>
+      </div>
       <div class="reorder-item-body">
         <div class="reorder-title">${esc(a.title)}</div>
         <div class="reorder-url">${esc(a.url)}</div>
       </div>
-      <div class="item-actions">
-        <button class="item-action-btn" data-action="top" data-url="${esc(a.url)}"
-                title="Mover para o início" ${i === 0 ? 'disabled' : ''}>⤒</button>
-        <button class="item-action-btn" data-action="bottom" data-url="${esc(a.url)}"
-                title="Mover para o fim" ${i === lastIdx ? 'disabled' : ''}>⤓</button>
-        <button class="item-action-btn danger" data-action="remove" data-url="${esc(a.url)}"
-                title="Remover">×</button>
-      </div>
+      <button class="item-action-btn remove-btn" data-action="remove" data-url="${esc(a.url)}"
+              title="Remover" aria-label="Remover da seleção">×</button>
     </div>
   `).join('');
 
@@ -1113,7 +1192,7 @@ function renderReview() {
       const action = btn.dataset.action;
       const url = btn.dataset.url;
       if (action === 'remove') {
-        toggleSelect(url);
+        removeFromReview(url);
       } else if (action === 'top') {
         moveToTop(url);
       } else if (action === 'bottom') {
@@ -1308,6 +1387,43 @@ function showToast(msg) {
   t.textContent = msg;
   t.classList.add('show');
   setTimeout(() => t.classList.remove('show'), 1400);
+}
+
+// Remocao com desfazer. Guarda a POSICAO original, nao so a url, senao o
+// desfazer devolveria a materia pro fim da lista e o usuario perderia a
+// ordem que ja tinha montado.
+let undoTimer = null;
+
+function removeFromReview(url) {
+  const idx = state.order.indexOf(url);
+  if (idx === -1) return;
+  state.selected.delete(url);
+  state.order.splice(idx, 1);
+  persist();
+  render();
+  showUndoToast('Removida', () => {
+    state.selected.add(url);
+    state.order.splice(Math.min(idx, state.order.length), 0, url);
+    persist();
+    render();
+    renderReview();
+  });
+}
+
+function showUndoToast(msg, onUndo) {
+  const t = document.getElementById('undo-toast');
+  const btn = document.getElementById('undo-btn');
+  document.getElementById('undo-msg').textContent = msg;
+  clearTimeout(undoTimer);
+  // onclick (nao addEventListener) pra nao acumular handler de remocoes
+  // anteriores, que desfariam varias de uma vez.
+  btn.onclick = () => {
+    clearTimeout(undoTimer);
+    t.classList.remove('show');
+    onUndo();
+  };
+  t.classList.add('show');
+  undoTimer = setTimeout(() => t.classList.remove('show'), 5000);
 }
 
 // ============================================================
