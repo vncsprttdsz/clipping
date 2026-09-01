@@ -21,9 +21,7 @@ sectors:
     # Simples - marcas/varejistas com operação BR clara
     - renner
     - lojas renner
-    - lren
     - c&a
-    - ceab
     - riachuelo
     - casa riachuelo
     - carter's
@@ -52,6 +50,22 @@ sectors:
     - tok&stok
     - mobly
     - guararapes
+    # H&M abriu operacao BR: so existia em Global Consumer com gate em ingles,
+    # entao "H&M vai abrir mais quatro lojas no Brasil" nao casava em lugar nenhum.
+    - h&m
+    - chilli beans
+    - marabraz
+
+    # Tickers. A imprensa de mercado (InfoMoney, Money Times, Suno) escreve
+    # manchete ticker-first ("LREN3 sobe 4% apos balanco"), sem citar a marca.
+    # Antes daqui, "lren"/"ceab" estavam truncados e eram codigo morto: \b nao
+    # separa letra de digito, entao \blren\b nunca casa "LREN3".
+    - lren3
+    - ceab3
+    - riaa3
+    - azza3
+    - guar3
+    - amar3
 
     # Aliases ambíguos (exigem contexto)
     - alias: farm
@@ -78,20 +92,18 @@ sectors:
   Joias:
     # Simples
     - vivara
+    - viva3
     - life by vivara
     - joalheria
-    - cartier
-    - rolex
-    - tiffany & co
+    # Pandora fica aqui (opera no Brasil, comp direto de Vivara). Cartier,
+    # Rolex e Tiffany sairam: sao luxo global sem operacao BR, entao pela
+    # regra de ouro ficam SO em Global Consumer. Antes casavam sem gate nos
+    # dois setores e "Rolex sobe precos na Suica" entrava em Joias BR.
     - pandora
     - alias: diamante
       requires_any: [joia, joalheria, anel, colar, brinco, vivara, luxo,
                      quilate, lapidado, joalheiro, aliança, noivado]
       requires_none: [terras raras, recursos minerais, minério, mineração]
-    - alias: tiffany
-      requires_any: [joia, joalheria, anel, colar, luxo, lvmh, marca,
-                     alta joalheria, relógio, diamante, joalheria de luxo]
-      requires_none: [tiffany young, formatura, universidade, cantora, sing]
 
     # Ambíguos
     - alias: joias
@@ -149,6 +161,10 @@ sectors:
     - ponto frio
     - bhia3
     - mglu3
+    # Comps citados no arquivo mas que so existiam dentro de requires_any,
+    # onde nunca disparam sozinhos (o alias precisa casar ANTES do gate).
+    - amer3
+    - lasa11
     - ualá
     - naranjax
     - revolut
@@ -168,22 +184,39 @@ sectors:
       requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
                      consumidores, mercado, faturamento, crescimento, marketplace,
                      online, digital, entrega, logística, plataforma, compra,
-                     compras, brasil, brasileiro, setor]
+                     compras, brasil, brasileiro, setor,
+                     renda, gasto, gastos, dinheiro, ticket médio]
     - alias: comércio eletrônico
       requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
                      consumidores, mercado, faturamento, crescimento, marketplace,
                      online, digital, entrega, logística, plataforma, compra,
-                     compras, brasil, brasileiro, setor]
-    - alias: comercio eletronico
-      requires_any: [varejo, venda, vendas, loja, lojas, consumidor,
-                     consumidores, mercado, faturamento, crescimento, marketplace,
-                     online, digital, entrega, logística, plataforma, compra,
-                     compras, brasil, brasileiro, setor]
+                     compras, brasil, brasileiro, setor,
+                     renda, gasto, gastos, dinheiro, ticket médio]
+    # NOTA: nao existe entrada separada "comercio eletronico" sem acento. O
+    # pipeline remove acento antes de comparar (NFKD), entao ela normalizava
+    # para a MESMA regex de "comércio eletrônico". Eram duas regras identicas,
+    # com o risco de editar uma e esquecer a outra.
     - remessa conforme
     # Cross-border / taxação de importados (tema central da tese)
     - taxa das blusinhas
     - taxa das blusinha
     - imposto das blusinhas
+    # A pauta virou "MP das blusinhas" na imprensa e nenhuma variante casava.
+    # "blusinhas" sozinho e inequivoco no noticiario BR.
+    - blusinhas
+    - mp das blusinhas
+    - taxa de importação
+    - remessas internacionais
+    - compras internacionais
+    - alias: contrabando
+      requires_any: [caneta, canetas, emagrec, tirzepatida, semaglutida,
+                     mounjaro, ozempic, paraguai, importação, importados,
+                     fronteira, internet, e-commerce, varejo, medicamento,
+                     medicamentos, remédio, produto, produtos, marketplace]
+    - alias: correios
+      requires_any: [compra, compras, importação, importados, encomenda,
+                     encomendas, e-commerce, entrega, paraguai, internet,
+                     remessa, remessas, blusinhas, loja, lojas]
     - cross-border
     - keeta
     - 99 food
@@ -230,8 +263,10 @@ sectors:
                      magalu, varejo, e-commerce, comércio eletrônico]
       requires_none: [pcc, comando vermelho, facção, facções, terrorista,
                       terroristas, narcotráfico, tráfico de drogas, crime organizado]
-    - alias: magazine luiza
-      requires_any: [varejo, digital, marketplace, logística]
+    # NOTA: nao readicionar "magazine luiza" com requires_any aqui. Ja existe
+    # como alias simples acima e a entrada duplicada contava DUAS vezes no
+    # score do mesmo artigo (80 vs 60 para o mesmo fato num concorrente),
+    # empurrando MGLU pro topo da ordenacao por score sem motivo.
     - alias: americanas
       # A empresa Americanas (varejo). Risco: gentilico "empresas americanas",
       # "residencias americanas", "grandes americanas". Tratado via requires_none.
@@ -275,17 +310,24 @@ sectors:
                       fortuna de musk]
     - alias: tiktok
       requires_any: [shop, ecommerce, e-commerce, vendas, marketplace,
-                     live commerce, comércio eletrônico]
+                     live commerce, comércio eletrônico, compra, compras,
+                     crédito, financeira, fintech, pagamento, transportadora,
+                     logística, entrega, varejo, consumidor, beleza, sephora]
 
   # ------------------------------------------------------------
   # VAREJO ALIMENTAR
   # ------------------------------------------------------------
   Varejo Alimentar:
     # Simples
+    # So a grafia acentuada. O pipeline normaliza (NFKD) antes de comparar,
+    # entao "assai" sem acento era regra IDENTICA e o score contava 2x.
     - assaí
-    - assai
+    - asai3
     - sendas
     - gpa
+    - pcar3
+    - crfb3
+    - gmat3
     - grupo pão de açúcar
     - atacadão
     - atakadão
@@ -331,12 +373,7 @@ sectors:
                      lojas, expansao, fechamento]
     - alias: belmiro gomes
       requires_any: [grupo, empresário, acionista, gpa, sendas]
-    - alias: pao de acucar
-      requires_any: [grupo, supermercado, varejo, gpa, casino, receita]
-      requires_none: [tirolesa no pão, tirolesa no pao, bondinho do pão,
-                      bondinho do pao, atração turística, urca,
-                      cristo redentor, aula de ioga, morro do pão,
-                      morro do pao, cartão postal]
+    # So a grafia acentuada: "pao de acucar" normalizava para a mesma regex.
     - alias: pão de açúcar
       requires_any: [grupo, supermercado, varejo, gpa, casino, receita]
       requires_none: [tirolesa no pão, tirolesa no pao, bondinho do pão,
@@ -349,7 +386,10 @@ sectors:
       requires_any: [supermercado, varejo, gpa, pão de açúcar, ações, controlador, francês]
     - alias: carrefour
       requires_any: [brasil, atacadao, atacadão, grupo, supermercado,
-                     hipermercado, atacarejo, ações, loja, lojas, crfb3]
+                     hipermercado, atacarejo, ações, loja, lojas, crfb3,
+                     marca própria, marcas próprias, banco carrefour, cartão,
+                     cliente, clientes, varejo, venda, vendas, fideliza,
+                     sam's club, ceo, balanço, trimestre]
     - alias: tenda
       requires_any: [atacado, supermercado, atacarejo, varejo, alimentos, compra]
 
@@ -360,25 +400,29 @@ sectors:
     - smartfit
     - bio ritmo
     - total pass
+    - totalpass
     - wellhub
     - gympass
     - panobianco
     - selfit
     - bluefit
-    - academia gavioes
     - academia gaviões
     - rede de academias
     - smft3
     - ultra academia
     - espaçolaser
+    # "Espaço Laser" separado nao casava o alias colado. ESPA3 e cobertura.
+    - espaço laser
+    - espa3
     - f45
     - crossfit
 
     # Ambíguos
-    - alias: smart fit
-      requires_any: [academia, fitness, musculação, bem-estar, saúde, ações,
-                     aluno, alunos, unidade, unidades, expansão, rede,
-                     franquia, smft3, balanço, trimestre, receita]
+    # "smart fit" (2 palavras) e marca inequivoca em portugues. Com gate,
+    # perdia manchete sem vocabulario de academia ("Estudios ganham espaco na
+    # estrategia interna da Smart Fit", "Um rival para a Chilli Beans, outro
+    # para a Smart Fit"). SMFT3 e cobertura.
+    - smart fit
 
   # ------------------------------------------------------------
   # COSMÉTICOS
@@ -391,6 +435,7 @@ sectors:
       requires_none: [in natura, gás natural, gas natural, produtos in natura,
                       alimentos in natura, leilão de gás, leilao de gas,
                       petróleo, petrobras]
+    - natu3
     - avon
     - boticário
     - o boticário
@@ -402,7 +447,10 @@ sectors:
     - beleza na web
     - skala
     - sephora
+    - ysl beauty
+    - yves saint laurent
     - aura beauty
+    - auau3
     - wepink
     - vonny
     - bel cosméticos
@@ -444,9 +492,18 @@ sectors:
   Farmácias:
     # Simples
     - raiadrogasil
+    # Nome institucional da RaiaDrogasil desde 2024. Ja estava em
+    # TOPIC_CAP_BYPASS_TERMS no clipping.py, mas nunca existiu aqui, entao
+    # RADL3 (cobertura) nao casava por esse nome. So a grafia acentuada:
+    # "rd saude" normaliza para a mesma regex.
+    - rd saúde
+    - radl3
     - pague menos
+    - pgmn3
     - extrafarma
     - panvel
+    - pnvl3
+    - hype3
     - dpsp
     - d1000
     - profarma
@@ -457,6 +514,8 @@ sectors:
     - ems
     - medley
     - cimed
+    - sandoz
+    - biolab
     # Canetas emagrecedoras - termo coloquial BR para GLP-1, inequívoco.
     # A imprensa brasileira usa muito mais isso que os nomes técnicos.
     - canetas emagrecedoras
@@ -486,6 +545,13 @@ sectors:
       requires_any: [droga, drogasil, farmácia, medicamento, genérico, saúde]
     - alias: drogasil
       requires_any: [droga, raia, farmácia, medicamento, genérico, saúde]
+    # O alias e casado de forma EXATA (so termos de contexto toleram plural),
+    # entao "medicamento" nao casava "medicamentos", grafia mais comum em
+    # manchete regulatoria.
+    - alias: medicamentos
+      requires_any: [farmácia, drogaria, raia, drogasil, pague menos, panvel,
+                     dpsp, distribuição, venda, receita, varejo, anvisa,
+                     marketplace, delivery, e-commerce]
     - alias: medicamento
       requires_any: [farmácia, drogaria, raia, drogasil, pague menos, panvel,
                      dpsp, distribuição, venda, receita, varejo, anvisa]
@@ -530,7 +596,9 @@ sectors:
                      perda de peso, injetável, injetavel, dose, bariátrica,
                      utiliza energia, metabolismo, gasto energético,
                      preço, preços, barato, redução de preço, brasileiro,
-                     genérico, similar, no brasil]
+                     genérico, similar, no brasil,
+                     paraguai, contrabando, contrabandeado, cfm, prescrev,
+                     falsificado, clandestino]
     # Ozivy: genérico/similar brasileiro de semaglutida (EMS). Nome inequívoco
     # e especificamente do mercado BR, então entra como alias simples.
     - ozivy
@@ -569,17 +637,16 @@ sectors:
                      pague menos, panvel, fabricante brasileira,
                      preço no brasil, eurofarma, hypera, ems, medley, cimed,
                      prati-donaduzzi, parceria]
-    - alias: eurofarma
-      requires_any: []
+    # Aliases simples. Antes eram dicts com "requires_any: []", que e falsy
+    # em Python: o gate nunca rodava, entao ja se comportavam como simples.
+    - eurofarma
     - alias: hypera
       requires_any: [farmacêutica, ações, balanço, trimestre, hyera, brasil,
                      receita, mercado farmacêutico, distribuição, bolsa,
                      projeção, guidance, lucro, prejuízo, dívida, hype3,
                      genérico, medicamento, ebitda]
-    - alias: prati-donaduzzi
-      requires_any: []
-    - alias: prati donaduzzi
-      requires_any: []
+    - prati-donaduzzi
+    - prati donaduzzi
 
   # ------------------------------------------------------------
   # ECONOMIA
@@ -644,6 +711,9 @@ sectors:
                      incentivo fiscal]
       requires_none: [igrejas, defesa, vorcaro, brb, fertilizantes, combustível,
                       combustíveis]
+    # Split payment: vocabulario central da regulamentacao do IBS/CBS.
+    - alias: split payment
+      topic: reforma_tributaria
     - substituição tributária
     - icms-st
     - difal
@@ -653,7 +723,6 @@ sectors:
     - alias: pmc
       requires_any: [ibge, pesquisa mensal do comercio, pesquisa mensal do comércio,
                      varejo, comércio, vendas no varejo]
-    - pesquisa mensal do comercio
     - pesquisa mensal do comércio
     - vendas no varejo
     - massa salarial
@@ -669,9 +738,61 @@ sectors:
       requires_none: [zona do euro, eurozona, união europeia, uniao europeia,
                       alemanha, frança, franca, estados unidos, eua, japão,
                       japao, china, reino unido, pib da frança, pib dos eua]
+    # Ciclo de credito do varejo. "recuperacao judicial" nao existia como
+    # alias: so aparecia dentro de requires_any de "americanas", onde nunca
+    # dispara sozinho. Perdia Casas Bahia, Marisa, Marabraz e Tok&Stok.
+    # ATENCAO: o requires_any aqui NAO pode conter termo generico de credito
+    # (divida, credor, reestruturacao, debenture). Toda materia de RJ tem
+    # esses termos, de qualquer setor, entao o gate vira decorativo: a versao
+    # anterior deixou entrar Braskem, Lupatech, OSX, Oncoclinicas, Ambipar e
+    # BRB (petroquimica, oleo, saude, banco). O gate tem que ser allowlist de
+    # VAREJO/CONSUMO, nunca blocklist de setores.
+    - alias: recuperação judicial
+      requires_any: [varejo, varejista, varejistas, loja, lojas, lojista,
+                     consumidor, consumidores, comércio, comerciante,
+                     shopping, moda, vestuário, calçado, supermercado,
+                     atacarejo, farmácia, drogaria, magazine, magalu,
+                     casas bahia, marisa, americanas, tok&stok, mobly,
+                     marabraz, gpa, renner, riachuelo, e-commerce,
+                     marketplace, varejo alimentar, bens de consumo]
+    - alias: recuperações judiciais
+      requires_any: [varejo, varejista, varejistas, loja, lojas, consumidor,
+                     consumidores, comércio, shopping, supermercado,
+                     farmácia, drogaria, moda, e-commerce, bens de consumo]
+    # Sem requires_any, este alias trouxe ~14 materias de Braskem alem de
+    # Lupatech, OSX e Oncoclinicas numa unica rodada. Mesmo gate de varejo da
+    # RJ acima. Custo aceito: perde "Conversao de recuperacao extrajudicial
+    # em judicial cresce", que nao tem termo de varejo no titulo.
+    - alias: recuperação extrajudicial
+      requires_any: [varejo, varejista, varejistas, loja, lojas, consumidor,
+                     consumidores, comércio, shopping, moda, vestuário,
+                     supermercado, farmácia, drogaria, magazine, magalu,
+                     casas bahia, marisa, americanas, tok&stok, mobly,
+                     marabraz, gpa, e-commerce, bens de consumo]
+    - alias: endividamento
+      requires_any: [família, famílias, consumidor, consumidores, baixa renda,
+                     renda, cartão, crédito, varejo, inadimplência, brasileiro,
+                     brasileiros, pessoa física, desenrola]
+      requires_none: [dívida pública, dívida bruta, endividamento do governo,
+                      endividamento público, estados, municípios, empresas
+                      estatais]
     - apostas online
     - apostas esportivas
     - bettors
+    # Beneficios (vale-refeicao/alimentacao): tema de consumo que nao existia.
+    - vale-refeição
+    - vale refeição
+    - vale-alimentação
+    - vale alimentação
+    - alelo
+    - sodexo
+    - pluxee
+    - alias: vr
+      requires_any: [vale-refeição, vale refeição, vale-alimentação, alelo,
+                     sodexo, pluxee, ticket, benefício, benefícios, cashback,
+                     flash, swile, caju, empresas]
+      requires_none: [realidade virtual, virtual reality, óculos, headset,
+                      meta quest, vision pro, games]
     - alias: renegociação de dívidas
       requires_any: [consumidor, consumidores, pessoa física, famílias,
                      endividamento, inadimplência, desenrola, fgts, bancos,
@@ -721,7 +842,9 @@ sectors:
       requires_any: [varejo, consumo, endividamento, inadimplência, regulamentação,
                      lei das bets, vício, apostas online, apostas esportivas,
                      apostadores, jogadores, ministério da fazenda, banco central,
-                     sigap, senacon, impacto no varejo, gastos das famílias]
+                     sigap, senacon, impacto no varejo, gastos das famílias,
+                     ministro da fazenda, pib, depósito, depósitos, prêmio,
+                     prêmios, bônus, aposta, apostar, estudo, bilhões, bilhão]
       requires_none: [dono de bets, empresário de bets, jatinho,
                       hugo motta, ciro nogueira, patrocínio, patrocinios,
                       time de futebol, clubes de futebol, mercado de previsão,
@@ -731,6 +854,8 @@ sectors:
   # ------------------------------------------------------------
   Material de Construção:
     - lojas quero-quero
+    - quero-quero
+    - ljqq3
     - leroy merlin
     - telhanorte
     - tumelero
@@ -801,6 +926,7 @@ sectors:
   Viagens:
     # Simples - termos inequívocos do setor
     - despegar
+    - cvcb3
     - befly
     - agência de viagem
     - pacote de viagem
@@ -844,6 +970,7 @@ sectors:
   # ------------------------------------------------------------
   Pet:
     - petz
+    - petz3
     - cobasi
     - petlove
     - life pet hub
@@ -869,15 +996,26 @@ sectors:
     # Simples BR
     - track&field
     - track field
+    # "Track & Field" com espacos ao redor do & nao casava nenhuma das duas
+    # grafias acima. TFCO4 e cobertura.
+    - track & field
+    - tfco4
     - live!
     - pink cheeks
-    - sbfg
     - grupo sbf
+    # Era "sbfg" (truncado), que nunca casa "SBFG3": \b nao separa letra de
+    # digito. Codigo morto, zero ocorrencias no corpus.
+    - sbfg3
     - fisia
     - nike brasil
     - vulcabras
+    - vulc3
     - olympikus
     - mizuno
+    # Alpargatas/Havaianas: comp direto de VULC3, nao estava no arquivo.
+    - alpargatas
+    - havaianas
+    - alpa4
     - decathlon
     - artigos esportivos
     - material esportivo
@@ -885,9 +1023,11 @@ sectors:
 
     # Ambíguos
     - alias: nike
-      requires_any: [brasil, vendas, loja, centauro, fisia, esportivo, varejo]
+      requires_any: [brasil, vendas, loja, centauro, fisia, esportivo, varejo,
+                     ações, papéis, bolsa, queda, alta, balanço, trimestre,
+                     tênis, sneaker, corrida]
     - alias: sbf
-      requires_any: [centauro, grupo, fisia, nike, esportivo, ações]
+      requires_any: [centauro, grupo, fisia, nike, esportivo, ações, sbfg3]
     - alias: centauro
       requires_any: [esportivo, loja, varejo, tênis, fisia, nike]
     - alias: adidas
@@ -911,12 +1051,10 @@ sectors:
     - fast retailing
     - doordash
     - uber eats
-    - pfizer
-    - roche
     - puig
     - hugo boss
-    - keeta
-    - 99 food
+    # Keeta e 99 Food sairam daqui: ambos operam no Brasil e ja estao em
+    # E-commerce. Sem gate nos dois setores, casavam em duplicidade.
     - pinduoduo
     - coupang
     # Temas globais
@@ -925,20 +1063,63 @@ sectors:
     - luxury brands
     - luxury goods
     - bernard arnault
-    # Joias/watches de luxo
+    # Joias/watches de luxo. Unico lugar onde essas marcas vivem agora
+    # (saíram de Joias BR pela regra de ouro).
     - cartier
     - rolex
-    - tiffany
+    # "tiffany" solto pegava celebridade homonima ("Tiffany Haddish says the
+    # show will go on" entrava com score 20).
+    - alias: tiffany
+      requires_any: [jewelry, jeweler, luxury, lvmh, brand, ring, necklace,
+                     diamond, watch, earnings, sales, joia, joalheria]
+      requires_none: [tiffany haddish, tiffany young, tiffany trump,
+                      actress, comedian, singer, cantora, formatura]
 
     # Ambíguos
+    # gold/silver: "price", "fed", "inflation" e "commodity" abriam para
+    # qualquer materia de preco de ouro. Entravam 11 artigos de macro de
+    # commodity por janela ("Gold Drops; Focus on Fed July Minutes",
+    # "Gold Above $4,600 on Weaker Dollar"), sem leitura de consumo nem de
+    # joalheria. Mantido so o contexto de joia/materia-prima de luxo, que
+    # preserva o caso legitimo (custo de insumo pra Vivara e pares).
     - alias: gold
-      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
+      requires_any: [jewelry, jeweler, luxury, watch, watches, tiffany,
+                     cartier, richemont, vivara, joalheria]
       requires_none: [medal, medalha, olimpiadas, olympic]
     - alias: silver
-      requires_any: [jewelry, luxury, price, ounce, bullion, commodity, fed, inflation]
+      requires_any: [jewelry, jeweler, luxury, watch, watches, tiffany,
+                     cartier, richemont, vivara, joalheria]
       requires_none: [medal, medalha, olimpiadas, olympic]
     - alias: jewelry
       requires_any: [luxury, market, sales, brand, demand, price]
+    # Roche e Pfizer sao pharma pura num clipping de consumo. Como alias
+    # simples, Roche trouxe 8 artigos por janela (Elevidys, Alzheimer, doenca
+    # rara) e Pfizer 1 falso positivo ("Comece pela tese de inovacao", menção
+    # incidental no lead). So interessam pelo angulo de obesidade/GLP-1.
+    - alias: roche
+      requires_any: [obesity, obesidade, glp-1, glp1, weight loss, emagrec,
+                     consumer health, otc, dermocosmetic, genentech obesity]
+    - alias: pfizer
+      requires_any: [obesity, obesidade, glp-1, glp1, weight loss, emagrec,
+                     consumer health, otc, danuglipron]
+    # Nike, Adidas e Under Armour so existiam em "Wellness e Esportes", que e
+    # BR-only e portanto PULADO quando o artigo e detectado como ingles. Um
+    # earnings da Nike em ingles nao entrava em lugar nenhum, apesar de ser
+    # leitura direta pra SBFG3, VULC3 e TFCO4.
+    - alias: nike
+      requires_any: [earnings, revenue, sales, stock, shares, guidance,
+                     sneaker, footwear, apparel, jordan, swoosh, oregon,
+                     wholesale, dtc, direct-to-consumer]
+      requires_none: [brasil, fisia, centauro]
+    - alias: adidas
+      requires_any: [earnings, revenue, sales, stock, shares, guidance,
+                     germany, herzogenaurach, sneaker, footwear, samba,
+                     gazelle, yeezy]
+      requires_none: [brasil, centauro]
+    - alias: under armour
+      requires_any: [earnings, revenue, sales, stock, shares, guidance,
+                     baltimore, plank, sportswear, footwear]
+      requires_none: [brasil, centauro]
     - alias: amazon
       requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue,
                      bezos, jassy, earnings, antitrust]
@@ -988,11 +1169,8 @@ sectors:
       requires_any: [kering, pinault, brand, fashion house, creative director,
                      milan, runway, collection, earnings, sales]
       requires_none: [rolls-royce, ferrari, lamborghini]
-    - alias: hermes
-      requires_any: [birkin, kelly, dumas, action, shares, earnings,
-                     leather, bags, paris fashion]
-      requires_none: [rolls-royce, ferrari, lamborghini, porsche,
-                      messenger, mercurio, rolls royce]
+    # So a grafia acentuada: "hermes" normalizava para a mesma regex e o
+    # score do mesmo artigo contava 2x.
     - alias: hermès
       requires_any: [birkin, kelly, dumas, action, shares, earnings,
                      leather, bags, paris fashion]
@@ -1019,7 +1197,10 @@ sectors:
     - alias: eli lilly
       requires_any: [fda, indianapolis, mounjaro, zepbound, obesity,
                      stock, earnings, shares, pharma, us, acquisition,
-                     acquires, biotech, cancer, billion]
+                     acquires, biotech, cancer, billion,
+                     weight-loss, weight loss, oral, pill,
+                     perda de peso, emagrecimento, emagrecer, comprimido,
+                     obesidade, regulador, processa, patente, novo nordisk]
       requires_none: [anvisa, sus, raia, drogasil, pague menos, panvel,
                       brasil, fabricante brasileira]
     - alias: ozempic
