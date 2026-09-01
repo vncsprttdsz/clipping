@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-01T12:40:17.570983+00:00",
+  "generated_at": "2026-09-01T12:51:53.351168+00:00",
   "count": 470,
-  "new_this_run": 19,
+  "new_this_run": 15,
   "articles": [
     {
       "title": "Muito além da obesidade: as doenças que Ozempic, Wegovy e Mounjaro podem ajudar a tratar",
@@ -4998,6 +4998,37 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa aprova Yluméc, nova caneta emagrecedora e contra diabetes tipo 2 da EMS - valor.globo.com",
+      "summary": "Anvisa aprova Yluméc, nova caneta emagrecedora e contra diabetes tipo 2 da EMS &nbsp;&nbsp; valor.globo.com",
+      "url": "https://valor.globo.com/google/amp/empresas/noticia/2026/08/31/anvisa-aprova-ylumec-nova-caneta-emagrecedora-e-contra-diabetes-tipo-2-da-ems.ghtml",
+      "published": "2026-08-31T16:35:23+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora",
+        "ems"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Governo avaliará impacto de fim 'taxa das blusinhas' para empresas a cada 6 meses, diz relatora",
       "summary": "O presidente da comissão que discute a Medida Provisória que acaba com a \"taxa das blusinhas\", Reginaldo Lopes (PT-MG), e a relatora, Leila do Vôlei (PDT-DF), afirmaram que Congresso Nacional e governo avaliarão periodicamente os impactos da isenção do tributo nas empresas brasileiras para verificar a necessidade de oferecer alguma compensação ao setor. Leia mais (08/31/2026 - 13h53)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/08/governo-avaliara-impacto-de-fim-taxa-das-blusinhas-para-empresas-a-cada-6-meses-diz-relatora.shtml",
@@ -7031,29 +7062,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Canetas emagrecedoras e olfato: por que os cheiros podem mudar após o uso desses medicamentos - Globo",
-      "summary": "Canetas emagrecedoras e olfato: por que os cheiros podem mudar após o uso desses medicamentos &nbsp;&nbsp; Globo",
-      "url": "https://gq.globo.com/saude/noticia/2026/08/canetas-emagrecedoras-e-olfato-por-que-os-cheiros-podem-mudar-apos-o-uso-desses-medicamentos.ghtml",
-      "published": "2026-08-25T12:49:25+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Caneta emagrecedora - G1",
@@ -12780,29 +12788,6 @@
       "score": 10.0
     },
     {
-      "title": "Durigan diz que desvincular Previdência é ideia de Guedes e que ‘aqui é outro papo’",
-      "summary": "Ministro confirmou que o salário mínimo em 2027 será de R$ 1.741 e que o reajuste seguirá atrelado a benefícios previdenciários e assistenciais",
-      "url": "https://www.jota.info/executivo/durigan-diz-que-desvincular-previdencia-e-ideia-de-guedes-e-que-aqui-e-outro-papo",
-      "published": "2026-08-25T12:44:49+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "salário mínimo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "salário mínimo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
       "title": "Confiança dos brasileiros na economia cai para o pior nível desde 2022",
       "summary": "Índice de Confiança do Consumidor medido pela FGV recua 3,6 pontos e soma 84,7 pontos em agosto",
       "url": "https://veja.abril.com.br/economia/confianca-dos-brasileiros-na-economia-cai-para-o-pior-nivel-desde-2022",
@@ -13853,6 +13838,29 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Os 4 pontos para entender por que o PIB cresceu 0,5% no 2º tri de 2026",
+      "summary": "Agropecuária, gasto do governo e investimentos compensaram a perda de força do consumo das famílias e dos setores mais sensíveis aos juros",
+      "url": "https://exame.com/agro/os-4-pontos-para-entender-por-que-o-pib-cresceu-05-no-2o-tri-de-2026",
+      "published": "2026-09-01T09:47:22+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "consumo das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "consumo das famílias",
           "field": "lead",
           "score": 8,
           "topic": null
