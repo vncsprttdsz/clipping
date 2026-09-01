@@ -10,8 +10,10 @@ from __future__ import annotations
 import argparse
 import json
 import re
+import socket
 import sys
 import unicodedata
+from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass, field, asdict
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
@@ -44,6 +46,24 @@ SEEN_DB = Path.home() / ".valor_clipping_seen.json"
 USER_AGENT = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36"
 
 FEED_TIMEOUT = 10
+
+# Busca de feeds em paralelo. Eram 65 feeds em serie: com o timeout abaixo o
+# pior caso passava de 20 min, e a mediana observada do run era 14 min, quase
+# tudo espera de rede. Como o gargalo e I/O, threads resolvem (o GIL e
+# liberado durante o socket).
+#
+# 8 workers e deliberadamente conservador: ~20 dos feeds sao news.google.com e
+# paralelismo alto demais convida 429/403 do Google, que custaria mais caro
+# que a espera economizada.
+FEED_WORKERS = 8
+
+# feedparser.parse(url) NAO aceita timeout e usa urllib, que herda o timeout
+# default do socket - que e None, ou seja, infinito. Em serie isso "so"
+# travava o run; em paralelo um feed pendurado ocupa um worker ate o fim.
+# 20s e generoso de proposito: FEED_TIMEOUT (10s) derrubaria feeds lentos que
+# hoje funcionam, trocando latencia por perda de cobertura.
+FEED_SOCKET_TIMEOUT = 20
+socket.setdefaulttimeout(FEED_SOCKET_TIMEOUT)
 
 # Scoring por região do texto (reduz falso positivo de RSS longo)
 LEAD_CHARS = 500
@@ -932,6 +952,25 @@ def fetch_rss(url: str) -> List[Article]:
         return []
 
 
+def fetch_all_feeds(feed_list: List[str]) -> List[tuple]:
+    """
+    Busca todos os feeds em paralelo e devolve [(url, artigos), ...] NA ORDEM
+    da feed_list, nao na ordem de chegada.
+
+    A ordem importa e nao e cosmetica: dedup_articles resolve duplicata pelo
+    PRIMEIRO que aparece (`if nu not in by_url`). Devolver na ordem de
+    conclusao faria a materia sobrevivente variar conforme a latencia da rede,
+    ou seja, o mesmo conjunto de feeds geraria JSONs diferentes a cada run.
+    ThreadPoolExecutor.map preserva a ordem de submissao, entao o resultado
+    continua deterministico.
+    """
+    if not feed_list:
+        return []
+    workers = min(FEED_WORKERS, len(feed_list))
+    with ThreadPoolExecutor(max_workers=workers) as pool:
+        return list(zip(feed_list, pool.map(fetch_rss, feed_list)))
+
+
 def fetch_html_fallback(url: str) -> List[Article]:
     if not HAS_HTML:
         return []
@@ -1065,10 +1104,10 @@ def run(since_hours: int, output_format: str, min_score: float,
             articles.append(Article(title=t, summary=s, url=f"https://mock/{hash(t)}",
                                     published=datetime.now(timezone.utc), source="mock"))
     else:
-        print(f"Buscando {len(FEED_URLS)} feeds principais...", file=sys.stderr)
+        print(f"Buscando {len(FEED_URLS)} feeds principais "
+              f"({FEED_WORKERS} em paralelo)...", file=sys.stderr)
         got_any_rss = False
-        for url in FEED_URLS:
-            items = fetch_rss(url)
+        for url, items in fetch_all_feeds(FEED_URLS):
             if items:
                 got_any_rss = True
                 print(f"  OK {url}: {len(items)} itens", file=sys.stderr)
@@ -1169,14 +1208,17 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
               file=sys.stderr)
 
     fetched: List[Article] = []
-    print(f"Buscando {len(feed_list)} feeds...", file=sys.stderr)
+    print(f"Buscando {len(feed_list)} feeds ({FEED_WORKERS} em paralelo)...",
+          file=sys.stderr)
     got_any_rss = False
-    for url in feed_list:
-        items = fetch_rss(url)
+    t_feeds = datetime.now(timezone.utc)
+    for url, items in fetch_all_feeds(feed_list):
         if items:
             got_any_rss = True
             print(f"  OK RSS {url}: {len(items)} itens", file=sys.stderr)
             fetched.extend(items)
+    print(f"[timing] feeds em {(datetime.now(timezone.utc) - t_feeds).total_seconds():.0f}s",
+          file=sys.stderr)
 
     if not got_any_rss and HAS_HTML:
         print("Nenhum RSS. Tentando HTML fallback...", file=sys.stderr)
