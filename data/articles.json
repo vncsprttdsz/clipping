@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-02T11:44:25.036598+00:00",
-  "count": 514,
-  "new_this_run": 34,
+  "generated_at": "2026-09-02T12:12:17.807760+00:00",
+  "count": 513,
+  "new_this_run": 31,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -6650,6 +6650,37 @@
       "score": 40.0
     },
     {
+      "title": "BC diz que endividamento das famílias é alto e reforça necessidade de novas medidas",
+      "summary": "A ata do Comef (Comitê de Estabilidade Financeira) do Banco Central apontou nesta quarta-feira (2) que o nível de endividamento das famílias está em \"patamar históricamente alto\" e reforçou que o órgão prepara medidas no mercado de crédito. Leia mais (09/02/2026 - 08h42)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/bc-diz-que-endividamento-das-familias-e-alto-e-reforca-necessidade-de-novas-medidas.shtml",
+      "published": "2026-09-02T11:42:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento",
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Agência FDA, nos Estados Unidos, Aprova Mounjaro para Reduzir Risco Cardiovascular",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O medicamento para diabetes da Eli Lilly atua sobre a proteína GLP-1 e também é usado para perda de peso O post Agência FDA, nos Estados Unidos, Aprova Mounjaro para Reduzir Risco Cardiovascular apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-saude/2026/08/agencia-fda-nos-estados-unidos-aprova-mounjaro-para-reduzir-risco-cardiovascular",
@@ -8427,52 +8458,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Pediatras alertam para uso de canetas emagrecedoras por jovens - G1",
-      "summary": "Pediatras alertam para uso de canetas emagrecedoras por jovens &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/ma/maranhao/videos-bom-dia-mirante/video/pediatras-alertam-para-uso-de-canetas-emagrecedoras-por-jovens-14902300.ghtml",
-      "published": "2026-08-26T11:48:23+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Sociedade Brasileira de Pediatria alerta para riscos de canetas emagrecedoras em crianças e adolescentes - G1",
-      "summary": "Sociedade Brasileira de Pediatria alerta para riscos de canetas emagrecedoras em crianças e adolescentes &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/bom-dia-brasil/video/sociedade-brasileira-de-pediatria-alerta-para-riscos-de-canetas-emagrecedoras-em-criancas-e-adolescentes-14902414.ghtml",
-      "published": "2026-08-26T12:10:41+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Pediatras fazem alerta para o uso de canetas emagrecedoras por crianças e adolescentes e apontam riscos à saúde - G1",
