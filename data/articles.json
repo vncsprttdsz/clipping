@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-02T12:12:17.807760+00:00",
-  "count": 513,
+  "generated_at": "2026-09-02T12:21:12.073176+00:00",
+  "count": 514,
   "new_this_run": 31,
   "articles": [
     {
@@ -2860,6 +2860,62 @@
           "field": "lead",
           "score": 8,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 52.0
+    },
+    {
+      "title": "Magazine Luiza faz parceria para vender seus produtos na plataforma do Mercado Livre",
+      "summary": "O Magazine Luiza anunciou hoje uma parceria comercial com o Mercado Livre para oferecer a venda direta de seus produtos na plataforma de comércio eletrônico da companhia argentina. Confira resultados e indicadores do Magazine Luiza e das demais companhias de capital aberto no portal Valor Empresas 360 O acordo, cuja operacionalização teve início nesta quarta-feira (2) está alinhado a um dos pilares do novo ciclo estratégico que prevê a rápida aceleração das vendas diretas no comércio eletrônico por meio de marketplaces parceiros. Além disso, a companhia almeja a captura de audiência complementar aos canais de vendas próprios, sempre com garantia de rentabilidade positiva e de cláusulas de reciprocidade e de não exclusividade. A parceria com o Mercado Livre vem na sequência de acordos semelhantes feitos com Amazon, AliExpress, Americanas, Itaú Shopping e Livelo, com toda a operação de entrega desses produtos sendo feita pelo Magalog, operador logístico independente da companhia. Na plataforma do Mercado Livre, a companhia oferecerá por volta de 27.000 itens de estoque próprio, de categorias como eletroeletrônicos e móveis, games e produtos de informática pelo Kabum a cosméticos e perfumaria pela Época Cosméticos. Segundo o Magazine Luiza, o acordo com a companhia argentina prevê reciprocidade nos negócios com potencial para ser estendido para área de logística, com fornecimento dos serviços pelo Magalog e uso de lojas físicas como pontos de retirada e devolução. A parceria com o Mercado Livre vem na sequência de acordos semelhantes feitos com Amazon, AliExpress, Americanas, Itaú Shopping e Livelo Divulgação",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/02/magazine-luiza-faz-parceria-para-vender-seus-produtos-na-plataforma-do-mercado-livre.ghtml",
+      "published": "2026-09-02T12:09:28+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "aliexpress",
+        "comércio eletrônico",
+        "magazine luiza",
+        "mercado livre",
+        "perfumaria"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "aliexpress",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "perfumaria",
+          "field": "body",
+          "score": 2,
+          "topic": null
         }
       ],
       "score": 52.0
