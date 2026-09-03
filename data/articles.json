@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-03T12:09:51.818112+00:00",
-  "count": 551,
+  "generated_at": "2026-09-03T12:17:59.473830+00:00",
+  "count": 552,
   "new_this_run": 37,
   "articles": [
     {
@@ -15303,6 +15303,29 @@
           "alias": "blusinhas",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Harvey Nichols sale set to cost luxury brands millions",
+      "summary": "Brands including Chloé and Victoria Beckham to recover less than 15p in the pound after Frasers Group buys department store chain",
+      "url": "https://www.ft.com/content/f058481a-270a-42f1-8032-f4e4b112f36f?syn-25a6b1a6=1",
+      "published": "2026-09-03T12:01:06+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxury brands"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "luxury brands",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
