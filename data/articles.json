@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T12:17:59.473830+00:00",
-  "count": 552,
-  "new_this_run": 37,
+  "generated_at": "2026-09-03T12:50:46.781682+00:00",
+  "count": 563,
+  "new_this_run": 49,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -1607,6 +1607,54 @@
           "alias": "farm",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "Em meio à separação dos negócios da Azzas, Hering quer fazer de nova camiseta básica sua 'Havaianas'",
+      "summary": "Em busca da classe C e em meio a uma reorganização societária, a Hering aposta na camiseta básica para recuperar espaço no mercado. A marca, que está no grupo Azzas 2154 desde 2024, deverá ficar na Arezzo&amp;Co, após acordo entre os controladores do grupo Alexandre Birman e Roberto Jatahy para separar os negócios, divulgado nesta quarta-feira (2). É nesse contexto que a Hering lança nesta quinta-feira (3) a Camiseta Brasil. Com preço de R$ 49,99, a peça passa a ser o produto de entrada da categoria, no lugar da atual de R$ 69,99. A estratégia busca recuperar clientes e volume de vendas, após queda de 19% na receita no primeiro trimestre. A ambição é fazer da camiseta uma espécie de “Havaianas” do vestuário. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/09/03/em-meio-a-separacao-dos-negocios-da-azzas-hering-quer-fazer-de-nova-camiseta-basica-sua-havaianas.ghtml",
+      "published": "2026-09-03T12:17:33+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Fashion",
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "arezzo",
+        "azzas",
+        "havaianas",
+        "hering"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "arezzo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "hering",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "havaianas",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -3359,6 +3407,53 @@
           "alias": "farm",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
+      "title": "O que a parceria com o Mercado Livre pode fazer pela ação do Magalu daqui para frente",
+      "summary": "Magalu vai vender 28 mil produtos do estoque próprio no Meli; MGLU3 subiu 16,88% no anúncio",
+      "url": "https://exame.com/invest/mercados/o-que-a-parceria-com-o-mercado-livre-pode-fazer-pela-acao-do-magalu-daqui-para-frente",
+      "published": "2026-09-03T09:30:01+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "magalu",
+        "meli",
+        "mercado livre",
+        "mglu3"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "meli",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mglu3",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -7251,6 +7346,68 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa determina apreensão de canetas emagrecedoras da marca United Labz - A8SE",
+      "summary": "Anvisa determina apreensão de canetas emagrecedoras da marca United Labz &nbsp;&nbsp; A8SE",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPaXM1VDBaZkFKdlBwNWZFR3NRNVVSWTBRdlFjTlZ5bk5fZ2RhT1Z0amIzcElBQkpZZXVfR2EyR2J2THJ3WjE1d3d6ZmEzYkxNQ3ZzdHppS21VeF9FTWUtYzdmakZIVkVoTUlaa19qQW1nVnBPOGtvUXMtUENlWTl4ZVI4NEpDTy0tOGdiMUNZX3ZQWHBySnN5cUx0S2RVUVYtM0g3TDUxRHpQd3RFc1VSOENxQ3BfOEs3MkNUcHZMQQ?oc=5",
+      "published": "2026-09-01T19:42:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa manda apreender produtos da marca United Labz por venda ilegal de canetas emagrecedoras - Jornal GGN",
+      "summary": "Anvisa manda apreender produtos da marca United Labz por venda ilegal de canetas emagrecedoras &nbsp;&nbsp; Jornal GGN",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQmItRUx5ZWlNaG8zZXFPM2c3VjVJY3BLS1o1NGlRZFF0Z1EyX3NwWVdlcFg2dTUzLS1OTW1Kc2daaWQxNzlrdE5Yb3VwOUN5cW1CVWs2c2NkNkFsZkdJeFprZnNQaEItenRDQXpVT0Jlb2J0UUNrT1BSRFhKZEVVc09RdFgwT3FmQm5aMVZEcXZfVExyNVZxR2Y0OUkxNWt3dXp2Yy1qelFSZXlIM1ZIaUdxRXNRM1ppaDVGcXZ4cU9BSDdR?oc=5",
+      "published": "2026-09-01T19:42:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Apresentação do parecer da MP das Blusinhas é adiado; veja o que trava o texto - Exame",
       "summary": "Apresentação do parecer da MP das Blusinhas é adiado; veja o que trava o texto &nbsp;&nbsp; Exame",
       "url": "https://exame.com/brasil/apresentacao-do-parecer-da-mp-das-blusinhas-e-adiado-veja-o-que-trava-o-texto",
@@ -7787,6 +7944,37 @@
         {
           "sector": "Fashion",
           "alias": "farm",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "PF apreende ‘canetas emagrecedoras’ irregulares e investiga venda clandestina de medicamentos - Jornal Opinião",
+      "summary": "PF apreende ‘canetas emagrecedoras’ irregulares e investiga venda clandestina de medicamentos &nbsp;&nbsp; Jornal Opinião",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaVNEd3FtZy1HNkN0ejY0ZnVrcHc4dFpLSGpfTUVIdjJvTExfU3Q2a3ZqOGJPZzl1TGNIX29FdFJRNlljSGpDdE1qNG5uTE9iQ3JHZ1BKMTcyM1g0YWJualdNaVJ3MlFXaWEwMlNUV3hYSUVFek5tUmF4VkFUTFF0LU1yOEo1c3lGdHhySS1VajZvd2ZLZEhKWUxEeUVpWkpvV2JZYmREQy1WTUphVGRKSDktS1NVc3lKVHc?oc=5",
+      "published": "2026-09-02T15:46:03+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "medicamentos"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
           "field": "title",
           "score": 20,
           "topic": null
@@ -13973,6 +14161,29 @@
       "score": 20.0
     },
     {
+      "title": "Cinco estratégias essenciais ao usar canetas emagrecedoras - UOL",
+      "summary": "Cinco estratégias essenciais ao usar canetas emagrecedoras &nbsp;&nbsp; UOL",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CRVdWVGlaWERLejNhRGE4NTNLZDBBV2tFTG55Y1BTVldoWXRqUC14eFBUYTBzNDlNQTBHMmR0cmtkVGNldE1HSGpvVFVDbVQ1R0g1bWR2VGM0N2V3SW81dUJ5N2FoMEk?oc=5",
+      "published": "2026-09-01T14:59:11+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Shein perde janela e tem estreia modesta em Hong Kong - braziljournal.com",
       "summary": "Shein perde janela e tem estreia modesta em Hong Kong &nbsp;&nbsp; braziljournal.com",
       "url": "https://braziljournal.com/shein-perde-janela-e-tem-estreia-modesta-na-bolsa-de-hong-kong",
@@ -14011,6 +14222,29 @@
         {
           "sector": "E-commerce",
           "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Polícia Civil prende mulher por venda ilegal de 'canetas emagrecedoras' em Cubatão - Costa Norte",
+      "summary": "Polícia Civil prende mulher por venda ilegal de 'canetas emagrecedoras' em Cubatão &nbsp;&nbsp; Costa Norte",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU0l0VGlaT3BPSlRSTjNESEVrV0ptcFBLazVZNkp6a0dtMDNEcUlwMDVNajNfamQtLWNyb0s5ZlY0eHF3WWhJR1czT1hVNWl2T3lvc1RLemc5d2Q4dUFmX1dNOHZESFFlNDdDWV8yUlRvR21FaHdEaFJrNzFHeEgxbzViN0Z2RGxvRGJzZm0wT1JUTjVVbmdDMTY2VUFOaVVsb0VNY0UyWWphdzB6djZLa0hleERBaEJTRGhmNFJR0gHDAUFVX3lxTE1NaFFpdC1CX0pCakRIWWRvTU05RThNcnJJT21DRGp0MURVbUh6eUhRNDNtOGQyNEJzNGpTRVZsVEwzcXhzZ2dUdjJFVi14VFZaQ2tsa3RqUkNIZXB3dVQ2OUh1R0VNY0k4eTVCcDRtWTZfVGNNTGlQeGszRWx5OHd2b1BfZW1nTmdZc3M0M2xGVzl2a0NVVk5IYzUxZ19Yc2pjY2NGTTJWS1ZyT1VidVdvNlU3WUlzVUZ3bzJ2Y19rTVE0dw?oc=5",
+      "published": "2026-09-01T15:37:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -14134,6 +14368,29 @@
       "score": 20.0
     },
     {
+      "title": "Polícia prende mulher que importou ilegalmente canetas emagrecedoras - Portal Arauto",
+      "summary": "Polícia prende mulher que importou ilegalmente canetas emagrecedoras &nbsp;&nbsp; Portal Arauto",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNU1NrM2pDaFZMaU5yZGZkeVExR2tOZ3A2RTV1bmZQRGx2WUhjSzJZV2JqeVQ5bjc2cHV0U2ZLc0IxRVhxS1l0UlRxWUNINE1pMVB1M0tTNGZZVlZneHdDV0ZvaUJaS3I0OE5WdjhSUGE4eDluTGpuTWxySDA5ajdZcm50dElUcXN5RG04SFhVZllHeHNvai1DeV9xd1V6eExKa05KV3I1YS1IdFo2?oc=5",
+      "published": "2026-09-01T17:35:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Pacientes com Câncer Colorretal Têm Medicamento Aprovado Pela Anvisa",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Fruzaqla é indicado para adultos com metástase já em tratamento O post Pacientes com Câncer Colorretal Têm Medicamento Aprovado Pela Anvisa apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-saude/2026/09/pacientes-com-cancer-colorretal-tem-medicamento-aprovado-pela-anvisa",
@@ -14249,6 +14506,29 @@
       "score": 20.0
     },
     {
+      "title": "Mulher é presa por vender canetas emagrecedoras irregulares em Cubatão - Santa Portal",
+      "summary": "Mulher é presa por vender canetas emagrecedoras irregulares em Cubatão &nbsp;&nbsp; Santa Portal",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOFdxTWZZenhNVWE5QjZHMVFmU2t4b09tYTEzbXNfNnp4RHl5enJSWFp2TWpZTVFlRnJucEdDU1k0QW0xVFdQbURyX2dmOXdrcjJPMEMwVHZ2X2t1RWs3WU53Y2xfVWVKTm51NlhZVHlqbkJBcU8xU01XaUR1bmRERTJVTERnRVhQeE9jd0w0X2lnNGV1Tjhmd25LcmMxLWdaeUl3QTRXa2Y2dw?oc=5",
+      "published": "2026-09-01T19:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Em reunião com entidades para ouvir impactos dos jogos na sociedade, Lula fala em tomar 'decisão drástica' sobre bets",
       "summary": "O presidente Luiz Inácio Lula da Silva afirmou nesta terça-feira, ao fim de uma reunião com representantes de entidades da saúde, da economia, da sociedade civil, do setor cultural e de organizações religiosas para discutir os impactos das apostas on-line no país, que vê necessidade de tomar uma \"decisão mais drástica\" sobre bets. — Então, eu acho, companheiros, que nós temos que tomar uma decisão mais drástica. Porque nós não temos sequer inflação de demanda. Eu estava dizendo esses dias, a nossa inflação de alimento em quatro anos, deste meu governo, é 13,6%. A inflação no governo passado era 56%. E, mesmo assim, o povo não sente uma sensação de que o salário está permitindo que ele faça tudo o que ele quer — afirmou Lula. O presidente acrescentou que os participantes da reunição, que se posicionaram contra as bets em suas falas, deram um norte para a decisão que o governo tomará. — Porque hoje vocês deram o norte para que a gente possa tomar a decisão. Já tem dois terços da decisão tomada. Lula também delcarou ser pessoalmente contra as bets e ressaltou que, apesar de medidas tomadas pelo governo como a isenção de imposto de renda para quem ganhar até R$ 5 mil, a população não sentiu uma melhora nas condições financeiras. — Eu, pessoalmente, acabo com as bets. Eu acho que ela é o mal da sociedade. Agora, como presidente da República, eu tenho que saber que tem outras coisas que eu tenho que compartilhar decisões para que a gente possa fazer da forma mais correta possível, sem que a gente possa comprometer a estabilidade política, social e econômica. O encontro não teve a participação de empresas de bets. A reunião foi organizada para discutir os efeitos das apostas sobre a sociedade. O objetivo foi ouvir a avaliação de diferentes setores antes que o governo defina novas medidas para enfrentar os problemas relacionados às plataformas. — O governo tem discutido já há algum tempo como a gente resolve o problema das bets. Esta semana nós temos uma reunião, e eu sugeri que, antes de tomar qualquer decisão definitiva, eu queria ouvir a sociedade brasileira. O que pensa sobre as bets, para que a gente tome uma decisão baseada naquilo que a sociedade está sofrendo, e não naquilo que eu acho que a sociedade está sofrendo — afirmou Lula. Participaram da reunião representantes da Confederação Nacional dos Bispos do Brasil (CNBB), da Confederação Nacional da Indústria (CNI), da Federação Brasileira de Bancos (Febraban), do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese), da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e do Instituto de Defesa de Consumidores (Idec). Na área da saúde, foram convidados integrantes da Associação Brasileira de Saúde Coletiva (Abrasco), do Instituto de Estudos para Políticas de Saúde (IEPS) e da Universidade de São Paulo (USP). Também participam representantes do Instituto Alana, do Centro Clarice, da Igreja Evangélica de Confissão Luterana no Brasil, além da produtora Paula Lavigne, do Bloco do Tigrinho, e do influenciador Yuri Zero, conhecido como Melted. Pelo governo, acompanham Lula a primeira-dama Janja, o vice-presidente Geraldo Alckmin e os ministros Miriam Belchior, da Casa Civil; Wellington César Lima e Silva, da Justiça e Segurança Pública; Alexandre Padilha, da Saúde; Paulo Henrique Cordeiro, do Esporte; Guilherme Boulos, da Secretaria-Geral; e Sidônio Palmeira, da Secretaria de Comunicação Social. Também estão presentes o advogado-geral da União, Jorge Messias, e o secretário-executivo do Ministério da Fazenda, Rogério Ceron. Lula tem criticado reiteradamente as apostas on-line por avaliar que elas contribuem para o endividamento das famílias. Desde a regulamentação do setor, o governo já restringiu a publicidade das casas de apostas e bloqueou o acesso de beneficiários do Bolsa Família e do Benefício de Prestação Continuada (BPC) às plataformas.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/01/governo-reuniao-bets.ghtml",
@@ -14264,6 +14544,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Empresário é preso em Piracicaba por vender ‘canetas emagrecedoras’ nas redes sociais - Todo Dia",
+      "summary": "Empresário é preso em Piracicaba por vender ‘canetas emagrecedoras’ nas redes sociais &nbsp;&nbsp; Todo Dia",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY203TTB6cHh4QmRDOXNwR0duN09mRjRfTVE1X2szU0NjWVgtYkN1am1FdVo2QTQ3QmJwZjNOZU1wWUNOWXZuWFlvSDg4UzZtZ3NLNWJLUzJXdVZGcG1NejdsRUdENFFQYVlLaE5kUlA3UE1OUXFkUjZHZXFZV3JVUDladk81UXFNb25zLW9tblpHdUdxTl9LYUk5VnE3Si1sX29UOUZ2cUpLLXRDMkVha2V5cUh4dw?oc=5",
+      "published": "2026-09-01T19:51:44+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -14801,6 +15104,29 @@
       "score": 20.0
     },
     {
+      "title": "Médica endocrinologista explica usos de novas canetas emagrecedoras - Portal O Dia",
+      "summary": "Médica endocrinologista explica usos de novas canetas emagrecedoras &nbsp;&nbsp; Portal O Dia",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUWpzenpZTU1ZRDk0ejRTSHhBd3N1TUtvZmJpVHUtdzJ5UHlvSjZ2YTJhbkVCcXBoVnc3ckp3R21HZFI0a0g3UlBOem81SWdvODBUWHBOSFpfVHEzaHVTX3d6R053X0lqVzBYbEVUZVJGbGd2OTZSeVRIZV9fUkdrYWtkejFJQmx6M1VNcHg5Z0Q2dWJRMVhiNzVDMXY4Mlp1cUh2Xzk2bTg1cEwwQzk4d2F3YkZMaDU3QmdZUUJn?oc=5",
+      "published": "2026-09-02T17:44:56+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Lula discute com líderes no Congresso proibição de apostas online e pode até recorrer ao STF",
       "summary": "",
       "url": "https://www.estadao.com.br/economia/lula-discute-com-lideres-no-congresso-proibicao-de-apostas-online-e-pode-ate-recorrer-ao-stf",
@@ -15330,37 +15656,6 @@
         }
       ],
       "score": 20.0
-    },
-    {
-      "title": "O que tem mais chance de ser aprovado no esforço concentrado do Congresso",
-      "summary": "A próxima semana será de esforço concentrado no Congresso. Na lista de prioridades, é razoável supor que a MP que retira a chamada “taxa das blusinhas” seja aprovada. É bom lembrar que foi o próprio governo que criou a taxa e agora trabalha para retirá-la. Se a MP não for votada até o dia 8 de setembro, caduca, e a tarifa volta a valer. A medida é popular, pois zera a taxação das compras de até US$ 50, mas há divisão dentro do próprio governo: parte da equipe avalia que retirar a taxa pode piorar a situação do varejo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/08/o-que-tem-mais-chance-de-ser-aprovado-no-esforco-concentrado-do-congresso.ghtml",
-      "published": "2026-08-27T12:27:21+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "blusinhas",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "JOTA Principal | Alcolumbre dá vitórias a Lula, mas guarda cartas na manga para jogadas seguintes",
@@ -17316,6 +17611,29 @@
         {
           "sector": "E-commerce",
           "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "General Mills conclui venda de operações no Brasil para a 3corações e se desfaz das marcas Yoki e Kitano",
+      "summary": "A General Mills anunciou nesta quinta-feira (3) a conclusão da venda de suas operações no Brasil para o Grupo 3corações, anunciada originalmente em março pelo valor de R$ 800 milhões. O negócio abrange as marcas locais Yoki e Kitano, duas fábricas localizadas em Pouso Alegre (MG) e Campo Novo do Parecis (MT) e seis centros de distribuição, além de uma estrutura composta por cerca de 3.500 funcionários. As operações repassadas à 3corações registraram receita de US$ 350 milhões (cerca de R$ 1,83 bilhão) no último ano fiscal da General Mills, informou a companhia, à época do anúncio. A transação se insere na estratégia global de reestruturação do portfólio de marcas e produtos da companhia americana, com foco na busca por oportunidades de crescimento mais rentável e de longo prazo. A desmobilização pesou diretamente sobre o balanço mais recente da empresa, com o prejuízo contábil de US$ 2,01 bilhões no quarto trimestre fiscal impulsionado por um efeito sem caixa de US$ 1 bilhão associado ao desinvestimento no Brasil. Além disso, a General Mills estimou um impacto contábil antes de impostos de pelo menos US$ 622 milhões no exercício fiscal seguinte em função do reconhecimento de perdas acumuladas de conversão cambiais. Como parte desse reposicionamento e em meio à alienação de ativos no mercado nacional, a General Mills confirmou também no mês passado o encerramento das operações e da distribuição dos sorvetes Häagen-Dazs no país. General Mills, Yoki Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/03/general-mills-conclui-venda-de-operacoes-no-brasil-para-a-3coracoes-e-se-desfaz-das-marcas-yoki-e-kitano.ghtml",
+      "published": "2026-09-03T12:30:26+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "centros de distribuição"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
           "field": "lead",
           "score": 8,
           "topic": null
