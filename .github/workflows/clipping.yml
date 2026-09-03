@@ -88,8 +88,40 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    # Sleep da ancora (ate 100 min) + run (~3 min) cabem folgados. O limite
+    # evita runner preso caso algo trave.
+    timeout-minutes: 130
 
     steps:
+      # ANCORA: quem controla a hora do scraper passa a ser o job, nao o
+      # agendador do GitHub. O cron so precisa acordar o runner em ALGUM
+      # momento da janela; a partir dai o job espera ate o alvo.
+      #
+      # Existe porque o atraso do Actions ja mudou de regime tres vezes em um
+      # mes (34-110 min, depois 307-750, agora 256-298). Qualquer grade de
+      # cron calibrada para um regime fica desalinhada quando ele muda, e o
+      # clipping volta a ficar 1h velho as 06:30.
+      #
+      # Vem ANTES do checkout de proposito: dormir depois deixaria o working
+      # tree 70 min velho, e outro run pode ter dado push nesse intervalo.
+      #
+      # So em schedule. Run manual (workflow_dispatch) roda na hora.
+      - name: Ancora o run na janela alvo
+        if: ${{ github.event_name == 'schedule' }}
+        run: |
+          ALVO="09:10"   # 06:10 BRT, depois dos portais que publicam 05:00-06:00
+          JANELA=6000    # so espera se o alvo estiver a no maximo 100 min
+          alvo=$(date -u -d "today $ALVO" +%s)
+          agora=$(date -u +%s)
+          espera=$(( alvo - agora ))
+          if [ "$espera" -gt 0 ] && [ "$espera" -le "$JANELA" ]; then
+            echo "Iniciou $(date -u +%H:%M) UTC. Dormindo $((espera/60)) min ate $ALVO UTC (06:10 BRT)."
+            sleep "$espera"
+            echo "Acordou $(date -u +%H:%M) UTC. Rodando o clipping."
+          else
+            echo "Sem espera: alvo esta a $((espera/60)) min. Rodando agora, $(date -u +%H:%M) UTC."
+          fi
+
       - name: Checkout do repositório
         uses: actions/checkout@v4
         with:
