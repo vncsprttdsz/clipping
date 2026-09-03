@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T09:59:36.599103+00:00",
-  "count": 550,
-  "new_this_run": 40,
+  "generated_at": "2026-09-03T11:43:25.741313+00:00",
+  "count": 551,
+  "new_this_run": 45,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -1776,45 +1776,6 @@
         }
       ],
       "score": 64.0
-    },
-    {
-      "title": "Regulador da China aceita pedido da Novo Nordisk para comercializar Wegovy em comprimidos",
-      "summary": "A Novo Nordisk anunciou que a agência reguladora de medicamentos da China aceitou seu pedido para vender seu medicamento para perda de peso no país. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/27/regulador-da-china-aceita-pedido-da-novo-nordisk-para-comercializar-wegovy-em-comprimidos.ghtml",
-      "published": "2026-08-27T11:25:42+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "novo nordisk",
-        "wegovy"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "wegovy",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "novo nordisk",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "wegovy",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Mesmo com Desenrola, endividamento e inadimplência crescem e renovam recorde",
@@ -5113,6 +5074,45 @@
       "score": 48.0
     },
     {
+      "title": "EXCLUSIVO: Com três propostas na mesa, rede de academias Selfit suspende processo de venda",
+      "summary": "Smart Fit estava entre os três interessados pela rede de academias, avaliada pelo BofA em cerca de R$ 1,6 bilhão",
+      "url": "https://exame.com/exame-in/exclusivo-com-tres-propostas-na-mesa-selfit-suspende-processo-de-venda",
+      "published": "2026-09-03T07:03:23+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "rede de academias",
+        "selfit",
+        "smart fit"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "selfit",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "rede de academias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "MP da ‘taxa das blusinhas’ e PEC da 6x1 passam em comissões",
       "summary": "A comissão mista do Congresso que analisa o fim da “taxa das blusinhas” aprovou o texto da medida provisória (MP) que acaba com a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. A expectativa é que a proposta seja analisada nos plenários da Câmara dos Deputados e do Senado nesta quinta-feira. A MP reverte a taxação criada com o apoio do governo, após pressão de varejistas e da indústria no Congresso, e que começou a ser cobrada em agosto de 2024. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/impresso/noticia/2026/09/03/mp-da-taxa-das-blusinhas-e-pec-da-6x1-passam-em-comissoes.ghtml",
@@ -5659,37 +5659,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "TikTok Shop: a nova era do e-commerce - Estadão",
-      "summary": "TikTok Shop: a nova era do e-commerce &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/em-alta/economia/negocios/tiktok-shop-a-nova-era-do-e-commerce",
-      "published": "2026-08-27T11:07:08+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "tiktok",
-        "tiktok shop"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok shop",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Aliados de Lula vão relatar fim da Taxa das Blusinhas, PL dos Minerais Críticos e Redata no Senado",
@@ -10213,75 +10182,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "C&A lidera alta do Ibovespa: por que as ações disparam hoje?",
-      "summary": "Papéis da varejista sobem mais de 4% em dia de Bolsa em queda",
-      "url": "https://exame.com/invest/mercados/ca-lidera-alta-do-ibovespa-por-que-as-acoes-disparam-hoje",
-      "published": "2026-08-27T10:57:39+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "c&a"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "c&a",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Be Clean: primeiro app brasileiro que cruza saúde e impacto ambiental na hora de escolher cosmético - Exame",
-      "summary": "Be Clean: primeiro app brasileiro que cruza saúde e impacto ambiental na hora de escolher cosmético &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/esg/be-clean-primeiro-app-brasileiro-que-cruza-saude-e-impacto-ambiental-na-hora-de-escolher-cosmetico",
-      "published": "2026-08-27T11:10:36+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "cosmético"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "cosmético",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Brasil tem um dos maiores índices de inadimplência bancária em LatAm; Argentina lidera - Bloomberg Línea Brasil",
-      "summary": "Brasil tem um dos maiores índices de inadimplência bancária em LatAm; Argentina lidera &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/mercados/brasil-tem-um-dos-maiores-indices-de-inadimplencia-bancaria-em-latam-argentina-lidera/?reader_id=READER_ID&url=SOURCE_URL&_=RANDOM",
-      "published": "2026-08-27T11:36:10+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Shein será avaliada em US$ 26,5 bi no IPO, 73% abaixo do pico, diz site",
@@ -15277,6 +15177,29 @@
       "score": 20.0
     },
     {
+      "title": "Alelo tem novo diretor de tecnologia",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/carreira/noticia/2026/09/03/bf17cf6d-vaivem.ghtml",
+      "published": "2026-09-03T08:02:11+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "alelo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "alelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "BC reforça lei do repasse no caso que envolve Entrepay e Nubank",
       "summary": "O Banco Central (BC) se posicionou sobre um impasse que vinha agitando a indústria de pagamentos. Em uma manifestação da Procuradoria-Geral (PGBC), o regulador reforçou o entendimento que fluxos financeiros vinculados a arranjos de pagamento estão sujeitos à chamada Lei do Repasse. Na prática, os lojistas têm preferência em relação a quem eventualmente tenha comprado o recebível (cessionário). Isso envolve o caso do Nubank, que abriu um processo judicial cobrando R$ 74 milhões pelo adiantamento de valores para a Entrepay, liquidada em março. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/financas/noticia/2026/09/03/bc-reforca-lei-do-repasse-no-caso-que-envolve-entrepay-e-nubank.ghtml",
@@ -15292,6 +15215,75 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shein shares sink almost 9% on third day of trading",
+      "summary": "Stock in online fast-fashion retailer closes more than HK$6 below offer price",
+      "url": "https://www.ft.com/content/b2d099c5-696c-4c00-87cc-3848e552763a?syn-25a6b1a6=1",
+      "published": "2026-09-03T10:04:45+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Se não der em nada, vamos para a rua, diz fundador da Petz após mensagens de Vorcaro a Moraes",
+      "summary": "O fundador da Petz, Sergio Zimerman , classificou como estarrecedoras as conversas entre Alexandre de Moraes e Daniel Vorcaro reveladas pelas investigações da PF (Polícia Federal) e defendeu que a população se manifeste pelo fim da \"sem-vergonhice\" caso os atos do ministro do STF (Supremo Tribunal Federal) André Mendonça sejam anulados. Leia mais (09/03/2026 - 08h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/se-nao-der-em-nada-vamos-para-a-rua-diz-fundador-da-petz-apos-mensagens-de-vorcaro-a-moraes.shtml",
+      "published": "2026-09-03T11:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Pet"
+      ],
+      "matched_aliases": [
+        "petz"
+      ],
+      "matches": [
+        {
+          "sector": "Pet",
+          "alias": "petz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Hering volta ao ‘básico’ com nova camiseta 30% mais barata para atrair classes B e C - Bloomberg Línea Brasil",
+      "summary": "Hering volta ao ‘básico’ com nova camiseta 30% mais barata para atrair classes B e C &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/hering-volta-ao-basico-com-nova-camiseta-30-mais-barata-para-atrair-classes-b-e-c",
+      "published": "2026-09-03T11:13:30+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "hering"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "hering",
           "field": "title",
           "score": 20,
           "topic": null
@@ -15884,6 +15876,37 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "EXCLUSIVO: C6 Bank compra a Alymente e entra no bilionário mercado de benefícios",
+      "summary": "Durante cinco décadas, o mercado de benefícios se resumiu às ofertas do vale-refeição e do vale-alimentação, concentradas nas mãos de pouquíssimas empresas. Entretanto, esse cenário vem sendo redesenhado a partir da chegada de diversos players com apetite para desafiar esse status quo. O C6 Bank é o mais novo peso-pesado a entrar nessa disputa. E [&#8230;] O post EXCLUSIVO: C6 Bank compra a Alymente e entra no bilionário mercado de benefícios apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/exclusivo-c6-bank-compra-a-alymente-e-entra-no-bilionario-mercado-de-beneficios",
+      "published": "2026-09-03T10:54:52+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "vale-alimentação",
+        "vale-refeição"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vale-refeição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "vale-alimentação",
           "field": "lead",
           "score": 8,
           "topic": null
