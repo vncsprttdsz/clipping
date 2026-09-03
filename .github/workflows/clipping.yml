@@ -43,6 +43,18 @@ on:
     - cron: '23 1 * * *'   # 22:23 BRT (D-1)  tolera ate 8,0h
     - cron: '23 3 * * *'   # 00:23 BRT        tolera ate 6,0h
 
+    # --- LADDER DO REGIME DE ATRASO ALTO (medido 01-03/set: 256 a 298 min)
+    # Com ~270 min de atraso, o que aterrissa perto das 06:30 BRT e o que
+    # DISPARA entre 04:00 e 05:00 UTC. Antes nao havia cron nenhum entre
+    # 03:23 e 05:23, um buraco de 2h exatamente na faixa que importa: o
+    # ultimo run util caia as 05:02-05:11 BRT, antes dos portais que
+    # publicam entre 05:00 e 06:00.
+    # Aterrissagem esperada no regime atual (atraso 256 a 298 min):
+    - cron: '7 4 * * *'    # dispara 01:07 BRT -> chega 05:26 a 06:08 BRT
+    - cron: '23 4 * * *'   # dispara 01:23 BRT -> chega 05:42 a 06:24 BRT
+    - cron: '37 4 * * *'   # dispara 01:37 BRT -> chega 05:56 a 06:38 BRT
+    - cron: '53 4 * * *'   # dispara 01:53 BRT -> chega 06:12 a 06:54 BRT
+
     # --- cobrem a madrugada, que e a noticia que interessa
     - cron: '23 5 * * *'   # 02:23 BRT        tolera ate 4,0h
     - cron: '43 6 * * *'   # 03:43 BRT        tolera ate 2,7h
