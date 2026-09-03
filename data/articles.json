@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-03T05:58:06.024403+00:00",
-  "count": 542,
-  "new_this_run": 49,
+  "generated_at": "2026-09-03T08:11:24.846267+00:00",
+  "count": 548,
+  "new_this_run": 56,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -862,6 +862,77 @@
       "score": 80.0
     },
     {
+      "title": "Magalu venderá produtos no Mercado Livre",
+      "summary": "O Magazine Luiza fechou parceria com o Mercado Livre para oferecer a venda direta de seus produtos na plataforma de comércio eletrônico. O acordo foi bem-recebido pelos investidores, e as ações do Magalu subiram com força, fechando em alta de 16,88%. O acerto faz parte de um dos pilares do novo ciclo estratégico da empresa, que prevê a aceleração das vendas diretas no comércio eletrônico por meio de “marketplaces” parceiros. Acordos semelhantes foram fechados com Amazon, AliExpress, Americanas, Itaú Shopping e Livelo, com as entregas sendo feitas por meio de seu operador logístico, o Magalog. Além dos produtos, a rede física de cerca de 1,2 mil lojas do Magazine Luiza poderá servir como ponto de retirada e devolução de mercadorias do Mercado Livre. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/09/03/magalu-vendera-produtos-no-mercado-livre.ghtml",
+      "published": "2026-09-03T08:00:27+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "aliexpress",
+        "amazon",
+        "americanas",
+        "comércio eletrônico",
+        "magalu",
+        "magazine luiza",
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "aliexpress",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
       "title": "Ação do Magazine Luiza  (MGLU3) dispara após acordo para vender produtos no Mercado Livre",
       "summary": "As ações do Magazine Luiza disparam nesta quarta-feira, após a companhia anunciar um acordo para vender seus produtos diretamente na plataforma de comércio eletrônico do Mercado Livre. A iniciativa busca acelerar as vendas diretas por meio de marketplaces parceiros e faz parte de um dos pilares do novo ciclo estratégico da varejista. Por volta das 11h, as ações ordinárias da Magazine Luiza (MGLU3) subiam 9,74%, atrás apenas da valorização de 12% dos papéis da varejista Azzas 2154. No mesmo horário, o Ibovespa ganhava 2,39%, aos 184.019 pontos. A companhia oferecerá cerca de 27 mil itens na plataforma da empresa argentina, incluindo eletroeletrônicos e móveis, além de games e produtos de informática pelo KaBuM! e cosméticos e itens de perfumaria pela Época Cosméticos.",
       "url": "https://valor.globo.com/financas/noticia/2026/09/02/acao-do-magazine-luiza-mglu3-dispara-apos-acordo-para-vender-produtos-no-mercado-livre.ghtml",
@@ -1705,46 +1776,6 @@
         }
       ],
       "score": 64.0
-    },
-    {
-      "title": "A ‘taxa das blusinhas’ e o que a reforma tributária não alcança",
-      "summary": "Imposto de Importação ficou fora da reforma, e assimetria com a indústria nacional persiste",
-      "url": "https://www.jota.info/opiniao-e-analise/artigos/a-taxa-das-blusinhas-e-o-que-a-reforma-tributaria-nao-alcanca",
-      "published": "2026-08-27T08:00:36+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "blusinhas",
-        "reforma tributária",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Regulador da China aceita pedido da Novo Nordisk para comercializar Wegovy em comprimidos",
@@ -5034,6 +5065,85 @@
       "score": 48.0
     },
     {
+      "title": "A estratégia da Westwing para não repetir a crise da Tok&Stok",
+      "summary": "Sem dívida bancária e com caixa de R$ 108 milhões, varejista quer voltar a crescer sem repetir os erros que levaram pares à recuperação judicial",
+      "url": "https://exame.com/invest/mercados/a-estrategia-da-westwing-para-nao-repetir-a-crise-da-tokstok",
+      "published": "2026-09-03T05:00:31+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "recuperação judicial",
+        "tok&stok",
+        "westwing"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "westwing",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "tok&stok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "MP da ‘taxa das blusinhas’ e PEC da 6x1 passam em comissões",
+      "summary": "A comissão mista do Congresso que analisa o fim da “taxa das blusinhas” aprovou o texto da medida provisória (MP) que acaba com a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. A expectativa é que a proposta seja analisada nos plenários da Câmara dos Deputados e do Senado nesta quinta-feira. A MP reverte a taxação criada com o apoio do governo, após pressão de varejistas e da indústria no Congresso, e que começou a ser cobrada em agosto de 2024. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/09/03/mp-da-taxa-das-blusinhas-e-pec-da-6x1-passam-em-comissoes.ghtml",
+      "published": "2026-09-03T08:00:29+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "blusinhas",
+        "compras internacionais",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "compras internacionais",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Ações da Natura (NATU3) disparam após mudança de comando",
       "summary": "As ações da Natura abriram o pregão desta segunda-feira (31) em alta depois do anúncio da mudança de comando da operação e da saída da empresa do diretor-presidente João Paulo Ferreira. Ele ocupava o cargo há uma década e fazia parte da empresa há 17 anos. Por volta das 11h15, os papéis ordinários (NATU3) subiam 7%, a R$ 9,36. O lugar de Ferreira, como mostrou o Valor, será ocupado por Alessandro Carlucci, atual presidente do conselho de administração da Natura e que também já havia ocupado o cargo de diretor-presidente do grupo por dez anos, entre 2005 e 2014. A mudança do comando ocorre após a assembleia que formalizou o acordo entre Natura e Advent para a indicação de dois sócios da gestora americana para o conselho da empresa de cosméticos brasileira (Pablo Zucchini e Rafael Leão). A condição para a indicação era a aquisição de 8% das ações em circulação da Natura pelo fundo, processo já concluído e que fez da Advent a segunda maior acionista fora do grupo de controle da companhia, formado pelos seus fundadores. Para analistas, a mudança é positiva. O Citi disse que a experiência que Carlucci adquiriu ocupando cadeiras de conselhos de outras empresas de varejo, como Arezzo e Lojas Renner, contribui para a leitura otimista para seu retorno ao cargo, apesar de a empresa ser hoje diferente da que ele liderou há mais de uma década atrás. Por conta da nomeação como diretor-presidente, que terá efeitos em outubro, Carlucci apresentou renúncia imediata ao cargo de presidente do colegiado e à cadeira que ocupava no conselho da empresa. Por isso, Fábio Barbosa, membro do conselho consultivo e ex-diretor-presidente da companhia entre 2022 e 2025, passa a ocupar a vaga que era de Carlucci. O Itaú BBA disse que a nomeação de Carlucci como presidente e a posse de Barbosa como presidente do conselho são positivas, mas que a execução de metas operacionais continua no centro das atenções no curto prazo depois de um segundo trimestre fraco.",
       "url": "https://valor.globo.com/financas/noticia/2026/08/31/acoes-da-natura-disparam-apos-mudanca-de-comando.ghtml",
@@ -5541,37 +5651,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Nubank, Ambev e iFood Abrem Vagas de Estágio; Veja Como Se Destacar na Era da IA",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Com bolsas de até R$ 3.900, mais de 15 empresas estão com processos seletivos abertos; benefícios vão de plano pet a intercâmbio internacional O post Nubank, Ambev e iFood Abrem Vagas de Estágio; Veja Como Se Destacar na Era da IA apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/carreira/2026/08/nubank-ambev-e-ifood-abrem-vagas-de-estagio-veja-como-se-destacar-na-era-da-ia",
-      "published": "2026-08-27T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood",
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "TikTok Shop: a nova era do e-commerce - Estadão",
@@ -7832,6 +7911,117 @@
       "score": 40.0
     },
     {
+      "title": "Casas Bahia faz leilão de eletrodomésticos nesta quinta-feira (3); lances vão até as 14h",
+      "summary": "A Casas Bahia realiza nesta quinta-feira (3) leilão de produtos de cozinha e limpeza. Os itens vêm de devoluções ou foram encaminhados pelo departamento de assistência técnica. Este é o primeiro de três leilões da empresa que o site Nosso Leilão realiza em setembro. Os outros serão nos dias 12 e 19. Leia mais (09/03/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/casas-bahia-faz-leilao-de-eletrodomesticos-nesta-quinta-feira-3-lances-vao-ate-as-14h.shtml",
+      "published": "2026-09-03T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "eletrodomésticos"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Eletrônicos",
+          "alias": "eletrodomésticos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença?",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Eficácia, efeitos colaterais e custo estão entre os fatores que diferenciam os dois medicamentos O post Tirzepatida x Semaglutida para Perda de Peso: Qual É a Diferença? apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-saude/2026/09/tirzepatida-x-semaglutida-para-perda-de-peso-qual-e-a-diferenca",
+      "published": "2026-09-03T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Redivisão do Azzas 2154: como foram as 48 horas anteriores ao aperto de mãos entre Birman e Jatahy",
+      "summary": "Após meses de tratativas, as negociações em busca de um acordo para redividir as marcas sob o Azzas 2154 entre Alexandre Birman, da Arezzo&amp;Co, e Roberto Jatahy, do Grupo Soma, chegaram a um limite na última segunda-feira, um momento do tipo “ou vai, ou racha”. Foi preciso uma convocação de assessores financeiros para colocar os dois em uma mesma mesa, com o objetivo de que tudo fosse “acertado às claras”, conta uma pessoa próxima às negociações. Capital: Como as tensões escalaram entre os sócios do maior grupo de moda do Brasil Futuro da Farm: Analistas veem como cenário mais provável abertura de capital na Bolsa Os empresários apertaram as mãos e selaram o acordo às 22h de terça-feira. Menos de 12 horas depois, a estrutura da reorganização societária do maior conglomerado de moda do Brasil foi anunciada pouco antes da abertura do mercado. Foram “48 horas de intensidade máxima”. Nesse processo, o bloco de controle da família Birman teve o BTG Pactual como assessor financeiro e o Spinelli Advogados na frente legal, enquanto o de Jatahy contou com o G5 Partners e o BMA, respectivamente. Estratégia: Magalu fecha parceria com Mercado Livre para vender produtos pelo marketplace O fechamento da fusão de Arezzo&amp;Co e Soma aconteceu em agosto de 2024. Em abril do ano seguinte, o divórcio iminente entre os dois empresários veio a público, devido a diferenças “irreconciliáveis”, fazendo as ações da companhia tombarem. Em meados de 2025, um “acordo de paz” chegou a ser selado, com mudanças na alta governança do Azzas e o engavetamento do acordo de acionistas que teria travado a evolução da fusão, que prometia escalar os resultados da companhia. Não durou muito. Neste ano, a disputa cresceu com a abertura de um procedimento arbitral e medida cautelar na Justiça. Com isso, o primeiro desafio para avançar nas negociações que levaram ao acordo de divórcio do Azzas 2154, revela essa fonte, foi fazer com que os empresários, que não sentavam juntos à mesa para falar sobre as diferentes visões que têm dos negócios há cerca de dois anos, dialogassem para construir uma solução. Expansão: Mubadala amplia aposta em educação e compra Universidade Vila Velha No centro das conversas, era preciso esclarecer que, a contrário do que se pensava à época da fusão, o Azzas era uma holding de “unidades de negócio de pouca conciliação”. E não havia problemas nas operações, mas uma diferença de cultura entre dois empresários “de referência” em suas indústrias. Outra dificuldade foi convencer Birman e Jatahy de que insistir em uma disputa litigiosa traria perdas para todos os acionistas e para a companhia. Nesse ponto, o principal motivador foi quebrar a lógica histórica dos grandes imbróglios societários do país em que acionistas de referência de muito peso se desalinharam. “O foco era tomar uma decisão empresarial que blindasse a companhia e criasse valor para os novos negócios, preservando autonomia de gestão”, explicou essa fonte. O racional, continua, foi permitir que cada um ficasse com as marcas ligadas àquilo que faz de melhor. Com o bônus de cada bloco — Arezzo&amp;Co e Soma — ter um acionista de referência. O próximo capítulo está pautado: o destino da Farm Rio, que ficará em uma unidade separada e, pela força global da marca, “se aproxima de um processo potencial de venda”.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/09/03/redivisao-do-azzas-2154-como-foram-as-48-horas-anteriores-ao-aperto-de-maos-entre-birman-e-jatahy.ghtml",
+      "published": "2026-09-03T07:00:29+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Fashion",
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "arezzo",
+        "azzas",
+        "grupo soma",
+        "magalu"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "arezzo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "grupo soma",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 38.0
+    },
+    {
       "title": "Agência FDA, nos Estados Unidos, Aprova Mounjaro para Reduzir Risco Cardiovascular",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O medicamento para diabetes da Eli Lilly atua sobre a proteína GLP-1 e também é usado para perda de peso O post Agência FDA, nos Estados Unidos, Aprova Mounjaro para Reduzir Risco Cardiovascular apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-saude/2026/08/agencia-fda-nos-estados-unidos-aprova-mounjaro-para-reduzir-risco-cardiovascular",
@@ -8219,6 +8409,123 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "85% das notas fiscais estão adaptadas à reforma tributária, segundo a Receita",
+      "summary": "Cerca de 85% dos documentos fiscais monitorados pela Receita Federal já estão adaptados às exigências da reforma tributária . Mas ainda há um percentual relevante de empresas que não estão cumprindo a obrigação de incluir nas notas informações sobre a CBS (Contribuição sobre Bens e Serviços) e o IBS (Imposto sobre Bens e Serviços). Leia mais (09/03/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/85-das-notas-fiscais-estao-adaptadas-a-reforma-tributaria-segundo-a-receita.shtml",
+      "published": "2026-09-03T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Birman e Jatahy vão cindir a Azzas",
+      "summary": "fusão de Arezzo&amp;Co e Soma, e o plano da maior empresa de moda da América Latina, chega ao fim dois anos e meio depois, diante do impasse entre os dois maiores gestores, Alexandre Birman e Roberto Jatahy, sobre o futuro da Azzas 2154. O grupo será dividido em três empresas, com a segregação das duas marcas e seus ativos, preservando as participações dos dois sócios no capital de ambas. Será criada uma sociedade de propósito específico (SPE) para abrigar a marca Farm e ramificações, controlada por Arezzo&amp;Co e Soma. A reorganização ainda será submetida ao conselho de administração, mas o mercado reagiu bem ao fim do longo período de desentendimento entre os dois empresários. As ações da Azzas subiram 11,28%. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/09/03/birman-e-jatahy-vao-cindir-a-azzas.ghtml",
+      "published": "2026-09-03T08:00:36+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "arezzo",
+        "azzas",
+        "farm"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "arezzo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Quem paga o preço da reforma tributária?",
+      "summary": "A reforma tributária do consumo foi vendida como neutra em termos de carga fiscal. Para a infraestrutura concedida e para os serviços que dela dependem, os que mais pesam na renda das famílias, essa neutralidade não se verifica. A tributação que hoje incide sobre a tarifa desses serviços essenciais gira em torno de 8% a 10% e, com o IBS e a CBS em regime pleno, converge para a alíquota de referência, estimada entre 26,5 e 28%. O número que importa não é a alíquota nominal, e sim a carga efetiva depois dos créditos, pois o IBS e a CBS são não cumulativos, e o resultado depende de quanto cada setor compra de insumos que geram crédito. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/legislacao/coluna/quem-paga-o-preco-da-reforma-tributaria.ghtml",
+      "published": "2026-09-03T08:04:35+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 36.0
@@ -9332,37 +9639,6 @@
       "score": 28.0
     },
     {
-      "title": "Governo propõe mudança no PLDO para permitir que proposta de Orçamento tenha CBS e Seletivo sem alíquotas definidas",
-      "summary": "O governo enviou ao Congresso Nacional uma mudança no Projeto de Lei de Diretrizes Orçamentárias (PLDO) de 2027 para permitir que o Projeto de Lei Orçamentária Anual (Ploa) do próximo ano fosse elaborado com estimativas globais de arrecadação com a Contribuição sobre Bens e Serviços (CBS) e com o Imposto Seletivo (IS), mesmo que ainda não estejam definidas as alíquotas. A CBS e o Imposto Seletivo entram em vigor em 2027 e vão substituir os atuais tributos federais que incidem sobre o consumo. A alteração foi encaminhada na segunda-feira (31) ao Congresso, por meio de uma proposta de modificação do PLDO, que dá as diretrizes para elaboração do Orçamento. A mudança foi necessária porque o governo enviou a proposta de Orçamento em si do próximo ano, o Ploa de 2027, antes da definição das alíquotas dos dois tributos criados pela reforma tributária. O Ploa também foi encaminhado ontem ao Legislativo. No Ploa de 2027, o governo incluiu apenas a estimativa total de arrecadação dos novos tributos da reforma. São R$ 636,841 bilhões esperados com a CBS e R$ 41,996 bilhões com o Imposto Seletivo, que substituirão o Programa de Integração Social/Contribuição para o Financiamento da Seguridade Social (PIS/Cofins), o Imposto sobre Operações Financeiras (IOF)-Seguros e grande parte do Imposto sobre Produtos Industrializados (IPI). Ao todo, o governo estima arrecadar R$ 678,8 bilhões com os novos tributos, em substituição aos atuais. Esses valores, contudo, são estimativas, considerando a manutenção da carga tributária, um princípio da reforma tributária. Os números podem mudar até a aprovação do Orçamento, a depender das alíquotas exatas da CBS e do Seletivo que serão fixadas em resolução e em lei, respectivamente. No caso da CBS, o governo vai enviar no dia 14 de setembro ao TCU os cálculos que vão embasar a estimativa de alíquota. O TCU, por sua vez, tem até 30 de outubro para encaminhar a proposta de alíquota ao Senado, a quem cabe aprová-la e fixá-la por meio de uma resolução. Já as alíquotas do Imposto Seletivo serão propostas via medida provisória (MP) pelo governo. Para entrar em vigor em 2027, também terão que ser aprovadas pelo Congresso até o fim deste ano. A intenção da equipe econômica é enviar a MP em setembro, para que a cobrança possa começar em janeiro, mas há receio da ala política do governo, que quer que isso fique para novembro. O Seletivo vai incidir sobre bens e serviços nocivos à saúde e ao meio ambiente. No pedido de alteração do PLDO, o governo solicitou autorização para estimar a receita da CBS e do Seletivo com base nos dados disponíveis, já que ainda as alíquotas ainda não foram estabelecidas. A proposta também prevê que, durante a tramitação do Ploa 2027, as estimativas poderão ser atualizadas caso a alíquota de referência da CBS e as alíquotas do Seletivo aprovadas resultem em uma arrecadação diferente da estimada na peça orçamentária enviada no dia 31 de agosto ao Congresso. O próprio Legislativo poderá solicitar ao Executivo novas projeções. A inclusão da receita global esperada com os novos tributos da reforma tributária do consumo no Orçamento de 2027 é relevante porque será o primeiro ano de cobrança da CBS e do Imposto Seletivo. As alíquotas exatas, contudo, seguem sendo o principal fato de dúvida para as empresas. O governo optou por já incluir no Orçamento de 2027 a previsão de arrecadação com a CBS e o Seletivo justamente para demonstrar que não haverá adiamentos na implementação da reforma tributária do consumo. O adiamento vem sendo defendido pelo candidato de oposição à Presidência da República Flávio Bolsonaro (PL-RJ). \"A elaboração da peça orçamentária contendo as estimativas das novas receitas criadas pela Reforma Tributária é essencial para assegurar a estabilidade fiscal, a credibilidade do planejamento orçamentário e a execução contínua das políticas públicas na transição do sistema tributário\", afirmou o ministro do Planejamento e Orçamento, Bruno Moretti, na exposição de motivos do projeto. Ele também acrescenta que, como a CBS financia a Seguridade Social, \"projeções fundamentadas em dados consistentes evitam frustrações de arrecadação que comprometeriam a saúde, a previdência e a assistência social, oferecendo previsibilidade macroeconômica e segurança jurídica\". No mesmo pedido, o governo também solicita uma alteração no PLDO para dar a correta classificação orçamentária à compensação que a União fará aos Estados e municípios pelo fim do Imposto sobre Produtos Industrializados (IPI). Essa compensação será de R$ 33,8 bilhões e foi classificada como despesa primária não sujeita ao teto de gastos. Ela será feita via transferência constitucional. O IPI continuará sendo cobrado apenas para uma parcela pequenas de produtos, de forma a preservar a competitividade da Zona Franca de Manaus (ZFM). Pixabay",
-      "url": "https://valor.globo.com/brasil/noticia/2026/09/01/governo-prope-mudana-no-pldo-para-permitir-que-proposta-de-oramento-tenha-cbs-e-seletivo-sem-alquotas-definidas.ghtml",
-      "published": "2026-09-01T19:11:54+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "imposto seletivo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "imposto seletivo",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Motoboys fazem breque dos apps e acusam Keeta e 99Food de pagar bônus para esvaziar protesto",
       "summary": "Entregadores de aplicativos realizaram o breque dos apps nesta terça-feira (1º) em protesto por taxa mínima de R$ 10 nas entregas de até 4 km, mudanças no projeto de lei 152 de 2025, que regulamenta direitos da categoria , e contra o programa Mais Entregas do iFood , entre outras reivindicações. Leia mais (09/01/2026 - 16h38)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/09/motoboys-fazem-breque-dos-apps-e-acusam-keeta-e-99food-de-pagar-bonus-para-esvaziar-protesto.shtml",
@@ -9582,6 +9858,101 @@
       "score": 28.0
     },
     {
+      "title": "Fim da escala 6x1 exigirá adaptação em setores que funcionam sem pausa; veja impactos por profissão",
+      "summary": "A PEC (proposta de emenda à Constituição pelo fim da escala 6x1 -na qual se trabalha seis dias por semana e se folga um- pode reduzir a jornada de 44 horas semanais para 42 horas já neste ano, se aprovada no plenário do Senado com as mesmas regras da Câmara dos Deputados, criando a escala 5x2, o que exigirá reorganização em diferentes setores . O relatório da PEC foi aprovado na CCJ (Comissão de Constituição e Justiça) do Senado nesta quarta-feira (2). Leia mais (09/03/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/fim-da-escala-6x1-exigira-adaptacao-em-setores-que-funcionam-sem-pausa-veja-impactos-por-profissao.shtml",
+      "published": "2026-09-03T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 5x2",
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 5x2",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Casas Bahia reduz publicidade na TV em 90% e deixa de patrocinar Brasileirão na CazéTV",
+      "summary": "Historicamente uma das maiores anunciantes da televisão brasileira, a Casas Bahia decidiu encerrar quase todos os seus investimentos em publicidade. A empresa, que recorreu à recuperação judicial para reestruturar um passivo global estimado em R$ 28 bilhões, suspendeu 90% de seus contratos de mídia. Leia mais (09/03/2026 - 04h00)",
+      "url": "https://f5.folha.uol.com.br/colunistas/outro-canal/2026/09/casas-bahia-reduz-publicidade-na-tv-em-90-e-deixa-de-patrocinar-brasileirao-na-cazetv.shtml",
+      "published": "2026-09-03T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Quem É Miguel Krigsner, Fundador do Boticário e 8º Brasileiro Mais Rico",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Nascido na Bolívia e filho de judeus que fugiram do nazismo, o empresário construiu o Grupo Boticário a partir de uma pequena farmácia e acumulou R$ 35,7 bilhões O post Quem É Miguel Krigsner, Fundador do Boticário e 8º Brasileiro Mais Rico apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/09/quem-e-miguel-krigsner-fundador-boticario-bilionario",
+      "published": "2026-09-03T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "boticário",
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Ações da Shein chegam a cair 10% em estreia na Bolsa",
       "summary": "A gigante do fast-fashion Shein teve uma estreia discreta na Bolsa de Hong Kong nesta terça-feira, arrecadando US$ 1,7 bilhão (R$ 8,8 bilhões) em sua oferta pública inicial (IPO), que encerrou um esforço de anos para abrir o capital. Na abertura do pregão, o preço de suas ações despencou até 10%. Em seguida, se recuperou e fechou o dia com queda de apenas 0,1%, a HK$ 48,50 (US$ 6,18 ou R$ 32,01) por ação. Ao estrear na Bolsa: Shein se reinventa como 'a infraestrutura global' da indústria da moda Capital: Shein corta preços em 20% e aumenta pressão sobre marcas brasileiras A muito aguardada estreia na Bolsa avaliou a empresa em aproximadamente US$ 26,3 bilhões (R$ 136 bilhões), com um preço inicial por ação de HK$ 48,56 (US$ 6,19, R$ 32,07), significativamente menor do que os quase US$ 100 bilhões (R$ 518 bilhões, na cotação atual) alcançados durante as rodadas de financiamento privado em 2022. A estreia das ações da varejista no mercado acionário, há muito aguardada, ocorreu em um momento delicado: os anos de maior crescimento da varejista de moda rápida ficaram para trás, justamente quando tarifas, pressão regulatória e concorrência cada vez mais intensa tornam mais difícil sua próxima fase de expansão. Os planos da empresa de listar suas ações em Nova York e Londres foram frustrados por questões regulatórias, mas em julho ela recebeu autorização das autoridades chinesas para vender ações no centro financeiro do sul do país. Initial plugin text A Shein, conhecida por seus preços extremamente baixos e roupas de produção rápida, afirma que os fundos arrecadados serão usados para financiar suas capacidades tecnológicas e fortalecer sua presença internacional. Raízes chinesas Entre 2021 e 2022, a empresa transferiu a sede para Cingapura, uma medida que, segundo analistas, teve como objetivo distanciar-se politicamente da China. IPO da Shein: Aperto nos EUA e na Europa, oportunidade no Brasil — e agora sem a ‘taxa das blusinhas’ A empresa tem sido alvo de críticas devido ao seu impacto ambiental e a denúncias de violações dos direitos humanos, e enfrenta a crescente concorrência de empresas de comércio eletrônico de baixo custo, como Temu e AliExpress. No fim de 2025, a Shein contava com uma média de 156 milhões de usuários ativos mensais na Europa, posicionando-se entre as maiores plataformas de comércio eletrônico do continente, ao lado da AliExpress (193 milhões) e da Amazon (cerca de 180 milhões). O presidente executivo, Donald Tang, declarou à AFP no ano passado que a empresa tem \"tolerância zero\" com o trabalho forçado. Quanto lucra a Shein? Empresa revela dados às vésperas do IPO A oferta pública inicial desta terça-feira \"não representa um prejuízo\", apesar da recepção morna do mercado, afirmou Han Lin, diretor para a China da consultoria The Asia Group. — Os mercados de ações veem a Shein mais como uma varejista em processo de amadurecimento, que enfrenta tarifas, regulamentações e concorrência — disse Lin, acrescentando que \"a fraqueza inicial da cotação sugere que os investidores querem provas, não apenas promessas\". A Shein obteve US$ 2,06 bilhões (R$ 10,6 bilhões, na cotação atual) em 2025, mas registrou prejuízo de US$ 99 milhões (R$ 512 milhões) nos primeiros três meses deste ano, após os Estados Unidos eliminarem as isenções tarifárias para pequenos pacotes. Capital: A supremacia da Shein nas conversas sobre marcas de moda no Brasil No mês passado, a União Europeia impôs uma medida semelhante, com uma tarifa de € 3 (R$ 18,05) por item para pacotes avaliados em menos de € 150 (R$ 902,6). A França também começou a aplicar, nesta terça-feira, um imposto sobre itens de moda ultrarrápida que pode chegar a quase € 20 (R$ 120,3) por peça, enquanto o governo mira nas grandes plataformas de comércio eletrônico asiáticas. O CEO da Shein, Sky Xu, fez uma rara aparição pública este ano na província de Guangdong, no sul da China, onde prometeu alocar mais recursos para o país — uma medida que analistas interpretaram como uma tentativa de realinhar a empresa com suas raízes. Conheça a Vinted: E-commerce de roupas usadas que cobra comissão do comprador e quer globalizar o modelo a partir dos EUA Segundo Lawrence Loh, professor especializado em mercados ESG (Ambiental, Social e Governança) na Universidade Nacional de Cingapura, a estreia em Hong Kong representa \"uma nova história asiática para a empresa\", à medida que ela se redefine institucionalmente com \"raízes na China\". — Mas isso tem o preço de um nível ainda maior de escrutínio público — afirma.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/01/acoes-da-shein-chegam-a-cair-10percent-em-estreia-na-bolsa.ghtml",
@@ -9772,29 +10143,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "C&A lança plano até 2030 com novos investimentos e entrada em franquias",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/27/c-a-lanca-plano-ate-2030-com-novos-investimentos-e-entrada-em-franquias.ghtml",
-      "published": "2026-08-27T08:02:02+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "c&a"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "c&a",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "El plan \"invisible\" de Galicia, Macro y MODO contra Mercado Pago - iProUP",
@@ -14767,52 +15115,6 @@
       "score": 20.0
     },
     {
-      "title": "Escala 6x1: líder do governo reconhece não ter ‘garantia’ de votos e análise deve ficar para depois das eleições",
-      "summary": "O Senado frustrou nesta quarta-feira a expectativa do governo votar no plenário a proposta de emenda à Constituição (PEC) que prevê o fim da escala 6x1 (seis de trabalho um de descanso na semana). A proposta foi aprovada pela Comissão de Constituição e Justiça (CCJ) durante a tarde, mas não avançou para a análise dos senadores em plenário. Fim da escala 6x1: Relator diz que pedirá 'calendário especial' para votar antes das eleições Fim da escala 6x1: Relator descarta mudanças e diz que trabalha para votar texto em comissão do Senado na próxima semana Apesar de haver quórum de 75 senadores, o líder do PT no Congresso, senador Randolfe Rodrigues (PT-AP), disse que o Executivo não tinha garantia dos 49 votos necessários para aprovar uma mudança na Constituição. Segundo Randolfe, o governo estima ter entre 53 e 54 votos favoráveis à PEC, mas avaliou que havia risco de não alcançar o número necessário devido aos chamados “não votos”, de senadores que poderiam não comparecer ou não registrar apoio à proposta. — Nós não tínhamos essa garantia pelo mapa de votação. Achamos mais prudente ver o momento em que podemos ter os votos necessários para aprovação da proposta — afirmou. PIB: Consumo das famílias frustra, e economistas já veem menor crescimento da economia no ano Conforme o líder petista, o presidente do Senado, Davi Alcolumbre (União-AP), perguntou aos senadores governistas se havia segurança sobre o número de votos antes de colocar a PEC em votação. Após consultar o mapa de votação, Randolfe disse que a resposta foi negativa. — A pergunta foi se nós tínhamos segurança sobre o número de votos. Nós checamos, fizemos a verificação necessária. Não tínhamos — disse. Randolfe afirmou que o governo poderia até conseguir aprovar a PEC com a margem estimada, mas considerou arriscado submetê-la ao plenário sem ter segurança sobre a presença e o voto dos senadores. — Poderíamos conseguir aprovação? Poderíamos. Mas havia risco. Não é adequado correr isso sobre esse tema. Nós queremos colocar esse tema para votar com a garantia de que ele vai ser aprovado — afirmou. Orçamento de 2027: Governo Lula reserva R$ 9 bi para reajustes a servidores Apesar da admissão, o líder do PT atribuiu o adiamento a uma articulação bem-sucedida da oposição para esvaziar o plenário e impedir a votação. — Hoje não tem número para aprovação e é exatamente por isso que eu digo que, nesse sentido, a oposição foi bem-sucedida em obstruir a aprovação de uma proposta que representaria a maior conquista dos trabalhadores brasileiros — afirmou. Segundo o senador petista, ele “garante” a votação em outubro, com probabilidade de a análise ocorrer na próxima semana de esforço concentrado, entre o primeiro e o segundo turno da eleição presidencial. Entre governistas, há a avaliação de que deixar a votação para depois do primeiro turno pode ser positivo para o governo e dar um novo impulso à campanha do presidente Luiz Inácio Lula da Silva (PT). A eventual aprovação da redução da jornada de trabalho poderia ser apresentada como uma conquista para os trabalhadores durante a disputa eleitoral. Randolfe, porém, rejeitou a associação entre a tramitação da PEC e o calendário eleitoral. Questionado sobre o impacto da votação na campanha de Lula, o líder do PT afirmou que a pauta não deve ser tratada como instrumento eleitoral. — Esse tema não pode ser mobilizado em função da eleição. Esse tema chegou até agora por conta das circunstâncias, da tramitação, mas não é a eleição que determina esse tema. Esse tema está atrasado desde 1988 — afirmou. O petista disse que a proposta deve ser votada independentemente do momento eleitoral e que o governo continuará trabalhando para reunir os votos necessários. — Na segunda semana de outubro, no máximo, nós vamos procurar criar as condições necessárias para aprovar o texto — afirmou. Randolfe disse que o governo ainda avalia a possibilidade de votar a PEC em setembro, caso consiga reunir os senadores durante o período de campanha eleitoral. Como a votação exige presença física, ele afirmou que discutirá com Alcolumbre a possibilidade de convocar uma sessão extraordinária. Caso isso não seja possível, a votação deverá ocorrer na segunda semana de outubro. Randolfe afirmou que, de qualquer forma, a proposta será votada até o fim daquele mês. — Eu posso garantir a vocês o seguinte. Nós iremos votar essa proposta de emenda constitucional a qualquer custo. Até o final de outubro posso garantir que, de qualquer forma, essa matéria vai ser votada — afirmou.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/02/escala-6x1-lider-do-governo-reconhece-nao-ter-garantia-de-votos-e-analise-deve-ficar-para-depois-das-eleicoes.ghtml",
-      "published": "2026-09-02T23:00:56+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Zema diz que aprovação da escala 6x1 é 'populismo sem tamanho'",
-      "summary": "O candidato à presidência da República Romeu Zema (Novo) classificou como populista a aprovação do projeto que põe fim à escala de trabalho 6x1. A afirmação foi feita durante sabatina no podcast Inteligência Ltda. \"Quero uma legislação que se adeque à realidade do brasileiro. O que estamos vendo é um populismo sem tamanho. O governo está desesperado atrás de voto, porque é mal avaliado, e fica falando que vai melhorar a vida do povo com decreto\", afirmou Zema. O candidato defendeu a modernização das leis trabalhistas, com a possibilidade no país de contração de trabalhador por dia, e mudança nas leis para que jovens de 14 a 16 anos possam trabalhar com carteira assinada. Zema também defendeu a proibição das bets no país. \"Faria uma medida provisória no primeiro dia de governo. Corta o mal pela raiz e depois vê como conduz a votação do assunto no Congresso\", disse. Em relação à reforma tributária, Zema disse ser a favor da simplificação do sistema tributário e defendeu a retirada gradual de incentivos tributários a setores ou regiões. \"A Zona Franca existe há 70 anos, já deu tempo de consolidar a economia. Será que precisa de incentivo desse tamanho? Para mim tem que ter um desmame\", disse. O candidato também defendeu que todos paguem impostos e pessoas de renda mais baixa recebam uma restituição. Privatizações Zema voltou a defender a privatização de estatais e uso dos recursos obtidos com a venda para fazer investimentos em infraestrutura. \"A minha visão é que as estatais são usadas para fazer politicagem. Os políticos comprados usam as estatais para suas negociatas. O Estado já tem uma missão gigante na área de segurança pública, de saúde, de educação, de infraestrutura. Já tem coisa demais para fazer. E empresa do setor privado toca melhor\", disse Zema. O ex-governador também disse que o governo federal é \"gastão\" e não tem recursos para fazer investimentos nas estatais. \"Temos um governo que não tem dinheiro para reformar estradas, vai ter dinheiro para investir nessas estatais que precisam de bilhões em investimentos? Não vai\", disse. Perguntado até que ponto estaria disposto a negociar com os partidos do centrão para conseguir aprovação do Congresso para as privatizações, Zema disse que não abre mão de valores republicanos e que se algum partido quiser caminhar junto e tiver nomes competentes serão bem vindos, mas não haverá loteamento do governo. Segurança e saúde Na área de segurança, Zema disse que, se eleito, vai buscar uma parceria com Bolívia, Colômbia, Peru e Estados Unidos para fazer o monitoramento da região conhecida como Rota do Solimões, principal via fluvial de escoamento do narcotráfico internacional na Amazônia. E atuação das Forças Armadas no combate ao crime organizado. \"Eu vou colocar todo o aparato do Estado para combater o crime organizado. E vou classificar essas organizações como terroristas\", disse Zema. O candidato disse que trabalhar em colaboração com os Estados Unidos não significa perda de soberania. \"É uso de satélite para monitoramento, mais tecnologia, treinamento para nossos homens poderem operar os equipamentos. Vamos combater o crime como nunca aconteceu no Brasil\", afirmou. Na área de saúde, Zema defendeu a criação do exame de proficiência na medicina, com exames periódicos para saber se os profissionais estão atualizados sobre medicamentos e tratamentos mais recentes. Ele também defendeu o fortalecimento do serviço de atenção primária no país. 02/09/2026 22:52:06",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/02/zema-diz-que-aprovao-da-escala-6x1-populismo-sem-tamanho.ghtml",
-      "published": "2026-09-03T02:22:22+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Fim da escala 6x1: saiba próximos passos e quando proposta poderá ser votada no Senado",
       "summary": "A Comissão de Constituição e Justiça (CCJ) do Senado aprovou na quarta-feira a proposta de emenda à Constituição (PEC) do fim da escala 6x1. O texto estabelece cinco dias de trabalho na semana e dois de folga. Porém, a data de votação da medida no plenário da Casa ainda não foi marcada. Fim da escala 6x1: Relator diz que pedirá 'calendário especial' para votar antes das eleições Fim da escala 6x1: Relator descarta mudanças e diz que trabalha para votar texto em comissão do Senado na próxima semana Líderes do governo negociam com o presidente da Casa, Davi Alcolumbre (União Brasil-AP), para que o texto seja votado no plenário logo após o primeiro turno das eleições, que ocorre no dia 4 de outubro. Segundo interlocutores, Alcolumbre deve anunciar nesta quinta-feira uma espécie de recesso nas atividades do Senado até o pleito, já que os próprios senadores vão intensificar a campanha eleitoral. Na CCJ, o relator da proposta, senador Omar Aziz (PSD-AM) rejeitou todas as 36 emendas para modificar a proposta, com objetivo de acelerar a conclusão da votação da PEC pelo Senado. PIB: Consumo das famílias frustra, e economistas já veem menor crescimento da economia no ano Apesar de haver quórum de 75 senadores, o líder do PT no Congresso, senador Randolfe Rodrigues (PT-AP), disse que o Executivo não tinha garantia dos 49 votos necessários para aprovar uma mudança na Constituição. Segundo Randolfe, o governo estima ter entre 53 e 54 votos favoráveis à PEC, mas avaliou que havia risco de não alcançar o número necessário devido aos chamados “não votos”, de senadores que poderiam não comparecer ou não registrar apoio à proposta. — Nós não tínhamos essa garantia pelo mapa de votação. Achamos mais prudente ver o momento em que podemos ter os votos necessários para aprovação da proposta — afirmou. Orçamento de 2027: Governo Lula reserva R$ 9 bi para reajustes a servidores Conforme o líder petista, o presidente do Senado perguntou aos senadores governistas se havia segurança sobre o número de votos antes de colocar a PEC em votação. Após consultar o mapa de votação, Randolfe disse que a resposta foi negativa. — A pergunta foi se nós tínhamos segurança sobre o número de votos. Nós checamos, fizemos a verificação necessária. Não tínhamos — disse. A PEC do fim da jornada 6x1 é uma das principais bandeiras do presidente Lula na disputa eleitoral. Há uma avaliação entre governistas de que o fato de a proposta ter passado pela CCJ já representa uma vitória para o governo, que incorporou a pauta na campanha. A proposta foi aprovada pela Câmara dos Deputados em 28 de maio e só chegou ao Senado em agosto. Para entrar em vigor, a nova jornada de trabalho precisa ser aprovada pelo Senado, em dois turnos. Durante a votação do relatório, Aziz admitiu que um destaque apresentado pela oposição e derrubado pela CCJ daria maior clareza ao texto. A emenda de autoria do senador Rogério Marinho (PL-RN) previa a supressão de um item do texto que estabelece dois dias de folga remunerada, mesmo com a redução da jornada semanal de trabalho. Segundo Aziz, isso poderá ser objeto de lei complementar, após a promulgação da PEC pelo Congresso. A preocupação do senador é com as escalas diferenciadas de algumas categorias, como portuários, internautas, embarcados em plataformas de petróleo.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/03/fim-da-escala-6x1-saiba-proximos-passos-e-quando-proposta-podera-ser-votada-no-senado.ghtml",
@@ -14836,35 +15138,96 @@
       "score": 20.0
     },
     {
-      "title": "Mesmo com juro alto, Rio vive novo ciclo imobiliário com 25 mil lançamentos de imóveis em 12 meses",
-      "summary": "O mercado imobiliário do Rio está aquecido, com uma combinação de fatores, segundo especialistas e executivos. Mudanças nas regras de construção, com o novo Plano Diretor da cidade, de 2024, facilitaram projetos residenciais na Zona Norte, no Centro e na Região Portuária, com foco no programa Minha Casa, Minha Vida. Em outro flanco, o turismo aumenta o apetite por projetos de hotelaria e por empreendimentos desenhados para o aluguel por temporada, também facilitados pelo novo Plano Diretor. Com retrofits, Praça Onze Maravilha e investidores estrangeiros, Rio Comprido entra no radar imobiliário da cidade Salto: Aluguel por temporada faz preço do metro quadrado em Ipanema disparar Em 2024, o número de unidades lançadas disparou 42%, para 21,2 mil, segundo a consultoria Brain Inteligência Estratégica. Ano passado, houve redução de 8% nas unidades lançadas, mas os lançamentos somaram R$ 16,5 bilhões em valor geral de vendas (VGV, um indicador de mercado), salto de 28%. O ano começou com 6,6 mil unidades lançadas, e, no acumulado em 12 meses até junho, foram 25 mil, segundo Leonardo Mesquita, presidente da Associação de Dirigentes de Empresas do Mercado Imobiliário do Rio (Ademi-RJ), o que aponta para crescimento este ano. Em alta: Mercado de luxo cresce no Rio e dobra participação nos lançamentos imobiliários Apesar dos juros altos, que deveriam esfriar a demanda ao encarecer os imóveis nas compras a prazo, a procura “é resistente, e vai bem mesmo em um momento complexo”, diz Mesquita. Segundo Guilherme Mororó, diretor Comercial e de Marketing da construtora e incorporadora CTV, que foca no Minha Casa, Minha Vida e no médio padrão, “com eventual melhora do cenário de juros, o mercado terá ainda mais espaço para crescer”. Panorama do mercado imobiliário no Rio Editoria de Arte/O Globo Segundo Thiago Lima, sócio da JGP Real Estate, braço imobiliário da gestora, o aquecimento é “seletivo”, mas “o Rio entrou em novo ciclo de lançamentos, impulsionado por mudanças urbanísticas, escassez de terrenos, demanda por locação, turismo e novos programas habitacionais”. Em alta: Estado do Rio bate recorde e chega a 2,19 milhões de turistas internacionais em 2025; capital estima impacto de R$ 12,8 bilhões no verão Parte da demanda tem a ver com o Minha Casa, Minha Vida, cujos juros subsidiados ficam protegidos da alta das taxas de mercado. Mas a mudança no Plano Diretor, incentivos no Porto Maravilha, e o programa Reviver Centro, que favorece a reocupação de edifícios na região, dão um impulso adicional, diz Mesquita. O presidente da Ademi-RJ é presidente da Cury, incorporadora e construtora focada no Minha Casa, Minha Vida, que lançou oito empreendimentos no Rio este ano, num total de 5,4 mil unidades, em bairros como Centro, Ramos, São Cristóvão e Piedade. Mercado imobiliário: imóveis populares, de luxo e estúdios puxam alta de lançamentos no Rio A Tenda, que foca no Minha Casa, Minha Vida, espera crescimento de 30% no volume de lançamentos este ano, com residenciais em São Cristóvão, Cascadura e Tomaz Coelho, diz Alexandre Millen, diretor de Negócios Regional da Tenda. Estúdios e hotelaria Os impulsos do programa habitacional e do turismo convergem numa tendência de imóveis menores, próximos ao transporte público, priorizando áreas comuns de lazer e serviços como lavanderia e academia de ginástica. Segundo a MRV, especializada na moradia popular, os lançamentos recentes têm oferecido cerca de dez opções de “lazer e interação”, e 85% dos projetos têm piscina. — Em junho, um terço das unidades lançadas eram compactas. É o produto que gira mais rápido. Mas compacto não é sinônimo de Airbnb. No Centro e na Região Portuária, cerca de 70% das compras usam FGTS, coisa de quem vai morar — diz Vinicius Benevides, vice-presidente do Sindicato da Indústria da Construção Civil (Sinduscon-Rio). Classe média se aperta, e imóveis de dois quartos compactos puxam vendas do setor Mesquita, da Ademi-RJ e da Cury, vê demanda reprimida, após anos de poucos lançamentos. Combinado com a escassez de terrenos em bairros como Ipanema e Leblon, isso favorece o alto padrão. O Opportunity Imobiliário, braço da gestora que atua na incorporação e operação de projetos, criou, em 2024, a marca Be.in.Rio, de estúdios em endereços estratégicos da Zona Sul. Lançou 11 residenciais da bandeira e prepara o lançamento de mais cinco, conta Marcelo Naidich, gestor do Opportunity Imobiliário, ressaltando que o mercado não está aquecido de “maneira indiscriminada”, mas de forma seletiva, com foco em “localização e qualidade do produto”. Imóveis de luxo: Rio se consolida como segundo maior mercado do país no segmento Para Gabriel Pecly, responsável por Novos Negócios da Balassiano Engenharia, que se concentra em residenciais em Ipanema e no Leblon, “os estúdios ficaram mais de 30 anos impedidos de serem produzidos, e a legislação foi modernizada na última revisão do Plano Diretor”, o que “destravou alavancas”. Initial plugin text Além disso, o Rio está “em alta no Brasil e no mundo”, completa Pecly. O fluxo de turistas está batendo recordes. Em 2025, o Brasil recebeu 9,3 milhões de visitantes estrangeiros, salto de 37% sobre 2024 e recorde da série histórica da Embratur, a agência federal de promoção; e 2,2 milhões deles chegaram pelo Rio. Os estúdios despontam, mas há investimentos em hotelaria. A Glória Participações — holding de investimentos imobiliários que acaba de adquirir o Praia Ipanema, na Avenida Vieira Souto, para instalar um hotel de ultraluxo — tem oito hotéis, no Centro e Copacabana, e investe no mercado carioca desde 2016, fundo do poço da recessão iniciada em 2014. Você é um dos milhões de brasileiros endividados? Ferramenta do GLOBO ajuda a organizar suas contas; confira Os investimentos se sustentam no crescimento do turismo, que começa a se materializar, com promoção de eventos e retomada de voos internacionais no Galeão, diz Daniel Pierro, sócio da Glória: — Sempre acreditamos que a cidade tinha o potencial para ter uma retomada incrível. E estávamos certos. O Rio é a capital de fato internacional, que representa o Brasil. Segundo Pierro, o crescimento do turismo se espalha para o Centro, atraindo visitantes que querem pagar menos na hospedagem, o que combina com as políticas de incentivo à ocupação. Isso já aparece nos escritórios, conta Hilton Rejman, presidente executivo da BGRE no Brasil. Airbnb e outras plataformas de aluguel por temporada no Rio: veja novas regras propostas pela Câmara e pontos polêmicos A empresa — braço da Brookfield que desenvolve e opera os ativos imobiliários da gestora — tem seis edifícios corporativos no Rio: Ventura Corporate Towers, Edifício Manchete, L’Oréal, Sylvio Fraga, Senado e AQWA Corporate. Combinados, têm ocupação agregada de 89%, diz Rejman.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/27/mesmo-com-juro-alto-rio-vive-novo-ciclo-imobiliario-com-25-mil-lancamentos-de-imoveis-em-12-meses.ghtml",
-      "published": "2026-08-27T07:02:41+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "Smart Fit não é mais só academia, e o investidor ainda não entendeu isso, diz CEO",
+      "summary": "Diogo Corona acredita que o desconto na ação vem da falta de compreensão",
+      "url": "https://exame.com/invest/mercados/smart-fit-nao-e-mais-so-academia-e-o-investidor-ainda-nao-entendeu-isso-diz-ceo",
+      "published": "2026-09-03T05:00:18+00:00",
+      "source": "https://exame.com/feed/",
       "matched_sectors": [
-        "Viagens"
+        "Academias"
       ],
       "matched_aliases": [
-        "hotelaria",
-        "turismo"
+        "smart fit"
       ],
       "matches": [
         {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "hotelaria",
-          "field": "lead",
-          "score": 8,
+          "sector": "Academias",
+          "alias": "smart fit",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "Fim da escala 6x1 exigiria 288 mil trabalhadores que a construção não consegue encontrar",
+      "summary": "Enquanto o Congresso Nacional acelera a tramitação da PEC (Proposta de Emenda à Constituição) que extingue a jornada 6x1 , construtoras e incorporadoras acompanham com preocupação os possíveis efeitos da medida sobre cronogramas, custos e contratação de mão de obra. Leia mais (09/03/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/fim-da-escala-6x1-exigiria-288-mil-trabalhadores-que-a-construcao-nao-consegue-encontrar.shtml",
+      "published": "2026-09-03T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Azzas 2154 será dividida e mercado já olha desafio das marcas",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/03/azzas-2154-sera-dividida-e-mercado-ja-olha-desafio-das-marcas.ghtml",
+      "published": "2026-09-03T08:01:58+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "BC reforça lei do repasse no caso que envolve Entrepay e Nubank",
+      "summary": "O Banco Central (BC) se posicionou sobre um impasse que vinha agitando a indústria de pagamentos. Em uma manifestação da Procuradoria-Geral (PGBC), o regulador reforçou o entendimento que fluxos financeiros vinculados a arranjos de pagamento estão sujeitos à chamada Lei do Repasse. Na prática, os lojistas têm preferência em relação a quem eventualmente tenha comprado o recebível (cessionário). Isso envolve o caso do Nubank, que abriu um processo judicial cobrando R$ 74 milhões pelo adiantamento de valores para a Entrepay, liquidada em março. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/financas/noticia/2026/09/03/bc-reforca-lei-do-repasse-no-caso-que-envolve-entrepay-e-nubank.ghtml",
+      "published": "2026-09-03T08:03:35+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "O que tem mais chance de ser aprovado no esforço concentrado do Congresso",
@@ -15584,98 +15947,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "'Temos de ajudar o produtor na conta': a estratégia de R$ 140 bilhões do Sicredi",
-      "summary": "Com o aumento na inadimplência do agro, o Sicredi fica mais criterioso na concessão de crédito e aposta na educação financeira para ampliar a carteira",
-      "url": "https://exame.com/revista-exame/temos-de-ajudar-o-produtor-na-conta",
-      "published": "2026-08-27T06:00:37+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Do pré-sal aos data centers, Rio tem R$ 327,6 bi em investimentos mapeados até 2028",
-      "summary": "Com a indústria petrolífera a pleno valor — acelerando a produção de petróleo e gás nos campos do pré-sal —, importantes obras de infraestrutura em curso, como a das novas pistas de subida da Serra das Araras, na Rodovia Presidente Dutra, e o turismo com recordes no fluxo de visitantes estrangeiros, o que atrai investimentos no mercado imobiliário, o Rio conta com um volume de R$ 327,6 bilhões em investimentos em execução. Firjan: Petróleo deve gerar mais de 1,4 mil empregos no Estado do Rio até o fim de 2027 Projetos: Prefeitura do Rio anuncia pacote de mais de R$ 22 bilhões em investimentos até 2028 O valor é referente ao período entre 2026 e 2028, de acordo com mapeamento feito pela Firjan (Federação das Indústrias do Estado do Rio de Janeiro). O valor sobe para pouco mais de R$ 500 bilhões, se levados em conta investimentos em potencial, que já foram sinalizados em projetos, mas ainda não estão confirmados, afirmou o presidente da entidade, Luiz Césio Caetano. Energia: gargalo global é oportunidade para o Brasil se impor no cenário da inteligência artificial O setor de petróleo e gás, principal atividade econômica do Rio, corresponde a mais de 60% do valor mapeado até 2028. Na lista dos 20 maiores projetos identificados pela Firjan, há destaque para aportes bilionários no desenvolvimento de campos do pré-sal por companhias como Petrobras, Shell e Equinor. Aposta na infraestrutura Outro levantamento da Firjan aponta a infraestrutura logística, a transição energética e o setor de tecnologia, incluindo data centers, como oportunidades em potencial. Foram identificadas nove “fronteiras de desenvolvimento”, áreas em que o Rio pode liderar no futuro, com os setores industriais que serão o motor dessa transformação. Efeito positivo: Brasil deve ser beneficiado por cenário geopolítico no petróleo, diz estudo da Firjan Os nove campos são transição energética, complexo portuário-logístico, indústria química e petroquímica, economia do mar (indústria naval, turismo náutico e bioeconomia marinha), complexo da saúde, complexo aeroespacial e de manutenção de aviões, agroindústria, turismo e economia criativa, e inovação, tecnologia e data centers. Aportes previstos no Rio Editoria de Arte/O Globo Nos planos de investimentos já vigentes, chamam a atenção aportes em curso em infraestrutura, com ênfase na distribuição de energia elétrica e no saneamento básico. Entre os maiores projetos, o destaque nessas áreas são os planos das distribuidoras Light — R$ 8,5 bilhões de 2026 a 2028 — e Enel — R$ 6,1 bilhões, no período. No saneamento, os investimentos da concessionária Águas do Rio, da Aegea, somam R$ 6,2 bilhões no período. — Dentro dos projetos de investimentos em potencial (aqueles do mapeamento que vão além dos R$ 327,6 bilhões em execução) temos, principalmente, a Usina Nuclear de Angra 3. Entendemos que ela é perfeitamente viável — diz Luiz Césio Caetano, presidente da Firjan. Initial plugin text Apesar disso, o dirigente considera os investimentos em transmissão e distribuição de eletricidade ainda mais importantes do que na geração. Isso porque a qualidade da distribuição de eletricidade no Rio preocupa, avalia Caetano, lembrando que a disponibilidade de energia elétrica é requisito para o avanço de uma das potencialidades apontadas no mapeamento da Firjan, os investimentos em data centers. Também há projetos logísticos que ainda se apresentam como gargalos, continua Caetano. Um deles é a construção da nova pista de subida da Serra de Petrópolis, na BR-040 — as obras de um novo túnel, que encurtará o caminho, chegaram a ser iniciadas, mas estão paradas desde 2016, em parte por causa de problemas financeiros da antiga operadora da via, a Concer. Capital: Rio será base de treinamento de guerra cibernética — de infraestrutura a empresas No fim do ano passado, uma nova concessionária assumiu a operação do trecho Rio-Juiz de Fora (MG), assumindo o compromisso de investir R$ 5 bilhões na estrada. O outro gargalo é o EF-118, um trecho ferroviário que está para ser concedido, conectando o norte do Rio à malha ferroviária, incluindo aí o Porto do Açu — megaempreendimento de integração porto-indústria, concebido pelo empresário Eike Batista e hoje operado pela Prumo, do fundo americano EIG. — Precisamos de estabilidade jurídica. Temos muita mudança de regras no meio do caminho — diz Caetano. — Uma mudança de regra no meio do caminho pode inviabilizar um projeto que foi montado dentro de uma estrutura fiscal e de retorno do investimento. Impacto: Insegurança e ilegalidade geram custo de R$ 31,1 bilhões por ano para a economia fluminense; número é equivalente a 2,3% do PIB do estado O mantra da estabilidade sempre é repetido por executivos e consultores especializados no setor de infraestrutura, mas Cláudio Frischtak, presidente da Inter.B Consultoria, vai além. Após décadas de problemas de gestão do governo estadual, o Rio precisa de “bom governo” para concretizar investimentos previstos e atrair novos aportes, capazes de diversificar as oportunidades para além do setor de petróleo e gás. Alto valor agregado Segundo Frischtak, a economia fluminense tem problemas antigos de perda de competitividade, que podem ser revertidos com uma aposta em “serviços de alto valor agregado”, inclusive aqueles da cadeia de petróleo e gás, em pesquisa e desenvolvimento e em logística. — O Rio tem que focar, na minha perspectiva, numa economia de serviços avançados. Não quer dizer que seja somente algo baseado em ciência e tecnologia. Podemos ter serviços avançados de turismo, de infraestrutura — afirma Frischtak. Rodovias vivem 'superciclo' de aportes e obras, mas desafio vai além das concessões Segundo o consultor, aproveitar essas oportunidades passa por uma estabilidade política no governo estadual: — O ponto de partida é uma mudança dramática, radical e profunda na governança do estado. O secretário de Estado de Desenvolvimento Econômico, Roberto Gomides, da equipe do governador interino Ricardo Couto, concorda que o grande desafio nos próximos anos não é a falta de projetos, mas sim a capacidade de executá-los e implementá-los de fato. — Para atrair e reter o capital dos investidores, a estabilidade institucional é prioritária. O planejamento estratégico das secretarias foca na melhoria contínua do ambiente de negócios, para dar previsibilidade jurídica e tranquilidade para quem toma a decisão de investir no Rio — afirma Gomides. O prefeito da capital, Eduardo Cavaliere (PSD), chama a atenção para isso na gestão municipal. Em vídeo publicado este mês, comemorando a obtenção da nota AAA da agência de classificação de risco Fitch Ratings pela cidade do Rio, Cavaliere defendeu o ajuste nas contas da Prefeitura. Veja a lista: Rio prevê investir mais de R$ 1,5 bilhão em obras para reduzir os impactos das chuvas até 2028 Segundo ele, com receitas em alta, despesas “reorganizadas” e contas no azul, o governo municipal tem conseguido investir mais em serviços públicos e, assim, atrair negócios e investimentos privados. — O cuidado com o dinheiro dos cariocas permitiu voltar a investir muito na cidade — disse Cavaliere. — O turismo cresce e novos negócios aparecem. Os dados mostram isso. Com mais atividade econômica, tem mais emprego e renda, e a arrecadação cresce.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/08/27/do-pre-sal-aos-data-centers-rio-tem-r-3276-bi-em-investimentos-mapeados-ate-2028.ghtml",
-      "published": "2026-08-27T07:02:50+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Até 2028, Rio vai receber R$ 327,6 bi em investimentos",
-      "summary": "Os prédios modernos na revigorada Zona Portuária refletem um novo Rio, que conjuga a indústria do petróleo beneficiada pelo pré-sal, grandes projetos de infraestrutura, turismo recorde e mercado imobiliário aquecido Marcia Foleto/ Ag. O Globo De petróleo a turismo, passando por grandes obras, o Rio conta com R$ 327,6 bilhões em investimentos em execução entre 2026 e 2028, segundo mapeamento da Federação das Indústrias do Estado do Rio de Janeiro (Firjan). A indústria petrolífera está a pleno valor, acelerando a produção nos campos do pré-sal, importantes projetos de infraestrutura estão em curso, como as novas pistas de subida da Serra das Araras, na Rodovia Presidente Dutra, e os recordes no fluxo de visitantes estrangeiros na cidade impulsionam novos aportes no mercado imobiliário. O valor sobe para pouco mais de R$ 500 bilhões, se levados em conta investimentos em potencial, que já foram sinalizados em projetos, mas ainda não estão confirmados, diz o presidente da Firjan, Luiz Césio Caetano. O setor de petróleo e gás, principal atividade econômica do Rio, corresponde a mais de 60% do valor mapeado até 2028. Na lista dos 20 maiores projetos identificados pela Firjan, há destaque para aportes bilionários no desenvolvimento de campos do pré-sal por companhias como Petrobras, Shell e Equinor. Outro levantamento da Firjan aponta a infraestrutura logística, a transição energética e o setor de tecnologia, incluindo data centers, como oportunidades em potencial. Foram identificadas nove “fronteiras de desenvolvimento”, áreas em que o Rio pode liderar no futuro, com setores industriais que serão o motor da transformação. Os campos são transição energética, complexo portuário-logístico, indústria química e petroquímica, economia do mar (indústria naval, turismo náutico e bioeconomia marinha), complexo da saúde, complexo aeroespacial e de manutenção de aviões, agroindústria, turismo e economia criativa e inovação, tecnologia e data centers. Nos planos de investimentos já vigentes, chamam a atenção aportes em curso em infraestrutura, com ênfase na distribuição de energia elétrica e no saneamento básico. Entre os maiores projetos, o destaque nessas áreas são os planos das distribuidoras Light e Enel, com R$ 8,5 bilhões e R$ 6,1 bilhões, respectivamente, de 2026 a 2028. No saneamento, os investimentos da concessionária Águas do Rio, da Aegea, somam R$ 6,2 bilhões no período. “Dentro dos projetos de investimentos em potencial (aqueles do mapeamento que vão além dos R$ 327,6 bilhões em execução) temos, principalmente, a Usina Nuclear de Angra 3. Entendemos que ela é perfeitamente viável”, diz Luiz Césio Caetano, presidente da Firjan. Apesar disso, o dirigente considera os investimentos em transmissão e distribuição de eletricidade ainda mais importantes do que na geração. Isso porque a qualidade da distribuição no Rio preocupa, avalia Caetano, lembrando que a disponibilidade de energia elétrica é requisito para o avanço de uma das potencialidades apontadas no mapeamento, os investimentos em data centers. Também há projetos logísticos que ainda se apresentam como gargalos, continua Caetano. Um deles é a construção da nova pista de subida da Serra de Petrópolis, na BR-040. As obras de um novo túnel, que encurtará o caminho, chegaram a ser iniciadas, mas estão paradas desde 2016, em parte por causa de problemas financeiros da antiga operadora da via, a Concer. No fim do ano passado, uma nova concessionária assumiu a operação do trecho Rio-Juiz de Fora (MG), assumindo o compromisso de investir R$ 5 bilhões na estrada. O outro gargalo é o EF-118, um trecho ferroviário que está para ser concedido, conectando o norte do Rio à malha ferroviária, incluindo aí o Porto do Açu - megaempreendimento de integração porto-indústria, concebido pelo empresário Eike Batista e hoje operado pela Prumo, do fundo americano EIG. “Precisamos de estabilidade jurídica. Temos muita mudança de regras no meio do caminho”, diz Caetano. “Mudar regra pode inviabilizar um projeto montado dentro de uma estrutura fiscal e de retorno do investimento.” O mantra da estabilidade sempre é repetido por executivos e consultores especializados no setor de infraestrutura, mas Cláudio Frischtak, presidente da Inter.B Consultoria, vai além. Após décadas de problemas de gestão do governo estadual, o Rio precisa de “bom governo” para concretizar investimentos previstos e atrair aportes, capazes de diversificar as oportunidades para além do setor de petróleo e gás. Precisamos de muita estabilidade jurídica, sem mudar regras” Segundo Frischtak, a economia fluminense tem problemas antigos de perda de competitividade, que podem ser revertidos com uma aposta em “serviços de alto valor agregado”, inclusive aqueles da cadeia de petróleo e gás, em pesquisa e desenvolvimento e em logística. “O Rio tem que focar, na minha perspectiva, numa economia de serviços avançados. Não quer dizer que seja somente algo baseado em ciência e tecnologia. Podemos ter serviços avançados de turismo, de infraestrutura”, afirma Frischtak. Segundo o consultor, aproveitar essas oportunidades passa por uma estabilidade política no governo estadual: “O ponto de partida é uma mudança dramática, radical e profunda na governança do estado.” O secretário de Desenvolvimento Econômico, Roberto Gomides, da equipe do governador interino Ricardo Couto, concorda que o grande desafio nos próximos anos não é a falta de projetos, mas sim a capacidade de executá-los e implementá-los de fato. “Para atrair e reter o capital dos investidores, a estabilidade institucional é prioritária. O planejamento estratégico das secretarias foca na melhoria contínua do ambiente de negócios, para dar previsibilidade jurídica e tranquilidade para quem decide investir no Rio”, afirma Gomides. O prefeito Eduardo Cavaliere (PSD) chama a atenção para isso na gestão municipal. Em vídeo publicado este mês, comemorando a obtenção da nota AAA da agência de classificação de risco Fitch Ratings pela cidade do Rio, Cavaliere defendeu o ajuste nas contas da Prefeitura. Segundo ele, com receitas em alta, despesas “reorganizadas” e contas no azul, o governo municipal tem conseguido investir mais em serviços públicos e, assim, atrair investimentos privados. “O cuidado com o dinheiro dos cariocas permitiu voltar a investir muito na cidade”, disse Cavaliere. “O turismo cresce e novos negócios aparecem. Os dados mostram isso. Com mais atividade econômica, tem mais emprego e renda, e a arrecadação cresce.”",
-      "url": "https://valor.globo.com/publicacoes/especiais/conecta-rio/noticia/2026/08/27/ate-2028-rio-vai-receber-r-3276-bi-em-investimentos.ghtml",
-      "published": "2026-08-27T08:04:10+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Apesar do juro alto, mercado imobiliário no Rio segue aquecido",
-      "summary": "Residencial Ícono Parque, na rua do Pinheiro, no bairro do Flamengo; empreendimento valorizou a região Márcia Foletto O mercado imobiliário do Rio está aquecido, com uma combinação de fatores, segundo especialistas e executivos. Mudanças nas regras de construção, com o novo Plano Diretor da cidade, de 2024, facilitaram projetos residenciais na Zona Norte, no Centro e na Região Portuária, com foco no programa Minha Casa, Minha Vida. Em outro flanco, o turismo aumenta o apetite por projetos de hotelaria e por empreendimentos desenhados para o aluguel por temporada, também facilitados pelo novo Plano Diretor. Em 2024, o número de unidades lançadas disparou 42%, para 21,2 mil, segundo a consultoria Brain Inteligência Estratégica. Ano passado, houve redução de 8% nas unidades lançadas, mas os lançamentos somaram R$ 16,5 bilhões em valor geral de vendas (VGV, um indicador de mercado), salto de 28%. O ano começou com 6,6 mil unidades lançadas, e, no acumulado em 12 meses até junho, foram 25 mil, segundo Leonardo Mesquita, presidente da Associação de Dirigentes de Empresas do Mercado Imobiliário do Rio (Ademi-RJ), o que aponta para crescimento este ano. Apesar dos juros altos, que deveriam esfriar a demanda ao encarecer os imóveis nas compras a prazo, a procura “é resistente, e vai bem mesmo em um momento complexo”, diz Mesquita. Segundo Guilherme Mororó, diretor comercial e de marketing da construtora e incorporadora CTV, que foca no Minha Casa, Minha Vida e no médio padrão, “com eventual melhora do cenário de juros, o mercado terá ainda mais espaço para crescer”. Segundo Thiago Lima, sócio da JGP Real Estate, braço imobiliário da gestora, o aquecimento do mercado é “seletivo”, mas “o Rio entrou em novo ciclo de lançamentos, impulsionado por mudanças urbanísticas, escassez de terrenos, demanda por locação, turismo e novos programas habitacionais”. Parte da demanda tem a ver com o Minha Casa, Minha Vida, cujos juros subsidiados ficam protegidos da alta das taxas enfrentada pelo de mercado. Mas a mudança no Plano Diretor, incentivos no Porto Maravilha e o programa Reviver Centro, que favorece a reocupação de edifícios na região, dão um impulso adicional, diz Mesquita. O presidente da Ademi-RJ é presidente da Cury, incorporadora e construtora focada no Minha Casa, Minha Vida, que lançou oito empreendimentos no Rio este ano, num total de 5,4 mil unidades, em bairros como Centro, Ramos, São Cristóvão e Piedade. A Tenda, que também foca no Minha Casa, Minha Vida, espera crescimento de 30% no volume de lançamentos este ano, com residenciais em São Cristóvão, Cascadura e Tomaz Coelho, diz Alexandre Millen, diretor de negócios regional da construtora. Os impulsos do programa habitacional e do turismo convergem numa tendência de valorização de imóveis menores, em localização próxima ao transporte público, priorizando áreas comuns de lazer e serviços como lavanderia e academia de ginástica. Segundo a MRV, especializada na moradia popular, os lançamentos recentes têm oferecido cerca de dez opções de “lazer e interação”, e 85% dos projetos têm piscina no imóvel. “Em junho, um terço das unidades lançadas eram compactas. É o produto que gira mais rápido. Mas compacto não é sinônimo de Airbnb. No Centro e na Região Portuária, cerca de 70% das compras usam FGTS, coisa de quem vai morar”, diz Vinicius Benevides, vice-presidente do Sindicato da Indústria da Construção Civil (Sinduscon-Rio). Mesquita, da Ademi-RJ e da Cury, vê demanda reprimida, após anos de poucos lançamentos. Combinado com a escassez de terrenos em bairros como Ipanema e Leblon, isso favorece o alto padrão. O Opportunity Imobiliário, braço da gestora que atua na incorporação e operação de projetos, criou em 2024 a marca Be.in.Rio, de estúdios em endereços estratégicos da Zona Sul. Lançou 11 residenciais da bandeira e prepara o lançamento de mais cinco, conta Marcelo Naidich, gestor do Opportunity Imobiliário, ressaltando que o mercado não está aquecido de “maneira indiscriminada”, mas de forma seletiva, com foco em “localização e qualidade do produto”. Para Gabriel Pecly, responsável por novos negócios da Balassiano Engenharia, que se concentra em residenciais em Ipanema e no Leblon, “os estúdios ficaram mais de 30 anos impedidos de serem produzidos, e a legislação foi modernizada na última revisão do Plano Diretor”, o que “destravou alavancas”. Além disso, o Rio está “em alta no Brasil e no mundo”, completa Pecly. O fluxo de turistas está batendo recordes. Em 2025, o Brasil recebeu 9,3 milhões de visitantes estrangeiros, salto de 37% sobre 2024 e recorde da série histórica da Embratur, a agência federal de promoção do país - e 2,2 milhões deles chegaram pelo Rio. Os estúdios despontam, mas há investimentos em hotelaria. A Glória Participações - holding de investimentos imobiliários que acaba de adquirir o Praia Ipanema, na avenida Vieira Souto, para instalar um hotel de ultraluxo - tem oito hotéis no Centro e em Copacabana e investe no mercado carioca desde 2016, fundo do poço da recessão iniciada em 2014. Os investimentos se sustentam no crescimento do turismo, que começa a se materializar, com promoção de eventos e retomada de voos internacionais no Galeão, diz Daniel Pierro, sócio da Glória. “Sempre acreditamos que a cidade tinha o potencial para ter uma retomada incrível. E estávamos certos. O Rio de Janeiro é a capital de fato internacional, que representa o Brasil”, diz Pierro. Segundo o executivo, o crescimento do turismo se espalha para o Centro, atraindo visitantes que querem pagar menos na hospedagem, o que combina com as políticas de incentivo à ocupação. Isso já aparece nos escritórios, conta Hilton Rejman, presidente executivo da BGRE no Brasil. A empresa, braço da Brookfield que desenvolve e opera os ativos imobiliários da gestora, tem seis edifícios corporativos no Rio: Ventura Corporate Towers, Edifício Manchete, L’Oréal, Sylvio Fraga, Senado e AQWA Corporate. Combinados, têm ocupação agregada de 89%, afirma Rejman.",
-      "url": "https://valor.globo.com/publicacoes/especiais/conecta-rio/noticia/2026/08/27/apesar-do-juro-alto-mercado-imobiliario-no-rio-segue-aquecido.ghtml",
-      "published": "2026-08-27T08:04:13+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Varejo recorre a hábitos de compra para conceder crédito",
@@ -16889,6 +17160,29 @@
         {
           "sector": "E-commerce",
           "alias": "mercado livre",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Como a Bananinha Paraibuna cresceu 156% em cinco anos",
+      "summary": "Letícia Paiola quer tornar a Bananinha Paraibuna a mais vendida do país Ana Paula Paiva/Valor A Bananinha Paraibuna faturou R$ 46 milhões em 2025, registrando um crescimento de 156% nos últimos cinco anos. O resultado tem raiz em estratégias como a modernização das embalagens, a adoção do comércio eletrônico e o reforço do posicionamento em produtos com rótulo limpo. Quem está por trás da transformação é Letícia Paiola, neta do fundador e atual diretora de marketing da empresa. Ela participou do primeiro episódio da segunda temporada do podcast “Como eu Cresci”, uma parceria da CBN com o Valor e com Pequenas Empresas & Grandes Negócios, que está disponível no site da CBN e em todos os tocadores de podcast. As conversas são conduzidas por Leandro Gouveia, repórter e apresentador da CBN, e Mariana Iwakura, editora-chefe de PEGN. O programa faz parte da iniciativa “Média é Mais”, sobre empresas de médio porte. Célio Geraldo da Silva começou o negócio em 1975, em Paraibuna, no interior de São Paulo. Alfaiate, ele viu a profissão declinar e resolveu mudar de ofício. “Nos anos 1970, o aumento das lojas de departamento mudou a forma como as pessoas compravam roupas”, conta Paiola. A família, que tinha nas peças elaboradas pelo patriarca seu principal sustento, foi impactada financeiramente. Como a mudança, Célio passou a fabricar doces de frutas, como figo, laranja, goiaba e banana. Os quitutes chegaram à rodovia dos Tamoios, que conecta São José dos Campos a Caraguatatuba, no Litoral Norte. Os restaurantes dessa estrada foram os primeiros grandes clientes. A empresa se especializou nos doces de banana, com e sem açúcar. Mas o negócio enfrentou dificuldades. Paiola cita a enchente em 2001, que alagou a fábrica e ocasionou perda de estoque e maquinário. “A cidade de Paraibuna sofreu. Parte da cidade morreu e renasceu depois dessa enchente. E a Bananinha também”, diz. Mesmo com os desafios, a família persistiu. A sede da empresa, que antes também servia como moradia, hoje é uma fábrica de 4 mil metros quadrados, que processa 15 toneladas de fruta in natura por dia. Paiola entrou na companhia em 2016. Formada em publicidade e propaganda, ela foi convidada pelo pai a analisar documentos do marketing da empresa e aceitou sem imaginar que aquele seria seu novo trabalho. Ao assumir a posição, identificou que os distribuidores eram a principal fonte de receita. Para expandir, investiu na venda online e no contato direto com varejistas. Também passou a explorar a memória da empresa. “A história do avô Célio é muito bonita e se mescla com a da Bananinha”, conta Paiola sobre o fundador, morto em 2007. “Temos uma receita que nunca foi mudada e que até hoje não leva conservantes.” Há 50 anos, o doce de banana é produzido da mesma maneira. Depois de maturadas dentro da própria fábrica, as bananas são descascadas manualmente; as frutas são, então, transformadas em doces, cortados e embalados. Para ajudar a contar essa história, uma das apostas foi reformular as embalagens, sem descaracterizar. A transformação focou no ponto de venda, reforçando que se trata de um quitute totalmente natural. O carro-chefe são as bananinhas sem açúcar, criadas pelo fundador para conhecidos com diabetes. O produto - presente em maratonas e outros eventos esportivos - representa 60% das vendas e tem ganhado espaço com a alta da preocupação com saúde e bem-estar. Atualmente, o portfólio tem produtos como bananinhas com chocolate e com castanhas, e o doce em pequenos pedaços, com licenciamento da Turma da Mônica. Desde 2019, o mix também inclui paçocas. A estratégia de longo prazo é responder rapidamente às mudanças de mercado em busca de resultados positivos. “Para ser a bananinha mais vendida do Brasil, a mais reconhecida, eu não tenho que ter medo de inovação”, diz. “A era das canetas emagrecedoras está mudando completamente o comportamento de consumo no país e no mundo, assim como a inteligência artificial. Precisamos estar ligados o tempo todo e materializar essas transformações. Para mim, a melhor forma de fazer isso é por meio de novos produtos\".",
+      "url": "https://valor.globo.com/empresas/media-e-mais/noticia/2026/09/03/como-a-bananinha-paraibuna-cresceu-156-em-cinco-anos.ghtml",
+      "published": "2026-09-03T08:01:24+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "comércio eletrônico"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
           "field": "lead",
           "score": 8,
           "topic": null
