@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-04T11:45:00.676579+00:00",
-  "count": 589,
-  "new_this_run": 35,
+  "generated_at": "2026-09-04T12:12:52.046992+00:00",
+  "count": 591,
+  "new_this_run": 41,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -1236,53 +1236,6 @@
       "score": 72.0
     },
     {
-      "title": "Grupo SBF estende acordo para continuar distribuindo produtos da Nike no Brasil até 2034",
-      "summary": "O Grupo SBF anunciou nesta sexta-feira (28) que estendeu o acordo para a sua subsidiária Fisia continuar distribuindo produtos da Nike no Brasil até o fim de maio de 2034. O aditamento ao contrato original assinado em 2020 também estabeleceu um mecanismo de renovação contínua, onde as companhias se reunirão anualmente para negociar a prorrogação do contrato por períodos adicionais de um ano. A dinâmica permite ao grupo trabalhar com uma previsibilidade contratual constante de aproximadamente sete anos, em comparação ao horizonte de cerca de cinco anos mantido no modelo anterior. A dona das lojas Centauro destacou que o novo acordo representa um marco para o fortalecimento da parceria comercial, proporcionando maior segurança operacional, estabilidade de longo prazo e alinhamento estratégico para seus negócios. A Fisia atua como distribuidora exclusiva no território brasileiro para calçados, vestuário, acessórios e equipamentos da Nike, além de operar as lojas físicas e o canal de comércio eletrônico da marca no país. Rebecca Maria/Agência O Globo",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/28/grupo-sbf-estende-acordo-para-continuar-distribuindo-produtos-da-nike-no-brasil-at-2034.ghtml",
-      "published": "2026-08-28T11:59:02+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "fisia",
-        "grupo sbf",
-        "nike",
-        "sbf"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "grupo sbf",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "fisia",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "nike",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "sbf",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 68.0
-    },
-    {
       "title": "“Let’s do it”: Grupo SBF estende acordo com a Nike até 2034",
       "summary": "Após o desempenho registrado na Copa do Mundo de 2026 e diante do impacto positivo observado nos últimos cinco anos, o Grupo SBF decidiu estender o acordo que mantém com a Nike. O controlador da Centauro anunciou, na sexta-feira, 28 de agosto, a celebração de um aditamento ao contrato de distribuição firmado com a Nike, [&#8230;] O post &#8220;Let&#8217;s do it&#8221;: Grupo SBF estende acordo com a Nike até 2034 apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/lets-do-it-grupo-sbf-estende-acordo-com-a-nike-ate-2034",
@@ -1655,6 +1608,53 @@
           "alias": "havaianas",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "Shein celebra fim da taxa das blusinhas; indústria têxtil critica",
+      "summary": "A Shein celebrou a aprovação, pelo Congresso Nacional, da Medida Provisória 1.357/2026, que mantém zerado o Imposto de Importação sobre compras internacionais de até US$ 50, a chamada taxa das blusinhas. A proposta foi aprovada pelo Senado nesta quinta-feira, 3, após passar pela Câmara e pela comissão mista, e agora segue para sanção presidencial. Segundo [&#8230;] O post Shein celebra fim da taxa das blusinhas; indústria têxtil critica apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/03/09/2026/ecommerce/shein-celebra-fim-da-taxa-das-blusinhas-industria-textil-critica",
+      "published": "2026-09-03T22:39:56+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "blusinhas",
+        "compras internacionais",
+        "shein",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "compras internacionais",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -5158,11 +5158,89 @@
       "score": 48.0
     },
     {
+      "title": "MP da “taxa das blusinhas” é aprovada na Câmara e vai ao Senado",
+      "summary": "O plenário da Câmara dos Deputados aprovou, nesta quinta-feira, 3, em votação simbólica, a Medida Provisória (MP) da chamada &#8220;taxa das blusinhas&#8221;. O texto zera o imposto de 20% sobre compras internacionais até 50 dólares (cerca de R$ 257) feitas pela internet por meio de remessas postais. Agora, o texto segue para votação no Senado. Segundo o presidente da [&#8230;] O post MP da &#8220;taxa das blusinhas&#8221; é aprovada na Câmara e vai ao Senado apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/03/09/2026/ecommerce/mp-da-taxa-das-blusinhas-e-aprovada-na-camara-e-vai-ao-senado",
+      "published": "2026-09-03T20:46:20+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "blusinhas",
+        "compras internacionais",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "compras internacionais",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Congresso aprova MP que acaba com 'taxa das blusinhas' a um mês das eleições, em vitória para o governo Lula",
       "summary": "O Senado aprovou nesta quinta-feira a medida provisória (MP) do fim da “taxa das blusinhas”, a taxa de 20% sobre compras internacionais de até US$ 50. A inclusão da MP na pauta de votações desta semana passou por um acordo político que envolveu a cúpula do Poder Legislativo e o Palácio do Planalto. A iniciativa faz parte de um pacote eleitoral do presidente Luiz Inácio Lula da Silva, que concorre à reeleição, e avançou a um mês da eleição presidencial. A medida havia sido aprovada pela Câmara mais cedo nesta quinta e agora passa a ser enviada para a sanção presidencial para ter validade permanente. O fim da cobrança é uma das bandeiras eleitorais que o presidente Lula pretende usar na campanha à reeleição. O tema dividiu o Palácio do Planalto em 2025, colocando de um lado o então ministro da Fazenda, Fernando Haddad, que temia o desgaste junto ao setor produtivo, e do outro, o ministro Sidônio Palmeira (Secretaria de Comunicação Social da Presidência, a Secom), que via uma maneira de acenar ao eleitorado ao retirar a taxa. Diante da avaliação que a cobrança desse imposto prejudicava eleitoralmente Lula, a medida foi revertida neste ano, com a edição da MP. O tema voltou a andar agora, às vésperas de perder a validade, após encontro entre Lula e os presidentes do Senado, Davi Alcolumbre (União Brasil-AP), e da Câmara na semana passada, em um movimento de reaproximação política que tem como pano de fundo interesses eleitorais. Após o texto ser aprovado pela Câmara, Hugo Motta fez um discurso em que citou Lula e a aproximação entre o petista e a cúpula do Congresso para a MP avançar. – Essa votação foi resultado do diálogo entre a Câmara, o Senado e o governo federal. E aqui cumprimento o presidente Lula e o presidente Davi Alcolumbre pelo espírito público e pela construção conjunta dos entendimentos que permitiram avançar nesta matéria. Aliados na comissão O governo conseguiu emplacar parlamentares aliados para os principais postos da comissão mista que analisou a MP. O deputado Reginaldo Lopes (PT-MG) foi o presidente do colegiado e a senadora Leila Barros (PDT-DF) a relatora. Os dois parlamentares concorrem à reeleição e apoiam Lula. Após a medida ser aprovada pelo Senado, Leila citou o presidente da República. Ela concorre a senadora no Distrito Federal e é concorrente da ex-primeira-dama Michelle Bolsonaro (PL), também candidata ao cargo. – Quero começar reconhecendo a saudando a iniciativa do presidente Lula. Mais uma vez o governo federal demonstra sua preocupação com aqueles que mais precisam e sua sensibilidade para perceber quando determinadas decisões econômicas repercutem concretamente na vida das pessoas. Por sua vez, enquanto o texto foi analisado pela Câmara, a deputada Bia Kicis (PL-DF), que também é candidata a senadora pelo DF, criticou o governo e a relatora, sua concorrente na disputa. — Eu que estive presente em todas as sessões tentando votar uma medida que pudesse, de fato, aliviar aquelas pessoas que querem fazer suas compras livre de taxa, mas também olhar para a indústria brasileira, vi que a relatora, a senadora Leila, a única coisa que ela fez foi agradar o governo Lula, ao qual ela se alinha. Foi isso que ela fez, um relatório que agrada o governo Lula, engana a população brasileira e oferece uma falsa promessa, uma falsa esperança à indústria nacional. A proposta é considerada um ativo eleitoral pelo petista, que é candidato à reeleição. O principal receio para redução da taxa das blusinhas é a reação do varejo doméstico, que passou a defender a tributação como forma de equilibrar a concorrência com plataformas estrangeiras Após reuniões com a equipe econômica do governo e representantes do setor produtivo, a relatora decidiu fazer mudanças no texto da MP para regulamentar uma revisão periódica de impactos à indústria. O relatório define que os efeitos da mudança serão avaliados, inicialmente, em um período de até três meses e depois de até seis meses. Caberá ao governo apresentar alternativas para diminuir os reflexos dessa medida junto à indústria brasileira. A reavaliação periódica dos impactos da medida não irá interferir na isenção das compras internacionais de até US$ 50, incluiria, no entanto, medidas compensatórias ao mercado doméstico. Além disso, a relatora fez outra mudança para incluir isenção total para importação de medicamentos, que não tenham similar nacional, por pessoas físicas que tenham doenças raras. Diversos setores, em especial o varejo, se posicionam contra o fim da taxa sob o argumento de concorrência desleal com a invasão de importados, sobretudo, chineses. A Confederação Nacional das Indústrias (CNI) divulgou uma nota em que disse que \"o fim da chamada taxa das blusinhas significa vantagem concedida para indústrias estrangeiras em detrimento do setor produtivo nacional\". Da mesma forma, a Federação das Indústrias do Estado de Minas Gerais também se posicionou contra \"A Federação das Indústrias do Estado de Minas Gerais (FIEMG) avalia que o fim da tributação sobre remessas internacionais de baixo valor, conhecida como taxa das blusinhas, é uma medida eleitoreira e representa um retrocesso no equilíbrio da concorrência entre produtos nacionais e importados\". Sem benefício para os Correios A votação pela comissão mista foi adiada duas vezes. Inicialmente a análise estava prevista para a segunda-feira, depois foi marcada para terça e posteriormente remarcada para quarta-feira. Um dos impasses no texto envolvia a possibilidade de obrigar empresas beneficiadas pelo fim da chamada \"taxa das blusinhas” a transportarem encomendas pelos Correios, em uma tentativa de dar uma sobrevida à estatal, que tem registrado prejuízos recordes nos últimos meses. A inclusão da exclusividade dos Correios provocou resistência entre parte dos parlamentares, que são contra criar um monopólio para a empresa estatal. O presidente da comissão, Reginaldo Lopes, disse que essa mudança não foi incluída porque a medida precisaria de uma alteração na Constituição. O colegiado já havia sido instalado no início de agosto, mas sem a definição dos principais postos. A MP estava travada e corria o risco de perder a validade sem ser votada devido à falta de acordo. Após reunião entre Lula, Alcolumbre e Motta na semana passada, foi fechado um entendimento para ela ser votada antes da data limite, prevista para o dia 8 de setembro. Nas últimas semanas, Lula se reconciliou com o presidente do Senado. Os dois estavam afastados desde a rejeição pelo Senado da indicação do advogado-geral da União, Jorge Messias, para o Supremo Tribunal Federal (STF). O termo \"taxa das blusinhas\", que a MP quer dar fim, é utilizado para se referir ao programa Remessa Conforme, criado para viabilizar a cobrança do Imposto de Importação de 20% sobre compras internacionais de até US$ 50. Antes, na prática, a taxa estava zerada. Para compras acima de US$ 50, segue valendo o imposto de 60%. A retomada do debate ocorre em um contexto de pressão sobre o custo de vida e de tentativa do Palácio do Planalto de melhorar a percepção de renda da população. O debate ganha tração em um contexto no qual o governo também trabalha em medidas para reduzir o custo de crédito e o comprometimento de renda da população com dívidas.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/03/congresso-aprova-mp-do-fim-da-taxa-das-blusinhas.ghtml",
       "published": "2026-09-03T21:09:25+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "blusinhas",
+        "compras internacionais",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "compras internacionais",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Senado aprova MP que põe fim à taxa das blusinhas",
+      "summary": "O Plenário do Senado aprovou nesta quinta-feira, 3, a medida provisória que põe fim à chamada taxa das blusinhas. A MP 1.357/2026 zera o Imposto de Importação sobre compras internacionais de até US$ 50. A proposta já havia sido aprovada pela comissão mista, na quarta-feira, 2, e pelo Plenário da Câmara, na tarde desta quinta. [&#8230;] O post Senado aprova MP que põe fim à taxa das blusinhas apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/03/09/2026/ecommerce/senado-aprova-mp-que-poe-fim-a-taxa-das-blusinhas",
+      "published": "2026-09-03T22:24:04+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
       "matched_sectors": [
         "E-commerce"
       ],
@@ -5251,53 +5329,6 @@
         }
       ],
       "score": 46.0
-    },
-    {
-      "title": "Inadimplência das famílias sobe e bate recorde em julho, diz Banco Central",
-      "summary": "A inadimplência das famílias registrou recorde em julho, segundo dados do Banco Central divulgados nesta sexta-feira. Subiu de 5,4% em junho para 5,8%, o maior patamar desde março de 2011. O aumento ocorre mesmo sob o funcionamento do Desenrola 2.0, lançado no quinto mês do ano pelo governo federal para propiciar a renegociação de dívidas das famílias com juros mais baratos No crédito livre, modalidades em que os juros são pactuados livremente entre o banco e o tomador do empréstimo, o número é ainda maior, passou de 7,4% para 7,8% – também a maior taxa da série histórica. Da mesma forma, a inadimplência pessoa física foi recorde no crédito direcionado, com alta de 3% para 3,4%. O comportamento das famílias influenciou a inadimplência geral, que também alcançou o maior nível da série histórica em julho, de 4,9%, contra 4,6% em julho. No crédito livre, foi a 6,4%, de 6,0% em junho, e no direcionado, a 2,9% ante 2,7%. No caso das empresas, a inadimplência também subiu no crédito livre, de 4,0% para 4,2%, e no direcionado, de 2,0% para 2,1%. No geral, aumentou de 3,2% para 3,3%. Nenhum dos percentuais para pessoas jurídicas foi recorde, no entanto. Em outra frente, o comprometimento das famílias com o pagamento de dívidas continuou subindo em junho e alcançou um novo recorde da série histórica iniciada em março de 2011. O indicador que mede o percentual do orçamento mensal que é usado para pagar as parcelas das dívidas subiu de 28,5% em maio para 28,9% em junho. Sem considerar o financiamento imobiliário, o comprometimento de renda cresceu de 26,2% para 26,6%. Já o endividamento das famílias, que mede qual é o percentual total de dívidas em relação à renda geral, cedeu marginalmente em junho, de 49,9% para 49,8%, mantendo-se, porém, em patamares elevados considerando a média histórica. Sem o crédito habitacional, o percentual caiu de 31,1% para 30,8%. Os indicadores de endividamento e comprometimento de renda têm defasagem de dois meses em relação ao período da divulgação. Esses números aumentam a preocupação com o mercado de crédito do país, na mira dos bancos, de especialistas e das autoridades. No campo empresarial, tem se acumulado notícias sobre recuperações judiciais e extrajudiciais. Além dos programas de renegociação de dívidas já lançados pelo governo, o Banco Central também anunciou que prepara medidas para mitigar o risco de crédito, sobretudo considerando a composição de modalidades onerosas na dívida das famílias diante do comprometimento de renda recorde. Diante da queda gradual da taxa Selic, que baliza as demais taxas de mercado, e em meio ao Desenrola, o juro médio no crédito total caiu de 33,3% ao ano em junho para 32,1% ao ano em julho. No crédito livre, a redução foi de 49,7% para 47,7% ao ano, enquanto no direcionado houve recuo marginal de 12,2% para 12,1%. No crédito livre para famílias, a queda foi de 63,9% para 60,0%, mas, para as empresas, houve alta de 24,3% para 25,4%. Por modalidades, no crédito livre a pessoas físicas, a taxa média do rotativo do cartão de crédito também caiu, mas continuou acima de 400% ao ano, foi de 442,4% em junho para 436,2% em julho (cerca de 15% ao mês para 14,9% ao mês). No parcelado do cartão, a redução foi de 191,4% ao ano para 189,3% ao ano. Já no cheque especial, a queda foi de 139,9% para 137,3%. O recuo do juro médio no crédito pessoal sem garantia foi de 149,5% para 130,1%. Essas modalidades são alvo do Desenrola para famílias. A concessão de crédito total em julho caiu 1,6% ante junho, para R$ 736,8 bilhões. No crédito livre, a queda foi de 1,9%, para R$ 656,1 bilhões. Nesse segmento, houve aumento de 6,1% para os desembolsos para famílias, alcançando R$ 359,3 bilhões, e queda de 10% para as empresas, atingindo R$ 296,9 bilhões. No crédito direcionado, as concessões totais subiram 1,0% em julho, para R$ 80,7 bilhões, com redução de 0,2% para famílias (R$ 47,1 bilhões) e aumento de 2,4% para empresas (R$ 33,5 bilhões).",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/08/28/comprometimento-de-renda-das-familias-com-dividas-sobe-a-298percent-em-junho-e-bate-recorde-diz-banco-central.ghtml",
-      "published": "2026-08-28T12:06:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "dívidas das famílias",
-        "inadimplência",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "dívidas das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 44.0
     },
     {
       "title": "Comércio, serviço e turismo lançam campanha para adiar votação da PEC do fim da escala 6x1",
@@ -8277,6 +8308,37 @@
       "score": 40.0
     },
     {
+      "title": "Nike, Adidas e Asics oferecem descontos sobre descontos na rede Outlet Premium",
+      "summary": "A General Shopping e Outlets do Brasil anuncia a realização da segunda edição da campanha Etiqueta Dourada em toda a rede Outlet Premium, nos dias 11, 12 e 13 de setembro, com a participação de marcas como Nike, Adidas, Asics, Boss, Lacoste e Fila, que oferecerão descontos sobre descontos. Os empreendimentos participantes são: Outlet Premium [&#8230;] O post Nike, Adidas e Asics oferecem descontos sobre descontos na rede Outlet Premium apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/03/09/2026/noticias-varejo/nike-adidas-e-asics-oferecem-descontos-sobre-descontos-na-rede-outlet-premium",
+      "published": "2026-09-03T20:01:43+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "adidas",
+        "nike"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "adidas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado - exame.com",
       "summary": "Câmara aprova MP que acaba com a Taxa das Blusinhas; texto vai ao Senado &nbsp;&nbsp; exame.com",
       "url": "https://exame.com/brasil/camara-aprova-mp-que-acaba-com-a-taxa-das-blusinhas-texto-vai-ao-senado",
@@ -9297,37 +9359,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "MPF e Receita realizam operação contra sonegação e lavagem de dinheiro relacionadas a bets",
-      "summary": "O Ministério Público Federal (MPF) e a Receita Federal deflagraram nesta sexta-feira a Operação Jogo de Sombras para apurar supostos crimes de sonegação fiscal, evasão de divisas e lavagem de dinheiro relacionados à exploração de apostas de quota fixa (bets). A investigação tem como foco um grupo empresarial responsável pela exploração de plataforma de apostas esportivas que teria movimentado mais de R$ 5 bilhões apenas no ano de 2025. Segundo o MPF, por determinação judicial, são cumpridos seis mandados de busca e apreensão nos municípios de João Pessoa (PB), Recife (PE) e São Paulo (SP), além da apreensão de bens e valores. Conduzida pelo Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do MPF, a investigação aponta que as supostas irregularidades tributárias e financeiras teriam ocorrido tanto antes quanto após a regulamentação do setor de apostas de quota fixa no Brasil. \"De acordo com os elementos reunidos até o momento, os investigados teriam constituído uma empresa de fachada em Curaçao com o objetivo de simular que a operação da plataforma ocorria fora do país em período anterior à regulamentação do segmento. As investigações indicam, contudo, que empresas nacionais vinculadas ao grupo seriam as verdadeiras responsáveis pela operacionalização das atividades no Brasil\", informou a MPF. Ainda forma identificados indícios da utilização de instituições de pagamento e de operações financeiras estruturadas para a movimentação de recursos entre o Brasil e o exterior. Parte desses valores teria retornado posteriormente ao país sob a forma de pagamentos por prestação de serviços, em possível mecanismo destinado a justificar a repatriação de recursos anteriormente enviados ao exterior. \"As apurações revelaram ainda a possível utilização de contas bolsão mantidas em fintechs para dificultar o rastreamento da circulação dos recursos e a identificação de seus beneficiários finais\", explicou o MPF. Embora o grupo investigado tenha obtido autorização para atuação no segmento a partir de 2025, há indícios de que a exploração da atividade já ocorria anteriormente em território nacional, sem autorização e sem o recolhimento dos tributos devidos. As investigações também buscam esclarecer se os recursos utilizados para o pagamento da outorga tiveram origem em atividades desenvolvidas antes da regulamentação do setor. Segundo o MPF, as investigações apontam ainda possíveis irregularidades praticadas após a entrada em vigor do novo marco regulatório das apostas de quota fixa. Conforme os elementos apurados, parte das estruturas utilizadas anteriormente teria sido adaptada para continuar viabilizando mecanismos de sonegação fiscal. Entre os fatos investigados está a declaração ao Fisco de despesas supostamente fictícias, com potencial impacto na redução indevida dos tributos devidos a partir do ano-calendário de 2025. Bruno Peres/Agência Brasil",
-      "url": "https://valor.globo.com/brasil/noticia/2026/08/28/mpf-e-receita-realizam-operao-contra-sonegao-e-lavagem-de-dinheiro-relacionadas-a-bets.ghtml",
-      "published": "2026-08-28T11:50:15+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas esportivas",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas esportivas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Receita estima lançar R$ 300 milhões em tributos contra grupo investigado por operação com bets",
@@ -10793,98 +10824,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Dona da Keeta volta ao lucro no 2º trimestre após guerra de preços na China",
-      "summary": "A Meituan voltou ao lucro no segundo trimestre, à medida que a principal empresa de entrega de comida da China se recupera de uma violenta guerra de preços no segundo maior mercado consumidor do mundo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/08/28/dona-da-keeta-volta-ao-lucro-no-2o-trimestre-apos-guerra-de-precos-na-china.ghtml",
-      "published": "2026-08-28T11:46:33+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Laboratório clandestino de canetas emagrecedoras - G1",
-      "summary": "Laboratório clandestino de canetas emagrecedoras &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/sc/santa-catarina/videos-bom-dia-santa-catarina/video/laboratorio-clandestino-de-canetas-emagrecedoras-14909341.ghtml",
-      "published": "2026-08-28T11:52:36+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Jeff Bezos lo arriesgó todo a los 30 años y creó Amazon - iProUP",
-      "summary": "Jeff Bezos lo arriesgó todo a los 30 años y creó Amazon &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/economia-digital/69680-jeff-bezos-lo-arriesgo-todo-a-los-30-anos-y-creo-amazon",
-      "published": "2026-08-28T12:02:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Inadimplência das operações de crédito sobe 4,9% em julho e atinge o maior patamar desde 2011",
-      "summary": "A inadimplência média das operações de crédito subiu de 4,6% em junho para 4,9% em julho. Atingiu o maior patamar da série histórica, iniciada em 2011. Os dados foram divulgados pelo Banco Central (BC) nesta sexta-feira (28). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/financas/noticia/2026/08/28/inadimplencia-das-operacoes-de-credito-sobe-49percent-em-julho-e-atinge-o-maior-patamar-desde-2011.ghtml",
-      "published": "2026-08-28T12:11:32+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Dois sócios da Advent entram no conselho da Natura",
@@ -15836,6 +15775,29 @@
       "score": 20.0
     },
     {
+      "title": "CEO da Chilli Beans diz estar em negociações com parceiros após notícia sobre recuperação judicial",
+      "summary": "A Chilli Beans está avançando nas negociações com parceiros e trabalhando para fortalecer sua estrutura financeira. A declaração foi feita pelo fundador e CEO da companhia, Caito Maia, em vídeo divulgado nas redes sociais após notícias sobre a situação financeira da empresa, que estaria supostamente analisando um pedido de recuperação judicial. Segundo Maia, a companhia [&#8230;] O post CEO da Chilli Beans diz estar em negociações com parceiros após notícia sobre recuperação judicial apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/03/09/2026/noticias-varejo/ceo-da-chilli-beans-diz-estar-em-negociacoes-com-parceiros-apos-noticia-sobre-recuperacao-judicial",
+      "published": "2026-09-03T21:25:32+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "chilli beans"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "chilli beans",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Apostas Online e o Capital Feminino Que o Mercado Financeiro Perde Diariamente",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. 72% das mulheres não investem, mas 34% dos apostadores online são mulheres. Entenda por que o capital feminino escapa do mercado financeiro e vai para apostas O post Apostas Online e o Capital Feminino Que o Mercado Financeiro Perde Diariamente apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-money/2026/09/apostas-online-e-o-capital-feminino-que-o-mercado-financeiro-perde-diariamente",
@@ -16012,6 +15974,29 @@
         {
           "sector": "Eletrônicos",
           "alias": "eletrodomésticos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Skechers muda estratégia no Brasil e prevê chegar a 100 lojas próprias",
+      "summary": "Terceira maior marca de calçados do mundo, com faturamento previsto de mais de US$ 10,5 bilhões neste ano, a Skechers planeja ampliar sua presença no Brasil e chegar a 100 lojas próprias nos próximos anos. Com cinco lojas instaladas nos estados de São Paulo, Rio de Janeiro e Minas Gerais, a companhia pretende dobrar sua [&#8230;] O post Skechers muda estratégia no Brasil e prevê chegar a 100 lojas próprias apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/04/09/2026/noticias-varejo/skechers-muda-estrategia-no-brasil-e-preve-chegar-a-100-lojas-proprias",
+      "published": "2026-09-04T06:04:35+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "skechers"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "skechers",
           "field": "title",
           "score": 20,
           "topic": null
@@ -16219,6 +16204,52 @@
         {
           "sector": "Fashion",
           "alias": "renner",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Armani abre janela para venda de participação e prepara novo plano de negócios",
+      "summary": "Um ano após a morte de seu fundador, Giorgio Armani, a casa de moda italiana homônima entra em um período decisivo com a abertura do prazo previsto para a venda de uma participação do negócio, após passar os últimos doze meses concentrada no alinhamento de sua governança corporativa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/04/armani-abre-janela-para-venda-de-participacao-e-prepara-novo-plano-de-negocios.ghtml",
+      "published": "2026-09-04T11:44:04+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "armani"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "armani",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Empréstimos caros via fintechs explodem na Argentina em meio a inadimplência em nível recorde",
+      "summary": "Quando as autoridades de trânsito apreendem a moto de um entregador em Buenos Aires, retomar o trabalho pode depender da contratação de empréstimos digitais de alto custo, alimentando um ciclo de dívidas que prende cada vez mais os trabalhadores de aplicativos — dos quais dependem para obter renda — a essas próprias plataformas. Albert Quintero, um entregador de 41 anos, ganha em média 70 mil pesos (US$ 46) por dia fazendo entregas de refeições. No entanto, recuperar uma moto apreendida pode custar cerca de 140 mil pesos (US$ 90) em multas e taxas — uma conta que, segundo ele, muitos trabalhadores não conseguem pagar sem recorrer a empréstimos. Mais trabalhadores de aplicativos estão recorrendo a empréstimos de fintechs, incluindo créditos oferecidos pelas próprias plataformas de entrega para as quais trabalham, apesar das taxas de juros que frequentemente atingem três dígitos. Aplicativos como o PedidosYa oferecem empréstimos aos entregadores com uma taxa anual de 131%, enquanto a carteira digital Personal Pay cobra cerca de 170%. \"Há muitos que não têm o dinheiro\", disse Quintero, e por isso acabam se endividando. Enquanto as famílias na Argentina enfrentam o aumento do custo de vida e preocupações com o emprego, os aplicativos de fintechs estão se tornando uma importante fonte de crédito. Eles também oferecem, cada vez mais, um panorama de como trabalhadores e famílias estão lidando com a reformulação econômica promovida pelo presidente Javier Milei, que inclui reformas de austeridade que pressionaram ainda mais as famílias argentinas, já sob tensão financeira. O setor de empréstimos via fintechs no país cresceu 20 vezes, atingindo 10 milhões de empréstimos individuais, em comparação com 500 mil empréstimos há seis ou sete anos, segundo Mariano Biocca, diretor executivo da Câmara Argentina de Fintechs, uma associação do setor. Esse crescimento ocorre no momento em que as reformas de Milei começam a remodelar o sistema financeiro da Argentina. Durante anos, a inflação galopante, as recessões recorrentes e as crises da dívida soberana desestimularam a concessão de empréstimos. À medida que a inflação desacelerou e a estabilidade econômica melhorou, bancos e plataformas digitais passaram a emprestar mais; simultaneamente, medidas de austeridade do governo — como cortes de subsídios — comprimiram os orçamentos familiares, aumentando a demanda por crédito. Dificuldade para pagar Estimativas compiladas pela Câmara de Fintechs mostram que quase 6 milhões de pessoas estão com pagamentos atrasados ​​há mais de 90 dias — o que representa quase um terço de todos os tomadores de empréstimo. O índice de inadimplência das famílias subiu para 12,8% em junho, o nível mais alto desde o início dos registros em 2010, segundo dados do Banco Central; o patamar anterior era de 2,8% quando Milei assumiu o cargo, no final de 2023. Analistas afirmam que essa mudança vai além da economia. Tomadores de crédito que se acostumaram a ver a inflação corroer o valor real de suas dívidas agora enfrentam taxas de juros reais fortemente positivas — muitas vezes na casa dos três dígitos —, o que encarece o pagamento dos empréstimos. Um relatório da consultoria Analytica apontou que os jovens são os mais afetados pela inadimplência. \"Eles conseguem dinheiro fácil em carteiras digitais, mas não percebem os juros que estão pagando\", disse Enrique Tobani, que participou de um protesto em agosto, em frente ao Ministério da Economia em Buenos Aires, exigindo alívio da dívida. \"Qualquer vizinho, familiar ou trabalhador com quem você converse — todos estão passando pela mesma situação\", afirmou Tobani. Pedidos de alívio da dívida Até o momento, o governo Milei tem resistido aos apelos de sindicatos, consumidores e grupos de defesa de direitos por um alívio da dívida apoiado pelo Estado, tratando o aumento do endividamento das famílias, em grande parte, como uma questão entre partes privadas. Autoridades descreveram os empréstimos não pagos como uma consequência temporária dos esforços para expandir o mercado de crédito privado da Argentina — que, representando 12% do PIB, permanece muito abaixo dos cerca de 80% registrados pelo vizinho Brasil. Na semana passada, autoridades brasileiras manifestaram preocupações semelhantes quanto ao aumento do endividamento das famílias, impulsionado por produtos de crédito caros e critérios de concessão de empréstimos pouco rigorosos. Com as preocupações em relação ao emprego na Argentina superando agora a inflação nas pesquisas de opinião pública, analistas afirmam que o endividamento pessoal pode se tornar um problema político para Milei antes das eleições de 2027. \"Uma situação externa mais sólida não lhe garantirá sucesso na campanha de 2027 se o endividamento das famílias, o consumo fraco e a precariedade do emprego continuarem a marcar o cotidiano\", afirmou Mariano Machado, da consultoria de risco Verisk Maplecroft. Embora a inflação tenha desacelerado, muitos apontam que a renda não acompanhou a alta do custo de vida, obrigando as famílias a dependerem mais do crédito para cobrir despesas do dia a dia. Segundo Biocca, fintechs têm concedido crédito a pessoas sem renda estável ou emprego formal. \"Eles exigem requisitos rigorosos demais\", disse Marcelo De Mattei, entregador de 44 anos, referindo-se aos bancos tradicionais. Ele trabalha com entregas para complementar a renda, ganhando cerca de 13 dólares por dia. Grupos bancários e fintechs estão defendendo a redução de impostos sobre empréstimos para diminuir os custos de crédito. A associação bancária ABAPPRA propôs, em 28 de agosto, alterações nas normas do Banco Central que concederiam aos credores maior flexibilidade na classificação de mutuários inadimplentes e no tratamento contábil de empréstimos em atraso. Durante o protesto em Buenos Aires, Oriana Fernández, do grupo de defesa de direitos \"Devedores Organizados\", afirmou que os empréstimos têm se tornado, cada vez mais, um meio de sobrevivência. \"Observamos que as pessoas estão se endividando para suprir suas necessidades básicas e arcar com despesas do dia a dia\", disse ela.",
+      "url": "https://valor.globo.com/financas/noticia/2026/09/04/emprstimos-caros-via-fintechs-explodem-na-argentina-em-meio-a-inadimplncia-em-nvel-recorde.ghtml",
+      "published": "2026-09-04T12:07:42+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
           "field": "title",
           "score": 20,
           "topic": null
@@ -18298,6 +18329,29 @@
         {
           "sector": "Economia",
           "alias": "bolsa família",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Agentes de IA devem assumir etapas de busca, comparação e compra, aponta estudo",
+      "summary": "O próximo grande desafio do varejo digital pode não ser conquistar mais cliques, mas ser escolhido sem que o consumidor sequer visite o site da marca. É essa uma das mudanças estruturais apontadas pelo estudo &#8220;Futuros Conversacionais 2027 e 2028&#8221;, realizado pela WGSN e pela Blip. Segundo o estudo, a evolução da Inteligência Artificial deve [&#8230;] O post Agentes de IA devem assumir etapas de busca, comparação e compra, aponta estudo apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/04/09/2026/inovacao/agentes-de-ia-devem-assumir-etapas-de-busca-comparacao-e-compra-aponta-estudo",
+      "published": "2026-09-04T06:01:00+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "varejo digital"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "varejo digital",
           "field": "lead",
           "score": 8,
           "topic": null
