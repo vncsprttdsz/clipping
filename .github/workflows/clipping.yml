@@ -148,13 +148,52 @@ jobs:
         run: |
           git config user.name "clipping-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
           git add data/articles.json
           if git diff --staged --quiet; then
             echo "Sem novidades."
-          else
-            # Pull com rebase antes do push protege contra caso extremo
-            # de runs concorrentes (mesmo com concurrency group).
-            git commit -m "Clipping $(date -u +'%Y-%m-%d %H:%M UTC')"
-            git pull --rebase origin main || true
-            git push
+            exit 0
           fi
+
+          # Corrida de runs concorrentes.
+          #
+          # A versao antiga fazia "git pull --rebase origin main || true" e
+          # depois push. Quando o outro run ja tinha publicado, o rebase dava
+          # CONFLICT em data/articles.json, o "|| true" engolia o erro e o
+          # push rodava com o repo em rebase pela metade, em detached HEAD:
+          #   fatal: You are not currently on a branch  -> exit 128
+          # Foi o que derrubou o run 797 em 04/set. A ancora tornou isso
+          # frequente: ela segura o slot de concorrencia por ~66 min, entao
+          # os runs represados saem em sequencia e publicam com minutos de
+          # diferenca, partindo de bases diferentes.
+          #
+          # Rebase e a ferramenta errada aqui. data/articles.json e ARTEFATO
+          # GERADO, nao codigo: nao existe "juntar as duas versoes", existe
+          # decidir qual publicar. Politica: a nossa vence, porque foi gerada
+          # depois e o proprio clipping.py ja faz merge incremental com a
+          # base. Reaplicamos o arquivo sobre o main mais novo e publicamos.
+          ARQ="$RUNNER_TEMP/gerado.json"
+          cp data/articles.json "$ARQ"
+
+          for tentativa in 1 2 3; do
+            git commit -q -m "Clipping $(date -u +'%Y-%m-%d %H:%M UTC')"
+
+            if git push origin HEAD:main; then
+              echo "Publicado na tentativa $tentativa."
+              exit 0
+            fi
+
+            echo "Push rejeitado: outro run publicou antes. Reaplicando sobre o main mais novo."
+            git fetch origin main
+            git reset --hard origin/main
+            cp "$ARQ" data/articles.json
+            git add data/articles.json
+
+            if git diff --staged --quiet; then
+              echo "O run concorrente publicou conteudo equivalente. Nada a fazer."
+              exit 0
+            fi
+          done
+
+          echo "Nao foi possivel publicar apos 3 tentativas."
+          exit 1
