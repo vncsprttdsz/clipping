@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T06:05:13.514359+00:00",
+  "generated_at": "2026-09-06T09:13:11.288516+00:00",
   "count": 591,
-  "new_this_run": 8,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -3063,6 +3063,45 @@
         {
           "sector": "E-commerce",
           "alias": "blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Semavy, nova caneta de semaglutida nacional, chega hoje às farmácias do país; saiba o preço e descontos - VEJA",
+      "summary": "Semavy, nova caneta de semaglutida nacional, chega hoje às farmácias do país; saiba o preço e descontos &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/semavy-nova-caneta-de-semaglutida-nacional-chega-hoje-as-farmacias-do-pais-saiba-o-preco-e-descontos",
+      "published": "2026-09-04T14:18:18+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "farmácias",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
           "field": "title",
           "score": 20,
           "topic": null
@@ -10440,98 +10479,6 @@
       "score": 22.0
     },
     {
-      "title": "Pediatras alertam para uso de canetas emagrecedoras por crianças e adolescentes e apontam riscos - G1",
-      "summary": "Pediatras alertam para uso de canetas emagrecedoras por crianças e adolescentes e apontam riscos &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/bom-dia-brasil/noticia/2026/08/30/pediatras-alertam-para-uso-de-canetas-emagrecedoras-por-criancas-e-adolescentes-e-apontam-riscos.ghtml",
-      "published": "2026-08-30T07:01:22+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Capital das Bets: o que faz o Rio de Janeiro ser a cidade com mais apostadores do Brasil? - O GLOBO",
-      "summary": "Capital das Bets: o que faz o Rio de Janeiro ser a cidade com mais apostadores do Brasil? &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/rio/noticia/2026/08/30/capital-das-bets-o-que-faz-o-rio-de-janeiro-ser-a-cidade-com-mais-apostadores-do-brasil.ghtml",
-      "published": "2026-08-30T07:30:22+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Queda sustentável da inadimplência depende da melhora do quadro fiscal, diz economista da Serasa",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/queda-sustentavel-da-inadimplencia-depende-da-melhora-do-quadro-fiscal-diz-economista-da-serasa",
-      "published": "2026-08-30T08:30:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras desafiam indústria de alimentos, mostra estudo - CNN Brasil",
-      "summary": "Canetas emagrecedoras desafiam indústria de alimentos, mostra estudo &nbsp;&nbsp; CNN Brasil",
-      "url": "https://www.cnnbrasil.com.br/economia/money/macroeconomia/canetas-emagrecedoras-desafiam-industria-de-alimentos-mostra-estudo",
-      "published": "2026-08-30T09:00:52+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Morango cravejado: novo doce viral explode no iFood, cresce 350 vezes e já tem receita; aprenda - Estadão",
       "summary": "Morango cravejado: novo doce viral explode no iFood, cresce 350 vezes e já tem receita; aprenda &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/paladar/comida/morango-cravejado-receita-do-doce-viral-que-explodiu-no-ifood",
@@ -15640,29 +15587,6 @@
       "score": 20.0
     },
     {
-      "title": "PV questiona regras de fiscalização do IBS na LC 227, que regulamentou a reforma",
-      "summary": "Para o partido, a lei complementar extrapola a função regulamentadora e invade a esfera de autonomia constitucionalmente assegurada",
-      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/pv-questiona-regras-de-fiscalizacao-do-ibs-na-lc-227-que-regulamentou-a-reforma",
-      "published": "2026-09-05T12:55:42+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "ibs"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Proibidos no Brasil, vapes impulsionam alta nas apreensões de contrabando",
       "summary": "O valor dos vapes ou cigarros eletrônicos apreendidos pela Receita Federal cresceu exponencialmente nos últimos anos, embora esses produtos sejam proibidos no Brasil desde 2009 por decisão da Anvisa (Agência Nacional de Vigilância Sanitária). Leia mais (09/05/2026 - 11h00)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/09/proibidos-no-brasil-vapes-impulsionam-alta-nas-apreensoes-de-contrabando.shtml",
@@ -15796,6 +15720,75 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Entenda qual é o medicamento experimental que Lito Sousa será o primeiro a testar contra doença rara",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) autorizou nesta sexta-feira (4), a importação excepcional de um medicamento experimental para o influenciador Lito Sousa, diagnosticado com a doença de Creutzfeldt-Jakob (DCJ), enfermidade rara, rápida e sem cura conhecida. A substância, chamada ALN-6457, é desenvolvida pela farmacêutica americana Regeneron Pharmaceuticals e ainda não foi testada formalmente em seres humanos para o tratamento da doença priônica. Sem registro comercial ou representante legal no Brasil, o produto teve de ser liberado por um rito excepcional. O pedido foi apresentado pelo Hospital Israelita Albert Einstein, responsável pelo acompanhamento de Lito, após o influenciador ser aceito em um programa de uso compassivo — mecanismo que permite a pacientes sem alternativas terapêuticas o acesso a tratamentos ainda experimentais. — O impossível está virando realidade! Estamos prontos para receber o tratamento! Expectativa de chegar no Brasil em 7/9 dias — afirmou Mila Seidl, esposa de Lito, em publicação no Instagram. Segundo a Anvisa, a autorização levou em consideração a evolução rápida e irreversível da doença, além da ausência de um patrocinador ou representante responsável pela substância no país. Ainda não há informações sobre como o tratamento será realizado. O que é a doença de Creutzfeldt-Jakob? A DCJ é uma doença priônica provocada pela alteração anormal de uma proteína chamada príon, que se acumula no cérebro e provoca a destruição progressiva dos neurônios. O processo deixa no tecido cerebral um aspecto semelhante a uma esponja e não há, até hoje, tratamento capaz de interromper ou reverter a evolução da enfermidade. — As partículas proteicas entram dentro do neurônio, intoxicam o neurônio, e vão tendo um comportamento absolutamente destrutivo e tóxico na célula — explicou o neurologista José Bauab. Dados do Ministério da Saúde mostram que o Brasil registrou 547 casos confirmados entre 2005 e 2021. A literatura adotada pelo órgão indica que cerca de 90% dos pacientes morrem entre seis meses e um ano após o início dos sintomas, com sobrevida média de aproximadamente cinco meses.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/09/06/entenda-qual-e-o-medicamento-experimental-que-lito-sousa-sera-o-primeiro-a-testar-contra-doenca-rara.ghtml",
+      "published": "2026-09-06T07:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O que se sabe sobre o potencial anti-inflamatório das canetas emagrecedoras - folha.uol.com.br",
+      "summary": "O que se sabe sobre o potencial anti-inflamatório das canetas emagrecedoras &nbsp;&nbsp; folha.uol.com.br",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/o-que-se-sabe-sobre-o-potencial-anti-inflamatorio-das-canetas-emagrecedoras.shtml",
+      "published": "2026-09-06T07:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Reforma Tributária: companhias aéreas tentam se enquadrar como regionais para pagar menos imposto",
+      "summary": "A poucos meses de começar a vigorar a Reforma Tributária, em janeiro, companhias aéreas de grande porte travam uma disputa com a equipe econômica para serem enquadradas como operadoras de aviação regional, a fim de terem uma alíquota reduzida. A regra aprovada pelo Congresso Nacional deu tratamento diferenciado apenas a esse segmento. A justificativa é a necessidade de estimular a ligação fora de regiões metropolitanas em um país de dimensões continentais. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/06/reforma-tributaria-companhias-aereas-tentam-se-enquadrar-como-regionais-para-pagar-menos-imposto.ghtml",
+      "published": "2026-09-06T07:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 20.0
@@ -18235,6 +18228,29 @@
         {
           "sector": "E-commerce",
           "alias": "tiktok",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Bilionário Britânico Christopher Hohn Aposta no Luxo Italiano e Investe R$ 3,2 Bilhões em Quatro Hotéis",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. O financista inglês mira o turismo no país. Por meio da Tci, financia empreendimentos de alto padrão em Veneza, Capri, Como e Milão O post Bilionário Britânico Christopher Hohn Aposta no Luxo Italiano e Investe R$ 3,2 Bilhões em Quatro Hotéis apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/christopher-hohn-hotelaria-luxo-italia",
+      "published": "2026-09-06T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
           "field": "lead",
           "score": 8,
           "topic": null
