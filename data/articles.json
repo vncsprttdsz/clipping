@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T11:44:03.506382+00:00",
-  "count": 594,
-  "new_this_run": 5,
+  "generated_at": "2026-09-06T11:48:48.338465+00:00",
+  "count": 595,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -16569,6 +16569,37 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "Campanhas para Presidência buscam reforçar propostas e explorar vulnerabilidades de adversários no horário eleitoral",
+      "summary": "As propagandas dos candidatos à Presidência no horário eleitoral gratuito da noite do sábado (5) foram marcadas pela tentativa de reforçar propostas das próprias campanhas e explorar vulnerabilidades dos adversários. O candidato do Partido Liberal, Flávio Bolsonaro (PL) voltou a concentrar seu programa no custo de vida e no endividamento das famílias, enquanto Luiz Inácio Lula da Silva (PT) apostou em propostas para educação e jovens. Ronaldo Caiado (PSD) explorou denúncias de corrupção para atingir os dois principais adversários, e Augusto Cury (Avante) levou sua propaganda a uma comunidade e prometeu incentivar o empreendedorismo nas favelas. A campanha de Flávio voltou a usar o ambiente de supermercado para falar sobre inflação e endividamento. O candidato percorreu as prateleiras mostrando produtos que tiveram o tamanho das embalagens reduzido e criticando os preços altos. A peça usou a ideia de que a \"comida vira prestação\" para retratar as dificuldades financeiras das famílias. Flávio também responsabilizou o governo Lula pelo aumento de impostos e prometeu fazer um \"tesouraço\" caso seja eleito. A peça na televisão afirmou que o candidato pretende trabalhar para baixar os juros e reduzir as dívidas das famílias. \"O governo é um peso que você tá carregando\". O programa trouxe imagens de aliados como a ex-primeira dama Michelle Bolsonaro, o deputado Nikolas Ferreira e o governador de São Paulo, Tarcísio de Freitas. A campanha explorou ataques a Lula e buscou defender Flávio de acusações feitas pelos adversários. A propaganda mostrou, em tom crítico, uma declaração do atual presidente sobre trabalhadores que recolhem lixo e defendeu que \"qualquer trabalho é digno\". Já Lula concentrou sua propaganda na educação e em propostas voltadas aos jovens. Sob a mensagem de que \"a educação é o maior passaporte que um pai pode dar para um filho\", o programa destacou números da área durante o governo petista e apresentou propostas para ampliar as escolas em tempo integral e retomar o Ciência sem Fronteiras, programa de intercâmbios do governo. A propaganda também destacou as universidades e relacionou os investimentos em educação à preparação dos jovens para setores em crescimento no país, como de tecnologia e de terras raras. Lula prometeu ainda ampliar o Pé-de-Meia para todos os estudantes da rede pública a partir de 2027. Além disso, a campanha petista buscou reforçar a imagem de Lula como um presidente disposto a enfrentar \"poderosos\" e o \"sistema de privilégios\" e citou propostas como o fim da escala 6x1 e a ampliação da faixa de isenção do imposto de renda. Já Ronaldo Caiado (PSD) voltou a usar seu espaço para explorar denúncias e questionamentos sobre a reputação dos adversários. O programa abordou casos de corrupção e \"rachadinhas\" e contrapôs as acusações envolvendo Lula e Flávio à imagem que o candidato busca construir de uma trajetória \"sem manchas\". Caiado também levou para a propaganda as denúncias recentes envolvendo o Supremo Tribunal Federal (STF), classificadas por ele como \"gravíssimas\" e \"estarrecedoras\". A estratégia foi relacionar os problemas nos diferentes Poderes ao que chamou de \"banda podre\" e cobrar explicações. O candidato argumentou que a população tem \"direito a explicações\" sobre as denúncias e afirmou que Lula e Flávio não seriam capazes de fornecê-las porque \"eles também têm que se explicar\". A peça buscou, assim, colocar Caiado como alternativa aos dois adversários. Augusto Cury (Avante), por sua vez, apostou em imagens de uma visita a uma comunidade ao som de \"Eu Só Quero É Ser Feliz\". O candidato afirmou que não estava no local para pedir votos, mas para escutar a população. Cury aproveitou a passagem pela comunidade para apresentar uma proposta voltada ao empreendedorismo. Ele prometeu criar uma escola de empreendedorismo em todas as favelas, mantendo a estratégia de associar sua candidatura ao diálogo direto com moradores e a propostas de geração de oportunidades. Lindomar Cruz/Agência Senado",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/06/campanhas-para-presidncia-buscam-reforar-propostas-e-explorar-vulnerabilidades-de-adversrios-no-horrio-eleitoral.ghtml",
+      "published": "2026-09-06T11:40:07+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento",
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
           "field": "lead",
           "score": 8,
           "topic": null
