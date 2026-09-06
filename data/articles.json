@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T09:16:28.198565+00:00",
-  "count": 591,
-  "new_this_run": 9,
+  "generated_at": "2026-09-06T09:33:43.119858+00:00",
+  "count": 592,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -8325,6 +8325,37 @@
         {
           "sector": "Farmácias",
           "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova nova caneta de semaglutida no Brasil por R$ 333 - R7",
+      "summary": "Anvisa aprova nova caneta de semaglutida no Brasil por R$ 333 &nbsp;&nbsp; R7",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmJiZHdPMGx1TW04a0ZENGxzWWpkd0pEQVY1M1ZhcEtUcE9ETnZyTVBVam1ubE9PdFA0eTk2MTN6c1ZjUVNfTWJWZGxJZkRVWHM4TUtPck5iU0FRMmZLQjI0d2FWN1J2LWVSS0xmTjdfdFFwb0lWalhlQTJKYW9EZ25MbHRFaUtidmQzdi1JOEZHTGhJSlVOUHVKUWw3Z1A0Y1FKQm16emNCQTN4Qm1VSzBYdWg?oc=5",
+      "published": "2026-09-04T22:24:43+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
           "field": "title",
           "score": 20,
           "topic": null
