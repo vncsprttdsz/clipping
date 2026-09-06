@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T11:48:48.338465+00:00",
-  "count": 595,
-  "new_this_run": 6,
+  "generated_at": "2026-09-06T12:10:34.432381+00:00",
+  "count": 596,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -5499,37 +5499,6 @@
       "score": 42.0
     },
     {
-      "title": "Los argentinos ya gastaron millones en Shein, Temu y Amazon este año - iProUP",
-      "summary": "Los argentinos ya gastaron millones en Shein, Temu y Amazon este año &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/economia-digital/71088-los-argentinos-ya-gastaron-millones-en-shein-temu-y-amazon-este-ano",
-      "published": "2026-08-30T11:50:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein",
-        "temu"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "temu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
       "title": "Congresso terá semana decisiva sobre fim da 6×1 e taxa das blusinhas",
       "summary": "Legislativo também recebe proposta para o orçamento de 2027",
       "url": "https://veja.abril.com.br/economia/congresso-tera-semana-decisiva-sobre-fim-da-6x1-e-taxa-das-blusinhas",
@@ -8338,6 +8307,37 @@
         {
           "sector": "E-commerce",
           "alias": "ualá",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Casas Bahia e Magazine Luiza colocam Brasil na frente da corrida por anúncios no ChatGPT",
+      "summary": "Menos de 200 dias após o lançamento, plataforma publicitária da OpenAI se expande para Índia, Europa, Oriente Médio e Norte da África",
+      "url": "https://exame.com/inteligencia-artificial/casas-bahia-e-magazine-luiza-colocam-brasil-na-frente-da-corrida-por-anuncios-no-chatgpt",
+      "published": "2026-09-06T08:59:11+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "magazine luiza"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
           "field": "title",
           "score": 20,
           "topic": null
@@ -15626,6 +15626,29 @@
         {
           "sector": "E-commerce",
           "alias": "contrabando",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mansão do dono da Marabraz vai a leilão por R$ 72 milhões no Alphaville - Exame",
+      "summary": "Mansão do dono da Marabraz vai a leilão por R$ 72 milhões no Alphaville &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/mercado-imobiliario/mansao-do-dono-da-marabraz-vai-a-leilao-por-r-72-milhoes-no-alphaville",
+      "published": "2026-09-05T14:03:53+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "marabraz"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marabraz",
           "field": "title",
           "score": 20,
           "topic": null
