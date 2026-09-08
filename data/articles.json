@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T09:52:56.706463+00:00",
-  "count": 466,
-  "new_this_run": 0,
+  "generated_at": "2026-09-08T11:44:49.647310+00:00",
+  "count": 458,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -490,6 +490,61 @@
         {
           "sector": "Global Consumer",
           "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 88.0
+    },
+    {
+      "title": "Nem só Centauro, nem só Nike: a via de mão dupla que mudou o Grupo SBF",
+      "summary": "O Grupo SBF comunicou ao mercado no fim de agosto que estendeu até 2034 o contrato de distribuidor exclusivo da Nike, por meio da Fisia, no Brasil. Depois de um trimestre marcado pela Copa do Mundo e por números recordes, o CEO Gustavo Furtado riscou essa que era uma das principais preocupações para o negócio. [&#8230;] O post Nem só Centauro, nem só Nike: a via de mão dupla que mudou o Grupo SBF apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/videos/numeros-falam/nem-so-centauro-nem-so-nike-a-via-de-mao-dupla-que-mudou-o-grupo-sbf",
+      "published": "2026-09-08T10:54:30+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "centauro",
+        "fisia",
+        "grupo sbf",
+        "nike",
+        "sbf"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "fisia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "centauro",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1501,46 +1556,6 @@
         }
       ],
       "score": 64.0
-    },
-    {
-      "title": "Novo Nordisk relança plataforma para vendas online de canetas emagrecedoras - InfoMoney",
-      "summary": "Novo Nordisk relança plataforma para vendas online de canetas emagrecedoras &nbsp;&nbsp; InfoMoney",
-      "url": "https://www.infomoney.com.br/business/novo-nordisk-relanca-plataforma-para-vendas-online-de-canetas-emagrecedoras",
-      "published": "2026-09-01T10:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "vendas online"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "vendas online",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "canetas emagrecedoras: Anvisa proíbe tirzepatida vendida pela empresa United Labz - VEJA",
@@ -2680,54 +2695,6 @@
         }
       ],
       "score": 52.0
-    },
-    {
-      "title": "França inicia cobrança de taxas para conter avanço de Shein e Temu",
-      "summary": "A França começou a impor taxas sobre o segmento do “fast fashion” nesta terça-feira (1), em uma tentativa de conter o avanço nas vendas de roupas baratas comercializadas por sites de comércio eletrônico, incluindo Shein e Temu. As cobranças, que fazem parte de uma lei aprovada em junho com o objetivo de enfrentar preocupações ambientais decorrentes da superprodução, variam de 0,25 euro para um par de shorts boxer ou meias até 12 euros para um casaco, sendo o montante limitado a 50% do preço de venda do produto antes dos impostos. “Essas plataformas são falsas campeãs do poder de compra do consumidor. Elas vendem a preços baixos, mas seus produtos frequentemente não atendem aos padrões e carecem de durabilidade”, afirmou o ministro do Comércio, Serge Papin, ao jornal local Ouest France. As taxas somam-se às dificuldades enfrentadas pela Shein, visto que o fim do acesso isento de impostos para encomendas baratas na União Europeia (UE) e nos Estados Unidos fez o valor da empresa despencar antes de sua estreia na Bolsa de Hong Kong. Nem a Shein nem a Temu responderam aos pedidos de comentários sobre as taxas. O porta-voz da Shein na França, Quentin Ruffat, declarou anteriormente que as cobranças sobre o “fast fashion” prejudicariam os consumidores ao pressionarem os preços para cima. O Ministério do Comércio da China descreveu a lei francesa como discriminatória e uma barreira comercial, afirmando que ela pode estar violando princípios da Organização Mundial do Comércio (OMC). Fórmula das taxas é baseada em vários fatores As taxas francesas, com previsão de aumentarem ainda mais a partir de 2030, são calculadas por meio de uma fórmula que leva em conta o número de produtos disponíveis sob uma marca, seus preços e sua capacidade de reparo. A França é o primeiro país da União Europeia a penalizar varejistas com base no número de itens que oferecem em seu site. A seleção de produtos da Shein incluía mais de 2 milhões de itens em 31 de março deste ano, com 4,7 mil novos estilos de vestuário a cada dia, de acordo com seu prospecto. Varejistas europeus, como a Zara, controlada pela Inditex, e a H&amp;M, que oferecem uma gama menor de produtos em seus sites, não devem ser impactados, segundo declarações de autoridades na segunda-feira. Sob a diretriz de Responsabilidade Estendida do Produtor (EPR, na sigla em inglês) de têxteis da UE, todos os estados-membros devem introduzir taxas até 17 de abril de 2028, as quais são coletadas dos produtores por uma associação para financiar a triagem, o lixo e a reciclagem de roupas descartadas. No caso da França, a associação Refashion gerenciará a coleta das novas cobranças e determinará quem é responsável pelo seu pagamento. Outros Estados-membros também já estabeleceram associações de EPR para têxteis, incluindo a Holanda. Contudo, o seu órgão, Stichting UPV Textiel, coletará taxas dos varejistas com base no volume de roupas que eles vendem no país, e não pelo tamanho de sua gama de produtos, de acordo com seu site.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/01/frana-inicia-cobrana-de-taxas-para-conter-avano-de-shein-e-temu.ghtml",
-      "published": "2026-09-01T11:05:39+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "comércio eletrônico",
-        "inditex",
-        "shein",
-        "temu"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "temu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "inditex",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 50.0
     },
     {
       "title": "Fim da ‘taxa das blusinhas’ deve ser votado nesta quarta na comissão mista, diz relatora",
@@ -6175,6 +6142,37 @@
       "score": 40.0
     },
     {
+      "title": "Whey mais que dobra no Brasil com avanço de GLP-1 e busca por longevidade",
+      "summary": "O mercado brasileiro de concentrados e isolados proteicos, conhecidos como whey protein, mais que dobrou de tamanho entre 2021 e 2025, passando de US$ 165 milhões para US$ 360 milhões em faturamento. O dado consta em estudo da consultoria Bain & Company, obtido com exclusividade ao Valor, que estima crescimento de 7% ao ano em volume nos próximos cinco anos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/08/whey-mais-que-dobra-no-brasil-com-avanco-de-glp-1-e-busca-por-longevidade.ghtml",
+      "published": "2026-09-08T11:00:01+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "glp-1"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Redivisão do Azzas 2154: como foram as 48 horas anteriores ao aperto de mãos entre Birman e Jatahy",
       "summary": "Após meses de tratativas, as negociações em busca de um acordo para redividir as marcas sob o Azzas 2154 entre Alexandre Birman, da Arezzo&amp;Co, e Roberto Jatahy, do Grupo Soma, chegaram a um limite na última segunda-feira, um momento do tipo “ou vai, ou racha”. Foi preciso uma convocação de assessores financeiros para colocar os dois em uma mesma mesa, com o objetivo de que tudo fosse “acertado às claras”, conta uma pessoa próxima às negociações. Capital: Como as tensões escalaram entre os sócios do maior grupo de moda do Brasil Futuro da Farm: Analistas veem como cenário mais provável abertura de capital na Bolsa Os empresários apertaram as mãos e selaram o acordo às 22h de terça-feira. Menos de 12 horas depois, a estrutura da reorganização societária do maior conglomerado de moda do Brasil foi anunciada pouco antes da abertura do mercado. Foram “48 horas de intensidade máxima”. Nesse processo, o bloco de controle da família Birman teve o BTG Pactual como assessor financeiro e o Spinelli Advogados na frente legal, enquanto o de Jatahy contou com o G5 Partners e o BMA, respectivamente. Estratégia: Magalu fecha parceria com Mercado Livre para vender produtos pelo marketplace O fechamento da fusão de Arezzo&amp;Co e Soma aconteceu em agosto de 2024. Em abril do ano seguinte, o divórcio iminente entre os dois empresários veio a público, devido a diferenças “irreconciliáveis”, fazendo as ações da companhia tombarem. Em meados de 2025, um “acordo de paz” chegou a ser selado, com mudanças na alta governança do Azzas e o engavetamento do acordo de acionistas que teria travado a evolução da fusão, que prometia escalar os resultados da companhia. Não durou muito. Neste ano, a disputa cresceu com a abertura de um procedimento arbitral e medida cautelar na Justiça. Com isso, o primeiro desafio para avançar nas negociações que levaram ao acordo de divórcio do Azzas 2154, revela essa fonte, foi fazer com que os empresários, que não sentavam juntos à mesa para falar sobre as diferentes visões que têm dos negócios há cerca de dois anos, dialogassem para construir uma solução. Expansão: Mubadala amplia aposta em educação e compra Universidade Vila Velha No centro das conversas, era preciso esclarecer que, a contrário do que se pensava à época da fusão, o Azzas era uma holding de “unidades de negócio de pouca conciliação”. E não havia problemas nas operações, mas uma diferença de cultura entre dois empresários “de referência” em suas indústrias. Outra dificuldade foi convencer Birman e Jatahy de que insistir em uma disputa litigiosa traria perdas para todos os acionistas e para a companhia. Nesse ponto, o principal motivador foi quebrar a lógica histórica dos grandes imbróglios societários do país em que acionistas de referência de muito peso se desalinharam. “O foco era tomar uma decisão empresarial que blindasse a companhia e criasse valor para os novos negócios, preservando autonomia de gestão”, explicou essa fonte. O racional, continua, foi permitir que cada um ficasse com as marcas ligadas àquilo que faz de melhor. Com o bônus de cada bloco — Arezzo&amp;Co e Soma — ter um acionista de referência. O próximo capítulo está pautado: o destino da Farm Rio, que ficará em uma unidade separada e, pela força global da marca, “se aproxima de um processo potencial de venda”.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/09/03/redivisao-do-azzas-2154-como-foram-as-48-horas-anteriores-ao-aperto-de-maos-entre-birman-e-jatahy.ghtml",
@@ -7768,121 +7766,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Anvisa aprova medicamento que atua contra câncer colorretal metastático; entenda",
-      "summary": "Fármaco atua no bloqueio de receptores ligados à formação de vasos sanguíneos que abastecem tumores",
-      "url": "https://exame.com/ciencia/anvisa-aprova-medicamento-que-atua-contra-cancer-colorretal-metastatico-entenda",
-      "published": "2026-09-01T10:21:26+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "medicamento"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Shein tem estreia volátil em Hong Kong após IPO avaliar empresa em US$ 26 bilhões - Bloomberg Línea Brasil",
-      "summary": "Shein tem estreia volátil em Hong Kong após IPO avaliar empresa em US$ 26 bilhões &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/shein-tem-estreia-volatil-em-hong-kong-apos-ipo-avaliar-empresa-em-us-26-bilhoes",
-      "published": "2026-09-01T10:37:20+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Shein cai em estreia na Bolsa de Hong Kong em meio a desafios regulatórios e desaceleração nas vendas",
-      "summary": "A gigante do fast-fashion Shein registrou queda em sua aguardada estreia na Bolsa de Hong Kong, refletindo barreiras regulatórias, pressões geopolíticas e uma desaceleração no ritmo de crescimento que contrastam com sua antiga avaliação de mercado de US$ 100 bilhões. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/01/shein-cai-em-estreia-na-bolsa-de-hong-kong-em-meio-a-desafios-regulatrios-e-desacelerao-nas-vendas.ghtml",
-      "published": "2026-09-01T10:47:51+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Shein’s unhappy IPO",
-      "summary": "There’s no time to cry, happy, happy",
-      "url": "https://www.ft.com/content/66df7f0e-ce6a-4619-8044-fa23423db3e7",
-      "published": "2026-09-01T11:00:07+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Tembici capta R$ 340 milhões para comprar 85 mil bikes elétricas de olho nos entregadores do iFood - Exame",
-      "summary": "Tembici capta R$ 340 milhões para comprar 85 mil bikes elétricas de olho nos entregadores do iFood &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/negocios/tembici-capta-r-340-milhoes-para-comprar-85-mil-bicicletas-eletricas",
-      "published": "2026-09-01T11:05:45+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Frasers planeja elevar fatia na Hugo Boss para mais de 50%",
@@ -11820,6 +11703,29 @@
       "score": 20.0
     },
     {
+      "title": "Shein firma una de las peores salidas a bolsa en Hong Kong y pierde u$s5.000 millones de valor - Ambito",
+      "summary": "Shein firma una de las peores salidas a bolsa en Hong Kong y pierde u$s5.000 millones de valor &nbsp;&nbsp; Ambito",
+      "url": "https://www.ambito.com/finanzas/shein-firma-una-las-peores-salidas-bolsa-hong-kong-y-pierde-us5000-millones-valor-n6319482",
+      "published": "2026-09-07T19:01:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ambito.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shein"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Shein perde US$ 5 bilhões após IPO e tem uma das piores estreias da Bolsa de Hong Kong",
       "summary": "Ações da varejista de moda fecharam a primeira semana 19% abaixo do preço",
       "url": "https://veja.abril.com.br/economia/shein-perde-us-5-bilhoes-apos-ipo-e-tem-uma-das-piores-estreias-da-bolsa-de-hong-kong",
@@ -12036,37 +11942,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "O presentão pré-eleitoral que a Câmara deve dar a Lula ainda hoje",
-      "summary": "Comissão Mista e plenário da Câmara devem aprovar nas próximas horas MP do fim da taxa das blusinhas",
-      "url": "https://veja.abril.com.br/politica/o-presentao-pre-eleitoral-que-a-camara-deve-dar-a-lula-ainda-hoje",
-      "published": "2026-09-01T11:30:01+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "blusinhas",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia",
@@ -12660,75 +12535,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Empresa perde 70% da receita de uma hora para outra. Alfredo Soares explica como reagir",
-      "summary": "Empório Jaya cresceu apoiado em um marketplace que encerrou as operações. No Choque de Gestão, cofundador do G4 mostra como reduzir a dependência de canais e conquistar clientes",
-      "url": "https://exame.com/negocios/empresa-perde-70-da-receita-de-uma-hora-para-outra-alfredo-soares-explica-como-reagir",
-      "published": "2026-09-01T09:56:05+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "China alcança marco histórico: capacidade de energia solar supera a de carvão",
-      "summary": "A capacidade instalada de energia solar na China superou pela primeira vez a de energia gerada por carvão, informou nesta terça-feira (1) o órgão nacional de energia ao celebrar o marco. Governo prevê superávit 'efetivo' de 18,6 bilhões no Orçamento em 2027 Orçamento de 2027: governo confirma salário mínimo de R$ 1.741 e aporte de R$ 6 bilhões nos Correios O gigante asiático, o maior emissor mundial de gases de efeito estufa que impulsionam as mudanças climáticas, assumiu o compromisso de alcançar o pico de emissões de carbono até 2030 e atingir a neutralidade em 2060. \"No fim de julho deste ano, a capacidade instalada de energia solar na China alcançou 1,286 bilhão de quilowatts\", afirmou a Administração Nacional de Energia (NEA). \"Pela primeira vez, a capacidade instalada de energia fotovoltaica superou a da energia à base de carvão, tornando-se a categoria de fonte de energia mais ampla da China\", acrescentou. A capacidade instalada de energia à base de carvão do país, segundo o órgão energético, foi de 1,285 bilhão de quilowatts. A NEA destacou que a capacidade instalada de energia solar e a geração de energia na China \"seguiram uma tendência constante de rápido crescimento\" e que esta desempenha um \"papel cada vez mais relevante\" na garantia do fornecimento de eletricidade e no impulso à transição energética. O carvão foi a principal fonte de geração de energia da China durante décadas e um dos principais responsáveis pelas emissões que contribuem para o aquecimento global. O país asiático viveu um crescimento explosivo na instalação de energias renováveis, o que fez com que a participação do carvão em sua matriz energética diminuísse ligeiramente nos últimos anos.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/01/china-alcanca-marco-historico-capacidade-de-energia-solar-supera-a-de-carvao.ghtml",
-      "published": "2026-09-01T10:03:18+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "salário mínimo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "salário mínimo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Grupo hacker mira sistemas de pagamentos no Brasil e usa IA para acelerar ataques, mostra Google",
-      "summary": "Um ator de ameaça cibernética identificado como BREEZE COMET tem realizado ataques contra organizações brasileiras dos setores financeiro, varejista e de comércio eletrônico para manipular sistemas de pagamento e softwares bancários e realizar transferências fraudulentas. O agente foi estudado pela Mandiant, braço de inteligência de ameaças do Google, e pelo Google Threat Intelligence Group (GTIG). A atividade do BREEZE COMET é monitorada pelo Google desde 2024. O “ator de ameaças com motivação financeira” tem como alvo organizações autorizadas a realizar transações por meio de softwares bancários, Interface de Programação de Aplicações (APIs) e sistemas de pagamento, incluindo Pix, Sistema de Transferência de Reservas (STR) e boleto. Entre os potenciais alvos estão bancos, processadores de pagamentos, varejistas, corretoras, fintechs e fornecedores de software bancário. Para executar as fraudes, o grupo busca obter acesso à Rede Nacional do Sistema Financeiro (RSFN) e a credenciais capazes de enviar ordens transacionais. Eles invadem contas privilegiadas em ambientes corporativos e de nuvem e coletam informações sobre os processos de transferência e os sistemas antifraude das vítimas. “Para atender a esses requisitos, BREEZE COMET evoluiu de forma a operar em múltiplos ambientes comprometidos simultaneamente, criando malware personalizado de comando e controle (C2) para automatizar atividades como reconhecimento, movimentação lateral, persistência e exfiltração”, diz o estudo. Ataques começam com engenharia social O Google identificou diferentes formas de entrada nas redes das empresas. Entre elas estão ataques de força bruta por senha (“password spraying”) e chamadas telefônicas nas quais os criminosos se passam por equipes de suporte de tecnologia para convencer funcionários a instalar ferramentas de acesso e gerenciamento remoto. Em meados de 2025, segundo o relatório, o grupo passou a comprometer sites de pequenas prefeituras brasileiras para hospedar ferramentas de acesso remoto, programas destinados ao roubo de informações e malwares que exploram “backdoors”, ou seja, contornam as regras normais de segurança para acessar um sistema. Os sites municipais comprometidos depois foram utilizados para operações de engenharia social e como infraestrutura de comando e controle. O Google observou comportamento semelhante em domínios municipais da Nigéria, Paraguai, Gana e Venezuela, o que, segundo o relatório, pode indicar uma expansão geográfica da atividade. O grupo também adotou métodos de acesso físico. Em 2025, o Google observou pela primeira vez o uso de dispositivos de hardware não autorizados conectados diretamente às redes de lojas de varejo. “A partir desse acesso inicial à rede, o BREEZE COMET moveu-se lateralmente para sistemas internos e, em seguida, baixou ferramentas como netcat juntamente com scripts personalizados para baixar estruturas subsequentes de pós-exploração de diretórios externos expostos.” Depois de entrar nas redes, o BREEZE COMET utiliza ferramentas de reconhecimento e malwares próprios para identificar credenciais e acessar sistemas financeiros. O grupo procura credenciais e certificados administrativos necessários para autenticação em sistemas bancários centrais. A etapa financeira pode ocorrer rapidamente. De acordo com as evidências forenses analisadas pelo Google, depois de obter acesso a aplicações financeiras, o BREEZE COMET costuma iniciar, entre 24 e 48 horas, ondas de múltiplas transações fraudulentas. O grupo também apaga registros de eventos e diretórios criados durante a invasão para dificultar a investigação. O Google afirma ter identificado que, desde 2024, o grupo aumentou a complexidade de suas operações e conseguiu realizar “pelo menos um roubo de dezenas de milhões de dólares em ativos”, embora não tenha especificado de qual caso se trata. Uso de IA nos ataques O relatório também aponta uso de inteligência artificial generativa (GenAI) pelo grupo. O Google encontrou evidências de utilização de grandes modelos de linguagem (LLMs) para acelerar a criação de scripts usados em reconhecimento de redes, validação de credenciais, implantação de ferramentas, direcionamento das ações para vítimas específicas e extração de dados. A análise dos códigos recuperados mostrou ferramentas personalizadas e funcionais, mas com características que, segundo o estudo, sugerem o uso de IA, como estruturas lineares, comentários explicativos extensos e cabeçalhos de execução padronizados. “À medida que os atores de ameaça utilizam cada vez mais as LLMs para otimizar as operações rotineiras, os defensores devem antecipar tempos de resposta mais curtos por parte dos adversários e uma maior pressão sobre os ecossistemas financeiros interconectados”, sugere o estudo. O estudo mostra que o BREEZE COMET também atua para neutralizar mecanismos de defesa. Segundo análise do Google, os criminosos executam comandos para desativar o monitoramento em tempo real do Windows Defender em máquinas comprometidas. “Enquanto o ecossistema do cibercrime latino-americano foi historicamente caracterizado por fraudes de varejo em larga escala no lado do cliente, as campanhas do BREEZE COMET representam uma mudança notável que pode servir de modelo para futuras ameaças com motivação financeira contra organizações nesta região”, diz o estudo. “Essa transição de fraudes bancárias oportunistas no varejo para intrusões diretas na infraestrutura central de comutação financeira e pagamentos instantâneos é notável não apenas pela mudança no alvo, mas também pelas capacidades do ator da ameaça.” Para aumentar a segurança, o relatório recomenda, entre outras medidas, autenticação multifator resistente a “phishing”, controle de ferramentas de gerenciamento remoto, segmentação de redes, reforço de controles de acesso limitando os acessos privilegiados e monitoramento.",
-      "url": "https://valor.globo.com/financas/noticia/2026/09/01/grupo-hacker-mira-sistemas-de-pagamentos-no-brasil-e-usa-ia-para-acelerar-ataques-mostra-google.ghtml",
-      "published": "2026-09-01T11:42:32+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "comércio eletrônico"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Anvisa aprova novo tratamento para câncer de intestino",
