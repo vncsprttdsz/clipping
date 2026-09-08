@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-08T12:54:47.705988+00:00",
-  "count": 460,
-  "new_this_run": 4,
+  "generated_at": "2026-09-08T13:05:17.520649+00:00",
+  "count": 459,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Fabricante de Ozempic e Wegovy relança site para venda online de medicamentos",
@@ -937,6 +937,61 @@
           "alias": "mercado livre",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 76.0
+    },
+    {
+      "title": "Anvisa aprova dois genéricos de liraglutida da EMS para obesidade e diabetes",
+      "summary": "Registros usam como referência medicamentos já comercializados pela farmacêutica, mas chegada às farmácias e preços ainda não foram definidos",
+      "url": "https://exame.com/invest/mercados/anvisa-aprova-dois-genericos-de-liraglutida-da-ems-para-obesidade-e-diabetes",
+      "published": "2026-09-08T09:51:03+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ems",
+        "farmácias",
+        "liraglutida",
+        "medicamentos",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "liraglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -6849,37 +6904,6 @@
       "score": 30.0
     },
     {
-      "title": "Shein estreia na bolsa com megadesconto em valuation e “fora de moda” entre os investidores",
-      "summary": "A Shein se acostumou, nos últimos anos, a ditar as tendências e o ritmo do mundo do varejo de vestuário global. Na bolsa, porém, sua estreia mostra que nem todo lançamento vira tendência — ao menos entre os investidores. A companhia chinesa de varejo digital realizou sua oferta pública inicial (IPO) na Bolsa de Hong [&#8230;] O post Shein estreia na bolsa com megadesconto em valuation e &#8220;fora de moda&#8221; entre os investidores apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/negocios/shein-estreia-na-bolsa-com-megadesconto-em-valuation-e-fora-de-moda-entre-os-investidores",
-      "published": "2026-09-01T12:56:30+00:00",
-      "source": "https://neofeed.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shein",
-        "varejo digital"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shein",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "varejo digital",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Diretora do BC critica instituições financeiras que fazem propaganda de bets",
       "summary": "A diretora de cidadania e supervisão de conduta do Banco Central (BC), Izabela Correa, criticou nesta terça-feira (1º) instituições financeiras que fazem ofertas ou tenham disponíveis, em suas páginas, propaganda de casas de apostas, as bets. Durante evento Zetta Summit 2026 – \"Estabilidade, cidadania financeira e competitividade\", realizado em Brasília, Correa afirmou que a autoridade monetária estuda medidas para ampliar a proteção do consumidor ao maior endividamento. A declaração de Correa reforça o discurso do diretor de fiscalização do BC, Ailton de Aquino, realizado mais cedo no mesmo evento. A autoridade monetária deverá publicar, nos próximos meses, medidas que visam a prevenção do endividamento das famílias. Correa defendeu que há \"vieses comportamentais\" no ambiente digital que precisam ter atenção do Banco Central. Para a diretora de cidadania financeira, o Sistema Financeiro Nacional (SFN) precisa ter responsabilidade na oferta de produtos e na educação financeira dos consumidores. \"As instituições financeiras deverão considerar, por exemplo, aspectos de prevenção superendividamento. Isso estabelece que é incoerente que uma instituição financeira tenha um aplicativo e, na página inicial daquele aplicativo esteja ofertando e fazendo propaganda de uma bet, por exemplo\", disse Correa. A diretora do BC afirmou que as apostas esportivas provocam risco muito maior de inadimplência aos consumidores. Reforçou que o Banco Central tem avançado em estudo e diálogos internos para publicar normas de proteção no ambiente on-line. A diretora de relacionamento, cidadania e supervisão de conduta do BC, Izabela Correa Raphael Ribeiro/Banco Central",
       "url": "https://valor.globo.com/financas/noticia/2026/09/01/diretora-do-bc-critica-instituies-financeiras-que-fazem-propaganda-de-bets.ghtml",
@@ -11881,6 +11905,29 @@
       "score": 20.0
     },
     {
+      "title": "Wellhub aposta na corrida para ocupar espaço do “happy hour” e engajar usuários",
+      "summary": "O Wellhub, plataforma de bem-estar corporativo, vai levar para as ruas uma nova versão do tradicional “happy hour”. A empresa lança em novembro o Wellhub Running Hour, sua primeira corrida de rua, com provas de 3 km, 5 km e 10 km em São Paulo e no Rio. A iniciativa pretende reunir cerca de 10 mil pessoas em cada cidade e faz parte da estratégia da companhia de aproximar a marca da mudança nos hábitos de consumo de bem-estar no pós-expediente. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/09/08/wellhub-aposta-na-corrida-para-ocupar-espaco-do-happy-hour-e-engajar-usuarios.ghtml",
+      "published": "2026-09-08T13:00:01+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "wellhub"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Comércio clandestino: ligação direta com o tráfico de drogas",
       "summary": "Cigarros, vapes, eletroeletrônicos, bebidas alcoólicas e até medicamentos. Na última década, organizações criminosas brasileiras se diversificaram além do tráfico de drogas e avançaram sobre o comércio clandestino de mercadorias, amplificando seus ganhos com a ilegalidade e desafiando as autoridades e o Estado, de uma forma geral. O contrabando, especialmente do Paraguai, garante a facções como o Comando Vermelho (CV) e o Primeiro Comando da Capital (PCC) lucros que passam de 500% — ganhos que, segundo especialistas, servem para financiar outras frentes de atuação das quadrilhas, numa estratégia de expansão econômica da ilegalidade. Os criminosos conseguem mais capital para recrutar apoiadores e “funcionários”, comprar armas, corromper policiais e outros agentes do Estado e amplificar a capacidade logística em torno de suas atividades ilegais. Anualmente, o contrabando entre o Brasil e o Paraguai movimenta cerca de R$ 60 bilhões, montante que é quase o dobro da balança comercial entre os dois países, que fechou 2025 em US$ 7,4 bilhões (ou R$ 38 bilhões). Os dados constam num estudo publicado em março pelo Instituto de Desenvolvimento Econômico e Social de Fronteiras (Idesf). Os números são estimados a partir das apreensões feitas pelas autoridades. Segundo o Ministério Público Federal (MPF), somente 5% a 10% das mercadorias oriundas de contrabando e descaminho que entram no Brasil pela fronteira com o Paraguai são efetivamente apreendidas. Ponte da Amizade, na fronteira entre Brasil e Paraguai: logística e pulverização facilitam distribuição de produtos ilegais Reprodução O interesse das facções no contrabando é explicado através de múltiplos fatores. O primeiro é que há mercado para os produtos trazidos irregularmente do Paraguai, e a presença do PCC e do Comando Vermelho no Brasil afora garante ainda mais capilaridade na distribuição das mercadorias. Especialistas apontam que a entrada do crime organizado no comércio ilegal de mercadorias começou pelos cigarros, avançou para os combustíveis, depois para as bebidas até chegar aos medicamentos e, mais recentemente, às canetas emagrecedoras. Questão de logística A virada de chave, porém, se deu através da logística. As organizações criminosas levaram a expertise usada no tráfico de drogas para o contrabando, o que deu escala a um fluxo antes mais pulverizado. É o que explica Luciano Barros, presidente do Idesf. — As facções otimizaram a logística do contrabando ao máximo. Se antes víamos apreensões de produtos contrabandeados em carros ou ônibus e realizada por múltiplos atores, agora são imensos caminhões com um mix de opções, de cigarros a agrotóxicos, drogas, medicamentos — enumera. Com essa “hiperespecialização”, o custo médio desembolsado pelas facções para a logística é menor. O estudo do Idesf estima que, em média, esses grupos operam com um custo de distribuição de apenas 22%. Custos menores elevam as margens de lucro. Os cigarros clandestinos lideram a lista, com lucros estimados em 507%. Telefones celulares (390%), brinquedos (390%), óculos (312%) e baterias (285%) completam a relação dos ganhos da criminalidade com a comercialização ilegal de itens de consumo. Além dos lucros proporcionados com as atividades criminosas, o contrabando envolve uma delicada questão socioeconômica, pois é crescente o número de pessoas que vivem em cidades brasileiras fronteiriças, como Foz do Iguaçu e Guaíra, no Paraná, e Ponta Porã, no Mato Grosso do Sul, que participam da logística da ilegalidade como uma fonte de renda, as chamadas “mulas”. Contrabandistas em área próxima à Ponte da Amizade Michel Filho/Agência O Globo Recentemente, os medicamentos entraram de vez no radar dos criminosos. Segundo o relatório do Idesf, nos últimos cinco anos apreensões de remédios somaram mais de R$ 100 milhões. Cada vez mais populares, canetas emagrecedoras são a nova fronteira de desafio para as autoridades competentes. Em 2024, foram 2.544 unidades apreendidas pela Receita Federal. No ano passado, o volume disparou a 30.011 canetinhas, um aumento de 1.080%. Os dados acompanhados pelo Idesf projetam 150 mil unidades apreendidas nos seis primeiros meses de 2026. Com altas margens de lucro, as canetas viraram o “item da vez” para os contrabandistas, e ajudam a exemplificar o racional da atuação das facções nesse mercado ilegal. Delegado-executivo da Polícia Federal (PF) em Foz do Iguaçu, Sérgio Luis Stinglin ressalta que, diferentemente do que se observa no Rio de Janeiro, onde facções disputam o domínio de territórios, ainda não se vê na fronteira uma busca por “tomar” a região e monopolizá-la. A lógica é financeira. — Eles se aproveitam das oportunidades de obter lucro maior e porque há demanda pelos produtos contrabandeados. Comparado com o tráfico de drogas, é menos oneroso perder a mercadoria contrabandeada. E se eventualmente alguém for preso, o tempo da pena é menor (do que por tráfico), a não ser em caso de investigações mais robustas nas quais se identifica a organização — explica o delegado Stinglin. Baixa fiscalização Para Rodolpho Ramazzini, diretor da Associação Brasileira de Combate à Falsificação (ABCF), a atuação das facções no contrabando se explica pela combinação de oportunidade, lucratividade e capacidade de escoamento. — O crime organizado tem território e capacidade financeira de larga escala. Quando se deparam com um setor produtivo que é altamente tributado e com baixa fiscalização, os criminosos veem uma oportunidade de maximizar os lucros que já têm com o tráfico de drogas e de armas — avalia Ramazzini. O projeto Mercado Ilegal é uma realização dos jornais O Globo, Valor e Extra e da rádio CBN, com patrocínio de Philip Morris Brasil, Instituto Combustível Legal, Mercado Livre, BAT Brasil e apoio da Associação Brasileira de Distribuidores de Energia Elétrica (Abradee), da Associação Brasileira de Bebidas Destiladas (ABBD) e da Aegea.",
       "url": "https://oglobo.globo.com/economia/mercado-ilegal/noticia/2026/09/04/comercio-clandestino-ligacao-direta-com-o-trafico-de-drogas.ghtml",
@@ -11959,37 +12006,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "PIB perde força no 2º tri: os 3 desafios para o próximo presidente na economia",
-      "summary": "Endividamento das famílias, situação das contas públicas e El Niño serão desafios para novo presidente em 2027 BBC News fonte AFP via Getty ImagesEndividamento das famílias, situação das contas públicas e El Niño serão desafios para novo presidente em 2027 A economia brasileira perdeu força no segundo trimestre, com uma alta de 0,5% em relação ao trimestre anterior, abaixo do avanço de 1,1% registrado no primeiro trimestre. O resultado veio ligeiramente acima das expectativas dos economistas, que era de uma alta de 0,4% no trimestre, segundo a mediana das projeções colhidas pelo jornal Valor Econômico. Na comparação com o segundo trimestre de 2025, o crescimento do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país) foi de 2%, informou o Instituto Brasileiro de Geografia e Estatística (IBGE) nesta terça-feira (1/9). Segundo economistas, a desaceleração registrada neste segundo trimestre é um prenúncio do que vem por aí. Para 2027, os analistas esperam um desempenho da economia ainda mais fraco do que neste ano. A trajetória do PIB vem em desaceleração: após uma alta de 3,4% em 2024, a economia avançou 2,3% em 2025. Para este ano, os economistas projetam um crescimento em torno de 1,9%, e de 1,5% em 2027, segundo a mediana das projeções colhidas pelo boletim Focus, do Banco Central. Mas já há quem veja um desempenho ainda mais fraco no primeiro ano do novo governo, com uma alta do PIB mais próxima de 1%. Entre os três principais desafios no caminho do novo presidente no ano que vem, economistas citam o endividamento das famílias e das empresas; o desarranjo das contas públicas; e os efeitos do El Niño, que pode levar o setor agropecuário a registrar PIB negativo em 2027. Como foi o desempenho do PIB no 2 º tri Pela ótica da produção, o destaque no segundo trimestre ficou por conta da agropecuária (2,8%), com serviços (0,2%) e indústria (0,1%) também mostrando variação positiva. A indústria geral só escapou da estabilidade devido ao bom desempenho da indústria extrativa (3,4%), enquanto eletricidade, gás, água, esgoto e atividades de gestão de resíduos (-1,1%), indústrias de transformação (-0,4%) e construção (-0,4%) tiveram desempenho negativo. \"O bom desempenho da indústria extrativa reflete o preço do petróleo\", observa Flávio Serrano, economista-chefe do Banco Bmg. \"O petróleo subiu [devido à guerra no Irã], beneficiando a extração, e também houve um benefício para o setor de minerais, com o preço do minério [de ferro] subindo, o que estimulou a produção.\" Indústria extrativa teve bom desempenho no 2º tri, impulsionado pelos preços do petróleo em alta, em meio aos conflitos no Oriente Médio BBC News fonte AFP via Getty ImagesIndústria extrativa teve bom desempenho no 2º tri, impulsionado pelos preços do petróleo em alta, em meio aos conflitos no Oriente Médio Com alta de 0,2%, o setor de serviços desacelerou em relação ao avanço de 0,4% registrado no primeiro trimestre, sempre na comparação com o trimestre anterior. Segundo Serrano, a desaceleração se deve à perda de força de fatores que impulsionam a renda no começo do ano, com destaque para o reajuste do salário mínimo — que passou de R$ 1.518 em 2025, para R$ 1.621 a partir de 1º de janeiro de 2026, alta de 6,8%. \"Esse impulso começa a diminuir [no segundo trimestre], o que se reflete no desempenho do setor de serviços, mais ligado à renda\", observa o economista. Alex Agostini, economista-chefe da agência de avaliação de risco Austin Rating, observa que a desaceleração de setores como a indústria de transformação e serviços já era esperada, devido ao efeito acumulado dos juros, que se mantiveram em patamar muito alto durante muito tempo — e que vêm sendo cortados lentamente pelo Banco Central, em meio à resiliência da inflação. A Selic, taxa básica de juros da economia brasileira, chegou a 15% em junho de 2025 e se manteve nesse patamar até janeiro deste ano. Desde então, foram realizados quatro cortes na taxa, que está atualmente em 14%. Na prévia da inflação de agosto, medida pelo IPCA-15, a inflação acumulava alta de 4,24% em 12 meses, ainda próximo do teto da meta, que é de uma inflação de 3% ao ano, com intervalo de tolerância de 1,50 ponto percentual a mais ou a menos. Outro efeito dos juros elevados, o endividamento das famílias também tem pesado sobre o consumo, afetando serviços e indústria, destaca Agostini. Com alta de 2,8%, após avanço de 2,3% no primeiro trimestre, o agro foi uma surpresa positiva, mesmo após a safra recorde de soja no começo do ano. À frente, porém, o setor enfrenta os desafios climáticos de um ano de El Niño. Na ponta da demanda, o consumo das famílias registrou queda de 0,4%, os investimentos subiram 1,2% e o consumo do governo teve alta de 0,4% em relação ao trimestre anterior. O setor externo teve contribuição negativa para o PIB do trimestre, com as exportações em queda de 0,8% e as importações em alta de 1,8% — a queda das exportações significa que houve uma redução na produção destinada ao mercado externo, enquanto o aumento das importações indica que parte da demanda interna foi atendida por produtos de outros países, e não pela produção doméstica. Os desafios para o PIB em 2027 A perda de ritmo registrada no segundo trimestre deve se intensificar na segunda metade do ano, preveem os economistas, com a perda de força dos estímulos fiscais feitos por governo federal e governos estaduais no primeiro semestre, em meio à corrida eleitoral. Ao mesmo tempo, os investimentos devem seguir reduzidos, diante do cenários de juros altos, que também têm se refletido nos diversos pedidos de recuperação judicial no setor de varejo. Esse cenário de restrições à atividade econômica deve continuar no próximo ano, contribuindo para o menor crescimento do PIB, preveem os analistas. Serrano, do Bmg, tem atualmente projeção de 1,5% para o avanço do PIB em 2027, mas acredita que esse número possa, na verdade, ser mais próximo de 1%. Cenário fiscal conturbado deve ser a maior pedra no sapato do novo governo, diz economista BBC News fonte BBCCenário fiscal conturbado deve ser a maior pedra no sapato do novo governo, diz economista O economista cita como fatores para esse pessimismo a redução da taxa básica de juros mais lenta do que era esperado no início do ano, o aumento do endividamento e a redução do impulso fiscal pelo governo, passado o ciclo eleitoral. Pesam também condições financeiras mais desfavoráveis, com juros mais altos no mundo e petróleo em alta, pressionando a inflação local. \"Ano que vem provavelmente também tem PIB negativo do agro, por causa do efeito do El Niño\", diz Serrano. \"O fenômeno implica em preços dos alimentos mais altos, o que reduz a renda disponível e pesa mais para a população de renda mais baixa, e afeta a agricultura, que cresce menos e pode até entrar em contração, em várias safras e também na pecuária.\" Agostini, da Austin Ratings, acredita que o cenário fiscal conturbado deve ser a maior pedra no sapato do novo governo. Ele acredita que, seja Lula (PT) ou Flávio Bolsonaro (PL) vitorioso — considerando os dois cenários mais prováveis atualmente —, algum ajuste fiscal será inevitável, o que teria efeito contracionista sobre a atividade econômica. Segundo o Agregador de Pesquisas da BBC News Brasil, Lula tem atualmente 38% das intenções de voto no primeiro turno, à frente de Flávio Bolsonaro (31%), Augusto Cury (10%), Ronaldo Caiado (5%) e Renan Santos (4%). A estimativa de intenção de voto no petista no segundo turno está em torno de 45%, enquanto Flávio tem 43%, conforme os resultados das pesquisas nacionais divulgadas até esta segunda-feira (31/8). \"O país chegou numa sinuca de bico, porque nós estamos com um aumento muito forte das despesas obrigatórias, sobrando muito pouco para as despesas discricionárias, que estão sendo consumidas por emendas parlamentares\", observa Agostini. \"Então, quando inicia o próximo ciclo político, tem quatro anos para poder colocar a casa em ordem. Em geral, o eleito ou reeleito faz um choque de ajustes no primeiro ano, porque aí ele tem mais três anos para absorver aquele choque, e tentar recompor a economia para fazer o seu sucessor na eleição seguinte. Então, todo mundo inicia 2027 olhando para 2030.\" Silvia Matos, coordenadora do Boletim Macro do Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV-Ibre), avalia, porém, que Lula poderá ter maior dificuldade para fazer um ajuste, se eventualmente for reeleito. \"Lula tem muito mais dificuldade, porque ele já perdeu a credibilidade de ajuste, porque já tentou fazer e não segurou as pontas\", considera a economista. Matos observa que, para que um ajuste fiscal seja feito, é preciso uma convergência entre sociedade, Congresso e Executivo, o que é muito difícil numa sociedade polarizada. \"E quanto mais você posterga isso, mais o juro fica alto, porque o mercado rola a dívida num patamar muito mais alto e a dívida [pública] torna-se muito mais inviável de ser financiada.\" Na segunda-feira (31/8), o Banco Central informou que a dívida bruta do governo geral — que compreende governo federal, INSS, governos estaduais e municipais — avançou para 82,5% do PIB em julho, maior patamar desde a pandemia. Diante deste cenário, Matos vê o PIB em alta de cerca de 1% no ano que vem, mas avalia que há mais riscos negativos do que positivos nessa projeção. \"Isso por conta de El Niño — eu já tenho uma projeção de PIB negativo para o agro, mas pode ser pior\", pondera. \"E você tem todo o processo de desalavancagem das famílias: depois do alto endividamento, elas vão ter que desacelerar [os gastos], e o mercado de trabalho vai junto, com a economia e a renda crescendo menos.\" Matos observa que esse efeito poderá ser mascarado no início do próximo ano pelo novo reajuste do salário mínimo (com valor previsto pelo governo federal de R$ 1.741), mas se tornará mais evidente ao longo dos trimestres. BBC FOOTER NOVO BBC Mais Lidas",
-      "url": "https://epocanegocios.globo.com/economia/noticia/2026/09/cdatapib-perde-forca-no-2o-tri-os-3-desafios-para-o-proximo-presidente-na-economia.ghtml",
-      "published": "2026-09-01T13:02:29+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento",
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Brasil precisa encontrar caminhos para reduzir taxas de juros de forma estrutural, diz Ceron",
@@ -12552,29 +12568,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Dólar, juros globais e petróleo avançam em meio à aversão a risco",
-      "summary": "Dólar, juros globais e petróleo avançam em meio à aversão a risco Queda do consumo das famílias no PIB do Brasil do 2º trimestre faz juros domésticos rondarem a estabilidade Manhã no mercado: Aversão a risco persiste com alta dos juros globais; PIB e eleições ficam no radar. Juros futuros têm movimentos modestos, com pressão externa sobre taxas longas. Dólar à vista sobe em linha com fortalecimento global da moeda americana",
-      "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-      "published": "2026-09-01T13:01:29+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "consumo das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "consumo das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Lula, Bolsonaro, Temer, Dilma: quanto cresceu o PIB em cada governo?",
