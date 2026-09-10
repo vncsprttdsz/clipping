@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T11:48:31.796076+00:00",
-  "count": 415,
-  "new_this_run": 6,
+  "generated_at": "2026-09-10T12:19:28.558083+00:00",
+  "count": 414,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Anvisa aprova 9 canetas emagrecedoras nacionais em 2026: veja a lista",
@@ -497,54 +497,6 @@
         }
       ],
       "score": 72.0
-    },
-    {
-      "title": "Em meio à separação dos negócios da Azzas, Hering quer fazer de nova camiseta básica sua 'Havaianas'",
-      "summary": "Em busca da classe C e em meio a uma reorganização societária, a Hering aposta na camiseta básica para recuperar espaço no mercado. A marca, que está no grupo Azzas 2154 desde 2024, deverá ficar na Arezzo&amp;Co, após acordo entre os controladores do grupo Alexandre Birman e Roberto Jatahy para separar os negócios, divulgado nesta quarta-feira (2). É nesse contexto que a Hering lança nesta quinta-feira (3) a Camiseta Brasil. Com preço de R$ 49,99, a peça passa a ser o produto de entrada da categoria, no lugar da atual de R$ 69,99. A estratégia busca recuperar clientes e volume de vendas, após queda de 19% na receita no primeiro trimestre. A ambição é fazer da camiseta uma espécie de “Havaianas” do vestuário. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/09/03/em-meio-a-separacao-dos-negocios-da-azzas-hering-quer-fazer-de-nova-camiseta-basica-sua-havaianas.ghtml",
-      "published": "2026-09-03T12:17:33+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Fashion",
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "arezzo",
-        "azzas",
-        "havaianas",
-        "hering"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "arezzo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "hering",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "azzas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "havaianas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 68.0
     },
     {
       "title": "Shein celebra fim da taxa das blusinhas; indústria têxtil critica",
@@ -5504,29 +5456,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Harvey Nichols sale set to cost luxury brands millions",
-      "summary": "Brands including Chloé and Victoria Beckham to recover less than 15p in the pound after Frasers Group buys department store chain",
-      "url": "https://www.ft.com/content/f058481a-270a-42f1-8032-f4e4b112f36f?syn-25a6b1a6=1",
-      "published": "2026-09-03T12:01:06+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxury brands"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxury brands",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "C6 Bank compra fintech Alymente e entra no mercado de benefícios",
@@ -11884,6 +11813,29 @@
           "field": "lead",
           "score": 8,
           "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Estresse no trabalho pode causar disfunção erétil, diz estudo",
+      "summary": "Análise avaliou impactos de jornada de trabalho, apoio de superiores e relacionamento interpessoal em homens de 22 a 40 anos",
+      "url": "https://veja.abril.com.br/saude/estresse-no-trabalho-pode-causar-disfuncao-eretil-diz-estudo",
+      "published": "2026-09-10T12:00:49+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 8.0
