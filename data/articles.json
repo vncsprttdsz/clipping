@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-10T09:19:05.574229+00:00",
+  "generated_at": "2026-09-10T09:54:00.812212+00:00",
   "count": 415,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Anvisa aprova 9 canetas emagrecedoras nacionais em 2026: veja a lista",
@@ -1390,53 +1390,6 @@
         }
       ],
       "score": 60.0
-    },
-    {
-      "title": "O que a parceria com o Mercado Livre pode fazer pela ação do Magalu daqui para frente",
-      "summary": "Magalu vai vender 28 mil produtos do estoque próprio no Meli; MGLU3 subiu 16,88% no anúncio",
-      "url": "https://exame.com/invest/mercados/o-que-a-parceria-com-o-mercado-livre-pode-fazer-pela-acao-do-magalu-daqui-para-frente",
-      "published": "2026-09-03T09:30:01+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "magalu",
-        "meli",
-        "mercado livre",
-        "mglu3"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "meli",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "magalu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "mglu3",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 56.0
     },
     {
       "title": "O almoço que ‘entregou’ Assaí, Casas Bahia e Dia ao MP; a propina de 1% a 2,5%",
@@ -9640,6 +9593,29 @@
         {
           "sector": "E-commerce",
           "alias": "meli",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Demandan a Mercado Pago por el cobro abusivo de intereses - Ambito",
+      "summary": "Demandan a Mercado Pago por el cobro abusivo de intereses &nbsp;&nbsp; Ambito",
+      "url": "https://www.ambito.com/economia/demandan-mercado-pago-el-cobro-abusivo-intereses-n6320566",
+      "published": "2026-09-10T01:12:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ambito.com&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
           "field": "title",
           "score": 20,
           "topic": null
