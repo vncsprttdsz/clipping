@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T00:10:07.210941+00:00",
-  "count": 411,
-  "new_this_run": 51,
+  "generated_at": "2026-09-11T06:09:47.170181+00:00",
+  "count": 402,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Anvisa aprova 9 canetas emagrecedoras nacionais em 2026: veja a lista",
@@ -2042,53 +2042,6 @@
       "score": 48.0
     },
     {
-      "title": "Hypera lança variante do Ozempic por R$ 333 e congela preço para fidelizar cliente",
-      "summary": "Semavy chega às farmácias junto com outros produtos para quem usa a caneta emagrecedora",
-      "url": "https://exame.com/invest/mercados/hypera-lanca-variante-do-ozempic-por-r-333-e-congela-preco-para-fidelizar-cliente",
-      "published": "2026-09-04T05:00:53+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta",
-        "caneta emagrecedora",
-        "farmácias",
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "caneta",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 44.0
-    },
-    {
       "title": "Valor 1000: RD Saúde lidera setor de Comércio Varejista em 2026",
       "summary": "A RD Saúde é a campeã do setor Comércio Varejista, de acordo com o ranking Valor 1000 de 2026. A empresa foi homenageada em evento em São Paulo, que marca a 26ª edição da pesquisa que analisa os resultados das maiores e melhores companhias do país. Em 2025, a companhia registrou receita bruta de R$ 47,6 bilhões, alta de 13,9% em relação ao ano anterior. Pelas mais de 3.700 farmácias das redes Raia e Drogasil passaram 51,7 milhões de clientes, que realizaram mais de 440 milhões de transações. Foram mais de sete milhões de atendimentos farmacêuticos e 412 mil vacinas aplicadas. O Prêmio Valor 1000 é uma realização do Valor Econômico e de Época Negócios e conta com patrocínio ouro de Alelo, Caixa Seguridade, Huawei e Deloitte; patrocínio prata de FGV Educação Executiva, Vibra, MBRF, Febraban e XP; e patrocínio bronze de Intelbras, CNI Sistema Indústria, Sicredi e Mineração Taboca. A premiação tem a Azul como companhia aérea oficial e GAC como carro oficial do evento, o apoio de Fiesp e Eletromidia e a parceria de Serasa Experian e FGVcef/FGV-SP.",
       "url": "https://valor.globo.com/valor-1000/noticia/2026/09/08/valor-1000-rd-sade-lidera-setor-de-comrcio-varejista-em-2026.ghtml",
@@ -2173,68 +2126,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Indústria e varejo dizem que fim da taxa das blusinhas é eleitoreiro e um retrocesso econômico",
-      "summary": "Entidades que representam empresas do varejo e da indústria criticaram a aprovação da MP (medida provisória) que acaba com o imposto conhecido como taxa das blusinhas, afirmando que a decisão ameaça empregos e prejudica empresas brasileiras. Leia mais (09/03/2026 - 23h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/09/industria-e-varejo-dizem-que-fim-da-taxa-das-blusinhas-e-eleitoreiro-e-um-retrocesso-economico.shtml",
-      "published": "2026-09-04T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "blusinhas",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "No Boticário, quem faz maquiagem (e outros serviços) gasta 70% mais. A rede quer escalar a fórmula",
-      "summary": "Atendimentos já movimentam quase 7% das vendas do canal; marca quer passar de 150 para mais de 850 Studios até 2028",
-      "url": "https://exame.com/negocios/no-boticario-quem-faz-maquiagem-e-outros-servicos-gasta-70-mais-a-rede-quer-escalar-a-formula",
-      "published": "2026-09-04T06:00:02+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário",
-        "maquiagem"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Após Medley, EMS vai às compras no México com cheque de até US$ 100 milhões",
@@ -4002,46 +3893,6 @@
       "score": 36.0
     },
     {
-      "title": "Lula resgata falas machistas de Bolsonaro e Flávio culpa PT por endividamento",
-      "summary": "O horário eleitoral gratuito exibido nesta quinta-feira (3) na TV foi pautado por críticas entre os dois principais adversários, o presidente Luiz Inácio Lula da Silva (PT) e o senador Flávio Bolsonaro (PL). O petista associou o adversário a falas machistas do pai, o ex-presidente Jair Bolsonaro, enquanto o senador explorou o endividamento das famílias. Flávio, que abriu o horário eleitoral desta noite, destacou a pesquisa da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), segundo a qual 82% das famílias estavam endividas em julho, o percentual mais alto em 12 meses. A propaganda colocou em sequência relatos de pessoas com queixas sobre dívidas, contra os preços dos alimentos, além de críticas ao PT. \"Ontem até chorei quando vi a Casas Bahia e tantas outras empresas fechando com esse desgoverno\", disse uma mulher, mencionando o pedido de recuperação judicial da varejista. Flávio relacionou a realidade das famílias à política fiscal do governo. \"Quando um governo se endivida muito, ele puxa as famílias brasileiras para se endividarem também\", afirmou. O candidato do PL também comparou a dívida bruta do governo geral, de 82,51% do Produto Interno Bruto (PIB), com a registrada no último ano de governo Jair Bolsonaro, 71,7%. Como resposta ao cenário, Flávio prometeu ajustar as contas, reduzir impostos e fazer com que as pessoas passem a comprar \"mais e melhor\". O programa de Lula destacou medidas voltadas às mulheres e abriu espaço para participação da primeira-dama Rosângela Lula da Silva, a Janja. Os 6 minutos de propaganda foram intercalados com ataques a Flávio e questionando a capacidade do adversário para executar políticas de proteção às mulheres. Nos segundos iniciais, a peça petista resgatou episódios em que o ex-presidente Jair Bolsonaro faz declarações machistas e destrata deputadas e jornalistas, no decorrer de sua trajetória política. A propaganda também exibiu um vídeo em que Flávio aparece de sunga, entre amigos, e diz: \"Sou filho do presidente, quer me dar?\". Trata-se de vídeo de 2023 em que ele imitaria a forma como o irmão mais novo, Jair Renan, fala para conquistar mulheres, segundo registro do portal Metrópoles feito à época. Na sequência, uma narradora diz: \"Dá até medo de ter uma filha num ambiente assim\". Nos segundos finais, a apresentadora diz que é preciso conhecer bem o passado de um candidato e diz que Flávio \"cresceu em uma família preconceituosa\". A atriz voltou a lembrar o vínculo do senador com Daniel Vorcaro e a homenagem feita por Flávio Bolsonaro a um policial que depois foi condenado por envolvimento no assassinato da vereadora Marielle Franco. O candidato Augusto Cury (Avante) repetiu o programa de estreia e Ronaldo Caiado (PSD) exibiu a peça apresentada nesta tarde. Os demais presidenciáveis não têm direito ao horário eleitoral.",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/03/lula-resgata-falas-machistas-de-bolsonaro-e-flvio-culpa-pt-por-endividamento.ghtml",
-      "published": "2026-09-04T00:32:04+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "endividamento",
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 30.0
-    },
-    {
       "title": "Marabraz pede manutenção de serviços essenciais e proteção de 180 dias contra credores",
       "summary": "O Grupo Marabraz pediu à Justiça de São Paulo proteção de 180 dias contra cobranças de credores. Em emenda à petição de recuperação judicial, a empresa solicita a suspensão de cobranças e a liberação de recursos financeiros bloqueados, além da manutenção de serviços essenciais e da garantia de acesso a imóveis retomados por locadores. Esse tipo de garantia costuma ser automático após a Justiça aceitar o pedido de recuperação judicial. Empresas costumam pedir a antecipação dos efeitos durante a análise do pedido de reestruturação por parte do Judiciário. A Casas Bahia fez a mesma solicitação, que foi atendida. A Marabraz entrou com pedido de recuperação judicial em 15 de agosto, citando dívidas de R$ 140 milhões. Na petição inicial da Marabraz já constava o pedido de proteção antecipada. Em 22 de agosto, a juíza Fernanda Perez Jacomini determinou o restabelecimento dos serviços prestados pela Oracle. Segundo a Marabraz, a empresa de tecnologia havia bloqueado o acesso ao armazenamento de documentos contábeis essenciais ao processo de recuperação. Quatro dias após a decisão, a Oracle afirmou, no processo, ter liberado os sistemas da empresa de varejo em 20 de junho, antes do pedido de recuperação judicial, e pediu o reconhecimento do fato pela Justiça. A magistrada também pediu a apresentação de documentos complementares pela Marabraz e atribuiu à consultoria Deloitte uma perícia prévia da situação da varejista. Em petição protocolada na última quinta-feira (3), a varejista afirmou ter cumprido a determinação da juíza e reiterou o pedido de concessão da recuperação judicial. A antecipação da proteção contra credores deve, segundo a Marabraz, ser deferida caso a juíza “entenda necessária a apresentação de qualquer dos documentos ainda pendentes antes do deferimento do processamento da recuperação judicial”. Entre as prestadoras de serviço listadas pela varejista na petição estão empresas de serviços financeiros, além de fornecedoras de água, energia, internet e telefone. Esses são fornecedores “indispensáveis ao funcionamento de suas lojas e demais estruturas necessárias à continuidade da operação”, diz a Marabraz à Justiça. Redecard A Redecard, uma das empresas citadas, afirmou à Justiça que o contrato com a Marabraz foi rescindido pela empresa de pagamentos em 25 de novembro de 2025. Segundo a empresa financeira, a rescisão foi motivada pelo inadimplemento acumulado da varejista. O serviço da Redecard não participa, segundo a empresa, da cadeia produtiva da Marabraz. Portanto, não pode ser considerado essencial, diz. “Os móveis e eletrodomésticos vendidos pelas recuperandas continuam existindo, sendo fabricados e sendo estocados de forma absolutamente independente da máquina de cartão utilizada no balcão de vendas.” Procurada pela reportagem, a Redecard não se pronunciou sobre o assunto até a publicação da reportagem. A Cielo, também presente no pedido, informou que a Marabraz não é cliente da empresa desde 2025. Outro pedido feito no início do processo e reiterado na quinta-feira é para que os locadores com ordem de despejo contra a Marabraz não impeçam o acesso aos imóveis pelo tempo necessário à retirada de bens e mercadorias pela companhia. A petição inicial traz anexa uma relação de endereços e proprietários. A Marabraz atribui a crise financeira a uma “convergência entre fatores internos e externos que, em sequência, comprometeram o fluxo financeiro”. Segundo a companhia, os principais motivos da crise são a dependência de financiamento para sustentar uma operação de grande porte no varejo, o efeito da ruptura de relações familiares entre os controladores sobre o patrimônio de sustentação da empresa e as restrições de crédito geradas por esses conflitos. Condições macroeconômicas, como a alta dos juros, contribuíram para o cenário adverso, mas não são a principal justificativa para ele, afirma a empresa no pedido de recuperação. Na última petição apresentada à Justiça também houve o pedido de inclusão da Marabraz Comercial Ltda. entre as requerentes da recuperação judicial. Caso a Justiça aceite, a empresa, detentora da marca Marabraz, se junta às outras cinco proponentes da ação. O grupo afirma ter, hoje, 111 lojas, das quais 25 estão em funcionamento e 86 temporariamente fechadas “em razão das restrições de liquidez que impediram a adequada recomposição dos estoques e o regular pagamento dos trabalhadores”. Raio-X do Grupo Marabraz Fundação: 1965, por Abdul Hamid Mohamad Fares Sede: São Paulo (SP) Número de lojas: 111 Principais concorrentes: Casas Bahia, Magazine Luiza, Lojas Cem",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/08/marabraz-pede-manutencao-de-servicos-essenciais-e-protecao-de-180-dias-contra-credores.ghtml",
@@ -5053,98 +4904,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Farm Rio receberá propostas de potenciais compradores neste mês",
-      "summary": "",
-      "url": "https://www.estadao.com.br/coluna-da-broad/farm-rio-recebera-propostas-de-potenciais-compradores-neste-mes",
-      "published": "2026-09-04T01:00:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "farm"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "farm",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Taxa das 'blusinhas' pode voltar? Como fica comprar no exterior com a MP aprovada na Câmara",
-      "summary": "Deputados aprovaram fim da alíquota mínima de 20%; proposta segue ao Senado, que precisa votar até 8 de setembro",
-      "url": "https://exame.com/invest/minhas-financas/taxa-das-blusinhas-pode-voltar-como-fica-comprar-no-exterior-com-a-mp-aprovada-na-camara",
-      "published": "2026-09-04T05:00:55+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Electrolux recicla 17 mil eletrodomésticos e transforma resíduos em matéria-prima",
-      "summary": "Serviço recolhe aparelhos antigos de qualquer marca durante a entrega de novos produtos; mais de 95% dos materiais coletados são recuperados",
-      "url": "https://exame.com/esg/electrolux-recicla-17-mil-eletrodomesticos-e-transforma-residuos-em-materia-prima",
-      "published": "2026-09-04T05:51:05+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Eletrônicos"
-      ],
-      "matched_aliases": [
-        "eletrodomésticos"
-      ],
-      "matches": [
-        {
-          "sector": "Eletrônicos",
-          "alias": "eletrodomésticos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Skechers muda estratégia no Brasil e prevê chegar a 100 lojas próprias",
-      "summary": "Terceira maior marca de calçados do mundo, com faturamento previsto de mais de US$ 10,5 bilhões neste ano, a Skechers planeja ampliar sua presença no Brasil e chegar a 100 lojas próprias nos próximos anos. Com cinco lojas instaladas nos estados de São Paulo, Rio de Janeiro e Minas Gerais, a companhia pretende dobrar sua [&#8230;] O post Skechers muda estratégia no Brasil e prevê chegar a 100 lojas próprias apareceu primeiro em Mercado&amp;Consumo .",
-      "url": "https://mercadoeconsumo.com.br/04/09/2026/noticias-varejo/skechers-muda-estrategia-no-brasil-e-preve-chegar-a-100-lojas-proprias",
-      "published": "2026-09-04T06:04:35+00:00",
-      "source": "https://mercadoeconsumo.com.br/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "skechers"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "skechers",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Clientes famosos, tecido de ouro, ternos de R$ 20 mil: como é a alfaiataria visitada por Mendonça e advogado de Vorcaro",
@@ -9356,6 +9115,29 @@
       "score": 20.0
     },
     {
+      "title": "Shopee: leitor relata dificuldade para cancelar compra - Estadão",
+      "summary": "Shopee: leitor relata dificuldade para cancelar compra &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/sao-paulo/seus-direitos/shopee-leitor-relata-dificuldade-para-cancelar-compra",
+      "published": "2026-09-11T01:10:47+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Comércio clandestino: ligação direta com o tráfico de drogas",
       "summary": "Cigarros, vapes, eletroeletrônicos, bebidas alcoólicas e até medicamentos. Na última década, organizações criminosas brasileiras se diversificaram além do tráfico de drogas e avançaram sobre o comércio clandestino de mercadorias, amplificando seus ganhos com a ilegalidade e desafiando as autoridades e o Estado, de uma forma geral. O contrabando, especialmente do Paraguai, garante a facções como o Comando Vermelho (CV) e o Primeiro Comando da Capital (PCC) lucros que passam de 500% — ganhos que, segundo especialistas, servem para financiar outras frentes de atuação das quadrilhas, numa estratégia de expansão econômica da ilegalidade. Os criminosos conseguem mais capital para recrutar apoiadores e “funcionários”, comprar armas, corromper policiais e outros agentes do Estado e amplificar a capacidade logística em torno de suas atividades ilegais. Anualmente, o contrabando entre o Brasil e o Paraguai movimenta cerca de R$ 60 bilhões, montante que é quase o dobro da balança comercial entre os dois países, que fechou 2025 em US$ 7,4 bilhões (ou R$ 38 bilhões). Os dados constam num estudo publicado em março pelo Instituto de Desenvolvimento Econômico e Social de Fronteiras (Idesf). Os números são estimados a partir das apreensões feitas pelas autoridades. Segundo o Ministério Público Federal (MPF), somente 5% a 10% das mercadorias oriundas de contrabando e descaminho que entram no Brasil pela fronteira com o Paraguai são efetivamente apreendidas. Ponte da Amizade, na fronteira entre Brasil e Paraguai: logística e pulverização facilitam distribuição de produtos ilegais Reprodução O interesse das facções no contrabando é explicado através de múltiplos fatores. O primeiro é que há mercado para os produtos trazidos irregularmente do Paraguai, e a presença do PCC e do Comando Vermelho no Brasil afora garante ainda mais capilaridade na distribuição das mercadorias. Especialistas apontam que a entrada do crime organizado no comércio ilegal de mercadorias começou pelos cigarros, avançou para os combustíveis, depois para as bebidas até chegar aos medicamentos e, mais recentemente, às canetas emagrecedoras. Questão de logística A virada de chave, porém, se deu através da logística. As organizações criminosas levaram a expertise usada no tráfico de drogas para o contrabando, o que deu escala a um fluxo antes mais pulverizado. É o que explica Luciano Barros, presidente do Idesf. — As facções otimizaram a logística do contrabando ao máximo. Se antes víamos apreensões de produtos contrabandeados em carros ou ônibus e realizada por múltiplos atores, agora são imensos caminhões com um mix de opções, de cigarros a agrotóxicos, drogas, medicamentos — enumera. Com essa “hiperespecialização”, o custo médio desembolsado pelas facções para a logística é menor. O estudo do Idesf estima que, em média, esses grupos operam com um custo de distribuição de apenas 22%. Custos menores elevam as margens de lucro. Os cigarros clandestinos lideram a lista, com lucros estimados em 507%. Telefones celulares (390%), brinquedos (390%), óculos (312%) e baterias (285%) completam a relação dos ganhos da criminalidade com a comercialização ilegal de itens de consumo. Além dos lucros proporcionados com as atividades criminosas, o contrabando envolve uma delicada questão socioeconômica, pois é crescente o número de pessoas que vivem em cidades brasileiras fronteiriças, como Foz do Iguaçu e Guaíra, no Paraná, e Ponta Porã, no Mato Grosso do Sul, que participam da logística da ilegalidade como uma fonte de renda, as chamadas “mulas”. Contrabandistas em área próxima à Ponte da Amizade Michel Filho/Agência O Globo Recentemente, os medicamentos entraram de vez no radar dos criminosos. Segundo o relatório do Idesf, nos últimos cinco anos apreensões de remédios somaram mais de R$ 100 milhões. Cada vez mais populares, canetas emagrecedoras são a nova fronteira de desafio para as autoridades competentes. Em 2024, foram 2.544 unidades apreendidas pela Receita Federal. No ano passado, o volume disparou a 30.011 canetinhas, um aumento de 1.080%. Os dados acompanhados pelo Idesf projetam 150 mil unidades apreendidas nos seis primeiros meses de 2026. Com altas margens de lucro, as canetas viraram o “item da vez” para os contrabandistas, e ajudam a exemplificar o racional da atuação das facções nesse mercado ilegal. Delegado-executivo da Polícia Federal (PF) em Foz do Iguaçu, Sérgio Luis Stinglin ressalta que, diferentemente do que se observa no Rio de Janeiro, onde facções disputam o domínio de territórios, ainda não se vê na fronteira uma busca por “tomar” a região e monopolizá-la. A lógica é financeira. — Eles se aproveitam das oportunidades de obter lucro maior e porque há demanda pelos produtos contrabandeados. Comparado com o tráfico de drogas, é menos oneroso perder a mercadoria contrabandeada. E se eventualmente alguém for preso, o tempo da pena é menor (do que por tráfico), a não ser em caso de investigações mais robustas nas quais se identifica a organização — explica o delegado Stinglin. Baixa fiscalização Para Rodolpho Ramazzini, diretor da Associação Brasileira de Combate à Falsificação (ABCF), a atuação das facções no contrabando se explica pela combinação de oportunidade, lucratividade e capacidade de escoamento. — O crime organizado tem território e capacidade financeira de larga escala. Quando se deparam com um setor produtivo que é altamente tributado e com baixa fiscalização, os criminosos veem uma oportunidade de maximizar os lucros que já têm com o tráfico de drogas e de armas — avalia Ramazzini. O projeto Mercado Ilegal é uma realização dos jornais O Globo, Valor e Extra e da rádio CBN, com patrocínio de Philip Morris Brasil, Instituto Combustível Legal, Mercado Livre, BAT Brasil e apoio da Associação Brasileira de Distribuidores de Energia Elétrica (Abradee), da Associação Brasileira de Bebidas Destiladas (ABBD) e da Aegea.",
       "url": "https://oglobo.globo.com/economia/mercado-ilegal/noticia/2026/09/04/comercio-clandestino-ligacao-direta-com-o-trafico-de-drogas.ghtml",
@@ -9434,69 +9216,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Ministério Público cita Farma Conde, Rumo e Cosan em investigação sobre ICMS em SP",
-      "summary": "Além da Via Varejo (atual Casas Bahia ), da rede de supermercados Dia e do Assaí, o MP-SP ( Ministério Público de São Paulo ) também identificou outras grandes empresas supostamente envolvidas no esquema de facilitação de ICMS e lavagem de dinheiro, entre elas a Farma Conde, a Rumo e a Cosan. Leia mais (09/03/2026 - 22h19)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/09/ministerio-publico-cita-farma-conde-rumo-e-cosan-em-investigacao-sobre-icms-em-sp.shtml",
-      "published": "2026-09-04T01:19:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce",
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "assaí",
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "assaí",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
-    },
-    {
-      "title": "Gigantes da indústria da Alemanha querem ampliar jornada no país para  40 horas sem aumento de salário",
-      "summary": "Executivos das maiores indústrias da Alemanha estão defendendo a retomada da jornada semanal de 40 horas sem aumento de salário. Segundo reportagem do britânico Financial Times, os empresários, entre eles os da Mercedes-Benz e da fabricante de máquinas Stihl, argumentam que os elevados custos trabalhistas estão comprometendo a competitividade da indústria alemã no cenário internacional. Vitória para Lula: Congresso aprova MP que acaba com 'taxa das blusinhas' a um mês das eleições Fim da escala 6x1: Lula ligou para Alcolumbre para tentar destravar votação da PEC no Senado Atualmente, a jornada semanal de 35 horas é o padrão estabelecido por acordos coletivos para cerca de um quinto dos trabalhadores alemães, sobretudo em setores como o automotivo, o de engenharia e as indústrias de ferro e aço. A discussão na Alemanha acontece ao mesmo tempo em que no Brasil tramita no Congresso Nacional a proposta de emenda constitucional (PEC) do fim da escala 6x1 . A PEC prevê dois dias de descanso na semana e redução da jornada de trabalho de 44 horas para 40 horas. Ovos e mel afetados: Governo diz ter recebido veto à carne brasileira pela UE com 'indignação' e ameaça adotar 'medidas de reciprocidade' No início deste mês, Martin Brudermüller, presidente do Conselho de Supervisão do Grupo Mercedes-Benz, afirmou ao jornal alemão Handelsblatt que o custo da mão de obra no país “se tornou alto demais em comparação aos padrões internacionais”. Segundo ele, a Alemanha também perdeu a vantagem de produtividade que mantinha em relação a importantes concorrentes. Diante desse cenário, Brudermüller defendeu uma revisão da jornada de trabalho. — Deveríamos considerar seriamente o retorno à semana de 40 horas— declarou ao jornal. INSS: Governo anuncia que zerou fila, apesar de mais de 200 mil pedidos aguardando resposta O tema ganha ainda mais relevância diante das negociações salariais entre sindicatos dos trabalhadores da indústria e empregadores, previstas para começar em outubro. A jornada de 35 horas semanais foi adotada após uma disputa trabalhista ocorrida em 1984, quando dezenas de metalúrgicos da então Alemanha Ocidental entraram em greve por sete semanas para reivindicar a redução da carga horária. Considerando todos os setores da economia, a jornada média de trabalho na Alemanha atualmente é de 37,8 horas semanais. Alta dos custos trabalhistas na Alemanha Os custos da mão de obra alemã estão entre os mais elevados da União Europeia. De acordo com o Financial Times, uma hora de trabalho no setor industrial do país custa € 49,50 (R$ 297, na cotação atual)— valor 47% superior à média de € 33,70 (R$ 202) registrada na UE e mais de três vezes maior que os € 15,60 (cerca de R$ 93) praticados na Hungria, por exemplo. Embora os trabalhadores alemães apresentem produtividade superior à de seus pares do Leste Europeu, o custo unitário do trabalho — indicador que relaciona o custo da mão de obra à produção dos funcionários — vem aumentando em ritmo significativamente mais acelerado desde 2023, segundo levantamento do Instituto de Macroeconomia e Pesquisa Econômica (IMK), um centro de estudos financiado pelos sindicatos alemães, citado pelo FT.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/04/gigantes-da-industria-da-alemanha-querem-ampliar-jornada-no-pais-para-40-horas-sem-aumento-de-salario.ghtml",
-      "published": "2026-09-04T03:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "blusinhas",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Synerjet estreia no mercado de transporte via drones com rota para levar insumos médicos à Ilha de Marajó",
@@ -9902,29 +9621,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Agentes de IA devem assumir etapas de busca, comparação e compra, aponta estudo",
-      "summary": "O próximo grande desafio do varejo digital pode não ser conquistar mais cliques, mas ser escolhido sem que o consumidor sequer visite o site da marca. É essa uma das mudanças estruturais apontadas pelo estudo &#8220;Futuros Conversacionais 2027 e 2028&#8221;, realizado pela WGSN e pela Blip. Segundo o estudo, a evolução da Inteligência Artificial deve [&#8230;] O post Agentes de IA devem assumir etapas de busca, comparação e compra, aponta estudo apareceu primeiro em Mercado&amp;Consumo .",
-      "url": "https://mercadoeconsumo.com.br/04/09/2026/inovacao/agentes-de-ia-devem-assumir-etapas-de-busca-comparacao-e-compra-aponta-estudo",
-      "published": "2026-09-04T06:01:00+00:00",
-      "source": "https://mercadoeconsumo.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "varejo digital"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "varejo digital",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Movimento Brasil Legal busca avanço no Congresso",
@@ -11575,6 +11271,29 @@
         {
           "sector": "Viagens",
           "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Aposta da Apple em celulares dobráveis abre oportunidades para fornecedores japoneses",
+      "summary": "A entrada da Apple no mercado de smartphones dobráveis pode oferecer mais oportunidades para fornecedores japoneses que, desde a era dos celulares convencionais, trabalham para tornar seus materiais e peças mais compactos e leves. As estruturas finas dos aparelhos dobráveis deixam pouco espaço para componentes, e a tela, assim como outras peças, precisa suportar dobras repetidas. Essas exigências criam uma necessidade maior de componentes mais finos e duráveis. Durante o “boom” dos celulares convencionais no Japão, no início dos anos 2000, fabricantes como a NEC competiam com base nesses avanços. Circuitos impressos flexíveis e tecnologias para acomodar mais peças em espaços reduzidos impulsionaram a evolução dos aparelhos. A Nitto Denko está ampliando a produção de adesivo opticamente transparente (OCA), aplicado em telas de diodo orgânico emissor de luz (OLED) e no vidro que as recobre. A empresa está investindo 39 bilhões de ienes (US$ 253 milhões) em uma nova fábrica, com previsão de início de operação no ano fiscal de 2028, para produzir OCA e também fitas de liberação elétrica, usadas para fixar baterias. O número de empresas em todo o mundo capazes de produzir OCA em larga escala é limitado. Embora a Nitto Denko não tenha divulgado se recebeu pedidos da Apple, ela fornece OCA para fabricantes chinesas. \"Estamos em uma posição em que os fabricantes de smartphones de ponta nos procuram\", disse o presidente Tatsuya Akagi. A empresa pretende dobrar a receita com OCA nos próximos cinco anos. A Samsung Electronics é líder no segmento de painéis OLED flexíveis. Quanto ao vidro de cobertura, espera-se um aumento na demanda por painéis dobráveis mais finos que um fio de cabelo humano. A americana Corning e a alemã Schott são as principais empresas do setor, mas a Nippon Electric Glass desenvolveu um vidro de alta durabilidade e está atendendo à demanda de clientes chineses. Embora empresas americanas e taiwanesas dominem grande parte do mercado de dobradiças para celulares dobráveis, o Japão tem forte presença em materiais relacionados. A JX Advanced Metals relata um interesse crescente em folhas de cobre para circuitos impressos flexíveis — componentes dos quais os smartphones dobráveis utilizam uma quantidade maior por aparelho. A JSR, fabricante de materiais para semicondutores, está desenvolvendo diversos tipos de materiais resistentes a dobras para ampliar a oferta de filmes isolantes destinados a painéis sensíveis ao toque de celulares dobráveis. A TDK está avançando para a produção em massa de suas baterias para smartphones com alta densidade de energia. Isso para antecipar uma demanda maior para suprir as necessidades energéticas elevadas dos smartphones dobráveis, decorrentes de suas telas maiores e da capacidade de executar vários aplicativos simultaneamente. Espera-se que as remessas globais de smartphones dobráveis cresçam 24% este ano, atingindo 24,3 milhões de unidades, segundo Yoshio Tamura, diretor da Counterpoint Research (sediada em Hong Kong) para o Japão. A empresa prevê que a Apple enviará até 6 milhões de unidades de seu novo iPhone Duo, tornando-se a segunda maior força do mercado, atrás apenas da Samsung. O mercado atual concentra-se amplamente na Samsung e na Huawei Technologies, que possuem cadeias de suprimentos robustas em seus países de origem, Coreia do Sul e China. \"A entrada da Apple, com sua ampla rede de fornecimento, criará mais oportunidades para os fabricantes japoneses\", afirmou Tamura.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/11/aposta-da-apple-em-celulares-dobrveis-abre-oportunidades-para-fornecedores-japoneses.ghtml",
+      "published": "2026-09-11T03:43:08+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "smartphones"
+      ],
+      "matches": [
+        {
+          "sector": "Eletrônicos",
+          "alias": "smartphones",
           "field": "lead",
           "score": 8,
           "topic": null
