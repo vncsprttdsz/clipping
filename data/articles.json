@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-11T12:17:52.781081+00:00",
-  "count": 393,
+  "generated_at": "2026-09-11T12:25:27.328031+00:00",
+  "count": 394,
   "new_this_run": 1,
   "articles": [
     {
@@ -3341,6 +3341,37 @@
         {
           "sector": "E-commerce",
           "alias": "blusinhas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Conversa Saudável aborda uso de caneta emagrecedora e cuidados contra a obesidade - Gazeta de Palmeira",
+      "summary": "Conversa Saudável aborda uso de caneta emagrecedora e cuidados contra a obesidade &nbsp;&nbsp; Gazeta de Palmeira",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcDlhTFRPdnlBSWgtRDM1eUs0S1FnTzVxb2FXUEw2MWU5M0hFQ002Qm8wdktLUU56ZDJxWnREdjNLVUE3NDF0NERzU1hvb3NEWDR1Y2tuM3ZVTGdISkpEaTJobXBVWE9SaE5KMkhudktudFFaSjVuMVBEaklLTUszN2FYR2Iwb2JjWC0wSFBpNWZ0ekJwTVhid2RDb3FRT3R4cWVJV2FNTWNaUGttU3J2LWQzTWFnZXlOejlXZUc0c2pSNGlYclY2bQ?oc=5",
+      "published": "2026-09-10T13:49:20+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
           "field": "title",
           "score": 20,
           "topic": null
