@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T11:41:58.409686+00:00",
-  "count": 390,
+  "generated_at": "2026-09-12T11:47:10.688246+00:00",
+  "count": 391,
   "new_this_run": 2,
   "articles": [
     {
@@ -9000,6 +9000,29 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Tudo pelo look: para proteger maquiagem no Rock in Rio, catarinense compra guarda-chuva por R$ 50 para jogar fora na hora do show - oglobo.globo.com",
+      "summary": "Tudo pelo look: para proteger maquiagem no Rock in Rio, catarinense compra guarda-chuva por R$ 50 para jogar fora na hora do show &nbsp;&nbsp; oglobo.globo.com",
+      "url": "https://oglobo.globo.com/rio/noticia/2026/09/12/tudo-pelo-look-para-proteger-maquiagem-no-rock-in-rio-catarinense-compra-guarda-chuva-por-r-50-para-jogar-fora-na-hora-do-show.ghtml",
+      "published": "2026-09-12T08:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
           "field": "title",
           "score": 20,
           "topic": null
