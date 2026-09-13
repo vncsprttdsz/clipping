@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T09:12:42.375207+00:00",
-  "count": 381,
-  "new_this_run": 5,
+  "generated_at": "2026-09-13T09:31:24.439893+00:00",
+  "count": 382,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -8746,6 +8746,29 @@
         {
           "sector": "E-commerce",
           "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Caneta da Mantecorp, Semavy, chega às farmácias do Brasil - Portal Leo Dias",
+      "summary": "Caneta da Mantecorp, Semavy, chega às farmácias do Brasil &nbsp;&nbsp; Portal Leo Dias",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWxkcUloalppQ3E1aHhaVFFWTG9LTFRwU3drUkE4ODkxSnNxWkYxUjJJM29FZkJRcVVObDNCdzhPUHNlOEcyeTdteVNzTE9KRkJYZndsQmlsLUY4VkcwQThROGw2VGlQWHZiODhteFpPSUY3MUI2UEQzWGVBczlmYXYyc0ZaTzhSbVRkNjZnYUvSAZYBQVVfeXFMUDdMR19RWEJKZnp1RjU0VnVFR0NVVjVOQkhIbmNQU3RRRHlSYUc1S0xVejZlR2t6Yk12UDhJaDFFRUFWcnhScEh0OXhKSHpTQjRTT0ZuM05pSWFpQUk2cEpWVHQyMFNHSHNhZTZpY1VYakpYTHRlN2U3RVo3V183amRWdnloYU5vcUFEa0tDRWVJRVE0MlF3?oc=5",
+      "published": "2026-09-12T17:00:22+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
           "field": "title",
           "score": 20,
           "topic": null
