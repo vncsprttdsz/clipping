@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T13:20:13.531554+00:00",
-  "count": 370,
+  "generated_at": "2026-09-14T14:17:25.554491+00:00",
+  "count": 368,
   "new_this_run": 4,
   "articles": [
     {
@@ -302,6 +302,84 @@
         {
           "sector": "Farmácias",
           "alias": "obesidade",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 88.0
+    },
+    {
+      "title": "IA identifica sintomas ocultos do Ozempic em 400 mil publicações em plataforma de fórum online",
+      "summary": "Uma análise de inteligência artificial em mais de 400 mil publicações no Reddit, plataforma de fórum online, identificou sintomas relatados por usuários de medicamentos à base de semaglutida e tirzepatida, os princípios ativos por trás de remédios como Ozempic, Wegovy, Mounjaro e Zepbound, que podem não estar totalmente descritos em bulas ou testes clínicos. O estudo foi conduzido por pesquisadores da Universidade da Pensilvânia (Penn) e publicado na revista científica Nature Health. Semaglutida e tirzepatida pertencem à classe dos agonistas do GLP-1, hormônio que atua no controle do apetite e da glicose no sangue. Os medicamentos dessa categoria, usados tanto no tratamento do diabetes tipo 2 quanto na perda de peso, tornaram-se alguns dos produtos farmacêuticos mais vendidos do mundo nos últimos anos. O que os pacientes contam fora dos consultórios A pesquisa reuniu mais de cinco anos de publicações de quase 70 mil usuários do Reddit. Dois grupos de sintomas chamaram a atenção dos autores por aparecerem com frequência maior do que a esperada: alterações no ciclo menstrual, como sangramento fora do período e sangramento intenso, e queixas ligadas à temperatura corporal, entre elas calafrios e ondas de calor. Os pesquisadores fazem questão de separar associação de causa. \"Não podemos afirmar que os GLP-1 causam esses sintomas, mas quase 4% relataram irregularidades menstruais\", disse Neil Sehgal, doutorando em Ciência da Computação e da Informação na Penn e primeiro autor do estudo. Segundo ele, essa proporção tende a ser ainda maior numa amostra composta só por mulheres. Testes clínicos, explica o coautor Lyle Ungar, professor da mesma universidade, são desenhados principalmente para detectar os efeitos colaterais mais graves de um medicamento, não necessariamente os que mais incomodam quem o toma no dia a dia. \"Comunidades on-line de pacientes funcionam como uma rede de boca a boca entre vizinhos\", afirmou. Os números que sustentam a pesquisa Cerca de 44% dos usuários analisados relataram pelo menos um efeito colateral, a maioria ligada a problemas gastrointestinais, sintomas já amplamente associados a esses medicamentos. \"Efeitos já conhecidos, como a náusea, mostram que o método capta um sinal real\", disse Sharath Chandra Guntuku, professor de Ciência da Computação e da Informação na Penn e autor sênior do estudo. Chamou a atenção dos pesquisadores o fato de a fadiga ter sido a segunda queixa mais comum entre os usuários do Reddit, apesar de aparecer com pouca frequência nos relatórios formais dos testes clínicos. Já os sintomas reprodutivos e as alterações de temperatura, embora bem menos frequentes que os problemas digestivos, se repetiram o suficiente para os autores os classificarem como sinais que merecem investigação mais aprofundada. Uma hipótese levantada pelos autores está relacionada ao hipotálamo, região do cérebro que ajuda a regular funções como fome, temperatura corporal, ciclo reprodutivo e produção de hormônios. Como os medicamentos à base de GLP-1 atuam justamente sobre essa área, os pesquisadores acreditam que possa existir uma ligação biológica plausível com os sintomas relatados. \"Isso não significa que os medicamentos causem esses sintomas, mas vale investigar melhor\", disse Jena Shaw Tronieri, do Centro de Peso e Transtornos Alimentares da Penn e coautora do estudo. A cautela é deliberada: a correlação encontrada nas publicações não substitui um ensaio clínico controlado, capaz de estabelecer relação de causa e efeito. Como a inteligência artificial tornou a análise possível Até pouco tempo, cruzar centenas de milhares de relatos informais de pacientes com a terminologia médica padronizada exigia um volume de trabalho manual que limitava o tamanho das amostras analisáveis. Pacientes raramente descrevem sintomas em linguagem clínica, e traduzir expressões cotidianas para categorias médicas reconhecidas pelos reguladores consumia tempo considerável. Modelos de linguagem como o GPT e o Gemini, sistemas de inteligência artificial capazes de processar e classificar grandes volumes de texto, mudaram esse cenário. Eles permitiram associar os relatos coletados no Reddit ao MedDRA, dicionário internacional de termos médicos usado por agências reguladoras para padronizar a descrição de sintomas e efeitos adversos, numa escala inédita. Segundo Sehgal, os modelos de linguagem tornaram esse tipo de análise muito mais rápida e trouxeram um nível de padronização difícil de alcançar antes. Os autores reconhecem que os usuários do Reddit não representam a população geral de quem usa GLP-1: tendem a ser mais jovens, majoritariamente homens e concentrados nos Estados Unidos. A equipe planeja ampliar a pesquisa para outras plataformas e para comunidades que não escrevem em inglês, de modo a verificar se os mesmos padrões se repetem em outros públicos. Para os autores, o método pode se tornar uma espécie de sistema de alerta precoce para efeitos colaterais de medicamentos e produtos de bem-estar que ganham popularidade rapidamente, incluindo substâncias vendidas fora dos canais regulados, como peptídeos injetáveis.",
+      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/09/ia-identifica-sintomas-ocultos-do-ozempic-em-400-mil-publicacoes-em-plataforma-de-forum-online.ghtml",
+      "published": "2026-09-14T13:29:54+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "mounjaro",
+        "ozempic",
+        "semaglutida",
+        "tirzepatida",
+        "wegovy",
+        "zepbound"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "zepbound",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -1917,37 +1995,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Funcionários de farmácias relatam pavor com assaltos por canetas emagrecedoras - BBC",
-      "summary": "Funcionários de farmácias relatam pavor com assaltos por canetas emagrecedoras &nbsp;&nbsp; BBC",
-      "url": "https://www.bbc.com/portuguese/articles/czxzewx2qq5o",
-      "published": "2026-09-07T14:11:32+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Estudo: canetas emagrecedoras reduzem risco de câncer ligado à obesidade - CNN Brasil",
@@ -4533,98 +4580,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Vídeos incentivam misturar medicamentos com energéticos para obter disposição; Anvisa alerta para riscos",
-      "summary": "Órgão critica \"banalização\" do uso de remédios em brincadeiras nas redes sociais; riscos incluem taquicardia, aumento da pressão arterial e até colapso",
-      "url": "https://veja.abril.com.br/saude/videos-incentivam-misturar-medicamentos-com-energeticos-para-obter-disposicao-anvisa-alerta-para-riscos",
-      "published": "2026-09-07T13:22:45+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "medicamentos"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "medicamentos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Huawei e Xiaomi se antecipam à Apple e apresentam novos smartphones dobráveis - bloomberglinea.com.br",
-      "summary": "Huawei e Xiaomi se antecipam à Apple e apresentam novos smartphones dobráveis &nbsp;&nbsp; bloomberglinea.com.br",
-      "url": "https://www.bloomberglinea.com.br/tech/huawei-e-xiaomi-se-antecipam-a-apple-e-apresentam-novos-smartphones-dobraveis",
-      "published": "2026-09-07T13:27:05+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Eletrônicos"
-      ],
-      "matched_aliases": [
-        "smartphones"
-      ],
-      "matches": [
-        {
-          "sector": "Eletrônicos",
-          "alias": "smartphones",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Agenda do STF: Ministros podem julgar nesta semana tributação de benefícios fiscais",
-      "summary": "O Supremo Tribunal Federal (STF) pode definir nesta quarta-feira dois temas de grande relevância econômica. Um dos processos trata da incidência de PIS e Cofins sobre benefícios fiscais concedidos pelos Estados na forma de créditos presumidos de ICMS. O impacto da tese já foi estimado em R$ 16,5 bilhões pela União. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/noticia/2026/09/07/agenda-do-stf-ministros-podem-julgar-nesta-semana-tributacao-de-beneficios-fiscais.ghtml",
-      "published": "2026-09-07T13:33:31+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "benefícios fiscais"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "benefícios fiscais",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Wall Street reordena el S&P 100 y Nike queda fuera del índice - iProUP",
-      "summary": "Wall Street reordena el S&amp;P 100 y Nike queda fuera del índice &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/economia-digital/71303-wall-street-reordena-el-sp-100-y-nike-queda-fuera-del-indice",
-      "published": "2026-09-07T13:40:26+00:00",
-      "source": "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "nike"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "nike",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Huawei lança linha de smartphones dobráveis para enfrentar Apple e Xiaomi na China",
@@ -8698,6 +8653,52 @@
       "score": 20.0
     },
     {
+      "title": "Anvisa proíbe venda de berberina sem registro, anunciada como 'Ozempic natural' - Folha de S.Paulo",
+      "summary": "Anvisa proíbe venda de berberina sem registro, anunciada como 'Ozempic natural' &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/anvisa-proibe-venda-de-berberina-sem-registro-anunciada-como-ozempic-natural.shtml",
+      "published": "2026-09-14T13:22:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ozempic"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "PRF flagra mulher transportando lança-perfume na bagagem, em Petrópolis - O GLOBO",
+      "summary": "PRF flagra mulher transportando lança-perfume na bagagem, em Petrópolis &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/rio/noticia/2026/09/14/prf-flagra-mulher-transportando-lanca-perfume-na-bagagem-em-petropolis.ghtml",
+      "published": "2026-09-14T13:23:38+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "perfume"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "perfume",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Simples Nacional: prazo para solicitar adesão muda e está aberto até o fim do mês; saiba detalhes",
       "summary": "O governo federal mudou as regras e, a partir deste ano, a solicitação para ingresso no Simples Nacional não será mais realizada no mês de janeiro. Agora, as empresas que não constarem como optantes pelo Simples Nacional e desejarem ser tributadas pela sistemática deverão solicitar a opção em setembro. Portanto, o prazo já está aberto. Com isso, a decisão precisa ser tomada com antecedência. Recuperação judicial: Casas Bahia consegue proteção temporária contra credores na Justiça Novos canais: Anvisa abre processo para regulamentar venda de remédios em app de delivery e e-commerce De acordo com o Ministério da Fazenda, essa mudança busca organizar a chegada das modificações da Reforma Tributária sobre o consumo (que criou dois impostos: IBS e CBS) no Simples Nacional. O Simples facilita o pagamento de impostos para empresas com faturamento anual de até R$ 4,8 milhões. Não houve alterações na regra para o Microempreendedor Individual (MEI). O que muda na prática? A principal novidade é o adiantamento do calendário. Novo prazo de opção: a escolha pelo Simples Nacional para o ano de 2027 deve ser feita entre 1º de setembro de 2026 e 30 de setembro de 2026. Quando começa a valer a opção? Mesmo escolhendo em setembro de 2026, o regime só passará a valer oficialmente em 1º de janeiro de 2027. Fim da opção em janeiro: Com a Reforma Tributária, a opção pelo Simples Nacional não será mais realizada em janeiro. Escolha do IBS e CBS: No mesmo período (setembro de 2026), a empresa deverá decidir se quer pagar o IBS e a CBS dentro do boleto único do Simples ou pelo regime regular (por fora). A validade dessa escolha será para os meses de janeiro a junho de 2027. E se não realizar a opção pelo recolhimento do CBS e IBS pelo regime regular em setembro/2026? No primeiro semestre do ano de 2027, deverá recolher ambos os tributos na guia única do Simples Nacional. Abri minha empresa no fim de 2026. E agora? Segundo a Receita, se a inscrição no CNPJ for feita entre 1º de outubro de 2026 e 31 de dezembro de 2026, a regra é diferente: Validade Dupla: A opção pelo Simples Nacional realizada no momento da inscrição no CNPJ valerá tanto para o período que restar de 2026 e para todo o ano de 2027. IBS e CBS: A escolha que for feita na abertura sobre pagar o IBS e a CBS por fora (regime regular) valerá a partir de janeiro de 2027. Quem já está no Simples Nacional precisa fazer algo? Em regra, a permanência no Simples Nacional é automática. Porém, é preciso verificar a situação fiscal: acesse o Portal do Simples Nacional em setembro/2026 para consultar se a sua empresa não foi excluída para o ano de 2027 devido a débitos ou outras pendências.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/09/simples-nacional-prazo-para-solicitar-adesao-muda-e-esta-aberto-ate-o-fim-do-mes-saiba-detalhes.ghtml",
@@ -8976,29 +8977,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Brasil tem pelo menos 19 milhões de nanoempreendedores, diz estudo",
-      "summary": "O Brasil tem pelo menos 19 milhões de trabalhadores que se enquadram na categoria de nanoempreendedores criada pela reforma tributária , segundo estudo encomendado pela Natura e conduzido pelo economista Fernando Blumenschein. Leia mais (09/07/2026 - 11h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/09/brasil-tem-pelo-menos-19-milhoes-de-nanoempreendedores-diz-estudo.shtml",
-      "published": "2026-09-07T14:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "natura"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "natura",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Huawei lança celular de US$ 3 mil às vésperas da estreia do iPhone dobrável",
@@ -10327,6 +10305,29 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Sidney Sweeney rebate críticas por sexualizar o esporte feminino",
+      "summary": "Atriz posou nua para campanha publicitária de apostas esportivas",
+      "url": "https://veja.abril.com.br/esporte/sidney-sweeney-rebate-criticas-por-sexualizar-o-esporte-feminino",
+      "published": "2026-09-14T14:10:55+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas esportivas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas esportivas",
           "field": "lead",
           "score": 8,
           "topic": null
