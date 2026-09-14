@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T00:12:05.823254+00:00",
-  "count": 380,
-  "new_this_run": 7,
+  "generated_at": "2026-09-14T06:29:43.208316+00:00",
+  "count": 378,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -1792,6 +1792,46 @@
       "score": 48.0
     },
     {
+      "title": "Split payment não pega supermercado, farmácia e cartão",
+      "summary": "Uma pessoa vai à farmácia e faz uma compra com cartão de crédito. Nos vídeos que circulam pela internet, a parcela que corresponde ao imposto pago pelo consumidor vai direto para os cofres do governo, em vez de entrar na conta da empresa. A culpa seria do split payment, uma das novas formas de arrecadação da reforma tributária . Mas como isso poderia acontecer, se a nova ferramenta em construção não funciona nas vendas para pessoas físicas nem nas operações com cartão? Leia mais (09/13/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/09/split-payment-nao-pega-supermercado-farmacia-e-cartao.shtml",
+      "published": "2026-09-14T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Farmácias",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "farmácia",
+        "reforma tributária",
+        "split payment"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "split payment",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Valor 1000: RD Saúde lidera setor de Comércio Varejista em 2026",
       "summary": "A RD Saúde é a campeã do setor Comércio Varejista, de acordo com o ranking Valor 1000 de 2026. A empresa foi homenageada em evento em São Paulo, que marca a 26ª edição da pesquisa que analisa os resultados das maiores e melhores companhias do país. Em 2025, a companhia registrou receita bruta de R$ 47,6 bilhões, alta de 13,9% em relação ao ano anterior. Pelas mais de 3.700 farmácias das redes Raia e Drogasil passaram 51,7 milhões de clientes, que realizaram mais de 440 milhões de transações. Foram mais de sete milhões de atendimentos farmacêuticos e 412 mil vacinas aplicadas. O Prêmio Valor 1000 é uma realização do Valor Econômico e de Época Negócios e conta com patrocínio ouro de Alelo, Caixa Seguridade, Huawei e Deloitte; patrocínio prata de FGV Educação Executiva, Vibra, MBRF, Febraban e XP; e patrocínio bronze de Intelbras, CNI Sistema Indústria, Sicredi e Mineração Taboca. A premiação tem a Azul como companhia aérea oficial e GAC como carro oficial do evento, o apoio de Fiesp e Eletromidia e a parceria de Serasa Experian e FGVcef/FGV-SP.",
       "url": "https://valor.globo.com/valor-1000/noticia/2026/09/08/valor-1000-rd-sade-lidera-setor-de-comrcio-varejista-em-2026.ghtml",
@@ -3401,6 +3441,37 @@
       "score": 40.0
     },
     {
+      "title": "Amazon suspende operações com 21 Air após queda de avião de carga em Miami",
+      "summary": "A Amazon disse no domingo (13) que suspendeu as operações com a 21 Air, empresa de transporte de carga sediada em Miami que operava o avião da Amazon que caiu na cidade no dia 6 de setembro, matando cinco pessoas. “Após o trágico incidente do último fim de semana, dedicamos tempo a apoiar a investigação e a analisar algumas das circunstâncias envolvidas. Decidimos suspender nossas operações com a 21 Air, operadora do voo 7598”, disse a porta-voz da Amazon, Kelly Nantel, em comunicado à Reuters. “Continuaremos trabalhando para apoiar a investigação e todos os afetados.” No domingo (6), um avião cargueiro da Amazon Prime Air ultrapassou o limite da pista e caiu durante o pouso no Aeroporto Internacional de Miami. O voo 7598 ultrapassou o fim da pista diagonal do aeroporto pouco antes das 14h (18h GMT) e atingiu vários veículos no solo, segundo as autoridades. De acordo com o Flightradar24, serviço de rastreamento de voos, a aeronave era um Boeing 767-300 cargueiro de 32 anos, que operou como avião de passageiros para várias companhias aéreas entre 1994 e 2015. O Conselho Nacional de Segurança nos Transportes (NTSB), que investiga o acidente, informou na semana passada que os pilotos do cargueiro da Amazon Prime Air consideraram abortar o pouso depois que a aeronave tocou o solo, com base em evidências do gravador de dados de voo. O NTSB também informou que um dos pilotos alertou que estavam voando “rápido demais” pouco mais de um minuto antes de tocar a pista, que acabariam ultrapassando. “Continuamos focados em apoiar as famílias e os entes queridos afetados por este acidente, bem como em trabalhar em estreita colaboração com o NTSB e todos os nossos parceiros, como a Amazon, enquanto a investigação prossegue. Confiamos em nossas políticas, procedimentos e treinamentos de segurança”, afirmou a 21 Air em comunicado à Reuters.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/14/amazon-suspende-operaes-com-21-air-aps-queda-de-avio-de-carga-em-miami.ghtml",
+      "published": "2026-09-14T05:25:49+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Valor 1000: RD Saúde vence no comércio varejista com abertura para experimentação",
       "summary": "Loja-conceito RD dedica 65% da área à beleza e inclui mais 33 marcas de alto padrão Julio Bittencourt/Valor A RD Saúde acredita ter entendido a cabeça do consumidor que decide gastar mais na rotina de cuidados com saúde, beleza e bem-estar — e quer se tornar sua prestadora de serviços preferencial. Uma das iniciativas é a Raia Conceito, primeira farmácia do grupo voltada à estética. Esse segmento ocupa 65% da área de 364 metros quadrados da loja, inaugurada no início de agosto, no bairro paulistano do Itaim Bibi. O projeto, feito em parceria com os fornecedores, incorpora ao sortimento 50 novas marcas, das quais 33 do segmento premium, somando 2.500 produtos de beleza ao portfólio. As pesquisas da empresa revelaram um grupo de consumidores que busca “convivência, experimentação e confiança”, na explicação de Renato Raduan, CEO da RD Saúde. “Para responder a esse movimento, criamos um ambiente sofisticado, sensorial e integrado, no qual medicamentos e serviços farmacêuticos convivem com categorias de beleza de maior valor agregado.” De acordo com o executivo, a integração entre físico e digital foi desenhada como uma experiência omnichannel, conectando o aplicativo, o atendimento presencial com vendedoras especializadas e a descoberta de produtos dentro da loja, que conta com 18 telas interativas para apoiar a comunicação com os consumidores. “A farmácia-conceito, com expansão prevista para outras cidades além da capital paulista, nos permite aprender com o consumidor e fazer evoluir a experiência de loja”, diz o CEO. “É importante ter várias unidades para ganhar volume e manter o abastecimento”, diz. Com a nova proposta, a RD Saúde estreia nas categorias fragrâncias e produtos profissionais para cabelos, de olho na expansão do mercado de beleza premium no Brasil. O segmento cresceu 10% no primeiro trimestre de 2026, acima da média global de cerca de 7%, segundo dados da Circana, consultoria especializada em inteligência de mercado. Raduan, CEO: ajuste para crescer mais Jorge Rosenberg/Divulgação Os resultados são positivos e levaram a companhia à liderança do setor de comércio varejista no anuário Valor 1000. Em 2025, a companhia registrou receita bruta de R$ 47,6 bilhões, alta de 13,9% em relação ao ano anterior. Pelas mais de 3.700 farmácias das redes Raia e Drogasil passaram 51,7 milhões de clientes, que realizaram mais de 440 milhões de transações. Foram mais de sete milhões de atendimentos farmacêuticos e 412 mil vacinas aplicadas. Prestes a completar dois anos como CEO, Raduan afirma que o bom desempenho decorre da melhora da qualidade dos serviços e da experiência do cliente. “Tivemos a humildade de reconhecer que algumas frentes precisavam de ajustes se quiséssemos seguir com a meta de crescimento nominal em torno de 12% até 2030”, afirma. “Respondemos por 19,7% de um mercado que tem muito espaço para crescer. Quando falamos de vacinação, nossa participação é de 40%. Criamos musculatura para expandir rápido. Abrimos praticamente uma nova farmácia a cada dia, a maior parte em cidades pequenas e nas franjas e minirregiões das grandes metrópoles. Mesmo diante de taxas elevadas de juros, mantemos a média de 10% de novas lojas por ano.” O executivo destaca fatores que têm contribuído para a prosperidade do segmento de farmácias, entre eles o envelhecimento da população, a maior preocupação com saúde e bem-estar e a difusão de cuidados preventivos. Soma-se a isso o avanço dos medicamentos da categoria agonistas do receptor GLP-1, principalmente as canetas emagrecedoras. “Mas os resultados não seriam positivos se não cultivássemos uma cultura genuína de cuidar das pessoas, que nos mantém há mais de 120 anos no mercado”, afirma. “Somos uma empresa centenária que busca fazer o melhor hoje sem perder os olhos no futuro, a fim de ter relevância também amanhã.” Manter a visão de longo prazo, mesmo com eventuais resultados fora do previsto, é uma tarefa difícil para uma companhia afetada pelo humor e pelas flutuações no poder de consumo da população. Arte/Valor A RD tem 75 mil colaboradores e está presente em cerca de 700 municípios. Raduan observa que a agenda ESG ajuda a garantir engajamento das equipes e melhora contínua de processos e resultados. “Somos uma plataforma de ascensão social, diversidade, inclusão e capacitação”, afirma. “Aplicamos sete milhões de horas de treinamento, registramos 22 mil promoções, tendo 100% da liderança operacional desenvolvida internamente. Nos cargos de iderança, 52,9% são ocupados por pessoas negras e 63,3% são preenchidos por mulheres.” Na frente ambiental, a RD Saúde antecipou em cinco anos a meta de redução de emissões de carbono prevista para 2030, 29% das entregas de curta distância são feitas por carros elétricos e 100% da energia consumida nas operações é renovável. O uso consciente da tecnologia é, de acordo com Raduan, um dos pilares de sustentação do grupo. São mais de cem casos de uso de ciência de dados e inteligência artificial (IA) em áreas como preços, abastecimento, estoques, atendimento e processos administrativos, com efeitos em receita, custos, produtividade e experiência do cliente. Para organizar essa agenda, a RD Saúde adota duas frentes complementares. Na primeira, concentra o time de ciência de dados nos problemas mais complexos e de maior impacto para o negócio e o cliente. “São iniciativas estruturantes, que exigem maior sofisticação tecnológica e têm potencial relevante de geração de valor”, diz o CEO. “Usamos IA na otimização de preços e promoções, previsão de demanda, abastecimento e gestão de estoques, atendimento e call center.” Como exemplo ele cita a MIA, assistente de IA para farmacêuticos, que em 2025 gerou cinco milhões de interações no chat. A ferramenta leva ao profissional na ponta informação, a fim de tornar o atendimento melhor e mais ágil. “Nosso SAC evoluiu com os agentes. O índice de retenção pelo chatbot, sem necessidade de avançar para outros canais ou atendimento humano, varia entre 75% e 78%, o que é bastante positivo”, diz. A segunda frente visa a difundir o uso de IA na organização, permitindo que as próprias áreas desenvolvam soluções para problemas do dia a dia. “No primeiro ciclo de hackathons, mobilizamos cerca de 500 funcionários de 20 diretorias e recebemos mais de 800 propostas. Em apenas três dias, 44 projetos foram desenvolvidos”, conta Raduan. Foi feita uma segunda rodada voltada a aplicação com vibe coding (desenvolvimento de software feito em linguagem natural, com apoio de IA) e outros 45 projetos ganharam vida, envolvendo monitoramento de preços da concorrência, automação de processos jurídicos, simuladores e gestão de chamados de manutenção, diz. “Para nós, IA é realidade cotidiana.”",
       "url": "https://valor.globo.com/valor-1000/noticia/2026/09/08/valor-1000-rd-saude-vence-no-comercio-varejista-com-abertura-para-experimentacao.ghtml",
@@ -4559,75 +4630,6 @@
       "score": 22.0
     },
     {
-      "title": "Endividamento e crédito caro reduzem empolgação do brasileiro com mercado de trabalho e renda em alta",
-      "summary": "Em outros momentos, o mercado de trabalho aquecido ajudaria a aumentar a percepção de otimismo da população, mas uma série de fatores tem feito com que a sensação de confiança do brasileiro não reflita os indicadores positivos de emprego. Leia mais (09/06/2026 - 23h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/09/endividamento-e-credito-caro-reduzem-empolgacao-do-brasileiro-com-mercado-de-trabalho-e-renda-em-alta.shtml",
-      "published": "2026-09-07T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Os curiosos produtos mais vendidos na farmácia do Rock in Rio",
-      "summary": "Cidade do Rock recebeu terceiro dia do festival neste domingo, 6",
-      "url": "https://veja.abril.com.br/cultura/os-curiosos-produtos-mais-vendidos-na-farmacia-do-rock-in-rio",
-      "published": "2026-09-07T03:49:41+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácia"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Você guarda maquiagem no banheiro? Entenda por que o hábito pode ser um problema - O GLOBO",
-      "summary": "Você guarda maquiagem no banheiro? Entenda por que o hábito pode ser um problema &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/ela/noticia/2026/09/07/voce-guarda-maquiagem-no-banheiro-entenda-por-que-o-habito-pode-ser-um-problema.ghtml",
-      "published": "2026-09-07T05:45:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "maquiagem"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Sleepy girl makeup: por que as olheiras viraram parte da maquiagem? - O GLOBO",
       "summary": "Sleepy girl makeup: por que as olheiras viraram parte da maquiagem? &nbsp;&nbsp; O GLOBO",
       "url": "https://oglobo.globo.com/ela/noticia/2026/09/07/sleepy-girl-makeup-por-que-as-olheiras-viraram-parte-da-maquiagem.ghtml",
@@ -5520,29 +5522,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Imposto seletivo fracassa se arrecadar",
-      "summary": "O título soa errado, mas não é. Se o Imposto Seletivo arrecadar cada vez mais, é bem provável que tenha fracassado. Na função fiscal clássica, o tributo é o meio de arrecadação do Estado para, após, executar as políticas públicas que a Constituição lhe impõe. A relação tributo e política pública é do lado das despesas. Arrecada-se aqui, gasta-se ali. Coerentemente, avalia-se o tributo pela previsibilidade da receita, pelo baixo custo de conformidade e pela menor distorção possível sobre as decisões econômicas. O Imposto Seletivo respeita outra sequência. Nele, a política pública não está no destino da receita, mas na própria incidência. O resultado sanitário ou ambiental é produzido no instante em que o preço se forma, antes de qualquer decisão orçamentária. O tributo deixa de financiar a política pública e passa a “ser a própria política pública”. Ele tem a função própria de distorcer o comportamento, incentivando a não ocorrência do fato gerador, consistente na inibição do consumo de determinados bens e serviços Assim, o critério de êxito se inverte. Um tributo fiscal bem-sucedido arrecada com regularidade. Um tributo seletivo bem-sucedido, se cumprir a finalidade que o justifica, arrecada progressivamente menos, porque a base tributável que ele alcança é exatamente aquilo que ele deveria reduzir. O artigo153, VIII, da Constituição, na redação da Emenda Constitucional nº 132/2023, outorgou competência finalisticamente vinculada a bens e serviços prejudiciais à saúde ou ao meio ambiente. O valor constitucional prestigiado, ali, é sanitário e ambiental. Não é arrecadatório. Disso decorre uma distinção que reputo essencial. Uma coisa é a eficiência que a norma incorpora ao ser criada como o valor abstratamente prestigiado, que chamo de eficiência-norma. Outra é a eficiência que ela efetivamente produz quando aplicada como o resultado concreto e verificável, a eficiência-fato. O sistema pressupõe que as duas se espelhem. Quando os efeitos divergem da razão que justificou a incidência, instala-se o desespelhamento, e a resposta constitucional exigível é o reespelhamento, pela via legislativa, hermenêutica ou controle jurisdicional. Aplicada ao Imposto Seletivo, a eficiência-fato só pode ser medida em indicadores de saúde e de meio ambiente. Arrecadação, nesse tributo, não é resultado. É, quando muito, sintoma e, frequentemente, sintoma de fracasso. O legislador complementar percebeu o problema. O artigo 476 da Lei Complementar nº 214/2025 determina a realização de avaliação quinquenal da incidência do Imposto Seletivo enquanto política social, ambiental e sanitária, simultaneamente à avaliação prevista no artigo 475, que alcança a devolução personalizada, a Cesta Básica Nacional e os regimes diferenciados e específicos. E os parágrafos 8º a 13º do artigo 475 indicam que, constatado o desvio, o Poder Executivo deverá encaminhar projeto de lei complementar alterando o escopo e a forma de aplicação. A primeira rodada tomará por base os dados do ano-calendário de 2030, com projeto até o último dia útil de março de 2031 e eficácia possível a partir de 2032. O significado institucional dessa previsão tem passado despercebido. Ao instituí-la, o legislador afastou a ficções de que a lei recém-editada é presumidamente eficiente por prazo indeterminado, e a de que a instituição da incidência bastaria para legitimá-la, independentemente dos efeitos. O Imposto Seletivo nasce como o único tributo do sistema submetido a prova periódica de resultado. Há, porém, um contrapeso incômodo no próprio desenho. O artigo 477 da mesma lei complementar determina que, a partir de 2027, a União compense eventual redução no montante entregue nos termos do artigo 159, I e II, da Constituição, decorrente da substituição da arrecadação do IPI pela do Imposto Seletivo; e o parágrafo 1º, II, confirma que o produto da arrecadação do Imposto Seletivo integra a base sobre a qual incide aquela repartição. A consequência é que os Estados e m unicípios passam a ter interesse financeiro na arrecadação de um tributo cujo êxito depende de arrecadar menos. O dispositivo confirma que o Imposto Seletivo não é sucedâneo arrecadatório do IPI e, paradoxalmente, ancora expectativas de receita em um tributo desenhado para se autoextinguir. O intervalo de cinco anos é instrumento de governança e previsibilidade, não salvo-conduto para a inércia. Se o desespelhamento entre a finalidade declarada e os efeitos reais se revelar intenso e antecipado, como por exemplo na hipótese do mercado ilegal se expandir já em 2028, o dever de correção de rumo não pode aguardar a janela de 2031. A revisão programada fortalece o sistema, mas não esgota os deveres que decorrem diretamente da Constituição. Se, em 2031, os dados mostrarem arrecadação crescente e indicadores sanitários e ambientais estáveis, a conclusão não será a de que o tributo prosperou. Será a de que a política falhou. A diferença, agora, é que o sistema terá como saber disso. RDNE Stock Project/Pexels",
-      "url": "https://valor.globo.com/legislacao/fio-da-meada/post/2026/09/imposto-seletivo-fracassa-se-arrecadar.ghtml",
-      "published": "2026-09-08T16:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "imposto seletivo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "imposto seletivo",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 20.0
@@ -8883,6 +8862,29 @@
       "score": 20.0
     },
     {
+      "title": "Marvvila conta que usou caneta emagrecedora após inchar durante tratamento de tumor - Gshow",
+      "summary": "Marvvila conta que usou caneta emagrecedora após inchar durante tratamento de tumor &nbsp;&nbsp; Gshow",
+      "url": "https://gshow.globo.com/festivais/rock-in-rio/video/marvvila-conta-que-usou-caneta-emagrecedora-apos-inchar-durante-tratamento-de-tumor-14957868.ghtml",
+      "published": "2026-09-13T22:41:07+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Medicamento experimental para Lito Sousa chega ao Brasil e é liberado em operação especial",
       "summary": "Planejada com antecedência, mobilização da Receita Federal e da Anvisa permitiu a liberação da substância 'em poucos minutos'",
       "url": "https://veja.abril.com.br/saude/medicamento-experimental-para-lito-sousa-chega-ao-brasil-e-e-liberado-em-operacao-especial",
@@ -9184,29 +9186,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "O produtor brasileiro pisou no freio — e isso vai mexer com os fertilizantes",
-      "summary": "Margens apertadas, endividamento e preços elevados reduzem o consumo, que deve cair para 45,1 milhões de toneladas em 2026, segundo o Rabobank",
-      "url": "https://exame.com/agro/por-que-o-produtor-brasileiro-esta-comprando-menos-fertilizantes",
-      "published": "2026-09-07T06:00:14+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Relógios de quartzo viram tendência e perdem o estigma de vilão entre colecionadores",
