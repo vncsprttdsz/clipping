@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T15:03:03.025636+00:00",
+  "generated_at": "2026-09-14T15:16:14.326476+00:00",
   "count": 371,
-  "new_this_run": 5,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -1283,45 +1283,6 @@
         }
       ],
       "score": 54.0
-    },
-    {
-      "title": "Importações de ‘canetas emagrecedoras’ recuam 22% em agosto, diz Citi",
-      "summary": "As importações brasileiras de medicamentos à base de hormônios polipeptídicos, indicador utilizado como termômetro da entrada de “canetas emagrecedoras” no país, caíram 22% na comparação com julho, diz o Citi. Os analistas Leandro Bastos e Renan Prata escrevem que o recuo foi puxado principalmente pela moderação nos fluxos procedentes da Itália, polo onde a Novo Nordisk vem modernizando e expandindo sua capacidade fabril. Em contrapartida, as remessas provenientes dos Estados Unidos e da Alemanha, adotadas pelo banco como termômetro da oferta do Mounjaro, da farmacêutica americana Eli Lilly, mantiveram-se estáveis. Apesar de a oscilação nos dados suscitar preocupações sobre a disponibilidade física e o risco de desabastecimento no varejo farmacêutico, o banco ressalta que o foco do mercado vem passando por uma mudança estrutural. As discussões agora estão centralizadas na elasticidade da demanda, no recrudescimento da concorrência e nas métricas de rentabilidade unitária da categoria em meio à entrada de genéricos e biossimilares. Unsplash",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/07/importaes-de-canetas-emagrecedoras-recuam-22-pontos-percentuais-em-agosto-diz-citi.ghtml",
-      "published": "2026-09-07T15:13:53+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "medicamentos"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "medicamentos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "Apostar em bets aumenta inadimplência e piora acesso ao crédito, diz estudo",
@@ -3346,6 +3307,37 @@
         {
           "sector": "Farmácias",
           "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Catadora de recicláveis encontra 19 joias de ouro no lixo, devolve à dona e recebe R$ 1.900 e 10 kg de arroz, no Vietnã - O GLOBO",
+      "summary": "Catadora de recicláveis encontra 19 joias de ouro no lixo, devolve à dona e recebe R$ 1.900 e 10 kg de arroz, no Vietnã &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/14/catadora-de-reciclaveis-encontra-19-joias-de-ouro-no-lixo-devolve-a-dona-e-recebe-r-1900-e-10-kg-de-arroz-no-vietna.ghtml",
+      "published": "2026-09-14T13:28:36+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "joias",
+        "ouro"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Joias",
+          "alias": "ouro",
           "field": "title",
           "score": 20,
           "topic": null
