@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T10:02:07.441790+00:00",
-  "count": 376,
-  "new_this_run": 0,
+  "generated_at": "2026-09-14T10:08:29.925317+00:00",
+  "count": 377,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -4331,6 +4331,37 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Canetas para crianças: duas em cada cinco saem da faixa de obesidade em novo estudo",
+      "summary": "Semaglutida reduz obesidade grave em crianças de 6 a 11 anos, mas uso exige cautelas",
+      "url": "https://veja.abril.com.br/saude/canetas-para-criancas-duas-em-cada-cinco-saem-da-faixa-de-obesidade-em-novo-estudo",
+      "published": "2026-09-14T10:00:50+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
           "field": "lead",
           "score": 8,
           "topic": null
