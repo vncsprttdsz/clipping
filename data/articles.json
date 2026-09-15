@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T12:47:05.828184+00:00",
-  "count": 372,
-  "new_this_run": 8,
+  "generated_at": "2026-09-15T12:57:59.592817+00:00",
+  "count": 374,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -4287,6 +4287,37 @@
           "alias": "material de construção",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Vendas no varejo caem 0,8% em julho",
+      "summary": "As vendas no comércio caíram 0,8% em julho, informou o IBGE nesta terça-feira. Efeito do crédito caro, do elevado endividamento e da ligeira queda na renda naquele mês. O segmento no varejo que apresentou o pior desempenho foi o de móveis e eletrodomésticos (-4,9%), que costuma depender de financiamento. Apesar da expectativa de um novo corte de juros nesta semana pelo Comitê de Política Monetária (Copom), os juros devem se manter em patamar elevando, reduzindo o apetite do consumidor. Dos oito grupos pesquisados, a segunda maior queda foi a de livros, jornais e papelaria (-4,2%). Tecidos e vestuário e calçados recuou 2,7%. Jpa do lado positivo, destacam-se combustíveis e lubrificantes, que tiveram avanço de 0,3%. Matéria em atualização",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/15/vendas-no-varejo-caem-08percent-em-julho.ghtml",
+      "published": "2026-09-15T12:42:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento",
+        "vendas no varejo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vendas no varejo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -8679,6 +8710,29 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa aprova 14 novas canetas injetáveis para emagrecer e tratar diabetes - bra1.com.br",
+      "summary": "Anvisa aprova 14 novas canetas injetáveis para emagrecer e tratar diabetes &nbsp;&nbsp; bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaF9qWE5qbEhPVEhvMjJtZVEtbXVMNG1DcW9zSUM3aDQzcWhuTkJiVm5YUkxqVlVWc2FmR3J4VktSUmlUNlc1eUJXU1ZnWWowQ1VPRFRvaTB1MTlZcE1NMFd5dWRUWElWTUhKajlVQzk3S01uV3Z2d3JXZDhXMW90ZF9vcTRySl9HVzNOdE9sNDhjcGlvRU5OZkprX050am9LemdtenRTTWFUeXhkR0R4SEJUejY?oc=5",
+      "published": "2026-09-15T10:07:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
