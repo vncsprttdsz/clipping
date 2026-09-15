@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T09:42:24.164619+00:00",
-  "count": 376,
-  "new_this_run": 0,
+  "generated_at": "2026-09-15T10:13:29.388144+00:00",
+  "count": 375,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -530,61 +530,6 @@
       "score": 80.0
     },
     {
-      "title": "Anvisa aprova dois genéricos de liraglutida da EMS para obesidade e diabetes",
-      "summary": "Registros usam como referência medicamentos já comercializados pela farmacêutica, mas chegada às farmácias e preços ainda não foram definidos",
-      "url": "https://exame.com/invest/mercados/anvisa-aprova-dois-genericos-de-liraglutida-da-ems-para-obesidade-e-diabetes",
-      "published": "2026-09-08T09:51:03+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ems",
-        "farmácias",
-        "liraglutida",
-        "medicamentos",
-        "obesidade"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ems",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "medicamentos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "liraglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "obesidade",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 76.0
-    },
-    {
       "title": "Dona do Ozempic, Novo Nordisk encurta marca para ‘Novo’",
       "summary": "A farmacêutica dinamarquesa Novo Nordisk, fabricante da “caneta emagrecedora” Ozempic, anunciou nesta segunda-feira que passará a adotar a marca comercial simplificada “Novo”, em meio aos preparativos para apresentar uma atualização de sua estratégia ainda neste mês. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/14/dona-do-ozempic-novo-nordisk-encurta-marca-para-novo.ghtml",
@@ -875,45 +820,6 @@
         }
       ],
       "score": 64.0
-    },
-    {
-      "title": "Anvisa aprova dois genéricos de liraglutida, usada em canetas para obesidade e diabetes - G1",
-      "summary": "Anvisa aprova dois genéricos de liraglutida, usada em canetas para obesidade e diabetes &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/saude/noticia/2026/09/08/anvisa-aprova-dois-genericos-de-liraglutida-usada-em-canetas-para-obesidade-e-diabetes.ghtml",
-      "published": "2026-09-08T10:04:10+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "liraglutida",
-        "obesidade"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "liraglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "obesidade",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Anvisa aprova genéricos de canetas emagrecedoras da EMS - 08/09/2026 - Equilíbrio e Saúde - Folha de S.Paulo",
@@ -1210,6 +1116,45 @@
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Poviztra é a mesma caneta emagrecedora do Wegovy, só que mais barata?",
+      "summary": "Dúvida é comum em meio à chegada de novos tratamentos para obesidade; entenda o que muda ou não muda na fórmula e no preço",
+      "url": "https://veja.abril.com.br/saude/poviztra-e-a-mesma-caneta-emagrecedora-do-wegovy-so-que-mais-barata",
+      "published": "2026-09-15T10:00:17+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 60.0
