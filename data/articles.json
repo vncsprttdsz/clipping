@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-15T09:24:52.426324+00:00",
-  "count": 375,
-  "new_this_run": 0,
+  "generated_at": "2026-09-15T09:32:40.565877+00:00",
+  "count": 376,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -8767,6 +8767,29 @@
         {
           "sector": "Cosméticos",
           "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "É cedo para dizer que inadimplência atingiu o pior momento, diz economista da Serasa - Bloomberg Línea Brasil",
+      "summary": "É cedo para dizer que inadimplência atingiu o pior momento, diz economista da Serasa &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/brasil/e-cedo-para-dizer-que-inadimplencia-atingiu-o-pior-momento-diz-economista-da-serasa",
+      "published": "2026-09-15T09:00:01+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
           "field": "title",
           "score": 20,
           "topic": null
