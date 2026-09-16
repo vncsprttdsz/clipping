@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T13:31:45.941062+00:00",
-  "count": 346,
-  "new_this_run": 5,
+  "generated_at": "2026-09-16T13:45:09.278342+00:00",
+  "count": 347,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -7626,6 +7626,29 @@
         {
           "sector": "E-commerce",
           "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "'Guilhotina' do BBA corta Nubank e só Bradesco escapa com recomendação positiva",
+      "summary": "A mudança faz parte de uma atualização das projeções do Itaú BBA para o setor bancário brasileiro em 2026 e 2027",
+      "url": "https://exame.com/invest/mercados/guilhotina-do-bba-corta-nubank-e-so-bradesco-escapa-com-recomendacao-positiva",
+      "published": "2026-09-16T10:37:36+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
           "field": "title",
           "score": 20,
           "topic": null
