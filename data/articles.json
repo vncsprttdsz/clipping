@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T09:12:59.174877+00:00",
-  "count": 335,
-  "new_this_run": 9,
+  "generated_at": "2026-09-16T09:17:43.113416+00:00",
+  "count": 337,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -2687,6 +2687,37 @@
         {
           "sector": "Farmácias",
           "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa autorizou 14 novos medicamentos injetáveis para diabetes e obesidade neste ano - UrbNews",
+      "summary": "Anvisa autorizou 14 novos medicamentos injetáveis para diabetes e obesidade neste ano &nbsp;&nbsp; UrbNews",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeFA4Z3hSTlhHNWJPc3RmcXQ2QjBHRVd1VGZvLWNDTmFpcVd2VW9yaFJvbFI4OUY1V0t5MFp1a1JVRzJOa3V2NDQ3RDJHc2lhaW82X3RNQVB1NGZSRHgzNndlVG1KRWNvSmI3bU9lcV9mWVF0OW1jUU51UVY5WFNHTjF4dHJWU3A4MjhvNDc4NXowSzFXaWIzQmZycVc4bmwxd1RBRU9FeWp3dEFyaEY3TkNHVlAwQWJNSE41TA?oc=5",
+      "published": "2026-09-14T20:34:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamentos",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
           "field": "title",
           "score": 20,
           "topic": null
@@ -7500,6 +7531,29 @@
         {
           "sector": "Fashion",
           "alias": "marabraz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Hugo Boss names Frasers chief as new chair",
+      "summary": "Michael Murray’s appointment at German fashion group follows Stephan Sturm’s exit this week",
+      "url": "https://www.ft.com/content/96e80f6b-f4b6-4873-9d05-ab8740b1fd96?syn-25a6b1a6=1",
+      "published": "2026-09-16T09:10:10+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "hugo boss"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "hugo boss",
           "field": "title",
           "score": 20,
           "topic": null
