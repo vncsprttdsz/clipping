@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T12:42:25.732373+00:00",
-  "count": 340,
-  "new_this_run": 4,
+  "generated_at": "2026-09-16T12:54:35.624896+00:00",
+  "count": 343,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -2885,6 +2885,37 @@
       "score": 40.0
     },
     {
+      "title": "‘Caneta emagrecedora’ do Paraguai é proibida pela Anvisa no Brasil",
+      "summary": "Órgão diz que produto não possui registro sanitário e, portanto, não teve sua segurança e eficácia avaliadas no país; item era anunciado nas redes sociais",
+      "url": "https://veja.abril.com.br/saude/caneta-emagrecedora-do-paraguai-e-proibida-pela-anvisa-no-brasil",
+      "published": "2026-09-16T12:46:03+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Brasileira investe R$ 40 milhões em aeroportos para desafiar gigantes globais da logística",
       "summary": "Nova infraestrutura da TriStar Express permitirá que cargas de e-commerce, medicamentos e pesquisa clínica cheguem diretamente a diferentes regiões do país.",
       "url": "https://exame.com/negocios/brasileira-investe-r-40-milhoes-em-aeroportos-para-desafiar-gigantes-globais-da-logistica",
@@ -3649,6 +3680,38 @@
           "alias": "galpões",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Justiça de São Paulo manda Enel e CPFL religarem energia em lojas da Marabraz",
+      "summary": "A Justiça de São Paulo determinou que Enel e CPFL (Companhia Paulista de Força e Luz) restabeleçam o fornecimento de energia para oito lojas do grupo Marabraz. Conforme decisão da juíza Fernanda Perez Jacomini, as empresas têm 24 horas, contadas da intimação, para retomar o serviço e não podem promover novos cortes baseados em débitos anteriores ao pedido de recuperação judicial da varejista. Leia mais (09/16/2026 - 09h37)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/justica-de-sao-paulo-manda-enel-e-cpfl-religarem-energia-em-lojas-da-marabraz.shtml",
+      "published": "2026-09-16T12:37:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Fashion",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "marabraz",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marabraz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -7569,6 +7632,29 @@
       "score": 20.0
     },
     {
+      "title": "Dario Vitale appointed to lead Emporio Armani",
+      "summary": "The Italian designer who left Versace last year has joined the company amid ongoing speculation about its future. He will also design accessories for the Giorgio Armani brand",
+      "url": "https://www.ft.com/content/f02d60d3-50fc-4fa8-9c49-2e4d3d14ea05?syn-25a6b1a6=1",
+      "published": "2026-09-16T10:52:35+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "armani"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "armani",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "CEO da Frasers assume conselho da Hugo Boss e reforça controle sobre grife alemã - Bloomberg Línea Brasil",
       "summary": "CEO da Frasers assume conselho da Hugo Boss e reforça controle sobre grife alemã &nbsp;&nbsp; Bloomberg Línea Brasil",
       "url": "https://www.bloomberglinea.com.br/negocios/ceo-da-frasers-assume-conselho-da-hugo-boss-e-reforca-controle-sobre-grife-alema",
@@ -7630,6 +7716,29 @@
         {
           "sector": "Global Consumer",
           "alias": "hugo boss",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "iFood anuncia R$ 24 bilhões em investimentos e acelera expansão para além do delivery",
+      "summary": "Empresa vai ampliar aportes em 41% e aposta em inteligência artificial, crédito, supermercados e serviços para restaurantes",
+      "url": "https://veja.abril.com.br/economia/ifood-anuncia-r-24-bilhoes-em-investimentos-e-acelera-expansao-para-alem-do-delivery",
+      "published": "2026-09-16T12:52:21+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8008,37 +8117,6 @@
         }
       ],
       "score": 16.0
-    },
-    {
-      "title": "Plataforma de IA da Pax soma mais de 5 mil casos resolvidos",
-      "summary": "O policial em campo digita o que a vítima acabou de descrever. Não a placa — que a vítima quase nunca viu. O carro prata, o adesivo na traseira, o amassado na porta do motorista, a mochila que o suspeito carregava. Em segundos, a plataforma criada pela startup de IA brasileira Pax devolve em quais câmeras aquele veículo passou e quando. É essa camada que separa a nova geração de tecnologia de segurança pública da anterior: busca por características, em linguagem natural, rodando sobre a rede de câmeras que o estado já tem — sem depender apenas de leitura de placa ou de reconhecimento facial. A plataforma da Pax cruza o que encontra em câmeras com boletins de ocorrência e mandados em aberto. O policial dispara o alerta e avisa à equipe mais próxima para fazer a intervenção. Desenvolvida para funcionar como uma assistente digital para policiais, a tecnologia acumula, ao longo do último ano, mais de 5 mil casos com auxílio da plataforma, somando todos os programas em que a empresa atua. São mais de 3,1 mil prisões e mais de 1,7 mil veículos recuperados no Brasil. Os números chegam no ano em que a segurança pública virou bandeira de campanha de partidos de espectros diferentes — agora com um componente novo no trabalho das polícias: inteligência artificial cruzando dados para orientar operações em tempo real. Em Goiás, o programa IA Contra o Crime é conduzido com a Secretaria de Segurança Pública (SSP-GO) e, segundo a secretaria, deve sair de 9 para mais de 200 municípios até o fim de 2026. No Paraná, a Secretaria de Estado da Segurança Pública (SESP-PR) informou no início de setembro que o programa Olho Vivo, presente em 20 municípios, chegou a 1,9 mil casos resolvidos desde dezembro de 2025. Há ainda pilotos da Pax em parcerias com estados e municípios do Sudeste, do Nordeste e do Norte. A empresa nasceu em 2024 como Paladium, com a proposta de construir do zero uma tecnologia brasileira para segurança pública, e adotou a marca Pax em março deste ano, quando foi anunciada oficialmente ao mercado. Os primeiros pilotos, em Goiás e no Paraná, evoluíram para programas estaduais. A polícia usando a IA na prática Goiás - a joalheria. Um dia depois do furto registrado em uma joalheria em shopping de Goiânia, três suspeitos foram presos. O processamento das imagens de monitoramento, o cruzamento das bases criminais e a geração de rotas de fuga prováveis apoiaram a identificação e a localização dos suspeitos, em trabalho que integrou equipes de Goiás e do Distrito Federal. Joias, dinheiro e três celulares foram recuperados. Paraná - a mochila. Em Maringá, a busca por características identificou a mochila que o suspeito de um furto carregava. Bastou ao policial digitar na plataforma \"Suspeito com mochila azul do time de futebol PSG\" para identificá-lo dirigindo uma motocicleta, com uma placa aparente. Com essas duas pistas, uma equipe em patrulhamento o localizou no dia 18 de junho, usando roupas parecidas com as que vestia no dia do furto e a mesma mochila apontada pelo sistema. Ceará - a Expocrato. Durante a Expocrato, entre 11 e 19 de julho no Parque de Exposições Pedro Felício Cavalcante, em Crato, 24 pessoas com mandados de prisão em aberto foram presas com auxílio da plataforma, segundo a Secretaria da Segurança Pública e Defesa Social (SSPDS). Entre elas, um homem procurado desde 2013 por roubo à mão armada, e uma pessoa cuja aparência havia mudado significativamente em relação às fotos disponíveis. Três celulares e um veículo com registro de furto ou roubo também foram recuperados.",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/09/09/plataforma-de-ia-da-pax-soma-mais-de-5-mil-casos-resolvidos-1.ghtml",
-      "published": "2026-09-09T12:53:06+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "joalheria",
-        "prata"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joalheria",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "prata",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 10.0
     },
     {
       "title": "Empresas dos EUA lançam onda inédita de emissão de títulos na Europa",
