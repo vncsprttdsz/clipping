@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-16T06:12:34.120245+00:00",
-  "count": 344,
-  "new_this_run": 6,
+  "generated_at": "2026-09-16T09:12:59.174877+00:00",
+  "count": 335,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -449,6 +449,118 @@
         }
       ],
       "score": 72.0
+    },
+    {
+      "title": "Canetas emagrecedoras viram benefício corporativo",
+      "summary": "O avanço dos tratamentos medicamentosos contra a obesidade chegou às políticas de benefícios corporativos. A Vidalink, empresa que oferece planos de bem-estar corporativo e planos de subsídios de medicamentos para funcionários, intermediou, nos últimos três anos, 93.979 compras de canetas emagrecedoras como Wegovy, Mounjaro e Ozempic realizadas por trabalhadores de mais de 200 empresas clientes da companhia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/carreira/noticia/2026/09/16/canetas-emagrecedoras-viram-beneficio-corporativo.ghtml",
+      "published": "2026-09-16T08:30:00+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro",
+        "ozempic",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 64.0
+    },
+    {
+      "title": "Casas Bahia contesta plano de recuperação do GPA na Justiça de São Paulo",
+      "summary": "O grupo Casas Bahia apresentou posição contrária ao plano de recuperação extrajudicial do GPA ( Grupo Pão de Açúcar ). Segundo a varejista, o GPA não detalhou o valor total das dívidas submetidas à recuperação e, por isso, não é possível medir a veracidade dos titulares de 57,49% de créditos que teriam aprovado o plano. Leia mais (09/16/2026 - 06h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/casas-bahia-contesta-plano-de-recuperacao-do-gpa-na-justica-de-sao-paulo.shtml",
+      "published": "2026-09-16T09:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "gpa",
+        "grupo pão de açúcar",
+        "pão de açúcar",
+        "recuperação extrajudicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação extrajudicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 64.0
     },
     {
       "title": "Caneta emagrecedora ganha versão genérica: Anvisa libera liraglutida da EMS - InfoMoney",
@@ -970,45 +1082,6 @@
         }
       ],
       "score": 56.0
-    },
-    {
-      "title": "Fim de incentivos desloca galpões logísticos",
-      "summary": "A reforma tributária já começou a mudar o planejamento logístico de grandes empresas e deverá mudar o mapa dos centros de distribuição (CDs) no país. Levantamento da consultoria Ilos, com 110 companhias de faturamento médio de R$ 22 bilhões, aponta que 21% delas deverão mudar a localização de seus CDs por conta das novas regras tributárias. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/09/09/fim-de-incentivos-desloca-galpoes-logisticos.ghtml",
-      "published": "2026-09-09T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "centros de distribuição",
-        "galpões",
-        "galpões logísticos"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "centros de distribuição",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "galpões logísticos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "galpões",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "IBS e CBS na base do ICMS: o que dizem os Estados",
@@ -2748,90 +2821,98 @@
       "score": 40.0
     },
     {
-      "title": "Reforma tributária começa a redesenhar logística",
-      "summary": "Vergueiro, diretor do Mercado Livre: Infraestrutura mais perto do consumidor Divulgação A reforma tributária já começou a mudar o planejamento logístico das grandes empresas e deverá mudar o mapa dos centros de distribuição (CDs) no país. Levantamento da consultoria Ilos, realizado com 110 companhias com faturamento médio de R$ 22 bilhões, aponta que 21% delas deverão mudar a localização de seus CDs por conta da mudança de regras tributárias. A pesquisa mostra que o espaço para mudanças é grande. Mais da metade das empresas pesquisadas, 51%, afirma ter hoje custos logísticos maiores para obter benefícios tributários, e 54% disseram ter algum centro de distribuição com benefício fiscal — o que deixará de existir. Na prática, isso significa manter estoques mais distantes dos principais mercados consumidores porque a economia com impostos compensa o gasto adicional com transporte e armazenagem. “Quando se fala em mudança da malha logística, não é só da localização dos centros de distribuição, mas dos fluxos. Mais da metade das grandes empresas têm fluxos que não fazem sentido do ponto de vista logístico. Não quer dizer que os CDs vão desaparecer, mas vão ser redimensionados”, afirma Leonardo Julianelli, sócio-diretor da Ilos. Um levantamento da Galeazzi & Associados ajuda a dimensionar a distorção. Segundo Eduardo Mollo, sócio da consultoria, cerca de 70% dos CDs analisados estavam fora de São Paulo. “Com a reforma tributária, essa lógica perde importância e as empresas vão ter que voltar a olhar para a malha pensando muito mais em eficiência logística, custo de transporte, armazenagem e proximidade do consumidor.” Um dos objetivos da reforma foi acabar com a guerra fiscal entre Estados, justamente a lógica que ajudou a construir essa malha. O ICMS (Imposto sobre Circulação de Mercadorias e Serviços), principal instrumento de isenção usado pelos Estados, dará lugar ao IBS (Imposto sobre Bens e Serviços), que também substituirá o ISS (Imposto Sobre Serviços), municipal; no âmbito federal, os tributos atuais serão trocados pela CBS (Contribuição sobre Bens e Serviços). A CBS começa a valer em 2027, e o ICMS e o ISS passam a ser substituídos gradualmente a partir de 2029, até serem extintos em 2033. Para a logística, outra mudança central é que o recolhimento do tributo, hoje feito no local de produção ou armazenagem, passará a ser feito no Estado de consumo do produto. Isso reduz o incentivo para Estados oferecerem vantagens de ICMS apenas para atrair fábricas e centros de distribuição. Com a aproximação das novas regras, Camila Lima, vice-presidente de Operações da FedEx no Brasil, disse que já observa um movimento ligado à reforma. “Muitos dos clientes que estão em localidades subsidiadas já iniciaram a conversa de revisão da estratégia. Tem cliente que deve decidir ficar nas localidades não pela questão de impostos, mas por apostar no crescimento da região, por considerá-la estratégica comercialmente e que faz sentido do ponto de vista logístico.” No comércio eletrônico, um dos setores cuja malha foi mais moldada pelos incentivos estaduais, as grandes empresas têm expandido suas estruturas logísticas com foco em estar mais perto dos consumidores e têm repensado sua malha. Nesse sentido, a região Nordeste tem ganhado destaque. As plataformas, no entanto, não associam diretamente o redesenho à reforma. A Shopee saiu de 16 para 26 centros de distribuição no país neste ano, alta de mais de 60% sobre o fim de 2025. Quatro dessas unidades estão no Nordeste, onde a empresa abriu em maio, em Itaitinga (CE), um CD para complementar a malha que já tinha na Bahia e em Pernambuco. “Continuamos avaliando onde a rede física faz mais sentido, e podemos afirmar que o Nordeste é uma região que vem ganhando relevância nesse mapa”, afirma Rafael Flores, responsável pela área de expansão da companhia. O executivo, porém, afirma que as decisões são guiadas “sobretudo pela proximidade com a demanda” e classifica a tributação no destino como parte de um cenário mais amplo, que “impõe um período de adaptação para todos os elos da cadeia”. Avaliamos onde a rede física faz mais sentido e o Nordeste ganha relevância” O Mercado Livre segue a mesma direção. “A nossa estratégia de expansão tem descentralizado os estoques e levado a infraestrutura para cada vez mais perto dos consumidores, com forte atenção a regiões como o Norte e o Nordeste”, afirmou Luiz Vergueiro, diretor sênior de operações logísticas. A empresa tem 3,3 milhões de m2 construídos no Brasil. Ao ser questionado a respeito do impacto da reforma tributária nesse movimento, ele disse que preferia não comentar. A Amazon, que tem mais de 300 centros logísticos no país, inaugurou em maio um deles em Salvador. Em nota, a empresa disse que a escolha do local de cada unidade parte de um estudo que aponta os pontos capazes de alcançar o maior número de clientes com maior velocidade de entrega. No caso da Bahia, pesaram ainda a densidade do mercado regional e a base de vendedores parceiros já cadastrados no Estado. Sobre a reforma tributária, o grupo afirmou que “acompanha as atualizações regulatórias”. Para Mauricio Salvador, membro do conselho da Abiacom, entidade que representa o comércio eletrônico, o rearranjo de centros logísticos, com aumento de unidades no Nordeste, tende a derrubar para um ou dois dias prazos que hoje ficam entre três e cinco fora do eixo Rio-São Paulo, com rotas mais curtas que podem reduzir o custo do frete entre 30% e 50%, dependendo da operação e da região. A entidade, porém, diz ainda não ter feito uma análise específica sobre o novo modelo tributário. Essa falta de conhecimento foi constatada na pesquisa do Ilos, que apontou que boa parte das companhias ainda nem sequer analisou totalmente os efeitos da reforma tributária sobre a sua cadeia de suprimentos: apenas 13% diz ter mapeado tudo até 2033; 41% fez um mapeamento parcial; 21% analisou só os efeitos imediatos; e 25% ainda não iniciou essa avaliação. “Nos surpreendeu esse baixo nível de mobilização”, disse Julianelli. O desenho atual produziu polos logísticos que não estão necessariamente próximos dos maiores mercados consumidores. Em pesquisa anterior, a Ilos constatou que 78% das empresas consideravam a questão tributária altamente relevante na definição de suas malhas, e que cerca de 40% do faturamento das companhias estava associado a CDs beneficiados por incentivos — no setor de bens de consumo, a parcela chegava a 58%. Minas Gerais liderava em número de centros incentivados. Extrema, no sul de Minas, tornou-se um símbolo dessa configuração, ao combinar a proximidade com São Paulo e benefícios de ICMS. Em 2017, a cidade tinha menos de 100 mil m2 de imóveis logísticos; em 2022, já se aproximava de 850 mil m2, segundo a CBRE. Para Lima, da FedEx, ainda é cedo para apontar uma tendência de esvaziamento de centros em regiões incentivadas. Segundo ela, a atratividade desses locais dependerá não apenas da política tributária, mas também de fatores como infraestrutura e qualificação da mão de obra. “A questão do imposto é importante, mas não é o único na cadeia de solução logística”, disse. Richard Edward Dotoli, sócio da área tributária do SiqueiraCastro, também destaca que apesar da redução do peso de arbitragem entre os Estados, isso não significa que polos como Extrema percam automaticamente seus CDs. A infraestrutura já instalada e a cadeia de prestadores de serviços construída ao redor fazem parte da nova conta. A extinção do ICMS apenas em 2033 dá às empresas algum tempo para adaptar suas operações, mas torna a decisão mais complexa. Benefícios fiscais ainda terão valor econômico durante parte do período, enquanto investimentos feitos agora em galpões, sistemas e estoques precisam fazer sentido para uma estrutura tributária que será diferente ao fim da década. “Durante a transição, será preciso colocar na conta tanto o efeito tributário quanto o custo de mudar a operação”, diz Dotoli.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/09/reforma-tributaria-comeca-a-redesenhar-logistica.ghtml",
-      "published": "2026-09-09T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
+      "title": "Amazon Prime Video passa a exibir vídeos curtos de notícias - Estadão",
+      "summary": "Amazon Prime Video passa a exibir vídeos curtos de notícias &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/tecmundo/produto-e-review/amazon-prime-video-passa-a-exibir-videos-curtos-de-noticias",
+      "published": "2026-09-15T20:02:22+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
-        "E-commerce"
+        "E-commerce",
+        "Global Consumer"
       ],
       "matched_aliases": [
-        "centro de distribuição",
-        "centros de distribuição",
-        "logística",
-        "mercado livre"
+        "amazon"
       ],
       "matches": [
         {
           "sector": "E-commerce",
-          "alias": "centro de distribuição",
-          "field": "body",
-          "score": 2,
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
           "topic": null
         },
         {
-          "sector": "E-commerce",
-          "alias": "centros de distribuição",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "logística",
+          "sector": "Global Consumer",
+          "alias": "amazon",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 38.0
+      "score": 40.0
     },
     {
-      "title": "“O iPhone É Um Objeto de Desejo”: A Aposta da Maior Distribuidora de Eletrônicos do Brasil nos Celulares Usados",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Silvio Stagni, que participou do início da telefonia móvel no país, conta como a Allied quer crescer com a Trocafy e o mercado corporativo após mais que dobrar o lucro no segundo trimestre O post “O iPhone É Um Objeto de Desejo”: A Aposta da Maior Distribuidora de Eletrônicos do Brasil nos Celulares Usados apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/09/o-iphone-e-um-objeto-de-desejo-a-aposta-da-maior-distribuidora-de-eletronicos-do-brasil-nos-celulares-usados",
-      "published": "2026-09-09T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
+      "title": "Leilão da Casas Bahia tem eletrodomésticos com até 69% de desconto; veja como participar",
+      "summary": "Leilões online de eletrodomésticos da Casas Bahia oferecem descontos de até 69% para retirada de itens nas regiões metropolitanas de São Paulo e Rio de Janeiro . A compra, porém, é uma aposta: os produtos são vendidos sem garantia de funcionamento, podem ter avarias ou servir só de sucata. Leia mais (09/16/2026 - 04h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/leilao-da-casas-bahia-tem-eletrodomesticos-com-ate-69-de-desconto-veja-como-participar.shtml",
+      "published": "2026-09-16T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
+        "E-commerce",
         "Eletrônicos"
       ],
       "matched_aliases": [
-        "allied",
-        "eletrônicos",
-        "trocafy"
+        "casas bahia",
+        "eletrodomésticos"
       ],
       "matches": [
         {
-          "sector": "Eletrônicos",
-          "alias": "trocafy",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Eletrônicos",
-          "alias": "eletrônicos",
+          "sector": "E-commerce",
+          "alias": "casas bahia",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
           "sector": "Eletrônicos",
-          "alias": "allied",
-          "field": "lead",
-          "score": 8,
+          "alias": "eletrodomésticos",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 36.0
+      "score": 40.0
+    },
+    {
+      "title": "Justiça determina exclusão do IBS e CBS do cálculo do ICMS",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/legislacao/noticia/2026/09/16/justica-determina-exclusao-do-ibs-e-cbs-do-calculo-do-icms.ghtml",
+      "published": "2026-09-16T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 40.0
     },
     {
       "title": "Brasileira investe R$ 40 milhões em aeroportos para desafiar gigantes globais da logística",
@@ -2991,6 +3072,55 @@
         {
           "sector": "Global Consumer",
           "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 32.0
+    },
+    {
+      "title": "Bancos e escritórios de advocacia reforçam áreas que cuidam de créditos na UTI",
+      "summary": "Bancos e escritórios de advocacia estão se reorganizando e reforçando equipes que cuidam de empréstimos a empresas em dificuldade financeira depois que uma série de gigantes como Casas Bahia , Braskem e Grupo Pão de Açúcar pediram recuperação judicial (RJ) ou extrajudicial (RE). Leia mais (09/16/2026 - 06h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/bancos-e-escritorios-de-advocacia-reforcam-areas-que-cuidam-de-creditos-na-uti.shtml",
+      "published": "2026-09-16T09:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "grupo pão de açúcar",
+        "pão de açúcar",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -3586,6 +3716,37 @@
       "score": 28.0
     },
     {
+      "title": "Brookfield compra galpões por R$ 1,4 bi",
+      "summary": "A gestora canadense Brookfield fechou uma compra de galpões com a Marq Logistics (ex-GLP) por aproximadamente R$ 1,4 bilhão. A operação envolve oito ativos, que somam 560 mil m2 de área bruta locável. Quatro estruturas ficam em São Paulo, e as outras, no Rio. Com o negócio, o portfólio da Brookfield em galpões logísticos cresce 56%. A gestora levantou 70% do valor da compra por meio de operações de dívida. O restante vem de um fundo global para investimento no setor imobiliário. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/09/16/brookfield-compra-galpoes-por-r-14-bi.ghtml",
+      "published": "2026-09-16T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "galpões",
+        "galpões logísticos"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "galpões logísticos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Primavera renova repertório dos perfumes florais",
       "summary": "Com a aproximação da primavera no Brasil, cresce a procura por perfumes florais, mas a categoria vai muito além da ideia de fragrância doce, romântica ou exclusivamente feminina. O período de transição de temperatura no país costuma intensificar a busca por fragrâncias mais leves, mas a variedade dentro da própria categoria floral ainda gera confusão entre consumidores. De acordo com Brunno Magnavita, sócio-fundador da Universo do Perfume, marca especializada em perfumaria premium, uma mesma flor pode resultar em composições completamente distintas, a depender da estrutura do perfume, da concentração escolhida e até da química da pele de quem usa. \"Uma rosa, um jasmim ou uma flor branca podem se comportar de formas muito diferentes na pele, a depender de quais outras notas compõem a fragrância\", afirma. O principal equívoco, segundo ele, é tratar 'floral' como sinônimo de perfume doce, romântico, delicado ou exclusivamente feminino. \"A família floral é muito ampla. Dependendo da construção, uma rosa pode ficar fresca e verde, um jasmim pode ganhar caráter mais cremoso ou intenso, e flores brancas podem aparecer em composições cítricas, amadeiradas ou mais encorpadas\", explica Magnavita. Como a estrutura muda a percepção De acordo com o guia sobre notas de perfume publicado pela Universo do Perfume, a evolução de uma fragrância se organiza em notas de topo, coração e fundo, camadas que evaporam em ritmos diferentes e explicam por que uma mesma composição floral muda de percepção ao longo das horas. \"A flor nunca atua sozinha. Notas cítricas e verdes podem deixar a composição mais fresca; madeiras, âmbar e especiarias podem dar profundidade; almíscares e notas cremosas mudam textura e sensação\", assinala o sócio-fundador da Universo do Perfume. Ele acrescenta que a posição dessas matérias-primas na evolução do perfume também interfere na percepção, assim como a temperatura e a ocasião de uso. Concentração e química da pele A concentração da fragrância tem papel direto na experiência olfativa. Magnavita informa que categorias como eau de cologne, eau de toilette e eau de parfum alteram a quantidade de matérias aromáticas presentes na fórmula, fator que pode influenciar presença, evolução e duração, mas que não deve ser analisado isoladamente. \"A concentração influencia a quantidade de matérias aromáticas e pode alterar presença, evolução e duração, mas não deve ser analisada isoladamente: fórmula, matérias-primas e proposta do perfume também contam. A pele de cada pessoa ainda interfere na percepção por fatores como temperatura, oleosidade e hidratação, por isso testar na própria pele é importante\", reitera o especialista. Critérios para explorar florais na primavera Com a chegada da estação, Magnavita recomenda que o consumidor identifique primeiro qual perfil floral prefere, entre fresco, verde, cítrico, cremoso, frutado, amadeirado ou mais intenso, em vez de escolher apenas pela flor destacada no nome do produto. Depois, clima, ocasião e desempenho desejado devem entrar na decisão, sempre com teste prévio na pele antes da compra. Para ele, classificações de gênero também merecem menos peso na escolha de um floral. \"Hoje existem excelentes florais femininos, masculinos e compartilháveis. O mais útil é entender a construção da fragrância e como ela se comporta na pessoa\", pontua. A curadoria da Universo do Perfume trabalha com essa lógica, orientando o público a comparar composições por notas florais e ocasiões de uso, e não apenas pelo rótulo de gênero indicado na embalagem. A diversidade da família floral reflete um movimento mais amplo da perfumaria contemporânea, que aproxima notas, acordes e concentrações de públicos diferentes ao longo do ano. \"Compreender esses elementos amplia o repertório de quem busca uma fragrância para a primavera, reduz escolhas por impulso e favorece uma decisão mais consciente sobre qual perfume floral acompanhar na nova estação\", ressalta o executivo. Para mais informações, basta acessar: https://www.universodoperfume.com.br",
       "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/09/09/primavera-renova-repertorio-dos-perfumes-florais-1.ghtml",
@@ -3620,45 +3781,6 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        }
-      ],
-      "score": 24.0
-    },
-    {
-      "title": "O maior IVA do mundo?",
-      "summary": "Desde logo, de maneira preliminar, é preciso já apresentar uma advertência: este artigo trata de alíquota efetiva da tributação sobre o consumo. Portanto, não se está fazendo referência à alíquota nominal ou à possibilidade de apropriação de crédito fiscal – tampouco está em questão se IBS/CBS são efetivamente tributos sobre o valor agregado, do tipo IVA, o que fizemos em outro artigo. Feita essa advertência, façamos o teste, por meio de números, da afirmação de que com a reforma tributária o Brasil terá “o maior IVA do mundo”. Estimativas iniciais mencionavam a alíquota conjunta de IBS e CBS em 26,5%; recentemente, a Resolução CGIBS nº 14, de 29 de julho de 2026, apresenta a projeção de 27,91%. E qual a alíquota da tributação sobre o consumo atualmente no Brasil? Por enquanto, vamos desconsiderar o IPI, que não incide sobre todas as operações mercantis, tem um tratamento duplo na reforma tributária e, em alguns casos, será, de certa forma, substituído pelo Imposto Seletivo – IS, e a opção pelo Simples Nacional. Assim, a estrutura brasileira da tributação sobre o consumo é composta por: contribuição para o PIS e Cofins, que serão substituídas pela CBS, e ICMS e ISS, que serão substituídos pelo IBS. Considerando as menores alíquotas em vigor, o piso da carga tributária sobre o consumo seria a prestação de serviços por empresa optante pelo lucro presumido, que pode ser assim demonstrada (considerando as alíquotas efetivas): Preço líquido R$ 100,00 ISS 2% R$ 2,12 PIS/Cofins 3,65% R$ 3,87 Total da nota fiscal R$ 105,99 Chegamos, então, a uma alíquota efetiva de 5,99%. Neste caso, lembremos, não há qualquer apropriação de crédito fiscal, haja vista que tanto o ISS como as contribuições PIS/Cofins no lucro presumido são tributos cumulativos. A cumulatividade representa a verificação e a manutenção de resíduo tributário. Na outra ponta, considerando uma alíquota média de ICMS (ou seja, há alíquotas nominais maiores e menores do que a utilizada no exemplo a seguir), a carga tributária sobre o consumo no Brasil poderia chegar ao seguinte teto (novamente, consideram-se as alíquotas efetivas): Preço líquido R$ 100,00 ICMS 18% R$ 24,19 PIS/Cofins 9,25% R$ 10,19 Total da nota fiscal R$ 134,38 Vemos que alíquota efetiva é de 34,38% (lembrando que há estados em que o ICMS pode chegar, como alíquota nominal, a 21% e 22%). Pela sistemática introduzida na Emenda Constitucional n° 132 para a fixação das alíquotas da CBS e do IBS, deve-se perseguir a manutenção da arrecadação tributária (o que não é necessariamente igual à carga tributária). Adotada a projeção de alíquota combinada mais pessimista, de 27,91%, ainda estaríamos abaixo da maior alíquota sobre o consumo em vigor no Brasil. E isso, lembremos, sem considerar a ampla apropriação de créditos fiscais. Certamente, setores específicos e empresas específicas podem ter um recolhimento maior de tributo (o que não implica, necessariamente, aumento de custo para o seu cliente, em razão da não cumulatividade). O que a reforma tributária está propondo é a redistribuição da carga tributária entre os setores da economia e entre as empresas, objetivo que sempre foi divulgado durante a tramitação da mudança constitucional e do projeto de lei complementar. Nota fiscal Arquivo/Agência Brasil",
-      "url": "https://valor.globo.com/legislacao/fio-da-meada/post/2026/09/o-maior-iva-do-mundo.ghtml",
-      "published": "2026-09-15T12:18:40+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 24.0
@@ -3842,259 +3964,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "A Hermès quer ser mais do que a marca da Birkin",
-      "summary": "Marca triplicou o negócio de relojoaria desde 2019, mas dados do mercado de revenda mostram que parte das vendas depende do apetite por bolsas",
-      "url": "https://exame.com/casual/a-hermes-quer-ser-mais-do-que-a-marca-da-birkin",
-      "published": "2026-09-09T06:34:58+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "hermès"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "hermès",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes - Folha de S.Paulo",
-      "summary": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/mesmo-com-caneta-emagrecedora-cirurgia-bariatrica-pode-ser-melhor-opcao-para-alguns-pacientes.shtml",
-      "published": "2026-09-09T07:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Quanto vale a Farm Rio? As contas por trás das conversas com investidores",
-      "summary": "Interlocutores veem espaço para propostas entre US$ 600 milhões e US$ 700 milhões, abaixo da referência inicial de cerca de US$ 1 bilhão",
-      "url": "https://exame.com/exame-in/farm-em-liquidacao-avaliada-em-us-1-bilhao-joia-da-azzas-pode-sair-com-40-de-desconto",
-      "published": "2026-09-09T07:03:15+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "farm"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "farm",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Richemont Names Chairman Johann Rupert’s Son as Nonexecutive Co-Deputy Chairman",
-      "summary": "Anton Rupert will oversee the strategic product and communications committee and serve alongside fellow nonexecutive co-deputy chairman Bram Schot.",
-      "url": "https://www.wsj.com/finance/investing/richemont-names-chairman-johann-ruperts-son-as-nonexecutive-co-deputy-chairman-ad38cb41?mod=rss_markets_main",
-      "published": "2026-09-09T07:21:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "richemont"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "richemont",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Galpões da Casas Bahia atraem interesse do mercado",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/09/galpoes-da-casas-bahia-atraem-interesse-do-mercado.ghtml",
-      "published": "2026-09-09T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "“Impacto e Sustentabilidade São um Jeito de Crescer”, Diz VP do iFood",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Conselheira do Fórum Econômico Mundial, Luana Ozemela impulsionou a diversidade e a eletrificação da frota da empresa O post “Impacto e Sustentabilidade São um Jeito de Crescer&#8221;, Diz VP do iFood apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-mulher/2026/09/impacto-e-sustentabilidade-sao-um-jeito-de-crescer-diz-vp-do-ifood",
-      "published": "2026-09-09T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Valor 1000: Bancos enfrentam crédito mais caro e inadimplência elevada",
-      "summary": "Ilustração: Daniel Caballero Na virada deste ano, as projeções macroeconômicas já eram de desafios persistentes no controle inflacionário, de manutenção da meta da taxa Selic em patamares elevados e de uma piora na qualidade do crédito, após empresas e pessoas físicas conviverem com um juro básico de dois dígitos desde fevereiro de 2022. E o cenário, no segundo semestre, continua apontando para o alto custo do dinheiro para os bancos, para a corrosão do poder de compra, inadimplência alta e cautela reforçada na concessão de crédito. A liberação de crédito já vinha perdendo fôlego nos anos anteriores. O saldo das operações de crédito do Sistema Financeiro Nacional (SFN) cresceu 11,5% em 2024, desacelerou para 10,2% no ano passado e para 2026, segundo previsão do Banco Central (BC), deve avançar menos ainda, 9%. Em junho, estava em R$ 7,4 trilhões, expansão de 9,7% em 12 meses. O menor apetite em conceder crédito afeta mais as famílias de menor renda e as pequenas e médias empresas (PMEs). Luis Miguel Santacreu, gerente de análise de instituições financeiras e gestoras de recursos da Austin Rating, afirma que em alguns setores, como no agronegócio, a realidade é um pouco pior. “Quando o juro estava a 2% (2021), entraram em ciclo de investimento e agora, com a Selic alta, têm problemas de liquidez. O volume de recuperações judiciais (RJs) no campo é alto. Por este motivo, o desempenho do BB [Banco do Brasil] é pior que seus pares.” Scarpelli, do Bradesco: seleção de ativos de mais qualidade está dando bons resultados Wanezza Soares/Divulgação No primeiro semestre, o lucro do BB foi de R$ 7,3 bilhões, queda de 34,2% sobre igual período de 2025. Houve alguma melhora no segundo trimestre, com lucro de R$ 3,9 bilhões, alta de 3,3% na mesma base de comparação, mas com a inadimplência da carteira consolidada chegando a 5,61% (+ 1,65 ponto). No crédito ao agronegócio, liderado pelo banco, o índice avançou 3,1 pontos, para 6,27%. A deterioração do crédito também elevou as despesas com provisões para devedores duvidosos (PDD), que atingiram R$ 18,4 bilhões. “Temos avanços, mas carregamos o peso da inadimplência maior. No cômputo geral, considero que é um resultado que demonstra uma capacidade do BB de enfrentar esta situação, principalmente no agro, e ao mesmo tempo entregar lucro”, disse Geovanne Tobias, vice-presidente de gestão financeira e relações com investidores do BB, ao comentar o resultado trimestral. Para o resto do ano, com a MP 1.376, que institui um programa de renegociação da dívida no campo, a previsão é de queda no risco de crédito. Nos balanços já divulgados, o aumento das PDD foi uma constante em razão da piora na inadimplência e da mudança na metodologia, com a entrada da Resolução CMN nº 4.966 em janeiro de 2025. A nova regra substitui o modelo de provisão por atraso (perda incorrida) por estimativas de perdas de crédito esperadas ao longo do tempo. “É difícil comparar o modelo atual com o outro modelo, porque precisamos de alguns ciclos. De qualquer forma, o aumento da PDD foi um elemento redutor dos resultados”, avalia Santacreu. Muñiz, do Santander: preocupação com a qualidade do crédito, e não com o market share Divulgação Dos grandes bancos privados, o resultado do Santander foi, na visão de Flavio Conde, head de ações da Levante Investimentos, o que mais decepcionou. “Até aqui, foi o único com queda no resultado no segundo trimestre, de 20%, sobre o trimestre anterior.” O banco registrou um lucro líquido de R$ 3,014 bilhões, queda de 17,6% na comparação anual e de 20,4% ante o trimestre anterior. “Foi uma combinação de receita menor, piora na margem financeira e aumento de 20,6% da PDD gerencial, para R$ 7,650 bilhões. O Santander é um banco excelente, com capital, mas talvez tenha que rever seus modelos de crédito”, afirma Conde. A piora no desempenho é atribuída pelo Santander à estratégia de rebalanceamento do mix de produtos e clientes em busca de melhor relação risco e retorno. “O lucro líquido e o ROE [Return on Equity], de 12,5%, são resultado do macro mais desafiador, com aumento do custo de crédito e de decisões que tomamos”, comentou o CFO do banco, Carlos Muñiz, em conversa com analistas. “O movimento gera impacto de curto prazo nas receitas, mas é fundamental para construir uma operação mais equilibrada.” Muñiz se refere ao rigor nas concessões de crédito e à menor exposição aos perfis de maior risco, especialmente a clientes com renda abaixo de R$ 4 mil — com recuo de cerca de 30% na carteira de crédito nos últimos 12 meses. “Também seguimos observando pressão nos portfólios de empresas de menor porte, no segmento agro e nas pessoas físicas de baixa renda, o que exigiu maior PDD.” Arte/Valor O executivo reforçou a preocupação com a “qualidade do crédito, e não o market share”, e jogou para 2027 a perspectiva de uma melhora. “Eu não estou otimista para este ano, acho que o avanço é mais para 2027. A gente aguarda mudanças, melhora nas PDD, mas ainda tem atualizações da 4.966 [resolução do CMN que moderniza regras contábeis] a serem feitas, eu não sei qual será o cenário macro que vamos incorporar no modelo.” O mesmo em relação ao ROE: “Acredito que no ano que vem podemos voltar a patamares de ROE mais razoáveis. O que veio das últimas safras de originação me faz sentir confortável para atingir melhores níveis; o que não controlo é a velocidade”. O que justifica o aumento das PDD dos bancos em geral é a inadimplência elevada. O Indicador de Inadimplência de Pessoas Físicas, apurado pela Confederação Nacional de Dirigentes Lojistas (CNDL) e pelo Serviço de Proteção ao Crédito (SPC Brasil), revela que, em julho, a inadimplência atingiu 75,08 milhões de consumidores. Em dezembro, eram 73,09 milhões. No segmento de pessoa jurídica (PJ), o total de inadimplentes manteve patamar recorde. Em maio deste ano, estava em nove milhões de empresas, segundo o Indicador de Inadimplência das Empresas da Serasa Experian. O volume de dívidas em atraso chegou a R$ 229,9 bilhões. O destaque positivo, entre os grandes bancos, ficou por conta do Bradesco, graças a um processo de reestruturação iniciado em 2023 e que antecipou a busca por uma melhora na qualidade dos ativos de crédito. “O banco conseguiu crescer a receita, a margem financeira, segurar despesas e o lucro avançou 3,5% no segundo trimestre, o que anualizado representa quase 15%”, comenta Conde, da Levante. Ele considera que o resultado é fruto do trabalho iniciado em 2023. No ano seguinte, o banco começou a frear o crescimento da carteira, para na sequência, em 2025 e 2026, iniciar o movimento contrário. “Falta muito a ser feito, quando olhamos para o Itaú, mas o caminho está correto”, avalia Conde. Arte/Valor No ano passado, o lucro líquido do Bradesco chegou a R$ 24,5 bilhões, avanço de 26,1% na comparação anual, com um ROE médio anualizado de 14,8%. No segundo trimestre deste ano, o lucro chegou a R$ 7,05 bilhões, expansão de 16,2% sobre igual período do ano passado, e um ROE de 16,2%. “Quando lançamos o nosso plano de transformação em fevereiro de 2024, mensuramos o impacto das iniciativas que nos propusemos e construímos uma curva de recuperação da rentabilidade da organização. Hoje, estamos entregando ROE acima do que prevíamos para esse momento e em cenário macro bem pior do que considerávamos na época”, destaca Cassiano Scarpelli, CFO do Bradesco. “O ROE chegou a 16,2%, acima do nosso custo de capital, pelo terceiro trimestre seguido. Ainda não chegamos aonde queremos.” A carteira de crédito reestruturada do banco hoje é metade da que o Bradesco tinha em 2023. Aos poucos, volta a crescer. Em junho deste ano, a carteira subiu 11,6% ante junho de 2025. “Priorizamos linhas com colateral e bom retorno ajustado ao risco. Em pessoas físicas, destaque para o consignado e financiamento de veículos”, comenta o CFO, acrescentando que em pessoas jurídicas o destaque foi para linhas de capital de giro com garantia do governo federal. “Desde o fim do ano passado, mantivemos apetite ao risco moderado, mas viemos fazendo ajuste fino nos nossos modelos e preços, reduzindo exposição a clusters de clientes mais voláteis.” O percentual da carteira com colateral aumentou de 59% em dezembro para 61% em junho. Na carteira de pessoas físicas, a participação das linhas com garantia chegou a 69%. Arte/Valor Sobre o avanço das PDD, Scarpelli explica que se deve em parte ao crescimento da carteira de crédito, por deterioração do cenário macro e alguns casos do atacado e de crédito rural. “Além disso, a Resolução 4.966 entrou em vigor e aumentou a formação de PDD no início das safras, de forma geral. Há muita incerteza sobre o cenário macro. Estamos preparados para reforçar o nosso balanço com a PDD que for necessária e continuar evoluindo.” Já o Itaú Unibanco teve o maior lucro líquido recorrente da história de um banco no país: R$ 46,8 bilhões em 2025, expansão de 13,1%, na comparação anual. No segundo trimestre deste ano, o lucro foi de R$ 12,4 bilhões, 7,8% maior, com um ROE de 24,3%. O banco também elevou a PDD para R$ 10,5 bilhões, avanço de 1,9% de janeiro a março. Os especialistas consideram que o cenário atual não sugere melhora na inadimplência. “Os bancos vão continuar restritivos porque os números macro mostram produção industrial em queda e o comércio vendendo menos, o que indica dificuldade em honrar compromissos”, diz Conde, da Levante, acrescentando a política monetária contracionista. O Brasil tem hoje o maior juro real do mundo, na casa de 9,3%. “Mesmo que a Selic caia a 13,25%, sendo otimista, não ajuda muito.” Arte/Valor Para a Fitch Ratings, que acompanha mais de 85% do sistema financeiro, apesar da piora da inadimplência, a visão é de que não há um descontrole que traga riscos sistêmicos. “O que vemos é uma piora relativa que necessita ser monitorada de perto”, afirmam analistas da agência. Embora a Fitch tenha registrado downgrade na nota de crédito das grandes companhias, no segmento bancário a perspectiva é estável. Os bancos já vinham reduzindo concentrações em alguns segmentos e pedindo mais garantias reais na concessão de crédito, dizem os analistas. Para a agência, os bancos em 2026 ficaram mais resilientes, mesmo em cenário desafiador. Um exemplo é a melhora no RWA (Risk-Weighted Assets, cálculo de risco ponderado por diferentes ativos). “Com juro alto e a maior dificuldade em conceder crédito, as carteiras de crédito não crescem tanto. O resultado é que libera mais capital e a liquidez melhora.” A ponderação é que nos bancos menores o impacto é maior pela natureza do negócio. Muitos deles são focados em segmentos como as PMEs ou crédito consignado.",
-      "url": "https://valor.globo.com/valor-1000/noticia/2026/09/09/valor-1000-bancos-enfrentam-credito-mais-caro-e-inadimplencia-elevada.ghtml",
-      "published": "2026-09-09T08:10:00+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes - UOL",
-      "summary": "Mesmo com caneta emagrecedora, cirurgia bariátrica pode ser melhor opção para alguns pacientes &nbsp;&nbsp; UOL",
-      "url": "https://comentarios1.folha.uol.com.br/comentarios/6416818?skin=folhaonline",
-      "published": "2026-09-09T08:12:12+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Talvez não seja necessário alterar a regra de reajuste do salário mínimo, diz Daniella Marques",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/talvez-nao-seja-necessario-alterar-a-regra-de-reajuste-do-salario-minimo-diz-daniella-marques",
-      "published": "2026-09-09T08:30:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "salário mínimo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "salário mínimo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Um sobrenome e um marketplace: a estratégia da Moto Morini no país",
-      "summary": "O gaúcho Fabricio Morini não tem parentesco com os fundadores da marca italiana Moto Morini, criada em 1937 em Bolonha. Mas foi o sobrenome homônimo, somado à paixão por motociclismo, que o ajudou a convencer o grupo chinês Zhongneng, controlador da companhia há oito anos, a trazer a fabricante para o Brasil em 2023. “O sobrenome foi uma feliz coincidência”, afirma o engenheiro químico, que preside a operação brasileira da marca. “Mas eu acredito que tudo tem uma razão de ser.” Riba aposta na lambreta sem CNH para a última milha Vammo tem primeiro mês no azul e prepara expansão pela América Latina Morini aposta numa estratégia diferente da global para emplacar as vendas de motos no país. A companhia fez sua estreia no Mercado Livre em agosto, tornando-se a primeira empresa de motos no Brasil a comercializar modelos pelo marketplace. A fabricante usa a plataforma para fazer a pré-venda da AlltrHike 450, modelo mid-trail de 44 cavalos voltado para uso on e off-road. A expectativa é reservar 900 unidades até outubro, quando começa o despacho, e faturar quase R$ 35 milhões no período. Fabricio Morini traz a italiana Moto Morini para o Brasil Mountside Films/Divulgaço A entrada no Meli acontece em meio a uma expansão acelerada no Brasil, também pelo bom e velho varejo físico. A rede abriu a primeira loja em São Paulo em julho do ano passado. Desde então, soma oito unidades no país e mira chegar a cerca de 20 até o fim de 2027, com faturamento previsto para saltar de R$ 85 milhões para R$ 250 milhões. Do lado do Mercado Livre, a aposta é consolidar o marketplace como destino também para veículos de tíquete alto. A montadora chinesa GWM já havia testado a plataforma para vender veículos elétricos, ainda que sem o modelo de pré-venda utilizado na Moto Morini. “Estamos abrindo um caminho inédito para motos premium no país”, diz Alexandre Rezende, chefe de motos do Meli no país. Guipa quer fazer das motos uma rede de monitoramento e mídia Lev leva bikes elétricas a Paris na primeira pedalada fora do país Essa é a segunda tentativa da Moto Morini de emplacar no Brasil. A primeira foi em 2015, mas o gaúcho acabou não convencendo o grupo, ainda controlado pelos italianos, a abrir representação no país – nessa época, quem quisesse comprar as motos tinha que importar os veículos. A estratégia mudou depois que o grupo chinês Zhongneng pagou 10 milhões de euros pela companhia em 2018 e implementou um turnaround. Levou a fábrica da Itália para a China, mas manteve a sede em Milão, responsável pelo design e marketing das motos. 99 investe R$ 45 milhões em fundo de eletromobilidade da Yvy O deslocamento da produção baixou o preço de entrada de 17 mil euros em 2015 para oito mil euros, o que permitiu uma expansão internacional acelerada para 60 países desde 2022. “É o milagre chinês”, diz o Morini brasileiro. AlltrHike 450, da Moto Morini, passa a ser vendida no país pelo Mercado Livre Divulgação",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/um-sobrenome-e-um-marketplace-a-estrategia-da-moto-morini-no-pais.ghtml",
-      "published": "2026-09-09T09:00:00+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Sintéticas, genéricas e similares: o que mudou desde a queda da patente da semaglutida - Globo",
-      "summary": "Sintéticas, genéricas e similares: o que mudou desde a queda da patente da semaglutida &nbsp;&nbsp; Globo",
-      "url": "https://revistamarieclaire.globo.com/saude/noticia/2026/09/sinteticas-genericas-e-similares-o-que-mudou-desde-a-queda-da-patente-da-semaglutida.ghtml",
-      "published": "2026-09-09T09:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "PRF apreende mais de dois mil frascos de tirzepatida em carro na BR-381, na Grande BH - G1",
@@ -7616,6 +7485,29 @@
       "score": 20.0
     },
     {
+      "title": "Justiça condena Marabraz por pressionar funcionário a votar em Bolsonaro em 2022",
+      "summary": "A rede de lojas Marabraz foi condenada pela Justiça do Trabalho a pagar uma indenização de R$ 10 mil a um vendedor que disse ter sido pressionado a votar em Jair Bolsonaro (PL) na eleição presidencial de 2022. Leia mais (09/16/2026 - 04h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/justica-condena-marabraz-por-pressionar-funcionario-a-votar-em-bolsonaro-em-2022.shtml",
+      "published": "2026-09-16T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "marabraz"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marabraz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "BC prepara medidas para evitar uso indevido do crédito e aumentar transparência para consumidor",
       "summary": "O Banco Central (BC) prepara medidas para evitar o uso indevido do crédito e aumentar a transparência das operações para os consumidores, considerados pontos estruturais para combater o endividamento e o comprometimento de renda da população brasileira com o pagamento de dívidas, que estão em patamares recordes há alguns anos. Há uma preocupação com ofertas chamativas de empréstimo sem a devida transparência do custo total da operação. Autarquia: CVM condena Daniel Vorcaro, parentes do ex-banqueiro e o Master por fraude em fundo Congonhas: Anac aprova voos após as 23h em casos extremos climáticos e outras exceções Outro ponto em debate, considerando experiências de outros países, como França e Estados Unidos, é um arcabouço que dê uma atenção especial a pessoas em situação de vulnerabilidade. Em paralelo, há também discussões sobre medidas macroprudenciais para induzir maior cautela dos bancos na oferta de crédito, especialmente em linhas mais caras, como cartão e crédito pessoal sem garantia. O pano de fundo para essa discussão é um diagnóstico de que o alto endividamento e comprometimento de renda das famílias está relacionado a questões estruturais, que envolvem falta de letramento financeiro da população e de informações claras por parte de algumas instituições para que o consumidor saiba o que está contratando. Projeto Colossus: BNDES financia projeto de terras-raras da Viridis com R$ 77,5 milhões O histórico mostra que um dos fatores decisivos para a tomada de crédito é a facilidade de acesso. Muitas vezes, os consumidores preferem contratar um empréstimo com limite pré-aprovado que aparece no aplicativo, como cheque especial e cartão de crédito, do que passar pela burocracia para pegar um empréstimo com garantia real, mesmo sabendo que os juros da primeira opção são maiores, até porque vai precisar assinar que está colocando algum bem, como a casa, em risco. Pesa para esse comportamento também a baixa sensibilidade do consumidor brasileiro ao preço real do crédito devido aos juros historicamente altos no país. Muitos clientes com menor educação financeira costumam avaliar só se a prestação cabe no bolso, sem fazer as contas do que vai desembolsar no final, considerando as taxas e o prazo. 'Chegar no horário' e 'trabalhar': restaurante em SP exige 'o básico' em anúncio de emprego inusitado, e publicação viraliza Nesse contexto, é que as ofertas chamativas de empréstimos de baixa qualidade estão na mira do BC. Há discussões de como criar maior compreensão aos clientes, como alguma obrigatoriedade de informar a dívida total contratada. Isso pode envolver, inclusive, com as alternativas de crédito pelo Pix que estão sendo oferecidas por algumas instituições financeiras, como sinalizou o diretor de Fiscalização do BC, Ailton Aquino, em evento da Zetta na semana passada. Segundo Aquino, na agenda para aumentar a transparência na concessão de empréstimos estaria uma das iniciativas para exigir que a oferta de crédito no Pix deixe claro as taxas cobradas e o custo efetivo total da operação. Primeiro-ministro de Cingapura: Líder mais bem pago do mundo terá aumento de R$ 5,7 milhões e passará a ganhar mais de R$ 14 milhões por ano O entendimento do regulador é que as instituições financeiras têm responsabilidade com a educação financeira dos clientes, como mostrou o jornal Folha de S.Paulo. Nesse debate, também estão incluídas iniciativas para reforçar as regras que considerem o ambiente em que bancos e fintechs se relacionam com os clientes, como os aplicativos. Nesse âmbito, estão incluídas discussões sobre a incongruência de publicidade sobre bets em aplicativos financeiros, dado que é conhecida a relação entre essas apostas e o aumento do endividamento. Iniciativas sobre concessão de crédito responsável estão dentre as recomendações do Fundo Monetário Internacional (FMI) e do Banco Mundial para a economia brasileira este ano. \"Embora o atual arcabouço legal e regulatório já contenha referências à avaliação da capacidade de pagamento e da adequação do produto ao cliente, são necessários mais detalhes para aprofundar esses princípios gerais e estabelecer requisitos robustos de concessão responsável de crédito, acompanhados de expectativas claras de supervisão\", disseram, citando ainda que poderiam ser considerados limites rígidos em alguns casos e que os reguladores deveriam aprimorar as normas de divulgação de informações e transparência. Medidas macroprudenciais O BC também anunciou que prepara para os próximos meses medidas macroprudenciais voltadas à mitigação dos riscos decorrentes da participação das modalidades de crédito mais onerosas na composição da dívida das famílias — algo também recomendado pelo FMI e pelo Banco Mundial. Os órgãos internacionais sugerem que ajustes nos colchões de capital contracíclico das instituições financeiras e a adoção de um teto para concessões baseado na capacidade de pagamento das famílias. Na indústria, uma das iniciativas que os executivos esperam é uma mudança no Fator de Ponderação de Risco (FPR) de operações mais arriscadas, como cartão de crédito, crédito pessoal sem garantia e até cheque especial. O FPR é um dos critérios usados para definir o montante de capital que as instituições financeiras devem ter para oferecer cada tipo de operação. Dessa forma, poderia ficar mais caro para bancos e fintechs ofertarem essas modalidades.",
       "url": "https://oglobo.globo.com/economia/financas/noticia/2026/09/09/bc-prepara-medidas-para-evitar-uso-indevido-do-credito-e-aumentar-transparencia-para-consumidor.ghtml",
@@ -8017,75 +7909,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "FedEx investe R$ 75 milhões e amplia centros em SP e PE",
-      "summary": "A americana FedEx está investindo R$ 75 milhões no Brasil com foco em expandir sua capacidade internacional e seu negócio de “supply chain” (atendimento logístico a empresas). O projeto inclui a abertura de 34 novas lojas, expansão dos centros logísticos de Cajamar (SP) e Jaboatão dos Guararapes (PE), além da modernização tecnológica das operações. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/09/fedex-investe-r-75-milhoes-e-amplia-centros-em-sp-e-pe.ghtml",
-      "published": "2026-09-09T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "guararapes"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "guararapes",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Louis Vuitton Voltará a Ter Presença Física na Argentina — e Não Será com Lojas",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Incorporadora Pride Developer busca trazer uma das marcas do conglomerado francês LVMH para a Maison Alvear, projeto de luxo que está sendo desenvolvido em Recoleta O post Louis Vuitton Voltará a Ter Presença Física na Argentina — e Não Será com Lojas apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/louis-vuitton-maison-alvear-argentina",
-      "published": "2026-09-09T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "lvmh"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "lvmh",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Valor 1000: Juros elevados testam a resiliência do setor financeiro",
-      "summary": "Getty Images O cenário de política monetária contracionista se manteve ao longo de 2025 e no primeiro semestre deste ano. Apesar da redução de um ponto percentual na meta da taxa Selic neste ano (até agosto), os juros nominais e reais ainda permanecem em patamar muito elevado — de, respectivamente, 14% ao ano e em torno de 9% ao ano. A inadimplência segue alta, os bancos mantêm-se cautelosos para conceder crédito e registram maiores despesas com provisão para devedores duvidosos (PDD). Mesmo assim, seguem lucrativos. O restante de 2026 aponta para desafios persistentes na qualidade do crédito e na gestão da inadimplência. Com expectativa de que, na melhor das hipóteses, a Selic seja reduzida para 13,25% ao ano, novidades positivas são esperadas apenas em 2027, após as eleições e, segundo analistas, a depender da política econômica do próximo governo. No setor de previdência privada aberta também se espera uma retomada no ritmo de crescimento só no ano que vem, quando o Imposto sobre Operações Financeiras (IOF) deixará de incidir sobre aportes nos planos VGBLs que excederem R$ 600 mil no ano. Essa cobrança fez a captação líquida do setor de previdência aberta recuar 93,5% em 2025. Já o desempenho dos seguros de pessoas vem sendo positivo, impulsionado pelo avanço das coberturas em vida. Como um todo, o setor de seguros também foi afetado pelo IOF — a estimativa é a arrecadação crescer 2,9% neste ano, sem considerar o seguro-saúde. Nos planos de saúde, a trajetória de expansão se manteve, impulsionada pelo mercado de trabalho robusto: de junho de 2025 a junho de 2026, o número de pessoas com planos de assistência médica aumentou 700 mil, para 53,1 milhões. O desafio tem sido manter os custos sob controle.",
-      "url": "https://valor.globo.com/valor-1000/noticia/2026/09/09/valor-1000-juros-elevados-testam-a-resiliencia-do-setor-financeiro.ghtml",
-      "published": "2026-09-09T08:10:00+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Platinum Set for Surplus in 2026 After Three Years of Deficit",
@@ -9483,6 +9306,29 @@
         {
           "sector": "Fashion",
           "alias": "marisa",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Quem compra produtos parcelados constantemente consegue perceber quanto da renda futura já está comprometida?",
+      "summary": "“Cabe no bolso.” Talvez essa seja uma das frases que mais influenciam as decisões de consumo do brasileiro. O celular pode ser parcelado, a passagem aérea dividida em dez vezes, a roupa em seis, o IFood em seis e até compras de menor valor aparecem acompanhadas da pergunta: “quer parcelar?”.Individualmente, cada prestação parece pequena. O problema começa quando deixamos de olhar para o conjunto. Quem compra produtos parcelados com frequência consegue perceber quanto da renda dos próximos meses já está comprometida? Quando parte do salário que ainda nem recebemos já tem destino certo, uma parcela aparentemente confortável pode disputar espaço com contas fixas (exemplo: aluguel, conta luz, conta de água entre outras despesas), imprevistos e outras compras feitas anteriormente. Não por acaso, dados recentes ajudam a dimensionar o quanto o parcelamento está incorporado aos hábitos de consumo do brasileiro. No primeiro trimestre de 2026, 43,2% do valor movimentado no cartão de crédito correspondeu a compras parceladas sem juros, segundo a Abecs (Associação Brasileira das Empresas de Cartões e Serviços) foram R$ 390,5 bilhões. Mas por que é tão fácil acumular parcelas? Parte da resposta está na maneira como nosso cérebro percebe o ato de comprar e o de pagar. Quando entregamos dinheiro ou vemos imediatamente nosso saldo diminuir, sentimos com maior clareza que aquele recurso deixou de estar disponível. Existe um desconforto associado ao pagamento que funciona como um freio para o consumo. No crédito, essa experiência muda. O prazer da compra acontece agora. O pagamento fica para depois. Essa distância pode enfraquecer a ligação entre comprar e pagar. Em vez de avaliar quanto determinado produto realmente custa e qual impacto terá sobre o orçamento, passamos analisar se a parcela cabe naquele momento. E aí aparece uma armadilha bastante comum: nosso cérebro gosta de simplificar decisões. Em meio à rotina, não fazemos uma análise financeira completa antes de cada compra. Utilizamos atalhos mentais, conhecidos pela economia comportamental como heurísticas. Eles são importantes para tomarmos centenas de decisões diariamente, mas também podem nos levar a escolhas financeiras pouco eficientes. Um desses atalhos acontece quando nossa atenção fica concentrada na informação mais fácil e visível. Em uma oferta parcelada, muitas vezes essa informação não é o preço, mas o tamanho da prestação. O “10x sem juros” ganha destaque. O valor total perde espaço. Há também outro comportamento muito humano: valorizamos mais aquilo que podemos aproveitar hoje e tendemos a deixar o problema futuro para ser resolvido depois. É fácil acreditar que, nos próximos meses, estaremos mais organizados, teremos menos despesas ou conseguiremos compensar aquela compra. Só que o futuro chega acompanhado do condomínio, da escola, do supermercado, dos serviços por assinatura, da prestação do carro, dos impostos (IPTU e IPVA) das compras anteriores e dos imprevistos que não estavam no planejamento. É nesse momento que muitas pessoas percebem que não fizeram uma compra parcelada. Fizeram várias pequenas antecipações da própria renda. Isso não significa que parcelar seja necessariamente uma decisão ruim. O parcelamento pode ser uma ferramenta útil de organização financeira e, em algumas situações, preservar recursos para outras necessidades. O problema não está simplesmente em dividir o pagamento, mas em perder a visão de quanto da renda futura já está comprometida. Talvez, portanto, uma das perguntas mais importantes antes de uma nova compra não seja “a parcela cabe no meu salário?”, mas “quanto do meu próximo salário já está comprometido antes mesmo de eu recebê-lo?\". Essa pequena mudança de perspectiva ajuda a trazer o futuro de volta para a decisão presente. É aí que entra o planejamento financeiro. Não como uma planilha complicada ou uma restrição permanente ao consumo, mas como uma forma de enxergar o todo. Saber quanto se ganha, quanto já está comprometido, quais são as despesas fixas e quais objetivos ainda precisam ser financiados permite decidir com maior consciência. Criar uma lista do que se deseja comprar, estabelecer prioridades e definir prazos também ajuda a separar desejo de necessidade e impulso de planejamento. Para quem encontra dificuldade em organizar sozinho essas informações, o acompanhamento de um profissional de planejamento financeiro pode ajudar a transformar renda em escolhas mais conscientes. Em uma sociedade na qual comprar ficou cada vez mais fácil, talvez o verdadeiro desafio seja manter visível o momento de pagar. Porque . *Juliana Lira é planejadora financeira pessoal e possui a certificação CFP® (Certified Financial Planner), concedida pela Planejar - Associação Brasileira de Planejamento Financeiro. E-mail: julianaanitalira@gmail.com.br As respostas refletem as opiniões da autora e não da Época NEGÓCIOS ou da Planejar. O site e a Planejar não se responsabilizam pelas informações acima ou por prejuízos de qualquer natureza em decorrência do uso destas informações Mais Lidas",
+      "url": "https://epocanegocios.globo.com/colunas/seu-planejamento-financeiro/coluna/2026/09/quem-compra-produtos-parcelados-constantemente-consegue-perceber-quanto-da-renda-futura-ja-esta-comprometida.ghtml",
+      "published": "2026-09-16T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "lead",
           "score": 8,
           "topic": null
