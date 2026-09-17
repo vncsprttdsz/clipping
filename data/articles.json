@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T13:28:04.513555+00:00",
-  "count": 360,
-  "new_this_run": 4,
+  "generated_at": "2026-09-17T13:47:35.933937+00:00",
+  "count": 362,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -8537,6 +8537,52 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "kopenhagen",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lula anuncia reajuste no Bolsa Família às vésperas das eleições; valor mínimo sobe para R$ 691",
+      "summary": "O presidente Luiz Inácio Lula da Silva anunciou nesta quinta-feira o reajuste do Bolsa Família, a pouco mais de duas semanas das eleições. O valor mínimo do programa sai de R$ 600 para R$ 691. O piso de R$ 600 fora estabelecido no governo Jair Bolsonaro, quando houve a transição do Auxílio Emergencia, criado na pandemia de Covid-19, para o Auxílio Brasil – programa que voltou a ser chamado de Bolsa Família com a posso de Lula em 2023. O impacto é de R$ 5,8 bilhões neste ano e de R$ 22 bilhões em 2027, segundo o ministro do Planejamento, Bruno Moretti. Ele afirmou que o reajuste faz uma recomposição da inflação. – Do ponto de vista fiscal, importante que a gente lembre que isso está sendo feito dentro das regras – disse Moretti. O ministro afirmou que o reajuste do Bolsa Família está sendo feito dentro do espaço fiscal. Já o titular da pasta de Desenvolvimento Social e Combate à Fome, Wellington Dias, afirmou que a recomposição da inflação é uma previsão na lei. Em atualização.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/17/lula-anuncia-reajuste-no-bolsa-familia.ghtml",
+      "published": "2026-09-17T13:29:03+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Queda do Preço das Ações da Nike Ameaça Posição no Dow Jones",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. A queda das ações acompanha um período prolongado de dificuldades na companhia O post Queda do Preço das Ações da Nike Ameaça Posição no Dow Jones apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/09/queda-do-preco-das-acoes-da-nike-ameaca-posicao-no-dow-jones",
+      "published": "2026-09-17T13:36:27+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "nike"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
           "field": "title",
           "score": 20,
           "topic": null
