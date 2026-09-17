@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-17T09:12:50.383165+00:00",
-  "count": 356,
-  "new_this_run": 8,
+  "generated_at": "2026-09-17T09:26:23.503968+00:00",
+  "count": 358,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -1030,6 +1030,45 @@
           "alias": "zepbound",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa proíbe caneta T36 de GLP-1 no Brasil, marca paraguaia de tirzepatida - viva.com.br",
+      "summary": "Anvisa proíbe caneta T36 de GLP-1 no Brasil, marca paraguaia de tirzepatida &nbsp;&nbsp; viva.com.br",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdnlZdmY4TTlFb3BTdXYyV2J0OTF5aDFvM0pjMjZIN1pUTzRwU2sxZjRQblVBa1BKLWkwSm5lS21FM3pPaXNCRXJYaXFfLW12NFk5bmJwSlNqZTNFbDRsZ0J6VVJZdDR6RnJKVUE1RUVMcldxc0FaSmVkaFY2NEY4MHhrOTYwX2VQckd2WjBWOEQyeFA3YXlEV05zWFhMVWVtX1B3N2p3bEQ1MDJRY0cyTjJUNlE1czA?oc=5",
+      "published": "2026-09-16T17:22:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "glp-1",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -7131,6 +7170,29 @@
         {
           "sector": "E-commerce",
           "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras: entenda as diferenças entre as principais opções - Tudo Rondônia",
+      "summary": "Canetas emagrecedoras: entenda as diferenças entre as principais opções &nbsp;&nbsp; Tudo Rondônia",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQYngtbUc4TWx0bXA3ZHhyVEs0WHM4TU5LZkxTTFlFbjRpS2F6dlZhQkpScldKRzdTLXlpU2JwLVJSeEdaQ0NYblJ1aHgzOUNSMkV2MS1sV2NQbWk1akFMZkFZdktwRUxYd2RndkRGZ1pIMDhmXzJMQ2dBZ3lKWmJkb3ZxeHFycUdPZUxPcXBNOWtxZFRvbXR3QkxZTFhZTm1jRW5mRkZlMHplRzNoclBDdXY1N2Rjc3Bp?oc=5",
+      "published": "2026-09-16T00:30:58+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
