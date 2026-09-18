@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T09:18:12.130555+00:00",
-  "count": 421,
-  "new_this_run": 1,
+  "generated_at": "2026-09-18T09:56:23.793768+00:00",
+  "count": 423,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "GLP-1: o que é mito e o que a ciência já sabe sobre os medicamentos das 'canetas emagrecedoras'",
@@ -2978,6 +2978,37 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa proíbe caneta emagrecedora T36 vinda do Paraguai - Jornal Extra SC",
+      "summary": "Anvisa proíbe caneta emagrecedora T36 vinda do Paraguai &nbsp;&nbsp; Jornal Extra SC",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNajBrSy1fb1hJazVpUnJKbFk3clpfMXZGU1lEYjVpbk5xeFlfblpQTHBydFFFZEtmTTRqMVZXbXlqU1QxN1M4eUI4NlludEJjMmlRUUdOY1pINXRqRFlHamtCTFU1RzVXR0Y5dzBvNlU5MHZfX1dfVHJGcEp5aDE0MFNXZ3RtSlRFRjMwaVZ2LWF4NlpKQlE?oc=5",
+      "published": "2026-09-16T14:42:59+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Keeta alega que 85% dos restaurantes puxadores de clientes em SP têm exclusividade com iFood ou 99",
       "summary": "Quase nove em cada dez restaurantes \"âncora\" ?que têm redes com cinco ou mais lojas? estão fechados à concorrência no mercado de delivery, segundo levantamento da Keeta obtido com exclusividade pela Folha . O recorte inclui a região metropolitana de São Paulo e a Baixada Santista, as duas praças onde a empresa chinesa opera no Brasil. Leia mais (09/16/2026 - 12h00)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/09/keeta-alega-que-85-dos-restaurantes-puxadores-de-clientes-em-sp-tem-exclusividade-com-ifood-ou-99.shtml",
@@ -4577,6 +4608,38 @@
           "alias": "maquiagem",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Vendas no varejo do Reino Unido aumentam 0,5% em agosto apesar da aceleração da inflação",
+      "summary": "As vendas no varejo do Reino Unido se recuperaram em agosto, impulsionadas pelas vendas online e sem sofrer o impacto da aceleração da inflação. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/mundo/noticia/2026/09/18/vendas-no-varejo-do-reino-unido-aumentam-05percent-em-agosto-apesar-da-aceleracao-da-inflacao.ghtml",
+      "published": "2026-09-18T09:44:55+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "vendas no varejo",
+        "vendas online"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "vendas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "vendas no varejo",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
