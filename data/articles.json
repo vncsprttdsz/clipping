@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T12:07:50.324994+00:00",
-  "count": 456,
-  "new_this_run": 1,
+  "generated_at": "2026-09-19T12:31:59.364937+00:00",
+  "count": 458,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -1265,6 +1265,45 @@
           "alias": "tirzepatida",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "SUS vai ofertar canetas emagrecedoras para pacientes com obesidade - iBand CE",
+      "summary": "SUS vai ofertar canetas emagrecedoras para pacientes com obesidade &nbsp;&nbsp; iBand CE",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNNy0zSm1xYVdLWXFPMDJzb3hvNGMwb0VYM2NpTFZ1NmJJQTFVUENZbDUxNkk0ZVluQXlVOW5UYjVPR1UzcEYyUWtXSV9SMXdCY1B5R2FJT1FpdDMtU25fVVE0RDNGUlpTYVQ5Y0d5bGVjUHUtYVZhc2JUVy1pRV9sTHdETHVBZ0dmOFlXZ2ZSU282U3Vn?oc=5",
+      "published": "2026-09-18T15:36:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -4030,6 +4069,37 @@
       "score": 40.0
     },
     {
+      "title": "SUS confirma distribuição gratuita de canetas emagrecedoras; entenda como será a oferta em 2026 - ND Mais",
+      "summary": "SUS confirma distribuição gratuita de canetas emagrecedoras; entenda como será a oferta em 2026 &nbsp;&nbsp; ND Mais",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcUdoN0Zqck1iTWk3RHAwV0xkbTVqREpxRWNKMFhJRDJ4SjhtUlJZVjhsNE1uZ2M2Z1N1V2tQNkdlNXJpOG1WdmhMWWF3TC1JdjhSd3Y4Q1RCbWZTd1hxdUtZbEhVV182RVZSamxXeFVSVWE2Q0RQbXJMaHlsV1dGQVVnOUJaX2lnelE?oc=5",
+      "published": "2026-09-18T13:43:54+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Lula libera canetas emagrecedoras no SUS após veto por impacto de R$ 8 bi aos cofres públicos - O GLOBO",
       "summary": "Lula libera canetas emagrecedoras no SUS após veto por impacto de R$ 8 bi aos cofres públicos &nbsp;&nbsp; O GLOBO",
       "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/lula-libera-canetas-emagrecedoras-no-sus-apos-veto-por-impacto-de-r-8-bi-aos-cofres-publicos.ghtml",
@@ -5638,29 +5708,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Smart TVs de 32 a 65 polegadas em oferta no Mercado Livre - estadao.com.br",
-      "summary": "Smart TVs de 32 a 65 polegadas em oferta no Mercado Livre &nbsp;&nbsp; estadao.com.br",
-      "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/smart-tvs-de-32-a-65-polegadas-em-oferta-no-mercado-livre",
-      "published": "2026-09-12T12:10:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado livre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "JCNET: Caneta emagrecedora muda perfil em academias e exige adaptação - sampi.net.br",
@@ -10347,6 +10394,29 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lula diz que caneta emagrecedora deverá ser oferecida gratuitamente pelo SUS - Política JP",
+      "summary": "Lula diz que caneta emagrecedora deverá ser oferecida gratuitamente pelo SUS &nbsp;&nbsp; Política JP",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOT1NROURnVXlRa2Q1NkxtSUViaS1IcVQ5UkctMGNWQkhDTVk1R19PZFRiVUhCVEJBcFNqeFNWRnFvQ0JISnhaclZ6a241NTlJUUVtX0xDUDlpaXFNc1Q4MS1wdU9ob1ZUaTV2TXh6eXBKcnFnTmpMUW8zMm9MZmVfS2xaczFwZ0pIN2pCLS1mUVU2T0FCeTdwQ2tXZEtwQzF4OGNrTUhlLXJUY3NLVW5JUzZ4eXU2bXBvUTZzMw?oc=5",
+      "published": "2026-09-18T11:33:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
           "field": "title",
           "score": 20,
           "topic": null
