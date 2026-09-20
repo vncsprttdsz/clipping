@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T13:05:00.699129+00:00",
-  "count": 473,
-  "new_this_run": 4,
+  "generated_at": "2026-09-20T13:14:56.337195+00:00",
+  "count": 474,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -5565,6 +5565,37 @@
           "alias": "ozempic",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Maior supermercado do RS começou com 12 filhos no balcão e hoje é um império de R$ 8,8 bilhões",
+      "summary": "Francisco e Santina Zaffari, filhos de imigrantes italianos, abriram uma venda na frente de casa em Erechim em 1935",
+      "url": "https://exame.com/negocios/maior-supermercado-do-rs-comecou-com-12-filhos-no-balcao-e-hoje-e-um-imperio-de-r-88-bilhoes",
+      "published": "2026-09-20T10:02:10+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "supermercado",
+        "zaffari"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "zaffari",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "supermercado",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
