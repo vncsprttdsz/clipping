@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T12:42:01.114179+00:00",
-  "count": 470,
-  "new_this_run": 1,
+  "generated_at": "2026-09-20T13:05:00.699129+00:00",
+  "count": 473,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -1414,6 +1414,45 @@
           "alias": "eurofarma",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "SUS prepara oferta de canetas emagrecedoras para pacientes com obesidade; medida pode ampliar acesso em Alagoas - Alagoas Alerta",
+      "summary": "SUS prepara oferta de canetas emagrecedoras para pacientes com obesidade; medida pode ampliar acesso em Alagoas &nbsp;&nbsp; Alagoas Alerta",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOWEY5UnpqMzZ3N1NVRHJ4RWQxUERBUXB3U3NxZDdUNzNaZlRnR3J5R3pMT3YyRFpKU1VBbWVCTWlvN2FJbDNYTWMzXzBnV1YxNEwyTnVtY3lwVG0wTzBRbDVZNVFGYnhLNXp4Xy1NVWdkOTlqaTc4VnJFN0d4bkhJQlpWcDg1dDQ2VnlQai1WVzdVMVRwcVNkNEpNOFpHejc3a0p3MXcwWXg4WUxETXVUSUp0cER5WFVIUUN3Z3NlY3p2cHlEcXhFZjZQNnpvdkVUcnJSeC1wUGZZWXZtRWJ2Y0R1X2FqS1NENW45SUNhNWMyOWVLVG5vVVhUQ3A0UQ?oc=5",
+      "published": "2026-09-19T13:47:35+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -4214,6 +4253,68 @@
         {
           "sector": "Farmácias",
           "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Farmácias escondem canetas emagrecedoras e usam até rastreadores após onda de roubos e furtos em Cuiabá - Primeira Página",
+      "summary": "Farmácias escondem canetas emagrecedoras e usam até rastreadores após onda de roubos e furtos em Cuiabá &nbsp;&nbsp; Primeira Página",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPV2xIY3AtZkNKQUNvTkdpYV9xVzFxUlVqaTY1N013Zzk3R1JhNjlvWTJJdFhHbjhOc185Uy01OWFqd2ZINlk2TnFROGFDcnBHakQzY3o1eEtSc3ZqLXJjNHpBTWM5SjlhRGp4N1hzM1VrMHdXZTdoZ2J5SDJ1SE9vdFlTRDBUSjdkT1BhMVhKOHlrRnV1V0RUWFJiQjJ1LXJJUVZuNjdfWlYzUXltSlIzVjNJSWpZZnU1WG9lekI2bTZEZWxOYkE3ZWlTWkh3M3ht?oc=5",
+      "published": "2026-09-18T20:48:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Canetas emagrecedoras já deveriam estar disponíveis no SUS - GZH",
+      "summary": "Canetas emagrecedoras já deveriam estar disponíveis no SUS &nbsp;&nbsp; GZH",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdHRrWUNKS25tZTVhRWhWckdDZE5IRzRxaHVEQUpySHhNbGZtdFd1Y1k2Z2JtYUhJdll0OE5nb0d4T1loR3hPZHJPUWpQb3lmbUdjT1Z0NDF2WmVTWkdBYVItVWhuZmU2NmF5djRIUVFycTJPMm5lNVhHdWlOQVF2WTM4N0IzTGJrYnMza0hKS3VxVnZtaUdzajVBd1pyQ2JHclB2UjRweGs4YUVLc3RUbEpWZUduQ2dMSHpaQVg4SDRuTC1ZLWFCVVpXRmRLbHJBdnZSeGVqT2xXYmw4cndRYXZORUt6eWJ3amloczE0ZTVrZHZEX2M2YmJ1SQ?oc=5",
+      "published": "2026-09-18T21:01:38+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
