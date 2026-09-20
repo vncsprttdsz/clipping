@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T12:42:38.575983+00:00",
-  "count": 458,
-  "new_this_run": 1,
+  "generated_at": "2026-09-20T00:11:39.688310+00:00",
+  "count": 473,
+  "new_this_run": 24,
   "articles": [
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -381,6 +381,77 @@
       "score": 74.0
     },
     {
+      "title": "Risco de perda de visão leva pacientes à Justiça contra fabricantes de canetas emagrecedoras nos EUA",
+      "summary": "Dezenas de pacientes entraram com processos nos Estados Unidos contra as farmacêuticas Novo Nordisk e Eli Lilly, fabricantes canetas emagrecedoras da classe GLP-1 usadas no tratamento de diabetes e obesidade. Os autores das ações alegam ter sofrido perda repentina da visão após utilizarem produtos como Ozempic, Wegovy e Zepbound. Os processos mencionados pela reportagem do The Wall Street Journal foram apresentados à Justiça norte-americana, mas não representam uma conclusão das autoridades de saúde sobre a segurança dos medicamentos nem estabelecem, até o momento, uma relação de causa e efeito entre os tratamentos e os problemas de visão. Os pacientes afirmam ter desenvolvido neuropatia óptica isquêmica anterior não arterítica, conhecida pela sigla NAION. A condição ocorre quando há redução do fluxo de sangue para o nervo óptico e pode provocar perda súbita e, em alguns casos, permanente da visão. Diabetes, hipertensão e determinadas características anatômicas do nervo óptico estão entre os fatores associados ao problema. As ações sustentam que as farmacêuticas não teriam alertado adequadamente médicos e consumidores norte-americanos sobre o possível risco. As bulas dos medicamentos nos Estados Unidos não incluem atualmente uma advertência específica sobre a NAION. Informações relacionadas à condição, porém, foram acrescentadas ou exigidas por autoridades regulatórias na União Europeia, no Reino Unido, no Japão e na Austrália. A Agência de Alimentos e Medicamentos dos Estados Unidos, a FDA, investiga uma possível associação entre os tratamentos e a doença ocular. No Brasil, os efeitos adversos descritos nas bulas variam de acordo com o medicamento. Entre os mais frequentes estão náusea, vômito, diarreia, constipação e dor abdominal. A queda de cabelo também é mencionada em alguns produtos, como o Wegovy, mas não pode ser atribuída a todos os medicamentos da classe. Possíveis impactos sobre a saúde mental, incluindo sintomas de depressão, continuam sendo investigados, embora ainda não haja consenso sobre uma relação direta com o uso desses tratamentos. Ozempic Getty Images Estudos apresentam resultados diferentes Algumas pesquisas identificaram uma frequência maior de NAION entre pessoas que utilizaram semaglutida, princípio ativo do Ozempic e do Wegovy. Outros estudos, entretanto, não encontraram aumento estatisticamente significativo do risco. Em 2025, a Agência Europeia de Medicamentos concluiu que a NAION poderia ser um efeito colateral muito raro da semaglutida, com possibilidade de atingir até um em cada 10 mil usuários. O órgão europeu recomendou que as informações dos produtos fossem atualizadas. As evidências científicas disponíveis, no entanto, ainda são consideradas inconclusivas. Estudos observacionais podem identificar associações, mas não comprovam necessariamente que o medicamento tenha provocado o problema. A própria obesidade e o diabetes, condições apresentadas por parte dos usuários, também estão relacionados a alterações vasculares e oculares. A Novo Nordisk e a Eli Lilly contestam as acusações e afirmam que seus medicamentos são seguros quando utilizados conforme as indicações aprovadas. As empresas citam pesquisas que não identificaram aumento do risco e sustentam que os benefícios dos tratamentos continuam superiores aos possíveis efeitos adversos. As farmacêuticas também argumentam que decisões de indenização ou registros individuais não comprovam que os medicamentos tenham causado a perda de visão. O debate ocorre em meio à rápida expansão dos tratamentos GLP-1. Desenvolvidos inicialmente para controlar o diabetes tipo 2, esses medicamentos ganharam espaço no tratamento da obesidade por reduzirem o apetite e contribuírem para a perda de peso. As ações judiciais ainda estão em andamento nos Estados Unidos. Caberá à Justiça norte-americana avaliar se as fabricantes conheciam o possível risco, se deveriam ter incluído advertências adicionais e se os medicamentos tiveram participação nos problemas relatados pelos pacientes. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/mundo/noticia/2026/09/risco-de-perda-de-visao-leva-pacientes-a-justica-contra-fabricantes-de-canetas-emagrecedoras-nos-eua.ghtml",
+      "published": "2026-09-19T18:00:00+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "glp-1",
+        "ozempic",
+        "semaglutida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 74.0
+    },
+    {
       "title": "Novo Nordisk e Anthropic anunciam parceria para avançar na descoberta de medicamentos com IA",
       "summary": "Novo Nordisk Jakub Porzycki/NurPhoto via Getty Images A Novo Nordisk, fabricante do Ozempic e do Wegovy, e a Anthropic, empresa de IA, desenvolvedora do Claude, anunciaram nesta quarta-feira (16) que firmaram uma parceira para acelerar a descoberta e o desenvolvimento de novos medicamentos com o uso de inteligência artificial. A Novo usará o Claude Science, uma plataforma da Anthropic voltada para a área de ciências, em fluxos de trabalho específicos de P&amp;D (Pesquisa e Desenvolvimento). “Unir forças com a Anthropic dará um forte impulso à nossa área de P&amp;D”, afirmou, em comunicado, Mike Doustdar, presidente e CEO da Novo. “A IA pode nos ajudar a aumentar a produtividade em P&amp;D e encurtar o caminho entre a pesquisa e um produto disponível no mercado. Mas, além disso, as ferramentas de IA também podem abrir oportunidades científicas completamente novas e ajudar no raciocínio e na compreensão da biologia humana e dos mecanismos de ação dos medicamentos”, disse o executivo. Segundo Dario Amodei, cofundador e CEO da Anthropic, a crescente capacidade da IA traz o potencial de condensar em uma década um século de avanços na biologia e na medicina. “Ao dar aos principais pesquisadores acesso a modelos de fronteira seguros, capazes e confiáveis, podemos encurtar os prazos de pesquisa, melhorar os resultados e descobrir medicamentos e tratamentos que melhorem significativamente a vida das pessoas. É exatamente isso que nossa colaboração com a Novo pretende alcançar.” A Novo também usará os modelos de fronteira da Anthropic para fortalecer o desenvolvimento de software orientado por IA, um elemento que a empresa diz ser fundamental para ampliar o uso da IA em toda a companhia. Mais Lidas",
       "url": "https://epocanegocios.globo.com/inteligencia-artificial/noticia/2026/09/novo-nordisk-e-anthropic-anunciam-parceria-para-avancar-na-descoberta-de-medicamentos-com-ia.ghtml",
@@ -686,69 +757,6 @@
         }
       ],
       "score": 64.0
-    },
-    {
-      "title": "Uso de canetas emagrecedoras cresce entre crianças, mas efeitos de longo prazo ainda são incertos",
-      "summary": "O uso de medicamentos da classe dos GLP-1 está crescendo entre crianças e adolescentes nos Estados Unidos, ampliando também o debate sobre até onde esses tratamentos podem ser usados com segurança em pacientes ainda em fase de crescimento. Embora estudos já indiquem benefícios para perda de peso e controle metabólico, pesquisadores ouvidos pelo Gizmodo afirmam que ainda existem lacunas importantes sobre os efeitos de longo prazo dessas terapias em crianças e adolescentes. Um estudo publicado recentemente mostrou que, entre 2019 e 2026, 0,6% das crianças de 8 a 11 anos com obesidade e sem diabetes receberam prescrição de um GLP-1 fora das indicações aprovadas. A proporção anual de crianças tratadas também aumentou de forma significativa ao longo do período. O crescimento acontece em meio à alta prevalência de obesidade infantil nos Estados Unidos. Segundo os dados mais recentes do CDC (Centers for Disease Control and Prevention), cerca de 21% das crianças entre 6 e 11 anos e 22% dos adolescentes de 12 a 19 anos têm obesidade. Os medicamentos também demonstram potencial nessa população. Dados apresentados nesta semana pela Novo Nordisk indicaram que 40% das crianças de 6 a 12 anos que receberam semaglutida durante 68 semanas deixaram de se enquadrar nos critérios de obesidade ao final do tratamento. Apesar dos resultados, a aprovação regulatória ainda varia de acordo com a idade e a indicação. Nos Estados Unidos, a semaglutida é aprovada para tratamento da obesidade a partir dos 12 anos. A Novo Nordisk busca autorização para faixas etárias mais jovens. Já a tirzepatida, da Eli Lilly, está aprovada para obesidade apenas em adultos, embora possa ser usada no tratamento do diabetes em crianças a partir dos 10 anos. A Academia Americana de Pediatria passou, em 2023, a recomendar uma abordagem mais ativa para o tratamento da obesidade infantil, incluindo medicamentos como os GLP-1. Outros órgãos, porém, adotam uma posição mais cautelosa diante da falta de dados de longo prazo. Uma revisão sistemática de 18 ensaios clínicos randomizados, envolvendo mais de 1.400 crianças e adolescentes de 6 a 17 anos, encontrou melhora no peso, no índice de massa corporal, no controle glicêmico e na pressão arterial sistólica entre pacientes que receberam agonistas de GLP-1. Os efeitos colaterais gastrointestinais foram mais frequentes, como já observado em adultos. Nos estudos analisados, porém, não houve diferença estatisticamente significativa em relação ao placebo na interrupção do tratamento, depressão ou pensamentos e comportamentos suicidas. A ausência desses sinais, no entanto, não elimina as dúvidas. Segundo os pesquisadores, os estudos ainda são relativamente pequenos e curtos para detectar eventos raros ou consequências que apareçam após anos de tratamento. Entre os pontos que ainda precisam ser investigados estão possíveis impactos sobre crescimento, nutrição, saúde mental, transtornos alimentares e a trajetória do peso após a interrupção dos medicamentos. Também não está claro por quanto tempo crianças e adolescentes precisarão permanecer em tratamento. Especialistas consideram possível que parte dos pacientes precise continuar usando os medicamentos durante a vida adulta, enquanto outros poderiam reduzir doses ou interromper a terapia após um período de manutenção. Outra questão é definir qual medicamento funciona melhor para cada perfil de paciente. Pesquisadores afirmam que o campo caminha para uma abordagem mais personalizada, capaz de prever tanto a resposta ao tratamento quanto o risco de efeitos colaterais. Na prática clínica, médicos também relatam que crianças e adolescentes frequentemente dizem que os medicamentos reduzem o chamado “food noise”, expressão usada para descrever pensamentos persistentes sobre comida e fome. Ao mesmo tempo, especialistas alertam que obesidade e transtornos alimentares podem coexistir, o que exige acompanhamento cuidadoso da relação do paciente com a alimentação antes e durante o tratamento. A influência das famílias também é uma questão ainda pouco estudada. Segundo pesquisadores, não está claro em que medida a decisão de iniciar um GLP-1 parte dos pais, dos próprios jovens ou dos médicos. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/09/uso-de-canetas-emagrecedoras-cresce-entre-criancas-mas-efeitos-de-longo-prazo-ainda-sao-incertos.ghtml",
-      "published": "2026-09-12T20:51:47+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "glp-1",
-        "semaglutida",
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Split Payment pode reduzir lucro de Magalu, Pague Menos e Centauro, diz Safra",
@@ -4410,6 +4418,37 @@
       "score": 40.0
     },
     {
+      "title": "O motivo para o governo Lula mudar de posição e oferecer canetas emagrecedoras no SUS - O GLOBO",
+      "summary": "O motivo para o governo Lula mudar de posição e oferecer canetas emagrecedoras no SUS &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/o-motivo-para-o-governo-lula-mudar-de-posicao-e-oferecer-canetas-emagrecedoras-no-sus.ghtml",
+      "published": "2026-09-19T16:21:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "São Paulo concentra mais da metade dos galpões alugados na América Latina",
       "summary": "Mercado paulista respondeu por 56% da absorção logística na região; e-commerce impulsiona ocupação",
       "url": "https://exame.com/mercado-imobiliario/sao-paulo-concentra-mais-da-metade-dos-galpoes-alugados-na-america-latina",
@@ -5503,6 +5542,68 @@
       "score": 28.0
     },
     {
+      "title": "Empresa americana de bets usou IA para identificar apostadores com maior chance de perder",
+      "summary": "Cerca de um ano depois de começar a trabalhar como analista de dados na DraftKings, Jayden Butts recebeu uma nova tarefa. A gigante de apostas online gastava centenas de milhões de dólares por ano em incentivos promocionais, como apostas gratuitas divulgadas por email e celular. Mas a empresa sabia pouco sobre a eficácia dessas ações. Leia mais (09/19/2026 - 15h30)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/empresa-americana-de-bets-usou-ia-para-identificar-apostadores-com-maior-chance-de-perder.shtml",
+      "published": "2026-09-19T18:30:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas online",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Uso de remédios para emagrecer obriga indústrias de alimentos e moda a se adaptar",
+      "summary": "Em 2024, pesando 95 quilos e tomando medicamentos para controlar a pressão arterial, Dan Sherry recebeu uma prescrição de Ozempic . Hoje, aos 58 anos, Sherry pesa 72,5 quilos e sua pressão arterial está controlada. Ele anda de bicicleta diariamente e sua cintura diminuiu 15 centímetros. Leia mais (09/19/2026 - 17h15)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/uso-de-remedios-para-emagrecer-obriga-industrias-de-alimentos-e-moda-a-se-adaptar.shtml",
+      "published": "2026-09-19T20:15:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "ozempic",
+        "remédios para emagrecer"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "remédios para emagrecer",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Agenda de empresas: Assaí compra postos de combustíveis; TIM aprova R$ 515 milhões em proventos",
       "summary": "Assaí O Assaí assinou um contrato com o Centro de Conveniências Millennium para a aquisição da totalidade do capital das sociedades detentoras de 18 postos de combustíveis já instalados em lojas Assaí, localizados no Estado de São Paulo. O preço total da operação será de até R$ 80 milhões. IMC A gestora Vinci Compass, que controla no Brasil as redes Outback, Abbraccio e Aussie, e a International Meal Company (IMC) estão em conversas preliminares para uma fusão dos negócios — a fase atual está na análise dos números e o interesse da gestora está especialmente na marca Frango Assado, apurou o Valor. TIM Brasil O conselho de administração da TIM Brasil aprovou o pagamento de juros sobre capital próprio no valor total (bruto) de R$ 515 milhões, equivalentes a R$ 0,21668 por ação. O colegiado também aprovou o cancelamento de 13,2 milhões de ações mantidas em tesouraria, sem redução do capital social. Itaú O Itaú Unibanco informou que exercerá, nos dias 21 de setembro e 21 de outubro, a opção de recompra da totalidade das Letras Financeiras Subordinadas Nível 2 emitidas em 2021. Os títulos venceriam em 2031 e têm valor de R$ 11 bilhões. Casas Bahia Os debenturistas titulares de dívidas das Casas Bahia aprovaram o vencimento antecipado automático de títulos da rede, segundo ata de assembleia de assembleia geral dos investidores da 11ª emissão. O Grupo Casas Bahia convocou assembleia para o próximo dia 19 de outubro onde os acionistas irão ratificar o pedido de recuperação judicial da companhia ajuízado em agosto. Lojas Renner O conselho de administração da Lojas Renner aprovou o pagamento juros sobre capital próprio (JCP) no valor bruto de R$ 227,5 milhões, equivalentes a R$ 0,240666 por ação. Cemig A diretoria executiva da Cemig aprovou o pagamento de juros sobre capital próprio no montante total (bruto) de R$ 200 milhões, ou R$ 0,06991 por ação. EZTec A EZTec anunciou a assinatura de um contrato para locação integral do empreendimento corporativo Esther Towers ao Itaú Unibanco. O acordo envolve aproximadamente 91,4 mil metros quadrados de área locável. Copel O conselho de administração da Companhia Paranaense de Energia (Copel) aprovou o pedido de cancelamento da listagem de suas ações no Latibex, segmento da Bolsa de Madri voltado a companhias latino-americanas. OceanPact A Oceanpact Serviços Marítimos anunciou uma série de alterações em participações acionárias. A empresa concluiu na quarta-feira a incorporação da CBO Holding. Irani O conselho de administração da Irani aprovou seu novo programa de incentivo de longo prazo (ILP) para o ciclo 2026-2030 e a atualização do programa de recompra de ações de 2025 para permitir a utilização de ações mantidas em tesouraria no pagamento da remuneração variável aos executivos. Brava A Brava Energia comunicou ao mercado sobre o encerramento da transação para venda de 11 concessões de óleo e gás onshore localizadas na Bacia Potiguar, no Rio Grande do Norte, ao consórcio formado por Azevedo e Travassos Petróleo e Petro-Victory Energy(PVE). Divulgação",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/18/agenda-de-empresas-assai-compra-postos-de-combustiveis-tim-aprova-r-515-milhoes-em-proventos.ghtml",
@@ -5586,6 +5687,45 @@
           "field": "lead",
           "score": 8,
           "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
+      "title": "Conselho da Petrobras aprova adesão à nova subvenção do diesel",
+      "summary": "O Conselho de Administração da Petrobras aprovou a adesão à nova subvenção de preços do óleo diesel, de R$ 1 por litro, anunciada pelo governo federal no último dia 9, informou neste sábado a petroleira. A nova subvenção econômica foi regulamentada na última quarta-feira. Endividamento: Com 30% de inadimplência no Desenrola, governo estuda compra de dívidas antigas Aumento de custos: Início do plantio no Brasil deve agravar escassez global de diesel O desconto bancado pelo governo não chegará às bombas, ficará apenas com a estatal, porque, logo após a publicação da regulamentação, a Petrobras aplicou um reajuste, exatamente de R$ 1 por litro, no diesel nas refinarias. Desde março, nas primeiras semanas da guerra dos EUA e de Israel contra o Irã, o governo federal vem dando subsídios aos preços de combustíveis. Veja o que muda: Subsídio maior para gasolina e diesel entra em vigor A estratégia inclui desonerações tributárias e subvenções econômicas — no primeiro instrumento, a União reduz os tributos sobre o consumo, diminuindo o preço final; no segundo, segue recolhendo o de sempre na tributação, mas o governo paga um valor diretamente aos fabricantes e importadores, e eles oferecem um desconto no preço final. Subsídios têm sido renovados Os subsídios têm sido adotados com validade. Por isso, desde o início, têm sido renovados de tempos em tempos. No último dia 11, parte dos subsídios teve o prazo de validade vencido e, por isso, foram substituídos por novos. Na gasolina, a subvenção econômica foi terminada, e substituída por uma desoneração tributária. Como a segunda foi maior do que a primeira, e a Petrobras voltou atrás numa tentativa de reajustar o preço nas refinarias, a gasolina deverá ficar mais barata para o consumidor. Vaivém: Petrobras não elevará preço da gasolina nas refinarias. Na bomba, queda pode ser de 2% No diesel, a nova subvenção de R$ 1 por litro se soma a outra, de R$ 1,12 por litro, que segue vigente. A Petrobras frisou isso ao anunciar a adesão ao novo desconto. “A adesão à subvenção econômica” anunciada no último dia 11 “não afasta o direito ao recebimento das subvenções econômicas já devidas ao produtor ou ao importador, tampouco revoga a adesão da companhia à subvenção autorizada” anteriormente, de “R$ 1,12 por litro”, diz a nota divulgada pela Petrobras neste sábado. “Dessa forma, os benefícios previstos em ambos os programas são cumulativos”, diz o texto. Segundo a nota, o Conselho de Administração deu sinal verde para aderir à nova subvenção “diante do caráter facultativo e do potencial benefício” para a companhia. O próximo passo para garantir o direito ao desconto é a Petrobras assinar um termo de adesão com o governo. Com R$ 9,9 bi em subvenção, Petrobras reafirma política de preços A Petrobras reafirmou também que “mantém sua estratégia comercial”, numa referência aos reajustes aplicados nas refinarias e à política de preços. “A Petrobras mantém sua estratégia comercial, orientada pela participação de mercado, pela otimização de seus ativos de refino e pela busca de rentabilidade de forma sustentável, evitando o repasse imediato aos preços internos da volatilidade conjuntural das cotações internacionais e da taxa de câmbio”, diz a nota deste sábado. Desde o início da guerra, a Petrobras já recebeu R$ 9,9 bilhões em pagamentos de subvenção econômica ao óleo diesel, gasolina e GLP (como é chamado o gás de botijão). O pagamento mais recente foi de R$ 448 milhões, “referentes à comercialização de gasolina no período de 16 e 31 de julho”.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/09/19/conselho-da-petrobras-aprova-adesao-a-nova-subvencao-do-diesel.ghtml",
+      "published": "2026-09-19T22:19:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola",
+        "endividamento",
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "lead",
+          "score": 8,
+          "topic": "desenrola"
         }
       ],
       "score": 24.0
@@ -5708,144 +5848,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "JCNET: Caneta emagrecedora muda perfil em academias e exige adaptação - sampi.net.br",
-      "summary": "JCNET: Caneta emagrecedora muda perfil em academias e exige adaptação &nbsp;&nbsp; sampi.net.br",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOSGgzQzg5a3lreHc1b2JuRTZzcDcxRURvcDB2a2V4NS1lSzZDT2F4b2JIbzhjZEItTkppREw2VUhDbVd4M1FyczNnSEx5TklpcTVpODF2N1FVdUNleWNXNUpXSkljQnVnRklxT0d2NG5CcFpYYzdHb3lpVHR0eWt4QnM2MnBvTnloNzBTcUZuWkR3bS1pTWpYakdtTVZaMWJMdFVOYmNmWTdReWhSRzJfeTlhN3Fqem40Ym1mYW42blRuT0ctMWpERA?oc=5",
-      "published": "2026-09-12T14:52:01+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Caneta da Mantecorp, Semavy, chega às farmácias do Brasil - Portal Leo Dias",
-      "summary": "Caneta da Mantecorp, Semavy, chega às farmácias do Brasil &nbsp;&nbsp; Portal Leo Dias",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVWxkcUloalppQ3E1aHhaVFFWTG9LTFRwU3drUkE4ODkxSnNxWkYxUjJJM29FZkJRcVVObDNCdzhPUHNlOEcyeTdteVNzTE9KRkJYZndsQmlsLUY4VkcwQThROGw2VGlQWHZiODhteFpPSUY3MUI2UEQzWGVBczlmYXYyc0ZaTzhSbVRkNjZnYUvSAZYBQVVfeXFMUDdMR19RWEJKZnp1RjU0VnVFR0NVVjVOQkhIbmNQU3RRRHlSYUc1S0xVejZlR2t6Yk12UDhJaDFFRUFWcnhScEh0OXhKSHpTQjRTT0ZuM05pSWFpQUk2cEpWVHQyMFNHSHNhZTZpY1VYakpYTHRlN2U3RVo3V183amRWdnloYU5vcUFEa0tDRWVJRVE0MlF3?oc=5",
-      "published": "2026-09-12T17:00:22+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bentley, Aston Martin, relógio Cartier: os bens luxuosos encontrados com o pai de Daniel Vorcaro",
-      "summary": "",
-      "url": "https://www.estadao.com.br/politica/coluna-do-estadao/bentley-aston-martin-relogio-cartier-os-bens-luxuosos-encontrados-com-o-pai-de-daniel-vorcaro",
-      "published": "2026-09-12T17:00:40+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "cartier"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "cartier",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "SOLL*Q-75: Anvisa proíbe produto chinês com berberina vendido como alternativa para Ozempic - vtvnews.com.br",
-      "summary": "SOLL*Q-75: Anvisa proíbe produto chinês com berberina vendido como alternativa para Ozempic &nbsp;&nbsp; vtvnews.com.br",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUhnLUVtVkIzbmZIemVsa2NKWi01cjJVNjhTWEpiNk1vQ0JWay1MZVdJSzZjMEV3ZW9WdzhyQVdmcExac240ZE1JeE1OcjNFYmJCLW0zb3ZLNC1XU0RiSlcwU19Sck5iT21pS245bFoxZXNEUFRpV1BTdEQ3YlItY3JBMy1Xa25qc2VxOA?oc=5",
-      "published": "2026-09-12T18:30:00+00:00",
-      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Carga com 9,6 mil frascos de tirzepatida é apreendida em Marmeleiro - diariodosudoeste.com.br",
-      "summary": "Carga com 9,6 mil frascos de tirzepatida é apreendida em Marmeleiro &nbsp;&nbsp; diariodosudoeste.com.br",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWGdUUHA5MlJmM1ljR0FMWWMxdjVlVUpFM1FFcTczenpjeURtRG11empiVk9MYzl1WU5CM0MxbmFLbTdnUk9JUkU4SGY3NC1JQzBiV2xLcnFDXzRMUGZIS2g2SElJRml1Y1NsSmJuNkczRjFTS0FmSnBIU0FVblpscDZYSzlObjJmQktFT0ZXU0RLSTVveXluNTJnTGJFWGZl?oc=5",
-      "published": "2026-09-12T22:45:11+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Pediatras alertam para uso de canetas emagrecedoras - G1",
-      "summary": "Pediatras alertam para uso de canetas emagrecedoras &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/ba/bahia/videos-batv/video/pediatras-alertam-para-uso-de-canetas-emagrecedoras-14956530.ghtml",
-      "published": "2026-09-12T22:46:08+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Canetas emagrecedoras do Paraguai: Dinavisa alerta que garantia não vale no Brasil - A Crítica de Campo Grande",
@@ -10724,6 +10726,29 @@
       "score": 20.0
     },
     {
+      "title": "Cafezinho mais barato: cafeteiras em promoção no Mercado Livre - Estadão",
+      "summary": "Cafezinho mais barato: cafeteiras em promoção no Mercado Livre &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/cafezinho-mais-barato-cafeteiras-em-promocao-no-mercado-livre",
+      "published": "2026-09-18T18:13:27+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Renan Santos pede para TSE suspender aumento de pagamento do Bolsa Família feito por Lula",
       "summary": "O candidato acusa o presidente de 'finalidade eleitoreira' e cita precedente da PEC Kamizake do STF",
       "url": "https://www.jota.info/eleicoes/eleicoes-2026/renan-santos-pede-para-tse-suspender-aumento-de-pagamento-do-bolsa-familia-feito-por-lula",
@@ -11207,11 +11232,287 @@
       "score": 20.0
     },
     {
+      "title": "'Quem ama cuida': Adriana vai ser anunciada como nova chefe na joalheria Brandão; saiba como será revelação - O GLOBO",
+      "summary": "'Quem ama cuida': Adriana vai ser anunciada como nova chefe na joalheria Brandão; saiba como será revelação &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/cultura/televisao/noticia/2026/09/19/quem-ama-cuida-adriana-vai-ser-anunciada-como-nova-chefe-na-joalheria-brandao-saiba-como-sera-revelacao.ghtml",
+      "published": "2026-09-19T07:30:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "joalheria"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joalheria",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Análise: Reajuste do Bolsa Família supera economia dos gatilhos do Orçamento e enfraquece discurso de ajuste fiscal",
       "summary": "O reajuste de 15% do Bolsa Família, que vai custar R$ 22,7 bilhões a mais em 2027, consome mais espaço fiscal do que a economia estimada com os três gatilhos de contenção de gasto acionados pelo lado da despesa na proposta de Orçamento para o próximo ano. O movimento também enfraquece o discurso de integrantes da equipe econômica de que um eventual governo Lula 4 adotará medidas eficientes para o controle do gasto público. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/brasil/noticia/2026/09/19/analise-reajuste-do-bolsa-familia-supera-economia-dos-gatilhos-do-orcamento-e-enfraquece-discurso-de-ajuste-fiscal.ghtml",
       "published": "2026-09-19T11:26:24+00:00",
       "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Quatro suspeitos são presos com canetas emagrecedoras roubadas em Cuiabá - G1",
+      "summary": "Quatro suspeitos são presos com canetas emagrecedoras roubadas em Cuiabá &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/09/19/quatro-suspeitos-sao-presos-com-canetas-emagrecedoras-roubadas-em-cuiaba.ghtml",
+      "published": "2026-09-19T12:49:20+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "A história das duas letras que dão nome à C&A há quase dois séculos - Exame",
+      "summary": "A história das duas letras que dão nome à C&amp;A há quase dois séculos &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/invest/mercados/a-historia-das-duas-letras-que-dao-nome-a-ca-ha-quase-dois-seculos",
+      "published": "2026-09-19T14:02:36+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "c&a"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "c&a",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "'A fibra é a nova proteína': canetas emagrecedoras mudam a indústria de alimentos - Exame",
+      "summary": "'A fibra é a nova proteína': canetas emagrecedoras mudam a indústria de alimentos &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/invest/mercados/a-fibra-e-a-nova-proteina-canetas-emagrecedoras-mudam-a-industria-de-alimentos",
+      "published": "2026-09-19T14:05:02+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Remédio aprovado nos EUA pode evitar perda muscular com canetas emagrecedoras - Exame",
+      "summary": "Remédio aprovado nos EUA pode evitar perda muscular com canetas emagrecedoras &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/ciencia/remedio-aprovado-nos-eua-pode-evitar-perda-muscular-com-canetas-emagrecedoras",
+      "published": "2026-09-19T15:00:51+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lula volta a prometer que vai acabar com as bets: 'pessoas estão se endividando'",
+      "summary": "Presidente voltou a falar sobre o assunto em Florianópolis e disse que irá consultar Ministério da Fazenda e Banco Central",
+      "url": "https://exame.com/brasil/lula-volta-a-prometer-que-vai-acabar-com-as-bets-pessoas-estao-se-endividando",
+      "published": "2026-09-19T16:30:14+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Flávio diz que Lula tenta ‘comprar voto dos pobres’ com reajuste do Bolsa Família: ‘Desespero’",
+      "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, acusou neste sábado o presidente Luiz Inácio Lula da Silva (PT) de tentar “comprar o voto dos mais pobres” com o reajuste do Bolsa Família e classificou a medida como um “ato de desespero” na reta final da eleição. Durante comício em Joinville (SC), o presidenciável questionou o momento escolhido pelo governo para elevar o benefício e afirmou que Lula poderia ter adotado a medida nos três primeiros anos do mandato. Flávio reage a foto de Gonet com Vorcaro após PGR negar proximidade: ‘Rindo da cara do povo sofrido’ 'Fora da Bolha': Moraes, Gilmar e Dino preparam a pizza, Lula aquece a máquina e o pavor das 'surubas' do Master — O desespero do sistema bateu de vez. O Lula fez uma confissão há dois dias, quando, num ato de desespero, ele aumentou o Bolsa Família. Ele deu a prova de que ele não pensa no povo brasileiro, de que ele pensa só nele — afirmou Flávio. O governo anunciou na quinta-feira o reajuste de 15,04% do Bolsa Família, elevando o valor mínimo do benefício de R$ 600 para R$ 691. O novo valor começa a ser pago em outubro. O governo sustenta que a medida corresponde à recomposição da inflação acumulada desde 2023 e não altera os critérios para recebimento do programa. Gonet classificou relação com Vorcaro como ‘brevíssima e banal’ três dias antes de foto com charuto e uísque ser divulgada No discurso, o candidato afirmou que Lula poderia ter elevado o benefício em 2023, 2024 ou 2025 e citou ainda o envio da proposta de Orçamento para o próximo ano como outra ocasião em que, segundo ele, o governo poderia ter previsto o reajuste. — Se ele pensasse no povo brasileiro, ele tinha feito isso lá em 2023, no primeiro ano de governo. Não fez. Poderia ter feito em 2024, não fez. Podia ter feito em 2025, também não fez. Podia ter feito há duas semanas, quando mandou o Orçamento para o ano que vem, também não fez — disse. Regra eleitoral restringe prisão de candidatos a partir deste sábado e é válida até 48 horas depois do primeiro turno; veja como funciona Flávio relacionou então diretamente a decisão do governo ao cenário eleitoral e às pesquisas de intenção de voto — Sabe o que ele fez, gente? Ele viu as pesquisas, aí ele foi e tentou comprar o voto dos mais pobres, dando R$ 90 de reajuste para o Bolsa Família. Que vergonha, Lula — afirmou. Lula volta a falar em proibir bets e diz que vai consultar Ministério da Fazenda e Banco Central Apesar das críticas, Flávio já afirmou que manterá o novo valor do Bolsa Família caso seja eleito. A campanha também decidiu não recorrer à Justiça Eleitoral contra o reajuste. O deputado federal Zé Trovão (PL-SC), no entanto, acionou o Tribunal Superior Eleitoral (TSE) para questionar a medida. O pedido foi rejeitado pelo ministro André Mendonça, que não analisou o mérito por considerar que o parlamentar não tinha legitimidade para apresentar a ação. Ao desenvolver o tema no discurso, Flávio afirmou ainda que pretende permitir que beneficiários que consigam emprego continuem recebendo o Bolsa Família por um período até se estabilizarem financeiramente. Segundo o candidato, a ideia é reproduzir uma regra adotada durante o governo de Jair Bolsonaro. — Quem recebia o Bolsa Família com o presidente Bolsonaro e conseguiu emprego continuava ganhando o Bolsa Família por um tempo, até se estabilizar. E com a gente vai ser igual. A gente precisa abraçar quem precisa — afirmou. Flávio disse que o objetivo seria estimular a saída gradual do programa por meio da entrada no mercado de trabalho. Em outro momento, questionou se beneficiários desejariam que os filhos permanecessem dependentes do auxílio e voltou a citar a proposta “Minha Primeira Empresa”, já incluída em seu programa de governo, para estimular jovens a abrir negócios. — Você acha que [quem recebe Bolsa Família] quer deixar de herança para o seu filho Bolsa Família? Ou quer deixar de herança um filho que estudou num colégio bom, de qualidade, que conseguiu concluir o seu ensino (...) e conseguiu um emprego bom? — disse. No ato em Joinville, Flávio também reforçou a estratégia de buscar a concentração de votos na reta final para tentar encerrar a disputa já no primeiro turno. — Não vamos perder as oportunidades, vamos resolver no primeiro turno para começar a recolocar o Brasil nos trilhos — afirmou. Flávio volta a atacar Gonet e STF Flávio também criticou o procurador-geral da República, Paulo Gonet, após a divulgação de uma foto em que ele aparece ao lado do banqueiro Daniel Vorcaro em uma confraternização em Londres. O candidato associou o episódio à crise envolvendo o Supremo Tribunal Federal (STF) e acusou ministros indicados por Lula de promoverem uma “força-tarefa” para proteger Alexandre de Moraes. A PGR afirma que Gonet esteve no evento com outras autoridades e nega que o registro demonstre relação de proximidade com Vorcaro. — Quem criou essa crise foi o governo Lula. Foram os ministros do Lula no Supremo Tribunal Federal, que promovem ali uma força-tarefa para proteger o Alexandre de Moraes. Foi o presidente Lula que indicou o Paulo Gonet para ser procurador-geral da República, que reconduziu — afirmou. O registro revelado pelo GLOBO mostra Gonet com um charuto nas mãos, sentado próximo ao dono do Banco Master e diante de uma mesa com copos de uísque. A imagem veio a público dias depois de o procurador-geral negar, durante o julgamento no STF sobre a abertura de uma investigação envolvendo Moraes, ter relação de proximidade com Vorcaro. Na ocasião, Gonet reconheceu ter encontrado o banqueiro em abril de 2024, em um evento com outras autoridades, e classificou uma ligação entre os dois, intermediada por um advogado, como “brevíssima e banal”. A pessoas próximas, o procurador-geral sustenta que a fotografia foi feita justamente nesse encontro e que o registro não demonstra intimidade com Vorcaro. Ao retomar o episódio em Joinville, Flávio fez referência ao uísque e aos charutos. — O que a gente percebe é que, enquanto tem brasileiros que estão sem comida na mesa, tem aquele pessoal da tropa do Lula que está tomando uísque Macallan, fumando charuto caro e rindo da cara do povo — disse. Flávio voltou ainda a dizer que pretende indicar cinco ministros ao STF caso seja eleito e, desta vez, detalhou características que pretende levar em consideração nas escolhas. Disse que buscará nomes contrários ao aborto e às drogas e favoráveis ao empreendedorismo, além de voltar a defender a saída de Moraes da Corte. Carlos leva camisa assinada por Bolsonaro Quem também participou do ato foi o irmão do presidenciável, Carlos Bolsonaro, candidato ao Senado por Santa Catarina. Ele vestiu uma camisa do Joinville assinada pelo pai, o ex-presidente Jair Bolsonaro, durante a prisão domiciliar. Ao mostrar a peça ao público, Carlos disse ter levado a camisa anteriormente ao pai para que fosse assinada. — Ele não pode estar aqui conosco, mas eu levei a camisa para ele assinar e eu trouxe comigo um pedacinho dessas pessoas que vocês amam — disse. No discurso, Flávio também pediu votos para Carlos e para Carol de Toni, que disputa a outra vaga ao Senado pelo estado, e apresentou o irmão como representante político do pai na eleição catarinense. — O Carlos é o próprio Jair Bolsonaro candidato ao Senado aqui em Santa Catarina. Olha para o Carlos e enxerga que está votando no Jair Bolsonaro. Olha para a Carol e enxerga que está votando no Jair Bolsonaro também — disse. Joinville é a primeira parada de Flávio neste sábado em Santa Catarina. À tarde, o candidato segue para Chapecó, no Oeste do estado, onde participa de um novo ato de campanha. Initial plugin text",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/19/flavio-diz-que-lula-tenta-comprar-voto-dos-pobres-com-reajuste-do-bolsa-familia-desespero.ghtml",
+      "published": "2026-09-19T16:32:05+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Gigante americana das bets usou IA para encontrar apostadores mais propensos a perder",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/gigante-americana-das-bets-usa-ia-para-encontrar-apostadores-mais-propensos-a-perder",
+      "published": "2026-09-19T16:33:29+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Bets geram impacto de R$ 30 bilhões por ano ao SUS, diz pesquisa - VEJA",
+      "summary": "Bets geram impacto de R$ 30 bilhões por ano ao SUS, diz pesquisa &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/bets-geram-impacto-de-r-30-bilhoes-por-ano-ao-sus-diz-pesquisa",
+      "published": "2026-09-19T16:49:30+00:00",
+      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Flávio acusa Lula de aumentar Bolsa Família por ‘desespero’ e tentar ‘comprar voto dos pobres’",
+      "summary": "",
+      "url": "https://www.estadao.com.br/politica/flavio-acusa-lula-de-aumentar-bolsa-familia-por-desespero-e-tentar-comprar-voto-dos-pobres",
+      "published": "2026-09-19T17:12:20+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Aumento do Bolsa Família não é medida eleitoreira e está dentro do Orçamento, diz Durigan",
+      "summary": "O ministro da Fazenda, Dario Durigan, negou que o aumento de 15% no Bolsa Família , anunciado nesta semana, a menos de um mês das eleições presidenciais, tenha caráter meramente eleitoreiro. Leia mais (09/19/2026 - 14h39)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/aumento-do-bolsa-familia-nao-e-medida-eleitoreira-e-esta-dentro-do-orcamento-diz-durigan.shtml",
+      "published": "2026-09-19T17:39:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Flávio Bolsonaro diz que Lula tenta comprar os pobres e aumentou Bolsa Família por desespero",
+      "summary": "O candidato à Presidência Flávio Bolsonaro ( PL ) afirmou neste sábado (19), em ato de campanha em Joinville (SC), que o presidente Lula ( PT ) aumentou o valor do Bolsa Família em um \"ato de desespero\" para tentar obter votos. Leia mais (09/19/2026 - 16h21)",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/flavio-bolsonaro-diz-que-lula-tenta-comprar-os-pobres-e-aumentou-bolsa-familia-por-desespero.shtml",
+      "published": "2026-09-19T19:21:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
       "matched_sectors": [
         "Economia"
       ],
@@ -11267,37 +11568,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Ações da Dell Vão À Máxima Histórica Enquanto Michael Dell e Jeff Bezos Disputam Posto de Terceiro Bilionário Mais Rico",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. CEO Michael Dell volta à terceira posição da lista de bilionários em tempo real da Forbes, à frente do cofundador da Amazon, Jeff Bezos O post Ações da Dell Vão À Máxima Histórica Enquanto Michael Dell e Jeff Bezos Disputam Posto de Terceiro Bilionário Mais Rico apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/geral/2026/09/acoes-da-dell-vao-a-maxima-historica-enquanto-michael-dell-e-jeff-bezos-disputam-posto-de-terceiro-bilionario-mais-rico",
-      "published": "2026-09-12T13:25:26+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Dívidas e juros altos abatem indústria de alta tecnologia",
@@ -11727,6 +11997,37 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "A empresa mais antiga do Brasil aposta na escala 4x3: 'Sem inovação, não estaríamos aqui'",
+      "summary": "A companhia mineira de 192 anos decidiu que o bem-estar dos funcionários ‘vale ouro’. O negócio é hoje uma das maiores operações do mundo e tem Vivara como cliente",
+      "url": "https://exame.com/carreira/essa-mineradora-de-192-anos-aposta-na-escala-de-trabalho-4x3-e-home-office",
+      "published": "2026-09-19T14:15:07+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "ouro",
+        "vivara"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "vivara",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Joias",
+          "alias": "ouro",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -12932,6 +13233,98 @@
         {
           "sector": "Economia",
           "alias": "bolsa família",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "'Rabo de macaco': o que se sabe sobre as 48 mortes causadas por bebida adulterada com metanol na Nigéria",
+      "summary": "Quarenta e oito pessoas morreram nas últimas semanas na Nigéria após consumir bebidas alcoólicas adulteradas com metanol, informou neste sábado a Agência Nacional de Administração e Controle de Alimentos e Medicamentos do país (NAFDAC). Estudo na Nature: Novo exame de sangue detecta câncer de pâncreas em estágio inicial em 87% dos casos Veja também: Duas drogas são encontradas pela primeira vez no mundo em saliva humana e Ministério da Justiça brasileiro emite alerta Além delas, outras 182 pessoas ficaram doentes. O que se sabe sobre o caso As intoxicações atingiram três distritos do estado de Ondo, no sudoeste do país. As vítimas haviam consumido uma bebida artesanal conhecida localmente como \"Rabo de macaco\". Segundo a NAFDAC, 15 pessoas envolvidas na produção e na venda da bebida foram detidas. Testes realizados em laboratórios identificaram \"altas concentrações de metanol\", substância altamente tóxica usada como solvente e anticongelante, além de cannabis. As intoxicações também provocaram graves consequências para a visão. Cinco pessoas ficaram completamente cegas e outras duas perderam parcialmente a visão após consumir a bebida adulterada.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/09/19/rabo-de-macaco-o-que-se-sabe-sobre-as-48-mortes-causadas-por-bebida-adulterada-com-metanol-na-nigeria.ghtml",
+      "published": "2026-09-19T12:56:24+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamentos"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "As propostas econômicas dos candidatos à Presidência",
+      "summary": "Quais são os planos do próximo presidente da República para um ajuste fiscal no país? O GLOBO ouviu os representantes econômicos das principais candidaturas sobre as propostas para as contas públicas e, também, para a taxa de juros, as negociações comerciais, a implementação da Reforma Tributária e as mudanças no mercado de trabalho com o possível fim da escala 6x1. Confira, abaixo, as entrevistas: Dario Durigan - Representante da campanha de Lula: ‘O gasto obrigatório vai crescer menos no Orçamento de 2027. Isso é resposta efetiva’, diz ministro da Fazenda Interlocutor econômico da campanha de Lula: Orçamento de 27 é a resposta efetiva a cortes Daniella Marques - Representante da campanha de Flávio Bolsonaro: ‘Autocontenção de gastos virá com diálogo entre Poderes’ Coordenadora da agenda econômica de Flávio afirma que ajuste fiscal será de 1,5% do PIB Luiz Carlos Hauly - Representante da candidatura de Augusto Cury: ‘Solução para o déficit fiscal é pacto social para cortar os juros’ Solução para o déficit fiscal é pacto social para cortar os juros Kim Kataguiri - Representante da candidatura de Renan Santos: 'Vamos usar economia com desvinculação do mínimo e dos pisos para fazer superávit fiscal’ Assessor econômico de Renan Santos defende acabar com pisos da Saúde e da Educação Roberto Brant: Representante da candidatura de Ronaldo Caiado: 'PEC temporária vai estabelecer novo teto de gastos' Coordenador do plano de Ronaldo Caiado: PEC temporária vai estabelecer novo teto de gasto Carlos da Costa - Representante da candidatura de Romeu Zema: ‘Vamos privatizar o Banco do Brasil e a Petrobras para reduzir juros’ ‘Vamos privatizar o Banco do Brasil e a Petrobras’, diz coordenador econômico de Zema",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/19/as-propostas-economicas-dos-candidatos-a-presidencia.ghtml",
+      "published": "2026-09-19T16:12:50+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Programa de liderança leva brasileiras aos EUA para aprender com as ‘love brands’",
+      "summary": "Grupo de empresárias e executivas do Brasil irão participar da imersão 'Salto Mais Alto' para aprender sobre comunicação, posicionamento e influência com grandes empresas americanas como LinkedIn, Starbucks e Tiffany",
+      "url": "https://exame.com/carreira/programa-de-lideranca-leva-brasileiras-aos-eua-para-aprender-com-as-love-brands",
+      "published": "2026-09-19T16:16:35+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "tiffany"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "tiffany",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Lula muda estratégia, parte para o ataque contra Flávio e aposta em propostas populares",
+      "summary": "Campanha reforça críticas ao rival e anuncia medidas sobre bets, Bolsa Família, saúde e segurança pública",
+      "url": "https://exame.com/brasil/lula-muda-estrategia-parte-para-o-ataque-contra-flavio-e-aposta-em-propostas-populares",
+      "published": "2026-09-19T17:00:44+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "lead",
           "score": 8,
           "topic": null
