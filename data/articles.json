@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-20T00:11:39.688310+00:00",
-  "count": 473,
-  "new_this_run": 24,
+  "generated_at": "2026-09-20T06:30:08.446871+00:00",
+  "count": 471,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -1700,45 +1700,6 @@
         }
       ],
       "score": 50.0
-    },
-    {
-      "title": "Novo efeito do Ozempic: estudo encontra relação com menos crises de asma",
-      "summary": "Estudo com registros de até 22 mil pacientes também encontrou redução de 20% nas exacerbações de DPOC com semaglutida",
-      "url": "https://exame.com/ciencia/novo-efeito-do-ozempic-estudo-encontra-relacao-com-menos-crises-de-asma",
-      "published": "2026-09-13T05:00:41+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ozempic",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "Split payment não pega supermercado, farmácia e cartão",
@@ -5848,52 +5809,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Canetas emagrecedoras do Paraguai: Dinavisa alerta que garantia não vale no Brasil - A Crítica de Campo Grande",
-      "summary": "Canetas emagrecedoras do Paraguai: Dinavisa alerta que garantia não vale no Brasil &nbsp;&nbsp; A Crítica de Campo Grande",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUk00Q1phVldqUGFEaWEyOUNRaHZHNW90emROdEtmcHdTT1BzVjFEQk5LanNvQkhxeklkREgwLXBSakFZbXBybVVkdjRDTVU4S3RQT25XZkNLbnJQU3FscjNob01xRExhUDE5UHU5dkFreGgyRElvMFhLU2UwSl90VmM0MVdvVW5nMHlLc0k1aUc?oc=5",
-      "published": "2026-09-13T04:36:31+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Tudo sobre Nubank - forbes.com.br",
-      "summary": "Tudo sobre Nubank &nbsp;&nbsp; forbes.com.br",
-      "url": "https://forbes.com.br/noticias-sobre/nubank/page/11",
-      "published": "2026-09-13T05:33:20+00:00",
-      "source": "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Vorcaro diz que teve ‘ótima’ reunião com Vélez, do Nubank, mas que tentativa de venda do Lestbank não avançou",
@@ -13325,6 +13240,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "São Paulo elimina Flamengo e está na final do Brasileirão Feminino",
+      "summary": "Kesia saiu do banco para marcar o gol da vitória por 1 a 0 no Brinco de Ouro; Tricolor Paulista também garantiu vaga na Libertadores Feminina de 2027",
+      "url": "https://veja.abril.com.br/coluna/linha-de-frente/sao-paulo-elimina-flamengo-e-esta-na-final-do-brasileirao-feminino",
+      "published": "2026-09-20T01:28:17+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "ouro"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "ouro",
           "field": "lead",
           "score": 8,
           "topic": null
