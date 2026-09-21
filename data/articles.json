@@ -1,8 +1,71 @@
 {
-  "generated_at": "2026-09-21T13:20:43.331454+00:00",
-  "count": 491,
-  "new_this_run": 14,
+  "generated_at": "2026-09-21T14:22:58.110927+00:00",
+  "count": 494,
+  "new_this_run": 9,
   "articles": [
+    {
+      "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
+      "summary": "Levantamento considera a média mensal de pesquisas no Google Brasil entre agosto de 2025 e julho de 2026 e reúne dez medicamentos regularizados pela Anvisa",
+      "url": "https://exame.com/ciencia/mounjaro-ozempic-ou-wegovy-ranking-revela-as-canetas-emagrecedoras-mais-buscadas-no-brasil",
+      "published": "2026-09-21T10:29:05+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "medicamentos",
+        "mounjaro",
+        "ozempic",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 108.0
+    },
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
       "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou, na última terça-feira (8), os dois primeiros medicamentos genéricos de liraglutida no país. O anúncio ampliou a oferta de tratamentos para diabetes tipo 2 e obesidade em um mercado que já vem passando por rápida transformação com a chegada de novas versões de semaglutida, princípio ativo de medicamentos como Ozempic e Wegovy. Um dos novos produtos tem como medicamento de referência o Olire, indicado para obesidade, enquanto o outro é baseado no Lirux, destinado ao tratamento do diabetes tipo 2. Segundo a agência, ambos passaram pelo processo regulatório exigido para comprovar equivalência terapêutica em relação aos medicamentos de referência. Pela Lei dos Genéricos, esses produtos devem chegar ao mercado com preços pelo menos 35% inferiores aos dos medicamentos de referência. Número de medicamentos explodiu em 2026 A liraglutida pertence à classe dos agonistas do receptor GLP-1, medicamentos que atuam sobre mecanismos relacionados ao controle glicêmico e à sensação de saciedade. A Anvisa destaca que a substância atua como análogo do GLP-1, hormônio envolvido na regulação fisiológica do apetite e da ingestão calórica. A agência também autorizou nove medicamentos nacionais à base de semaglutida desde março de 2026, quando expirou a patente brasileira do princípio ativo utilizado no Ozempic e no Wegovy. A expectativa do setor é que o aumento da concorrência reduza preços e amplie o acesso aos tratamentos. Entre os produtos aprovados pela Anvisa neste ano — que possuem indicação aprovada para diabetes tipo 2 —, estão: Ozivy (EMS), além do genérico de semaglutida da companhia baseado no próprio Ozivy; Semavy (Cosmed/Hypera Pharma); Semaclique (Germed); Owozy (Ávita Care); Yluméc (EMS); Zempneo (Brainfarma); Seemasun (Sun Farmacêutica); e Orsema (Ranbaxy). Além dos nove registros de semaglutida aprovados neste ano, o mercado brasileiro já contava com duas canetas injetáveis resultantes de parceria entre Novo Nordisk e Eurofarma, aprovadas anteriormente. Uma delas, o Poviztra, permanece como a única semaglutida nacional aprovada também para obesidade e sobrepeso associado a comorbidades além do Wegovy. O Brasil também conta com outros dois medicamentos que utilizam princípios ativos semelhantes à semaglutida: o Mounjaro, baseado na Tirzepatida; e o Trulicity, feito a partir da Dulaglutida. Ambos são produzidos e comercializados pela Eli Lilly, e enquanto o segundo é indicado principalmente para o tratamento de diabetes tipo 2, o primeiro também é indicado para o controle da obesidade e sobrepeso. *Com supervisão de Rennan Julio Mais Lidas",
@@ -97,84 +160,6 @@
         }
       ],
       "score": 92.0
-    },
-    {
-      "title": "IA identifica sintomas ocultos do Ozempic em 400 mil publicações em plataforma de fórum online",
-      "summary": "Uma análise de inteligência artificial em mais de 400 mil publicações no Reddit, plataforma de fórum online, identificou sintomas relatados por usuários de medicamentos à base de semaglutida e tirzepatida, os princípios ativos por trás de remédios como Ozempic, Wegovy, Mounjaro e Zepbound, que podem não estar totalmente descritos em bulas ou testes clínicos. O estudo foi conduzido por pesquisadores da Universidade da Pensilvânia (Penn) e publicado na revista científica Nature Health. Semaglutida e tirzepatida pertencem à classe dos agonistas do GLP-1, hormônio que atua no controle do apetite e da glicose no sangue. Os medicamentos dessa categoria, usados tanto no tratamento do diabetes tipo 2 quanto na perda de peso, tornaram-se alguns dos produtos farmacêuticos mais vendidos do mundo nos últimos anos. O que os pacientes contam fora dos consultórios A pesquisa reuniu mais de cinco anos de publicações de quase 70 mil usuários do Reddit. Dois grupos de sintomas chamaram a atenção dos autores por aparecerem com frequência maior do que a esperada: alterações no ciclo menstrual, como sangramento fora do período e sangramento intenso, e queixas ligadas à temperatura corporal, entre elas calafrios e ondas de calor. Os pesquisadores fazem questão de separar associação de causa. \"Não podemos afirmar que os GLP-1 causam esses sintomas, mas quase 4% relataram irregularidades menstruais\", disse Neil Sehgal, doutorando em Ciência da Computação e da Informação na Penn e primeiro autor do estudo. Segundo ele, essa proporção tende a ser ainda maior numa amostra composta só por mulheres. Testes clínicos, explica o coautor Lyle Ungar, professor da mesma universidade, são desenhados principalmente para detectar os efeitos colaterais mais graves de um medicamento, não necessariamente os que mais incomodam quem o toma no dia a dia. \"Comunidades on-line de pacientes funcionam como uma rede de boca a boca entre vizinhos\", afirmou. Os números que sustentam a pesquisa Cerca de 44% dos usuários analisados relataram pelo menos um efeito colateral, a maioria ligada a problemas gastrointestinais, sintomas já amplamente associados a esses medicamentos. \"Efeitos já conhecidos, como a náusea, mostram que o método capta um sinal real\", disse Sharath Chandra Guntuku, professor de Ciência da Computação e da Informação na Penn e autor sênior do estudo. Chamou a atenção dos pesquisadores o fato de a fadiga ter sido a segunda queixa mais comum entre os usuários do Reddit, apesar de aparecer com pouca frequência nos relatórios formais dos testes clínicos. Já os sintomas reprodutivos e as alterações de temperatura, embora bem menos frequentes que os problemas digestivos, se repetiram o suficiente para os autores os classificarem como sinais que merecem investigação mais aprofundada. Uma hipótese levantada pelos autores está relacionada ao hipotálamo, região do cérebro que ajuda a regular funções como fome, temperatura corporal, ciclo reprodutivo e produção de hormônios. Como os medicamentos à base de GLP-1 atuam justamente sobre essa área, os pesquisadores acreditam que possa existir uma ligação biológica plausível com os sintomas relatados. \"Isso não significa que os medicamentos causem esses sintomas, mas vale investigar melhor\", disse Jena Shaw Tronieri, do Centro de Peso e Transtornos Alimentares da Penn e coautora do estudo. A cautela é deliberada: a correlação encontrada nas publicações não substitui um ensaio clínico controlado, capaz de estabelecer relação de causa e efeito. Como a inteligência artificial tornou a análise possível Até pouco tempo, cruzar centenas de milhares de relatos informais de pacientes com a terminologia médica padronizada exigia um volume de trabalho manual que limitava o tamanho das amostras analisáveis. Pacientes raramente descrevem sintomas em linguagem clínica, e traduzir expressões cotidianas para categorias médicas reconhecidas pelos reguladores consumia tempo considerável. Modelos de linguagem como o GPT e o Gemini, sistemas de inteligência artificial capazes de processar e classificar grandes volumes de texto, mudaram esse cenário. Eles permitiram associar os relatos coletados no Reddit ao MedDRA, dicionário internacional de termos médicos usado por agências reguladoras para padronizar a descrição de sintomas e efeitos adversos, numa escala inédita. Segundo Sehgal, os modelos de linguagem tornaram esse tipo de análise muito mais rápida e trouxeram um nível de padronização difícil de alcançar antes. Os autores reconhecem que os usuários do Reddit não representam a população geral de quem usa GLP-1: tendem a ser mais jovens, majoritariamente homens e concentrados nos Estados Unidos. A equipe planeja ampliar a pesquisa para outras plataformas e para comunidades que não escrevem em inglês, de modo a verificar se os mesmos padrões se repetem em outros públicos. Para os autores, o método pode se tornar uma espécie de sistema de alerta precoce para efeitos colaterais de medicamentos e produtos de bem-estar que ganham popularidade rapidamente, incluindo substâncias vendidas fora dos canais regulados, como peptídeos injetáveis.",
-      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/09/ia-identifica-sintomas-ocultos-do-ozempic-em-400-mil-publicacoes-em-plataforma-de-forum-online.ghtml",
-      "published": "2026-09-14T13:29:54+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "mounjaro",
-        "ozempic",
-        "semaglutida",
-        "tirzepatida",
-        "wegovy",
-        "zepbound"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "wegovy",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "mounjaro",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "wegovy",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "zepbound",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 88.0
     },
     {
       "title": "Biotech aposta em nova terapia para evitar reganho de peso após uso de canetas emagrecedoras",
@@ -1521,6 +1506,45 @@
       "score": 60.0
     },
     {
+      "title": "Fabricante de Natura e O Boticário aposta em cabelos e mira R$ 100 milhões com nova frente",
+      "summary": "Sinter Futura investe em nova fábrica após entrar em mercado que movimentou R$ 35,3 bilhões no Brasil em 2025",
+      "url": "https://veja.abril.com.br/economia/fabricante-de-natura-e-o-boticario-aposta-em-cabelos-e-mira-r-100-milhoes-com-nova-frente",
+      "published": "2026-09-21T13:24:08+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário",
+        "natura",
+        "o boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "o boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Dona do Wegovy faz parceria com a Anthropic para acelerar descoberta de medicamentos com Claude",
       "summary": "A Novo Nordisk e a Anthropic estão se unindo para implementar o modelo de inteligência artificial Claude com o objetivo de acelerar o desenvolvimento de novos medicamentos, na mais recente parceria entre a fabricante do Wegovy e um laboratório de inteligência artificial. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/16/dona-do-wegovy-faz-parceria-com-a-anthropic-para-acelerar-descoberta-de-medicamentos-com-claude.ghtml",
@@ -2392,37 +2416,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Catadora de recicláveis encontra 19 joias de ouro no lixo, devolve à dona e recebe R$ 1.900 e 10 kg de arroz, no Vietnã - O GLOBO",
-      "summary": "Catadora de recicláveis encontra 19 joias de ouro no lixo, devolve à dona e recebe R$ 1.900 e 10 kg de arroz, no Vietnã &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/09/14/catadora-de-reciclaveis-encontra-19-joias-de-ouro-no-lixo-devolve-a-dona-e-recebe-r-1900-e-10-kg-de-arroz-no-vietna.ghtml",
-      "published": "2026-09-14T13:28:36+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "joias",
-        "ouro"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "ouro",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Conheça as canetas nacionais de semaglutida aprovadas pela Anvisa e seus respectivos preços - VEJA",
@@ -4540,6 +4533,37 @@
       "score": 40.0
     },
     {
+      "title": "Canetas emagrecedoras no SUS dependem de burocracia e implementação não será este ano - Estadão",
+      "summary": "Canetas emagrecedoras no SUS dependem de burocracia e implementação não será este ano &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/brasil/canetas-emagrecedoras-no-sus-dependem-de-burocracia-e-implementacao-nao-sera-este-ano",
+      "published": "2026-09-21T13:32:43+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "São Paulo concentra mais da metade dos galpões alugados na América Latina",
       "summary": "Mercado paulista respondeu por 56% da absorção logística na região; e-commerce impulsiona ocupação",
       "url": "https://exame.com/mercado-imobiliario/sao-paulo-concentra-mais-da-metade-dos-galpoes-alugados-na-america-latina",
@@ -5939,52 +5963,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Anvisa proíbe venda de berberina sem registro, anunciada como 'Ozempic natural' - Folha de S.Paulo",
-      "summary": "Anvisa proíbe venda de berberina sem registro, anunciada como 'Ozempic natural' &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/09/anvisa-proibe-venda-de-berberina-sem-registro-anunciada-como-ozempic-natural.shtml",
-      "published": "2026-09-14T13:22:00+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "PRF flagra mulher transportando lança-perfume na bagagem, em Petrópolis - O GLOBO",
-      "summary": "PRF flagra mulher transportando lança-perfume na bagagem, em Petrópolis &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/rio/noticia/2026/09/14/prf-flagra-mulher-transportando-lanca-perfume-na-bagagem-em-petropolis.ghtml",
-      "published": "2026-09-14T13:23:38+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "perfume"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "perfume",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Hugo Boss muda presidente do conselho em meio a avanço de maior acionista sobre a grife - bloomberglinea.com.br",
@@ -11737,6 +11715,29 @@
       "score": 20.0
     },
     {
+      "title": "Mônica Bergamo: Irmãs Marquezine e Mônica Martelli prestigiam abertura de exposição da Hering - Folha de S.Paulo",
+      "summary": "Mônica Bergamo: Irmãs Marquezine e Mônica Martelli prestigiam abertura de exposição da Hering &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/colunas/monicabergamo/2026/09/irmas-marquezine-e-monica-martelli-prestigiam-abertura-de-exposicao-da-hering.shtml",
+      "published": "2026-09-21T12:22:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "hering"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "hering",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Dona do Ozempic demitiu 13 mil pessoas em 2025 e espera lançar cinco medicamentos até 2030",
       "summary": "A Novo, dona do Ozempic e Wegovy, informou nesta segunda-feira (21) que reduziu seu quadro de funcionários em 13 mil pessoas no último ano, apesar de ter obtido 309 bilhões de coroas dinamarquesas (R$ 243,89 bilhões) em vendas em 2025 . Leia mais (09/21/2026 - 09h44)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/09/dona-do-ozempic-demitiu-13-mil-pessoas-em-2025-e-espera-lancar-cinco-medicamentos-ate-2030.shtml",
@@ -11798,6 +11799,75 @@
         {
           "sector": "Farmácias",
           "alias": "medicamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Reajuste do Bolsa Família foi debatido pela alta cúpula do governo por quase três semanas",
+      "summary": "Lula e os ministros Dario Durigan, Bruno Moretti e Miriam Belchior centralizaram as conversas sobre o aumento de 15% do benefício às vésperas do primeiro turno",
+      "url": "https://veja.abril.com.br/politica/reajuste-do-bolsa-familia-foi-debatido-pela-alta-cupula-do-governo-por-quase-tres-semanas",
+      "published": "2026-09-21T13:30:01+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Novo propõe Wegovy 59% mais barato ao SUS, enquanto governo promete medicamento gratuito - Bloomberg Línea Brasil",
+      "summary": "Novo propõe Wegovy 59% mais barato ao SUS, enquanto governo promete medicamento gratuito &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/novo-oferece-wegovy-59-mais-barato-ao-sus-apos-governo-anunciar-medicamento-gratuito",
+      "published": "2026-09-21T13:38:27+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Oito em cada 10 beneficiários do Bolsa Família acreditam na vitória de Lula, mostra pesquisa",
+      "summary": "Oito em cada 10 eleitores beneficiados pelo Bolsa Família acreditam que o presidente Lula vencerá a eleição em outubro. Nesse grupo apenas 14% avaliam que o senado Flávio Bolsonaro deverá ganhar a corrida ao Planalto. Entre os não beneficiários, o favoritismo de Lula permanece, mas recua de 78% para 51%, enquanto a expectativa de vitória do candidato do PL salta para 40%, mostra pesquisa BTG/Nexus, divulgada nesta segunda-feira. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/09/oito-em-cada-10-beneficiarios-do-bolsa-familia-acreditam-na-vitoria-de-lula-mostra-pesquisa.ghtml",
+      "published": "2026-09-21T13:54:24+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
           "field": "title",
           "score": 20,
           "topic": null
@@ -12342,6 +12412,37 @@
       "score": 16.0
     },
     {
+      "title": "'Não adianta liderar a produção de algodão e pagar para produzir', diz Abrapa",
+      "summary": "Em entrevista à EXAME, Marcio Portocarrero, diretor-executivo da entidade, projeta a nova safra e analisa os efeitos da “taxa das blusinhas” sobre o algodão brasileiro",
+      "url": "https://exame.com/agro/nao-adianta-liderar-a-producao-de-algodao-e-pagar-para-produzir-diz-abrapa",
+      "published": "2026-09-21T10:16:49+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "blusinhas",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "blusinhas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Quem é o bilionário mais jovem dos EUA, que fez fortuna com IA de programação em apenas dois anos",
       "summary": "Aos 30 anos, o engenheiro de software Steven Hao entrou para a lista de bilionários da revista Forbes e foi apontado pela revista como o mais jovem dos Estados Unidos entre os integrantes da Forbes 400 de 2026. Com patrimônio estimado em US$ 5,8 bilhões (cerca de R$ 29,6 bilhões), ele aparece na 293ª posição do ranking geral dos 400 americanos mais ricos. Dívidas antigas: Fazenda estuda novo programa para reduzir endividamento das famílias Vazio existencial: Os novos ricos da tecnologia sofrem com a 'síndrome da riqueza repentina' A fortuna tem origem na Cognition, empresa de inteligência artificial da qual Hao é cofundador e diretor de tecnologia. A empresa chegou neste mês ao Brasil, para concorrer no mercado com gigantes do setor. A ascensão do empresário está ligada à valorização da Cognition, que levantou US$ 2 bilhões em uma rodada de investimentos anunciada em setembro e passou a ser avaliada em US$ 48 bilhões. A empresa desenvolve agentes de inteligência artificial capazes de executar tarefas de engenharia de software, como planejar projetos, escrever e testar códigos, identificar problemas e fazer correções com intervenção humana limitada. Para driblar taxa de corretagem: CEO da Revolut comprou superiate que pertenceu a Vorcaro usando ChatGPT O principal produto da companhia é o Devin, um agente de IA voltado à programação que já é utilizado por empresas como Citibank e a fintech Ramp. A ferramenta trabalha a partir de instruções de alto nível e pode desenvolver código, executar testes, identificar erros e fazer alterações no software. Da medalha de ouro ao bilhão Antes de se tornar empresário, Hao se destacou em uma das principais competições internacionais de programação. Ele e os outros dois cofundadores da Cognition, Scott Wu e Walden Yan, conquistaram medalhas de ouro na Olimpíada Internacional de Informática (IOI), competição mundial de programação para estudantes. Hao ganhou a sua medalha em 2014, aos 18 anos. Depois da competição, Hao seguiu carreira como engenheiro de software e se formou em Ciência da Computação da Massachusetts Institute of Technology. Antes de criar a Cognition, passou pela Scale AI, startup especializada em dados para sistemas de inteligência artificial e cofundada pelo bilionário Alex Wang. A Scale AI é atualmente 49% controlada pela Meta. 'Como uma chuva de ouro': Boom da IA cria bilionários inesperados Hao também acumulou experiências profissionais em outras empresas antes de empreender na Cognition. A companhia foi criada em 2023 pelos três sócios, que já se conheciam do circuito de programação competitiva. Apesar de algumas referências de mercado classificarem a empresa como fundada em 2024, registros e a própria Forbes situam a criação em 2023. O que faz a Cognition A Cognition atua no desenvolvimento de agentes de IA capazes de realizar trabalhos de engenharia de software de ponta a ponta. Em vez de apenas sugerir trechos de código, como ferramentas tradicionais de assistência à programação, o Devin pode receber uma tarefa, organizar as etapas necessárias, escrever o programa, executar testes, corrigir falhas e avançar até a conclusão do trabalho. É esse mercado que colocou a Cognition em disputa direta com ferramentas de grandes empresas de IA. O Devin concorre com soluções como o Codex, da OpenAI, e o Claude Code, da Anthropic, em um segmento voltado principalmente a clientes corporativos. Economia do bico: Educação avança, mas renda estagna e 60% dos brasileiros recorrem a trabalho extra, indica pesquisa A empresa ganhou escala rapidamente. Em setembro, a Cognition anunciou a captação de US$ 2 bilhões, em uma rodada liderada por Andreessen Horowitz e Accel, com participação de investidores como Founders Fund, General Catalyst e Avenir. A receita anualizada informada pela companhia também passou de US$ 492 milhões em maio para quase US$ 900 milhões. Chegada ao Brasil A Cognition chegou neste mês ao Brasil com a abertura de um escritório em São Paulo, seu primeiro na América Latina. A operação faz parte da expansão internacional da empresa e coloca o Devin no mercado brasileiro para disputar espaço com outras gigantes e ferramentas de inteligência artificial voltadas à programação. A escolha de São Paulo ocorre em um momento de expansão da empresa no mercado corporativo. No Brasil, a ferramenta já vinha sendo utilizada por empresas e a companhia passou a estruturar uma operação local para atender à demanda por automação no desenvolvimento de software. Um bilionário discreto Apesar da fortuna bilionária e do crescimento acelerado da empresa, Hao mantém um perfil público discreto. Ele tem pouca presença nas redes sociais e procura não aparecer nem em entrevistas e anúncios relacionados à Cognition. OpenAI se expande no Brasil: Foco é mercado corporativo Na comunicação pública da companhia, quem costuma assumir o papel de principal porta-voz é justamente o outro cofundador, Scott Wu, diretor-presidente da Cognition. Wu participa de entrevistas, podcasts e anúncios sobre os produtos e os planos da empresa, enquanto Hao permanece mais concentrado na área técnica como CTO. A própria trajetória de Hao também foi construída longe dos holofotes. Seu principal reconhecimento antes da fortuna foi obtido ainda na juventude, no circuito internacional de programação. Anos depois, a experiência como engenheiro e especialista em software seria transformada em uma participação na Cognition.",
       "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/09/17/quem-e-o-bilionario-mais-jovem-dos-eua-que-fez-fortuna-com-ia-de-programacao-em-apenas-dois-anos.ghtml",
@@ -12372,29 +12473,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Sidney Sweeney rebate críticas por sexualizar o esporte feminino",
-      "summary": "Atriz posou nua para campanha publicitária de apostas esportivas",
-      "url": "https://veja.abril.com.br/esporte/sidney-sweeney-rebate-criticas-por-sexualizar-o-esporte-feminino",
-      "published": "2026-09-14T14:10:55+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas esportivas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas esportivas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Empresas de Elon Musk encerram processo antitruste contra Apple por IA",
