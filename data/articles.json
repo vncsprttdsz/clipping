@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T10:16:22.593521+00:00",
+  "generated_at": "2026-09-21T10:53:33.192234+00:00",
   "count": 484,
-  "new_this_run": 1,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -5886,29 +5886,6 @@
       "score": 22.0
     },
     {
-      "title": "Crédito consciente: como escolher a melhor opção e evitar o endividamento - Estadão",
-      "summary": "Crédito consciente: como escolher a melhor opção e evitar o endividamento &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/eldorado/podcasts/noticia-no-seu-tempo/cr-dito-consciente-como-escolher-a-melhor-op-o-e-evitar-o-endividamento",
-      "published": "2026-09-14T10:50:00+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "'Atrasados do Enem' ganham corrida contra o relógio com Nubank e Duolingo",
       "summary": "Ação na Avenida Paulista brinca com a corrida dos estudantes para chegar a tempo ao local de prova",
       "url": "https://exame.com/marketing/atrasados-do-enem-ganham-corrida-contra-o-relogio-com-nubank-e-duolingo",
@@ -11651,6 +11628,29 @@
         {
           "sector": "Farmácias",
           "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nova pesquisa mostra como ficou a intenção de voto em Lula entre beneficiários do Bolsa Família após reajuste",
+      "summary": "Levantamento BTG/Nexus foi realizado depois de o governo anunciar aumento do benefício e mostra como votam os eleitores atendidos pelo programa",
+      "url": "https://veja.abril.com.br/politica/nova-pesquisa-mostra-como-ficou-a-intencao-de-voto-em-lula-entre-beneficiarios-do-bolsa-familia-apos-reajuste",
+      "published": "2026-09-21T10:24:49+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
           "field": "title",
           "score": 20,
           "topic": null
