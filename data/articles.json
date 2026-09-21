@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T09:12:57.270648+00:00",
-  "count": 479,
-  "new_this_run": 10,
+  "generated_at": "2026-09-21T09:54:24.140305+00:00",
+  "count": 481,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -4280,6 +4280,37 @@
       "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/09/o-motivo-para-o-governo-lula-mudar-de-posicao-e-oferecer-canetas-emagrecedoras-no-sus.ghtml",
       "published": "2026-09-19T16:21:00+00:00",
       "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Moradores do Paraná poderão receber canetas emagrecedoras pelo SUS - gmconline.com.br",
+      "summary": "Moradores do Paraná poderão receber canetas emagrecedoras pelo SUS &nbsp;&nbsp; gmconline.com.br",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcU9FeVpxNDdwV0lWT0I5T0pBY2Z5dUQ1STAyVy1qRTkzcWt3T0xvSXFYc0NMNWtsZTdBdVVLc0RzeTlLN3NZSHNZenZMZ1V5Yndjd1piRG9VSVdad3d3V1BYZGNJcnppczRuLXByMWZka05sM3k2NjFBZHQ1Z3pEQ2cyUGFGMVk3YkFaamNHVWhIMHd0cVNNeF9FYkxJMjNxcUFsRDU2VjdOWWNi0gGyAUFVX3lxTE11MlVFb1ZiUF9DbDFYaG9QTEVTTFhVd1JMQlk0VF9ybEVOSFFvRWRESEl3MS1sSHp0M0RTM092RGlTUEsxdmY0MEpSNEhveTVzZlhldHRQMkRSMDRHQWdpNnQwOFVDLWc1eU56SFVCN193dm5CTG01ZHFFZklfNjg3N3VmOUJBWWU5YUlRNVVCWnJnNTF4ODZNVjNZeFhsdGJQTVNqVGsxd3NPX1g3ZUJLWHc?oc=5",
+      "published": "2026-09-20T16:19:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
       ],
@@ -13428,6 +13459,29 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Novo sheds 13,000 jobs in a year",
+      "summary": "Danish maker of weight-loss drugs under pressure to boost revenues and profits",
+      "url": "https://www.ft.com/content/99fc832c-11dc-4822-903f-93cc85c4524b",
+      "published": "2026-09-21T09:18:00+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "weight-loss drugs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "weight-loss drugs",
           "field": "lead",
           "score": 8,
           "topic": null
