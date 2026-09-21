@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-21T14:22:58.110927+00:00",
-  "count": 494,
-  "new_this_run": 9,
+  "generated_at": "2026-09-21T14:37:57.178932+00:00",
+  "count": 495,
+  "new_this_run": 3,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -65,6 +65,84 @@
         }
       ],
       "score": 108.0
+    },
+    {
+      "title": "Caneta de nova geração supera perda de peso do Mounjaro, diz Novo Nordisk",
+      "summary": "O CagriSema, uma caneta de nova geração ainda em fase de testes clínicos, proporcionou uma perda de peso média superior à do Mounjaro. O anúncio foi feito nesta segunda-feira, pela farmacêutica dinamarquesa Novo Nordisk, fabricante de medicamentos como Ozempic e Wegovy, e que está à frente do desenvolvimento do CagriSema, de acordo com informações da Reuters. Por que o câncer de intestino está aumentando entre os jovens? Entenda o que muda: Testemunhas de Jeová flexibilizam regras sobre doação e recebimento de sangue Em um estudo de estágio avançado com pacientes diabéticos, uma dose de 1 mg do medicamento CagriSema, proporcionou uma perda de peso média estimada de 12,4%. A comparação foi feita com o Mounjaro na dose de 5 mg, que proporcionou uma perda de peso de 9,1%. Em outro estudo de estágio avançado, o medicamento promoveu uma perda de peso de 21% na dose de 1,0 mg em comparação com o placebo, em adultos com obesidade. O CagriSema é uma injeção de administração semanal que combina a cagrilintida — que imita a amilina, um hormônio pancreático — e a semaglutida, o princípio ativo do Ozempic e Wegovy. Espera-se que a FDA, agência que regula medicamentos nos EUA, tome uma decisão sobre o pedido de aprovação do CagriSema para controle de peso ainda este ano. A previsão da Novo é que o medicamento chegue ao mercado no início de 2027.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/09/21/caneta-de-nova-geracao-supera-perda-de-peso-do-mounjaro-diz-novo-nordisk.ghtml",
+      "published": "2026-09-21T14:23:40+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "mounjaro",
+        "novo nordisk",
+        "ozempic",
+        "semaglutida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "novo nordisk",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 94.0
     },
     {
       "title": "Anvisa amplia mercado de análogos de GLP-1 e aprova primeiros genéricos de liraglutida no Brasil",
@@ -1498,6 +1576,47 @@
         {
           "sector": "Farmácias",
           "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Mateus, Assaí, Pague Menos: o aumento do Bolsa Família pode ser bom para essas ações",
+      "summary": "JP Morgan vê impacto maior no Norte e Nordeste, onde as vendas vinham mostrando fraqueza e concentram parcela relevante dos beneficiários do programa",
+      "url": "https://exame.com/invest/mercados/mateus-assai-pague-menos-o-aumento-do-bolsa-familia-pode-ser-bom-para-essas-acoes",
+      "published": "2026-09-21T11:25:23+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Farmácias",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "bolsa família",
+        "pague menos"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "pague menos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
           "field": "title",
           "score": 20,
           "topic": null
@@ -5963,29 +6082,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Hugo Boss muda presidente do conselho em meio a avanço de maior acionista sobre a grife - bloomberglinea.com.br",
-      "summary": "Hugo Boss muda presidente do conselho em meio a avanço de maior acionista sobre a grife &nbsp;&nbsp; bloomberglinea.com.br",
-      "url": "https://www.bloomberglinea.com.br/negocios/hugo-boss-muda-presidente-do-conselho-em-meio-a-avanco-de-maior-acionista-sobre-a-grife",
-      "published": "2026-09-14T14:35:11+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "hugo boss"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "hugo boss",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Casas Bahia colocou mais de R$ 1 bi em fundo que cobra a empresa na recuperação",
