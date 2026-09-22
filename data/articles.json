@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T13:27:25.569441+00:00",
-  "count": 520,
-  "new_this_run": 3,
+  "generated_at": "2026-09-22T13:40:54.798341+00:00",
+  "count": 522,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -143,6 +143,53 @@
         }
       ],
       "score": 94.0
+    },
+    {
+      "title": "Mercado Livre e Shopee Lideram Corrida por Galpões Logísticos com 4,1 Milhões de m² Locados - Forbes Brasil",
+      "summary": "Mercado Livre e Shopee Lideram Corrida por Galpões Logísticos com 4,1 Milhões de m² Locados &nbsp;&nbsp; Forbes Brasil",
+      "url": "https://forbes.com.br/forbes-money/forbes-real-estate/2026/09/mercado-livre-shopee-galpcoes-logisticos",
+      "published": "2026-09-22T13:35:29+00:00",
+      "source": "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "galpões",
+        "galpões logísticos",
+        "mercado livre",
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões logísticos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
     },
     {
       "title": "Biotech aposta em nova terapia para evitar reganho de peso após uso de canetas emagrecedoras",
@@ -4516,6 +4563,37 @@
         {
           "sector": "Farmácias",
           "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "On desafia Nike e Adidas com aposta no futebol e plano para crescer até 19% ao ano - Bloomberg Línea Brasil",
+      "summary": "On desafia Nike e Adidas com aposta no futebol e plano para crescer até 19% ao ano &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/linha-esportiva/on-desafia-nike-e-adidas-com-aposta-no-futebol-e-plano-para-crescer-ate-19-ao-ano",
+      "published": "2026-09-22T13:22:46+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "adidas",
+        "nike"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "nike",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "adidas",
           "field": "title",
           "score": 20,
           "topic": null
