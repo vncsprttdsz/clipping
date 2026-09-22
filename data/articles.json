@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T06:23:28.984505+00:00",
-  "count": 510,
-  "new_this_run": 3,
+  "generated_at": "2026-09-22T09:15:24.950937+00:00",
+  "count": 514,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -670,46 +670,6 @@
         }
       ],
       "score": 64.0
-    },
-    {
-      "title": "Casas Bahia, GPA, Toky e St. Marche: varejo vende mais, mas recuperações batem recorde",
-      "summary": "Mesmo com nove anos consecutivos de crescimento nas vendas, empresas do setor sofrem com dívida cara e balanços pressionados; Casas Bahia, GPA, Toky e St. Marche estão entre os nomes que recorreram à Justiça em 2026",
-      "url": "https://exame.com/exame-in/como-recuperacoes-de-casas-bahia-gpa-toky-e-st-marche-expoem-paradoxo-do-varejo",
-      "published": "2026-09-15T09:00:07+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "gpa",
-        "st. marche"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "gpa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "st. marche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Poviztra é a mesma caneta emagrecedora do Wegovy, só que mais barata?",
@@ -2231,6 +2191,45 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "A inconstitucionalidade da inclusão da CBS e do IBS na base de cálculo do ISS",
+      "summary": "Cobrar ISS sobre os novos tributos cria cumulatividade reflexa incompatível com a reforma tributária",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/a-inconstitucionalidade-da-inclusao-da-cbs-e-do-ibs-na-base-de-calculo-do-iss",
+      "published": "2026-09-22T08:00:40+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 48.0
@@ -4871,6 +4870,53 @@
       "score": 32.0
     },
     {
+      "title": "Do Bolsa Família às canetas: em dificuldades, candidatos de Lula no Nordeste tentam surfar em 'pacote de bondades'",
+      "summary": "Com disputas acirradas nos estados, os candidatos apoiados pelo presidente Luiz Inácio Lula da Silva (PT) aos governos da Bahia e de Pernambuco — os dois maiores colégios eleitorais do Nordeste — incorporaram na campanha referências ao \"pacote de bondades\" anunciado pelo petista na semana passada. Em busca da reeleição, o governador Jerônimo Rodrigues (PT-BA) aborda o reajuste de cerca de 15% no Bolsa Família. Já João Campos (PSB-PE) explora a promessa de Lula de distribuir canetas emagrecedoras pelo Sistema Único de Saúde (SUS) para pessoas com obesidade. Quaest: Após anúncio de reajuste no Bolsa Família, Flávio aparece com 42% e Lula tem 41% no segundo turno Quaest: Avaliação de que família Bolsonaro é mais afetada pelo Master cresce e supera menções ao STF Jerônimo foi às redes sociais elogiar a decisão do Planalto de aumentar o valor do Bolsa Família no mesmo dia em que a medida foi anunciada. Integrantes da campanha do governador — que aparece em situação de empate técnico com ACM Neto (União) em pesquisas — confirmaram ao GLOBO que o reajuste no benefício será um dos tópicos abordados nos atos de rua do petista até a ida dos baianos às urnas. \"O reajuste do Bolsa Família significa mais comida na mesa, mais dignidade e mais segurança para milhões de famílias. Aqui na Bahia, seguimos juntos com o governo do Brasil, combatendo a fome, reduzindo a pobreza e garantindo oportunidades para quem mais precisa\", escreveu Jerônimo no X. Initial plugin text A decisão de Lula de anunciar o reajuste menos de um mês antes da eleição foi considerada uma medida \"eleitoreira\" por especialistas ouvidos pelo GLOBO. Os novos valores começam a ser pagos na folha de outubro, a partir do dia 19. Ou seja, o aumento do programa social entrará em vigor entre o primeiro e o segundo turno das eleições, caso a disputa presidencial não seja definida em turno único. Canetas no SUS Já em Pernambuco, Campos publicou um vídeo ao lado da candidata ao Senado Marília Arraes (PDT) para tratar sobre a distribuição de canetas emagrecedoras pelo SUS. O ex-prefeito do Recife, que aparece numericamente atrás da governadora Raquel Lyra (PSD) em pesquisas, destaca o potencial de crescimento com a produção do medicamento no estado. — A gente vai enfrentar isso (obesidade) junto! Eu, você (Marília) e o presidente Lula. Vai ter caneta emagrecedora no SUS — disse Campos. Initial plugin text O tema foi abordado por Lula em agenda na quinta-feira passada, quando o petista sugeriu que o medicamento seria oferecido gratuitamente pelo sistema público. — Essa canetinha vai ser utilizada para cuidar, de graça, das pessoas que tenham obesidade. Quando o médico detectar que um homem ou uma mulher tem problema de se curar — afirmou Lula em visita ao novo complexo industrial da Eurofarma, em Montes Claros (MG). Como mostrou o colunista Lauro Jardim, a benesse foi concebida a despeito do alerta de que a oferta terá um custo de R$ 8 bilhões por ano e dificultará ainda mais o arranjo das contas públicas. Indefinição no Ceará No Ceará, onde outro governador apoiado por Lula está em disputa acirrada, a campanha de Elmano de Freitas (PT) ainda avalia se abordará os temas na campanha. O anúncio do reajuste do Bolsa Família está nas redes sociais do petista e foi abordado pelo antecessor no Palácio da Abolição Camilo Santana (PT). Não há até o momento, entretanto, previsão que as medidas anunciadas pelo presidente sejam abordadas no horário eleitoral ou em atos de rua de Elmano, no terceiro maior colégio eleitoral do Nordeste.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/22/do-bolsa-familia-as-canetas-em-dificuldades-candidatos-de-lula-no-nordeste-tentam-surfar-em-pacote-de-bondades.ghtml",
+      "published": "2026-09-22T06:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora",
+        "canetas",
+        "canetas emagrecedoras",
+        "eurofarma"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "eurofarma",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 32.0
+    },
+    {
       "title": "Varejo restrito cai 0,8% em julho, ante junho, abaixo do piso das expectativas do mercado",
       "summary": "O volume de vendas no varejo restrito caiu 0,8% em julho ante junho, segundo a Pesquisa Mensal do Comércio (PMC), divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) nesta terça-feira (15). Em junho, o comércio restrito avançou 0,3% (dado revisado após divulgação de alta de 0,5%). O resultado de julho ante junho veio menor que a mediana estimada pelo VALOR DATA, apurada junto a 18 consultorias e instituições financeiras, que era de recuo de 0,1%, e também abaixo do piso das projeções. O intervalo para o varejo restrito ia de queda de 0,5% a alta de 0,5%. Na comparação com julho de 2025, o varejo restrito avançou 1,2%, resultado menor que o esperado. A expectativa mediana do VALOR DATA era aumento de 2,3%, com intervalo entre expansão de 1,6% e 3,3%. O comércio restrito atingiu alta de 1,6% no resultado acumulado em 12 meses até julho. No ano, até julho, o aumento acumulado foi de 1,8%. As vendas do comércio recuaram em julho, ante junho, em cinco das oito atividades pesquisadas no varejo restrito. Os dados da pesquisa mostram ainda que, na comparação com julho de 2025, também foram cinco das oito atividades em queda. As atividades em queda foram móveis e eletrodomésticos (-4,9%), livros, jornais, revistas e papelaria (-4,2%), tecidos, vestuário e calçados (-2,7%), outros artigos de uso pessoal e doméstico (-2,2%) e hiper, supermercados, produtos alimentícios, bebidas e fumo (-0,2%). Por outro lado, no campo positivo, estão artigos farmacêuticos, médicos, ortopédicos e de perfumaria (0,6%), equipamentos e material para escritório, informática e comunicação (0,6%) e combustíveis e lubrificantes (0,3%). Ampliado O volume de vendas no varejo ampliado, que inclui as vendas de veículos e motos, partes e peças, material de construção e atacarejo, subiu 0,4% em julho. O resultado ficou abaixo da alta de 0,6% esperada por analistas de 18 bancos e consultorias, segundo a mediana do VALOR DATA. O intervalo das projeções ia de alta entre 0,3% e 2,4%. Em junho frente a maio, o comércio ampliado caiu 1,1% (após divulgação inicial de queda de 1%). Na comparação com julho de 2025, o volume de vendas do varejo ampliado subiu 1,8%. A expectativa mediana pelo VALOR DATA era de alta de 2,3%. As projeções variavam entre recuo de 1,3% e alta de 4,2%. No resultado acumulado em 12 meses, o comércio ampliado cresceu 1,2%. Em 2026, até julho, há aumento de 1,9%. No comércio varejista ampliado, houve variação no campo positivo para os dois setores adicionais: veículos e motos, partes e peças (0,3%) e material de construção (0,7%). Tomaz Silva/Agência Brasil",
       "url": "https://valor.globo.com/brasil/noticia/2026/09/15/varejo-restrito-cai-08percent-em-julho-ante-junho-abaixo-do-piso-das-expectativas-do-mercado.ghtml",
@@ -5892,6 +5938,72 @@
       "score": 24.0
     },
     {
+      "title": "Na crise, redes estrangeiras acirram disputa com nacionais",
+      "summary": "Bompard, do Carrefour: “Redução de custos no país melhorou rentabilidade” Nathan Laine/Bloomberg Grandes grupos de varejo de capital internacional têm se saído melhor da fase atual de desaceleração do varejo, enquanto as redes nacionais crescem menos e desembocam em recuperações judiciais. Isso tende a causar maior desequilíbrio na participação de mercado das redes no bolo total do varejo, ampliando a força das operações estrangeiras na receita total gerada no país. A conclusão faz parte de um levantamento do Valor que compara desempenho de empresas nacionais e estrangeiras nas mesmas áreas de atuação no acumulado deste ano. As discrepâncias são sentidas num momento de maior proteção à venda de produtos internacionais de baixo valor no país. O presidente Luiz Inácio Lula da Silva sancionou no último dia 10 de setembro a lei que zera o imposto de importação para compras internacionais de até US$ 50, tributo que ficou conhecido como \"taxa das blusinhas\". Ao se considerar a renúncia em arrecadação federal com a medida em R$ 5 bilhões a R$ 6 bilhões em 2026, segundo a IFI (Instituição Fiscal Independente), órgão ligado ao Senado, para um imposto que anteriormente era de 20%, é estimado que entrem no país neste ano, no mínimo, cerca de R$ 25 bilhões em produtos estrangeiros de até US$ 50, calculou o Valor. Isso equivale à duas vezes a receita líquida de vestuário da Renner em 2025, a maior rede de moda no país. A aprovação no Congresso foi uma das prioridades da agenda de Lula antes das eleições de outubro, e considerada medida eleitoreira, disseram na época as associações do setor. Ao se analisar o desempenho dos grandes grupos que permitem comparação de suas receitas, há fatores macroeconômicos, e da própria gestão do negócio, comprometendo as vendas das companhias nacionais nos últimos tempos. Esses fatores pesaram mais contra os números do que a existência de aspectos positivos favoráveis relevantes aos negócios das redes estrangeiras, a ponto de desequilibrar esse jogo. Somado a isso, ainda há o fato de que há redes nacionais dependentes da venda no Norte e Nordeste, praças que têm sentido de maneira mais forte o desaquecimento no comércio em geral. Mesmo a medida do governo federal de elevar em 15% o Bolsa Família, que dará impulso extra ao bolso do consumidor nessas regiões, havia dúvidas entre analistas de bancos na sexta-feira (18) se esses recursos não irão inicialmente para redução de endividamento e inadimplência. Pesquisa Mensal do Comércio, publicada pelo IBGE na terça-feira (15) mostra que, de janeiro a julho, a venda no comércio cresceu 1,8% em volume. Há uma desaceleração no consumo, já que até março, a alta era de 2,4%. Ao mesmo tempo, no entanto, os dados também mostram que os grupos estrangeiros não estão completamente isolados dos efeitos negativos da perda de vigor do consumo das famílias, reflexo da alta do endividamento neste ano, mas que parecem, até o momento, equilibrar melhor as pressões. Com base no levantamento, os franceses do grupo Carrefour têm tido melhor desempenho em vendas “mesmas lojas” (pontos em operação há mais de 12 meses) do que o Grupo Mateus, rede maranhense, forte no Norte e Nordeste, e com portfólio de lojas diverso como o concorrente. Ambos operam no atacarejo e no varejo alimentar. As vendas mesmas lojas servem como termômetro ao descontar o efeito de eventuais inaugurações que sempre elevam a receita. De janeiro a junho, o Carrefour manteve praticamente a estabilidade nas vendas em relação ao ano passado (em moeda local), com leve queda de 0,1% nas vendas versus o ano anterior, enquanto o Mateus recuou 7,7% — um ano antes, a rede brasileira havia crescido 5,7%. Se o lucro operacional do Carrefour no país subiu 0,9% de janeiro a junho, em reais, no Mateus isso recuou 22,3%, para R$ 888,5 milhões. “No Brasil, mercado ainda complexo, nossos planos de adaptação e iniciativas de redução de custos nos permitiram melhorar ainda mais a rentabilidade e retomar o crescimento das vendas no segundo trimestre”, escreveu em sua mensagem no balanço o CEO global do Carrefour, Alexandre Bompard. Da mesma forma, os chilenos do grupo alimentar Cencosud, mesmo com as dificuldades em estabilizar os negócios de algumas de suas redes regionais, conseguiram apurar números menos pressionados que o Mateus. A empresa brasileira priorizou deliberadamente a lucratividade em detrimento da participação de mercado, abandonando uma estratégia comercial agressiva adotada nos últimos anos. Controladores de cadeias como Giga Atacado, Prezunic e Perini, a chilena Cencosud tem sentido efeito em suas vendas da remodelação e fechamento de lojas, mas mesmo com esse impacto, o recuo nas vendas mesmas lojas foi menor que o verificado no Mateus. De janeiro a março, o grupo estrangeiro recuou 1,4%, e no segundo trimestre o tombo avançou para 8% — índices menos pressionados, porém, que o da rede brasileira — negativo em 7,3% e 8%, respectivamente. Analistas de bancos projetavam queda menor para Mateus de abril a junho, de 5% a 7%. Na visão de Ana Paula Tozzi, CEO da AGR Consultores, grandes grupos internacionais facilitam o acesso de suas operações no Brasil à estrutura de dados, sistemas e gestão, além do acesso às linhas de recursos no exterior, fatores que pesam favoravelmente em momentos mais conturbados. “Não é que sejam negócios que estejam vivendo num cenário perfeito, mas que operam com plano de longo prazo, com cultura de visão perene, e isso é fundamental em momentos mais turbulentos”, disse ela. “É bom saber que se tem para onde correr, para a empresa mãe, quando a situação complica”, afirma. Enquanto o Carrefour fez a deslistagem de sua subsidiária no Brasil em 2025, e Cencosud não tem ações em circulação no país, Mateus fez sua oferta de papapéis na B3 em 2020. Sobre o assunto, o Mateus afirma que as suas vendas têm refletido “um cenário de consumo ainda pressionado, marcado pelo elevado nível de endividamento das famílias e pelas mudanças no perfil da cesta de consumo da população”, diz em seu balanço de resultados de abril a junho. Ainda afirma que tem defendido a defesa da lucratividade, e que essa postura tem dado resultado — a margem bruta foi de 23,2% de janeiro a junho, alta de 0,1 ponto. Para João Soares, analista do Citi, o que ocorreu é que a rede é mais exposta ao Norte e Nordeste, onde é uma das líderes do varejo alimentar, e a região tem recuado mais o consumo no país. E a cadeia manteve a sua estratégia de priorização da rentabilidade, o que afetou receita. Um terço dos nove Estados onde a cadeia atua cresce abaixo da média nacional do varejo, segundo dados do IBGE até junho (os três Estados são Piauí, Alagoas e Pará) A cadeia ainda sentiu a decisão de reduzir a venda que ocorria no balcão das lojas de atacarejo (o Mateus cortou essa atividade neste ano por razões estratégicas) o que impacta na comparação com o mesmo período do ano anterior. “A administração acredita que a maior parte desse ajuste [lucratividade em detrimento de vendas] já foi superada”, disse Soares, em relatório em agosto. “Mas os comentários da administração reforçaram a visão cautelosa sobre as vendas nas mesmas lojas no curto prazo”, escreveu ele. Procurado, o Grupo Mateus não se manifestou para além dos comentários no balanço. Nessa comparação entre as empresas, a receita no semestre de todas as lojas da Cencosud, no entanto, caiu 18%, mas o Mateus conseguiu avançar 12,5% principalmente devido à consolidação de um novo negócio comprado em 2025, a rede Novo Atacarejo, à abertura de 25 lojas nos últimos 12 meses e ao crescimento das vendas das redes que a rede opera na área de atacado e eletroeletrônicos. Em outro segmento do varejo de alimentos, dos minimercados, a rede Oxxo, controlada pela mexicana Femsa que assumiu 100% da operação local (tinha 50%) neste ano, cresce acima de um dos seus competidores diretos, o concorrente GPA, em recuperação extrajudicial dona do Mini Extra e Minuto Pão de Açúcar. Em fevereiro, a brasileira Raízen, do Grupo Cosan, pressionada por uma escalada de sua alavancagem, saiu do negócio, vendendo a sua participação no Grupo Nós, empresa conjunta que administrava as lojas Oxxo no Brasil. O negócio mantem até hoje taxas de crescimento acima da média do mercado. No primeiro trimestre em que o acordo foi desfeito, a Oxxo no Brasil cresceu 6,9%, e no segundo trimestre, 11,6%. O negócio de proximidade do concorrente GPA teve leve expansão de 0,3% de janeiro a março e caiu 2,3% de abril a junho. Com dívidas de R$ 4,5 bilhões, o grupo varejista dono do Pão de Açúcar pediu recuperação extrajudicial em março, e o plano ainda não foi homologado pela Justiça. Em seu relatório de resultados do segundo trimestre, o GPA afirma que esse desempenho de vendas em queda reflete efeitos da recuperação extrajudicial, que casou problemas de abastecimento nos pontos de venda, e por fim, afeta a receita. “Esse efeito atingiu seu pico em maio e passou a apresentar melhora gradual [...]. As vendas voltaram a apresentar crescimento no mês de junho, acompanhando a recuperação gradual dos níveis de abastecimento e avançando na normalização da operação”, disse no balanço. A rede ainda cita a execução de uma “estratégia de priorização de canais com maior rentabilidade”, que levou ao fim do projeto “Aliados” em 2026, que tratava de uma transformação de lojas de bairro na rede CompreBem. E menciona também uma demanda mais moderada e um ambiente de consumo pressionado. Procurados, Oxxo e GPA não se manifestaram. Na prática, a justificativa do consumo em baixa afeta todas as redes expostas a essa variável “macro”, inclusive as estrangeiras. O que pode estar acontecendo é que algumas cadeias podem estar mais fragilizadas também por decisões da gestão não estarem dando resultado esperado. “Se eu troco a administração e mudo de plano a cada três a quatro anos, eu mando um sinal ruim ao time e ao mercado. O GPA mudou a linha de frente com frequência recentemente. E tivemos redes que cresceram rápido demais, abriram muitas lojas em curto espaço de tempo, como é o caso do Mateus, então essa conta chega”, diz Tozzi. Analistas afirmam que grupos estrangeiros ainda operam tendo como opção se financiarem na matriz, com taxa de juros mais baixas — o Carrefour, por exemplo, opera por meio de um banco local que recorre à sede para se capitalizar. No mercado de varejo de construção, o cenário aponta para um ambiente difícil para cadeias nacionais e estrangeiras. “Várias redes locais nos últimos tempos fecharam lojas em todos os três Estados onde atuamos [ Rio Grande do Sul, Santa Catarina e Paraná]. A gente costuma dizer aqui que o negócio que mais cresceu na região foi o ‘aluga-se’ [imóveis]”, disse Peter Furukawa, presidente da rede gaúcha Quero-Quero, com cerca de 580 lojas no país. O executivo diz que esse cenário abriu espaço para expansão da varejista em determinadas cidades, e somado a isso, a rede também tomou medidas para tentar reagir à desaceleração na demanda. Entre as ações tomadas, a empresa elevou neste ano as opções de venda de produtos à vista e para as classes de maior renda, como forma de driblar a redução no crédito da empresa para as camadas de renda mais baixa (a rede tem a financeira própria Verdecard). “Demos uma subidinha na sofisticação dos sortimentos. As medidas que fomos tomando nese cenário mais duro foi sendo feita a partir de meados do ano passado, quando vimos que esse cenário de piora do “macro” não mudaria e estamos começando a colher os resultados”, disse o CEO da rede, fundada em Santo Cristo, no interior do Rio Grande do Sul. De janeiro a março, as vendas mesmas lojas na Quero-Quero recuaram 2,5%, e de abril a junho cresceram 6,7%. Os franceses da Leroy Merlin registraram no primeiro semestre deste ano desempenho “flat” em vendas mesmas lojas no Brasil em relação ao 2025, informou o comando, portanto acima da média do mercado — o setor recuou 0,8% até junho, segundo o IBGE. Ricardo Dinelli, CEO da Leroy Merlin no Brasil, afirmou que a empresa teve que fazer escolhas e renúncias em relação a investimentos nesse ambiente de mercado mais difícil, com seleção de projetos a avançar, e necessidade de ser mais transparente com a equipe em relação a essa postura. A varejista é a maior cadeia de material de construção do país, com vendas anuais estimada pelo mercado em R$ 9 bilhões a R$ 10 bilhões. “Tivemos que fazer ajustes de rota nos últimos tempos e olhar para dentro de casa para ver se o que estávamos oferecendo era realmente o bastante”, disse. “Por exemplo, projetos relacionados a venda de produtos sob medidas, como cortinas, que começamos em algumas lojas, decidimos não avançar para mais lojas, porque não era o momento e temos outras prioridades”, disse. “Estamos trabalhando com mais força a oferta de serviços aos consumidores, temos mais de 160 tipologias de serviços, e isso não está com vendas ‘flat’, cresce mais [que a média da rede] “, afirmou. Segundo ele, 2025 também foi um ano difícil, com vendas estáveis em comparação a 2024, mas a expectativa é que, com a chegada do El Nino e aumento das temperaturas nos próximos meses, a demanda cresça. “O calor impacta positivamente nossas vendas”, disse. A rede não abriu nenhuma loja neste ano — a última foi em Bauru (SP), em 2025. São 53 lojas do grupo.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/22/na-crise-redes-estrangeiras-acirram-disputa-com-nacionais.ghtml",
+      "published": "2026-09-22T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Fashion",
+        "E-commerce",
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "blusinhas",
+        "carrefour",
+        "compras internacionais",
+        "recuperações judiciais",
+        "renner",
+        "taxa das blusinhas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "taxa das blusinhas",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "blusinhas",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "compras internacionais",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperações judiciais",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
       "title": "DHL compra operação da AGV na Colômbia",
       "summary": "A operadora logística AGV acaba de vender sua operação na Colômbia, chamada OpenMarket, para a multinacional DHL para se concentrar exclusivamente na operação brasileira, onde os controladores GEF Capital e Vinci Compass enxergam mais oportunidades de expansão na sua área de atuação, a cadeia de suprimentos para saúde animal e saúde humana. A estrutura transferida à DHL inclui 21 centros de distribuição e 13 unidades de cross-docking (transferência de mercadorias sem armazenagem) que somam mais de 150 mil m² de área operacional. Sem valor divulgado, a transação foi 100% paga em dinheiro e deve liberar R$ 150 milhões para investimentos em robotização e automação com a criação de um laboratório de tecnologia, além de aquisições, segundo o CEO da AGV, Maurício Motta. GEF e Vinci compram operadora logística da Femsa para relançar AGV Capsur corta em 88% valor da Loggi na carteira “Estamos olhando empresas que agreguem valor ao negócio. Podem ser transportadoras já focadas em saúde ou companhias que ampliem o nosso leque de produtos e serviços”, diz Motta, que afirma ter três conversas em curso, com expectativa de concluir pelo menos uma ainda neste ano. O desinvestimento da operação na Colômbia “permite que a AGV concentre investimentos e capacidade de execução em suas prioridades estratégicas para o próximo ciclo de crescimento\", comenta Aníbal Wadih, Managing Director da GEF. “Seguimos muito confiantes em explorar as vantagens competitivas da AGV, com muitas oportunidades para fortalecer o negócio no Brasil\", complementa Gabriel Felzenszwalb, co-head de private equity da Vinci. Maurício Motta, da AGV: investimento em automação, robotização e aquisições no Brasil Divulgação De investimentos novos, a companhia está inaugurando um centro de distribuição (CD) em Extrema, no Sul de Minas, e tem outro na esteira para o começo de 2027 em Jundiaí, com ambos acrescentando 60 mil m² de pátio à operação. Com a reforma tributária, Motta vê uma tendência dos galpões de se concentrarem mais próximos dos mercados consumidores. “Com o fim da guerra fiscal, as empresas passam a questionar por que devem manter uma operação em outro estado se já não existe o mesmo benefício para compensar esse custo”, ele explica. Hoje, os principais polos da AGV são Cajamar, com mais de 100 mil m², e a região de Campinas. NSTech retoma aquisições para superapp de logística Guarulhos passa Cajamar na corrida dos galpões logísticos Fundada em 1998 como Armazéns Gerais Vinhedo, a AGV opera 68 galpões logísticos pelo país no modelo asset light, somando mais de 300 mil m² para atender grandes clientes como Merck e Eurofarma, e receita anual em torno de R$ 2 bilhões.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/dhl-compra-operacao-da-agv-na-colombia.ghtml",
@@ -5978,52 +6090,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Conheça ativos populares de skincare e saiba como combiná-los na rotina - Folha de S.Paulo",
-      "summary": "Conheça ativos populares de skincare e saiba como combiná-los na rotina &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrio/2026/09/conheca-ativos-populares-de-skincare-e-saiba-como-combina-los-na-rotina.shtml",
-      "published": "2026-09-15T07:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "É cedo para dizer que inadimplência atingiu o pior momento, diz economista da Serasa - Bloomberg Línea Brasil",
-      "summary": "É cedo para dizer que inadimplência atingiu o pior momento, diz economista da Serasa &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/brasil/e-cedo-para-dizer-que-inadimplencia-atingiu-o-pior-momento-diz-economista-da-serasa",
-      "published": "2026-09-15T09:00:01+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Anvisa aprova 14 novas canetas injetáveis para emagrecer e tratar diabetes - bra1.com.br",
@@ -12236,6 +12302,52 @@
       "score": 20.0
     },
     {
+      "title": "Quaest: medo da volta da família Bolsonaro ao poder avança entre beneficiários do Bolsa Família após anúncio de Lula",
+      "summary": "Divulgada nesta segunda-feira, a nova pesquisa da Quaest, contratada pelo jornal O GLOBO e a TV GLOBO, indica avanço do medo de uma volta da família Bolsonaro ao poder entre eleitores beneficiários do Bolsa Família. Já entre aqueles que não recebem o benefício, o temor de uma reeleição de Lula é maior. Quaest: 'Segue no ar a possibilidade de a eleição ser resolvida já no primeiro turno', analisa Vera Magalhães em vídeo Leia mais: Quaest: avaliação de que família Bolsonaro é mais afetada pelo Master cresce e supera menções ao STF O novo levantamento da Quaest é o primeiro feito após o anúncio do governo federal, na última quinta-feira (17), de que irá aumentar o valor do benefício em cerca de 15%. A medida foi criticada por adversários do petista, que classificaram o anúncio como \"eleitoreiro\" e \"ilegal\". Entre a pesquisa de 14 de setembro e a desta segunda-feira, o temor de uma vitória de Flávio Bolsonaro entre beneficiários do Bolsa Família subiu de 56% para 59%, uma variação positiva de três pontos percentuais, ainda que dentro da margem de erro. Em 7 de setembro, o medo da volta da família Bolsonaro ao poder atingia 51% dessa porção do eleitorado. Já a porção deste grupo que respondia \"Lula\" à pergunta foi de 34% para 29%, entre 14 e 21 de setembro, uma redução no limite da margem de erro. Na avaliação do diretor da Quaest, Felipe Nunes, a movimentação pode ser um primeiro sinal do impacto da medida do governo federal. Entre os não-beneficiários, o medo de uma volta de Flávio Bolsonaro era de 39% em 14 de setembro e, agora, está em 37%. A movimentação está dentro da margem de erro de três pontos percentuais. Já o temor de uma reeleição de Lula segue estável, marcando entre 46% e 47%. Na pesquisa espontânea, na comparação entre 14 de setembro e esta segunda-feira, o percentual de beneficiários do Bolsa Família que votam em Lula foi de 37% para 42%, crescimento também no limite da margem de erro. Já o apoio a Flávio Bolsonaro neste grupo variou um ponto percentual no mesmo período. A Quaest identificou também o crescimento do interesse de beneficiários do programa social nas eleições. No dia 14 de setembro, 25% diziam-se \"muito interessados\" no pleito. Nesta segunda-feira, o número aumento para 35%, acima da margem de erro. Apesar dessas movimentações, o anúncio do aumento do Bolsa Família ainda não se traduziu em um crescimento do petista nas pesquisas. Nos cenários projetados para um eventual segundo turno, o apoio a Lula segue estável, com variações dentro da margem de erro. No primeiro turno projetado no novo levantamento, ele empatou numericamente com o senador fluminense pela primeira vez durante a campanha. A Quaest entrevistou, entre os dias 17 e 20 setembro, 2.004 eleitores de 16 anos ou mais. O nível de confiança de levantamento é de 95%. O número de registro da pesquisa no TSE é BR-06004/2026.",
+      "url": "https://oglobo.globo.com/blogs/pulso/post/2026/09/quaest-medo-da-volta-da-familia-bolsonaro-ao-poder-avanca-entre-beneficiarios-do-bolsa-familia-apos-anuncio-de-lula.ghtml",
+      "published": "2026-09-22T06:30:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Do Produto Exclusivo Ao Detalhe: Como o CEO da Drogaria Iguatemi Reinventou o Diferencial da Rede",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pioneira na importação de cosméticos, a rede construiu sua reputação ao antecipar tendências; agora, diante das grandes redes, aposta em curadoria e personalização O post Do Produto Exclusivo Ao Detalhe: Como o CEO da Drogaria Iguatemi Reinventou o Diferencial da Rede apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/09/drogaria-iguatemi-expansao-lojas",
+      "published": "2026-09-22T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "drogaria"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "drogaria",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "EUA aprovam droga inédita que impede perda muscular",
       "summary": "A FDA, agência que regula medicamentos nos Estados Unidos, aprovou na última sexta-feira o apitegromabe, primeiro tratamento para atrofia muscular espinhal (AME) que visa diretamente a perda muscular. Sob o nome comercial Isembyld, a injeção da farmacêutica Scholar Rock é um anticorpo monoclonal desenvolvido para bloquear a ação da miostatina, uma proteína envolvida na degradação do músculo. A aprovação abre caminho para outro uso desse tipo de medicamento: impedir a perda de massa muscular durante o uso de canetas emagrecedoras. Por isso, a Scholar Rock já começou a testar o apitegromabe também no tratamento da obesidade. \"A aprovação do primeiro inibidor da miostatina abre caminho para uma nova abordagem da obesidade, em que o objetivo deixa de ser apenas o número na balança e passa a ser a composição do corpo: perder gordura e preservar músculo\", afirma o endocrinologista Ramon Marcelino, doutor pela Faculdade de Medicina da USP e membro do corpo clínico do Hospital Sírio-Libanês. Ação na miostatina A miostatina age como um freio de mão do crescimento muscular. Ela impede que o corpo construa músculo além de certo limite. E faz isso de três formas: reduz a fabricação de novas proteínas musculares, acelera a degradação das proteínas já existentes e inibe as células-tronco do músculo, que ajudam a repará-lo e a fazê-lo crescer. Animais que nascem sem miostatina, como algumas raças de bois, desenvolvem uma musculatura exuberante. A ideia do remédio é imitar parcialmente esse efeito: o apitegromabe se liga à forma ainda inativa da miostatina e impede que ela seja \"ligada\". A AME é uma doença genética e rara que atinge cerca de 1 a cada 10 mil nascidos vivos e está entre as principais causas genéticas de morte na infância. Ela é causada por um defeito no gene SMN1, responsável por produzir uma proteína essencial para a sobrevivência dos neurônios motores, as células nervosas que saem da medula espinhal e levam até os músculos a ordem de contrair. Sem essa proteína, os neurônios motores vão deixando de funcionar. O músculo para de receber estímulos, enfraquece e atrofia. Um gene de reserva, o SMN2, normalmente produz uma versão defeituosa dessa proteína, e as terapias existentes voltadas para o SMN2 atuam corrigindo esse defeito, permitindo que o organismo produza quantidade suficiente da proteína em falta para manter vivos os neurônios motores. Embora esses tratamentos tenham melhorado significativamente os resultados para muitos pacientes, aqueles com a doença em estágio mais avançado continuam a apresentar limitações motoras substanciais (incluindo a capacidade de caminhar ou se mover de forma independente), o que evidencia a necessidade de terapias que combatam diretamente a perda muscular. Por isso, em vez de atar no sistema nervoso, o novo medicamento atua no próprio músculo e foi indicado para adultos e pacientes pediátricos a partir de 2 anos de idade que estejam recebendo um tratamento direcionado ao gene SMN2. A eficácia e a segurança do Isembyld foram avaliadas em um estudo de 52 semanas, randomizado, duplo-cego e controlado por placebo. O estudo incluiu 188 participantes com AME, com idades entre 2 e 21 anos, que não conseguiam se mover ou caminhar de forma independente. Todos os participantes já recebiam um tratamento aprovado direcionado ao gene SMN2. Os pacientes foram designados aleatoriamente para receber Isembyld 10 mg/kg, Isembyld 20 mg/kg (via infusão intravenosa) ou placebo, uma vez a cada quatro semanas, durante aproximadamente um ano. A análise principal foi realizada com 156 pacientes na faixa etária de 2 a 12 anos. Os resultados mostraram que aqueles que receberam Isembyld 10 mg/kg demonstraram melhora na função motora ao final de um ano, enquanto os pacientes do grupo placebo apresentaram declínio. Os participantes do grupo de tratamento tiveram uma probabilidade mais de duas vezes maior de apresentar uma melhora clinicamente significativa em comparação com os pacientes do grupo placebo. As reações adversas mais comuns foram infecções do trato respiratório superior, vômitos, tosse, outras infecções virais, dor de cabeça, gastroenterite e faringite (dor de garganta). Observou-se um risco aumentado de fraturas, incluindo fraturas graves, em pacientes tratados com Isembyld. O medicamento também pode causar danos ao feto e afetar a função reprodutiva. Potencial para obesidade No estudo da farmacêutica que a avaliou o medicamento para manutenção da massa magra durante o uso de canetas emagrecedoras, 102 adultos com sobrepeso ou obesidade foram divididos em dois grupos. O primeiro recebeu um tratamento somente com a tirzepatida, princípio ativo do Mounjaro, durante 24 semanas. O segundo recebeu uma combinação da tirzepatida com o apitegromabe pelo mesmo período. A cada quatro semanas, foi administrada uma infusão intravenosa do apitegromabe para o segundo grupo junto com a tirzepatida, enquanto o primeiro recebeu um placebo para comparação. Os voluntários não sabiam em qual grupo estavam inseridos, para evitar uma influência sobre os resultados. Ao final do estudo, a perda total de peso foi semelhante entre os dois, mas a massa magra correspondeu a apenas 14,6% da redução no grupo que recebeu o apitegromabe, em comparação com 30,2% no grupo placebo. De modo geral, as pessoas que receberam apitegromabe perderam 1,9 kg menos massa magra, o que representou uma retenção 54,9% maior dos músculos. Os resultados foram publicados na revista científica Nature Medicine. O novo medicamento também foi bem tolerado, com taxas semelhantes de eventos adversos entre os dois grupos. Esse estudo é de fase 2 de desenvolvimento, que visa avaliar a segurança de um medicamento em um número maior de pessoas e também, iniciar a validação de sua eficácia. Mas a aprovação para uma autorização oficial da FDA - ou de outras agências regulatórias, como a Anvisa - para o uso do apitegromabe para obesidade ainda depende da fase 3 de testes clínicos. A Scholar Rock busca parcerias para realizar essa última fase de estudos para preservação e recuperação de massa muscular associada à perda de peso se usado em combinação com a tirzepatida (Mounjaro). Porém, mediante a aprovação do fármaco para AME, o uso \"offlabel\" é previsível, mas pode esbarrar no alto custo do tratamento. Segundo a agência Reuters, o tratamento deve custar cerca de US$ 310 mil por ano (aproximadamente R$ 1,7 milhão) para um paciente típico. Marcelino também alerta para a necessidade de cautela no uso \"offlabel\" desse tipo de medicamento. \"Não há, neste momento, nenhuma indicação aprovada de inibidores de miostatina para obesidade, e o uso fora da bula, sem estudos que comprovem segurança, não é recomendado\", diz o médico. Há ainda outros medicamentos em testes que buscam o mesmo objetivo, entre eles o bimagrumabe. Resultados também da fase 2 foram publicados na revista científica Nature Medicine em março deste ano e indicaram que o uso com a semaglutida, do Ozempic e do Wegovy, eleva o emagrecimento para uma perda de 22,1% do peso após 72 semanas – menos de 10% composto de massa muscular contra quase 30% entre os que receberam apenas a semaglutida. Mais Lidas",
       "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/09/eua-aprovam-droga-inedita-que-impede-perda-muscular.ghtml",
@@ -12826,6 +12938,37 @@
         {
           "sector": "Farmácias",
           "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "Do café à cerveja: o que explica a explosão de produtos proteicos no Brasil?",
+      "summary": "O que antes era associado principalmente a carnes, ovos, feijão e suplementos de academia agora aparece no achocolatado, café, água e até na cerveja. Impulsionada pela busca por bem-estar, longevidade, praticidade e, mais recentemente, pelo avanço das canetas emagrecedoras, a proteína ganhou espaço nas formulações e se tornou um dos principais vetores de inovação da indústria de alimentos e bebidas. Os números ajudam a dimensionar a força dessa tendência. Os alimentos com proteína adicionada já movimentam cerca de R$ 2 bilhões por ano no Brasil e mais de US$ 50 bilhões no mundo, segundo dados da Euromonitor. A projeção é que o mercado brasileiro dobre de tamanho até 2028. Levantamento da Worldpanel by Numerator também mostra que o faturamento da categoria de alimentos com proteína adicionada cresceu 12% no primeiro trimestre deste ano, na comparação com o mesmo período de 2025. O avanço foi duas vezes superior ao registrado pelas proteínas convencionais, como as carnes e os ovos. Initial plugin text Na Ambev, a onda de produtos proteicos alcançou uma categoria até então pouco associada ao nutriente: a cerveja. Lançada há cerca de um mês, a Spaten Pro não contém álcool e oferece 10 gramas de proteína por lata. A novidade reforça o portfólio de bebidas voltadas ao bem-estar da companhia, que já reúne opções sem glúten, sem álcool, sem açúcar, com menos carboidratos ou com adição de nutrientes, como Brahma Zero, Stella Artois Pure Gold, Corona Cero e Guaraná Antarctica Zero com fibras. Desenvolvida no Centro de Inovação e Tecnologia (CIT) da Ambev, localizado no Parque Tecnológico da Universidade Federal do Rio de Janeiro (UFRJ), a Spaten Pro passou por mais de 100 protótipos ao longo de mais de três anos de pesquisa. “O principal desafio era criar uma cerveja gostosa. Não queríamos uma bebida proteica com sabor de cerveja ou uma bebida à base de proteína. Tinha que ser, de fato, uma cerveja”, explica Gabriella Gallo, diretora de Inovações da Ambev. A bebida ainda passa por uma fase de teste no mercado brasileiro. Para acompanhar a recepção do público, a Ambev utiliza dados do Zé Delivery, plataforma que reúne 27 milhões de usuários mensais e permite avaliar lançamentos, identificar ocasiões de consumo e coletar opiniões dos clientes. Os resultados ajudarão a orientar os próximos passos do produto, que já despertou o interesse de outros mercados e poderá ser comercializado internacionalmente. A expansão do mercado proteico também reflete a estratégia da indústria de incorporar a proteína a sabores e hábitos já presentes na rotina do consumidor, como o café da manhã e o lanche da tarde. Gabriella Gallo, diretora de inovações da Ambev Divulgação Na Nestlé, esse movimento levou à criação da linha Nescau Protein, que estreou em 2025 com a versão em pó. Neste ano, o portfólio ganhou uma bebida pronta para consumo, com 15 gramas de proteína em uma embalagem de 250 mililitros, sem adição de açúcares e sem lactose. A companhia também passou a adicionar proteína a outras categorias, como aveia e café pronto para beber, além de ampliar a oferta de suplementos das marcas Nutren e Puravida. Com a ampliação do portfólio, a Nestlé pretende atender consumidores de diferentes faixas etárias e níveis de renda, além de alcançar novas ocasiões de consumo. A estratégia é levar a proteína para além dos suplementos esportivos e incorporá-la a alimentos e bebidas já presentes no cotidiano. “É uma gama de produtos e categorias justamente para democratizar o acesso à proteína”, afirma Gisele Pavin, gerente executiva de nutrição, saúde e bem-estar da Nestlé Brasil. Na avaliação da executiva, esse movimento ganhou força após a pandemia, quando os consumidores passaram a dedicar mais atenção à alimentação, à imunidade e aos níveis de vitaminas e minerais no organismo. Mais recentemente, a popularização dos medicamentos análogos de GLP-1, conhecidos como canetas emagrecedoras, acrescentou um novo impulso a esse mercado. Como podem reduzir o apetite e a quantidade de alimentos ingeridos, esses medicamentos também podem provocar perda de massa muscular durante o emagrecimento, sobretudo quando não há acompanhamento adequado da alimentação e da atividade física. Proteína na comida Panelinhas com comida pronta adicionada com proteína da Seara Divulgação A adição de proteína também chegou às refeições prontas. No ano passado, a Seara lançou uma linha de pratos congelados com maior quantidade do nutriente. Neste ano, acrescentou ao portfólio almôndegas, lasanha à bolonhesa, fettuccine à bolonhesa e filé à milanesa. Os produtos contêm entre 15 e 24 gramas de proteína por embalagem, enquanto outros pratos da linha ultrapassam 30 gramas. “Há 20 ou 30 anos, quando o consumidor buscava bem-estar, ele procurava produtos light ou diet. Com o passar do tempo, percebemos que ele não queria abrir mão do sabor. Hoje, ele quer aliar saúde ao sabor”, afirma Rafael Palmer, diretor de marketing da Seara. Rafael Palmer, da diretor da Seara Divulgação Segundo o executivo, os produtos da linha proteica registram giro 10% superior ao de itens similares da própria companhia nos pontos de venda. O desempenho levou a Seara a ampliar o portfólio. O hub de inovação da Seara já trabalha em lançamentos que poderão chegar às prateleiras dentro de dois ou três anos. O processo reúne chefs, nutricionistas, pesquisadores e profissionais de marketing. As receitas são submetidas à avaliação dos consumidores e passam por ajustes no tempero, na quantidade dos ingredientes e na textura antes de chegar ao mercado. “O desafio é transformar algo nutricionalmente correto em um produto gostoso e que caiba no bolso do consumidor”, diz Palmer. Consumo consciente A adição de proteína não significa que esses produtos são mais saudáveis. “É necessário avaliar o produto inteiro: quantidade de proteína por porção, qualidade da fonte proteica, teor de açúcares adicionados, gorduras saturadas, sódio, valor energético, lista de ingredientes e grau de processamento”, alerta Manuela Dolinsky, presidente do Conselho Federal de Nutricionistas (CFN). Segundo ela, alimentos e bebidas enriquecidos com proteína podem oferecer praticidade ou complementar necessidades específicas, mas não são indispensáveis para todas as pessoas. “Muitas vezes, a alimentação habitual já fornece quantidade suficiente, e a inclusão de vários produtos enriquecidos apenas aumenta o consumo total e o custo, sem benefício adicional.” No caso das cervejas com álcool, a especialista faz uma ressalva: “A adição de proteína não neutraliza os efeitos do álcool e não transforma uma bebida alcoólica em produto voltado à saúde, à hidratação ou à recuperação esportiva.” Depois da proteína, as fibras Gisele Pavin, gerente executiva de nutrição, saúde e bem-estar da Nestlé Brasil Divulgação A proteína pode ser apenas a porta de entrada para uma transformação mais ampla nas prateleiras. As gigantes de alimentos e bebidas já acompanham o crescimento do interesse por fibras, probióticos, prebióticos e produtos relacionados à saúde intestinal. “Hoje estamos falando de proteína. Amanhã, serão as proteínas com fibras”, prevê Gisele, da Nestlé. Na Ambev, esse movimento já aparece no Guaraná Antarctica Zero com fibras. Gallo afirma que a saúde digestiva vem ganhando espaço nas pesquisas e no desenvolvimento de produtos. Palmer também acredita que o consumidor passará a buscar soluções mais específicas, destinadas, por exemplo, à saúde intestinal ou cardiovascular. Outra mudança será o interesse pela procedência e pelas propriedades de diferentes tipos de proteína. “Hoje ele está falando de proteína. Daqui a pouco, vai começar a perguntar se ela é de origem animal ou vegetal e quais propriedades cada uma oferece”, diz. A expectativa é que essa maior atenção aos ingredientes leve à criação de produtos cada vez mais segmentados. Para a indústria, o desafio será equilibrar benefícios nutricionais, conveniência, preço e sabor, sem transformar a busca pela alimentação saudável em uma experiência excessivamente técnica. A proteína pode ter aberto esse caminho, mas a próxima disputa das empresas será por produtos que ajudem o consumidor a cuidar de necessidades mais específicas sem abandonar os alimentos, sabores e rituais que já fazem parte de sua rotina. Guaraná Antartica com fibras Divulgação Mais Lidas Banner da Série Tendências para o Futuro Clayton Rodrigues",
+      "url": "https://epocanegocios.globo.com/empresas/tendencias-para-o-futuro/noticia/2026/09/do-cafe-a-cerveja-o-que-explica-a-explosao-de-produtos-proteicos-no-brasil.ghtml",
+      "published": "2026-09-22T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -14238,6 +14381,29 @@
         {
           "sector": "Farmácias",
           "alias": "genérico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Estrangeiros avançam com varejo em crise",
+      "summary": "Grandes varejistas internacionais têm se saído melhor na fase atual de desaceleração das vendas no país, enquanto as redes locais crescem menos ou até têm de recorrer à recuperação judicial. A conclusão faz parte de levantamento feito pelo Valor, comparando o desempenho de empresas nas mesmas áreas de atuação. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/09/22/estrangeiros-avancam-com-varejo-em-crise.ghtml",
+      "published": "2026-09-22T08:00:01+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
           "field": "lead",
           "score": 8,
           "topic": null
