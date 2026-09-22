@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T12:03:56.070646+00:00",
-  "count": 523,
-  "new_this_run": 8,
+  "generated_at": "2026-09-22T12:44:34.881852+00:00",
+  "count": 517,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -1685,6 +1685,54 @@
           "alias": "recuperação extrajudicial",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
+      "title": "Bilionária canadense aposta no Brasil e passa a vender marca de skincare em farmácias",
+      "summary": "The Ordinary, que pertence ao grupo Deciem, amplia sua distribuição no país com parceria exclusiva com Raia e Drogasil e aposta em educação sobre ativos para conquistar novos consumidores",
+      "url": "https://exame.com/negocios/bilionaria-canadense-aposta-no-brasil-e-passa-a-vender-marca-de-skincare-em-farmacias",
+      "published": "2026-09-22T09:00:29+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "drogasil",
+        "farmácias",
+        "raia",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "raia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "drogasil",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -4563,45 +4611,6 @@
       "score": 38.0
     },
     {
-      "title": "Boticário lança sorteio para atrair mais consumidores às lojas físicas",
-      "summary": "O Boticário vai sortear produtos e vale-compras para clientes que encontrarem fitas olfativas premiadas em suas lojas físicas. Ao todo, serão seis milhões de fitas distribuídas, 300 mil delas com premiações, ou 5% do total. O cliente terá de borrifar uma fragrância sobre a fita para descobrir se foi premiado na ação, idealizada pela agência SoWhat. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/15/boticario-lanca-sorteio-para-atrair-mais-consumidores-as-lojas-fisicas.ghtml",
-      "published": "2026-09-15T12:30:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário",
-        "fragrância",
-        "o boticário"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "o boticário",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "fragrância",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0
-    },
-    {
       "title": "Novo Desenrola já tem três em cada dez dívidas renegociadas sem pagamento",
       "summary": "Três em cada dez operações de renegociação de dívidas no âmbito do novo Desenrola Brasil têm parcelas que não foram pagas, segundo dados do Fundo Garantidor de Operações (FGO) obtidos pelo GLOBO. Esse instrumento cobre a inadimplência nas operações de crédito realizadas no âmbito do programa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/18/novo-desenrola-ja-tem-tres-em-cada-dez-dividas-renegociadas-sem-pagamento.ghtml",
@@ -4860,94 +4869,6 @@
         }
       ],
       "score": 32.0
-    },
-    {
-      "title": "Varejo restrito cai 0,8% em julho, ante junho, abaixo do piso das expectativas do mercado",
-      "summary": "O volume de vendas no varejo restrito caiu 0,8% em julho ante junho, segundo a Pesquisa Mensal do Comércio (PMC), divulgada pelo Instituto Brasileiro de Geografia e Estatística (IBGE) nesta terça-feira (15). Em junho, o comércio restrito avançou 0,3% (dado revisado após divulgação de alta de 0,5%). O resultado de julho ante junho veio menor que a mediana estimada pelo VALOR DATA, apurada junto a 18 consultorias e instituições financeiras, que era de recuo de 0,1%, e também abaixo do piso das projeções. O intervalo para o varejo restrito ia de queda de 0,5% a alta de 0,5%. Na comparação com julho de 2025, o varejo restrito avançou 1,2%, resultado menor que o esperado. A expectativa mediana do VALOR DATA era aumento de 2,3%, com intervalo entre expansão de 1,6% e 3,3%. O comércio restrito atingiu alta de 1,6% no resultado acumulado em 12 meses até julho. No ano, até julho, o aumento acumulado foi de 1,8%. As vendas do comércio recuaram em julho, ante junho, em cinco das oito atividades pesquisadas no varejo restrito. Os dados da pesquisa mostram ainda que, na comparação com julho de 2025, também foram cinco das oito atividades em queda. As atividades em queda foram móveis e eletrodomésticos (-4,9%), livros, jornais, revistas e papelaria (-4,2%), tecidos, vestuário e calçados (-2,7%), outros artigos de uso pessoal e doméstico (-2,2%) e hiper, supermercados, produtos alimentícios, bebidas e fumo (-0,2%). Por outro lado, no campo positivo, estão artigos farmacêuticos, médicos, ortopédicos e de perfumaria (0,6%), equipamentos e material para escritório, informática e comunicação (0,6%) e combustíveis e lubrificantes (0,3%). Ampliado O volume de vendas no varejo ampliado, que inclui as vendas de veículos e motos, partes e peças, material de construção e atacarejo, subiu 0,4% em julho. O resultado ficou abaixo da alta de 0,6% esperada por analistas de 18 bancos e consultorias, segundo a mediana do VALOR DATA. O intervalo das projeções ia de alta entre 0,3% e 2,4%. Em junho frente a maio, o comércio ampliado caiu 1,1% (após divulgação inicial de queda de 1%). Na comparação com julho de 2025, o volume de vendas do varejo ampliado subiu 1,8%. A expectativa mediana pelo VALOR DATA era de alta de 2,3%. As projeções variavam entre recuo de 1,3% e alta de 4,2%. No resultado acumulado em 12 meses, o comércio ampliado cresceu 1,2%. Em 2026, até julho, há aumento de 1,9%. No comércio varejista ampliado, houve variação no campo positivo para os dois setores adicionais: veículos e motos, partes e peças (0,3%) e material de construção (0,7%). Tomaz Silva/Agência Brasil",
-      "url": "https://valor.globo.com/brasil/noticia/2026/09/15/varejo-restrito-cai-08percent-em-julho-ante-junho-abaixo-do-piso-das-expectativas-do-mercado.ghtml",
-      "published": "2026-09-15T12:12:15+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Cosméticos",
-        "Economia",
-        "Material de Construção"
-      ],
-      "matched_aliases": [
-        "material de construção",
-        "perfumaria",
-        "pesquisa mensal do comércio",
-        "pmc",
-        "vendas no varejo"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "perfumaria",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "pmc",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "pesquisa mensal do comércio",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "vendas no varejo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Material de Construção",
-          "alias": "material de construção",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Vendas no varejo caem 0,8% em julho",
-      "summary": "As vendas no comércio caíram 0,8% em julho, informou o IBGE nesta terça-feira. Efeito do crédito caro, do elevado endividamento e da ligeira queda na renda naquele mês. O segmento no varejo que apresentou o pior desempenho foi o de móveis e eletrodomésticos (-4,9%), que costuma depender de financiamento. Apesar da expectativa de um novo corte de juros nesta semana pelo Comitê de Política Monetária (Copom), os juros devem se manter em patamar elevando, reduzindo o apetite do consumidor. Dos oito grupos pesquisados, a segunda maior queda foi a de livros, jornais e papelaria (-4,2%). Tecidos e vestuário e calçados recuou 2,7%. Jpa do lado positivo, destacam-se combustíveis e lubrificantes, que tiveram avanço de 0,3%. Matéria em atualização",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/15/vendas-no-varejo-caem-08percent-em-julho.ghtml",
-      "published": "2026-09-15T12:42:01+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento",
-        "vendas no varejo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "vendas no varejo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Brookfield compra galpões por R$ 1,4 bi",
@@ -6073,52 +5994,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Marisa obtém extensão de prazo para reenquadrar ações ao valor mínimo de R$ 1",
-      "summary": "A Lojas Marisa disse que a B3 estendeu o prazo para que a varejista reenquadre o valor das suas ações no patamar mínimo de R$ 1 até o dia 30 de abril de 2027 ou da realização da próxima assembleia geral ordinária. Confira resultados e indicadores da Lojas Marisa e das demais companhias de capital aberto no portal Valor Empresas 360 Segundo a companhia, a extensão do prazo se deu pela evolução recente nas cotações das ações, de R$ 0,46 em 17 de agosto para R$ 0,90 na última quarta-feira (9), após a divulgação de resultados do segundo trimestre. Além disso, a ampliação do prazo decorre da conveniência de permitir período adicional para que novas informações e outros fatos públicos e supervenientes sejam refletidos na formação de preço das ações antes de aplicação de outras medidas. “A companhia continuará monitorando a cotação das ações e avaliando, por sua administração e pelos órgãos de governança competentes, a necessidade de adoção de medidas para o reenquadramento”, afirma a Marisa, em comunicado. No fechamento de ontem, as ações da Marisa estavam cotadas em R$ 0,87. A ampliação do prazo decorre da conveniência de permitir período adicional para que novas informações e outros fatos públicos e supervenientes sejam refletidos na formação de preço Divulgação",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/15/marisa-obtem-extensao-de-prazo-para-reenquadrar-acoes-ao-valor-minimo-de-r-1.ghtml",
-      "published": "2026-09-15T12:21:09+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "marisa"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "marisa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Vendas no varejo caem 0,8% em julho, com recuo em 20 estados",
-      "summary": "Móveis e eletrodomésticos lideraram as perdas, com queda de 4,9% no mês; na comparação com julho de 2025, comércio ainda registra crescimento de 1,2%",
-      "url": "https://veja.abril.com.br/economia/vendas-no-varejo-caem-08-em-julho-com-recuo-em-20-estados",
-      "published": "2026-09-15T12:39:21+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "vendas no varejo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "vendas no varejo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Vendas no varejo do Brasil recuam mais do que o esperado em julho",
@@ -11756,6 +11631,29 @@
       "score": 20.0
     },
     {
+      "title": "Achadinhos tech da Shopee: 20 itens de sucesso e com desconto - Estadão",
+      "summary": "Achadinhos tech da Shopee: 20 itens de sucesso e com desconto &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/tecmundo/guia-de-compras/achadinhos-tech-da-shopee-20-itens-de-sucesso-e-com-desconto",
+      "published": "2026-09-21T15:04:23+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "De tanque cheio: o que o BTG espera da estreia do Assaí no setor de postos de combustíveis - NeoFeed",
       "summary": "De tanque cheio: o que o BTG espera da estreia do Assaí no setor de postos de combustíveis &nbsp;&nbsp; NeoFeed",
       "url": "https://neofeed.com.br/negocios/de-tanque-cheio-o-que-o-btg-espera-da-estreia-do-assai-no-setor-de-postos-de-combustiveis",
@@ -13151,75 +13049,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Juros futuros têm leve queda olho em STF, varejo fraco e pressão externa",
-      "summary": "Os juros futuros abriram o pregão desta terça-feira com recuo modesto à medida que os investidores pesam diferentes vetores para o mercado local de renda fixa. Na cena doméstica, o foco está no julgamento do Supremo Tribunal Federal (STF) sobre as mensagens de Daniel Vorcaro ao ministro Alexandre de Moraes, previsto para começar às 10h e que pode ter repercussões sobre o cenário eleitoral. Por outro lado, as vendas no varejo restrito do país caíram 0,8% em julho e ficaram abaixo até do piso das estimativas colhidas pelo VALOR DATA, o que alimenta a percepção de desaceleração da atividade econômica e, em tese, dá mais espaço para o Banco Central cortar a Selic. Nesse contexto, por volta de 9h15, a taxa do contrato de Depósito Interfinanceiro (DI) com vencimento de janeiro de 2027 oscilava de 13,585%, do ajuste de ontem, para 13,58%; a do DI de janeiro de 2028 tinha leve queda de 13,63% a 13,605%; a do DI de janeiro de 2029 recuava de 13,865% para 13,84%; e a do DI de janeiro de 2031 cedia de 14,11% a 14,08%. No exterior, por outro lado, as taxas dos Treasuries de longo prazo operam perto dos maiores níveis desde 2007, o que pode limitar qualquer alívio na renda fixa local. No horário mencionado acima, a taxa da T-note de dez anos subia de 4,988% a 5,006%, após tocar a máxima de 5,045% durante a madrugada.",
-      "url": "https://valor.globo.com/financas/noticia/2026/09/15/juros-futuros-tem-leve-queda-olho-em-stf-varejo-fraco-e-pressao-externa.ghtml",
-      "published": "2026-09-15T12:18:05+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "vendas no varejo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "vendas no varejo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "O estado que lidera o roubo de medicamentos no Brasil",
-      "summary": "Crime cresce no país; \"canetas emagrecedoras\" e estimulantes são as drogas mais afetadas",
-      "url": "https://veja.abril.com.br/saude/o-estado-que-lidera-o-roubo-de-medicamentos-no-brasil",
-      "published": "2026-09-15T12:22:28+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Justiça indefere pedido de acionista para suspender assembleias recentes do Grupo Toky",
-      "summary": "A Justiça indeferiu pedidos movido por um acionista pessoa física contra o Grupo Toky que buscava anular decisões tomadas em assembleias recentes da varejista dona das marcas Mobly e Tok&amp;Stok. Confira resultados e indicadores do Grupo Toky e das demais companhias de capital aberto no portal Valor Empresas 360 A disputa teve início após o investidor pleitear a suspensão dos efeitos da de assembleia realizada em dezembro do ano passado, alegando que seus votos teriam sido computados mesmo sem ter participado da reunião. Em sua defesa, a Toky sustentou ter recebido formalmente as instruções por meio do mapa de votação, com confirmação emitida pelo banco escriturador de que um boletim válido havia sido encaminhado com voto favorável às propostas apresentada. Recentemente, o acionista ampliou o escopo da ação ao solicitar também a suspensão dos efeitos da deliberação que alterou o capital autorizado da companhia, aprovada em assembleia realizada em 5 de agosto. De acordo com o comunicado da companhia, a decisão judicial negou os pedidos do acionistas ao não reconhecer irregularidades na contabilização dos votos na assembleia de dezembro. O magistrado observou ainda que, ao contrário do sustentado pelo autor, o limite do capital autorizado aprovado no fim de 2025 nunca chegou a ser utilizado, de modo que eventuais emissões futuras de ações ocorrerão exclusivamente sob o novo limite deliberado na reunião de agosto. O juízo também determinou que a controvérsia sobre a validade das assembleias e seus desdobramentos deve ser dirimida perante o juízo arbitral competente e estabeleceu o prazo de 30 dias para que o procedimento seja instaurado. O juízo também determinou que a controvérsia sobre a validade das assembleias e seus desdobramentos deve ser dirimida perante o juízo arbitral competente e estabeleceu o prazo de 30 dias para que o procedimento seja instaurado Rebecca Maria/Agência O Globo",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/15/justia-indefere-pedido-de-acionista-para-suspender-assembleias-recentes-do-grupo-toky.ghtml",
-      "published": "2026-09-15T12:32:56+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "mobly"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "mobly",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Itaú consolida operações da Europa em Luxemburgo",
