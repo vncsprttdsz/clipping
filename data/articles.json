@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-22T09:30:12.644275+00:00",
-  "count": 517,
-  "new_this_run": 0,
+  "generated_at": "2026-09-22T09:32:52.269637+00:00",
+  "count": 518,
+  "new_this_run": 1,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -12349,6 +12349,29 @@
         {
           "sector": "Fashion",
           "alias": "renner",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "The show must go on: struggling luxury brands seek catwalk boost in Milan and Paris - Reuters",
+      "summary": "The show must go on: struggling luxury brands seek catwalk boost in Milan and Paris &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/show-must-go-struggling-luxury-brands-seek-catwalk-boost-milan-paris-2026-09-22",
+      "published": "2026-09-22T05:09:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxury brands"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "luxury brands",
           "field": "title",
           "score": 20,
           "topic": null
