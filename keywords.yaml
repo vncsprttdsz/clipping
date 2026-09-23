@@ -19,7 +19,25 @@ sectors:
   # ------------------------------------------------------------
   Fashion:
     # Simples - marcas/varejistas com operação BR clara
-    - renner
+    # "renner" sozinho e homonimo de DUAS celebridades e em set/2026 a morte
+    # do sertanejo Rick, da dupla Rick & Renner, inundou o setor: 38 materias
+    # numa base de 568 (6,7% do clipping inteiro), nenhuma da varejista.
+    # O outro homonimo e o ator Jeremy Renner.
+    #
+    # Os dois primeiros blocos abaixo nomeiam a dupla ou o ator. Os dois
+    # ultimos ("sertanejo", "helicoptero") existem porque varias manchetes
+    # nao nomeiam a dupla no titulo: "O apelo de Renner apos desaparecimento
+    # de Rick", "O motivo que fez Renner nao embarcar no helicoptero".
+    #
+    # Rede de seguranca: "lojas renner" e "lren3" sao aliases SEPARADOS e sem
+    # gate, entao materia que use essas grafias entra de qualquer jeito,
+    # mesmo que caia num termo desta lista.
+    - alias: renner
+      requires_none: [rick e renner, rick & renner, rick renner, renner e rick,
+                      dupla com renner, dupla rick, rick sollo,
+                      jeremy renner,
+                      sertanejo, sertaneja, dupla sertaneja,
+                      helicóptero, helicoptero]
     - lojas renner
     - c&a
     - riachuelo
