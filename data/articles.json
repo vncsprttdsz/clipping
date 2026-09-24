@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-24T09:17:07.823344+00:00",
-  "count": 492,
+  "generated_at": "2026-09-24T09:26:19.675578+00:00",
+  "count": 493,
   "new_this_run": 1,
   "articles": [
     {
@@ -10765,6 +10765,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Flávio Bolsonaro promete acabar com jogo do tigrinho, mas sinaliza manutenção de apostas esportivas",
+      "summary": "",
+      "url": "https://www.estadao.com.br/politica/flavio-bolsonaro-promete-acabar-com-jogo-do-tigrinho-mas-sinaliza-manutencao-de-apostas-esportivas",
+      "published": "2026-09-23T15:37:27+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas esportivas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas esportivas",
           "field": "title",
           "score": 20,
           "topic": null
