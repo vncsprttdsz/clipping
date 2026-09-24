@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-24T09:36:33.683682+00:00",
-  "count": 496,
-  "new_this_run": 0,
+  "generated_at": "2026-09-24T10:14:58.445816+00:00",
+  "count": 500,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -435,6 +435,70 @@
         }
       ],
       "score": 74.0
+    },
+    {
+      "title": "Amazon no Brasil atinge 100 mil vendedores e amplia aposta logística, afirma CEO",
+      "summary": "Após anunciar em meados deste ano parcerias com grandes varejistas, como Magazine Luiza e Carrefour, a Amazon alcança 100 mil vendedores parceiros cadastrados no marketplace, 300 centros de distribuição e um total de 150 milhões de produtos colocados à venda na plataforma em 50 categorias diferentes, diz Juliana Sztrajtman, CEO da operação no Brasil. Leia mais (09/24/2026 - 07h00)",
+      "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/amazon-no-brasil-atinge-100-mil-vendedores-e-amplia-aposta-logistica-afirma-ceo.shtml",
+      "published": "2026-09-24T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "carrefour",
+        "centros de distribuição",
+        "logística",
+        "magazine luiza",
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 72.0
     },
     {
       "title": "Sandoz obtém aval para venda de genérico do Ozempic no Canadá",
@@ -916,6 +980,45 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "A corrida nada silenciosa que Renner, Riachuelo e C&A disputam no mercado de jeans",
+      "summary": "Longe de ser apenas um item básico, o denim abriu uma corrida silenciosa em estilo, inovação e sustentabilidade que tem feito lojas como Renner, Riachuelo e C&#038;A brigarem pelo topo do mercado",
+      "url": "https://exame.com/casual/a-corrida-silenciosa-que-renner-riachuelo-e-ca-disputam-no-mercado-de-jeans",
+      "published": "2026-09-24T06:56:48+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "c&a",
+        "renner",
+        "riachuelo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "c&a",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "riachuelo",
           "field": "title",
           "score": 20,
           "topic": null
@@ -3750,6 +3853,38 @@
       "score": 40.0
     },
     {
+      "title": "Após Kopenhagen, Renata Vichi prepara expansão de R$ 100 milhões na rede de academias SIX - Exame",
+      "summary": "Após Kopenhagen, Renata Vichi prepara expansão de R$ 100 milhões na rede de academias SIX &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/insight/apos-kopenhagen-renata-vichi-prepara-expansao-de-r-100-milhoes-na-rede-de-academias-six/p",
+      "published": "2026-09-24T10:05:44+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Academias"
+      ],
+      "matched_aliases": [
+        "kopenhagen",
+        "rede de academias"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "kopenhagen",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "rede de academias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Farm recebe propostas até o fim do mês e atrai fundos de private equity",
       "summary": "Contratado pela Azzas, o Morgan Stanley deu até o fim do mês de setembro para que interessados na Farm Rio entreguem suas propostas não vinculantes pela rede, apurou o Pipeline. A marca é considerada a \"joia da coroa\" do grupo varejista e tem atraído interesse principalmente de fundos de private equity. Advent, GIC, CVC e L Catterton estão entre os investidores avaliando a operação, apurou o Pipeline. A transação, no entanto, não é considerada \"trivial\", segundo pessoas próximas às conversas, principalmente por preço e estrutura. Azzas: o custo do casamento e do divórcio entre Arezzo e Soma A venda da Farm faz parte do acordo de separação dos negócios de Arezzo&amp;Co, controlada por Alexandre Birman, e Soma, controlada por Roberto Jatahy. Na segregação, a Farm vai virar uma estrutura independente, com capital de ambos - que querem monetizar no patamar mais alto possível para cobrir os custos com a cisão e a perda de patrimônio com a desvalorização dos papéis de Azzas. O interessado em adquirir a Farm precisa também acomodar os interesses dos fundadores da marca, Kátia Barros e Marcello Bastos. \"A Kátia é a alma criativa da Farm, há dúvidas no mercado de quanto esse negócio valeria sem ela, se seria capaz de sustentar a mesma identidade e por isso é relevante mantê-la na estrutura de governança\", pondera um executivo do setor. Ou seja, além de fazer Birman e Jatahy chegarem num acordo sobre o valor de venda, o que por si só já tem sido um desafio, é necessário chegar a um acordo com Barros e Bastos. Após briga de sócios, Azzas será dividida em três: Arezzo, Soma e Farm Na venda da Farm, devagar com o andor Os acionistas miram alto. Segundo fontes, a companhia sinalizou que quer algo em torno de 15 vezes o Ebitda, múltiplo considerado \"muito alto\" pelos fundos e acima do negociado por redes de varejo de moda. O grupo Index, dono da Zara, é negociado a 13,7 vezes o EV/Ebitda. A ambição, assim, seria fazer negócio num patamar de US$ 1 bilhão, cerca de R$ 5,1 bilhões. A Azzas inteira vale em bolsa hoje R$ 3 bilhões. Na avaliação do J.P. Morgan, a empresa valeria entre R$ 4,4 bilhões e R$ 5,5 bilhões, considerando a projeção para vendas brutas em 2026 de R$ 3,7 bilhões, com margem Ebitda de 18%. O Citi, em relatório, estima algo mais perto de R$ 3,5 bilhões. Presente em 18 países, a Farm apresentou um faturamento de R$ 3,4 bilhões em 2025, respondendo por 23% da receita bruta da Azzas no ano passado. O Brasil responde por cerca de 60% das vendas segundo do J.P. Procurada, a Azzas disse que \"não comenta especulações de mercado\". Farm, marca da Azzas 2154, teve faturamento de R$ 3,4 bi em 2025 Reprodução",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/farm-recebe-propostas-ate-o-fim-do-mes-e-atrai-fundos-de-private-equity.ghtml",
@@ -5195,6 +5330,46 @@
           "field": "lead",
           "score": 8,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 24.0
+    },
+    {
+      "title": "A treta pós-M&A: 96% das transações têm ajuste e embate depois de fechar",
+      "summary": "Frustrações em grandes fusões e aquisições, como Arezzo&amp;Co e Soma ou Natura e Avon, casos brasileiros recentes, são ruidosas mas estão longe de ser exceções. É claro que nem todas acabam em cisão ou venda, mas em 96% dos M&amp;As há pelo menos um embate ou questão pendente a ser resolvida após o fechamento da transação, mostra um levantamento da consultoria SRS Acquiom. Os temas mais comuns de embate posterior envolvem o earnout para o vendedor, pedidos de ajustes de preço pelo comprador e pedidos de indenização. Em metade das transações, são duas ou mais fontes de discórdia. Azzas: o custo do casamento e do divórcio entre Arezzo e Soma Na Natura, o fim do sonho global pode ser um alento Natura vai incorporar holding, o que mexe no alto escalão O estudo M&amp;A Earnouts & Claims Study de 2026 reúne 1,17 mil aquisições de empresas privadas, que somam mais de US$ 1 trilhão, fechadas entre 2009 e o primeiro semestre deste ano, envolvendo empresas americanas, sendo a maioria concentrada nos últimos três anos. A parcela do preço condicionada ao cumprimento de metas após a transação tende a ser o ponto mais sensível, justamente por ser um mecanismo comum nos contratos e com cifra final variável. De acordo com o estudo, 52% das transações resultaram em algum pagamento de earnout aos vendedores, mas só 21% do valor máximo potencial foi desembolsado – o que por si só não significa embate ou pendência, mas mostra quão difícil é para o antigo dono levar muito mais do que a parcela principal do M&amp;A. O pagamento médio é de 51% do teto previsto. Parcela adicional da venda e questões tributarias criam embate entre vendedor e comprador Pixabay Em um terço das operações, houve de fato contestação do montante de earnout pelo vendedor. Em 35% das operações contestadas, a discussão resultou em aumento do pagamento, com US$ 157 milhões adicionais nas renegociações. Apenas 3% dos earnouts contestados chegaram a uma decisão por meio judicial ou arbitral. A base reúne 199 aquisições com earnout, fechadas desde 2021, que somam US$ 25,5 bilhões em valor de transação e mais de US$ 6 bilhões em pagamentos potenciais, considerando apenas negócios cujo período de performance já terminou. Na Hapvida, dois mais dois deu três O climão no board da Hapvida após nova carta da Squadra “Quando o pagamento de parte do preço depende de resultados influenciados por decisões de quem assumiu o controle, a ausência de salvaguardas contratuais adequadas pode transformar um mecanismo de alinhamento econômico em uma fonte relevante de litígios”, analisa o advogado de M&amp;As Rodrigo Baraldi, que reconhece a importância do earnout como instrumento para superar divergências de valuation e distribuir entre comprador e vendedor os riscos associados ao futuro. O estudo mostra que o prazo para o cumprimento das metas que levam ao earnout e o perfil do comprador também parecem associados ao desfecho. Naqueles em que o período de performance avaliado era de até um ano, 74% tiveram algum pagamento. O percentual cai para 49% nos que duram de um a dois anos e fica em 66% nos superiores a três anos. Em aquisições feitas por fundos de private equity, 72% dos earnouts tiveram algum nível de sucesso, ante 38% nas realizadas por compradores estratégicos americanos. Entre empresas-alvo de tecnologia, o índice foi de 66%. OCQ prorroga proposta por fábrica da Unigel até dezembro O que o STF tem a ver com o preço de venda da Prudential no Brasil Outros embates e temas aparecem nos pedidos de indenização. Na base de 587 aquisições usada para essa análise, 28% tiveram pelo menos um claim pós-fechamento. Ao todo, foram registrados 366 pedidos. A amostra inclui casos em que a garantia destinada a indenizações (depositada em conta escrow) teve que ser totalmente liberada. Cerca de 80% das demandas judiciais ou arbitrais decorrem de alegadas violações das declarações e garantias dadas pelos vendedores, as chamadas representations and warranties. Outros 19% estão relacionados a taxas e custos. Entre os 294 pedidos por quebra de declarações e garantias, questões tributárias são as mais frequentes, com 38% dos casos. Na sequência aparecem descumprimento de leis, com 15%; problemas de capitalização, com 10%; passivos não revelados, com 9%; e questões trabalhistas e contratos com clientes, ambos com 6%. Dados e cibersegurança representam 2%. Goldberg: ‘Dimensão de passivos fora de balanços é impressionante’ Gestora Buriti pede troca no conselho da Toky e critica governança “Os números reforçam a importância de uma due diligence orientada à identificação e à quantificação de riscos, mas também demonstram que a diligência prévia, isoladamente, não elimina as incertezas inerentes à operação”, avalia o advogado Leonardo Theon de Moraes, sócio do TM Associados, que atua nesse tipo de caso. “O desafio não é só ampliar a proteção contratual de uma das partes, mas estabelecer uma matriz de riscos consistente, com critérios objetivos de responsabilização.”",
+      "url": "https://pipelinevalor.globo.com/mercado/noticia/a-treta-pos-manda-96percent-das-transacoes-tem-ajuste-e-embate-depois-de-fechar.ghtml",
+      "published": "2026-09-24T09:33:04+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "Fashion",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "arezzo",
+        "avon",
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "arezzo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "avon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 24.0
