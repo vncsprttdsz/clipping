@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T12:52:16.140876+00:00",
-  "count": 505,
-  "new_this_run": 3,
+  "generated_at": "2026-09-25T13:05:45.492594+00:00",
+  "count": 506,
+  "new_this_run": 2,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -571,53 +571,6 @@
         }
       ],
       "score": 72.0
-    },
-    {
-      "title": "Sandoz obtém aval para venda de genérico do Ozempic no Canadá",
-      "summary": "A Sandoz recebeu autorização da Health Canada, autoridade regulatória do país, para comercializar uma versão genérica do Ozempic, medicamento desenvolvido pela dinamarquesa Novo para o tratamento do diabetes tipo 2 em pacientes adultos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/18/sandoz-obtem-aval-para-venda-de-generico-do-ozempic-no-canada.ghtml",
-      "published": "2026-09-18T12:54:21+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "genérico",
-        "medicamento",
-        "ozempic",
-        "sandoz"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "sandoz",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "genérico",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 68.0
     },
     {
       "title": "Redes farmacêuticas registram fortes quedas após anúncio do Mercado Livre",
@@ -4334,6 +4287,38 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Mercado Livre Farma não substitui compra na farmácia física, avaliam bancos",
+      "summary": "Para BTG, XP e Safra novidade acirra disputa por cliente digital",
+      "url": "https://exame.com/invest/mercados/mercado-livre-farma-nao-substitui-compra-na-farmacia-fisica-avaliam-bancos",
+      "published": "2026-09-25T09:53:50+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia",
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
           "field": "title",
           "score": 20,
           "topic": null
@@ -11742,6 +11727,29 @@
         {
           "sector": "E-commerce",
           "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras: é possível democratizar o acesso? - valor.globo.com",
+      "summary": "Canetas emagrecedoras: é possível democratizar o acesso? &nbsp;&nbsp; valor.globo.com",
+      "url": "https://valor.globo.com/google/amp/empresas/coluna/canetas-emagrecedoras-e-possivel-democratizar-o-acesso.ghtml",
+      "published": "2026-09-25T08:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
