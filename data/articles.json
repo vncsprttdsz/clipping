@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-25T06:14:19.871404+00:00",
-  "count": 491,
-  "new_this_run": 13,
+  "generated_at": "2026-09-25T09:12:50.438194+00:00",
+  "count": 501,
+  "new_this_run": 26,
   "articles": [
     {
       "title": "Mounjaro, Ozempic ou Wegovy? Ranking revela as canetas emagrecedoras mais buscadas no Brasil",
@@ -305,6 +305,77 @@
           "alias": "farmácias",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
+      "title": "Canetas emagrecedoras: perder peso não basta, é preciso saber emagrecer",
+      "summary": "A balança pode estar descendo enquanto a saúde caminha na direção contrária. É o que acontece quando alguém usa uma caneta emagrecedora, quase para de comer, não faz musculação e comemora cada quilo perdido sem saber se perdeu gordura, músculo ou os dois. Semaglutida, liraglutida e tirzepatida mudaram o tratamento da obesidade. Reduzem a fome, aumentam a saciedade e finalmente permitiram tratar como doença crônica aquilo que, por décadas, foi erroneamente encarado como falta de força de vontade. Mas a caneta é uma ferramenta, não um tratamento. A própria Organização Mundial de Saúde recomenda que seu uso integre um cuidado abrangente, com alimentação adequada, exercício e acompanhamento profissional. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/saude/ludhmila-hajjar/post/2026/09/canetas-emagrecedoras-perder-peso-nao-basta-e-preciso-saber-emagrecer.ghtml",
+      "published": "2026-09-25T07:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "canetas",
+        "canetas emagrecedoras",
+        "liraglutida",
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "liraglutida",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -624,6 +695,61 @@
           "alias": "drogaria",
           "field": "body",
           "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 64.0
+    },
+    {
+      "title": "Canetas emagrecedoras: é possível democratizar o acesso?",
+      "summary": "Poucas inovações médicas recentes provocaram impactos tão amplos e rápidos quanto os agonistas do GLP-1, popularmente conhecidos como “canetas emagrecedoras”. Desenvolvidos inicialmente para o tratamento do diabetes 2, com resultados muito positivos, medicamentos como semaglutida e tirzepatida inauguraram também uma nova era no enfrentamento da obesidade - uma epidemia que desafia sistemas de saúde do mundo todo. No Brasil, dados do Vigitel, do Ministério da Saúde, mostram que a proporção de adultos com obesidade passou de 11,8% em 2016 para 25,7% em 2024 - um crescimento de 118%. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/coluna/canetas-emagrecedoras-e-possivel-democratizar-o-acesso.ghtml",
+      "published": "2026-09-25T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "glp-1",
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -1484,54 +1610,6 @@
       "score": 54.0
     },
     {
-      "title": "Lula apela a pacote eleitoral com Bolsa Família e novo programa para endividamento às vésperas do primeiro turno",
-      "summary": "A pouco mais de duas semanas das eleições, o governo do presidente Luiz Inácio Lula da Silva começou a lançar um pacote eleitoral, com o desafio de tentar reverter o quadro de perda de popularidade, somado ao avanço de Flávio Bolsonaro nas pesquisas. Entre as medidas estão o reajuste de 15% do Bolsa Família e um novo programa para reduzir o endividamento das famílias. O aumento do piso do benefício acontece após o governo identificar uma perda de popularidade entre o público-alvo do programa, e que costuma ser fiel a Lula nas urnas: a parcela da população que recebe até dois salários mínimos. Em entrevista exclusiva ao jornal “Extra”, o ministro da Fazenda, Dario Durigan, antecipou que o governo deve anunciar a proposta de um novo programa de redução do endividamento das famílias. A ideia, segundo ele, é fazer uma espécie de “leilão” para que o governo viabilize a recompra, com deságio, de dívidas antigas dos consumidores. A iniciativa acontece em meio a níveis elevados de inadimplência das famílias brasileiras. Em um cenário de juros altos, o endividamento permanece como um problema, apesar do Desenrola 1 e 2. Além das novas medidas, fazem parte desse pacote dois projetos que foram enviados ao Congresso e ainda estão em tramitação. Um deles é o aumento do teto de faturamento para microempreendedores individuais (MEI) de R$ 81 mil para R$ 140 mil nos próximos anos. O outro é uma das grandes bandeiras do governo nesta campanha: a Proposta de Emenda à Constituição (PEC) que acaba com a escala 6x1. A análise do texto deve ficar para depois das eleições. Mesmo assim, a defesa da aprovação da proposta será um dos motes da campanha petista. O início dos anúncios acontece em um momento em que o governo se vê pressionado pelas repercussões negativas geradas pela crise do Supremo Tribunal Federal (STF). Em meio ao avanço de Flávio Bolsonaro nas pesquisas de intenção de voto, Lula passou a incorporar à campanha medidas que vão além da área econômica. Em agenda em Montes Claros (MG) nesta quinta-feira, o presidente afirmou que vai distribuir canetas emagrecedoras gratuitamente para pacientes com obesidade. No entanto, não detalhou a partir de quando a medida começará a valer. Em maio, o governo já havia imposto um ritmo acelerado a uma série de medidas voltadas à baixa renda e à classe média, chegando a lançar novas iniciativas a cada 3,5 dias, em média. A maioria delas consistia em medidas de crédito, lançadas antes de 4 de julho, quando começam a valer as regras de conduta do período eleitoral.",
-      "url": "https://oglobo.globo.com/politica/noticia/2026/09/18/lula-apela-a-pacote-eleitoral-com-bolsa-familia-e-novo-programa-para-endividamento-as-vesperas-do-primeiro-turno.ghtml",
-      "published": "2026-09-18T06:30:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Farmácias",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família",
-        "canetas emagrecedoras",
-        "endividamento",
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 50.0
-    },
-    {
       "title": "Canetas emagrecedoras no SUS: Lula faz anúncio, mas acesso ainda não tem data",
       "summary": "Presidente prometeu acesso a pessoas com obesidade mediante prescrição médica; projeto-piloto está em andamento",
       "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-no-sus-lula-faz-anuncio-mas-acesso-ainda-nao-tem-data",
@@ -2284,38 +2362,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "O Que a Recuperação Judicial da Casas Bahia Ensina sobre Remuneração Executiva",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Programas de incentivo da varejista não refletiam os desafios financeiros enfrentados pela companhia O post O Que a Recuperação Judicial da Casas Bahia Ensina sobre Remuneração Executiva apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/carreira/2026/09/fernanda-abilel-o-que-a-recuperacao-judicial-da-casas-bahia-ensina-sobre-remuneracao-executiva",
-      "published": "2026-09-18T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "recuperação judicial"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperação judicial",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Casas Bahia marca assembleia com acionistas sobre recuperação judicial de R$ 17 bi",
@@ -3811,6 +3857,37 @@
       "score": 40.0
     },
     {
+      "title": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de setembro! Resgate agora (24) - Estadão",
+      "summary": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de setembro! Resgate agora (24) &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/tecmundo/voxel/prime-gaming-amazon-luna-recebe-ultimos-jogos-gratis-de-setembro-resgate-agora-24",
+      "published": "2026-09-24T11:15:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Shopee vence Mercado Livre em preços, mas comparar ajuda a economizar, diz JPMorgan - Bloomberg Línea Brasil",
       "summary": "Shopee vence Mercado Livre em preços, mas comparar ajuda a economizar, diz JPMorgan &nbsp;&nbsp; Bloomberg Línea Brasil",
       "url": "https://www.bloomberglinea.com.br/negocios/shopee-tem-precos-menores-que-o-mercado-livre-em-59-dos-produtos-segundo-o-jpmorgan",
@@ -4250,6 +4327,37 @@
       "score": 40.0
     },
     {
+      "title": "Por Que Não Adianta Usar Canetas para Emagrecer sem Mudar o Estilo de Vida",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Estudo mostra que o peso tende a voltar após a interrupção dos medicamentos, reforçando que a obesidade exige tratamento contínuo e uma abordagem que vai além dos remédios O post Por Que Não Adianta Usar Canetas para Emagrecer sem Mudar o Estilo de Vida apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-saude/2026/09/agencia-einstein-por-que-nao-adianta-usar-canetas-para-emagrecer-sem-mudar-o-estilo-de-vida",
+      "published": "2026-09-25T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas para emagrecer"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas para emagrecer",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Farm recebe propostas até o fim do mês e atrai fundos de private equity",
       "summary": "Contratado pela Azzas, o Morgan Stanley deu até o fim do mês de setembro para que interessados na Farm Rio entreguem suas propostas não vinculantes pela rede, apurou o Pipeline. A marca é considerada a \"joia da coroa\" do grupo varejista e tem atraído interesse principalmente de fundos de private equity. Advent, GIC, CVC e L Catterton estão entre os investidores avaliando a operação, apurou o Pipeline. A transação, no entanto, não é considerada \"trivial\", segundo pessoas próximas às conversas, principalmente por preço e estrutura. Azzas: o custo do casamento e do divórcio entre Arezzo e Soma A venda da Farm faz parte do acordo de separação dos negócios de Arezzo&amp;Co, controlada por Alexandre Birman, e Soma, controlada por Roberto Jatahy. Na segregação, a Farm vai virar uma estrutura independente, com capital de ambos - que querem monetizar no patamar mais alto possível para cobrir os custos com a cisão e a perda de patrimônio com a desvalorização dos papéis de Azzas. O interessado em adquirir a Farm precisa também acomodar os interesses dos fundadores da marca, Kátia Barros e Marcello Bastos. \"A Kátia é a alma criativa da Farm, há dúvidas no mercado de quanto esse negócio valeria sem ela, se seria capaz de sustentar a mesma identidade e por isso é relevante mantê-la na estrutura de governança\", pondera um executivo do setor. Ou seja, além de fazer Birman e Jatahy chegarem num acordo sobre o valor de venda, o que por si só já tem sido um desafio, é necessário chegar a um acordo com Barros e Bastos. Após briga de sócios, Azzas será dividida em três: Arezzo, Soma e Farm Na venda da Farm, devagar com o andor Os acionistas miram alto. Segundo fontes, a companhia sinalizou que quer algo em torno de 15 vezes o Ebitda, múltiplo considerado \"muito alto\" pelos fundos e acima do negociado por redes de varejo de moda. O grupo Index, dono da Zara, é negociado a 13,7 vezes o EV/Ebitda. A ambição, assim, seria fazer negócio num patamar de US$ 1 bilhão, cerca de R$ 5,1 bilhões. A Azzas inteira vale em bolsa hoje R$ 3 bilhões. Na avaliação do J.P. Morgan, a empresa valeria entre R$ 4,4 bilhões e R$ 5,5 bilhões, considerando a projeção para vendas brutas em 2026 de R$ 3,7 bilhões, com margem Ebitda de 18%. O Citi, em relatório, estima algo mais perto de R$ 3,5 bilhões. Presente em 18 países, a Farm apresentou um faturamento de R$ 3,4 bilhões em 2025, respondendo por 23% da receita bruta da Azzas no ano passado. O Brasil responde por cerca de 60% das vendas segundo do J.P. Procurada, a Azzas disse que \"não comenta especulações de mercado\". Farm, marca da Azzas 2154, teve faturamento de R$ 3,4 bi em 2025 Reprodução",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/farm-recebe-propostas-ate-o-fim-do-mes-e-atrai-fundos-de-private-equity.ghtml",
@@ -4343,45 +4451,6 @@
         }
       ],
       "score": 38.0
-    },
-    {
-      "title": "Novo Desenrola já tem três em cada dez dívidas renegociadas sem pagamento",
-      "summary": "Três em cada dez operações de renegociação de dívidas no âmbito do novo Desenrola Brasil têm parcelas que não foram pagas, segundo dados do Fundo Garantidor de Operações (FGO) obtidos pelo GLOBO. Esse instrumento cobre a inadimplência nas operações de crédito realizadas no âmbito do programa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/18/novo-desenrola-ja-tem-tres-em-cada-dez-dividas-renegociadas-sem-pagamento.ghtml",
-      "published": "2026-09-18T07:00:01+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "inadimplência",
-        "renegociação de dívidas"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "renegociação de dívidas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 36.0
     },
     {
       "title": "Receita lança canal para empresários e empreendedores tirarem dúvidas sobre a reforma tributária",
@@ -4696,6 +4765,45 @@
       "score": 36.0
     },
     {
+      "title": "Governo lança novo programa para endividados; bets devem ser banidas",
+      "summary": "A poucos dias do 1º turno da eleição, o presidente Luiz Inácio Lula da Silva deve anunciar hoje novas medidas na tentativa de melhorar a imagem do governo. O pacote inclui novo programa para reduzir o endividamento das famílias e veto às bets. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/09/25/governo-lanca-novo-programa-para-endividados-bets-devem-ser-banidas.ghtml",
+      "published": "2026-09-25T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets",
+        "endividamento",
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Do Bolsa Família às canetas: em dificuldades, candidatos de Lula no Nordeste tentam surfar em 'pacote de bondades'",
       "summary": "Com disputas acirradas nos estados, os candidatos apoiados pelo presidente Luiz Inácio Lula da Silva (PT) aos governos da Bahia e de Pernambuco — os dois maiores colégios eleitorais do Nordeste — incorporaram na campanha referências ao \"pacote de bondades\" anunciado pelo petista na semana passada. Em busca da reeleição, o governador Jerônimo Rodrigues (PT-BA) aborda o reajuste de cerca de 15% no Bolsa Família. Já João Campos (PSB-PE) explora a promessa de Lula de distribuir canetas emagrecedoras pelo Sistema Único de Saúde (SUS) para pessoas com obesidade. Quaest: Após anúncio de reajuste no Bolsa Família, Flávio aparece com 42% e Lula tem 41% no segundo turno Quaest: Avaliação de que família Bolsonaro é mais afetada pelo Master cresce e supera menções ao STF Jerônimo foi às redes sociais elogiar a decisão do Planalto de aumentar o valor do Bolsa Família no mesmo dia em que a medida foi anunciada. Integrantes da campanha do governador — que aparece em situação de empate técnico com ACM Neto (União) em pesquisas — confirmaram ao GLOBO que o reajuste no benefício será um dos tópicos abordados nos atos de rua do petista até a ida dos baianos às urnas. \"O reajuste do Bolsa Família significa mais comida na mesa, mais dignidade e mais segurança para milhões de famílias. Aqui na Bahia, seguimos juntos com o governo do Brasil, combatendo a fome, reduzindo a pobreza e garantindo oportunidades para quem mais precisa\", escreveu Jerônimo no X. Initial plugin text A decisão de Lula de anunciar o reajuste menos de um mês antes da eleição foi considerada uma medida \"eleitoreira\" por especialistas ouvidos pelo GLOBO. Os novos valores começam a ser pagos na folha de outubro, a partir do dia 19. Ou seja, o aumento do programa social entrará em vigor entre o primeiro e o segundo turno das eleições, caso a disputa presidencial não seja definida em turno único. Canetas no SUS Já em Pernambuco, Campos publicou um vídeo ao lado da candidata ao Senado Marília Arraes (PDT) para tratar sobre a distribuição de canetas emagrecedoras pelo SUS. O ex-prefeito do Recife, que aparece numericamente atrás da governadora Raquel Lyra (PSD) em pesquisas, destaca o potencial de crescimento com a produção do medicamento no estado. — A gente vai enfrentar isso (obesidade) junto! Eu, você (Marília) e o presidente Lula. Vai ter caneta emagrecedora no SUS — disse Campos. Initial plugin text O tema foi abordado por Lula em agenda na quinta-feira passada, quando o petista sugeriu que o medicamento seria oferecido gratuitamente pelo sistema público. — Essa canetinha vai ser utilizada para cuidar, de graça, das pessoas que tenham obesidade. Quando o médico detectar que um homem ou uma mulher tem problema de se curar — afirmou Lula em visita ao novo complexo industrial da Eurofarma, em Montes Claros (MG). Como mostrou o colunista Lauro Jardim, a benesse foi concebida a despeito do alerta de que a oferta terá um custo de R$ 8 bilhões por ano e dificultará ainda mais o arranjo das contas públicas. Indefinição no Ceará No Ceará, onde outro governador apoiado por Lula está em disputa acirrada, a campanha de Elmano de Freitas (PT) ainda avalia se abordará os temas na campanha. O anúncio do reajuste do Bolsa Família está nas redes sociais do petista e foi abordado pelo antecessor no Palácio da Abolição Camilo Santana (PT). Não há até o momento, entretanto, previsão que as medidas anunciadas pelo presidente sejam abordadas no horário eleitoral ou em atos de rua de Elmano, no terceiro maior colégio eleitoral do Nordeste.",
       "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/22/do-bolsa-familia-as-canetas-em-dificuldades-candidatos-de-lula-no-nordeste-tentam-surfar-em-pacote-de-bondades.ghtml",
@@ -4790,6 +4898,53 @@
       "score": 32.0
     },
     {
+      "title": "O Globo e Globoplay indicados ao Caboré",
+      "summary": "O Prêmio Caboré, principal premiação da indústria de comunicação e marketing no país, divulgou ontem (24) os 42 indicados à edição de 2026. São três concorrentes em cada uma das 14 categorias, que contemplam empresas e profissionais do setor. Na categoria “Plataforma de Comunicação”, o Globoplay, plataforma digital de streaming de vídeos e áudios do Grupo Globo, concorre com a Impulso, operação de publicidade da RD Saúde, dona das redes de farmácias Raia e Drogasil. Também disputa a categoria a empresa de mídia exterior Neooh. Em “Produtor de Conteúdo”, o jornal O Globo, que completou seu centenário no ano passado, disputa o troféu com a CazéTV e a CNN Brasil. Já a categoria “Profissional de Veículo” tem entre os indicados Raphael Jimenez, diretor comercial da Eletromidia, empresa de mídia exterior pertencente ao Grupo Globo. Ele concorre com Laura Chiavone, executiva de agências da Meta; e Leo Khéde, diretor da Netflix Ads, divisão de publicidade da Netflix, na América Latina. Os vencedores da “coruja” - troféu do Caboré, inspirado na ave caburé - serão escolhidos pelos assinantes do “Meio & Mensagem” em votação on-line, aberta de 26 de outubro a 27 de novembro. O processo será auditado pela PwC. Serão anunciados em cerimônia marcada para 2 de dezembro, em São Paulo.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/25/o-globo-e-globoplay-indicados-ao-cabore.ghtml",
+      "published": "2026-09-25T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "drogasil",
+        "farmácias",
+        "raia",
+        "rd saúde"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "rd saúde",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "raia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "drogasil",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 32.0
+    },
+    {
       "title": "Prati-Donaduzzi anuncia R$ 1 bi para nova fábrica no Paraná",
       "summary": "O laboratório brasileiro Prati-Donaduzzi anunciou nesta terça-feira (22) R$ 1 bilhão de investimento para construção de nova fábrica em Toledo (PR). A unidade terá dez linhas de produção e será a quinta fábrica da empresa dedicada à produção de medicamentos sólidos. A farmacêutica não especificou quais remédios serão produzidos na unidade. A planta deve aumentar em 30% a capacidade instalada da farmacêutica, que saltará de 17 bilhões de doses para 22 bilhões anuais. Com as dez novas linhas de produção, o laboratório passará a contar com um total de 50 linhas produtivas. “Estamos ampliando nossa capacidade produtiva olhando não apenas para a demanda do mercado brasileiro, mas também para os nossos objetivos de internacionalização. Queremos construir hoje a estrutura necessária para que a companhia possa ampliar sua presença em outros mercados e competir cada vez mais em escala global”, disse, em comunicado, Eder Maffissoni, presidente do laboratório, que atua em genéricos, similares e medicamentos isentos de prescrição. Atualmente, o único mercado internacional da empresa são os Estados Unidos, onde opera com nutracêuticos. Mas o laboratório disse ter outros projetos em andamento, embora ainda sem previsão, no momento, de divulgação de novos mercados ou prazos para a entrada neles. A planta será construída no Biopark, parque tecnológico idealizado por Carmen e Luiz Donaduzzi, sócios-fundadores da farmacêutica, já que o atual perímetro industrial do laboratório, que também fica em Toledo (PR), atingiu o limite de ocupação. O parque, que já abriga um centro de distribuição da empresa, deve concentrar os próximos projetos de expansão do laboratório. Divulgação/Prati-Donaduzzi",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/22/prati-donaduzzi-anuncia-r-1-bi-para-nova-fbrica-no-paran.ghtml",
@@ -4867,65 +5022,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Chilli Beans negocia capital com fundos de special situations",
-      "summary": "A Chilli Beans está avaliando levantar recursos com os credores enquanto renegocia a dívida financeira de cerca de R$ 500 milhões, apurou o Pipeline. Não está descartada, contudo, um pedido de recuperação extrajudicial como parte da reestruturação financeira. A rede de óculos e acessórios vem discutindo com as gestoras de special situations Akron e Vega, que compraram debêntures da empresa no mercado secundário, a possibilidade de obter funding para financiar o capital de giro. A Chilli Beans tem cerca de R$ 90 milhões em debêntures e a maior parte da dívida está nas mãos de bancos entre eles Banco do Brasil, Caixa e Santander. Um rival para a Chilli Beans, outro para a Smart Fit: a aposta de Paulo Morais Casas Bahia contrata ex-Jive Mauá para comandar nova reestruturação Desde maio os investidores estão dando waiver nos pagamentos das debêntures e chegaram a liberar algumas garantias, como recebíveis, para a empresa poder levantar recursos até chegar a um acordo com os credores para renegociar toda a dívida. “A negociação está sendo amigável”, diz um credor. A discussão, por enquanto, passa por alongamento de prazo e redução de juros, sem desconto no valor da dívida. No fim de agosto, a Chilli Beans, liderada por Caito Maia, anunciou a chegada de André Dela Togna, ex-Galeazzi & Associados, como vice-presidente. Sua função é auxiliar a empresa na reestruturação. Chilli Beans renegocia R$ 500 mi Divulgação A crise financeira da empresa começou na época da pandemia, com a Chilli Beans tendo que financiar as operações dos franqueados. Com o aumento dos juros, o problema de liquidez da companhia se agravou. A reestruturação financeira está sendo negociada, em princípio, somente com credores financeiros e não envolve fornecedores. Para aumentar a receita, a Chilli Beans está apostando em novas avenidas de crescimento como a operação de óculos de grau da Chilli Beans, criada em 2019. A marca tem, ao todo, 1,3 mil pontos de venda e está presente em 20 países. Após St. Marche, Victor Leal tenta emplacar marca de maquiagem Procurada, a Chilli Beans afirma que \"mantém negociações construtivas com seus credores bancários, objetivando equalizar finanças\". Ao mesmo tempo, diz, vem implementando iniciativas operacionais \"para criar bases ainda mais sólidas para os próximos ciclos de crescimento que incluem parcerias com nomes relevantes da moda e iniciativas regionais que ampliarão o vínculo da marca com consumidores brasileiros de diferentes regiões.\"",
-      "url": "https://pipelinevalor.globo.com/negocios/noticia/chilli-beans-negocia-capital-com-fundos-de-special-situations.ghtml",
-      "published": "2026-09-18T09:00:01+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "Fashion",
-        "E-commerce",
-        "Varejo Alimentar",
-        "Academias",
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "chilli beans",
-        "maquiagem",
-        "smart fit",
-        "st. marche"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "chilli beans",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "st. marche",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Academias",
-          "alias": "smart fit",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Vendas no varejo do Reino Unido aumentam 0,5% em agosto apesar da aceleração da inflação",
@@ -5893,23 +5989,84 @@
       "score": 28.0
     },
     {
-      "title": "Em disputa eleitoral acirrada, governo abre saco de bondades",
-      "summary": "Pedra cantada por analistas de contas públicas há muito tempo, o reajuste do Bolsa Família foi anunciado nesta quarta-feira (17) num cenário de disputa eleitoral acirrada e crescimento das intenções de voto em Flávio Bolsonaro (PL), principal opositor do presidente Luiz Inácio Lula da Silva (PT) na corrida presidencial. O governo abriu seu saco de bondades. Além do aumento do benefício, o ministro da Fazenda, Dario Durigan, disse que virão novas vacinas contra o endividamento das famílias. O custo adicional de R$ 22 bilhões para o ano que vem, decorrente do aumento de 15% dos benefícios do Bolsa Família, chega 17 dias depois de o governo enviar ao Congresso Nacional sua proposta para o Orçamento de 2027 sem previsão de recursos para pagar o valor mais elevado. Assim, a proposta orçamentária precisará ser modificada para acomodar a nova despesa. Na divulgação do Orçamento de 2027, o ministro do Planejamento, Bruno Moretti, disse que o valor previsto para o programa na proposta orçamentária era o mesmo projetado para este ano. “O PLOA [Projeto de Lei Orçamentária Anual] também não trata dessa matéria [reajuste]”, disse. Na mesma entrevista, foi dito que o sucesso em rever para baixo as previsões de gastos obrigatórios ajudaria a melhorar o resultado fiscal do ano. Divulgado no final de julho, o mais recente relatório conhecido como “bimestral”, que traz projeções de receitas e despesas para o ano, já apontava para a abertura de espaço fiscal usada agora para explicar por que o governo decidiu agora reajustar o Bolsa Família. No documento, foi anunciado o desbloqueio de R$ 5,7 bilhões em despesas que estavam retidas para assegurar o cumprimento do teto de gastos do arcabouço. Isso foi possível porque as projeções anteriores para algumas despesas haviam sido revistas para baixo. O principal fator foi a queda de R$ 3,2 bilhões nas despesas com benefícios previdenciários. Quando questionados sobre o motivo da redução, integrantes da equipe econômica se limitam a dizer que a nova projeção foi calculada pela área responsável - no caso, o Ministério da Previdência. Dados da pasta mostram que houve aumento de 70% no número de pedidos de benefícios rejeitados no primeiro semestre deste ano, na comparação com igual período em 2025. As contas públicas deverão encerrar o atual mandato de Lula com um déficit nominal médio de 8,61% do Produto Interno Bruto (PIB), segundo o economista-chefe da Tullet Prebon, Fernando Montero. Nessa conta, são comparadas as receitas e as despesas, inclusive pagamento de juros. É um nível maior do que o de seus antecessores neste século. Ultrapassa, inclusive, o segundo mandato de Dilma Rousseff, que teve déficit nominal médio de 8,48% do PIB. “Vai ser pau a pau, nunca achei que seria fácil”, disse ao Valor um integrante da campanha de Lula, ao comentar o quadro da corrida eleitoral. A máquina de bondades é acionada para elevar as chances de vitória do incumbente. Este filme já foi visto antes.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/09/18/em-disputa-eleitoral-acirrada-governo-abre-saco-de-bondades.ghtml",
-      "published": "2026-09-18T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
+      "title": "Aposta eleitoral: custo de vida e jogos pautam disputa entre Flávio e Lula, que vai vetar bets a nove dias da eleição",
+      "summary": "A pouco mais de uma semana do primeiro turno, as campanhas do presidente Luiz Inácio Lula da Silva (PT) e de Flávio Bolsonaro (PL) acirraram o confronto político na propaganda eleitoral, nas redes sociais e em comícios ao trocarem acusações sobre temas que vão desde o custo de vida, passando pelo mercado de apostas esportivas até investigações relacionadas ao Banco Master e desvios nas aposentadorias do INSS. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/25/aposta-eleitoral-custo-de-vida-e-jogos-pautam-disputa-entre-flavio-e-lula-que-vai-vetar-bets-a-nove-dias-da-eleicao.ghtml",
+      "published": "2026-09-25T06:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
-        "bolsa família",
-        "endividamento",
-        "endividamento das famílias"
+        "apostas esportivas",
+        "bets"
       ],
       "matches": [
         {
           "sector": "Economia",
-          "alias": "endividamento das famílias",
+          "alias": "apostas esportivas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Anvisa proíbe propaganda da caneta emagrecedora Semavy após anúncios irregulares",
+      "summary": "Após identificar propagandas irregulares da caneta emagrecedora Semavy , a Anvisa (Agência Nacional de Vigilância Sanitária) decidiu editar uma medida mais drástica e proibir propagandas do medicamento. Leia mais (09/25/2026 - 06h00)",
+      "url": "https://www1.folha.uol.com.br/colunas/painel/2026/09/anvisa-proibe-propaganda-da-caneta-emagrecedora-semavy-apos-anuncios-irregulares.shtml",
+      "published": "2026-09-25T09:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora",
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Carta ao leitor: O endividamento que se transformou em uma encrenca nacional",
+      "summary": "Inadimplência entre cidadãos e de apuros financeiros no meio corporativo precisa ser devidamente reconhecida e enfrentada",
+      "url": "https://veja.abril.com.br/economia/carta-ao-leitor-o-endividamento-que-se-transformou-em-uma-encrenca-nacional",
+      "published": "2026-09-25T09:00:29+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento",
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -5917,19 +6074,12 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "lead",
-          "score": 8,
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 24.0
+      "score": 28.0
     },
     {
       "title": "Agenda de empresas: Assaí compra postos de combustíveis; TIM aprova R$ 515 milhões em proventos",
@@ -6091,6 +6241,45 @@
       "score": 24.0
     },
     {
+      "title": "Gigantes do setor de apostas perdem R$ 228 bi em valor de mercado com aperto regulatório no mundo",
+      "summary": "As cinco principais empresas do setor de apostas online listadas em Bolsa no mundo perderam R$ 228 bilhões em valor de mercado no último ano. A análise considerou três conglomerados de bets e duas fornecedoras de odds -os multiplicadores usados nas apostas esportivas-, todos atuantes em território brasileiro. Leia mais (09/25/2026 - 04h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/gigantes-do-setor-de-apostas-perdem-r-228-bi-em-valor-de-mercado-com-aperto-regulatorio-no-mundo.shtml",
+      "published": "2026-09-25T07:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas esportivas",
+        "apostas online",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "apostas esportivas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
       "title": "Com Bolsa Família, pacote de benefícios do governo Lula atinge R$ 227 bilhões e retoma comparação com Bolsonaro em 2022",
       "summary": "A menos de três semanas do primeiro turno, o reajuste do Bolsa Família reforçou a lista de benefícios anunciados pelo governo Lula durante a disputa pela reeleição. O aumento se soma a novos subsídios aos combustíveis, recursos para habitação e linhas de crédito, num movimento que tem paralelo com o de Jair Bolsonaro em 2022. Incluindo o subsídio aos combustíveis anunciado neste mês, a conta já chega a ao menos R$ 227 bilhões neste ano. A conta considera gastos orçamentários (despesas e redução de receitas) e créditos (que nem sempre são consumidos na íntegra e chegam à economia). O número ainda não inclui ainda o anúncio feito na quinta-feira por Lula de que canetas emagrecedoras serão distribuídas gratuitamente para pacientes com obesidade. O presidente, porém, não indicou quando a iniciativa passará a valer, nem mesmo se será neste ou em um eventual quarto mandato. Na fila: Governo reajusta Bolsa Família, mas 440 mil famílias ainda esperam na fila pelo benefício Arminio Fraga: ‘A palavra populismo surge quase instantaneamente’, diz ex-presidente do BC sobre reajuste do Bolsa Família A proximidade dos anúncios com a votação aproxima os dois períodos, mas há diferenças nos reajustes, nas fontes de dinheiro e na forma de acomodar as medidas nas contas públicas. O governo nega motivação eleitoral. No caso do Bolsa Família, sustenta que a passagem do benefício mínimo de R$ 600 para R$ 691 recompõe a inflação acumulada e só foi possível após uma revisão das despesas previstas para este ano. Em 2022, Bolsonaro elevou o Auxílio Brasil de R$ 400 para 600, uma alta de 50%, acima da inflação, através de uma alteração na Constituição. Anunciado na quinta-feira, o reajuste de Lula terá custo adicional estimado em R$ 5,8 bilhões neste ano, considerando os pagamentos a partir de outubro — entre o primeiro e o segundo turno das eleições —, e de R$ 22 bilhões em 2027. O dinheiro não aumentará o conjunto de despesas, mas irá tomar o espaço de outros gastos. Para o próximo ano, será necessário ajustar a proposta já encaminhada ao Congresso. Segundo o ministro do Planejamento, Bruno Moretti, uma redução de R$ 11,5 bilhões na projeção de despesas previdenciárias abriu espaço para o aumento em 2026. Trata-se de uma revisão do que o governo espera gastar, que permite direcionar parte dos recursos a outras despesas. Populista e ineficaz contra a pobreza: O que dizem especialistas sobre o reajuste do Bolsa Família Quatro anos atrás, o aumento do Auxílio Brasil integrou a chamada PEC Kamikaze, aprovada a três meses da eleição. O pacote autorizou R$ 41,2 bilhões para ampliar benefícios, incluindo auxílio-gás, e criar pagamentos para caminhoneiros e taxistas. Além dessas despesas, Bolsonaro promoveu cortes de tributos sobre combustíveis. Os combustíveis também voltaram ao centro dos anúncios de Lula. Em setembro, o governo apresentou medidas estimadas em R$ 7 bilhões por mês para reduzir os efeitos da guerra no Oriente Médio sobre os preços do diesel, da gasolina e do etanol no Brasil. Desse total, aproximadamente R$ 5 bilhões correspondem a subsídios ao diesel, pagos com recursos públicos. Outros R$ 2 bilhões representam a arrecadação da qual a União abre mão com a desoneração de PIS/Cofins sobre gasolina e etanol. Candidatos de oposição: Adversários de Lula criticam reajuste de 15% no Bolsa Família às vésperas das eleições As medidas têm previsão de encerramento no início de outubro, mas podem ser prorrogadas. Na habitação, houve, também neste mês, um reforço de R$ 500 milhões para os descontos concedidos às faixas 1 e 2 do Minha Casa, Minha Vida. Nesse caso, os recursos vêm do FGTS, formado por depósitos dos empregadores nas contas dos trabalhadores, e não diretamente do caixa do Tesouro. A oferta de crédito também cresceu nos meses que antecederam a campanha. Em junho, foram anunciados R$ 4 bilhões para a modalidade do Move Brasil voltada a motos, com recursos associados ao Fundo Garantidor de Operações (FGO) e ao FGTS. No mesmo mês, o Desenrola Adimplentes foi anunciado com outros R$ 4 bilhões do Tesouro destinados a financiamento. O peso dessas operações é uma diferença no desenho da expansão atual. Enquanto o Bolsa Família transfere dinheiro sem previsão de devolução, as linhas de crédito financiam compras e renegociações com pagamento pelos beneficiários. Já os fundos garantidores cobrem eventuais perdas, facilitando a concessão dos empréstimos. Essas iniciativas vieram depois de um conjunto de medidas já analisado por Marcos Mendes, pesquisador associado ao Insper. Em estudo publicado em junho para a XP, o economista estimou que as ações adotadas entre meados de 2025 e o fim de maio teriam impacto expansionista de R$ 215 bilhões em 2026. O número não correspondia apenas a gastos diretos. Eram R$ 97 bilhões em operações financeiras, principalmente crédito subsidiado com recursos do Orçamento; R$ 35 bilhões em fundos e ativos fora dele; e R$ 83 bilhões em despesas ou redução de receitas. Essa última parcela afeta o resultado primário, a diferença entre o que o governo arrecada e gasta, sem considerar os juros da dívida. Entre as medidas já contabilizadas estavam os R$ 30 bilhões anunciados em maio para financiar veículos de taxistas e motoristas de aplicativos. Portanto, essa modalidade do Move Brasil já integrava os R$ 215 bilhões. Os anúncios posteriores são apresentados separadamente, sem atualizar o total do estudo. Na avaliação do economista, o uso de crédito e fundos permite ampliar as políticas sem que todo o valor apareça nas despesas sujeitas ao limite de gastos, mas não elimina os efeitos sobre a dívida. Ele apontou o custo dos juros subsidiados e a destinação de recursos que poderiam ser usados para reduzir o endividamento. Em determinadas linhas, sua metodologia considerou o valor integral autorizado para financiamento. Por reunir despesas, renúncias e crédito, o total do estudo não é diretamente comparável aos R$ 41,2 bilhões da PEC de 2022. A comparação mais direta permanece nos benefícios e no momento dos anúncios: os dois governos ampliaram a transferência de renda durante a disputa pela reeleição, mas com aumentos de dimensões diferentes e caminhos distintos para financiá-los.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/18/bolsa-familia-reforca-agenda-de-beneficios-de-lula-e-retoma-comparacao-com-bolsonaro-em-2022.ghtml",
@@ -6234,144 +6423,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Pressão nas pesquisas e ação no TSE: as razões e possíveis consequências do reajuste no Bolsa Família anunciado por Lula",
-      "summary": "Pressionado por pesquisas que mostram um empate técnico na disputa com Flávio Bolsonaro (PL), o presidente Luiz Inácio Lula da Silva anunciou na quinta-feira, a pouco mais de duas semanas das eleições, o primeiro aumento do seu terceiro mandato para o Bolsa Família, de 15,04%. A medida foi tratada como um ato de “desespero” pelo principal oponente e abriu margem para questionamentos no Tribunal Superior Eleitoral (TSE). O primeiro pagamento com os valores já corrigidos será feito entre o primeiro e o segundo turno. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/18/pressao-nas-pesquisas-e-acao-no-tse-as-razoes-e-possiveis-consequencias-do-reajuste-no-bolsa-familia-anunciado-por-lula.ghtml",
-      "published": "2026-09-18T06:30:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Governo discutiu três cenários para o Bolsa Família e optou por reajuste mais amplo às vésperas da eleição",
-      "summary": "O governo de Luiz Inácio Lula da Silva (PT) discutiu ao menos três cenários de reajuste para o Bolsa Família , mas acabou escolhendo a correção linear dos benefícios . A opção é mais onerosa para as contas e vista por técnicos como menos eficiente em termos de desenho do programa, mas contempla um maior número de beneficiários às vésperas da eleição. Leia mais (09/18/2026 - 04h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/09/governo-discutiu-tres-cenarios-para-o-bolsa-familia-e-optou-por-reajuste-mais-amplo-as-vesperas-da-eleicao.shtml",
-      "published": "2026-09-18T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "‘Acho que a palavra populismo surge quase que instantaneamente’, diz Arminio Fraga sobre reajuste do Bolsa Família",
-      "summary": "O ex-presidente do Banco Central Arminio Fraga afirmou que “não dá para dissociar das eleições” o momento escolhido para anunciar o reajuste de 15% nos benefícios do Bolsa Família. Ele afirma que todo o aparato da política social merece uma grande revisão. O economista afirma que a sessão do Supremo Tribunal Federal (STF), na qual ministros bateram boca e foi pedido vista no pedido de abertura de processo contra Alexandre de Moraes, deixou uma sensação de impunidade. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/18/acho-que-a-palavra-populismo-surge-quase-que-instantaneamente-diz-arminio-fraga-sobre-reajuste-do-bolsa-familia.ghtml",
-      "published": "2026-09-18T07:00:01+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Reajuste do Bolsa Família dificulta colocar contas do governo em ordem, dizem analistas",
-      "summary": "Bráulio Borges: “Timing é eleitoreiro, e preocupa o sinal que se emite em termos de contas públicas” Anna Carolina Negri/Valor O reajuste do Bolsa Família deve tornar mais difícil o ajuste fiscal considerado necessário para estabilizar o endividamento público a partir de 2027, segundo economistas ouvidos pelo Valor. Ainda que tenha base legal, a medida, considerada como “eleitoreira” por alguns, tem impacto incerto nas urnas. Do ponto de vista econômico, especialistas apontam potencial limitado de redução da pobreza enquanto outros economistas dizem que o efeito na atividade pode ser afetado por queda menor da taxa de juros ou pelo alto endividamento das famílias. Segundo o governo, o reajuste apenas repõe a inflação desde 2023 e elevará a despesa do programa em R$ 5,8 bilhões este ano e em cerca de R$ 22 bilhões em 2027. O piso do programa sobe de R$ 600 para R$ 691 mensais e vale a partir de outubro. No fim de agosto, o governo enviou ao Legislativo a proposta de orçamento para 2027 (PLOA) sem contemplar aumento no programa. Para Flávio Serrano, economista-chefe do BMG, o desafio, pela LRF [Lei de Responsabilidade Fiscal], é arrumar espaço em 2027 para chegar ao resultado da PLOA. “Acho negativo, pois temos discutido a trajetória dos gastos públicos e do endividamento. Isso coloca mais pressão nas contas e tende a adicionar prêmios nas taxas de juros mais longas.” Para Rafaela Vitória, economista do Inter, o governo segue mirando no piso da meta. “Se há folga no orçamento, ela tem que ser usada para cumprimento da meta. É aumento de gasto permanente que impacta o orçamento de 2027, que não contemplava esse ajuste. Na PLOA já vimos aumento significativo de gastos sem incluir o Bolsa Família e uma superestimativa de receita.” Em nota da Warren, os economistas Felipe Salto e Josué Pellegrini avaliam que em 2026 a medida poderá usar espaço fiscal ainda existente, o que permite cumprir a meta fiscal do ano. Para 2027, no entanto, eles apontam maior dificuldade para chegar ao superávit primário de R$ 18,6 bilhões previsto na PLOA. A inclusão do reajuste faz o resultado inverter para déficit de R$ 4,6 bilhões, mas, ponderam, ainda possibilita o cumprimento da meta. Com as exceções permitidas, o piso do ano que vem é um déficit de R$ 28,1 bilhões. Mas Salto e Pellegrini criticam a política “feijão com arroz” de cumprir metas de resultado primário que não resultam em mudança da trajetória do endividamento bruto. Marcus Pestana, diretor-executivo da Instituição Fiscal Independente (IFI), órgão ligado ao Senado Federal, diz que a medida traz novo impacto para “orçamento já desequilibrado”. Ele aponta para uma divergência entre as projeções da IFI e do próprio governo em relação à PLOA de 2027. “O governo aponta um superávit efetivo de cerca de R$ 18 bilhões. E as contas da IFI, por uma série de motivos, como parâmetros de crescimento da economia, massa salarial diferente da estimada pelo governo e projeção de receitas e despesas, chegaram a um déficit efetivo de R$ 86 bilhões”. “Nós vamos inteirar, segundo as nossas projeções, 14 anos de déficit primário para o país que precisa de superávit 2,1% para estabilizar a relação dívida/PIB e contribuir para que as taxas de juros possam cair”, diz Pestana. Para Gabriel Leal de Barros, economista-chefe da ARX, a medida foi uma “surpresa negativa”. “As obrigações estão aumentando, o que cria problema ainda maior para recolocar as contas em ordem a partir do ano que vem. Então vai ter que queimar mais capital político para aprovar medidas com potência fiscal maior”, diz. Bráulio Borges, diretor da LCA e pesquisador do FGV Ibre, lembra que a Lei 14.601, de 2023, que reinstitui o Bolsa Família em lugar do então Auxílio Brasil, como foi batizado o programa no governo do ex-presidente Jair Bolsonaro, permite a correção do valor do benefício em 24 meses. De fato, diz, os pisos do Bolsa Família estavam congelados desde 2023. ”Mas o timing é eleitoreiro. E preocupa o sinal que se emite em termos de contas públicas, porque isso tem efeito cumulativo ao longo do tempo.” A partir do ano que vem, diz, “ameaça, sim, o cumprimento da meta fiscal”. E em termos de impacto eleitoral, Borges diz que o cenário é incerto. “Tenho dúvidas se a medida renderá algum tipo de bônus para Lula, porque dentro desse eleitorado que recebe Bolsa Família ele já tem uma taxa de intenção de voto bastante alta. Para 2027, diz Borges, como se trata de despesa de caráter continuado, o governo terá que mostrar o financiamento de valores para cobrir a despesa adicional, seja no remanejamento de despesas, seja em alguma medida arrecadatória. “Do ponto de vista da execução, começaremos 2027 com um contingenciamento bastante expressivo para acomodar essa despesa, se não vier nenhuma medida compensatória mais sustentável agora, como a aprovação de algum aumento de receitas, o que é pouco provável.” “Muita gente fala que no governo Bolsonaro teve a PEC Kamikaze, mas um erro não apaga outro”, declara Borges. No governo de Bolsonaro, a Proposta de Emenda à Constituição (PEC) Kamikaze - ou PEC Eleitoreira, como também ficou conhecida - elevou o valor do Bolsa Família a partir de agosto daquele ano e também ampliou o número de benefíciários, o que elevou o gasto no ano em R$ 12 bilhões, ou R$ 14,5 bilhões a preços de hoje, compara Borges. Barros lembra que a PEC Kamikaze foi declarada inconstitucional pelo Supremo Tribunal Federal dois anos depois. À época, a PEC, convertida em 2023 na Emenda Constitucional 123, autorizava despesas de R$ 41,2 bilhões fora do teto de gastos para conceder benefícios. Foi instituído um estado de emergência, o que possibilitou drible na lei eleitoral e nas regras fiscais. Vitória, do Inter, lembra que o reajuste vem em um momento em que o Bolsa Família deveria ser reavaliado, junto com outros benefícios incrementados ou sobrepostos desde 2023, como BPC, auxílio-defeso e vale gás. Vários benefícios foram criados nos últimos anos sem avaliação de resultados, diz. Do ponto de vista da atividade econômica, o reajuste no Bolsa Família eleva a massa de renda ampliada da economia brasileira em 0,2 ponto porcentual (p.p.) em 2026, de 4,3% para 4,5%, nos cálculos do economista Bruno Imaizumi, da 4intelligence. Para 2027, o avanço é de 0,3 p.p., levando a massa de renda de 3,3% para 3,6%. Para Imaizumi, dado que os beneficiários do programa têm propensão marginal muito maior a consumir, a medida poderá surtir um pequeno efeito sobre o consumo no último trimestre de 2026. “Para 2027, como vai ser válido para o ano todo, isso tende a se transformar em consumo maior das famílias” O efeito sobre o PIB, entretanto, será inferior ao aumento da massa de renda, porque parte do adicional de renda é poupada, utilizada para outros fins, como pagamentos de dívidas, avalia Imaizumi. Para Carlos Kawall, sócio-fundador da Oriz, a medida dificulta o esforço de redução de inflação, que agora vai entrar em período de notícias mais negativas na esteira da chegada do El Niño e da sazonalidade de fim do ano. “O Banco Central vai baixar menos os juros do que o possível e isso prejudica a capacidade de pagamento das famílias, que estão muito endividadas”, pondera. “Nesse sentido, a medida pode ser inócua, até contraproducente. Mira públicos específicos, mas acaba prejudicando um grupo maior de forma horizontal - famílias, empresas. Isso também pode gerar, à frente, mais uma rodada de medidas para atenuar o problema, como novas rodadas do Desenrola.” Daniel Duque, pesquisador do Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre) destaca que o reajuste generalizado, ou seja, no piso do benefício, tem potencial de redução da pobreza limitado. Para ele, um reajuste direcionado às famílias com crianças, que já recebem mais devido a condicionantes do programa, seria mais eficiente na redução da pobreza extrema. “A pobreza extrema está concentrada em famílias com crianças. O governo atual tentou melhorar a situação com os benefícios variáveis. O correto seria ajustar o benefício variável, o que seria mais barato e mais efetivo. Se fossem R$ 100 reais a mais a cada criança, o gasto seria menor e teria efeito maior sobre pobreza extrema”, diz Duque.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/09/18/reajuste-do-bolsa-familia-dificulta-colocar-contas-do-governo-em-ordem-dizem-analistas.ghtml",
-      "published": "2026-09-18T08:00:01+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Governo reajusta Bolsa Família, mas 440 mil famílias ainda esperam na fila pelo benefício",
-      "summary": "A pouco mais de duas semanas das eleições, o governo Lula anunciou nesta quinta-feira um reajuste de 15% no benefício do Bolsa Família, cujo valor mínimo passará de R$ 600 para R$ 690. A medida vai custar R$ 5,8 bilhões neste ano e R$ 22,7 bilhões em 2027. Ainda assim, 440.692 famílias esperam na fila para receber o benefício, mesmo cumprindo todos os pré-requisitos do programa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/18/apesar-de-reajuste-no-bolsa-familia-440-mil-familias-ainda-esperam-na-fila-pelo-beneficio.ghtml",
-      "published": "2026-09-18T09:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "“Milhões de vidas estão sendo salvas”, diz Jens Juul Holst, pioneiro das canetas emagrecedoras - VEJA",
-      "summary": "“Milhões de vidas estão sendo salvas”, diz Jens Juul Holst, pioneiro das canetas emagrecedoras &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/paginas-amarelas/milhoes-de-vidas-estao-sendo-salvas-diz-jens-juul-holst-pioneiro-das-canetas-emagrecedoras",
-      "published": "2026-09-18T09:00:07+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Shopee ocupou andares que eram do Master em prédio da Baleia na Faria Lima",
@@ -10468,6 +10519,29 @@
       "score": 20.0
     },
     {
+      "title": "Anvisa alerta para riscos da venda de tirzepatida em pó pela internet - A Crítica de Campo Grande",
+      "summary": "Anvisa alerta para riscos da venda de tirzepatida em pó pela internet &nbsp;&nbsp; A Crítica de Campo Grande",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVmVDZEowRWtEaGlDU2J5MzRJNC1CNWZzY3ZDb3E4UGZxZnpQZk5GRW9XejZmdWVlQzB2Wk44bkRLODU1UTh0NjZKOVFFd3Uxam9NVDFiTU9qbEpheEtMQm5XU1UyTlJpQUJYRVRsUGxHTGF3RlNGX01LRUpKZENUNW5MeFZfUWZ3a2s5ZEhtN1J4YWI2dlg0dloyUmNrQQ?oc=5",
+      "published": "2026-09-23T23:25:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Em debate para o Senado, Prado defende fim da escala 6x1, Tebet diz que não é de esquerda e Salles contesta 'voto útil' bolsonarista",
       "summary": "Os principais candidatos ao Senado por São Paulo tiveram novo embate na noite desta quarta-feira (23), em evento organizado pelo jornal O Estado de S. Paulo e a Fundação Armando Álvares Penteado (Faap). A disputa segue embolada, segundo pesquisa Quaest divulgada no mesmo dia, com empate triplo na liderança, ainda que com oscilação positiva de Guilherme Derrite (PP) e estagnação das ex-ministras do governo Lula, Marina Silva (Rede) e Simone Tebet (PSB). Derrite tem 16%, Marina, 13%, Tebet, 12%, e Prado, 8%, na Quaest para o Senado em São Paulo Na reta final, campanhas de Tarcísio e Prado se apegam a voto útil para frear Salles no Senado Tebet e Silva adotaram estratégias distintas. A primeira deixou claro aos espectadores que não se considera uma política de esquerda, ao discutir sobre o ECA Digital e ouvir ataques de um rival sobre parlamentares “estridentes” no Congresso que votaram contra a castração química de pedófilos. Também reforçou, a todo momento, o discurso de combate à corrupção, sugerindo que “a classe política tem que roubar menos” em uma pergunta sobre os resultados econômicos do atual governo. — A classe política tem que ter vergonha na cara, tem que roubar menos, combater desperdícios e privilégios. Propomos uma reforma para mexer na previdência privilegiada dos militares e teve resistência do Congresso. Não coloque palavras na minha boca, não disse que a culpa é do presidente Lula, ao contrário — disse ela. A ambientalista se declarou contra o modelo de emendas impositivas no Congresso, descrito por ela como uma \"subtração do orçamento público, sem transparência, por parlamentares inescrupulosos que usam esse dinheiro para se perpetuar no poder, quando não são evidentes os casos de corrupção\". E procurou trazer mais enfaticamente assuntos de interesse direto da campanha de Lula, como as reclamações da oposição, entre eles o senador e presidenciável Flávio Bolsonaro (PL), sobre o reajuste de 15% do Bolsa Família às vésperas da eleição. — O Bolsa Família foi reajustado no governo Bolsonaro, saiu de 400 para 600 reais, mas com data marcada, porque ia acabar no dia 31 de dezembro. O presidente Lula está fazendo reajuste para corrigir a inflação. Eleitoralismo é o que o candidato que hoje você apoia fez no passado — disse Silva, em tentativa de desgastar Derrite. O deputado lembrou que seu candidato a presidente era, na verdade, Flávio e ouviu como réplica que pai e filho eram “farinha do mesmo saco”. Derrite procurou marcar as adversárias com a credencial de aliadas de Lula e apostou no antipetismo como estratégia. A certa altura, aproveitou que Tebet tenta ganhar o seu segundo voto contra Prado para pedir uma “avaliação sincera” da ex-ministra do Planejamento sobre o resultado econômico. Ele também prometeu vincular o seu voto a presidente do Senado a uma revisão do processo de impeachment de ministros do Supremo, descartando apoiar Davi Alcolumbre, atualmente no cargo. — Lamentavelmente, o principal tema da eleição deste ano são os impeachments de ministros da Suprema Corte, tamanho os abusos que estão sendo cometidos. Jamais votarei em Davi Alcolumbre para ser reconduzido presidente do Senado e vou lutar pela revisão do regimento interno das Casas, porque é inadmissível a quantidade de pedidos engavetados — afirmou o candidato. Os embates na direita foram novamente protagonizados pelo deputado federal Ricardo Salles (Novo) e pelo presidente da Assembleia Legislativa do Estado (Alesp), André do Prado (PL). Salles, em quinto nas pesquisas, fez um apelo ao eleitor bolsonarista para não aderir à tática do “voto útil”, propagada de modo indireto na propaganda de Prado, que aparece como quarto colocado neste momento. — Está tudo em aberto. A campanha que o André do Prado começou a fazer por voto útil, obviamente, é uma campanha de quem quer ganhar no tapetão. Acho que o voto bom é em quem tem conhecimento e representa valores — disse Salles, que conseguiu transformar uma pergunta sobre saúde em ataques contra Valdemar Costa Neto, presidente do PL e aliado do concorrente ao Senado. O presidente da Alesp, por sua vez, surpreendeu ao defender o fim da escala 6x1, referente à jornada de trabalho de seis dias para um de descanso, desde que com contrapartidas a empresários por meio da desoneração da folha de pagamento. Ele tentou ainda associar Tebet ao PT e ao ex-ministro da Fazenda, Fernando Haddad (PT), que concorre ao governo do estado contra Tarcísio de Freitas (Republicanos), seu padrinho político. — Sou favorável, sim, que o trabalhador tenha uma jornada reduzida para ter mais convivência com a família e mais lazer, mas temos que discutir como vamos resolver as quatro horas que o empreendedor vai ter que pagar — declarou Prado. O debate também contou com as presenças do empresário Geraldo Rufino (Podemos) e da ex-vereadora paulistana Soninha Francine (Cidadania), que aparecem com 1% das intenções de voto na pesquisa da Quaest. Em raro momento de discordância entre eles na campanha, Rufino associou bets ao uso de drogas e pediu o banimento dos aplicativos de aposta, enquanto Francine defendeu apenas maior rigor na fiscalização para que o serviço não entre na ilegalidade e piore a situação.",
       "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/23/em-debate-para-o-senado-prado-defende-fim-da-escala-6x1-tebet-diz-que-nao-e-de-esquerda-e-salles-contesta-voto-util-bolsonarista.ghtml",
@@ -11020,6 +11094,29 @@
       "score": 20.0
     },
     {
+      "title": "Anvisa alerta para riscos de tirzepatida em pó vendida pela internet e aplicada em casa - Rádio Mirador",
+      "summary": "Anvisa alerta para riscos de tirzepatida em pó vendida pela internet e aplicada em casa &nbsp;&nbsp; Rádio Mirador",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPQXY2dlRHLVgtcWM4VHVWQ2RUUldsVnRsOG5FUGhCWEcxdktOUTRUUDZCYnNUcHByZWF5OGhnVk5VZ1MzYmF5ZmhkZ0NUTFI5VjFZUWFScDRHR0o0ckxjblo3RHQ5RDZKLUlBWl90Y2IwbURITDRlZWhGM0l5OGI5SFIxaWE1NVJ0a1dhdm5TbHBJNENkOE9JcVRFdWJkUl92azFnYmFmYmZvblV0eG94UFM0Z1JTaFk?oc=5",
+      "published": "2026-09-24T14:55:30+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Galípolo se diz preocupado com crédito predatório e defende medidas contra endividamento",
       "summary": "O presidente do Banco Central , Gabriel Galípolo , disse nesta quinta-feira (24) estar preocupado com a oferta de crédito \"agressivo ou até predatório\" e defendeu medidas preventivas e de transparência contra o endividamento dos brasileiros. Leia mais (09/24/2026 - 12h18)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/09/galipolo-se-diz-preocupado-com-credito-predatorio-e-defende-medidas-contra-endividamento.shtml",
@@ -11196,6 +11293,29 @@
         {
           "sector": "Viagens",
           "alias": "despegar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa alerta para venda irregular de tirzepatida em pó nas redes sociais - portal.rbnfm.com.br",
+      "summary": "Anvisa alerta para venda irregular de tirzepatida em pó nas redes sociais &nbsp;&nbsp; portal.rbnfm.com.br",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObGhwMDdjdlVVREdoTHFkRG1QRkMxZUhrOUVIb195OFRDSEJBUVJtN2NtTUtuU0NNVlJMU2lSaUpBd0puaHNfeS1mQTBwVDdXSExybE54ZHh5bjNCSlNpVDlUZFNFWjdnMzBRQzFMdFNxVzN0ek5ZcW1EUGVRQ0ZHWTdNWHZuWk5UQ0VHbDdWT1JsZTZOdW4xVnR3QmZweUttU2U3Yw?oc=5",
+      "published": "2026-09-24T18:05:14+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
           "field": "title",
           "score": 20,
           "topic": null
@@ -11449,6 +11569,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa alerta para riscos de tirzepatida em pó vendida nas redes sociais - Rádio São Francisco 97.7 FM - Anápolis",
+      "summary": "Anvisa alerta para riscos de tirzepatida em pó vendida nas redes sociais &nbsp;&nbsp; Rádio São Francisco 97.7 FM - Anápolis",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOUlMODQySTFNMFFfTGtrT3gtUEw1cjJ3cDhmWF9XcEdwYzNmQ2xDQkY1UmxwUFJBRnFja1dFNjhuUkZfa2dwVkFlX1FmY0hxdTljc2pNaUFVakI4WGgzX2tUZWRXQng4Mk92aWVkdDhyanh1OUswS0RvYUY1cEIwVXlmclNtSWRQNVpQM1VjbTRDLW1hVXByNHVGZFhPUWR3emhKYg?oc=5",
+      "published": "2026-09-24T21:59:12+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
           "field": "title",
           "score": 20,
           "topic": null
@@ -11725,6 +11868,98 @@
         {
           "sector": "Fashion",
           "alias": "riachuelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mercado Livre começa a vender remédio com receita em até uma hora",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/09/25/mercado-livre-comeca-a-vender-remedio-com-receita-em-ate-uma-hora.ghtml",
+      "published": "2026-09-25T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Após arrecadar R$ 19 bi com bets, Lula proibirá apostas no País de olho na reeleição",
+      "summary": "",
+      "url": "https://www.estadao.com.br/politica/coluna-do-estadao/apos-arrecadar-r-19-bi-com-bets-lula-proibira-apostas-no-pais-de-olho-na-reeleicao",
+      "published": "2026-09-25T08:30:00+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/politica/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Como escolher títulos de crédito privado em meio à alta da inadimplência",
+      "summary": "Mercado secundário mais líquido e emissões em alta ampliam as opções, mas saúde financeira, garantias e capacidade de pagamento seguem no centro da análise",
+      "url": "https://veja.abril.com.br/economia/como-escolher-titulos-de-credito-privado-em-meio-a-alta-da-inadimplencia",
+      "published": "2026-09-25T09:00:44+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "‘O que vivemos é lamentável’, diz Nasser Fares, um dos sócios da Marabraz",
+      "summary": "Empresário afirma esperar que o próximo governo melhore o ambiente de negócios",
+      "url": "https://veja.abril.com.br/brasil/o-que-vivemos-e-lamentavel-diz-nasser-fares-um-dos-socios-da-marabraz",
+      "published": "2026-09-25T09:00:48+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "marabraz"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marabraz",
           "field": "title",
           "score": 20,
           "topic": null
@@ -12075,6 +12310,68 @@
       "score": 16.0
     },
     {
+      "title": "Receita inovadora",
+      "summary": "A EMS lidera o ranking na categoria farmacêutico e beleza pelo terceiro ano consecutivo, enquanto aprofunda aposta nas canetas emagrecedoras — mas não só",
+      "url": "https://exame.com/revista-exame/receita-inovadora",
+      "published": "2026-09-25T06:00:30+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "ems"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "ems",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
+      "title": "Flávio disputa eleitor endividado com Lula e promete novo programa de renegociação, que virou vitrine petista",
+      "summary": "O endividamento das famílias entrou no centro da disputa entre Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL) na reta final da eleição. Com 82% das famílias brasileiras nesta condição, segundo dado da Confederação Nacional do Comércio (CNC), os dois principais candidatos ao Planalto passaram a apresentar propostas para atacar o problema. Enquanto o governo prepara uma nova medida para comprar dívidas antigas com desconto, Flávio promete criar o SOS Brasil, programa que prevê comprar débitos dos bancos e refinanciá-los pela Caixa Econômica Federal. O tema ganhou peso eleitoral em um momento em que quase uma em cada cinco famílias brasileiras já compromete mais da metade da renda com o pagamento de dívidas. Em julho, esse percentual chegou a 19%, o maior nível desde março. Entre as famílias endividadas, 85% têm débitos no cartão de crédito, segundo a Pesquisa de Endividamento e Inadimplência do Consumidor (Peic). É nesse eleitorado que Lula e Flávio passaram a disputar espaço. De um lado, o petista tenta ampliar uma política que já virou marca de seu governo e prepara uma nova ofensiva contra dívidas antigas. Do outro, o candidato do PL incorpora a renegociação ao seu programa econômico e promete descontos ainda maiores, mas ainda precisa explicar como pretende financiar e operacionalizar a proposta. A proposta de Flávio, contudo, está longe de ter um desenho fechado. Em uma live nesta semana, o senador afirmou que pretende criar um fundo com recursos de novas receitas de petróleo, imóveis da União e da securitização de créditos que o governo tem a receber. Segundo ele, o fundo poderia chegar a cerca de R$ 3 trilhões. Uma parte seria usada para reduzir a dívida pública e outra para investimentos em infraestrutura e para ajudar pessoas físicas endividadas. Na parte destinada aos consumidores, Flávio afirmou que o governo compraria as dívidas dos bancos e depois as refinanciaria pela Caixa, com juros mais baixos. O senador falou em descontos de até 90% sobre o valor devido e em uma carência de seis meses. Segundo ele, a redução das parcelas permitiria que famílias hoje comprometidas com dívidas pudessem “respirar” economicamente por um período e voltassem a consumir. O candidato, porém, não apresentou detalhes sobre como o mecanismo funcionaria. A proposta não estabelece quais dívidas poderiam ser incluídas, qual seria o público atendido, quais seriam os limites por pessoa, como seria calculado o desconto ou quanto a operação custaria aos cofres públicos. Também não foi apresentada uma engenharia financeira detalhada para chegar aos R$ 3 trilhões estimados por Flávio. A promessa aparece depois de meses em que o candidato e seus aliados vêm explorando o custo de vida e o endividamento das famílias como temas de campanha. Flávio tem publicado vídeos em supermercados mostrando preços de produtos e comparando os valores atuais com os registrados durante o governo de Jair Bolsonaro. Nos últimos dias, Daniella Marques, que integra sua equipe, também passou a produzir conteúdo nesse formato, mostrando compras de produtos para bebês e discutindo o impacto dos preços no orçamento das famílias. O movimento de Flávio ocorre enquanto a campanha de Lula passou a reagir ao tema. Como mostrou O GLOBO, o PT começou a estimular militantes a gravar vídeos em supermercados e comparar preços de alimentos, numa tentativa de responder ao discurso do adversário sobre o custo de vida. Um guia distribuído pela campanha orienta apoiadores a mostrar preços de itens do dia a dia e confrontá-los com os valores do período Bolsonaro. A estratégia de Lula é diferente da adotada por Flávio, mas o tema econômico já fazia parte da campanha petista em 2022. Naquele ano, Lula explorou a perda de poder de compra e o preço dos alimentos e levou ao horário eleitoral e a entrevistas a promessa de que os brasileiros voltariam a comer picanha e tomar cerveja - promessa que vem sendo cobrada constantemente por Fláivo. Na época, a campanha petista, que rivalizava com Bolsonaro, também usou a imagem de um prato de comida que vai ficando vazio para falar sobre inflação e fome. O endividamento, porém, se tornou uma agenda própria do governo Lula 3. O primeiro Desenrola, lançado em 2023, renegociou R$ 53,07 bilhões em dívidas de cerca de 15 milhões de pessoas. A segunda versão, lançada neste ano, negociou R$ 28,37 bilhões em dívidas entre maio e agosto, segundo dados do Ministério da Fazenda. Os resultados também mostram a dificuldade de resolver o problema apenas por meio de renegociações. Dados do Fundo Garantidor de Operações obtidos pelo GLOBO mostram que 30,34% das operações renegociadas no Novo Desenrola estavam inadimplentes em setembro. Segundo o ministro da Fazenda, Dario Durigan, a intenção é criar uma política para limpar o nome principalmente de pessoas com dívidas antigas que os bancos e empresas já têm pouca expectativa de conseguir cobrar. Diferentemente das versões anteriores do Desenrola, o consumidor não precisaria necessariamente entrar em uma plataforma para aceitar uma renegociação. A ideia em estudo é que o próprio governo faça um leilão e viabilize a compra dos débitos com desconto elevado.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/25/flavio-disputa-eleitor-endividado-com-lula-e-promete-novo-programa-de-renegociacao-que-virou-vitrine-petista.ghtml",
+      "published": "2026-09-25T06:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento",
+        "endividamento das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "BC inicia avaliação de viabilidade para integrar Pix com sistema de pagamento europeu",
       "summary": "O Banco Central do Brasil (BC) e o Banco Central Europeu (BCE) iniciam nesta quinta-feira uma fase de avaliação da viabilidade de interligação entre o Pix e o TIPs, sistema de pagamentos instantâneos da Europa. Segundo o BC, as instituições avaliarão aspectos técnicos, operacionais, jurídicos e de negócio relacionados à interligação das duas infraestruturas públicas de pagamentos. Após caso Master: Governo afrouxa regras de investimentos de fundos de previdência de servidores Bets: Lula discute medidas com ministros e avalia cenários para restringir apostas on-line O BC afirma que, considerando os fluxos econômicos e financeiros entre o Brasil e a área do euro, a interligação entre Pix e TIPS poderá contribuir para pagamentos transfronteiriços mais rápidos, eficientes e de menor custo entre as duas jurisdições. Fábio Graner: Se proibir bets, governo Lula terá de resolver como lidar com R$ 2,5 bilhões em outorgas pagas pelas empresas \"A iniciativa integra a agenda evolutiva do Pix e os esforços do BCB de interligação do sistema brasileiro de pagamentos instantâneos com infraestruturas similares multilaterais e de outras jurisdições”, diz o Banco Central em nota. Segundo o BC, essas interligações poderão permitir a realização de remessas internacionais e de transações de compra com disponibilização dos recursos em moeda local em poucos segundos. Quantas pessoas trabalham em home office no país? Veja mapa por capitais e onde o trabalho remoto mais avança “De forma mais ampla, a interligação de sistemas de pagamentos instantâneos tem o potencial de reduzir custos, aumentar a velocidade, ampliar o acesso e melhorar a transparência das transações transfronteiriças, em linha com os objetivos do Plano de Ação do G20 para o Aprimoramento de Pagamentos Transfronteiriços (G20 Roadmap for Enhancing Cross-Border Payments).​” Projeção: Fazenda reduz estimativas do crescimento da economia e da inflação em 2026 Em nota, o BC explicou que o TIPS foi criado para ser uma infraestrutura pan-europeia de liquidação instantânea em moeda de banco central, operando atualmente com o euro, a coroa sueca e a coroa dinamarquesa, com expansão prevista para outras moedas do Espaço Econômico Europeu.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/24/bc-inicia-avaliacao-de-viabilidade-para-integrar-pix-com-sistema-de-pagamento-europeu.ghtml",
@@ -12175,98 +12472,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Pastor da igreja de Mendonça publica vídeos sobre recessão, ‘forças ocultas’ e corrupção no Judiciário",
-      "summary": "O pastor Hernandes Dias Lopes, uma das lideranças da Igreja Presbiteriana de Pinheiros, a mesma frequentada pelo ministro André Mendonça, tem publicado vídeos ao longo dos últimos dias em que afirma que o Brasil está “à beira de uma recessão econômica”, com “forças ocultas” atuando nos bastidores para “pesar a mão” sobre certas pessoas. Em mensagens direcionadas aos fiéis, o líder religioso menciona o endividamento de empresas e das famílias brasileiras, utilizando princípios bíblicos para “aplicar a sabedoria divina” e “proteger as finanças”. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/09/pastor-da-igreja-de-mendonca-publica-videos-sobre-recessao-forcas-ocultas-e-corrupcao-no-judiciario.ghtml",
-      "published": "2026-09-18T07:00:01+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Por que o Brasil entrou na rota das grandes redes de hotéis de luxo internacionais",
-      "summary": "O renovado Sofitel em Ipanema terá diversos restaurantes, entre os quais o estrelado Lasai Divulgação No ano passado, o Brasil bateu um recorde e recebeu o maior número de turistas estrangeiros de sua história: 9,2 milhões. Esse avanço continuou no primeiro semestre de 2026 com mais de 5,2 milhões de visitantes internacionais, o que superou a meta do Plano Nacional de Turismo. Os dados ainda são insignificantes se comparados aos de um pequeno país como Portugal, que recebeu 32,5 milhões em 2025. De qualquer forma, servem para dar uma dimensão do gigantesco potencial de crescimento turístico brasileiro. Essa é uma das razões que explicam o interesse das redes hoteleiras internacionais de luxo por diversos territórios brasileiros. Entre as novidades há projetos no Amazonas, no Rio de Janeiro, na Bahia, no Ceará, no Rio Grande do Norte e, possivelmente, no Pantanal. No Rio, há cadeias como a francesa Accor, que inaugura o Sofitel Rio de Janeiro Ipanema em dezembro, e a canadense Four Seasons, que está fazendo um retrofit no antigo Hotel Marina, no Leblon, com abertura estimada para 2029. No início do ano que vem está prevista a reinauguração do Tropical Manaus, símbolo da hotelaria brasileira no passado, cujos proprietários são brasileiros, mas que será administrado pela rede americana Marriott. Em três estados do Nordeste, o destaque é a chegada da marca de luxo Anantara, que teve início na Ásia, mas hoje é mais presente na Europa. O sul da Bahia terá em poucos meses o Nano Beach, projeto pessoal de um empresário belga. A rede Anantara, topo de linha do grupo Minor, que já está presente no Brasil com o Tivoli, chega com projetos no Ceará e este Anantara Mamucabo, no litoral norte da Bahia Divulgação Claro que todos esses empreendimentos não são apenas destinados a estrangeiros e contemplam também os viajantes nacionais. De acordo com o anuário 2026 da Brazilian Luxury Travel Association (BLTA) realizado em parceria com o Centro Universitário Senac, no ano passado o turismo de alto padrão teve um faturamento bruto estimado em R$ 3,34 bilhões em hotéis, pousadas, lodges e resorts, com diárias médias de R$ 3.109. O anuário revela também que esse nicho é liderado em 70% por hóspedes nacionais e 30% por estrangeiros, dos quais os mais presentes são Europa (13%), América do Norte (9%) e América Latina (5%). O restante é pulverizado. O estudo mostra ainda que os destinos mais procurados são Rio de Janeiro, Foz do Iguaçu e Pantanal. “Acho que o Brasil nunca esteve tão em alta no cenário internacional no segmento de luxo, aquele que atrai o turista qualificado. Finalmente as grandes marcas perceberam que atributos brasileiros como a diversidade e a autenticidade são de fundamental importância para receber o viajante estrangeiro”, diz Camila Barretto, CEO da BLTA. “Isso provocou o interesse dessas redes renomadas a quererem estar presentes no Brasil.” Atualmente, na visão da executiva, as marcas não querem simplesmente chegar aqui e fazer um “copia e cola” de uma propriedade internacional que poderia estar em qualquer outro grande centro urbano ou numa praia. “Elas querem respeitar a identidade do lugar onde estão se inserindo. E fazem isso através do uso de materiais locais, saberes locais e da gastronomia da localidade para realmente vender o Brasil como destino”, avalia Barretto. “A gente vê uma mudança no comportamento do turista internacional, que não quer mais preencher checklists de viagem dizendo: ‘ah, eu vim aqui’.” Quando lhe dizem que os preços da hotelaria brasileira são altos, Barretto reage: mas altos comparados ao quê? “A gente oferece uma experiência de hospitalidade que pode competir em pé de igualdade com qualquer uma no mundo, onde se cobra milhares de dólares para você ficar hospedado uma noite. Por que um hotel em Paris pode custar cerca de € 1 mil por noite e um hotel em São Paulo não pode custar?” “Por que um hotel em Paris pode custar cerca de € 1 mil por noite e um hotel em São Paulo não pode custar?”, indaga Camila Barretto Ana Paula Paiva/Valor Ela acredita que essa visão ainda é decorrente de uma mentalidade do brasileiro que viaja e paga caro fora, mas que quando é em território nacional não quer pagar da mesma forma. Aí acha tudo caro. “A gente tem tanta coisa boa aqui, mas precisou vir a pandemia e fechar as fronteiras para o brasileiro descobrir o que temos.” A divulgação do Brasil no exterior é algo que precisa ser feito numa parceria entre o setor público e o privado, defende Barretto. “Não adianta apresentar o Brasil como um produto só. Temos 25 Brasis aqui. E não dá mais pra tratar o país como um destino de sol, praia, Carnaval e futebol. A gente tem riquezas que vão muito além disso.” Ao pensar em todos esses Brasis, de acordo com uma visão contemporânea, os hotéis devem promover um encontro entre a arquitetura e a vida e um cruzamento entre emoção e construção de forma a que o resultado espelhe o território onde se está. Preservando a identidade e dialogando com a natureza. Esse conceito de brasilidade é o motor do trabalho da arquiteta Patrícia Anastassiadis, que busca mesclar o que temos com inspirações em outras culturas conforme o projeto que assina. Atualmente, ela é responsável pela arquitetura dos hotéis Sofitel Ipanema e Four Seasons no Leblon. O Sofitel será inaugurado em dezembro, na avenida Vieira Souto, no antigo prédio ocupado pelo Ceasar Park que também já foi Sofitel. Mas tudo mudou, diz Anastassiadis. “Era um projeto totalmente fechado para a cidade do ponto de vista da arquitetura. A primeira coisa que fiz foi alterar isso e conectar o hotel ao Rio de Janeiro, ao estilo de vida carioca, porque o Rio é uma cidade onde a natureza se impõe e vemos as pessoas andando conectadas com o mar, com a calçada, com toda aquela energia.” O Sofitel (leia mais a respeito em ‘No universo do luxo, a importância do toque humano será cada vez maior’, diz executivo do maior projeto da Sofitel) faz parte do grupo Accor, que marca presença na cidade com outros dois hotéis: o Fairmont, em Copacabana, e o MGallery Collection, em Santa Teresa. Por se tratar de uma marca francesa, ao se debruçar sobre o retrofit do Sofitel Ipanema, a opção da arquiteta foi estabelecer uma ligação entre o Brasil e a França por intermédio da costa e encontrar o que existe em comum entre a Côte d’Azur e o Rio. “Hoje, o hotel é um destino”, diz a arquiteta Patrícia Anastassiadis Ana Paula Paiva/Valor “Desde o início minha ideia foi não fazer nada caricato. Há um estilo de vida comum entre o sul da França e o Rio. É essa vida pra fora, o mar, a brisa, as cores, uma coisa boêmia que reúne intelectuais e artistas. E nós temos também a música, a bossa nova: esse é um hotel que já abrigou muitos expoentes da música. Tentei fazer uma conexão por essa sensibilidade.” O hotel terá vários restaurantes e bares, e um deles será o novo Lasai, de Rafa Costa e Silva, que tem duas estrelas Michelin. O restaurante ocupará um dos andares mais altos do edifício e será totalmente envidraçado com vista para as ilhas Cagarras. “Nunca sonhei esse sonho”, diz Costa e Silva, que fechará a casa atual em Humaitá para transferir o restaurante para Ipanema. Uma parte da memória da cidade ficará para trás em 2029, quando o Hotel Marina, cantado na música “Virgem”, de Marina Lima e Antonio Cicero, perderá seu nome e passará a se chamar Four Seasons Hotel Rio de Janeiro. Com isso, as novas gerações não saberão que “o Hotel Marina quando acende/ Não é por nós dois/ Nem lembra o nosso amor”. O hotel, que marca a volta da rede ao Brasil, ocupará o prédio mais alto da região e terá aproximadamente 120 apartamentos e suítes projetados para oferecer vistas panorâmicas do Atlântico. Para isso passará por uma renovação completa da qual não se sabe ainda os detalhes. Apesar de estar envolvida no projeto há vários anos, a arquiteta Patrícia Anastassiadis não adianta como será sua atuação ali. “O Marina é uma música e, de alguma forma, levaremos isso para o projeto.” Ao falar da importância da arquitetura na hotelaria de luxo, ela diz que houve uma grande mudança nas últimas duas ou três décadas. “Antigamente a gente tinha um quarto de hotel ou um hotel que, de certa forma, era um momento dormitório. Você ia para vivenciar a cidade, e o hotel era um local bacana para dormir e descansar para o dia seguinte. Hoje, o hotel é um destino. Às vezes o que te atrai num lugar é o hotel. Isso acontece através de coisas tangíveis e intangíveis.” A holding Minor Hotels, que já está presente no Brasil com o Tivoli, chega agora com seu top de linha, o Anantara, com dois projetos: na Praia do Preá, no Ceará, e na vila de Baixio, no litoral norte da Bahia. No Rio Grande do Norte está em construção o Minor Reserve Collection, também de luxo, entre a Pipa e a Bahia Formosa. “Na nossa pirâmide, o Anantara está no topo, depois vêm Tivoli, NH Collection, NH, Avani e outras bandeiras”, diz Marco Amaral, vice-presidente de operações e desenvolvimento da rede. A Pousada Trijunção, no coração do Cerrado, busca oferecer ao visitante uma nova visão sobre o bioma onde está Albori Ribeiro/Divulgação A Minor começou na Tailândia em 1978, fundada pelo bilionário americano William Heinecke, um dos homens mais ricos do país, que ali estabeleceu residência. Ele é o principal acionista ao lado da família real da Tailândia. Hoje a rede possui cerca de 550 propriedades em 60 países. No Brasil, já tem cinco hotéis em operação: São Paulo, Praia do Forte e Feira de Santana, na Bahia, Curitiba e Belém. O primeiro Anantara a ser inaugurado aqui será o da Praia do Preá, em 2028. As tendências da hotelaria de luxo para Amaral devem ser uma mescla entre a tecnologia e o aspecto humano. “Se fala muito sobre individualizar, personalizar, e é sempre um pouco mais do mesmo. Nós focamos em facilitar a vida do cliente. Como facilitar o check-in, o check-out. Se você gosta de tomar café da manhã às 17 horas, por que vou restringir até às 10 da manhã?” Com tudo o que se tem falado de tecnologia e IA, ele acha que também é necessário manter um equilíbrio no luxo. “A tecnologia é tentadora porque está disponível e cada vez mais barata. Por outro lado, o ser humano está cada vez mais difícil de contratar, de reter. Ele é o mais caro, não pelo salário, mas pela formação contínua, pelo treinamento, pelo aprendizado de idiomas.” Nessa discussão, Amaral acredita que é aceitável num hotel quatro estrelas o room service ser entregue por alguma forma robótica, mas isso não vale para o check-in de um hotel no qual você vai pagar US$ 600. “Consideramos que, nesse caso, o check-in não pode ser feito por um humanoide ou por um robô. É preciso alguém que diga ‘Maria, como foi sua viagem? Você precisa de alguma coisa? Posso te acompanhar até o apartamento?’” Um debate como esse seria impensável anos atrás, mas agora é cada vez mais premente. Ainda neste ano, no fim de novembro, será aberto o Nanö Beach Hotel Subaúma, num vilarejo do norte da Bahia a 119 quilômetros de Salvador. O proprietário é o belga Antoine Painblanc, que chegou ao Brasil em 2017 e se apaixonou. “Na Bélgica sempre trabalhei em bares, restaurantes, com hospitalidade. E me encantei com a cultura brasileira, com a natureza e a mentalidade das pessoas.” O Nanö terá 30 bangalôs à beira-mar e cardápio assinado pela chef Alessandra Montagne, brasileira radicada em Paris que além de restaurantes próprios opera o do Museu do Louvre com uma equipe escolhida por Alain Ducasse, o chef mais estrelado do mundo. Será a primeira vez que Montagne assinará a carta de um restaurante no Brasil, e a ideia é que utilize ingredientes locais com técnicas europeias e que o resultado seja uma cozinha autoral. O Tropical Manaus, marco na cidade que hospedou diversas celebridades, será reinaugurado no ano que vem, agora com a bandeira Marriott Divulgação “Para mim era importante escolher alguém que realmente entendesse o Brasil como a Alessandra, mas que ao mesmo tempo tivesse uma forte experiência internacional para poder combinar técnica e sofisticação”, diz Painblanc. O projeto do hotel começou há mais de três anos, e o proprietário anuncia que um de seus focos é o spa, que será um complexo de última geração com terapias com tanques de imersão e flutuação, hamman (banho turco), ducha vichy e haloterapia (terapia com sal). Uma rede brasileira que se tornou conhecida por seus projetos de luxo com a cara de cada lugar é o Grupo OCanto. Ele está presente em Paraty, na Pousada Literária, na Fazenda Bananal; em Trancoso, com a Pousada Tutabel; e no coração do Cerrado com a Pousada Trijunção. Além desses três territórios, eles estudam um novo destino, que pode ser Pantanal ou Amazônia, mas ainda não querem adiantar nada oficialmente. “Por enquanto é um pouco cedo para falarmos disso, porque estamos num estágio sem muitos detalhes e definições. Nosso grupo de hospitalidade tem a ideia de desenvolver projetos de luxo que possam conectar o viajante com um destino de forma impecável”, afirma Pedro Treacher, diretor de hospitalidade do grupo. A maior dificuldade nesses locais recônditos do Brasil, como o caso do Cerrado, onde está a Trijunção, é oferecer, além das comodidades e de uma experiência de luxo, uma nova visão sobre o bioma onde está. “A pessoa passa quatro dias lá e é convidada a ter uma nova abordagem do Cerrado como protagonista.” Acho que o Brasil nunca esteve tão em alta no cenário internacional no segmento de luxo” Em termos práticos, tudo é difícil, da mão de obra aos insumos. As diárias são altas, começam em R$ 3.800 e vão até R$ 7 mil. “A gente atende um público muito exigente e imagina como é complicado satisfazê-lo quando estamos a seis horas de carro de uma capital como Brasília e a cidade mais próxima tem pouco menos de 7 mil habitantes”, diz Treacher. No ano que vem, o Tropical Manaus, que fez fama como um hotel de luxo na Amazônia nos anos 1970 e depois conheceu a decadência, será reinaugurado com a bandeira Marriott, a maior rede hoteleira do mundo. O que se pretende é resgatar a história do hotel que foi um marco na cidade, hospedou os príncipes Charles e Diana quando eram casados, Bill Clinton, Bill Gates e Pelé, entre outros. O novo Tropical terá 308 acomodações, que incluem 26 suítes, dois restaurantes, dois bares e uma estrutura gigante para eventos com 13 salas. Espera-se que seja um destino de congressos e casamentos. A reforma já consumiu mais de R$ 300 milhões e incluiu a renovação da infraestrutura. Muito mais vem por aí em breve. Redes internacionais como a Banyan Tree: Sustainable Hotels and Resorts também estão olhando para o Brasil, informa a CEO da BLTA. “Temos o Kempiski Laje de Pedra, que vai abrir em Canela, na Serra Gaúcha, mas não podemos falar só dessas marcas. Temos produtos nacionais em destinos remotos como a Casa Daia, em Camocim, no Ceará, uma região superinteressante, com uma natureza exuberante, no meio da Rota das Emoções, um destino que quase ninguém ouviu falar. É esse Brasil que precisamos mostrar e ainda temos muitas regiões inexploradas.”",
-      "url": "https://valor.globo.com/eu-e/noticia/2026/09/18/por-que-o-brasil-entrou-na-rota-das-grandes-redes-de-hoteis-de-luxo-internacionais.ghtml",
-      "published": "2026-09-18T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "“Eu Trabalho Pela Perpetuação Dessa Empresa”, Diz CEO da Veste Ao Falar sobre as Decisões da Virada",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Alexandre Afrange detalha a estratégia da dona de Le Lis, Dudalina, John John, BO.BÔ e Individual O post “Eu Trabalho Pela Perpetuação Dessa Empresa”, Diz CEO da Veste Ao Falar sobre as Decisões da Virada apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/09/veste-turnaround-estrategia-marcas-alexandre-afrange",
-      "published": "2026-09-18T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "le lis"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "le lis",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "'Fora da Bolha': Moraes, Gilmar e Dino preparam a pizza, Lula aquece a máquina e o pavor das 'surubas' do Master",
-      "summary": "O sétimo episódio do \"Fora da Bolha\", videocast semanal de O GLOBO que reúne jornalistas da redação para analisar os principais acontecimentos da campanha presidencial e das disputas estaduais, abordou o impacto eleitoral da sessão no Supremo Tribunal Federal (STF) sobre o caso envolvendo o ministro Alexandre de Moraes, o aumento do Bolsa Família a poucas semanas das eleições e a exigência do governo de Donald Trump para participação de ‘dissidentes políticos’ no pleito brasileiro. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/18/fora-da-bolha-moraes-gilmar-e-dino-preparam-a-pizza-lula-aquece-a-maquina-e-o-pavor-das-surubas-do-master.ghtml",
-      "published": "2026-09-18T09:09:22+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Fim de uma era: Warren Buffett, o megainvestidor mais famoso do mundo, será substituído por seu filho",
@@ -13848,6 +14053,121 @@
         {
           "sector": "Fashion",
           "alias": "riachuelo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Os bancos puxam a fila",
+      "summary": "Nenhum outro setor cresceu tanto em 2025. O desafio agora é sustentar o ritmo num ambiente de crédito mais caro e inadimplência crescente",
+      "url": "https://exame.com/revista-exame/os-bancos-puxam-a-fila",
+      "published": "2026-09-25T06:00:49+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Na mira das campanhas de Lula e Flávio, programa de compra de dívidas de inadimplentes pode custar até R$ 10 bilhões",
+      "summary": "Em preparação no governo Luiz Inácio Lula da Silva (PT) e anunciada também na campanha da candidatura mais competitiva da oposição, de Flávio Bolsonaro (PL), a ideia de um programa de compra de dívidas antigas e com inadimplência pode ter um custo estimado, tanto por técnicos do governo como da oposição, de até R$ 10 bilhões. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/fabio-graner/post/2026/09/na-mira-das-campanhas-de-lula-e-flavio-programa-de-compra-de-dividas-de-inadimplentes-pode-custar-ate-r-10-bilhoes.ghtml",
+      "published": "2026-09-25T07:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Correios: sete de nove parcerias previstas em plano de reestruturação ainda estão em fase inicial",
+      "summary": "Sete das nove parcerias previstas no plano de reestruturação dos Correios ainda estão em fase inicial ou sendo redesenhadas, de acordo com documentos encaminhados ao Tribunal de Contas da União (TCU) e obtidos pelo GLOBO. As duas mais adiantadas são o marketplace Mais Correios e a iniciativa para criar uma conta digital. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/25/correios-sete-de-nove-parcerias-previstas-em-plano-de-reestruturacao-ainda-estao-em-fase-inicial.ghtml",
+      "published": "2026-09-25T07:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Nem Bolsa Família breca queda de confiança do brasileiro",
+      "summary": "O Índice de Confiança do Consumidor (ICC) seguiu em setembro com sua sequência negativa pelo quinto mês de queda. O indicador caiu 0,5 ponto neste mês, após recuar 3,6 pontos em agosto, segundo a Fundação Getulio Vargas (FGV). O indicador está agora em 84,2 pontos, o menor nível desde novembro de 2022 (83,5 pontos). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/brasil/noticia/2026/09/25/nem-bolsa-familia-breca-queda-de-confianca-do-brasileiro.ghtml",
+      "published": "2026-09-25T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "confiança do consumidor"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "confiança do consumidor",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Vítimas da farra: populismo fiscal do governo Lula leva a juros altos e uma onda de empresas quebradas",
+      "summary": "Estímulos à economia ampliaram as pressões inflacionárias e o custo do crédito, levando a recordes de inadimplência, recuperações judiciais e falências",
+      "url": "https://veja.abril.com.br/brasil/vitimas-da-farra-populismo-fiscal-do-governo-lula-leva-a-juros-altos-e-uma-onda-de-empresas-quebradas",
+      "published": "2026-09-25T09:00:27+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
           "field": "lead",
           "score": 8,
           "topic": null
