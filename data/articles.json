@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T13:06:49.689689+00:00",
-  "count": 579,
-  "new_this_run": 10,
+  "generated_at": "2026-09-26T13:24:14.661042+00:00",
+  "count": 580,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -14053,6 +14053,29 @@
       "url": "https://valor.globo.com/financas/noticia/2026/09/26/nubank-estaria-em-conversas-iniciais-para-comprar-fintech-britnica-monzo-diz-site.ghtml",
       "published": "2026-09-26T12:33:03+00:00",
       "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Banco digital britânico considera possível venda para o Nubank, segundo Sky News - Bloomberg Línea Brasil",
+      "summary": "Banco digital britânico considera possível venda para o Nubank, segundo Sky News &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/2026/09/26/banco-digital-britanico-considera-possivel-venda-para-o-nubank-segundo-sky-news",
+      "published": "2026-09-26T13:09:37+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "E-commerce"
       ],
