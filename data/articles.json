@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-26T11:46:32.182067+00:00",
-  "count": 578,
-  "new_this_run": 16,
+  "generated_at": "2026-09-26T12:20:01.363484+00:00",
+  "count": 579,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -7223,6 +7223,37 @@
         {
           "sector": "Economia",
           "alias": "apostas esportivas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "O prazo final para as bets no Brasil depois da decisão do governo Lula",
+      "summary": "Perto do primeiro turno das eleições, presidente anunciou Medida Provisória que proíbe as apostas online no país",
+      "url": "https://veja.abril.com.br/economia/o-prazo-final-para-as-bets-no-brasil-depois-da-decisao-do-governo-lula",
+      "published": "2026-09-26T11:44:18+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas online",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
           "field": "lead",
           "score": 8,
           "topic": null
