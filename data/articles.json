@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T10:00:40.683231+00:00",
-  "count": 602,
-  "new_this_run": 13,
+  "generated_at": "2026-09-27T10:07:30.520994+00:00",
+  "count": 601,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -5923,37 +5923,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Maior supermercado do RS começou com 12 filhos no balcão e hoje é um império de R$ 8,8 bilhões",
-      "summary": "Francisco e Santina Zaffari, filhos de imigrantes italianos, abriram uma venda na frente de casa em Erechim em 1935",
-      "url": "https://exame.com/negocios/maior-supermercado-do-rs-comecou-com-12-filhos-no-balcao-e-hoje-e-um-imperio-de-r-88-bilhoes",
-      "published": "2026-09-20T10:02:10+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "supermercado",
-        "zaffari"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "zaffari",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "supermercado",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "MP de Lula para restringir bets divide Planalto e Fazenda",
@@ -15265,29 +15234,6 @@
       "score": 10.0
     },
     {
-      "title": "Varejo físico enfrenta concorrência online com lojas 'com alma' e experiências",
-      "summary": "Não há dúvida de que o varejo digital está mais do que consolidado no país. A concorrência com as telas, no entanto, não levará ao fim do comércio físico -desde que ele se atualize. Leia mais (09/20/2026 - 07h06)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/varejo-fisico-enfrenta-concorrencia-online-com-lojas-com-alma-e-experiencias.shtml",
-      "published": "2026-09-20T10:06:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "varejo digital"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "varejo digital",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
       "title": "Indústria de bets usa valores invesidos com publicidade e patrocínio contra ofensiva do presidente Lula",
       "summary": "A indústria de apostas tem ressaltado os prejuízos que, acredita, a restrição à publicidade de bets traria à cadeia de mídia. O argumento é usado antes de o presidente Lula assinar medida provisória para proibir cassinos online e endurecer as regras de publicidade das apostas esportivas. Leia mais (09/20/2026 - 13h34)",
       "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/09/industria-de-bets-usa-valores-invesidos-com-publicidade-e-patrocinio-contra-ofensiva-do-presidente-lula.shtml",
@@ -17054,6 +17000,29 @@
           "field": "lead",
           "score": 8,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "O rastro do dinheiro: quem fica com a liquidez no universo das PMEs brasileiras",
+      "summary": "ARTIGO: Estudo mostra quais segmentos conseguem combinar melhores margens, baixo endividamento e menor necessidade de crédito",
+      "url": "https://exame.com/exame-in/o-rastro-do-dinheiro-quem-fica-com-a-liquidez-no-universo-das-pmes-brasileiras",
+      "published": "2026-09-27T07:00:23+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 8.0
