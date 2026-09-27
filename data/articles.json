@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T10:39:14.298573+00:00",
-  "count": 604,
-  "new_this_run": 8,
+  "generated_at": "2026-09-27T12:26:31.500390+00:00",
+  "count": 608,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -5029,6 +5029,37 @@
       "summary": "Anvisa investiga 13 notificações de doença que causa perda de visão associadas a canetas emagrecedoras &nbsp;&nbsp; G1",
       "url": "https://g1.globo.com/saude/noticia/2026/09/27/anvisa-investiga-notificacoes-de-doenca-que-causa-perda-de-visao-associadas-a-canetas-emagrecedoras.ghtml",
       "published": "2026-09-27T06:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa investiga casos de perda de visão associados a canetas emagrecedoras - G1",
+      "summary": "Anvisa investiga casos de perda de visão associados a canetas emagrecedoras &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/saude/video/anvisa-investiga-casos-de-perda-de-visao-associados-a-canetas-emagrecedoras-14994748.ghtml",
+      "published": "2026-09-27T11:02:27+00:00",
       "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "Farmácias"
@@ -14611,6 +14642,29 @@
       "score": 20.0
     },
     {
+      "title": "Anitta em Paris é parte do plano: como Brasil virou peça-chave da L'Oréal, gigante de R$ 280 bilhões",
+      "summary": "Marca terá quatro brasileiras no Le Défilé, seu desfile anual durante a Semana de Moda de Paris, e avança no social commerce no Brasil",
+      "url": "https://exame.com/negocios/anitta-em-paris-e-parte-do-plano-como-brasil-virou-peca-chave-da-loreal-gigante-de-r-280-bilhoes",
+      "published": "2026-09-27T08:02:59+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "l'oréal"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "l'oréal",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Obesidade + Envelhecimento: uma Bomba para o SUS - Estadão",
       "summary": "Obesidade + Envelhecimento: uma Bomba para o SUS &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/tecmundo/frankito-o-curioso/obesidade-envelhecimento-uma-bomba-para-o-sus",
@@ -14657,6 +14711,29 @@
       "score": 20.0
     },
     {
+      "title": "Ele fará R$ 60 milhões com um 'Mercado Livre' para compras públicas de governos",
+      "summary": "O Portal de Compras Públicas aposta no Compra Simples para acelerar e simplificar compras de órgãos públicos",
+      "url": "https://exame.com/negocios/ele-fara-r-60-milhoes-com-um-mercado-livre-para-compras-publicas-de-governos",
+      "published": "2026-09-27T09:01:12+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "STJ derruba mecanismo de Rondônia para apuração da base de cálculo do ICMS-ST",
       "summary": "Decreto que ampliava possibilidades de cálculo, com possível favorecimento ao fisco, violou a Lei Kandir",
       "url": "https://www.jota.info/tributos/stj-derruba-mecanismo-de-rondonia-para-apuracao-da-base-de-calculo-do-icms-st",
@@ -14672,6 +14749,29 @@
         {
           "sector": "Economia",
           "alias": "icms-st",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Como as bets afetam as empresas brasileiras, segundo empresário à frente de empresa quase centenária",
+      "summary": "'Aposta em bets é um dinheiro que some', diz Alexandre Wiggers, presidente da Condor",
+      "url": "https://veja.abril.com.br/economia/como-as-bets-afetam-as-empresas-brasileiras-segundo-presidente-da-condor",
+      "published": "2026-09-27T11:00:22+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "title",
           "score": 20,
           "topic": null
