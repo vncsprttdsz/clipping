@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T10:13:15.930976+00:00",
-  "count": 603,
-  "new_this_run": 10,
+  "generated_at": "2026-09-27T10:16:30.232358+00:00",
+  "count": 604,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -14649,6 +14649,29 @@
         {
           "sector": "E-commerce",
           "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "STJ derruba mecanismo de Rondônia para apuração da base de cálculo do ICMS-ST",
+      "summary": "Decreto que ampliava possibilidades de cálculo, com possível favorecimento ao fisco, violou a Lei Kandir",
+      "url": "https://www.jota.info/tributos/stj-derruba-mecanismo-de-rondonia-para-apuracao-da-base-de-calculo-do-icms-st",
+      "published": "2026-09-27T10:12:18+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "icms-st"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "icms-st",
           "field": "title",
           "score": 20,
           "topic": null
