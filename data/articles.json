@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T12:26:31.500390+00:00",
-  "count": 608,
-  "new_this_run": 12,
+  "generated_at": "2026-09-27T13:10:33.325212+00:00",
+  "count": 609,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -863,6 +863,53 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "Depois das canetas, “kit Mounjaro” começa a ganhar espaço nas farmácias",
+      "summary": "Quando as canetas emagrecedoras começaram a chegar ao Brasil, ocupavam um espaço relativamente pequeno nas farmácias: as geladeiras. Mas hoje o fenômeno de consumo que desencadearam já se espalha por quase todos os corredores. De suplementos alimentares a dermocosméticos, uma nova cesta de produtos ganha força para atender às necessidades que podem surgir tanto dos [&#8230;] O post Depois das canetas, “kit Mounjaro” começa a ganhar espaço nas farmácias apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/finde/depois-das-canetas-kit-mounjaro-comeca-a-ganhar-espaco-nas-farmacias",
+      "published": "2026-09-27T12:50:36+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "title",
           "score": 20,
           "topic": null
