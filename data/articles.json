@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T13:58:41.631985+00:00",
-  "count": 609,
-  "new_this_run": 8,
+  "generated_at": "2026-09-27T14:18:18.920978+00:00",
+  "count": 612,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -1552,6 +1552,45 @@
           "alias": "obesidade",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa proíbe propaganda de ‘caneta emagrecedora’ à base de semaglutida - Portal Tempo Novo",
+      "summary": "Anvisa proíbe propaganda de ‘caneta emagrecedora’ à base de semaglutida &nbsp;&nbsp; Portal Tempo Novo",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVHQxYjZyeTRyU3BVUGhfdy1PYkhYcjFPVHZGLXppM21uRXI5eWFZT0tZVHUtd3BRZEJHTzFPclhQTDRKdksyWWg5RVdZVllLZTEtc0hZNjRDc0h1Q3lWWmwtZF8yYmpINFNuU0dUb21QbDJIS2RTS0pydGVXTXBzQlo1SThwc0h6MUVneGRSaUZ2SnNPalducWVmVlloQTVadDFGcjI3ZDM?oc=5",
+      "published": "2026-09-25T15:57:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -7858,29 +7897,6 @@
       "score": 22.0
     },
     {
-      "title": "Nubank põe Messi, Fórmula 1 e influencers na guerra pelos clientes americanos",
-      "summary": "Banco acelera gastos com marketing para construir a marca no maior mercado financeiro do mundo",
-      "url": "https://veja.abril.com.br/economia/nubank-poe-messi-formula-1-e-influencers-na-guerra-pelos-clientes-americanos",
-      "published": "2026-09-20T14:00:53+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Falta de definição do Senado pode levar CBS à Justiça já em 2027",
       "summary": "Tributarista sustenta que prazo de apenas 16 dias entre definição da alíquota e início da cobrança pode abrir discussão sobre a noventena",
       "url": "https://veja.abril.com.br/economia/falta-de-definicao-do-senado-pode-levar-cbs-a-justica-ja-em-2027",
@@ -14160,6 +14176,29 @@
       "score": 20.0
     },
     {
+      "title": "Anvisa proíbe propaganda da caneta emagrecedora Semavy - folhadecianorte.com",
+      "summary": "Anvisa proíbe propaganda da caneta emagrecedora Semavy &nbsp;&nbsp; folhadecianorte.com",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGhzNUkwY0pTZ0Z3Z0R6c09ZeWVYcTdpMXRXams4bmVMQWVpbmIzLWI3blRjLVJ2NnhQTDFaejFtTk1mWjV1Vy1KbWw4Szl3alVoS2lFYVlWOFhRbGJkcFNkQVpvS0szUFNSVVl5MkJWYUQxODRoMHR1R0kzVGs4cENyQ0FweVJrNllRZ2c3SGw2Z2Rhc0E?oc=5",
+      "published": "2026-09-26T10:34:13+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Universidades propõem a presidenciáveis limitar acesso ao Fies para reduzir inadimplência de alunos",
       "summary": "",
       "url": "https://www.estadao.com.br/politica/coluna-do-estadao/universidades-propoem-a-presidenciaveis-limitar-acesso-ao-fies-para-reduzir-inadimplencia-de-alunos",
@@ -14819,6 +14858,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Armani iniciará negociações para venda de participação com LVMH e L'Oréal",
+      "summary": "A Armani está prestes a iniciar negociações formais com os três potenciais investidores indicados no testamento de Giorgio Armani , enquanto define uma nova estratégia sem o estilista que manteve controle rígido sobre a empresa durante 50 anos . Leia mais (09/27/2026 - 11h02)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/armani-iniciara-negociacoes-para-venda-de-participacao-com-lvmh-e-loreal.shtml",
+      "published": "2026-09-27T14:02:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "armani"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "armani",
           "field": "title",
           "score": 20,
           "topic": null
@@ -17244,6 +17306,29 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Quer entender de perfume? Pergunte aos meninos da geração Alfa",
+      "summary": "Influenciados pelo TikTok, adolescentes viram alvo de marcas como Sol de Janeiro e Snif, que lançam colônias com preço entre o body spray e a perfumaria de luxo",
+      "url": "https://exame.com/casual/quer-entender-de-perfume-pergunte-aos-meninos-da-geracao-alfa",
+      "published": "2026-09-27T11:00:38+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "perfumaria"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "perfumaria",
           "field": "lead",
           "score": 8,
           "topic": null
