@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T16:47:11.734740+00:00",
-  "count": 648,
-  "new_this_run": 13,
+  "generated_at": "2026-09-28T17:02:03.874435+00:00",
+  "count": 649,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -15952,6 +15952,29 @@
         {
           "sector": "Farmácias",
           "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Ações do Nubank Despencam após Rumor de Aquisição do Banco Britânico Monzo - Forbes Brasil",
+      "summary": "Ações do Nubank Despencam após Rumor de Aquisição do Banco Britânico Monzo &nbsp;&nbsp; Forbes Brasil",
+      "url": "https://forbes.com.br/forbes-money/2026/09/nubank-cai-rumor-aquisicao-monzo",
+      "published": "2026-09-28T16:57:19+00:00",
+      "source": "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
           "field": "title",
           "score": 20,
           "topic": null
