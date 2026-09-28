@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T10:51:57.912397+00:00",
-  "count": 624,
-  "new_this_run": 7,
+  "generated_at": "2026-09-28T11:06:43.814655+00:00",
+  "count": 623,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -1656,6 +1656,45 @@
           "field": "title",
           "score": 20,
           "topic": "desenrola"
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "O detalhe que levou a Anvisa a proibir a Hypera Pharma (HYPE3) de divulgar a caneta emagrecedora Semavy - Seu Dinheiro",
+      "summary": "O detalhe que levou a Anvisa a proibir a Hypera Pharma (HYPE3) de divulgar a caneta emagrecedora Semavy &nbsp;&nbsp; Seu Dinheiro",
+      "url": "https://www.seudinheiro.com/2026/empresas/anvisa-semavy-caneta-emagrecedora-hypera-pharma-hype3-rsgp",
+      "published": "2026-09-28T10:55:32+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora",
+        "hype3",
+        "hypera"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "hype3",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "hypera",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 60.0
@@ -8084,52 +8123,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Caneta emagrecedora no SUS: promessa anima farmacêuticas, mas está longe de virar realidade - NeoFeed",
-      "summary": "Caneta emagrecedora no SUS: promessa anima farmacêuticas, mas está longe de virar realidade &nbsp;&nbsp; NeoFeed",
-      "url": "https://neofeed.com.br/negocios/caneta-emagrecedora-no-sus-promessa-anima-farmaceuticas-mas-esta-longe-de-virar-realidade",
-      "published": "2026-09-21T10:56:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:neofeed.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "A Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras - NeoFeed",
-      "summary": "A Dasa quer \"uma dose\" do mercado de R$ 18 bilhões das canetas emagrecedoras &nbsp;&nbsp; NeoFeed",
-      "url": "https://neofeed.com.br/negocios/a-dasa-quer-uma-dose-do-mercado-de-r-18-bilhoes-das-canetas-emagrecedoras",
-      "published": "2026-09-21T10:57:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:neofeed.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Estatal italiana de correios se torna controladora indireta da TIM Brasil",
