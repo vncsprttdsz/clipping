@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-29T07:06:14.510082+00:00",
-  "count": 679,
-  "new_this_run": 15,
+  "generated_at": "2026-09-29T09:24:37.269166+00:00",
+  "count": 687,
+  "new_this_run": 24,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -1104,6 +1104,53 @@
       "score": 68.0
     },
     {
+      "title": "Desenrola 3.0 não deve conter endividamento das famílias, dizem analistas",
+      "summary": "Lançado pelo governo na sexta-feira, o Desenrola 3.0, terceira edição do programa de renegociação de dívidas de pessoas físicas, deve ter efeito limitado sobre o endividamento das famílias, segundo especialistas. Embora possa ajudar consumidores a regularizar débitos antigos, o programa não altera as condições que levaram ao aumento do comprometimento da renda nos últimos anos e, por isso, não deve produzir uma melhora sustentada nos indicadores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/29/desenrola-30-nao-deve-conter-endividamento-das-familias-dizem-analistas.ghtml",
+      "published": "2026-09-29T07:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "desenrola",
+        "endividamento",
+        "endividamento das famílias",
+        "renegociação de dívidas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "title",
+          "score": 20,
+          "topic": "desenrola"
+        }
+      ],
+      "score": 68.0
+    },
+    {
       "title": "Redes farmacêuticas registram fortes quedas após anúncio do Mercado Livre",
       "summary": "A RD Saúde foi a segunda maior perda entre as ações que compõem o Ibovespa, nesta quinta-feira (24), atrás apenas da Natura. A rede de farmácias terminou o dia em queda de 5,38% nos papéis ON, cotados a R$ 18,45 cada. Outras redes farmacêuticas também registraram quedas após o anúncio. As ações ON da Pague Menos perderam 8%, fechando a R$ 3,45 cada, enquanto as da Panvel caíram 4,9%, para R$ 12,43. O Mercado Livre lançou, mais cedo, o programa “envios agora” para entrega em até um hora de mercadorias de até 15 quilos para qualquer categoria de produto. A companhia também passará a fazer envios de itens de farmácia com entregas em até 60 minutos, com início por São Paulo. Atualmente, a entrega de produtos pela plataforma é limitada ao estoque de uma farmácia na zona sul de São Paulo, com frete grátis em vendas a partir de R$ 19. O Mercado Livre começará ainda a vender, a partir desta quinta (25), remédios com receita médica ainda neste ano por meio de sua plataforma. Na RD Saúde e na Drogaria São Paulo, toda entrega é cobrada, com preços a partir de R$ 8, e não existe frete grátis, como no Mercado Livre. *Estagiário sob supervisão de Rodrigo Carro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/24/redes-farmacuticas-registram-fortes-quedas-aps-anncio-do-mercado-livre.ghtml",
@@ -1930,54 +1977,6 @@
       "score": 58.0
     },
     {
-      "title": "Bilionária canadense aposta no Brasil e passa a vender marca de skincare em farmácias",
-      "summary": "The Ordinary, que pertence ao grupo Deciem, amplia sua distribuição no país com parceria exclusiva com Raia e Drogasil e aposta em educação sobre ativos para conquistar novos consumidores",
-      "url": "https://exame.com/negocios/bilionaria-canadense-aposta-no-brasil-e-passa-a-vender-marca-de-skincare-em-farmacias",
-      "published": "2026-09-22T09:00:29+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Cosméticos",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "drogasil",
-        "farmácias",
-        "raia",
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "raia",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "drogasil",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 56.0
-    },
-    {
       "title": "Desenrola 3.0: saiba como vai funcionar novo programa de renegociação de dívidas, lançado a 9 dias das eleições",
       "summary": "O Desenrola 3.0, anunciado na sexta-feira pelo governo de Luiz Inácio Lula da Silva, mira acabar com até R$ 150 bilhões em dívidas das famílias brasileiras. Governo Lula faz um anúncio eleitoral a cada quatro dias às vésperas do pleito: bets e Desenrola 3.0 engrossam lista Entre maio e agosto: Novo Desenrola já tem três em cada dez dívidas renegociadas sem pagamento Como vai funcionar? A proposta é que a União compre com desconto mínimo de 90% as dívidas das instituições financeiras credora e repasse esse desconto para os devedores, que poderão quitar a dívida à vista ou parcelar o saldo remanescente. Ou seja, a União gastaria no máximo R$ 15 bilhões com o programa, que serão previstos nos Orçamentos de 2027 e 2028. O percentual efetivo, no entanto, será definido por meio de um leilão com os credores. A terceira edição do Desenrola foi antecipada pelo ministro da Fazenda, Dario Durigan, ao jornal Extra. Dívidas de até 4,5 anos A nova versão do Desenrola prevê a compra, em leilão, de carteiras de dívidas bancárias e não bancárias de até R$ 10 mil (valor original), inadimplidas entre 2 anos e 4 anos e meio, contados de 25 de setembro de 2026. Leilões Os leilões poderão ser realizados em lotes e segmentados por natureza da dívida — bancária ou não bancária — ao longo de 2026, 2027 e 2028. No primeiro lote, cujo processo deve ser iniciado em novembro, as dívidas elegíveis serão de cartão de crédito rotativo e parcela e de crédito pessoal sem consignação em folha. Veja argumentos: Advogados já veem chuva de ações contra proibição das bets, até no TSE Estão previstos posteriormente outros leilões com débitos de outros setores, como varejo e serviços básicos (água e luz, por exemplo). Atualmente, o montante de dívida negativada no país é de R$ 592 bilhões, com 83,9 milhões de pessoas negativadas. Cerca de 55% do estoque corresponde a dívidas não bancárias, como água, luz, telefonia e varejo; 20% referem-se especificamente a serviços de água, luz e energia. As dívidas que estão atrasadas há mais de dois anos somam R$ 300 bilhões. Com o recorte de dívida por operação de até R$ 10 mil e vencida a até 4,5 anos, o montante alcança cerca de R$ 150 bilhões. Aneel: bandeira tarifária será verde em outubro e contas de luz devem ter alívio Dessa forma, com R$ 15 bilhões, seria possível quitar 100% das dívidas elegíveis, mas o governo reconhece que o resultado deve ficar abaixo disso, uma vez que nem todos os credores devem querer ofertar a carteira. A estimativa é de que R$ 75 bilhões sejam efetivamente renegociadas, considerando a adesão parcial de credores e devedores. Até 15 milhões de pessoas poderão ser beneficiadas, segundo o governo. A apresentação afirma que o objetivo do programa é a \"aquisição e reestruturação de dívidas de pessoas físicas com instituições financeiras para reduzir o comprometimento da renda das famílias e conter superendividamento\". — Estamos propondo nessa nova modalidade do programa (Desenrola) que o Estado entre comprando essas dívidas e alcance 50% do total dessas dívidas bancárias. Estamos falando de limpar dessa carteira R$ 150 bilhões em dívidas. É muito forte, muito potente para que essas famílias possam recomeçar — disse o ministro do Planejamento, Bruno Moretti. Especialistas: Proibição de bets deve empurrar apostadores para sites ilegais, avaliam especialistas O Desenrola 3.0 foi lançado menos de um mês depois do encerramento da segunda versão do programa de renegociação de dívidas. Nas duas primeiras edições, o governo só facilitou as renegociações, garantindo as operações em caso de inadimplência, mas não comprou as carteiras diretamente. No Desenrola 2.0, o governo mirou dívidas de cartão, cheque especial e crédito pessoal com atraso de 90 dias a 2 anos. A renegociação, no entanto, foi feita diretamente entre os devedores e as instituições financeiras, com regras de desconto mínimo. Conforme mostrou o GLOBO, cerca de 30% das operações renegociadas por meio de novo parcelamento já tinham parcelas em aberto em setembro. Operação Segundo o governo, os leilões vão classificar as propostas pelo maior desconto ofertado e exigem que o credor entregue a totalidade dos créditos elegíveis de cada devedor, sem seleção parcial. A operacionalização poderá contar com a Caixa Econômica Federal e o Banco do Brasil, inclusive por meio de fundos de investimento em direitos creditórios (FIDC) dos quais a União participará como cotista. O desconto obtido pela União é repassado integralmente ao devedor, que poderá quitar a dívida à vista com o mesmo percentual de deságio, ou parcelar o saldo remanescente, acrescido de juros, em condições a serem definidas pelo Conselho Monetário Nacional. Cronograma Setembro/2026: publicação da MP Novembro/2026: publicação do chamamento para entrega de propostas. Dezembro/2026: entrega de propostas pelos credores. Janeiro/2027: homologação das propostas selecionadas. Fevereiro/2027: assinatura de contratos e início do repasse do deságio aos devedores (quitação à vista ou parcelamento).",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/26/desenrola-30-saiba-como-vai-funcionar-novo-programa-de-renegociacao-de-dividas-lancado-a-9-dias-das-eleicoes.ghtml",
@@ -2114,6 +2113,64 @@
       "score": 54.0
     },
     {
+      "title": "Fim das bets pode dar impulso ao varejo e aos bancos listados na Bolsa",
+      "summary": "Assaí, Grupo Mateus, Renner, C&#038;A e Nubank aparecem entre os nomes citados, mas efeito sobre resultados dependerá do destino da renda antes usada nas apostas",
+      "url": "https://exame.com/invest/mercados/fim-das-bets-pode-dar-impulso-ao-varejo-e-aos-bancos-listados-na-bolsa",
+      "published": "2026-09-29T05:00:31+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion",
+        "E-commerce",
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "bets",
+        "grupo mateus",
+        "nubank",
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo mateus",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 52.0
+    },
+    {
       "title": "Em um ano, técnica que capta aromas sem tocar nas flores ajudou a desenvolver três perfumes d'O Boticário",
       "summary": "O perfume liberado por uma flor viva pode variar conforme a espécie, o horário do dia e as condições em que a planta é cultivada. Algumas exalam mais moléculas aromáticas pela manhã; outras, durante a noite. Capturar esse cheiro sem colher ou danificar a planta é um desafio para a indústria de perfumes e cosméticos, principalmente quando as espécies são raras ou estão em extinção. Foi a partir desse problema que pesquisadores do Grupo Boticário desenvolveram a Green In, técnica patenteada pela empresa que permite mapear o aroma de flores, folhas e outras partes de espécies vegetais sem tocá-las. A tecnologia levou cerca de três anos e meio para ser concluída e já foi aplicada no desenvolvimento de três fragrâncias da linha Floratta. A pesquisa integra a estratégia de inovação do grupo em uma categoria que representa 27% do volume de seus negócios. Segundo a empresa, foram comercializadas aproximadamente 250 unidades de perfumaria por minuto em 2025, mais de quatro por segundo. A operação alcança uma escala de cerca de 400 mil frascos de perfumes e fragrâncias por dia. O processo utiliza uma redoma de vidro posicionada sobre a planta. Dentro dela, uma espécie de agulha revestida por um polímero captura as moléculas aromáticas liberadas no ar. O material é então analisado em laboratório para que os perfumistas consigam reconstruir aquele perfil olfativo. “A gente não toca na espécie. Colocamos uma redoma sobre a planta, sem encostar nela, e capturamos o que ela libera no ambiente”, afirma Gustavo Dieamant, diretor de pesquisa e desenvolvimento do Grupo Boticário. Gustavo Dieamant, diretor-executivo do Grupo O Boticário Divulgação Reprodução de aromas Os métodos convencionais de obtenção de ingredientes naturais podem exigir o corte ou a coleta de flores, folhas, raízes e outras partes das plantas. Além do impacto sobre a espécie, o processo nem sempre preserva todas as características percebidas quando ela ainda está viva. O desafio dos pesquisadores era registrar justamente esse aroma liberado no ambiente, incluindo sensações de frescor e naturalidade que podem se perder durante a extração. A solução começou a ser desenvolvida dentro do Quintana, estrutura de pesquisa e inovação instalada na fábrica do Grupo Boticário, em São José dos Pinhais, no Paraná. O espaço reúne laboratórios dedicados à obtenção de ingredientes e ao estudo de diferentes perfis olfativos. Uma de suas áreas é o Quintana Herbal, viveiro com 58 espécies da biodiversidade brasileira e de outros países. As plantas foram escolhidas por seu potencial de aplicação em fragrâncias e em produtos para a pele e os cabelos. A proximidade entre o viveiro e o laboratório permite que os pesquisadores identifiquem uma espécie de interesse, estudem o seu comportamento e realizem a captura das moléculas dentro da mesma estrutura. Três anos e meio de testes Embora existam no mundo mecanismos capazes de capturar partículas presentes no ar, o Grupo Boticário desenvolveu um equipamento adaptado às necessidades da perfumaria. A criação reuniu profissionais de diferentes especialidades. Engenheiros participaram da construção da estrutura, enquanto farmacêuticos, químicos, biólogos e agrônomos atuaram na escolha das espécies, na análise dos compostos e na avaliação das condições das plantas. Um dos principais desafios foi encontrar um polímero que absorvesse as moléculas aromáticas sem alterar a amostra. O material utilizado na ponta da agulha precisou ser substituído repetidas vezes durante o desenvolvimento. “O polímero precisou ser trocado cerca de dez vezes porque contaminava a amostra. Foram muitos testes, erros e ajustes”, diz Dieamant. A própria estrutura que sustenta a redoma também passou por adaptações. O equipamento precisava atender plantas de diferentes tamanhos e permitir que os pesquisadores aproximassem ou afastassem o sistema de captura sem encostar na espécie. Mesmo quando o estudo envolve uma árvore, não é necessário cobri-la por inteiro. A redoma pode ser posicionada próxima a uma pequena área da madeira, da folha ou da flor que represente o cheiro a ser analisado. Captura do cheiro Redoma captura o aroma das flores na técnica Green In Divulgação A Green In se baseia no método conhecido como headspace, utilizado para analisar compostos voláteis presentes no espaço ao redor de uma amostra. Primeiro, os pesquisadores observam em qual período do dia a espécie libera maior quantidade de moléculas aromáticas. Algumas flores apresentam maior atividade pela manhã ou à noite, enquanto determinadas folhas podem exalar mais compostos durante a tarde. No momento escolhido, a redoma é posicionada sobre a planta. O polímero presente na agulha atrai e retém as moléculas liberadas naquele ambiente fechado. O tempo necessário para a coleta varia de acordo com a espécie. “Há plantas que volatilizam muito rapidamente e outras que demoram mais. A captura pode levar de minutos a dias”, explica o diretor. Depois dessa etapa, a amostra segue para o laboratório e passa por análises como a cromatografia gasosa, que separa e identifica os compostos presentes no material. Os dados também são processados pelo chamado nariz digital, equipamento utilizado pelo Boticário desde 2019. A ferramenta leva aproximadamente dois a três minutos para apresentar aos pesquisadores um mapa das moléculas encontradas. “Ele entrega uma espécie de receita para a gente”, diz Dieamant. O nariz digital, no entanto, não cria sozinho a fragrância. A tecnologia indica a composição do aroma capturado, mas cabe aos perfumistas selecionar e combinar matérias-primas para reconstruir o acorde olfativo em laboratório. Segundo a empresa, o equipamento já auxiliou na formulação de mais de 100 fragrâncias desde 2019. A Green In passou a complementar essa estrutura ao permitir que o material analisado seja obtido diretamente de uma planta viva, sem a retirada de flores ou folhas. Para o Boticário, essa característica abre caminho para pesquisas com espécies raras ou ameaçadas, cujo uso por métodos tradicionais poderia ser limitado. “Há muitas plantas usadas na perfumaria que estão se tornando cada vez mais raras. Com a técnica, conseguimos preservar essas espécies e, ao mesmo tempo, estudar seu perfil olfativo”, afirma Dieamant. A companhia também associa a tecnologia à redução do tempo de análise. O desenvolvimento do equipamento consumiu três anos e meio, mas, uma vez capturada a amostra, o nariz digital consegue mapear seus componentes em poucos minutos. A criação da fragrância final ainda depende do trabalho dos perfumistas e de sucessivos testes de formulação. Outro ganho está na exclusividade. Como o processo foi desenvolvido internamente, a empresa consegue criar perfis olfativos próprios, baseados nas espécies e nas condições escolhidas pelos pesquisadores. “Uma vez que temos uma técnica própria, também conseguimos construir um DNA olfativo que é nosso”, diz Dieamant. A Green In foi utilizada no desenvolvimento de Floratta Rose Bouquet, lançada em 2025. Segundo o Grupo Boticário, o perfil olfativo criado a partir dessa pesquisa também orientou os lançamentos seguintes da linha: Rose Sucrée e Floratta Blue Crystal, apresentados em setembro deste ano. A empresa também reuniu aromas desenvolvidos a partir dessas pesquisas em uma coleção de ingredientes exclusivos, chamada Quintana Le Core, para uso na criação de futuras fragrâncias Apesar da inovação Green In, a tecnologia não substitui todos os métodos de extração empregados pela companhia. Dependendo da matéria-prima, principalmente no caso de algumas madeiras, outras técnicas podem ser mais adequadas. Sua principal aplicação está em situações nas quais o objetivo é registrar o cheiro de uma espécie viva, preservando a planta e as características do aroma liberado naturalmente no ambiente. Floratta Blue, perfume lançado em setembro pelo O Boticário Divulgação Banner da série Inovação de Resultado (Novo) Clayton Rodrigues Mais Lidas",
       "url": "https://epocanegocios.globo.com/empresas/inovacao-de-resultado/noticia/2026/09/em-um-ano-tecnica-que-capta-aromas-sem-tocar-nas-flores-ajudou-a-desenvolver-tres-perfumes-do-boticario.ghtml",
@@ -2159,45 +2216,6 @@
         }
       ],
       "score": 50.0
-    },
-    {
-      "title": "A inconstitucionalidade da inclusão da CBS e do IBS na base de cálculo do ISS",
-      "summary": "Cobrar ISS sobre os novos tributos cria cumulatividade reflexa incompatível com a reforma tributária",
-      "url": "https://www.jota.info/opiniao-e-analise/artigos/a-inconstitucionalidade-da-inclusao-da-cbs-e-do-ibs-na-base-de-calculo-do-iss",
-      "published": "2026-09-22T08:00:40+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "Após enxugar portfólio e acelerar lançamentos, Avon retoma prêmio de maquiagem",
@@ -2788,6 +2806,45 @@
       "score": 48.0
     },
     {
+      "title": "Canetas emagrecedoras no SUS: Ministério da Saúde estima investimento anual de R$ 1,5 bi",
+      "summary": "Pasta enviou pedido de incorporação do medicamento contra obesidade à Conitec; queda nos preços para rede pública pode chegar a 90%",
+      "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-no-sus-ministerio-da-saude-estima-investimento-de-r-15-bi",
+      "published": "2026-09-29T09:00:14+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Governo Lula faz um anúncio eleitoral a cada quatro dias às vésperas do pleito; bets e Desenrola 3.0 engrossam lista",
       "summary": "O anúncio do governo Luiz Inácio Lula da Silva sobre a proibição das bets e o programa de compra de dívidas da população nesta sexta-feira se soma a outras medidas apresentadas pelo governo federal neste mês, às vésperas da eleição de outubro. Nos 25 dias de setembro, foram 6 anúncios no total, uma média de uma bondade a cada 4 dias. Desenrola 3.0 mira R$ 150 bilhões em dívidas: veja como vai funcionar Veja argumentos: Advogados já veem chuva de ações contra proibição das bets, até no TSE Além do fim das bets, que agrada uma parcela do eleitorado que Lula precisa conquistar, e da nova cartada contra o endividamento, houve ainda este mês o reajuste de 15,04% do Bolsa Família, cujo valor estava congelado desde 2022, e a ampliação dos subsídios do diesel e da gasolina. Veja abaixo a lista de anúncios: Fim das bets Lula anunciou nesta sexta-feira a proibição das apostas de quota fixa no Brasil, tanto dos cassinos on-line quanto dos jogos que tratam de eventos reais, como partidas de futebol. O diagnóstico do presidente é de que as bets ganham dinheiro explorando o vício da população e de que são uma das causas do elevado endividamento das famílias. Compra de dívidas Depois de lançar dois programas para facilitar a renegociação das dívidas da população junto a credores, o governo resolveu agora comprar as dívidas mais antigas, da época da pandemia de covid-19, de modo a limpar o nome dos brasileiros. O Tesouro Nacional vai pagar a dívida para os credores, com um desconto elevado, e depois o cliente vai pagar a União em condições mais favoráveis. O novo programa está sendo chamado de Desenrola 3.0. Aumento do Bolsa Família O governo reajustou o Bolsa Família em 15,04%, variação da inflação de março de 2023, quando foi recriado o programa, até agosto. Dessa forma, o benefício mínimo passou de R$ 600 para R$ 691. Os outros auxílios que fazem parte do programa também aumentaram, como o adicional para famílias com crianças de até 6 anos e com mulheres grávidas ou que amamentam. Isenção da taxa das blusinhas Também em setembro o governo sancionou a lei que acabou com o imposto de importação sobre remessas internacionais de até US$ 50, a chamada taxa das blusinhas. De acordo com pesquisas, a cobrança, criada no governo Lula, era um dos principais fatores por trás da rejeição de Lula ante o eleitorado. Combustíveis mais baratos O governo ampliou os subsídios da gasolina e do diesel no início do mês. No caso da gasolina, o benefício subiu de R$ 0,44 por litro para R$ 0,63 por litro. Para o diesel, a subvenção subiu de R$ 1 para R$ 1,12. Além disso, foi adotada a isenção do Pis/Cofins sobre o etanol. A ampliação dos subsídios foi justificada pelo aumento do preço do petróleo no mercado internacional e pela crise no refino da commodity. Fila do INSS Lula anunciou que não há mais fila para o atendimento do INSS. O órgão passou a analisar mais pedidos de benefícios previdenciários e assistenciais por mês do que o número de novos requerimentos apresentados. No entanto, 200 mil requerimentos ainda aguardam uma resposta há mais de 45 dias, critério legal que o INSS adota para considerar que há uma fila por atendimento. O ministro da Previdência, Wolney Queiroz, disse que são casos mais complexos, principalmente relacionados ao Benefício de Prestação Continuada (BPC), que estão sendo tratados por grupos de trabalho específicos.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/25/governo-lula-faz-um-anuncio-eleitoral-as-vesperas-do-pleito.ghtml",
@@ -2986,6 +3043,53 @@
       "score": 44.0
     },
     {
+      "title": "Reserva de R$ 1,9 bilhão no Orçamento de 2026 pode acomodar perda de receitas com fim das bets",
+      "summary": "O Orçamento de 2026 tem uma reserva de R$ 1,9 bilhão para acomodar uma eventual necessidade de aumento da trava de despesas devido à perda de arrecadação com a proibição das bets no próximo relatório bimestral de avaliação de receitas e despesas, em novembro. Desenrola 3.0: saiba como vai funcionar novo programa de renegociação de dívidas, lançado a poucos dias das eleições Bets, Desenrola e Bolsa Família: com medidas às vésperas das eleições, Orçamento de 2027 precisará de reajuste de até R$ 42,3 bi No documento deste mês, o congelamento no Orçamento ficou em R$ 16,1 bilhões, sendo R$ 13,6 bilhões de um contingenciamento para cumprir a meta fiscal e um bloqueio de R$ 2,4 bilhões para obedecer o limite de gastos. ‘Coach’ de robô: veja como brasileiros ganham dinheiro gravando tarefas como faxina para treinar IA Com o fim das bets, definido pelo governo de Luiz Inácio Lula da Silva por medida provisória (MP) na última sexta-feira, a União deve deixar receber R$ 1,541 bilhão neste ano. Ao menos parte da perda de arrecadação nos três meses que faltam em 2026 poderia ser acomodada no Orçamento com a “reserva” de R$ 1,9 bilhões feita no relatório bimestral de setembro. Esse foi o montante “desbloqueado” na atualização orçamentária deste mês, após projeções mais favoráveis de despesas previdenciárias, assistenciais e com pessoal. Jogo: Monitoramento de associação de bets identifica quase 700 sites de apostas suspeitos e alerta para aumento de clandestinos com proibição Mas, na ocasião, o ministro disse que esse valor não seria liberado de imediato aos órgãos, mas, por conservadorismo, constituiria uma reserva para tratar alguma questão que aparecesse. O bimestral foi divulgado um dia antes do anúncio do fim das bets por Lula. — Na prática, estamos mantendo uma reserva. Esses recursos não estão liberados, a não ser que haja alguma emergência ou alguma questão que apareça. De modo, que possamos tratar essa emergência dentro do nosso limite fiscal. Surpresa, ‘chavismo’ e resistência a ‘desligar’: como foi a reunião das bets para definir contra-ataque à MP de Lula O aumento na contenção, no entanto, vai depender da evolução da trajetória e das expectativas de despesas e receitas até novembro, na próxima atualização orçamentária. Embora o fim das bets represente uma perda de arrecadação, poderia ser compensado por um aumento da projeção com outra receita, por exemplo, sem a necessidade de congelar outras despesas. Para o ano que vem, a perda de receita estimada é de R$ 5,150 bilhões e, para 2028, R$ 5,330 bilhões. Em 2027 e 2028, os valores serão ajustados nos orçamentos. De janeiro a agosto de 2026, a receita acumulada é de R$ 6,3 bilhões. Desde que o mercado regulado começou a valer, em janeiro do ano passado, a arrecadação foi de R$ 15,3 bilhões. Initial plugin text",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/29/reserva-de-r-19-bilhao-no-orcamento-de-2026-pode-acomodar-perda-de-receitas-com-fim-das-bets.ghtml",
+      "published": "2026-09-29T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets",
+        "bolsa família",
+        "desenrola",
+        "renegociação de dívidas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "desenrola",
+          "field": "lead",
+          "score": 8,
+          "topic": "desenrola"
+        },
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 44.0
+    },
+    {
       "title": "Família fundadora da H&M aumenta posição enquanto recuperação da varejista enfrenta dificuldades",
       "summary": "A família bilionária por trás da H&amp;M está aumentando discretamente sua participação na companhia, alimentando especulações de que poderia fechar o capital da varejista de moda. Os esforços de recuperação conduzidos pelo diretor-presidente, Daniel Erver, não conseguiram, até agora, impulsionar as ações ou elevar significativamente as vendas. A holding Ramsbury Invest, da família Persson, controlada principalmente por Stefan Persson, a pessoa mais rica da Suécia, comprou 36,8 milhões de ações da H&amp;M neste ano, mostram documentos regulatórios. Stefan Persson é filho do fundador da H&amp;M, Erling Persson, e pai do presidente do conselho de administração, Karl-Johan Persson. A família e entidades relacionadas detinham mais de 68% das ações da H&amp;M no fim de agosto, segundo o site da companhia, ante 49,5% no início de 2021. “É muito difícil interpretar isso de outra maneira que não seja a de que a estratégia deles é comprar gradualmente as ações restantes da companhia”, afirmou Sverre Linton, diretor jurídico da Associação Sueca de Acionistas, que representa pequenos investidores. “Poderíamos chamar isso de a mais lenta operação de fechamento de capital da Suécia”. Pelas regras suecas, acionistas que detêm 90% de uma companhia podem obrigar os demais a vender suas ações. Os acionistas minoritários seriam mais beneficiados por uma recuperação bem-sucedida que elevasse o preço das ações da H&amp;M ou por uma oferta em dinheiro “razoável” da família Persson, afirmou Linton. “Acredito que há muitos acionistas que estariam dispostos a aceitar uma oferta desse tipo neste momento”. O analista do Deutsche Bank Adam Cochrane espera que a família feche o capital da H&amp;M até 2030. A H&amp;M encaminhou perguntas da Reuters sobre as compras de ações à Ramsbury Invest, onde um porta-voz se recusou a comentar eventuais planos de fechamento de capital, afirmando apenas: “A família Persson acredita na companhia, é uma acionista de longo prazo e historicamente aumentou sua participação ao longo do tempo”. A H&amp;M enfrenta dificuldades para elevar as vendas em meio à redução dos gastos dos consumidores e à intensificação da concorrência de varejistas on-line de preços ultrabaixos, como a Shein, e da Inditex, proprietária da Zara. As ações da companhia perderam mais de 50% de seu valor desde que atingiram o pico em 2015. Erver assumiu o cargo de diretor-presidente em janeiro de 2024 com a missão de melhorar a rentabilidade e fortalecer a marca, mas ainda não conseguiu reaquecer o crescimento das vendas. As vendas caíram 1% no primeiro trimestre e ficaram estáveis no segundo. Os analistas esperam apenas um crescimento modesto no terceiro trimestre, cujos resultados serão divulgados pela H&amp;M na quinta-feira. “Talvez a família sinta que recebe tantas avaliações negativas do mercado que seria melhor simplesmente estar fora da bolsa e, assim, poder seguir com estratégias de prazo muito mais longo”, afirmou Peter Magnusson, gestor de portfólio da Cicero Fonder, em Estocolmo, que também espera que a família Persson feche o capital da H&amp;M. Bloomberg",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/23/famlia-fundadora-da-hm-aumenta-posio-enquanto-recuperao-da-varejista-enfrenta-dificuldades.ghtml",
@@ -3063,38 +3167,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Assaí expande farmácias e compra postos das lojas para lucrar com fluxo de clientes - Bloomberg Línea Brasil",
-      "summary": "Assaí expande farmácias e compra postos das lojas para lucrar com fluxo de clientes &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/assai-expande-farmacias-e-compra-postos-das-lojas-para-lucrar-com-fluxo-de-clientes",
-      "published": "2026-09-22T09:00:01+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Varejo Alimentar",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "assaí",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "assaí",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "On desafia Nike e Adidas com aposta no futebol e plano para crescer até 19% ao ano - Bloomberg Línea Brasil",
@@ -6024,6 +6096,37 @@
       "score": 40.0
     },
     {
+      "title": "Selic Preocupa, Mas Parcelamento e Mounjaro Animam a Espaçolaser (ESPA3)",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Empresa aposta em melhorias operacionais e melhora do NPS para manter performance no longo prazo, amortecendo efeitos dos juros elevados e da saída de acionista relevante O post Selic Preocupa, Mas Parcelamento e Mounjaro Animam a Espaçolaser (ESPA3) apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/09/espacolaser-estrategia-turnaround-estetica",
+      "published": "2026-09-29T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "espa3",
+        "espaçolaser"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "espaçolaser",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "espa3",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Mercado Livre entra na briga das entregas rápidas – e quer usar IA para se destacar",
       "summary": "O Mercado Livre quer acelerar ainda mais suas entregas no Brasil. A gigante do comércio eletrônico anunciou nesta quinta-feira (24), durante o Mercado Livre Experience, em São Paulo, uma nova modalidade logística que promete entregar produtos em até 60 minutos. Batizado de Envios Agora, o serviço começa a operar em bairros selecionados da capital paulista, com previsão de expansão gradual para outras regiões. A novidade faz parte de uma estratégia mais ampla da companhia para ampliar sua presença no comércio eletrônico brasileiro, combinando investimentos em infraestrutura logística, inteligência artificial e novos modelos de negócios. A empresa também anunciou a expansão de sua operação farmacêutica, que passará a comercializar medicamentos sob prescrição médica nos próximos dias. Segundo Fernando Yunes, vice-presidente executivo de Commerce para a América Latina e líder do Mercado Livre no Brasil, o Envios Agora permitirá a entrega de produtos de qualquer categoria, com peso de até 15 quilos, utilizando a rede de entregadores da companhia -- marcando ainda mais a entrada da empresa na briga contra empresas como iFood, Rappi e Daki, que já operam com entregas rápidas abaixo dos 60 minutos. A modalidade está em fase de testes em uma área restrita de São Paulo. De acordo com Roberta Donato, vice-presidente de Marketplace do Mercado Livre, a operação começou em uma região menor da cidade para que a empresa pudesse avaliar o funcionamento do serviço antes de ampliar sua cobertura. A intenção, segundo Yunes, é levar a modalidade a toda a capital paulista. A companhia, no entanto, não informou um prazo para atingir essa cobertura. Centro de distribuição do Mercado Livre em Cajamar, em São Paulo Mariana Letizio A iniciativa representa mais um movimento do Mercado Livre para reduzir o tempo entre a compra e a chegada dos produtos à casa dos consumidores. Atualmente, 59% das entregas rápidas realizadas pela empresa nas capitais brasileiras chegam até o dia seguinte. Em São Paulo, esse percentual é de 75%. Inteligência artificial para acelerar as entregas Para sustentar a expansão de sua operação, o Mercado Livre aposta na combinação entre infraestrutura física e inteligência artificial. Segundo Roberta Donato, a companhia processa atualmente 101 envios por segundo, com decisões apoiadas por algoritmos e robôs que ajudam a organizar o fluxo de mercadorias. A utilização dessas tecnologias permite reduzir em 70% os deslocamentos na operação logística, de acordo com os dados apresentados pela executiva. A inteligência artificial também está presente em outras etapas do comércio eletrônico. A empresa utiliza a tecnologia para catalogar e agrupar mais de 40 milhões de itens, com índice de capacidade informado de 95%, além de identificar proativamente 99% das infrações em sua plataforma. No atendimento ao cliente, a companhia afirma que a IA já resolve 9 milhões de conversas por trimestre, sendo 90% delas sem necessidade de intervenção humana. A empresa também desenvolveu dois agentes de inteligência artificial voltados aos vendedores. Um deles funciona como assistente de vendas disponível 24 horas por dia, auxiliando na criação de anúncios e na melhoria de títulos. Segundo Donato, 30 mil pequenas e médias empresas utilizam a ferramenta diariamente. O segundo assistente oferece recomendações para anúncios e alcança 10 mil vendedores semanalmente. Questionada sobre os resultados dessas ferramentas, Donato afirmou que a companhia está satisfeita com o nível atual de utilização, mas vê espaço para ampliar suas funcionalidades a partir do retorno dos próprios vendedores. A executiva destacou ainda que o Mercado Livre conta com 20 mil desenvolvedores e utiliza dados proprietários para aprimorar suas aplicações de inteligência artificial. Investimento bilionário em logística A expansão das entregas rápidas ocorre em meio a um ciclo de investimentos na infraestrutura brasileira do Mercado Livre. Segundo Yunes, a companhia passou de um investimento de R$ 1 bilhão no Brasil, em 2018, para um aporte previsto de R$ 57 bilhões em 2026. O valor considera investimentos em bens de capital (Capex) e uma parcela das despesas operacionais associadas ao desenvolvimento das prioridades estratégicas do negócio. Nos últimos dez anos, a empresa afirma ter aportado R$ 175 bilhões no país, considerando essa mesma combinação de investimentos e despesas estratégicas. Parte desses recursos foi destinada à ampliação da rede logística. O Mercado Livre inaugurou seu primeiro centro de distribuição no Brasil em 2017 e, desde então, expandiu a operação com diferentes modelos de armazenamento, triagem e distribuição de mercadorias. Atualmente, a companhia conta com 30 centros de fulfillment, modelo em que os produtos são armazenados antecipadamente e despachados após a realização da compra. Anteriormente, eram 21 unidades. Até o final de 2026, a previsão é chegar a 72 centros de distribuição de grande porte, com a abertura de 20 novas unidades ao longo deste ano. A operação também conta com 6,8 mil agências ativas, distribuídas por um em cada três municípios brasileiros. Segundo a empresa, 95% dos compradores estão a menos de três quilômetros de uma dessas unidades. A expansão logística também tem permitido que pequenos negócios alcancem consumidores de outras regiões. De acordo com Yunes, 61% das pequenas e médias empresas que vendem pelo Mercado Livre comercializam produtos para cidades diferentes daquelas em que estão localizadas. Além disso, três em cada cinco itens comercializados atravessam fronteiras estaduais. Mercado Livre amplia operação de farmácia Outra novidade anunciada durante o evento foi a expansão da operação farmacêutica da companhia. Após adquirir uma farmácia há cerca de um ano e obter a licença da Agência Nacional de Vigilância Sanitária (Anvisa), o Mercado Livre começará a vender medicamentos sob prescrição médica em sua operação própria nos próximos dias. A empresa também anunciou a ampliação do raio de atendimento da farmácia para toda a região metropolitana de São Paulo, com entregas que poderão ocorrer em até uma hora. Segundo Yunes, a decisão de ampliar a atuação no setor foi impulsionada pela demanda identificada durante a fase de testes da operação. O executivo afirmou que a companhia observou um volume elevado de buscas por medicamentos em sua plataforma, incluindo produtos de categorias que podem gerar desconforto aos consumidores durante a compra presencial. Além da farmácia própria, o Mercado Livre pretende incorporar redes farmacêuticas ao seu marketplace. A previsão é que três redes comecem a operar na plataforma em outubro. Até o final de 2026, a meta é contar com pelo menos 20 redes de farmácias comercializando produtos pelo Mercado Livre. A categoria farmacêutica também será contemplada pela nova modalidade de entregas rápidas anunciada pela companhia. Mais Lidas",
       "url": "https://epocanegocios.globo.com/empresas/noticia/2026/09/mercado-livre-entra-na-briga-das-entregas-rapidas-e-quer-usar-ia-para-se-destacar.ghtml",
@@ -6488,84 +6591,6 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 36.0
-    },
-    {
-      "title": "Desenrola 3.0 mira R$ 150 bilhões em dívidas; veja como vai funcionar",
-      "summary": "O Desenrola 3.0, anunciado nesta sexta-feira pelo governo de Luiz Inácio Lula da Silva, mira acabar com até R$ 150 bilhões em dívidas das famílias brasileiras. A proposta é que a União compre com desconto mínimo de 90% as dívidas das instituições financeiras credora e repasse esse desconto para os devedores, que poderão quitar a dívida à vista ou parcelar o saldo remanescente. Governo Lula faz um anúncio eleitoral a cada quatro dias às vésperas do pleito: bets e Desenrola 3.0 engrossam lista Entre maio e agosto: Novo Desenrola já tem três em cada dez dívidas renegociadas sem pagamento Ou seja, a União gastaria no máximo R$ 15 bilhões com o programa, que serão previstos nos Orçamentos de 2027 e 2028. O percentual efetivo, no entanto, será definido por meio de um leilão com os credores. A terceira edição do Desenrola foi antecipada pelo ministro da Fazenda, Dario Durigan, ao jornal Extra. A nova versão prevê a compra, em leilão, de carteiras de dívidas bancárias e não bancárias de até R$ 10 mil (valor original), inadimplidas entre 2 anos e 4 anos e meio, contados de 25 de setembro de 2026. Critérios adicionais de renda e de priorização de devedores poderão ser definidos por ato do Ministério da Fazenda. Os leilões poderão ser realizados em lotes e segmentados por natureza da dívida — bancária ou não bancária — ao longo de 2026, 2027 e 2028. No primeiro lote, cujo processo deve ser iniciado em novembro, as dívidas elegíveis serão de cartão de crédito rotativo e parcela e de crédito pessoal sem consignação em folha. Veja argumentos: Advogados já veem chuva de ações contra proibição das bets, até no TSE Estão previstos posteriormente outros leilões com débitos de outros setores, como varejo e serviços básicos (água e luz, por exemplo). Atualmente, o montante de dívida negativada no país é de R$ 592 bilhões, com 83,9 milhões de pessoas negativadas. Cerca de 55% do estoque corresponde a dívidas não bancárias, como água, luz, telefonia e varejo; 20% referem-se especificamente a serviços de água, luz e energia. As dívidas que estão atrasadas há mais de dois anos somam R$ 300 bilhões. Com o recorte de dívida por operação de até R$ 10 mil e vencida a até 4,5 anos, o montante alcança cerca de R$ 150 bilhões. Aneel: bandeira tarifária será verde em outubro e contas de luz devem ter alívio Dessa forma, com R$ 15 bilhões, seria possível quitar 100% das dívidas elegíveis, mas o governo reconhece que o resultado deve ficar abaixo disso, uma vez que nem todos os credores devem querer ofertar a carteira. A estimativa é de que R$ 75 bilhões sejam efetivamente renegociadas, considerando a adesão parcial de credores e devedores. Até 15 milhões de pessoas poderão ser beneficiadas, segundo o governo. A apresentação afirma que o objetivo do programa é a \"aquisição e reestruturação de dívidas de pessoas físicas com instituições financeiras para reduzir o comprometimento da renda das famílias e conter superendividamento\". — Estamos propondo nessa nova modalidade do programa (Desenrola) que o Estado entre comprando essas dívidas e alcance 50% do total dessas dívidas bancárias. Estamos falando de limpar dessa carteira R$ 150 bilhões em dívidas. É muito forte, muito potente para que essas famílias possam recomeçar — disse Moretti. Especialistas: Proibição de bets deve empurrar apostadores para sites ilegais, avaliam especialistas O Desenrola 3.0 foi lançado menos de um mês depois do encerramento da segunda versão do programa de renegociação de dívidas. Nas duas primeiras edições, o governo só facilitou as renegociações, garantindo as operações em caso de inadimplência, mas não comprou as carteiras diretamente. No Desenrola 2.0, o governo mirou dívidas de cartão, cheque especial e crédito pessoal com atraso de 90 dias a 2 anos. A renegociação, no entanto, foi feita diretamente entre os devedores e as instituições financeiras, com regras de desconto mínimo. Conforme mostrou o GLOBO, cerca de 30% das operações renegociadas por meio de novo parcelamento já tinham parcelas em aberto em setembro. Operação Segundo o governo, os leilões vão classificar as propostas pelo maior desconto ofertado e exigem que o credor entregue a totalidade dos créditos elegíveis de cada devedor, sem seleção parcial. A operacionalização poderá contar com a Caixa Econômica Federal e o Banco do Brasil, inclusive por meio de fundos de investimento em direitos creditórios (FIDC) dos quais a União participará como cotista. O desconto obtido pela União é repassado integralmente ao devedor, que poderá quitar a dívida à vista com o mesmo percentual de deságio, ou parcelar o saldo remanescente, acrescido de juros, em condições a serem definidas pelo Conselho Monetário Nacional. Cronograma Setembro/2026: publicação da MP Novembro/2026: publicação do chamamento para entrega de propostas. Dezembro/2026: entrega de propostas pelos credores. Janeiro/2027: homologação das propostas selecionadas. Fevereiro/2027: assinatura de contratos e início do repasse do deságio aos devedores (quitação à vista ou parcelamento).",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/25/desenrola-30-mira-r-150-bilhoes-em-dividas-veja-como-vai-funcionar.ghtml",
-      "published": "2026-09-25T21:55:12+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets",
-        "desenrola",
-        "dívidas das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "dívidas das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0
-    },
-    {
-      "title": "Apostas: governo publica MP que proíbe as bets no Brasil",
-      "summary": "O governo do presidente Luiz Inácio Lula da Silva publicou nesta sexta-feira no Diário Oficial da União, a medida provisória (MP) que proíbe totalmente o funcionamento de casas de apostas on-line no Brasil. Uma outra MP cria o Desenrola 3.0, também anunciado nesta sexta-feira, que mira acabar com até R$ 150 bilhões em dívidas das famílias brasileiras. A proposta é que a União compre com desconto mínimo de 90% as dívidas das instituições financeiras credora e repasse esse desconto para os devedores, que poderão quitar a dívida à vista ou parcelar o saldo remanescente. A MP das bets proíbe, no território nacional, a exploração, a oferta, a intermediação e a publicidade de loterias de aposta de quota fixa, em meio físico ou virtual, inclusive quando realizadas por agente sediado no exterior que as ofereça a pessoa localizada no território nacional. A proibição abrange as apostas sobre eventos reais de temática esportiva e sobre eventos virtuais de jogos on-line. O veto não se aplica às demais modalidades lotéricas autorizadas por lei, como a Mega Sena. Pelo texto, as concessões, permissões ou autorizações estaduais e distritais para exploração de loterias de aposta de quota fixa serão extintas. A aposta de quota fixa é ato por meio do qual se coloca determinado valor em risco na expectativa de obtenção de prêmio cujo montante é definido por fator de multiplicação. Já o jogo on-line, ou cassino, é canal eletrônico que viabiliza a aposta virtual em jogo no qual o resultado é determinado pelo desfecho de evento futuro aleatório, como o jogo do tigrinho. Pelo texto, as concessões autorizadas pelo governo serão extintas ao término do prazo de 30 dias. O governo cobrou R$ 30 milhões por uma concessão de cinco anos. Porém, a extinção da autorização antes do prazo não será indenizada. A MP diz o cancelamento das concessões “decorre de motivo de interesse público e não confere ao agente operador de apostas direito à devolução” dos valores. Apostas em aberto Com a publicação da MP, fica vedado o ingresso de novos recursos de apostadores nas contas das empresa. As apostas em aberto, cujo resultado não tiver sido apurado em até 10 dias, serão consideradas sem efeito, hipótese em que será assegurada ao apostador a restituição integral dos valores apostados. Os recursos de apostadores deverão ser disponibilizados até o dia 5. Segundo o texto, a extinção da concessão, permissão ou autorização para exploração de loterias de aposta de quota fixa ou o encerramento das atividades não afasta as obrigações do agente operador de apostas relativas ao período em que esteve autorizado. Instrumentos A MP tem uma série de instrumentos para, segundo o governo, garantir a efetividade da proibição. Os bancos ficam proibidos de processar, liquidar ou viabilizar transações destinadas à bets. O Banco Central vai estabelecer sistemática de comunicação eletrônica de dados para viabilizar a rejeição de transações e a devolução interbancária. Ficam vedadas, ainda, as ações de comunicação, de publicidade, de propaganda, de marketing e de patrocínio relativas à bets, em qualquer meio de comunicação, físico ou digital. A retirada de material publicitário e de sinais de patrocínio veiculados em meios físicos ou digitais deverá ser feita em até dez dias. Por sua vez, os provedores de aplicações de internet “têm o dever de cuidado” de prevenir e impedir a circulação, em seus serviços, de conteúdos de apostas. Os ministérios da Fazenda e da Justiça e Segurança Pública vão pedir o bloqueio ou o redirecionamento dos sites de apostas.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/25/apostas-governo-publica-mp-que-proibe-as-bets-no-brasil.ghtml",
-      "published": "2026-09-25T23:57:04+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets",
-        "desenrola",
-        "dívidas das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "dívidas das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
         },
         {
           "sector": "Economia",
@@ -8668,63 +8693,6 @@
       "score": 24.0
     },
     {
-      "title": "Na crise, redes estrangeiras acirram disputa com nacionais",
-      "summary": "Bompard, do Carrefour: “Redução de custos no país melhorou rentabilidade” Nathan Laine/Bloomberg Grandes grupos de varejo de capital internacional têm se saído melhor da fase atual de desaceleração do varejo, enquanto as redes nacionais crescem menos e desembocam em recuperações judiciais. Isso tende a causar maior desequilíbrio na participação de mercado das redes no bolo total do varejo, ampliando a força das operações estrangeiras na receita total gerada no país. A conclusão faz parte de um levantamento do Valor que compara desempenho de empresas nacionais e estrangeiras nas mesmas áreas de atuação no acumulado deste ano. As discrepâncias são sentidas num momento de maior proteção à venda de produtos internacionais de baixo valor no país. O presidente Luiz Inácio Lula da Silva sancionou no último dia 10 de setembro a lei que zera o imposto de importação para compras internacionais de até US$ 50, tributo que ficou conhecido como \"taxa das blusinhas\". Ao se considerar a renúncia em arrecadação federal com a medida em R$ 5 bilhões a R$ 6 bilhões em 2026, segundo a IFI (Instituição Fiscal Independente), órgão ligado ao Senado, para um imposto que anteriormente era de 20%, é estimado que entrem no país neste ano, no mínimo, cerca de R$ 25 bilhões em produtos estrangeiros de até US$ 50, calculou o Valor. Isso equivale à duas vezes a receita líquida de vestuário da Renner em 2025, a maior rede de moda no país. A aprovação no Congresso foi uma das prioridades da agenda de Lula antes das eleições de outubro, e considerada medida eleitoreira, disseram na época as associações do setor. Ao se analisar o desempenho dos grandes grupos que permitem comparação de suas receitas, há fatores macroeconômicos, e da própria gestão do negócio, comprometendo as vendas das companhias nacionais nos últimos tempos. Esses fatores pesaram mais contra os números do que a existência de aspectos positivos favoráveis relevantes aos negócios das redes estrangeiras, a ponto de desequilibrar esse jogo. Somado a isso, ainda há o fato de que há redes nacionais dependentes da venda no Norte e Nordeste, praças que têm sentido de maneira mais forte o desaquecimento no comércio em geral. Mesmo a medida do governo federal de elevar em 15% o Bolsa Família, que dará impulso extra ao bolso do consumidor nessas regiões, havia dúvidas entre analistas de bancos na sexta-feira (18) se esses recursos não irão inicialmente para redução de endividamento e inadimplência. Pesquisa Mensal do Comércio, publicada pelo IBGE na terça-feira (15) mostra que, de janeiro a julho, a venda no comércio cresceu 1,8% em volume. Há uma desaceleração no consumo, já que até março, a alta era de 2,4%. Ao mesmo tempo, no entanto, os dados também mostram que os grupos estrangeiros não estão completamente isolados dos efeitos negativos da perda de vigor do consumo das famílias, reflexo da alta do endividamento neste ano, mas que parecem, até o momento, equilibrar melhor as pressões. Com base no levantamento, os franceses do grupo Carrefour têm tido melhor desempenho em vendas “mesmas lojas” (pontos em operação há mais de 12 meses) do que o Grupo Mateus, rede maranhense, forte no Norte e Nordeste, e com portfólio de lojas diverso como o concorrente. Ambos operam no atacarejo e no varejo alimentar. As vendas mesmas lojas servem como termômetro ao descontar o efeito de eventuais inaugurações que sempre elevam a receita. De janeiro a junho, o Carrefour manteve praticamente a estabilidade nas vendas em relação ao ano passado (em moeda local), com leve queda de 0,1% nas vendas versus o ano anterior, enquanto o Mateus recuou 7,7% — um ano antes, a rede brasileira havia crescido 5,7%. Se o lucro operacional do Carrefour no país subiu 0,9% de janeiro a junho, em reais, no Mateus isso recuou 22,3%, para R$ 888,5 milhões. “No Brasil, mercado ainda complexo, nossos planos de adaptação e iniciativas de redução de custos nos permitiram melhorar ainda mais a rentabilidade e retomar o crescimento das vendas no segundo trimestre”, escreveu em sua mensagem no balanço o CEO global do Carrefour, Alexandre Bompard. Da mesma forma, os chilenos do grupo alimentar Cencosud, mesmo com as dificuldades em estabilizar os negócios de algumas de suas redes regionais, conseguiram apurar números menos pressionados que o Mateus. A empresa brasileira priorizou deliberadamente a lucratividade em detrimento da participação de mercado, abandonando uma estratégia comercial agressiva adotada nos últimos anos. Controladores de cadeias como Giga Atacado, Prezunic e Perini, a chilena Cencosud tem sentido efeito em suas vendas da remodelação e fechamento de lojas, mas mesmo com esse impacto, o recuo nas vendas mesmas lojas foi menor que o verificado no Mateus. De janeiro a março, o grupo estrangeiro recuou 1,4%, e no segundo trimestre o tombo avançou para 8% — índices menos pressionados, porém, que o da rede brasileira — negativo em 7,3% e 8%, respectivamente. Analistas de bancos projetavam queda menor para Mateus de abril a junho, de 5% a 7%. Na visão de Ana Paula Tozzi, CEO da AGR Consultores, grandes grupos internacionais facilitam o acesso de suas operações no Brasil à estrutura de dados, sistemas e gestão, além do acesso às linhas de recursos no exterior, fatores que pesam favoravelmente em momentos mais conturbados. “Não é que sejam negócios que estejam vivendo num cenário perfeito, mas que operam com plano de longo prazo, com cultura de visão perene, e isso é fundamental em momentos mais turbulentos”, disse ela. “É bom saber que se tem para onde correr, para a empresa mãe, quando a situação complica”, afirma. Enquanto o Carrefour fez a deslistagem de sua subsidiária no Brasil em 2025, e Cencosud não tem ações em circulação no país, Mateus fez sua oferta de papapéis na B3 em 2020. Sobre o assunto, o Mateus afirma que as suas vendas têm refletido “um cenário de consumo ainda pressionado, marcado pelo elevado nível de endividamento das famílias e pelas mudanças no perfil da cesta de consumo da população”, diz em seu balanço de resultados de abril a junho. Ainda afirma que tem defendido a defesa da lucratividade, e que essa postura tem dado resultado — a margem bruta foi de 23,2% de janeiro a junho, alta de 0,1 ponto. Para João Soares, analista do Citi, o que ocorreu é que a rede é mais exposta ao Norte e Nordeste, onde é uma das líderes do varejo alimentar, e a região tem recuado mais o consumo no país. E a cadeia manteve a sua estratégia de priorização da rentabilidade, o que afetou receita. Um terço dos nove Estados onde a cadeia atua cresce abaixo da média nacional do varejo, segundo dados do IBGE até junho (os três Estados são Piauí, Alagoas e Pará) A cadeia ainda sentiu a decisão de reduzir a venda que ocorria no balcão das lojas de atacarejo (o Mateus cortou essa atividade neste ano por razões estratégicas) o que impacta na comparação com o mesmo período do ano anterior. “A administração acredita que a maior parte desse ajuste [lucratividade em detrimento de vendas] já foi superada”, disse Soares, em relatório em agosto. “Mas os comentários da administração reforçaram a visão cautelosa sobre as vendas nas mesmas lojas no curto prazo”, escreveu ele. Procurado, o Grupo Mateus não se manifestou para além dos comentários no balanço. Nessa comparação entre as empresas, a receita no semestre de todas as lojas da Cencosud, no entanto, caiu 18%, mas o Mateus conseguiu avançar 12,5% principalmente devido à consolidação de um novo negócio comprado em 2025, a rede Novo Atacarejo, à abertura de 25 lojas nos últimos 12 meses e ao crescimento das vendas das redes que a rede opera na área de atacado e eletroeletrônicos. Em outro segmento do varejo de alimentos, dos minimercados, a rede Oxxo, controlada pela mexicana Femsa que assumiu 100% da operação local (tinha 50%) neste ano, cresce acima de um dos seus competidores diretos, o concorrente GPA, em recuperação extrajudicial dona do Mini Extra e Minuto Pão de Açúcar. Em fevereiro, a brasileira Raízen, do Grupo Cosan, pressionada por uma escalada de sua alavancagem, saiu do negócio, vendendo a sua participação no Grupo Nós, empresa conjunta que administrava as lojas Oxxo no Brasil. O negócio mantem até hoje taxas de crescimento acima da média do mercado. No primeiro trimestre em que o acordo foi desfeito, a Oxxo no Brasil cresceu 6,9%, e no segundo trimestre, 11,6%. O negócio de proximidade do concorrente GPA teve leve expansão de 0,3% de janeiro a março e caiu 2,3% de abril a junho. Com dívidas de R$ 4,5 bilhões, o grupo varejista dono do Pão de Açúcar pediu recuperação extrajudicial em março, e o plano ainda não foi homologado pela Justiça. Em seu relatório de resultados do segundo trimestre, o GPA afirma que esse desempenho de vendas em queda reflete efeitos da recuperação extrajudicial, que casou problemas de abastecimento nos pontos de venda, e por fim, afeta a receita. “Esse efeito atingiu seu pico em maio e passou a apresentar melhora gradual [...]. As vendas voltaram a apresentar crescimento no mês de junho, acompanhando a recuperação gradual dos níveis de abastecimento e avançando na normalização da operação”, disse no balanço. A rede ainda cita a execução de uma “estratégia de priorização de canais com maior rentabilidade”, que levou ao fim do projeto “Aliados” em 2026, que tratava de uma transformação de lojas de bairro na rede CompreBem. E menciona também uma demanda mais moderada e um ambiente de consumo pressionado. Procurados, Oxxo e GPA não se manifestaram. Na prática, a justificativa do consumo em baixa afeta todas as redes expostas a essa variável “macro”, inclusive as estrangeiras. O que pode estar acontecendo é que algumas cadeias podem estar mais fragilizadas também por decisões da gestão não estarem dando resultado esperado. “Se eu troco a administração e mudo de plano a cada três a quatro anos, eu mando um sinal ruim ao time e ao mercado. O GPA mudou a linha de frente com frequência recentemente. E tivemos redes que cresceram rápido demais, abriram muitas lojas em curto espaço de tempo, como é o caso do Mateus, então essa conta chega”, diz Tozzi. Analistas afirmam que grupos estrangeiros ainda operam tendo como opção se financiarem na matriz, com taxa de juros mais baixas — o Carrefour, por exemplo, opera por meio de um banco local que recorre à sede para se capitalizar. No mercado de varejo de construção, o cenário aponta para um ambiente difícil para cadeias nacionais e estrangeiras. “Várias redes locais nos últimos tempos fecharam lojas em todos os três Estados onde atuamos [ Rio Grande do Sul, Santa Catarina e Paraná]. A gente costuma dizer aqui que o negócio que mais cresceu na região foi o ‘aluga-se’ [imóveis]”, disse Peter Furukawa, presidente da rede gaúcha Quero-Quero, com cerca de 580 lojas no país. O executivo diz que esse cenário abriu espaço para expansão da varejista em determinadas cidades, e somado a isso, a rede também tomou medidas para tentar reagir à desaceleração na demanda. Entre as ações tomadas, a empresa elevou neste ano as opções de venda de produtos à vista e para as classes de maior renda, como forma de driblar a redução no crédito da empresa para as camadas de renda mais baixa (a rede tem a financeira própria Verdecard). “Demos uma subidinha na sofisticação dos sortimentos. As medidas que fomos tomando nese cenário mais duro foi sendo feita a partir de meados do ano passado, quando vimos que esse cenário de piora do “macro” não mudaria e estamos começando a colher os resultados”, disse o CEO da rede, fundada em Santo Cristo, no interior do Rio Grande do Sul. De janeiro a março, as vendas mesmas lojas na Quero-Quero recuaram 2,5%, e de abril a junho cresceram 6,7%. Os franceses da Leroy Merlin registraram no primeiro semestre deste ano desempenho “flat” em vendas mesmas lojas no Brasil em relação ao 2025, informou o comando, portanto acima da média do mercado — o setor recuou 0,8% até junho, segundo o IBGE. Ricardo Dinelli, CEO da Leroy Merlin no Brasil, afirmou que a empresa teve que fazer escolhas e renúncias em relação a investimentos nesse ambiente de mercado mais difícil, com seleção de projetos a avançar, e necessidade de ser mais transparente com a equipe em relação a essa postura. A varejista é a maior cadeia de material de construção do país, com vendas anuais estimada pelo mercado em R$ 9 bilhões a R$ 10 bilhões. “Tivemos que fazer ajustes de rota nos últimos tempos e olhar para dentro de casa para ver se o que estávamos oferecendo era realmente o bastante”, disse. “Por exemplo, projetos relacionados a venda de produtos sob medidas, como cortinas, que começamos em algumas lojas, decidimos não avançar para mais lojas, porque não era o momento e temos outras prioridades”, disse. “Estamos trabalhando com mais força a oferta de serviços aos consumidores, temos mais de 160 tipologias de serviços, e isso não está com vendas ‘flat’, cresce mais [que a média da rede] “, afirmou. Segundo ele, 2025 também foi um ano difícil, com vendas estáveis em comparação a 2024, mas a expectativa é que, com a chegada do El Nino e aumento das temperaturas nos próximos meses, a demanda cresça. “O calor impacta positivamente nossas vendas”, disse. A rede não abriu nenhuma loja neste ano — a última foi em Bauru (SP), em 2025. São 53 lojas do grupo.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/09/22/na-crise-redes-estrangeiras-acirram-disputa-com-nacionais.ghtml",
-      "published": "2026-09-22T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce",
-        "Varejo Alimentar",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "blusinhas",
-        "carrefour",
-        "compras internacionais",
-        "recuperações judiciais",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "compras internacionais",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperações judiciais",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 22.0
-    },
-    {
       "title": "Ex-H.I.G. cria marca de beleza Bond Rio",
       "summary": "Enquanto marcas de beleza como WePink e Spoiler nascem com o rosto de uma grande influenciadora por trás, a Bond Rio é uma novata que surgiu pelas mãos de uma executiva que passou 17 anos no mundo do private equity. Fundada em dezembro por Julia Clark, egressa do BTG Pactual e H.I.G., a companhia quer se lançar no premium acessível, mercado ainda sem um nome de peso no país. A Bond nasce no que Clark identificou como uma lacuna no mercado brasileiro: uma empresa de skin care e maquiagem focada nas mulheres geração Z de maior poder aquisitivo. Sem o tíquete alto visto em grifes como Chanel e Dior, o “affordable luxury”, ou premium acessível, mira o mercado de massa com produtos com itens mais sofisticados – a americana Sol de Janeiro e a italiana Kiko Milano são dois exemplos no exterior. A falta de um nome atuando nesse segmento no país fez a ex-H.I.G. pivotar a carreira para se tornar empresária. Após St. Marche, Victor Leal tenta emplacar marca de maquiagem Sallve troca CEO para se posicionar entre as líderes “Eu sempre tive muito contato com os empreendedores, então me perguntei: ‘Se eles conseguem, por que eu não consigo?’”, diz a CEO Clark, que trabalhava com a gestão de portfólio. Agora, a missão é levar a cabeça curto prazo do private equity para o empreendedorismo, que costuma mirar métricas de retorno mais demorado e nem sempre mensuráveis, como reputação e influência. “É difícil juntar e fazer coexistir esses dois mundos”, aponta. A Bond segue a onda de marcas de beleza e também aposta em fórmulas veganas, sem crueldade animal e com ingredientes naturais. A marca se lança com quatro produtos: sabonete facial, sérum tonificante, hidratante leve e demaquilante hidratante, com preços variando de R$ 119 a R$ 160. A empresa foi selecionada pela Natura para participar do Innovation Challenge, programa de inovação aberta da companhia de cosméticos. Bond Rio nasce com quatro itens de beleza para o mercado de “premium acessível” no Brasil Divulgação O pontapé na estratégia começa com uma diferença substancial. A companhia decidiu apostar em canais físicos de parceiros escolhidos a dedo para atrair as consumidoras mais jovens. Hoje, os quatro SKUs da marca estão à venda no espaço multimarcas Mata Lab, em uma loja pop-up no Shopping Leblon, nas prateleiras de terceiros como Dress To e em spas de beleza. A companhia também tem site próprio, no modelo D2C, presença em redes sociais e chegou ao marketplace Beleza na Web em agosto. Mesmo com a forte presença no online, o desempenho das vendas vem por causa da prateleira, e o digital serve como vitrine. “Vejo muitas marcas insurgentes grandes gastando com custo de aquisição ao cliente e vendendo, mas o Ebitda é zero e a rentabilidade não é legal”, critica a CEO, que diz ter se surpreendido positivamente com a alta rotatividade das vendas da Bond no varejo físico. A companhia vendeu um total de R$ 500 mil de dezembro de 2025 até junho passado para mais de mil clientes, com média de 22% de recompra. Depois da Simple Organic, um hub de beleza e um app de paquera Na Natura, retorno de Carlucci anima mas sem cavalo de pau O foco no canal físico permite que a Bond evite a corrida dos gastos com marketing em redes sociais típicas das outras marcas de beleza. A visibilidade na prateleira de parceiros com reputação, diz Clark, ajuda em atrair credibilidade e aumentar atratividade. Paralelamente, a marca aposta em embaixadoras da geração Z (as “bond girls”, nome que a empresária não associa ao famoso espião britânico), o que deve ajudar no boca a boca do produto. Braé, marca premium de produtos para cabelo, busca sócio para crescer Viih Tube leva Spoiler ao TikTok e mira R$ 50 milhões em vendas A estratégia de marketing da Bond é conduzida pela consultora e sócia Julia Haiad, melhor amiga de Clark desde os seis anos de idade. As duas estudaram juntas da escola à faculdade, na PUC-Rio, e decidiram voltar a se juntar às vésperas dos 40 anos de idade. A cirurgiã plástica Patricia Moraes e a economista Clara Costa também integram o “bonde” de sócias. Neste mês, a marca de beleza iniciou a captação de R$ 10 milhões. O objetivo é buscar um investidor estratégico ou venture capital para escalar a operação nos canais físicos e digitais. Além disso, o plano para o próximo ano é lançar mais seis novos produtos, incluindo um protetor solar e um produto para peles acneicas.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/ex-hig-cria-marca-de-beleza-bond-rio.ghtml",
@@ -8874,29 +8842,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Do Produto Exclusivo Ao Detalhe: Como o CEO da Drogaria Iguatemi Reinventou o Diferencial da Rede",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pioneira na importação de cosméticos, a rede construiu sua reputação ao antecipar tendências; agora, diante das grandes redes, aposta em curadoria e personalização O post Do Produto Exclusivo Ao Detalhe: Como o CEO da Drogaria Iguatemi Reinventou o Diferencial da Rede apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/09/drogaria-iguatemi-expansao-lojas",
-      "published": "2026-09-22T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "drogaria"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "drogaria",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "INSIGHTS. O jogo de paciência do Mercado Livre - Brazil Journal",
@@ -16121,6 +16066,29 @@
       "score": 20.0
     },
     {
+      "title": "Imposto Seletivo e mineração",
+      "summary": "Mera extração de minério não constitui materialidade tributável autônoma capaz de justificar a incidência sobre bens minerais destinados ao exterior",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/imposto-seletivo-e-mineracao",
+      "published": "2026-09-28T18:00:15+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "imposto seletivo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "imposto seletivo",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Família de suposto filho desiste de ação e pode destravar herança de fundador das Casas Bahia",
       "summary": "Na discussão pela herança de Samuel Klein , fundador das Casas Bahia, o espólio de Moacyr Ramos de Paiva Agustinho Júnior apresentou pedido de desistência da disputa. Os familares do advogado, morto em 2021, solicitavam o reconhecimento da paternidade do empresário varejista, falecido em 2014. Leia mais (09/28/2026 - 15h14)",
       "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/09/familia-de-suposto-filho-desiste-de-acao-e-pode-destravar-heranca-de-fundador-das-casas-bahia.shtml",
@@ -16719,35 +16687,119 @@
       "score": 20.0
     },
     {
-      "title": "Do café à cerveja: o que explica a explosão de produtos proteicos no Brasil?",
-      "summary": "O que antes era associado principalmente a carnes, ovos, feijão e suplementos de academia agora aparece no achocolatado, café, água e até na cerveja. Impulsionada pela busca por bem-estar, longevidade, praticidade e, mais recentemente, pelo avanço das canetas emagrecedoras, a proteína ganhou espaço nas formulações e se tornou um dos principais vetores de inovação da indústria de alimentos e bebidas. Os números ajudam a dimensionar a força dessa tendência. Os alimentos com proteína adicionada já movimentam cerca de R$ 2 bilhões por ano no Brasil e mais de US$ 50 bilhões no mundo, segundo dados da Euromonitor. A projeção é que o mercado brasileiro dobre de tamanho até 2028. Levantamento da Worldpanel by Numerator também mostra que o faturamento da categoria de alimentos com proteína adicionada cresceu 12% no primeiro trimestre deste ano, na comparação com o mesmo período de 2025. O avanço foi duas vezes superior ao registrado pelas proteínas convencionais, como as carnes e os ovos. Initial plugin text Na Ambev, a onda de produtos proteicos alcançou uma categoria até então pouco associada ao nutriente: a cerveja. Lançada há cerca de um mês, a Spaten Pro não contém álcool e oferece 10 gramas de proteína por lata. A novidade reforça o portfólio de bebidas voltadas ao bem-estar da companhia, que já reúne opções sem glúten, sem álcool, sem açúcar, com menos carboidratos ou com adição de nutrientes, como Brahma Zero, Stella Artois Pure Gold, Corona Cero e Guaraná Antarctica Zero com fibras. Desenvolvida no Centro de Inovação e Tecnologia (CIT) da Ambev, localizado no Parque Tecnológico da Universidade Federal do Rio de Janeiro (UFRJ), a Spaten Pro passou por mais de 100 protótipos ao longo de mais de três anos de pesquisa. “O principal desafio era criar uma cerveja gostosa. Não queríamos uma bebida proteica com sabor de cerveja ou uma bebida à base de proteína. Tinha que ser, de fato, uma cerveja”, explica Gabriella Gallo, diretora de Inovações da Ambev. A bebida ainda passa por uma fase de teste no mercado brasileiro. Para acompanhar a recepção do público, a Ambev utiliza dados do Zé Delivery, plataforma que reúne 27 milhões de usuários mensais e permite avaliar lançamentos, identificar ocasiões de consumo e coletar opiniões dos clientes. Os resultados ajudarão a orientar os próximos passos do produto, que já despertou o interesse de outros mercados e poderá ser comercializado internacionalmente. A expansão do mercado proteico também reflete a estratégia da indústria de incorporar a proteína a sabores e hábitos já presentes na rotina do consumidor, como o café da manhã e o lanche da tarde. Gabriella Gallo, diretora de inovações da Ambev Divulgação Na Nestlé, esse movimento levou à criação da linha Nescau Protein, que estreou em 2025 com a versão em pó. Neste ano, o portfólio ganhou uma bebida pronta para consumo, com 15 gramas de proteína em uma embalagem de 250 mililitros, sem adição de açúcares e sem lactose. A companhia também passou a adicionar proteína a outras categorias, como aveia e café pronto para beber, além de ampliar a oferta de suplementos das marcas Nutren e Puravida. Com a ampliação do portfólio, a Nestlé pretende atender consumidores de diferentes faixas etárias e níveis de renda, além de alcançar novas ocasiões de consumo. A estratégia é levar a proteína para além dos suplementos esportivos e incorporá-la a alimentos e bebidas já presentes no cotidiano. “É uma gama de produtos e categorias justamente para democratizar o acesso à proteína”, afirma Gisele Pavin, gerente executiva de nutrição, saúde e bem-estar da Nestlé Brasil. Na avaliação da executiva, esse movimento ganhou força após a pandemia, quando os consumidores passaram a dedicar mais atenção à alimentação, à imunidade e aos níveis de vitaminas e minerais no organismo. Mais recentemente, a popularização dos medicamentos análogos de GLP-1, conhecidos como canetas emagrecedoras, acrescentou um novo impulso a esse mercado. Como podem reduzir o apetite e a quantidade de alimentos ingeridos, esses medicamentos também podem provocar perda de massa muscular durante o emagrecimento, sobretudo quando não há acompanhamento adequado da alimentação e da atividade física. Proteína na comida Panelinhas com comida pronta adicionada com proteína da Seara Divulgação A adição de proteína também chegou às refeições prontas. No ano passado, a Seara lançou uma linha de pratos congelados com maior quantidade do nutriente. Neste ano, acrescentou ao portfólio almôndegas, lasanha à bolonhesa, fettuccine à bolonhesa e filé à milanesa. Os produtos contêm entre 15 e 24 gramas de proteína por embalagem, enquanto outros pratos da linha ultrapassam 30 gramas. “Há 20 ou 30 anos, quando o consumidor buscava bem-estar, ele procurava produtos light ou diet. Com o passar do tempo, percebemos que ele não queria abrir mão do sabor. Hoje, ele quer aliar saúde ao sabor”, afirma Rafael Palmer, diretor de marketing da Seara. Rafael Palmer, da diretor da Seara Divulgação Segundo o executivo, os produtos da linha proteica registram giro 10% superior ao de itens similares da própria companhia nos pontos de venda. O desempenho levou a Seara a ampliar o portfólio. O hub de inovação da Seara já trabalha em lançamentos que poderão chegar às prateleiras dentro de dois ou três anos. O processo reúne chefs, nutricionistas, pesquisadores e profissionais de marketing. As receitas são submetidas à avaliação dos consumidores e passam por ajustes no tempero, na quantidade dos ingredientes e na textura antes de chegar ao mercado. “O desafio é transformar algo nutricionalmente correto em um produto gostoso e que caiba no bolso do consumidor”, diz Palmer. Consumo consciente A adição de proteína não significa que esses produtos são mais saudáveis. “É necessário avaliar o produto inteiro: quantidade de proteína por porção, qualidade da fonte proteica, teor de açúcares adicionados, gorduras saturadas, sódio, valor energético, lista de ingredientes e grau de processamento”, alerta Manuela Dolinsky, presidente do Conselho Federal de Nutricionistas (CFN). Segundo ela, alimentos e bebidas enriquecidos com proteína podem oferecer praticidade ou complementar necessidades específicas, mas não são indispensáveis para todas as pessoas. “Muitas vezes, a alimentação habitual já fornece quantidade suficiente, e a inclusão de vários produtos enriquecidos apenas aumenta o consumo total e o custo, sem benefício adicional.” No caso das cervejas com álcool, a especialista faz uma ressalva: “A adição de proteína não neutraliza os efeitos do álcool e não transforma uma bebida alcoólica em produto voltado à saúde, à hidratação ou à recuperação esportiva.” Depois da proteína, as fibras Gisele Pavin, gerente executiva de nutrição, saúde e bem-estar da Nestlé Brasil Divulgação A proteína pode ser apenas a porta de entrada para uma transformação mais ampla nas prateleiras. As gigantes de alimentos e bebidas já acompanham o crescimento do interesse por fibras, probióticos, prebióticos e produtos relacionados à saúde intestinal. “Hoje estamos falando de proteína. Amanhã, serão as proteínas com fibras”, prevê Gisele, da Nestlé. Na Ambev, esse movimento já aparece no Guaraná Antarctica Zero com fibras. Gallo afirma que a saúde digestiva vem ganhando espaço nas pesquisas e no desenvolvimento de produtos. Palmer também acredita que o consumidor passará a buscar soluções mais específicas, destinadas, por exemplo, à saúde intestinal ou cardiovascular. Outra mudança será o interesse pela procedência e pelas propriedades de diferentes tipos de proteína. “Hoje ele está falando de proteína. Daqui a pouco, vai começar a perguntar se ela é de origem animal ou vegetal e quais propriedades cada uma oferece”, diz. A expectativa é que essa maior atenção aos ingredientes leve à criação de produtos cada vez mais segmentados. Para a indústria, o desafio será equilibrar benefícios nutricionais, conveniência, preço e sabor, sem transformar a busca pela alimentação saudável em uma experiência excessivamente técnica. A proteína pode ter aberto esse caminho, mas a próxima disputa das empresas será por produtos que ajudem o consumidor a cuidar de necessidades mais específicas sem abandonar os alimentos, sabores e rituais que já fazem parte de sua rotina. Guaraná Antartica com fibras Divulgação Mais Lidas Banner da Série Tendências para o Futuro Clayton Rodrigues",
-      "url": "https://epocanegocios.globo.com/empresas/tendencias-para-o-futuro/noticia/2026/09/do-cafe-a-cerveja-o-que-explica-a-explosao-de-produtos-proteicos-no-brasil.ghtml",
-      "published": "2026-09-22T09:00:00+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
+      "title": "Lifetime lança franquia de planejamento financeiro com ex-presidente da Jequiti",
+      "summary": "Criada com Lásaro do Carmo Jr., Mappi mira famílias com renda de R$ 5 mil a R$ 20 mil e quer 100 franqueados até o final do ano",
+      "url": "https://exame.com/invest/mercados/lifetime-lanca-franquia-de-planejamento-financeiro-com-ex-presidente-da-jequiti",
+      "published": "2026-09-29T05:00:53+00:00",
+      "source": "https://exame.com/feed/",
       "matched_sectors": [
-        "Farmácias"
+        "Cosméticos"
       ],
       "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
+        "jequiti"
       ],
       "matches": [
         {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "lead",
-          "score": 8,
+          "sector": "Cosméticos",
+          "alias": "jequiti",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "Mais de 500 bets foram lançadas ilegalmente desde 6ª feira",
+      "summary": "Um levantamento da plataforma Bet Legal mostra que 543 casas de apostas foram lançadas ilegalmente após a proibição das bets pelo governo federal na sexta-feira (25). O número considera as novas casas identificadas entre as 18h de sexta-feira e a tarde desta segunda-feira (28). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/09/29/mais-de-500-bets-foram-lancadas-ilegalmente-desde-6a-feira.ghtml",
+      "published": "2026-09-29T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Bets vão ao STF contra medida que proíbe apostas on-line",
+      "summary": "Entidades ligadas às empresas de apostas on-line iniciaram ação no Supremo Tribunal Federal para tentar derrubar a Medida Provisória que proíbe a atividade no país, publicada na sexta-feira pelo governo Lula. A União, por sua vez, ajuizou ação civil pública na Justiça Federal contra as empresas do setor alegando prejuízos à saúde da população e pedindo ressarcimento pelos gastos do Sistema Único de Saúde (SUS). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/09/29/bets-vao-ao-stf-contra-medida-que-proibe-apostas-on-line.ghtml",
+      "published": "2026-09-29T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Perfume para Cabelo em Alta: os Melhores Produtos para Entrar na Trend",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. De Balmain a Valentino, marcas de luxo e beleza apostam em brumas capilares que perfumam, refrescam e ajudam a cuidar dos fios O post Perfume para Cabelo em Alta: os Melhores Produtos para Entrar na Trend apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/09/perfumes-de-cabelo-melhores-perfume-capilar",
+      "published": "2026-09-29T08:03:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "perfume"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "perfume",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O Impacto do iPhone Duo no Mercado de Smartphones e As Tecnologias das Telas Dobráveis",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Entrada da Apple amplia a disputa em um segmento que aposta em telas mais resistentes, estruturas flexíveis e mecanismos de dobra mais eficientes O post O Impacto do iPhone Duo no Mercado de Smartphones e As Tecnologias das Telas Dobráveis apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-tech/2026/09/o-impacto-do-iphone-duo-no-mercado-de-smartphones-e-as-tecnologias-das-telas-dobraveis",
+      "published": "2026-09-29T08:07:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Eletrônicos"
+      ],
+      "matched_aliases": [
+        "smartphones"
+      ],
+      "matches": [
+        {
+          "sector": "Eletrônicos",
+          "alias": "smartphones",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "Fazenda atribui aperto no bolso das famílias ao custo do crédito, não ao tamanho da dívida",
@@ -17278,6 +17330,37 @@
       "score": 16.0
     },
     {
+      "title": "‘Governos estão dando passos atrás num esforço para regulamentar de novo’, diz especialista sobre mercado de apostas",
+      "summary": "Depois de uma onda de liberalização de bets globalmente, os governos estão entrando em uma nova fase: identificando problemas causados pelas apostas esportivas e cassinos on-line e dando passos atrás num esforço para regular novamente esse mercado, avalia Christian Kalb, especialista na indústria de jogos e apostas e consultor do Conselho da Europa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/29/governos-estao-dando-passos-atras-num-esforco-para-regulamentar-de-novo-diz-especialista-sobre-mercado-de-apostas.ghtml",
+      "published": "2026-09-29T07:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas esportivas",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas esportivas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "BC inicia avaliação de viabilidade para integrar Pix com sistema de pagamento europeu",
       "summary": "O Banco Central do Brasil (BC) e o Banco Central Europeu (BCE) iniciam nesta quinta-feira uma fase de avaliação da viabilidade de interligação entre o Pix e o TIPs, sistema de pagamentos instantâneos da Europa. Segundo o BC, as instituições avaliarão aspectos técnicos, operacionais, jurídicos e de negócio relacionados à interligação das duas infraestruturas públicas de pagamentos. Após caso Master: Governo afrouxa regras de investimentos de fundos de previdência de servidores Bets: Lula discute medidas com ministros e avalia cenários para restringir apostas on-line O BC afirma que, considerando os fluxos econômicos e financeiros entre o Brasil e a área do euro, a interligação entre Pix e TIPS poderá contribuir para pagamentos transfronteiriços mais rápidos, eficientes e de menor custo entre as duas jurisdições. Fábio Graner: Se proibir bets, governo Lula terá de resolver como lidar com R$ 2,5 bilhões em outorgas pagas pelas empresas \"A iniciativa integra a agenda evolutiva do Pix e os esforços do BCB de interligação do sistema brasileiro de pagamentos instantâneos com infraestruturas similares multilaterais e de outras jurisdições”, diz o Banco Central em nota. Segundo o BC, essas interligações poderão permitir a realização de remessas internacionais e de transações de compra com disponibilização dos recursos em moeda local em poucos segundos. Quantas pessoas trabalham em home office no país? Veja mapa por capitais e onde o trabalho remoto mais avança “De forma mais ampla, a interligação de sistemas de pagamentos instantâneos tem o potencial de reduzir custos, aumentar a velocidade, ampliar o acesso e melhorar a transparência das transações transfronteiriças, em linha com os objetivos do Plano de Ação do G20 para o Aprimoramento de Pagamentos Transfronteiriços (G20 Roadmap for Enhancing Cross-Border Payments).​” Projeção: Fazenda reduz estimativas do crescimento da economia e da inflação em 2026 Em nota, o BC explicou que o TIPS foi criado para ser uma infraestrutura pan-europeia de liquidação instantânea em moeda de banco central, operando atualmente com o euro, a coroa sueca e a coroa dinamarquesa, com expansão prevista para outras moedas do Espaço Econômico Europeu.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/24/bc-inicia-avaliacao-de-viabilidade-para-integrar-pix-com-sistema-de-pagamento-europeu.ghtml",
@@ -17504,29 +17587,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Estrangeiros avançam com varejo em crise",
-      "summary": "Grandes varejistas internacionais têm se saído melhor na fase atual de desaceleração das vendas no país, enquanto as redes locais crescem menos ou até têm de recorrer à recuperação judicial. A conclusão faz parte de levantamento feito pelo Valor, comparando o desempenho de empresas nas mesmas áreas de atuação. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/09/22/estrangeiros-avancam-com-varejo-em-crise.ghtml",
-      "published": "2026-09-22T08:00:01+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "recuperação judicial"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "recuperação judicial",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Como usar e-mail e cartão descartáveis para não entregar seus dados reais",
@@ -19223,6 +19283,121 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Empresas de apostas vivem cenário de incerteza enquanto aguardam STF",
+      "summary": "Depois de pedir ao Supremo Tribunal Federal (STF) a suspensão da medida provisória (MP) editada pelo presidente Luiz Inácio Lula da Silva que proíbe a exploração de apostas de cota fixa e jogos online (incluindo o do \"tigrinho\") no país, as bets estão em compasso de espera por uma decisão judicial, que seja favorável ao setor. Por enquanto, não há demissões em massa, mas contratos com fornecedores começam a ser avaliados. Em comum, empresas de apostas consultadas pelo GLOBO destacam que, por enquanto, o cenário é de total incerteza. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/29/empresas-de-apostas-vivem-cenario-de-incerteza-enquanto-aguardam-stf.ghtml",
+      "published": "2026-09-29T07:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Seguro de crédito precisa de segurança jurídica",
+      "summary": "O seguro de crédito tem se mostrado um refúgio para empresas pressionadas pela inadimplência. Ao oferecer proteção contra o risco de clientes com problemas, o seguro de crédito tornou-se relevante em um cenário econômico conturbado. Dados do setor mostram um produto em expansão em um contexto de procura por maior segurança da concessão de crédito. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/legislacao/coluna/seguro-de-credito-precisa-de-seguranca-juridica.ghtml",
+      "published": "2026-09-29T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Anthropic cita 'riscos existenciais para humanidade' no prospecto de IPO",
+      "summary": "A Anthropic, liderada por Dario Amodei, alertou formalmente os investidores de que sua tecnologia pode representar \"riscos existenciais para a humanidade”. A informação consta no prospecto da oferta pública inicial (IPO), que segue em sigilo na SEC mas circulou entre um pequeno grupo de parceiros nos últimos dias. Cognition AI entra no Brasil com Itaú e Nubank após levantar US$ 2 bi IPO da SpaceX gerou mais saída para VCs do que a década passada inteira A startup de IA, avaliada em quase US$ 1 trilhão em rodadas privadas, dedicou quase um terço do documento a detalhar \"fatores de risco”, incluindo o potencial de modelos de IA cada vez mais avançados de manipular, chantagear e exibir outros comportamentos imprevisíveis. Anthropic foi fundada em 2021 por Dario Amodei, egresso da OpenAI Bloomberg A Anthropic também compartilhou detalhes sobre seu desempenho financeiro anterior e estruturas de governança no prospecto; tais informações foram relatadas inicialmente pela Reuters e confirmadas ao Financial Times por várias pessoas que tiveram acesso ao documento. Como Sam Altman ‘quebrou’ uma fábrica de móveis de Indaiatuba Por que US$ 2 trilhões podem ser razoáveis para a Anthropic A criadora do Claude registrou um prejuízo operacional superior a US$ 8 bilhões no ano passado. A receita cresceu 12 vezes, chegando a quase US$ 5 bilhões, mas os custos com recursos computacionais para treinar e executar os modelos elevaram as despesas operacionais para quase US$ 13 bilhões.",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/anthropic-cita-riscos-existenciais-para-humanidade-no-prospecto-de-ipo.ghtml",
+      "published": "2026-09-29T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Nomear o invisível: sobre maternidade desejada, perdas e o poder de finalmente falar",
+      "summary": "No dia 14 de abril de 2025, recebi o resultado negativo da minha primeira transferência de embrião. No mesmo dia, o Grupo Boticário lançou uma campanha de Dia das Mães que falava exatamente sobre isso: sobre as mães tentantes, sobre o luto invisível de quem deseja um filho e não consegue, sobre o silêncio que cerca a infertilidade. Eu não sabia que a campanha existia. Não tinha participado das filmagens. Não fazia ideia do que ia assistir. Quando dei play no vídeo, vi uma mulher vivendo exatamente o que eu estava vivendo naquele momento. O mesmo luto. A mesma espera. A mesma dor de um negativo que parece negar não só um exame, mas um sonho inteiro. Me reconheci nela. E chorei como não chorava há tempos. O tempo que ninguém respeita Uma das falas mais marcantes do painel que fizemos no Vittude Summit veio da Dani Junco, fundadora da B2Mamy: “A primeira pergunta que fazem é: de quantas semanas você está? De oito anos. Esse é o tempo que eu estou tentando.” Oito anos. E ninguém sabia. Ninguém perguntava. Ninguém via. A Dani trouxe um conceito que ficou comigo: o tempo invisível. Estamos todos no mesmo espaço físico, mas cada um vive um tempo diferente. Tem gente comemorando, tem gente perdendo, tem gente tentando há anos sem conseguir. E ninguém sabe e nem fala. Eu já tinha passado por uma perda gestacional antes. Perdi um bebê e, uma semana depois, estava num palco, cumprindo minha agenda de palestras, fingindo que nada tinha acontecido. Sorrindo. Performando a normalidade. Algumas semanas depois, no Vittude Awards, decidi falar. Foi a primeira vez que contei publicamente o que tinha vivido. Estava com medo. Não sabia como as pessoas iam reagir. Quando desci do palco, vinte mulheres me procuraram. Vinte. Todas tinham passado por algo parecido e nenhuma tinha contado pra ninguém. Uma delas perdeu o bebê no banheiro da empresa e voltou pra mesa de trabalho no mesmo dia. O que a campanha fez A campanha do Boticário não foi só um filme bonito. Foi uma porta que se abriu. O Grupo Boticário criou, junto com a campanha, uma comunidade no WhatsApp com acompanhamento de profissionais de saúde — ginecologistas, psicólogas, especialistas em luto. Em cinco minutos, mil mulheres já estavam conversando. Dentro da empresa, Lívia Schwab, gerente sênior de saúde do Grupo Boticário, liderou uma série de ações internas: cartilhas, rodas de conversa e encontros com médicos. Tudo em ambiente restrito, só para quem quisesse participar. Tudo com cuidado. Uma das coisas que mais me marcou foi saber que, em uma dessas rodas, um homem abriu o microfone. Ele disse: “Minha esposa está passando por isso e eu não sei como ajudar.” Ele chorou. As mulheres o acolheram. E ali, naquele momento, ficou claro que o luto da infertilidade não é só da mulher. É da família inteira. E os homens também não têm onde falar. O que aprendi Eu sou mãe. A Lara, minha filha, nasceu depois de um processo de FIV, de tentativas, de espera e de muita fé. Estar grávida de 39 semanas no palco do Vittude Summit, mediando esse painel, foi uma experiência que eu não sei descrever. Hoje, olhando para tudo o que vivi, consigo enxergar ainda mais claramente o que aquele momento significava. Toda vez que assisto ao vídeo da campanha, eu choro. Já assisti mais de vinte vezes. Choro todas. Porque eu sei o que é estar do outro lado. Sei o que é querer e não conseguir. Sei o que é fingir que está tudo bem quando não está. Sei o que é carregar um luto que ninguém vê. E aprendi que falar é o que cura. Não falar não resolve. Não falar protege. Não falar perpetua o ciclo de silêncio que faz com que milhares de mulheres — e homens — sofram sozinhos, achando que são os únicos. O que as empresas podem fazer A Lívia trouxe um dado que me marcou: o Grupo Boticário pratica licença parental universal desde 2019. Quatro meses para homens e mulheres, obrigatória. Mais de 1.500 colaboradores já passaram por ela. E a taxa de promoção após a licença é igual para homens e mulheres: 16%. Isso não é só política de RH. É cultura. É mensagem. É dizer, na prática, que parentalidade não é problema — é parte da vida. E quando a empresa abraça isso, as conversas difíceis ficam mais fáceis. As perdas podem ser nomeadas. O luto pode ser vivido. E as pessoas não precisam fingir que estão bem quando não estão. Campanhas como essa extravasam os muros da empresa e impactam uma sociedade inteira. Fazem a gente pensar, se conectar, tentar fazer diferente. Ao invés do silêncio, a fala. Ao invés da vergonha, o acolhimento. Ao invés de fingir normalidade, a coragem de nomear o que dói. É isso que significa liderar uma pauta de saúde mental com maturidade. Não é só sobre benefícios ou programas internos. É sobre transformar cultura — dentro e fora de casa. Não é fácil. Não é simples. Mas é necessário. Como costuma dizer a Dani Junco: “Não subestime uma mulher que quer ser exemplo para seu filho.” E eu acrescento: não subestime uma mulher que ainda está tentando. *Tatiana Pimenta é CEO da Vittude Mais Lidas",
+      "url": "https://epocanegocios.globo.com/colunas/coluna/2026/09/nomear-o-invisivel-sobre-maternidade-desejada-perdas-e-o-poder-de-finalmente-falar.ghtml",
+      "published": "2026-09-29T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Líderes do Congresso apontam mudanças em MP do fim das bets, e dizem que o tema deve ser discutido depois das eleições",
+      "summary": "Líderes partidários do Congresso avaliam que a medida provisória (MP) que proíbe as bets deve ser alterada pelos parlamentares e dizem que o assunto começará a ser discutido após o fim das eleições. O texto, editado pelo presidente Luiz Inácio Lula da Silva (PT) às vésperas do primeiro turno, precisa ser votado em até quatro meses pelos parlamentares para ter validade permanente. Desenrola 3.0: saiba como vai funcionar novo programa de renegociação de dívidas, lançado a poucos dias das eleições Bets, Desenrola e Bolsa Família: com medidas às vésperas das eleições, Orçamento de 2027 precisará de reajuste de até R$ 42,3 bi O petista, que é candidato à reeleição, assinou na última sexta-feira, a MP proibindo a atividade das bets no país menos de três anos após o governo ter sancionado, em dezembro de 2023, a chamada Lei das Bets, que regularizou o setor. O presidente tem usado a MP como um trunfo para melhorar sua popularidade em meio à sua campanha de reeleição. A medida proíbe apostas esportivas e o cassino on-line (como o “jogo do tigrinho”), extingue as autorizações concedidas aos operadores e estabelece um cronograma para o encerramento das atividades. Com o Congresso esvaziado e com os parlamentares focados em suas campanhas, a cúpula do Poder Legislativo evita fazer uma previsão detalhada de qual caminho a MP terá em sua tramitação. ‘Coach’ de robô: veja como brasileiros ganham dinheiro gravando tarefas como faxina para treinar IA Nos bastidores, porém, parlamentares já falam em uma articulação para rever trechos da MP, como criar um prazo de transição para a restrição entrar em vigor ou devolver os valores pagos pelas empresas para obterem a licença, além de excluir alguns setores da proibição em vez de alcançar a atividade de maneira ampla. Líderes apontam a possibilidade de mudar a MP, mas fazem ressalva de que as negociações ainda precisam tomar corpo e ser melhor debatidas, o que só vai acontecer após as eleições. — Vamos tratar disso pós-eleições, mas acho que terá que ser feito algo plausível — declarou o líder do PP na Câmara, Doutor Luizinho (RJ). Jogo: Monitoramento de associação de bets identifica quase 700 sites de apostas suspeitos e alerta para aumento de clandestinos com proibição Parte do Congresso tenta articular a derrubada da MP e avalia que o governo não vai se esforçar para manter o texto após as eleições, já que a medida teria sido feita para o período eleitoral. — A pressão dos clubes de futebol vai ser tão grande em cima dos parlamentares que acho difícil passar — disse o presidente do Solidariedade, deputado Paulinho da Força (SP). Integrantes da base de Lula, no entanto, negam esse cenário. A líder do governo no Senado, Teresa Leitão (PT-PE), disse que o Palácio do Planalto vai procurar o presidente do Congresso, senador Davi Alcolumbre (União-AP), logo após a eleição para definir os próximos passos. Cabe a Alcolumbre determinar a instalação da comissão mista que deve analisar a MP, que é o primeiro passo para a tramitação do texto. Surpresa, ‘chavismo’ e resistência a ‘desligar’: como foi a reunião das bets para definir contra-ataque à MP de Lula Ainda não há definição se a relatoria da MP caberá ao Senado ou à Câmara, mas o senador Renan Calheiros (MDB-AL), da base governista e favorável à medida, já demonstrou interesse em ser o relator. — Vou pedir ao presidente do Congresso Nacional para me designar relator para acabar com elas (as bets) — disse o emedebista. Com a publicação da MP, ficaram proibidos novos depósitos nas contas das empresas de apostas. Os sites ficarão disponíveis para as pessoas fazerem resgate do saldo remanescente até às 23h59 de 5 de outubro. Tensão no Oriente Médio: Às vésperas das eleições, Fazenda prorroga por 30 dias subsídio de R$ 2,12 por litro do diesel No dia 6 de outubro, os sites serão bloqueados. A devolução dos saldos aos apostadores será realizada entre os dias 9 e 14 de outubro pelas instituições financeiras que operam para as casas de apostas, caso o saque não seja feito voluntariamente até o dia 5 de outubro. Também está proibida a contratação de novas publicidades de bets. Além da MP que proíbe as bets no país, o presidente apresentou ao Congresso projeto de lei para criminalizar as bets e seus operadores, inclusive com pena de prisão que pode ir de dois a seis anos. Diferente da MP, o projeto de lei só entra em vigor após ser avaliado pelos parlamentares. Proibição: Fazenda estima R$ 1,7 bilhão em dinheiro depositado nas bets que poderá ser devolvidos até o dia 5 Nesta segunda-feira, as principais entidades que reúnem as empresas de aposta on-line no Brasil recorreram ontem ao Supremo Tribunal Federal (STF) contra a MP. A Associação Nacional de Jogos e Loterias (ANJL) e o Instituto Brasileiro de Jogo Responsável (IBJR) sustentam que a norma pode provocar efeitos irreversíveis antes mesmo de ser analisada pelo Congresso Nacional e pedem que o ministro Luiz Fux examine a questão de forma imediata. A manifestação das empresas foi apresentada nas ações que já discutem no Supremo a constitucionalidade do marco legal das bets, todas sob a relatoria de Fux. Também ontem, a ANJL ingressou com uma nova ação no STF especificamente contra a MP, em que não apenas pede que esta seja declarada inconstitucional, como que seja reconhecida a constitucionalidade das leis que atualmente regulamentam as apostas no Brasil. Initial plugin text",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/29/lideres-do-congresso-apontam-mudancas-em-mp-do-fim-das-bets-e-dizem-que-o-tema-deve-ser-discutido-depois-das-eleicoes.ghtml",
+      "published": "2026-09-29T09:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "renegociação de dívidas"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "renegociação de dívidas",
           "field": "lead",
           "score": 8,
           "topic": null
