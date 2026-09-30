@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T01:19:46.732103+00:00",
-  "count": 718,
-  "new_this_run": 54,
+  "generated_at": "2026-09-30T06:53:42.906716+00:00",
+  "count": 721,
+  "new_this_run": 19,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -3160,6 +3160,53 @@
           "field": "lead",
           "score": 8,
           "topic": "desenrola"
+        }
+      ],
+      "score": 44.0
+    },
+    {
+      "title": "Arrecadação com 'imposto do pecado' vai cair sem bets, e governo terá de compensar com demais setores",
+      "summary": "A proibição da exploração das apostas online (bets) no Brasil pelo governo de Luiz Inácio Lula da Silva (PT) vai reduzir a arrecadação total do Imposto Seletivo e criar um problema adicional para a implantação da reforma tributária a partir de 2027. Leia mais (09/29/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/09/arrecadacao-com-imposto-do-pecado-vai-cair-sem-bets-e-governo-tera-de-compensar-com-demais-setores.shtml",
+      "published": "2026-09-30T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas online",
+        "bets",
+        "imposto seletivo",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "imposto seletivo",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 44.0
@@ -7289,37 +7336,6 @@
       "score": 30.0
     },
     {
-      "title": "Repulsa a bets e tigrinhos une direita e esquerda cristãs",
-      "summary": "Tem um tema capaz de unir direita e esquerda cristãs: a oposição a apostas esportivas online (as bets) e cassinos digitais (jogo do tigrinho e companhia) . Leia mais (09/22/2026 - 23h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/repulsa-a-bets-e-tigrinhos-une-direita-e-esquerda-cristas.shtml",
-      "published": "2026-09-23T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas esportivas",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas esportivas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Apostas em Bets Avançam entre Jovens e Ampliam Risco de Dependência",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Especialistas apontam maior vulnerabilidade de jovens a apostas online O post Apostas em Bets Avançam entre Jovens e Ampliam Risco de Dependência apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-saude/2026/09/apostas-em-bets-avancam-entre-jovens-e-ampliam-risco-de-dependencia",
@@ -9157,45 +9173,6 @@
       "score": 24.0
     },
     {
-      "title": "Comitê Gestor estende prazos para opção pelos dois modelos do Simples",
-      "summary": "As micro e pequenas empresas optantes pelo Simples Nacional ganharam um respiro para definir a forma de recolhimento, em 2027, dos novos tributos da reforma tributária — o Imposto e a Contribuição sobre Bens e Serviços (IBS e CBS). O Comitê Gestor do Simples Nacional (CGSN) estendeu, por meio de Resolução CGSN nº 184, o prazo, que terminaria hoje. Agora, há duas datas: 15 e 30 de outubro, a depender da escolha feita pelo contribuinte. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/noticia/2026/09/29/comit-gestor-estende-prazos-para-opo-pelo-simples.ghtml",
-      "published": "2026-09-29T16:29:16+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 24.0
-    },
-    {
       "title": "Ex-H.I.G. cria marca de beleza Bond Rio",
       "summary": "Enquanto marcas de beleza como WePink e Spoiler nascem com o rosto de uma grande influenciadora por trás, a Bond Rio é uma novata que surgiu pelas mãos de uma executiva que passou 17 anos no mundo do private equity. Fundada em dezembro por Julia Clark, egressa do BTG Pactual e H.I.G., a companhia quer se lançar no premium acessível, mercado ainda sem um nome de peso no país. A Bond nasce no que Clark identificou como uma lacuna no mercado brasileiro: uma empresa de skin care e maquiagem focada nas mulheres geração Z de maior poder aquisitivo. Sem o tíquete alto visto em grifes como Chanel e Dior, o “affordable luxury”, ou premium acessível, mira o mercado de massa com produtos com itens mais sofisticados – a americana Sol de Janeiro e a italiana Kiko Milano são dois exemplos no exterior. A falta de um nome atuando nesse segmento no país fez a ex-H.I.G. pivotar a carreira para se tornar empresária. Após St. Marche, Victor Leal tenta emplacar marca de maquiagem Sallve troca CEO para se posicionar entre as líderes “Eu sempre tive muito contato com os empreendedores, então me perguntei: ‘Se eles conseguem, por que eu não consigo?’”, diz a CEO Clark, que trabalhava com a gestão de portfólio. Agora, a missão é levar a cabeça curto prazo do private equity para o empreendedorismo, que costuma mirar métricas de retorno mais demorado e nem sempre mensuráveis, como reputação e influência. “É difícil juntar e fazer coexistir esses dois mundos”, aponta. A Bond segue a onda de marcas de beleza e também aposta em fórmulas veganas, sem crueldade animal e com ingredientes naturais. A marca se lança com quatro produtos: sabonete facial, sérum tonificante, hidratante leve e demaquilante hidratante, com preços variando de R$ 119 a R$ 160. A empresa foi selecionada pela Natura para participar do Innovation Challenge, programa de inovação aberta da companhia de cosméticos. Bond Rio nasce com quatro itens de beleza para o mercado de “premium acessível” no Brasil Divulgação O pontapé na estratégia começa com uma diferença substancial. A companhia decidiu apostar em canais físicos de parceiros escolhidos a dedo para atrair as consumidoras mais jovens. Hoje, os quatro SKUs da marca estão à venda no espaço multimarcas Mata Lab, em uma loja pop-up no Shopping Leblon, nas prateleiras de terceiros como Dress To e em spas de beleza. A companhia também tem site próprio, no modelo D2C, presença em redes sociais e chegou ao marketplace Beleza na Web em agosto. Mesmo com a forte presença no online, o desempenho das vendas vem por causa da prateleira, e o digital serve como vitrine. “Vejo muitas marcas insurgentes grandes gastando com custo de aquisição ao cliente e vendendo, mas o Ebitda é zero e a rentabilidade não é legal”, critica a CEO, que diz ter se surpreendido positivamente com a alta rotatividade das vendas da Bond no varejo físico. A companhia vendeu um total de R$ 500 mil de dezembro de 2025 até junho passado para mais de mil clientes, com média de 22% de recompra. Depois da Simple Organic, um hub de beleza e um app de paquera Na Natura, retorno de Carlucci anima mas sem cavalo de pau O foco no canal físico permite que a Bond evite a corrida dos gastos com marketing em redes sociais típicas das outras marcas de beleza. A visibilidade na prateleira de parceiros com reputação, diz Clark, ajuda em atrair credibilidade e aumentar atratividade. Paralelamente, a marca aposta em embaixadoras da geração Z (as “bond girls”, nome que a empresária não associa ao famoso espião britânico), o que deve ajudar no boca a boca do produto. Braé, marca premium de produtos para cabelo, busca sócio para crescer Viih Tube leva Spoiler ao TikTok e mira R$ 50 milhões em vendas A estratégia de marketing da Bond é conduzida pela consultora e sócia Julia Haiad, melhor amiga de Clark desde os seis anos de idade. As duas estudaram juntas da escola à faculdade, na PUC-Rio, e decidiram voltar a se juntar às vésperas dos 40 anos de idade. A cirurgiã plástica Patricia Moraes e a economista Clara Costa também integram o “bonde” de sócias. Neste mês, a marca de beleza iniciou a captação de R$ 10 milhões. O objetivo é buscar um investidor estratégico ou venture capital para escalar a operação nos canais físicos e digitais. Além disso, o plano para o próximo ano é lançar mais seis novos produtos, incluindo um protetor solar e um produto para peles acneicas.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/ex-hig-cria-marca-de-beleza-bond-rio.ghtml",
@@ -9345,121 +9322,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Quem usa caneta emagrecedora pode beber álcool? - Assine Abril",
-      "summary": "Quem usa caneta emagrecedora pode beber álcool? &nbsp;&nbsp; Assine Abril",
-      "url": "https://boaforma.abril.com.br/web-stories-abril/quem-usa-caneta-emagrecedora-pode-beber-alcool",
-      "published": "2026-09-23T02:04:05+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Lula volta de NY e se reúne com coordenação da campanha para definir estratégia na reta final e discutir medida sobre bets",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) deverá se reunir nesta quarta-feira com integrantes da coordenação da sua campanha à reeleição para traçar as estratégias dos últimos dias antes do primeiro turno, além de discutir com membros do Palácio do Planalto eventual anúncio sobre a restrição às casas de apostas, as bets. De volta ao país depois de ir aos Estados Unidos para participar da Assembleia Geral da ONU, em Nova York, o petista deverá ficar em Brasília somente até o começo da tarde desta quarta, antes de seguir para uma série de agendas nos estados. De acordo com interlocutores, a ideia é aproveitar esse tempo em Brasília para alinhar a estratégia da campanha e acertar medidas do governo. À noite, ele estará no Rio para um ato com artistas. A conversa com núcleo que coordena a campanha irá definir a linha da semana final do primeiro turno, também discutindo o tom do discurso de Lula, que deve acirrar os ataques contra seu principal adversário, Flávio Bolsonaro (PL). O presidente aparece hoje empatado tecnicamente com o senador em pesquisas de intenção de voto e, segundo Quaest divulgada nesta segunda, atrás numericamente do adversário num eventual segundo turno. Apesar disso, aliados do petista minimizam o cenário e dizem que \"o pior momento da campanha\" foi nas últimas semanas e que, agora, com ajustes nas estratégias, o petista já estaria recuperando terreno. A campanha de Lula vinha sendo criticada até mesmo por petistas pelo tom considerado ameno e sem reação, além de queixas dos assuntos abordados em falas do presidente e nas peças de horário eleitoral serem distantes da realidade do dia a dia dos brasileiros. Diante disso, houve uma mudança de rota: foram intensificados ataques a Flávio Bolsonaro e voltaram à pauta temas como segurança pública, custo de vida e o combate às bets. Além disso, a campanha centrou esforços em mobilizar a militância, convocando uma série de atos de rua e incentivando a participação nas redes sociais. Também nesse esforço de ampliar o diálogo com a sociedade, o presidente fará novo jantar com representantes do PIB brasileiro nesta sexta, em São Paulo. Também há uma expectativa entre integrantes da coordenação petista que seja definida a agenda de viagens dos próximos dias. Numa previsão inicial, deverão ocorrer atos de campanha em estados como Rio de Janeiro, Alagoas, Pernambuco, Ceará, Amazonas, São Paulo e Pará. De agenda governamental, auxiliares do presidente dizem que ele deverá definir nesta quarta qual medida será adotada em relação às bets. A avaliação é que o presidente deverá adotar tom mais incisivo contra as apostas, mas ainda não há um martelo batido sobre como será essa reação. Na mesa, estão algumas possibilidades: proibir apenas os cassinos on-line (que inclui os jogos do tigrino e do aviãozinho); alterar regras de publicidade; ou mexer também com as apostas de quota fixa (que são aquelas feitas sobre eventos reais, principalmente partidas de futebol). O governo tenta um ganho eleitoral com essa agenda ao afirmar que está atuando contra o endividamento da população, tema que tem sido usado por Flávio para criticar o presidente. Segundo interlocutores, a expectativa é que o petista defina qual será o caminho adotado nesta quarta. Eles dizem que o cenário mais provável é que seja editada uma Medida Provisória (MP) ainda nesta semana, antes do primeiro turno. Na segunda, Lula levou ao horário eleitoral a defesa do fim das bets e buscou atrelar o tema à família Bolsonaro. Em discurso na ONU, nesta terça, o presidente também tratou do tema: — A indústria bilionária das bets transforma o vício em lucro. Sua disseminação vertiginosa está endividando e destruindo lares. O Brasil não vai tolerar esse modelo de negócio.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/23/lula-volta-de-ny-e-se-reune-com-coordenacao-da-campanha-para-definir-estrategia-na-reta-final-e-discutir-medida-sobre-bets.ghtml",
-      "published": "2026-09-23T03:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Ozempic-maker Novo open to upgrading US listing",
-      "summary": "Boss Mike Doustdar says he sees ‘advantages’ in giving US investors direct access to Danish group’s stock",
-      "url": "https://www.ft.com/content/00d53ca3-725f-4fa8-b452-cef562a13514?syn-25a6b1a6=1",
-      "published": "2026-09-23T04:00:29+00:00",
-      "source": "https://www.ft.com/rss/home",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "ozempic"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Com retrofit de R$ 200 milhões, casal transforma hotel em 'all inclusive' de luxo",
-      "summary": "Grupo PGA, do casal Malheiros, leva bandeira Westin, da Marriott, ao polo de resorts de Porto de Galinhas",
-      "url": "https://exame.com/mercado-imobiliario/com-retrofit-de-r-200-milhoes-casal-transforma-hotel-em-all-inclusive-de-luxo",
-      "published": "2026-09-23T05:00:19+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "hotel"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "hotel",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "H&M founding family builds stake as turnaround struggles to gain traction - Reuters",
-      "summary": "H&amp;M founding family builds stake as turnaround struggles to gain traction &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/hm-founding-family-builds-stake-turnaround-struggles-gain-traction-2026-09-23",
-      "published": "2026-09-23T05:03:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "h&m"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "h&m",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Carrefour faz mudanças no varejo para tentar avançar com estratégia global",
@@ -16661,6 +16523,29 @@
       "score": 20.0
     },
     {
+      "title": "Opinião | Correios e BRB: estatal sem governança não entrega valor - Estadão",
+      "summary": "Opinião | Correios e BRB: estatal sem governança não entrega valor &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/opiniao/espaco-aberto/correios-e-brb-estatal-sem-governanca-nao-entrega-valor",
+      "published": "2026-09-29T06:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "correios"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "correios",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Ministério da Justiça faz força-tarefa para processar influenciadores que divulgarem bets",
       "summary": "O Ministério da Justiça montou uma força-tarefa para processar por infração ao Código de Defesa do Consumidor os influenciadores que divulgarem sites de apostas, as chamadas bets, segundo servidores da Senacon (Secretaria Nacional do Consumidor) ouvidos sob reserva nesta segunda (28). Leia mais (09/29/2026 - 04h00)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/09/ministerio-da-justica-faz-forca-tarefa-para-processar-influenciadores-que-divulgarem-bets.shtml",
@@ -16814,6 +16699,29 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Reserva de R$ 1,9 bilhão no Orçamento de 2026 pode acomodar perda de receitas com fim das bets",
+      "summary": "O Orçamento de 2026 tem uma reserva de R$ 1,9 bilhão para acomodar uma eventual necessidade de aumento da trava de despesas devido à perda de arrecadação com a proibição das bets no próximo relatório bimestral de avaliação de receitas e despesas, em novembro. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/29/reserva-de-r-19-bilhao-no-orcamento-de-2026-pode-acomodar-perda-de-receitas-com-fim-das-bets.ghtml",
+      "published": "2026-09-29T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "title",
           "score": 20,
           "topic": null
@@ -17581,6 +17489,29 @@
       "score": 20.0
     },
     {
+      "title": "Retatrutida leva metade dos pacientes com diabetes a sair da obesidade; efeitos colaterais crescem com a dose - G1",
+      "summary": "Retatrutida leva metade dos pacientes com diabetes a sair da obesidade; efeitos colaterais crescem com a dose &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/saude/noticia/2026/09/29/retatrutida-leva-metade-dos-pacientes-com-diabetes-a-sair-da-obesidade-efeitos-colaterais-crescem-com-a-dose.ghtml",
+      "published": "2026-09-29T22:01:45+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "retatrutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "retatrutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Hypera diz que tomou ações necessárias após Anvisa proibir propaganda da Semavy - InfoMoney",
       "summary": "Hypera diz que tomou ações necessárias após Anvisa proibir propaganda da Semavy &nbsp;&nbsp; InfoMoney",
       "url": "https://www.infomoney.com.br/business/hypera-diz-que-tomou-acoes-necessarias-apos-anvisa-proibir-propaganda-da-semavy",
@@ -17688,6 +17619,98 @@
         {
           "sector": "Global Consumer",
           "alias": "rolex",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Após proibição, apostadores vão à Justiça para bloquear contas das bets e garantir pagamentos",
+      "summary": "Após a edição da MP (medida provisória) que proíbe as bets no Brasil , apostadores e outros credores iniciaram uma corrida à Justiça para tentar garantir o recebimento de valores a que afirmam ter direito. Leia mais (09/29/2026 - 23h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/apos-proibicao-apostadores-vao-a-justica-para-bloquear-contas-das-bets-e-garantir-pagamentos.shtml",
+      "published": "2026-09-30T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nubank nomeia nova CEO no México em meio à reestruturação de liderança - bloomberglinea.com.br",
+      "summary": "Nubank nomeia nova CEO no México em meio à reestruturação de liderança &nbsp;&nbsp; bloomberglinea.com.br",
+      "url": "https://www.bloomberglinea.com.br/2026/09/30/nubank-nomeia-nova-ceo-no-mexico-em-meio-a-reestruturacao-de-lideranca",
+      "published": "2026-09-30T02:21:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Armani’s last wishes may sell his fashion empire short",
+      "summary": "The fashion house is set to kick off a three-way process with LVMH, L’Oréal and EssilorLuxottica for the sale of a minority stake",
+      "url": "https://www.ft.com/content/7801306d-9141-4def-8b80-80358ee5d3d9?syn-25a6b1a6=1",
+      "published": "2026-09-30T04:00:14+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "armani"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "armani",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Depois das canetas emagrecedoras: entenda quando a cirurgia pode ser considerada - O GLOBO",
+      "summary": "Depois das canetas emagrecedoras: entenda quando a cirurgia pode ser considerada &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/ela/noticia/2026/09/30/depois-das-canetas-emagrecedoras-entenda-quando-a-cirurgia-pode-ser-considerada.ghtml",
+      "published": "2026-09-30T04:30:02+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
@@ -18224,6 +18247,37 @@
       "score": 16.0
     },
     {
+      "title": "Luxury watches must win back wrist space",
+      "summary": "The rise of health-tracking rings creates an opportunity for Cartier, Rolex and the like",
+      "url": "https://www.ft.com/content/838a6480-9888-4f4a-9d2f-8e02cb3889c9?syn-25a6b1a6=1",
+      "published": "2026-09-30T04:00:05+00:00",
+      "source": "https://www.ft.com/rss/home",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "cartier",
+        "rolex"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "cartier",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "rolex",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "BC inicia avaliação de viabilidade para integrar Pix com sistema de pagamento europeu",
       "summary": "O Banco Central do Brasil (BC) e o Banco Central Europeu (BCE) iniciam nesta quinta-feira uma fase de avaliação da viabilidade de interligação entre o Pix e o TIPs, sistema de pagamentos instantâneos da Europa. Segundo o BC, as instituições avaliarão aspectos técnicos, operacionais, jurídicos e de negócio relacionados à interligação das duas infraestruturas públicas de pagamentos. Após caso Master: Governo afrouxa regras de investimentos de fundos de previdência de servidores Bets: Lula discute medidas com ministros e avalia cenários para restringir apostas on-line O BC afirma que, considerando os fluxos econômicos e financeiros entre o Brasil e a área do euro, a interligação entre Pix e TIPS poderá contribuir para pagamentos transfronteiriços mais rápidos, eficientes e de menor custo entre as duas jurisdições. Fábio Graner: Se proibir bets, governo Lula terá de resolver como lidar com R$ 2,5 bilhões em outorgas pagas pelas empresas \"A iniciativa integra a agenda evolutiva do Pix e os esforços do BCB de interligação do sistema brasileiro de pagamentos instantâneos com infraestruturas similares multilaterais e de outras jurisdições”, diz o Banco Central em nota. Segundo o BC, essas interligações poderão permitir a realização de remessas internacionais e de transações de compra com disponibilização dos recursos em moeda local em poucos segundos. Quantas pessoas trabalham em home office no país? Veja mapa por capitais e onde o trabalho remoto mais avança “De forma mais ampla, a interligação de sistemas de pagamentos instantâneos tem o potencial de reduzir custos, aumentar a velocidade, ampliar o acesso e melhorar a transparência das transações transfronteiriças, em linha com os objetivos do Plano de Ação do G20 para o Aprimoramento de Pagamentos Transfronteiriços (G20 Roadmap for Enhancing Cross-Border Payments).​” Projeção: Fazenda reduz estimativas do crescimento da economia e da inflação em 2026 Em nota, o BC explicou que o TIPS foi criado para ser uma infraestrutura pan-europeia de liquidação instantânea em moeda de banco central, operando atualmente com o euro, a coroa sueca e a coroa dinamarquesa, com expansão prevista para outras moedas do Espaço Econômico Europeu.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/09/24/bc-inicia-avaliacao-de-viabilidade-para-integrar-pix-com-sistema-de-pagamento-europeu.ghtml",
@@ -18513,29 +18567,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Gigante chinesa de tecnologia anuncia expansão de seus centros de dados na Europa e no Oriente Médio",
-      "summary": "A gigante de tecnológica chinesa Alibaba anunciou, nesta quarta-feira, um plano para expandir seus centros de dados no exterior, com o objetivo de alcançar mercados em toda a Europa e no Oriente Médio. O Alibaba, sediado em Hangzhou, é um dos líderes do comércio eletrônico e da indústria de inteligência artificial da China. Seu modelo Qwen está entre os mais baixados do mundo. Leia também: Vale do Silício cria sua própria escola e propõe alternativa à universidade na era da IA OpenAI e Anthropic: Sam Altman e Dario Amodei participam de reunião do Conselho de Segurança da ONU A empresa informou que \"estabelecerá suas primeiras zonas de nuvem\" na Turquia, na Finlândia e nos Países Baixos, ao mesmo tempo em que \"ampliará sua presença de centros de dados na Malásia, na Alemanha, nos Emirados Árabes Unidos, na França e em Hong Kong\" nos próximos 12 meses. O anúncio ocorreu antes da aguardada reunião entre o presidente chinês, Xi Jinping, e seu homólogo americano, Donald Trump, em Washington, onde se espera que ambos os líderes discutam questões comerciais, entre outros temas. As duas potências estão envolvidas em uma rivalidade tecnológica que se concentra cada vez mais em indústrias de vanguarda, como semicondutores, IA e robótica. O CEO do Alibaba, Eddie Wu, anunciou nesta terça-feira que a empresa planeja treinar um sistema de IA com entre cinco e dez trilhões de parâmetros, o que o tornaria várias vezes mais potente do que o modelo chinês atual mais avançado. O Alibaba tem como meta alcançar mais de 20 gigawatts de capacidade global em centros de dados até 2032, disse Wu durante a conferência anual mais importante da empresa em Hangzhou. A companhia também apresentou no evento um novo chip de IA, o Zhenwu V900, afirmando que ele oferecerá o triplo do desempenho de seu antecessor.",
-      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/09/23/gigante-chinesa-de-tecnologia-anuncia-expansao-de-seus-centros-de-dados-na-europa-e-no-oriente-medio.ghtml",
-      "published": "2026-09-23T06:07:14+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "comércio eletrônico"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Corrigir distorções para avançar",
@@ -20301,6 +20332,52 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Com gasto recorde, dívida ameaça travar próximo governo",
+      "summary": "A redemocratização brasileira começou em meio a uma crise de endividamento que apressou o fim da ditadura militar . Ao final de 1984, último ano completo dos generais no poder, o Brasil devia o equivalente a 53,8% de seu PIB (Produto Interno Bruto) -ou seja, de sua renda anual- a credores externos, em moeda estrangeira. Leia mais (09/29/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/com-gasto-recorde-divida-ameaca-travar-proximo-governo.shtml",
+      "published": "2026-09-30T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Candidatos ao governo pegam carona na onda antibets em reta final de eleição",
+      "summary": "Candidatos ao governo nos estados oscilam entre pegar carona na onda antibets e criticar o timing do presidente Lula ( PT ) para a área. O petista assinou na sexta-feira (25), a uma semana do primeiro turno, uma medida provisória para tornar ilegais as apostas online . Leia mais (09/29/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/poder/2026/09/candidatos-ao-governo-pegam-carona-na-onda-antibets-em-reta-final-de-eleicao.shtml",
+      "published": "2026-09-30T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas online"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
           "field": "lead",
           "score": 8,
           "topic": null
