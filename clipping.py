@@ -173,6 +173,9 @@ TRUSTED_SOURCE_DOMAINS = {
     "moneytimes.com.br", "seudinheiro.com", "suno.com.br",
     "bloomberglinea.com.br", "cnnbrasil.com.br", "timesbrasil.com.br",
     "jota.info", "mercadoeconsumo.com.br", "diariodocomercio.com.br",
+    # Imprensa especializada de varejo digital. Nao estava na allowlist,
+    # entao mesmo que aparecesse numa busca do Google News seria descartada.
+    "ecommercebrasil.com.br",
     "meioemensagem.com.br", "revistapegn.globo.com",
     # Financeiro internacional
     "wsj.com", "reuters.com", "ft.com", "cnbc.com", "forbes.com",
@@ -354,6 +357,7 @@ FEED_URLS = [
     "https://veja.abril.com.br/economia/feed",
     "https://www.jota.info/feed",
     "https://mercadoeconsumo.com.br/feed/",
+    "https://www.ecommercebrasil.com.br/feed/",
     "https://neofeed.com.br/feed/",
     "https://pox.globo.com/rss/epocanegocios",
     "https://forbes.com.br/feed/",
@@ -383,6 +387,12 @@ FEED_URLS = [
     "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    # Imprensa especializada de varejo. Via Google News alem do feed direto:
+    # o feed do Mercado&Consumo so traz os 10 itens mais recentes (cobre
+    # poucas horas), e nao da pra verificar daqui qual URL de feed o
+    # E-Commerce Brasil usa. O site: cobre 2 dias e ja e padrao comprovado.
+    "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+    "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
     "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
 
     # ----- Google News: Saúde (GLP-1, canetas emagrecedoras) -----
@@ -1230,18 +1240,38 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
 
     fetched = dedup_articles(fetched)
 
+    # Funil por fonte: onde cada artigo cai entre a coleta e o JSON.
+    # Existe porque uma fonte pode contribuir ZERO por semanas sem ninguem
+    # notar: mercadoeconsumo.com.br tinha 0 artigos numa base de 772 enquanto
+    # o log dizia "OK RSS .../mercadoeconsumo.com.br/feed/: 10 itens" em todo
+    # run. O "OK RSS" so prova que a coleta funcionou; nao diz se algo entrou.
+    funil = {}
+    amostras = {}
+
+    def _funil(dom, etapa, a=None, motivo=""):
+        f = funil.setdefault(dom, {"coletados": 0, "ja_na_base": 0,
+                                   "fora_janela": 0, "score_baixo": 0,
+                                   "entraram": 0})
+        f[etapa] += 1
+        if a is not None:
+            amostras.setdefault(dom, []).append((motivo, a.title))
+
     new_count = 0
     dup_count = 0
     cutoff_time = datetime.now(timezone.utc) - timedelta(hours=since_hours)
     for a in fetched:
+        dom = _domain_of(a.url)
+        _funil(dom, "coletados")
         nu = dedup_key(a.url)
         norm_title = normalize_title_for_dedup(a.title)
 
         if nu in existing_urls or (norm_title and norm_title in existing_titles):
             dup_count += 1
+            _funil(dom, "ja_na_base")
             continue
 
         if a.published and a.published < cutoff_time:
+            _funil(dom, "fora_janela", a, "publicado %s" % a.published.isoformat()[:16])
             continue
 
         score_article(a)
@@ -1251,6 +1281,25 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             if norm_title:
                 existing_titles.add(norm_title)
             new_count += 1
+            _funil(dom, "entraram")
+        else:
+            _funil(dom, "score_baixo", a, "score %g" % a.score)
+
+    print("[funil] %-34s %5s %5s %5s %5s %5s" % (
+        "fonte", "colet", "base", "velho", "<%d" % MIN_SCORE_KEEP, "entr"), file=sys.stderr)
+    for dom, f in sorted(funil.items(), key=lambda kv: -kv[1]["coletados"]):
+        print("[funil] %-34s %5d %5d %5d %5d %5d" % (
+            dom[:34], f["coletados"], f["ja_na_base"], f["fora_janela"],
+            f["score_baixo"], f["entraram"]), file=sys.stderr)
+    # Amostra so das fontes que coletam mas nao contribuem nada: e ai que
+    # mora o problema silencioso. Fontes grandes sempre tem descarte, e isso
+    # e o filtro fazendo o trabalho dele.
+    for dom, f in funil.items():
+        if f["entraram"] == 0 and dom in amostras:
+            print("[funil] %s: coletou %d, nada entrou. Amostra do descarte:"
+                  % (dom, f["coletados"]), file=sys.stderr)
+            for motivo, titulo in amostras[dom][:8]:
+                print("[funil]     %-24s %s" % (motivo, titulo[:90]), file=sys.stderr)
 
     keep_cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
     merged = [a for a in existing if (not a.get("published")) or a["published"] >= keep_cutoff]
