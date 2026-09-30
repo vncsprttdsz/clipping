@@ -665,6 +665,9 @@ def normalize_title_for_dedup(title: str) -> str:
         r"estadao|folha|valor|globo|veja|exame|"
         r"reuters|bloomberg|cnbc|forbes|ft|wsj|"
         r"neofeed|infomoney|poder360|jota|"
+        # Sem estes, a mesma materia vinda do feed direto e do Google News
+        # ("... - Mercado&Consumo") nao seria reconhecida como duplicata.
+        r"mercado consumo|e commerce brasil|ecommercebrasil com br|"
         r"pipelinevalor|pipeline|"
         r"o globo|o globo brasil"
     )
@@ -753,6 +756,27 @@ def _search_rule(scope_text: str, rule: dict, context_text: str) -> bool:
     )
 
 
+# Nomes de veiculo que contem keyword ou termo de gate. O Google News anexa
+# " - Veiculo" ao titulo e repete o nome no resumo, entao o nome do veiculo
+# entra no texto pontuado de TODA materia dele:
+# - "E-Commerce Brasil" casa o alias "e-commerce" e ainda satisfaz o gate dele
+#   ("brasil"). No primeiro run com a fonte, ate a pagina de banner do site
+#   entrou com score 20, e uma materia sem relacao com varejo tambem entraria.
+# - "Mercado&Consumo" satisfaz o gate de "e-commerce" com "mercado", entao
+#   qualquer mencao de passagem a e-commerce virava score 20.
+# Removidos so do texto PONTUADO; o titulo exibido nao muda. O "&" e
+# obrigatorio no padrao do Mercado&Consumo para nao apagar "mercado consumo"
+# em prosa, e o \b depois de "brasil" preserva "e-commerce brasileiro".
+_VEICULO_NO_TEXTO_RE = re.compile(
+    r"e-?commerce\s+brasil\b|ecommercebrasil(?:\.com\.br)?"
+    r"|mercado\s*&\s*consumo|mercadoeconsumo(?:\.com\.br)?"
+)
+
+
+def _sem_veiculo(texto_n: str) -> str:
+    return _VEICULO_NO_TEXTO_RE.sub(" ", texto_n)
+
+
 def score_article(a: Article) -> None:
     """
     Score determinístico por setor.
@@ -770,13 +794,15 @@ def score_article(a: Article) -> None:
     a.matches = []
     a.score = 0.0
 
-    title_n = normalize(a.title)
-    summary_n = normalize(a.summary or "")
+    title_n = _sem_veiculo(normalize(a.title))
+    summary_n = _sem_veiculo(normalize(a.summary or ""))
     lead_n = summary_n[:LEAD_CHARS]
     body_n = summary_n[LEAD_CHARS:LEAD_CHARS + BODY_CHARS]
 
-    full_n = normalize(f"{a.title} {a.summary}")
-    economy_context_n = normalize(f"{a.title} {summary_n[:LEAD_CHARS]}")
+    # normalize() atua caractere a caractere, entao concatenar as partes ja
+    # normalizadas equivale a normalizar a concatenacao.
+    full_n = f"{title_n} {summary_n}"
+    economy_context_n = f"{title_n} {summary_n[:LEAD_CHARS]}"
 
     matched_aliases = set()
     matched_sectors = []
@@ -1298,7 +1324,7 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
         if f["entraram"] == 0 and dom in amostras:
             print("[funil] %s: coletou %d, nada entrou. Amostra do descarte:"
                   % (dom, f["coletados"]), file=sys.stderr)
-            for motivo, titulo in amostras[dom][:8]:
+            for motivo, titulo in amostras[dom][:3]:
                 print("[funil]     %-24s %s" % (motivo, titulo[:90]), file=sys.stderr)
 
     keep_cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
