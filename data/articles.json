@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T14:57:42.044856+00:00",
-  "count": 769,
-  "new_this_run": 12,
+  "generated_at": "2026-09-30T15:17:49.140159+00:00",
+  "count": 772,
+  "new_this_run": 11,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -7558,6 +7558,37 @@
         {
           "sector": "E-commerce",
           "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "“Godzilla” das canetas emagrecedoras? Novo remédio da Lilly reduz até 23,4% do peso - InfoMoney",
+      "summary": "“Godzilla” das canetas emagrecedoras? Novo remédio da Lilly reduz até 23,4% do peso &nbsp;&nbsp; InfoMoney",
+      "url": "https://www.infomoney.com.br/saude/godzilla-das-canetas-retatrutida",
+      "published": "2026-09-30T14:54:27+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -18963,6 +18994,29 @@
       "score": 20.0
     },
     {
+      "title": "Veto às bets: veja quais clubes do Campeonato Brasileiro já retiraram publicidade de casas de aposta - Estadão",
+      "summary": "Veto às bets: veja quais clubes do Campeonato Brasileiro já retiraram publicidade de casas de aposta &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/esportes/futebol/veto-as-bets-veja-quais-clubes-do-campeonato-brasileiro-ja-retiraram-publicidade-de-casas-de-aposta-npres",
+      "published": "2026-09-30T13:27:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Marketplace do QuintoAndar cresce mais de 100% e avança sobre aluguel",
       "summary": "Operação B2B estreia locação em oito cidades após piloto crescer mais de 75% ao mês em 2026",
       "url": "https://veja.abril.com.br/economia/marketplace-do-quintoandar-cresce-mais-de-100-e-avanca-sobre-aluguel",
@@ -19047,6 +19101,29 @@
         {
           "sector": "Cosméticos",
           "alias": "skala",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "BC obriga bancos e fintechs a barrar pagamentos a bets após MP que proíbe apostas on-line",
+      "summary": "O Banco Central (BC) determinou que bancos, instituições de pagamento e demais participantes de arranjos de pagamento, como o Pix e as bandeiras de cartão, deixem de processar, liquidar ou viabilizar qualquer transação destinada às bets. Resolução publicada Diário Oficial da União na terça-feira regulamenta um dispositivo da medida provisória (MP) editada pelo presidente Luiz Inácio Lula da Silva na semnaa passada que proibiu a exploração, a oferta e a publicidade de apostas on-line no país. O BC deixa claro que a vedação vale desde a data de publicação da MP, e não a partir de agora. A resolução também diz que a obrigação não depende de mudanças prévias nos regulamentos dos arranjos de pagamento. Na prática, nenhuma instituição pode alegar que ainda aguardava a adaptação de sistemas para continuar aceitando depósitos em contas de operadoras. A única exceção são as operações necessárias ao encerramento das atividades das empresas e à devolução de recursos aos apostadores. Para acelerar a adaptação, a resolução autoriza os instituidores dos arranjos a alterar seus regulamentos sem autorização prévia do BC e sem consulta aos participantes. As mudanças precisam apenas ser comunicadas à autarquia e ao mercado logo depois de implementadas. O BC é o instituidor do Pix, e as bandeiras são as instituidoras dos arranjos de cartão. A norma é assinada por Gilneu Francisco Astolfi Vivan, diretor de Regulação do BC. Os apostadores têm até as 23h59 de 5 de outubro para sacar o saldo das plataformas, que devem sair do ar em 6 de outubro. Em seguida, as operadoras têm dois dias para repassar aos bancos a lista de clientes, com CPF, valores devidos e conta de origem do dinheiro. As instituições financeiras terão então sete dias para devolver os recursos, preferencialmente para a conta de onde saíram. Os valores que não puderem ser restituídos irão para uma conta na Caixa Econômica Federal.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/09/30/bc-obriga-bancos-e-fintechs-a-barrar-pagamentos-a-bets-desde-a-mp.ghtml",
+      "published": "2026-09-30T14:57:37+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "title",
           "score": 20,
           "topic": null
@@ -19964,29 +20041,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "TikTok se prepara para MP que pode restringir anúncios de apostas antes do primeiro turno",
-      "summary": "O TikTok se prepara para perda da receita advinda da veiculação de propagandas de bets e cassinos online, enquanto outras plataformas também observam o movimento em Brasília. Nos bastidores, há expectativa de que o governo federal edite uma MP (medida provisória) restringindo a atividade de casas de aposta no país ainda antes do primeiro turno das eleições , que acontece em 11 dias. Leia mais (09/23/2026 - 12h01)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/09/tiktok-se-prepara-para-mp-que-pode-restringir-anuncios-de-apostas-antes-do-primeiro-turno.shtml",
-      "published": "2026-09-23T15:01:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "ARTIGO: Quem decide qual agente pode pagar",
@@ -21775,6 +21829,29 @@
         {
           "sector": "E-commerce",
           "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Nove em cada dez propostas dos presidenciáveis para a Saúde exigem recursos que o país não tem, mostra relatório",
+      "summary": "Um novo relatório elaborado pelo Instituto de Estudos para Políticas de Saúde (IEPS) em parceria com a organização de saúde pública Umane analisou os planos de governo dos candidatos à Presidência e concluiu que 95% das propostas exigem recursos que o país não tem para a área hoje, e tampouco indicam qual seria a fonte de financiamento para implementar as medidas. Bets, ultraprocessados e concentração de médicos: Especialistas elencam dez prioridades para o SUS no próximo governo O GLOBO ELEIÇÕES: Participe da comunidade e saiba tudo sobre as campanhas, debates e sabatinas As organizações analisaram os planos dos seis candidatos com 2% ou mais de intenção de voto nas pesquisas: o presidente Luiz Inácio Lula da Silva (PT), o senador Flávio Bolsonaro (PL), o escritor Augusto Cury (Avante), Renan Santos (Missão), o ex-governador de Goiás Ronaldo Caiado (PSD) e o ex-governador de Minas Gerais Romeu Zema (Novo). Ao todo, foram catalogadas 95 propostas na área. A gerente de relações institucionais do IEPS, Julia Pereira, destaca que o orçamento da pasta da Saúde já é “insuficiente” e que quase todas as propostas “demandam mais recursos”. Além disso, critica que, mesmo assim, alguns candidatos “defendem o fim do piso da saúde ou discursam sobre cortes para o setor”. Segundo os dados mais recentes do Instituto Brasileiro de Geografia e Estatística (IBGE), o governo brasileiro investe 4% do produto interno bruto (PIB) em saúde, percentual que entidades como a Fundação Oswaldo Cruz (Fiocruz) já defenderam subir para pelo menos 7% para suprir as necessidades do Sistema Único de Saúde (SUS). O levantamento do IEPS e da Umane também aponta que 47% das propostas dos presidenciáveis não detalham como seriam executadas, o que, na visão de Julia Pereira, representa um obstáculo para a concretização das medidas prometidas pelos candidatos: — Sem a indicação da fonte de financiamento e uma sinalização sobre como executá-las, as propostas podem acabar se resumindo a promessas de campanha. Outra questão identificada no relatório é que 83% dos planos para a saúde dependeriam de uma articulação com estados e municípios, e não apenas do governo federal, já que o SUS é gerido de forma tripartite. Isso, no entanto, não é mencionado nos documentos elaborados pelos candidatos. Para a gerente do IEPS, isso demonstra que “muitos não entendem o funcionamento do sistema de saúde”. Além disso, 56% das propostas já existem em algum grau dentro de uma política ou programa. Ainda assim, os planos de governo apresentam essas medidas como novidades. É o caso, por exemplo, do uso do CPF como identificador no SUS, o que já está regulamentado desde 2025. — Os planos demonstram um sério desconhecimento sobre as políticas de saúde já implementadas ou em curso — diz Julia. Por fim, embora seja uma pauta comum nos discursos dos presidenciáveis, que fazem diferentes diferentes promessas para combater o problema das apostas online no Brasil, os planos de governo não apresentam medidas para enfrentar as consequências das bets no SUS. Segundo um estudo do próprio IEPS, já há um impacto anual de cerca de R$ 30,6 bilhões ao ano das apostas no sistema de saúde. Os planos também não abordam os efeitos das mudanças climáticas e do ambiente digital na saúde. — É difícil pensar no futuro do SUS sem tocar nesses temas. São desafios que nascem fora do setor da saúde, mas geram grande demanda assistencial. Já existem dados que mostram os impactos das bets e das mudanças climáticas na saúde das pessoas e no SUS e a ausência ou superficialidade no tratamento desses temas denota que os planos não estão atentos aos desafios do nosso tempo — afirma a gerente do IEPS. Initial plugin text",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/09/30/nove-em-cada-dez-propostas-dos-presidenciaveis-para-a-saude-exigem-recursos-que-o-pais-nao-tem-mostra-relatorio.ghtml",
+      "published": "2026-09-30T15:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "lead",
           "score": 8,
           "topic": null
