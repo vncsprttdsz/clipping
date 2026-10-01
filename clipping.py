@@ -661,6 +661,60 @@ def dedup_key(url: str) -> str:
 normalize_url = dedup_key
 
 
+# O Google News anexa " - Veiculo" a todo titulo. Na coleta o nome exato vem
+# no <source> do RSS, entao o corte e preciso. Esta lista serve para os itens
+# que ja estavam na base antes da limpeza existir (e de rede, caso o <source>
+# falte): so corta se o sufixo for um veiculo conhecido, porque um titulo ja
+# limpo pode terminar legitimamente em " - sessao de 24/9" e nao pode perder
+# esse pedaco a cada run.
+_VEICULOS_GN = {normalize(v) for v in (
+    "G1", "O Globo", "Globo", "Extra online", "Valor Econômico", "Valor",
+    "Pipeline Valor", "Folha de S.Paulo", "Folha", "UOL", "Estadão", "Exame",
+    "Veja", "Veja Saúde", "Assine Abril", "Época Negócios", "Brazil Journal",
+    "NeoFeed", "InfoMoney", "Money Times", "Seu Dinheiro", "CNN Brasil",
+    "Forbes Brasil", "Forbes", "Bloomberg Línea Brasil", "Bloomberg Línea",
+    "Bloomberg", "Reuters", "CNBC", "Times Brasil", "Poder360", "R7",
+    "Mercado&Consumo", "E-Commerce Brasil", "Meio e Mensagem", "PEGN",
+    "Diário do Comércio", "Panorama Farmacêutico", "Guia da Farmácia",
+    "Jornal Correio", "iProUP", "Ámbito", "Ámbito Financiero",
+    "El Economista", "El Financiero")}
+
+_SUFIXO_GN_RE = re.compile(r"^(.{15,}?)\s+[-–—|]\s+([^-–—|]{1,60})$")
+_SUFIXO_FOLHA_RE = re.compile(r"(?<=.{15})\s+-\s+\d{2}/\d{2}/\d{4}\s+-\s+[^-–—|]{1,40}$")
+_SUFIXO_DOMINIO_RE = re.compile(r"^[a-z0-9-]+(?:\.[a-z0-9-]+)*\.[a-z]{2,}$", re.I)
+
+
+def strip_gn_venue(title: str, venue: str = "") -> str:
+    """Tira o " - Veiculo" que o Google News poe no fim do titulo.
+
+    venue: nome que veio no <source> do item. Sem ele, so corta sufixo que
+    seja dominio (" - estadao.com.br") ou veiculo da lista acima.
+    """
+    t = (title or "").strip()
+    venue = (venue or "").strip()
+    # Pelo <source>, comparando o texto inteiro: o nome pode ter "|"
+    # ("Times Brasil | CNBC"), que o regex abaixo trataria como separador.
+    if venue:
+        for sep in (" - ", " – ", " — ", " | "):
+            if t.endswith(sep + venue) and len(t) - len(sep + venue) >= 15:
+                t = t[:-len(sep + venue)].rstrip()
+                break
+    # Ate 3 voltas: ha sufixo duplo ("... - Bloomberg Línea Brasil - Bloomberg
+    # Línea Brasil") e composto ("... - Times Brasil | CNBC").
+    for _ in range(3):
+        m = _SUFIXO_GN_RE.match(t)
+        if not m:
+            break
+        sufixo = m.group(2).strip()
+        if not (_SUFIXO_DOMINIO_RE.match(sufixo) or normalize(sufixo) in _VEICULOS_GN):
+            break
+        t = m.group(1).strip()
+    # A Folha poe data e editoria no titulo da pagina, que o Google News
+    # repete: "Manchete - 30/09/2026 - Equilíbrio e Saúde".
+    t = _SUFIXO_FOLHA_RE.sub("", t)
+    return t
+
+
 def normalize_title_for_dedup(title: str) -> str:
     """Normaliza titulo para deduplicacao cross-source.
 
@@ -966,6 +1020,9 @@ def apply_topic_caps(articles: List[dict]) -> List[dict]:
 def parse_entry(entry, source: str) -> Optional[Article]:
     try:
         title = (entry.get("title") or "").strip()
+        if "news.google.com" in source:
+            venue = (entry.get("source") or {}).get("title") or ""
+            title = strip_gn_venue(title, venue)
         url = (entry.get("link") or "").strip()
         url = clean_url(url)
         if is_blocked_url(url):
@@ -1211,6 +1268,12 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
             existing = data.get("articles", [])
         except Exception:
             existing = []
+
+    # Limpa o " - Veiculo" dos itens do Google News que entraram antes de a
+    # coleta passar a fazer isso. Idempotente: so corta veiculo conhecido.
+    for a_dict in existing:
+        if "news.google.com" in (a_dict.get("source") or ""):
+            a_dict["title"] = strip_gn_venue(a_dict.get("title", ""))
 
     if rescore and existing:
         print(f"[rescore] Re-aplicando matching em {len(existing)} artigos...",
