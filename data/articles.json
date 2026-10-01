@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-01T09:50:02.292621+00:00",
-  "count": 687,
+  "generated_at": "2026-10-01T10:17:27.327308+00:00",
+  "count": 686,
   "new_this_run": 8,
   "articles": [
     {
@@ -750,70 +750,6 @@
         }
       ],
       "score": 76.0
-    },
-    {
-      "title": "Amazon no Brasil atinge 100 mil vendedores e amplia aposta logística, afirma CEO",
-      "summary": "Após anunciar em meados deste ano parcerias com grandes varejistas, como Magazine Luiza e Carrefour, a Amazon alcança 100 mil vendedores parceiros cadastrados no marketplace, 300 centros de distribuição e um total de 150 milhões de produtos colocados à venda na plataforma em 50 categorias diferentes, diz Juliana Sztrajtman, CEO da operação no Brasil. Leia mais (09/24/2026 - 07h00)",
-      "url": "https://c-level.folha.uol.com.br/c-level-entrevista/2026/09/amazon-no-brasil-atinge-100-mil-vendedores-e-amplia-aposta-logistica-afirma-ceo.shtml",
-      "published": "2026-09-24T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce",
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "amazon",
-        "carrefour",
-        "centros de distribuição",
-        "logística",
-        "magazine luiza",
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "magazine luiza",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "centros de distribuição",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "logística",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 72.0
     },
     {
       "title": "Qual será a próxima “caneta emagrecedora” para o varejo farmacêutico?",
@@ -3377,38 +3313,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Após Kopenhagen, Renata Vichi prepara expansão de R$ 100 milhões na rede de academias SIX",
-      "summary": "Após Kopenhagen, Renata Vichi prepara expansão de R$ 100 milhões na rede de academias SIX &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/insight/apos-kopenhagen-renata-vichi-prepara-expansao-de-r-100-milhoes-na-rede-de-academias-six/p",
-      "published": "2026-09-24T10:05:44+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Varejo Alimentar",
-        "Academias"
-      ],
-      "matched_aliases": [
-        "kopenhagen",
-        "rede de academias"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "kopenhagen",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Academias",
-          "alias": "rede de academias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de setembro! Resgate agora (24)",
@@ -16982,6 +16886,29 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Jeans premium une inovação, durabilidade e sustentabilidade em nova linha da Renner",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/jeans-premium-une-inovacao-durabilidade-e-sustentabilidade-em-nova-linha-da-renner",
+      "published": "2026-10-01T10:01:00+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
           "field": "title",
           "score": 20,
           "topic": null
