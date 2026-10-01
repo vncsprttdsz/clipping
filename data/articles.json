@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-01T11:14:24.259720+00:00",
-  "count": 687,
-  "new_this_run": 8,
+  "generated_at": "2026-10-01T11:43:58.774070+00:00",
+  "count": 689,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -3315,68 +3315,6 @@
       "score": 42.0
     },
     {
-      "title": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de setembro! Resgate agora (24)",
-      "summary": "Prime Gaming: Amazon Luna recebe últimos jogos grátis de setembro! Resgate agora (24) &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/tecmundo/voxel/prime-gaming-amazon-luna-recebe-ultimos-jogos-gratis-de-setembro-resgate-agora-24",
-      "published": "2026-09-24T11:15:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Shopee vence Mercado Livre em preços, mas comparar ajuda a economizar, diz JPMorgan",
-      "summary": "Shopee vence Mercado Livre em preços, mas comparar ajuda a economizar, diz JPMorgan &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/shopee-tem-precos-menores-que-o-mercado-livre-em-59-dos-produtos-segundo-o-jpmorgan",
-      "published": "2026-09-24T11:42:41+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado livre",
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
       "title": "Farm Rio mira crescer na América Latina, diz CEO, enquanto Azzas negocia venda da marca",
       "summary": "Farm Rio mira crescer na América Latina, diz CEO, enquanto Azzas negocia venda da marca &nbsp;&nbsp; Bloomberg Línea Brasil",
       "url": "https://www.bloomberglinea.com.br/negocios/farm-rio-mira-crescer-na-america-latina-diz-ceo-enquanto-azzas-negocia-venda-da-marca",
@@ -5737,6 +5675,37 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa alerta para possível relação entre casos de perda de visão e uso de canetas emagrecedoras",
+      "summary": "Anvisa alerta para possível relação entre casos de perda de visão e uso de canetas emagrecedoras &nbsp;&nbsp; R7",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMEsteUZyV3p2UXRQelJYN25SUnl4ekkzNHIyOG9XcjFDeG8tWi1GZjcxT0dFdWNtdm51YjBPbkFSNVRfMHlQZlMyWVhKbTdoV2lmYnBSbnZiSU5vZzdOSlZGa3MtYkY1SldoOGdpeU9jWV9GYkFzckNVRnB0S1lkWmhNZnZRbkgwM0MxRXNtNExUQlk2N3lZSHJFY0lnV1VMWVNiNnRlcEtteUUxclpRQm1OWHNROFdEc0k4cVkwRUwzOXJRT1ZETmIwakFKd2NOTVlpRGFOSDZaQmFNclE?oc=5",
+      "published": "2026-09-30T23:24:16+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -8579,6 +8548,37 @@
         {
           "sector": "Academias",
           "alias": "gympass",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Agenda de empresas: Cade aprova compra de fatia do Assaí; Petrobras recebe parcela de subvenção",
+      "summary": "Assaí O Conselho Administrativo de Defesa Econômica (Cade), vinculado ao Ministério da Justiça, aprovou a operação de compra de 11,7% do Assaí por parte dos membros da família dona do Grupo Muffato. Foram cerca de sete meses de análise das informações. Petrobras A Petrobras recebeu cerca de R$ 1,03 bilhão em novas parcelas dos programas federais de subvenção econômica destinados à comercialização de combustíveis. Neoenergia A Neoenergia concluiu a transação para ampliar sua parceria estratégica com o GIC, fundo soberano de Cingapura, no negócio de redes de transmissão de energia elétrica. A operação incorpora sete ativos de transmissão da Neoenergia à plataforma conjunta, chamada Neoenergia Transmissão. Bradesco O Bradesco informou que, terminado o primeiro período de subscrição de sobras do seu aumento de capital, restaram ainda 1.505.454 de ações ordinárias e 14.553.057 ações preferenciais. Ou seja, o banco vendeu na segunda etapa, divulgada ontem, 48.711.930 papéis ON e 137.610.535 papéis PN. Ao preço de R$ 15,43 o papel ON e R$ 17,64 o PN, foram levantados R$ 3,179 bilhões. Iguatemi A Iguatemi concluiu a venda de participações em cinco shoppings ao fundo imobiliário TRX Real Estate pelo valor total de R$ 876,1 milhões. JSL O conselho de administração da JSL elegeu Eduardo Cordeiro Nauck para o cargo de diretor administrativo financeiro e de relações com investidores da companhia. Nauck substitui Guilherme de Andrade Fonseca Sampaio, que vinha acumulando as funções com a de diretor-presidente. OSX A OSX disse que a Justiça do Rio de Janeiro homologou o plano de recuperação judicial, aprovado por seus credores em assembleia no último dia 24 de agosto, e concedeu a recuperação judicial à companhia e às demais recuperandas. Alupar O conselho de administração da Alupar aprovou a participação da companhia no Leilão de Transmissão nº 004/2026 da Agência Nacional de Energia Elétrica (Aneel), que vai conceder novos projetos de transmissão de energia elétrica no país. Embraer A Embraer convocou uma assembleia geral extraordinária para 30 de outubro com o objetivo de aprovar a incorporação da subsidiária integral GPX, em uma operação de reorganização societária que não deve alterar a estrutura de capital da fabricante de aeronaves. Paranapanema A Paranapanema informou ter realizado todos os pagamentos relativos ao instrumento de transação celebrado com os credores do acordo global em maio deste ano. Assim, liquidou, de forma definitiva, uma dívida de R$ 4,27 bilhões. C&amp;A O Morgan Stanley passou a deter 15.837.543 ações ordinárias da C&amp;A, equivalentes a 5,1% do capital social da companhia. Tecnisa Os acionistas da Tecnisa aprovaram em assembleia geral extraordinária o grupamento da totalidade das ações ordinárias da companhia, na proporção de dez ações para formar uma, sem alteração do capital social. Cantu Os acionistas da Cantu Store e de sua subsidiária CPX Distribuidora aprovaram, em assembleias gerais extraordinárias realizadas ontem (30), a incorporação da Cantu pela CPX. Desktop A gestora Vinland Capital passou a deter 5.867.715 ações ordinárias da Desktop, representando 5,05% do seu capital social. Oi Os credores da Tahto, subsidiária integral da Oi, aprovaram em assembleia o plano de recuperação judicial da empresa e seu respectivo aditamento. O plano da Tahto será submetido à homologação do Juízo da 7ª Vara Empresarial do Rio de Janeiro. Divulgação",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/01/agenda-de-empresas-cade-aprova-compra-de-fatia-do-assai-petrobras-recebe-parcela-de-subvencao.ghtml",
+      "published": "2026-10-01T11:27:04+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "muffato"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "muffato",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -16963,6 +16963,52 @@
         {
           "sector": "Academias",
           "alias": "wellhub",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Após emprestar a mais de mil academias, Wellhub amplia fundo em R$ 100 milhões",
+      "summary": "Após emprestar a mais de mil academias, Wellhub amplia fundo em R$ 100 milhões &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/estilo-de-vida/apos-emprestar-a-mais-de-mil-academias-wellhub-amplia-fundo-em-r-100-milhoes",
+      "published": "2026-10-01T11:15:26+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "wellhub"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Dupla suspeita de assaltos em série é presa com canetas emagrecedoras, em João Pessoa",
+      "summary": "Dupla suspeita de assaltos em série é presa com canetas emagrecedoras, em João Pessoa &nbsp;&nbsp; R7",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPUlE1NU05Z1JCQ1RQaXd3Y2dTV25mRGMyM2ZKYnc0RERET2ZBR2RVVm1pdXZwNHVzWXlKTk41RmJ0WDBremhGQ2J2VjE2WkU2SkM1c2pCY3JHVGk3NlZRbEdKeW5GZ0tjY2Fsa054TngwVjc1VVJ2RktDdlh2RUw5N29GX3YxTUZCNTRjQVJfaFhLQzlGQXkyaDdfYkdJSGZfY0Iwc2pEWGpJR3EwMFd6cHVCN1RKYjYtR2cybjEtaDZrV29HV29VX1pTczJ3Tm1JOGVTR3NjTUU?oc=5",
+      "published": "2026-10-01T11:15:28+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
