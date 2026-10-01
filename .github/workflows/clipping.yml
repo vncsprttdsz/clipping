@@ -41,6 +41,14 @@ on:
     # --- rede de seguranca: dispara na vespera, sobrevive a atraso de horas
     - cron: '13 22 * * *'  # 19:13 BRT (D-1)  tolera ate 11,2h de atraso
     - cron: '23 1 * * *'   # 22:23 BRT (D-1)  tolera ate 8,0h
+
+    # --- ALIMENTAM A ANCORA (ver step abaixo). Medido 28/set-01/out: o cron
+    # das 01:23 chega 06:50-07:14 UTC e o das 03:23 chega 09:49-09:57. Tudo
+    # que chega entre 03:40 e 09:10 UTC dorme ate 09:10 e roda na hora certa.
+    # Tres slots a mais entre os dois para nao depender de um so.
+    - cron: '53 1 * * *'   # 22:53 BRT (D-1)
+    - cron: '23 2 * * *'   # 23:23 BRT (D-1)
+    - cron: '53 2 * * *'   # 23:53 BRT (D-1)
     - cron: '23 3 * * *'   # 00:23 BRT        tolera ate 6,0h
 
     # --- LADDER DO REGIME DE ATRASO ALTO (medido 01-03/set: 256 a 298 min)
@@ -88,9 +96,9 @@ concurrency:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    # Sleep da ancora (ate 100 min) + run (~3 min) cabem folgados. O limite
-    # evita runner preso caso algo trave.
-    timeout-minutes: 130
+    # Sleep da ancora (ate 330 min) + run (~4 min) cabem folgados. O teto
+    # do GitHub para um job e 360 min; o limite evita runner preso.
+    timeout-minutes: 350
 
     steps:
       # ANCORA: quem controla a hora do scraper passa a ser o job, nao o
@@ -102,6 +110,15 @@ jobs:
       # cron calibrada para um regime fica desalinhada quando ele muda, e o
       # clipping volta a ficar 1h velho as 06:30.
       #
+      # JANELA era 100 min e funcionou ate 26/set: o cron das 03:23 chegava
+      # 08:08-09:05 e dormia ate 09:10. Em 27/set o atraso subiu ~1h (esse
+      # cron passou a chegar 09:22-09:57, depois do alvo, sem dormir) e o
+      # ultimo run antes das 06:30 BRT virou o das 01:23, que chega ~04:00
+      # BRT e com 100 min de janela nao esperava. Daí o clipping 2h velho.
+      # Agora a janela e 330 min: qualquer run que chegue a partir de 03:40
+      # UTC espera o alvo. Dormir custa so tempo de runner, e repo publico
+      # nao paga minutos. O teto e o limite de 360 min por job do GitHub.
+      #
       # Vem ANTES do checkout de proposito: dormir depois deixaria o working
       # tree 70 min velho, e outro run pode ter dado push nesse intervalo.
       #
@@ -110,7 +127,9 @@ jobs:
         if: ${{ github.event_name == 'schedule' }}
         run: |
           ALVO="09:10"   # 06:10 BRT, depois dos portais que publicam 05:00-06:00
-          JANELA=6000    # so espera se o alvo estiver a no maximo 100 min
+          JANELA=19800   # so espera se o alvo estiver a no maximo 330 min
+          # Registra qual cron gerou o run, para medir o atraso de cada slot.
+          echo "Cron: ${{ github.event.schedule }}"
           alvo=$(date -u -d "today $ALVO" +%s)
           agora=$(date -u +%s)
           espera=$(( alvo - agora ))
