@@ -413,10 +413,24 @@ EXPERIMENTAL_FEEDS = [
     # Ámbito e iProUP (Argentina) bloqueiam o feed direto com HTTP 403 a
     # partir dos IPs do runner (WAF regional). A via Google News site: é
     # servida pela infra do Google e contorna o bloqueio.
-    "https://news.google.com/rss/search?q=site:ambito.com&hl=es-419&gl=AR&ceid=AR:es-419",
-    "https://news.google.com/rss/search?q=site:iproup.com&hl=es-419&gl=AR&ceid=AR:es-419",
-    "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
-    "https://news.google.com/rss/search?q=site:elfinanciero.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
+    #
+    # Busca COM TEMA e janela de 2 dias. A versao anterior era "site:X" pura,
+    # que devolve as 100 materias "mais relevantes" do site, sem tema e sem
+    # data. Para Ambito, El Economista e El Financiero, que publicam centenas
+    # por dia, isso eram 100 materias aleatorias de politica e economia, varias
+    # com semanas de idade: num run, das 263 coletadas nas tres, nenhuma
+    # entrou, e a base de 7 dias tinha so 10 materias das quatro fontes. As de
+    # MELI ficavam soterradas. Bonus: cada item do Google News custa 2
+    # requisicoes HTTP para resolver a URL, entao eram ~500 por run gastas
+    # em ruido.
+    #
+    # iProUP fica com busca ampla: e focado em fintech/varejo digital (6 das
+    # 10 materias vieram dele) e cobre nomes fora do tema, como Uala,
+    # Naranja X, Revolut e Despegar Pago.
+    "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+    "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aambito.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+    "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aeleconomista.com.mx+when%3A2d&hl=es-419&gl=MX&ceid=MX:es-419",
+    "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aelfinanciero.com.mx+when%3A2d&hl=es-419&gl=MX&ceid=MX:es-419",
     "https://redir.folha.com.br/redir/online/emcimadahora/rss091/*https://www1.folha.uol.com.br/emcimadahora/",
 ]
 

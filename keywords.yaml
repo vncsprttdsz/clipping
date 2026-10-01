@@ -161,10 +161,28 @@ sectors:
                      billetera, compra, compras, comercio, galperin, meli, unicornio,
                      plataforma, logística, logistica, vendedor, vendedores,
                      comprador, app, aplicación, ia, inteligencia artificial,
-                     paga, pagar, invierte, invertir, crédito, credito, venta, ventas]
+                     paga, pagar, invierte, invertir, crédito, credito, venta, ventas,
+                     # Vocabulario corporativo que faltava. Sem ele, "Mercado
+                     # Libre invertirá US$ 3.400 millones en México" dava score
+                     # 0: o gate so conhecia "invierte", nao o futuro nem
+                     # "inversión", e nao tinha "tienda" nem os concorrentes.
+                     # Os concorrentes sao o sinal mais forte de que "mercado
+                     # libre" e a empresa: materia de cambio nao cita a Temu.
+                     # De proposito NAO entram "competencia"/"competir" nem
+                     # nomes de pais, comuns em prosa de economia sobre livre
+                     # mercado e em toda materia do Ambito.
+                     invertirá, inversión, inversiones, anuncia, lanza, tienda,
+                     tiendas, online, usuarios, clientes, empleos, envíos,
+                     entregas, centro de distribución, nasdaq, trimestre,
+                     resultados, ganancias, ingresos,
+                     amazon, temu, shein, shopee, tiktok]
+      # "mercado libre" minusculo e livre mercado, e o Ambito fala o dia todo
+      # do dolar "en el mercado libre de cambios". Com o feed agora filtrado
+      # por tema, essas materias passam a chegar quando citam a MELI de
+      # passagem, entao o bloqueio precisa ser explicito.
       requires_none: [mercado libre de energía, mercado libre de energia,
                       energía eléctrica, libre mercado, libre comercio,
-                      libre cambio]
+                      libre cambio, mercado libre de cambio, dólar libre]
     - alias: shopee
       # Esportivo: álbum/figurinhas da Copa = ação de marketing, não e-commerce
       requires_none: [álbum de figurinhas, album de figurinhas, álbum da copa,
@@ -319,7 +337,13 @@ sectors:
                      revenue, varejo, varejista, marketplace, logística,
                      logistica, centro de distribuição, investimento, investir,
                      aporte, brasil, no país, no pais, vendas, comércio eletrônico,
-                     loja, lojas, fulfillment, aws no brasil]
+                     loja, lojas, fulfillment, aws no brasil,
+                     # Espanhol, para as fontes de LatAm. "Amazon invierte 5.000
+                     # millones en Querétaro" e "Amazon abre su primera tienda
+                     # física en Argentina" davam score 0.
+                     invierte, invertirá, inversión, inversiones, tienda, tiendas,
+                     ventas, envíos, comercio electrónico, centro de datos,
+                     méxico, argentina, colombia, chile, latinoamérica]
       requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
                       valuation da anthropic, segundo o papa, openai, nvidia,
                       rio amazonas, floresta amazônica, floresta amazonica,
@@ -330,7 +354,13 @@ sectors:
       requires_any: [shop, ecommerce, e-commerce, vendas, marketplace,
                      live commerce, comércio eletrônico, compra, compras,
                      crédito, financeira, fintech, pagamento, transportadora,
-                     logística, entrega, varejo, consumidor, beleza, sephora]
+                     logística, entrega, varejo, consumidor, beleza, sephora,
+                     # Espanhol. "TikTok lanza su tienda online en Argentina para
+                     # competir con Mercado Libre" dava score 0. "online" nao
+                     # entra: o TikTok E uma plataforma online, entao casaria
+                     # qualquer materia sobre conteudo ou moderacao.
+                     tienda, tiendas, vender, ventas, vendedores,
+                     comercio electrónico, mercado libre]
 
   # ------------------------------------------------------------
   # VAREJO ALIMENTAR
