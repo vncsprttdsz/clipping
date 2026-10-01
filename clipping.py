@@ -668,7 +668,13 @@ def normalize_title_for_dedup(title: str) -> str:
     venha de fontes diferentes (RSS nativo + Google News) seja deduplicada.
     Sufixos compostos vem PRIMEIRO no regex (forbes brasil antes de forbes).
     """
-    t = normalize(title or "")
+    # O Google News rotula o veiculo ora pelo nome (" - iProUP"), ora pelo
+    # dominio (" - iproup.com"). O nome ja e tratado pela lista abaixo; o
+    # dominio sai aqui, ANTES de normalizar, enquanto o ponto ainda o
+    # identifica. Sem isso a mesma materia do iProUP entrou duas vezes. Exige
+    # TLD com letras, para nao comer um titulo terminado em " - 3.400".
+    t = re.sub(r"\s+-\s+[a-z0-9-]+(?:\.[a-z]{2,})+\s*$", "", title or "", flags=re.I)
+    t = normalize(t)
     t = re.sub(r"[^\w\s]", " ", t)
     t = re.sub(r"\s+", " ", t).strip()
     venues_pattern = (
@@ -678,7 +684,7 @@ def normalize_title_for_dedup(title: str) -> str:
         r"el economista|el financiero|"
         r"estadao|folha|valor|globo|veja|exame|"
         r"reuters|bloomberg|cnbc|forbes|ft|wsj|"
-        r"neofeed|infomoney|poder360|jota|"
+        r"neofeed|infomoney|poder360|jota|iproup|ambito|uol|"
         # Sem estes, a mesma materia vinda do feed direto e do Google News
         # ("... - Mercado&Consumo") nao seria reconhecida como duplicata.
         r"mercado consumo|e commerce brasil|ecommercebrasil com br|"

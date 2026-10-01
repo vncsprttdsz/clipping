@@ -279,6 +279,15 @@ sectors:
                       mercado livre arena, arena pacaembu, álbum da copa,
                       album da copa, figurinha, figurinhas, álbum de figurinhas,
                       reprodução/mercado livre]
+    # Fora do Brasil a Nubank opera como "Nu": "Nu Mexico nombra a Estephany
+    # Ley como nueva CEO" (El Financiero) foi descartada com score 0 porque o
+    # alias "nubank" nao casa. "nu" sozinho e ambiguo demais (em portugues e
+    # "pelado"), entao so as formas compostas.
+    - nu méxico
+    - nu colombia
+    - nu holdings
+    # Braco logistico da MELI, citado assim na imprensa de LatAm.
+    - mercado envíos
     - alias: nubank
       # Naming rights ("estádio do Nubank", "Nubank Parque/ex-Allianz") e
       # menções incidentais em listas são esporte/futebol, não fintech.
