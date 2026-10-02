@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T10:29:37.083979+00:00",
-  "count": 655,
-  "new_this_run": 13,
+  "generated_at": "2026-10-02T10:37:50.474327+00:00",
+  "count": 656,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Estratégia com remédios e canetas aproxima Meli do Amazon Now",
@@ -18298,6 +18298,29 @@
         {
           "sector": "Farmácias",
           "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Lula diz que discute com BC proibir bancos de emitirem mais de um cartão de crédito por pessoa",
+      "summary": "O presidente Luiz Inácio Lula da Silva afirmou nesta quinta-feira que está discutindo com o Banco Central (BC) a proibição de que as instituições financeiras disponibilizem mais de um cartão de crédito por pessoa. — Estamos discutindo com o Banco Central. Vamos proibir os bancos de dar mais de um cartão de crédito por pessoa — disse Lula, em entrevista ao Flow Podcast. Flexibilização: STJ permite penhora de salário para pagar dívidas; entenda as regras Como fica: Saldo não sacado das bets será devolvido por bancos e Caixa assume o restante; entenda o processo O presidente relatou o caso de uma pessoa que, segundo ele, recebeu quatro cartões e contraiu uma dívida de R$ 80 mil. O petista ainda falou em \"moralizar a questão do crédito\" no país e disse que o presidente do BC, Gabriel Galípolo, sabe do problema. — Precisamos fazer uma reformulação na economia brasileira. Meu pessoal da economia sabe, o Galípolo sabe, que vamos ter que moralizar essa questão de crédito. Não é possível a gente permitir a sociedade se endividar de forma irresponsável. Vamos tentar cuidar disso com carinho. Na semana passada, o governo lançou o programa Desenrola 3.0, que mira acabar com até R$ 150 bilhões em dívidas das famílias brasileiras. Endividamento: Inadimplência das famílias sobe e renova recorde em agosto, diz Banco Central A proposta é que a União compre com desconto mínimo de 90% as dívidas das instituições financeiras credoras e repasse esse desconto para os devedores, que poderão quitar a dívida à vista ou parcelar o saldo remanescente.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/01/lula-diz-que-discute-com-bc-proibir-bancos-de-emitirem-mais-de-um-cartao-de-credito-por-pessoa.ghtml",
+      "published": "2026-10-02T01:52:41+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "lead",
           "score": 8,
           "topic": null
