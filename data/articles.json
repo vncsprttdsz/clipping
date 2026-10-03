@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T10:30:41.107628+00:00",
+  "generated_at": "2026-10-03T12:01:13.030116+00:00",
   "count": 612,
-  "new_this_run": 7,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Pacientes que trocaram caneta por pílula perderam mais peso, indica novo estudo",
@@ -511,6 +511,61 @@
         {
           "sector": "Global Consumer",
           "alias": "eli lilly",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 76.0
+    },
+    {
+      "title": "A caneta emagrecedora ficou mais barata. Agora as farmácias precisam vender mais",
+      "summary": "Seis meses após o fim da patente da semaglutida, XP vê queda de cerca de 7% no preço médio do Mounjaro",
+      "url": "https://exame.com/invest/mercados/a-caneta-emagrecedora-ficou-mais-barata-agora-as-farmacias-precisam-vender-mais",
+      "published": "2026-10-03T08:00:15+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "farmácias",
+        "mounjaro",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -1119,6 +1174,45 @@
         {
           "sector": "Global Consumer",
           "alias": "airbnb",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "“Bebê Mounjaro”: caneta emagrecedora pode driblar efeito do anticoncepcional",
+      "summary": "“Bebê Mounjaro”: caneta emagrecedora pode driblar efeito do anticoncepcional &nbsp;&nbsp; Paraíba Business",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVFlzcjJicVJUT2k4Zzk0MFE1emt1eTUxVHhvQTdCb1poZ1BpWVdaZXlFcmJKcUp4Nm85MTRLLTB6UDN0cWF4djhEcXVMbkZJbmxjZHdqcy1RdXJJYk1YVzZ2QlVJbUk4OUQwUUdiaGhoeDZ2am15aVNiTnBWUGhrajBNNHIyQTJrYjBUcml4YXRzUEFtQ0ZIUnhTMUktRmctTEpCdk02b0g?oc=5",
+      "published": "2026-10-02T12:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "title",
           "score": 20,
           "topic": null
@@ -2089,37 +2183,6 @@
         }
       ],
       "score": 44.0
-    },
-    {
-      "title": "A crítica da Netshoes ao fim da taxa das blusinhas",
-      "summary": "Graciela Kumruian, presidente da Netshoes, conta o que a empresa espera de 2027",
-      "url": "https://veja.abril.com.br/economia/a-critica-da-netshoes-ao-fim-da-taxa-das-blusinhas",
-      "published": "2026-09-26T11:00:06+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "blusinhas",
-        "taxa das blusinhas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "taxa das blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "blusinhas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Ministério da Saúde Pede Inclusão de Canetas Emagrecedoras no SUS",
@@ -4932,37 +4995,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "O prazo final para as bets no Brasil depois da decisão do governo Lula",
-      "summary": "Perto do primeiro turno das eleições, presidente anunciou Medida Provisória que proíbe as apostas online no país",
-      "url": "https://veja.abril.com.br/economia/o-prazo-final-para-as-bets-no-brasil-depois-da-decisao-do-governo-lula",
-      "published": "2026-09-26T11:44:18+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Entenda Medida Provisória e Projeto Que Proíbem Bets no Brasil",
