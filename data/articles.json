@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T11:53:27.816502+00:00",
+  "generated_at": "2026-10-05T12:25:42.120716+00:00",
   "count": 562,
-  "new_this_run": 3,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -1812,6 +1812,46 @@
           "alias": "semaglutida",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Depois da bike indoor, Smart Fit aposta em massagem e compra fatia do Buddha Spa",
+      "summary": "Rede de academias pode pagar até R$ 32 milhões por 20% da maior rede de spas do país e tem opção para chegar a 30%",
+      "url": "https://exame.com/invest/mercados/depois-da-bike-indoor-smart-fit-aposta-em-massagem-e-compra-fatia-do-buddha-spa",
+      "published": "2026-10-05T09:03:54+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Academias",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "buddha spa",
+        "rede de academias",
+        "smart fit"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "rede de academias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "buddha spa",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -3955,6 +3995,38 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Smart Fit fecha acordo para compra de 20% do Buddha Spa por R$ 32 mi, com opção de mais 10%",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/smart-fit-fecha-acordo-compra-buddha-spa",
+      "published": "2026-10-05T12:10:21+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/negocios/",
+      "matched_sectors": [
+        "Academias",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "buddha spa",
+        "smart fit"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "buddha spa",
           "field": "title",
           "score": 20,
           "topic": null
@@ -6371,52 +6443,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Bets reforçam que recorrerão à Justiça contra MP que proíbe apostas e já avaliam perdas",
-      "summary": "Diversas casas de apostas reforçaram nesta segunda-feira que pretendem questionar a MP que proibiu as bets e já começam a avaliar perdas. A Betano disse em comunicado que \"está preparando ações judiciais para proteger seus direitos no país, levando em conta sua licença de operação de cinco anos\". Já a Flutter Brazil, dona da Betnacional, está \"analisando todas as opções disponíveis, incluindo a possibilidade de recurso\". Entenda: MP do fim das bets dispensa governo de indenizar empresas Aprovação, regulamentação e proibição: Dos governos Temer a Lula, como foram os oito anos das bets no Brasil Na sexta-feira, o presidente Luiz Inácio Lula da Silva, editou medida provisória proibindo imediatamente as casas de apostas de atuarem no Brasil. A decisão atinge não apenas as bets, mas também os chamados cassinos on-line, como jogos do Tigrinho ou Aviãozinho. Os sites só poderão ficar no ar até dia 5 de outubro para que os apostadores saquem eventuais créditos. Muitas casas de apostas no Brasil são controladas por grupos estrangeiros e têm capital aberto, com ações negociadas em Bolsas globais. Como o anúncio de proibição das bets ocorreu na sexta-feira, após o fechamento do mercado, esses grupos divulgaram comunicados hoje, para prestar esclarecimentos a seus acionistas. O grupo Allwyn, que opera no mercado brasileiro por meio de sua participação de 36,75% na Kaizen Gaming, administradora da marca Betano, divulgou fato relevante na Bolsa de Atenas. Nele, diz que a \"caso a medida (a MP) permaneça em vigor durante o restante de 2026\", sua previsão de geração de caixa para o ano \"deixará de ser válida\", embora o \"impacto seja limitado\". Com MP que proíbe atividade de bets: Brasil se junta a Kosovo, Camboja e Albânia A empresa frisa que tem presença internacional e que outros países representam a maior parte de sua receita, com \"taxas de crescimento significativamente maiores em comparação com o Brasil nos últimos períodos\". Também ressalta que continuará com o plano de expansão, com objetivo de chegar a mais quatro países até início de 2027. Flutter Entertainment informou ter deixado de operar apostas esportivas e jogos on-line no Brasil após o veto de Lula. \"Caso a Flutter Brasil não consiga operar pelo restante do ano, espera-se uma redução na receita de 2026 de aproximadamente US$ 70 milhões e uma redução no EBITDA Ajustado de aproximadamente US$ 20 milhões\". O grupo Entain, dono da marca Sportingbet e que já patrocinou jogos da Libertadores, disse manter a previsão de crescimento da receita líquida de jogos on-line para o ano fiscal de 2026, atingindo o limite superior da estimativa. Especialistas: Proibição de bets deve empurrar apostadores para sites ilegais A britânica Entain reafirmou que, \"excluindo o Brasil, mantém previsão de crescimento da receita líquida de jogos online para o ano fiscal de 2026\", e que o Brasil representou cerca de 5% da receita líquida on-line deste ano. Já o DigiPlus \"não prevê impacto material da decisão do Brasil de proibir as apostas on-line\". O grupo “não espera que a medida provisória tenha um impacto significativo na situação financeira ou nos resultados. Brasil representou cerca de 5% da receita líquida online do ano fiscal de 2026 e a expectativa era de que contribuísse apenas com uma modesta parcela para o Ebitda * NOTA: Lula mira bets enquanto dívidas sufocam brasileiros Matéria em atualização",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/09/28/bets-reforcam-que-recorrerao-a-justica-contra-mp-que-proibe-apostas-e-ja-avaliam-perdas.ghtml",
-      "published": "2026-09-28T12:03:50+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Anvisa aprova registro de novo remédio para diabetes tipo 2 que combina insulina e semaglutida",
-      "summary": "Anvisa aprova registro de novo remédio para diabetes tipo 2 que combina insulina e semaglutida &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/saude/anvisa-aprova-registro-de-novo-remedio-para-diabetes-tipo-2-que-combina-insulina-e-semaglutida",
-      "published": "2026-09-28T12:25:42+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Citi avalia potenciais prós e contras se Nubank de fato comprar fintech britânica Monzo",
