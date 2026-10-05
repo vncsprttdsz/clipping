@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T17:10:09.797783+00:00",
-  "count": 538,
+  "generated_at": "2026-10-05T17:24:27.785842+00:00",
+  "count": 539,
   "new_this_run": 4,
   "articles": [
     {
@@ -12499,6 +12499,29 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras afetam pele, cabelo e músculos",
+      "summary": "Canetas emagrecedoras afetam pele, cabelo e músculos &nbsp;&nbsp; Política Piauí",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPTkxXTzNoTC14aHY1cU5SdFZLY1RROUNfM3pMcXltaVlXMl9UTFRwWXRYaHVLUnF6M1YwRGI2bkstQ0czal91M3hCS3FjWG1oR2VPclRhUWRwclZjcjNlSnlQWGtoR053MXhHankzSFFsUVhtWTZ1X2thbHUtZ1Rld2pSclBkeUZhN05mOVAzc3l2dFZDWnFR?oc=5",
+      "published": "2026-10-04T21:03:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
