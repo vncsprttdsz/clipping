@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-05T09:12:09.918656+00:00",
-  "count": 565,
-  "new_this_run": 13,
+  "generated_at": "2026-10-05T09:14:59.193643+00:00",
+  "count": 566,
+  "new_this_run": 14,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -4592,6 +4592,53 @@
           "alias": "nubank",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 32.0
+    },
+    {
+      "title": "Do remédio para obesidade ao trem-bala: como a natureza inspira algumas das grandes inovações",
+      "summary": "A inovação inspirada na natureza pode trazer contribuições expressivas para as organizações, em particular, e para a sociedade, em geral. Veja o exemplo do desenvolvimento dos medicamentos do tipo GLP-1 (Glucagon-like peptide 1 ou Peptídeo análogo ao glucagon 1), tais como a Semaglutida e Tirzepatida. Atualmente, esses medicamentos estão redefinindo o tratamento da obesidade, diabete e outros distúrbios metabólicos. A origem desses medicamentos remete ao início de 1990. Nessa época, um grupo de pesquisadores liderados por John Eng ficou curioso com uma característica metabólica dos lagartos da espécie “monstro-de-gila” (Heloderma suspectum): eles podem permanecer meses sem comer e ainda assim manter o nível de açúcar no sangue estável, a despeito do jejum prolongado. Com base nessa percepção da natureza, o referido grupo de pesquisadores estudou o veneno desse lagarto e isolou uma molécula que se comportava de forma semelhante a um hormônio intestinal humano, dando origem aos medicamentos do tipo GLP-1. Usufruir da “sabedoria” na natureza para inovar pode ser realizado de diferentes formas. Uma delas remete ao uso da natureza como fonte de ideias para resolver problemas da sociedade – um conceito também conhecido como bioinspiração. Na inteligência artificial (IA), as redes neurais são um modelo computacional inspirado no cérebro humano projetado para resolver problemas complexos. As redes neurais englobam um conjunto de algoritmos utilizados no aprendizado de máquina (machine learning). Para tanto, ela utiliza camadas de nós interconectados (“neurônios artificiais”) para processar dados, reconhecer padrões e realizar predições. Outro exemplo de IA pode ser citado. No Instituto de Psicologia da Universidade de São Paulo (USP), um grupo de pesquisadores está avaliando o desenvolvimento de uma rede neural artificial que mimetiza aspectos da atividade fisiológica do circuito talâmico. Esse circuito – também chamado de circuito tálamo-cortical - é uma via de comunicação que ocorre no cérebro, especificamente entre o tálamo e o córtex cerebral. Os pesquisadores partem da hipótese de que essa rede neural artificial poderá aumentar a eficiência computacional de determinados modelos baseados em IA. Outra forma de inovação inspirada na natureza está relacionada à biomimética. Esta aborda o estudo da natureza para compreender os princípios dos seus mecanismos subjacentes e aplicá-los para beneficiar o desenvolvimento científico e tecnológico. A biomimética pode ser aplicada em diferentes segmentos, tais como materiais e superfícies. Nestes casos, exemplos incluem o desenvolvimento do velcro baseado na observação da aderência de sementes de bardana – ou carrapicho - aos pelos dos animais; e os trajes de natação inspirados na estrutura da pele de tubarão. Outras áreas do conhecimento podem ser citadas, tais como a engenharia aeronáutica (ex.: formato de aviões baseado em pássaros), a arquitetura e construção civil (ex.: estruturas de construção influenciadas pela espinha dorsal de conchas da família Turbinidae) e energia (ex.: pás de turbina bioinspiradas para geração de energia eólica). A ponta do trem-bala japonês Shinkansen foi projetada a partir do formato do bico do pássaro martim-pescador, uma ave aquática. Esse formato resolve problemas de natureza aerodinâmica, tais como a redução do atrito do ar e o estrondo sônico quando o trem-bala sai dos túneis. A natureza nos fornece elementos essenciais para a vida, tais como água, ar, alimentos e energia. E também nos proporciona “sabedoria” para inspirar a inovação. Esses são motivos mais do que suficientes para consolidar o papel das empresas na proteção do meio ambiente. *Marcelo Caldeira Pedroso é professor de inovação e empreendedorismo da FEA-USP e coordenador de ambientes de inovação da Secretaria de Ciência, Tecnologia e Inovação de São Paulo Mais Lidas",
+      "url": "https://epocanegocios.globo.com/colunas/coluna/2026/10/do-remedio-para-obesidade-ao-trem-bala-como-a-natureza-inspira-algumas-das-grandes-inovacoes.ghtml",
+      "published": "2026-10-05T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "glp-1",
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
