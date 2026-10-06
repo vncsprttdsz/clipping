@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-06T13:36:39.310350+00:00",
-  "count": 477,
-  "new_this_run": 7,
+  "generated_at": "2026-10-06T14:18:25.125147+00:00",
+  "count": 473,
+  "new_this_run": 8,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -1604,6 +1604,46 @@
       "score": 48.0
     },
     {
+      "title": "Casas Bahia tem queda de 35% nas vendas digitais e reduz estoques em centros de distribuição, diz perícia",
+      "summary": "A perícia determinada pela Justiça de São Paulo para verificar a situação da Casas Bahia concluiu que a varejista continua operando, mas registrou forte retração da atividade em agosto, mês em que a companhia pediu recuperação judicial . Leia mais (10/06/2026 - 10h41)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/casas-bahia-tem-queda-de-35-nas-vendas-digitais-e-reduz-estoques-em-centros-de-distribuicao-diz-pericia.shtml",
+      "published": "2026-10-06T13:41:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "centros de distribuição",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Anvisa questiona Mercado Livre após pressão de farmácias",
       "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) notificou o Mercado Livre nesta segunda-feira (28) para obter informações a respeito da operação da empresa no varejo farmacêutico. O órgão solicitou dados sobre a regularidade da companhia nessa atividade, incluindo as exigências técnicas aplicadas ao negócio, como regras de armazenamento de produtos e registro de profissional farmacêutico. Não há previsão normativa que autorize a intermediação de plataformas on-line para a comercialização de medicamentos, diz a Anvisa, em nota. A norma em vigor envolve uma resolução de diretoria colegiada (RDC) de 2009 e a lei é de 2026 (número 15.357), condicionada à regulamentação por parte da agência. O envio do pedido de informação ao Mercado Livre ocorreu três dias após o envio de um ofício, na última sexta-feira (25), da associação das redes de farmácias (Abrafarma) para a Anvisa, questionando o anúncio da plataforma on-line de acelerar a sua atuação no varejo farmacêutico. Não havia prazo para a Anvisa reagir ao ofício encaminhado pela Abrafarma. A agência decidiu acionar o Mercado Livre poucos dias após a movimentação da associação de farmácias junto à entidade. Ações caem O avanço mais estruturado do Mercado Livre no segmento derrubou as ações das grandes varejistas (Raia Drogasil, Pague Menos e Panvel) na semana passada, por causa do risco de aumento da concorrência sobre as redes. A Abrafarma citou a necessidade de “conclusão de processo regulatório” para que a plataforma passe a atuar no setor. O Mercado Livre anunciou, na semana passada, o inicio da comercialização de produtos de 20 farmácias até o fim deste ano — três devem começar em outubro — e de remédios que exigem prescrição médica. Essa movimentação da Abrafarma acontece menos de um ano depois que farmácias e supermercados se desentenderam, porque as varejistas de alimentos buscavam abrir drogarias em suas lojas e conseguiram avançar com este projeto. O mercado de farmácias é o que mais cresce dentro do varejo brasileiro e, por isso, outros grupos avançam no setor. Sobre a questão relacionada com o Mercado Livre, segundo a Abrafarma, “as informações [divulgadas pela companhia] causam especial preocupação à Abrafarma diante dos esclarecimentos anteriormente prestados pela própria Anvisa”, afirma no ofício. Em 10 de agosto, a Anvisa esclareceu que a revogação das medidas preventivas, anteriormente aplicadas às plataformas digitais, “não implica autorização automática de comercialização de produtos farmacêuticos” por essas empresas, disse no documento. Ainda citou uma regulamentação de normas que precisaria ser editada pela agência. A Abrafarma informa, em resposta formal encaminhada às entidades do setor, que a agência disse que, embora tenha sido introduzida autorização legal para utilização de canais digitais e plataformas on-line, a produção de seus efeitos concretos encontra-se condicionada à complementação normativa pela Anvisa. Sobre o tema, nesta terça-feira (29), o Mercado Livre informou, em nota, que a confiança do consumidor é a base do negócio, e o grupo entende a seriedade de entrar no setor farmacêutico. “No Mercado Livre, todos os produtos têm rastreabilidade completa, assegurando controle de origem e validade e garantindo conformidade com todas as normas sanitárias vigentes”, disse.",
       "url": "https://valor.globo.com/empresas/noticia/2026/09/29/anvisa-questiona-mercado-livre-aps-presso-de-farmcias.ghtml",
@@ -1897,68 +1937,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "ERP, CRM, marketplace e loja virtual: como conectar os sistemas de um e-commerce",
-      "summary": "ERP, CRM, marketplace e loja virtual: como conectar os sistemas de um e-commerce &nbsp;&nbsp; ecommercebrasil.com.br",
-      "url": "https://www.ecommercebrasil.com.br/artigos/erp-crm-marketplace-e-loja-virtual-como-conectar-os-sistemas-de-um-e-commerce",
-      "published": "2026-09-29T14:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "e-commerce",
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "e-commerce",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Canetas emagrecedoras podem chegar ao SUS com até 90% de desconto",
-      "summary": "Canetas emagrecedoras podem chegar ao SUS com até 90% de desconto &nbsp;&nbsp; Panorama Farmacêutico",
-      "url": "https://panoramafarmaceutico.com.br/canetas-emagrecedoras-podem-chegar-ao-sus-com-ate-90-de-desconto",
-      "published": "2026-09-29T14:02:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Anvisa aprova caneta de insulina e semaglutida",
@@ -3582,93 +3560,6 @@
       "score": 40.0
     },
     {
-      "title": "Transações com Pix têm queda de 10% após proibição de bets",
-      "summary": "O número de transações de Pix caiu cerca de 10% nos últimos três dias, após o governo publicar no fim da tarde de sexta-feira a medida provisória (MP) proibindo as apostas esportivas on-line (bets). Para parte da indústria bancária, a proibição é vista com bons olhos, já que de fato há muitos indicadores de que as bets estavam corroendo o orçamento das famílias, especialmente de baixa renda, e, assim, afetando a inadimplência. Ainda assim, há críticas sobre a insegurança jurídica. Neste sábado (26) o número de transações com Pix (não o volume financeiro) foi de 229,6 mil, uma queda de 11,0% em relação à média dos quatro sábados anteriores, de acordo com dados do Banco Central. No domingo, as transações somaram 165,9 mil, com baixa de 12,0% na mesma base de comparação. E, nesta segunda-feira (28), atingiram 213,0 mil, uma retração de 7,4%. No acumulado dos três dias, a queda é de 10,0%, também ante a média do mesmo intervalo nas quatro semanas anteriores. “Óbvio que não é possível atribuir essa queda no Pix só à proibição das bets, mas isso dá uma dimensão do problema. Virou uma questão de saúde pública”, comenta uma liderança do setor. “Acho que foi uma decisão acertada do governo. Eu não gosto de bets em nenhum sentido”, acrescenta um banqueiro de uma instituição de médio porte. Como o Valor mostrou ontem, analistas também avaliam que a proibição das bets pode ser positiva para os bancos. O Citi aponta que mais de 40 milhões de brasileiros já colocaram dinheiro nessas apostas, representando cerca de R$ 20 bilhões de receita bruta no primeiro semestre deste ano. “A medida poderia deixar uma renda disponível mais elevada para as famílias, o que se traduziria em melhor qualidade dos ativos para os bancos, especialmente no segmento de baixa renda.” Outra fonte do setor também admite que, para os bancos, a medida pode ter efeito levemente positivo, ao contribuir para um alívio na renda disponível das famílias. Ainda assim, critica a forma como a decisão foi tomada pelo governo, criando insegurança jurídica e também com efeitos sobre a questão fiscal. “Acho que as bets fazem muito mal à economia local, ao comércio e não deveriam ter sido reguladas como foram, mas derrubar por MP uma lei e estrutura jurídica que foi discutida por meses no Congresso é complicado.” Já um interlocutor do segmento das fintechs diz que, em certa medida, a proibição já era esperada. “As externalidades negativas se sobrepõem muito às externalidades positivas”, comenta, falando sobre os efeitos para a sociedade em geral. De qualquer forma, ele aponta que algumas fintechs operam exclusivamente para este setor e outras, mesmo não sendo exclusivas, possuem faturamento relevante com as bets, seja na operação do fluxo de apostas ou nas remessas internacionais. “Assim, uma mudança abrupta vai trazer impactos econômicos para esse subsegmento.”",
-      "url": "https://valor.globo.com/financas/noticia/2026/09/29/transacoes-com-pix-tem-queda-de-10percent-apos-proibicao-de-bets.ghtml",
-      "published": "2026-09-29T13:38:29+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas esportivas",
-        "bets",
-        "inadimplência",
-        "remessas internacionais"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "remessas internacionais",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "apostas esportivas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 38.0
-    },
-    {
-      "title": "Novo Nordisk pagará até US$2,6 bi à chinesa Hengrui por direitos de pílula para perda de peso",
-      "summary": "A Novo Nordisk pagará até US$ 2,6 bilhões (R$ 13,6 bilhões) à Jiangsu Hengrui Pharmaceuticals pelos direitos sobre um medicamento experimental para perda de peso, ampliando seu portfólio de produtos por meio de um segundo acordo de tratamento com GLP-1 com um parceiro chinês. Leia mais (09/29/2026 - 11h06)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/09/novo-nordisk-pagara-ate-us26-bi-a-chinesa-hengrui-por-direitos-de-pilula-para-perda-de-peso.shtml",
-      "published": "2026-09-29T14:06:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "glp-1",
-        "novo nordisk"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "novo nordisk",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0
-    },
-    {
       "title": "Split payment adiado não é split payment esquecido: o que muda no caixa e nos sistemas das empresas",
       "summary": "Mecanismo que retém IBS e CBS no momento do pagamento não será obrigatório tão cedo, mas ajustes em contratos, cadastros e capital de giro ainda são necessários",
       "url": "https://exame.com/economia/split-payment-adiado-nao-e-split-payment-esquecido-o-que-muda-no-caixa-e-nos-sistemas-das-empresas",
@@ -4312,6 +4203,54 @@
         {
           "sector": "Global Consumer",
           "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 32.0
+    },
+    {
+      "title": "Vendas para o Dia das Crianças devem crescer e somar R$ 9,27 bi, diz CNC",
+      "summary": "As vendas no varejo relacionadas ao Dia das Crianças, comemorado em 12 de outubro, devem movimentar R$ 9,27 bilhões, 1,8% acima do observado em igual data no ano passado. A projeção é da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), veiculada em estudo sobre o tema, nesta terça-feira (6). A entidade alertou que patamares elevados de endividamento das famílias e de juros devem impedir avanço maior de compras ligadas ao período comemorativo. A CNC lembrou que o Dia das Crianças é a quarta data mais importante em vendas para o varejo, atrás de Natal, Dia das Mães e Black Friday (período de promoções no comércio em novembro). Assim como em anos anteriores, as vendas de brinquedos devem responder por maior parte da movimentação de negócios do comércio relacionados à data comemorativa, detalhou ainda a CNC. O setor deve responder por 39% do total (R$ 3,62 bilhões), projetou a organização. A segunda posição deve ser ocupada por hiper e supermercados, com 28% do total (R$ 2,63 bilhões), seguida por vestuário e acessórios, com 15% (R$ 1,35 bilhão). No estudo, a CNC apurou ainda preços médios de itens a serem presentados no Dia das Crianças que devem estar mais caros esse ano. A estimativa para uma cesta com 11 itens de grupos de bens e serviços relacionados à data ficou é de preços 6,7% mais caros do que no mesmo período de 2025. Nesse ano, a organização estimou que avanço médio de preços de produtos no varejo relacionados ao evento comemorativo será puxado por chocolates, que devem aumentar 19,3%. Outros avanços projetados foram em videogames (11,2%), lanches (8%), e brinquedos (7,1%). Em contrapartida, artigos de vestuário devem mostrar alta de 4%, menor do que média encontrada pela confederação na inflação de itens relacionados à data. Para Fabio Bentes, economista-chefe da CNC, é baixo o crescimento em vendas, projetado para o comércio relacionadas à data. Além disso, é “sustentado pelo bom índice de população empregada e aumento da massa real de rendimentos e sufocado pela alta taxa de juros e o custo restritivo do crédito”. Em comunicado sobre a pesquisa, o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, admitiu que o atual cenário de crédito mais caro e endividamento elevado das famílias ainda representam desafio para o consumo. Mas Tadros ponderou que, em seu entendimento, há sinais que renovam perspectivas do setor. “Entramos na reta final do ano, um período tradicionalmente importante para o comércio e o turismo”, recordou. “Embora o ambiente ainda exija cautela de empresários e consumidores, a trajetória de redução da taxa de juros, mesmo que tardia, fortalece a confiança em condições mais favoráveis para o crescimento, o investimento e a geração de empregos”, disse. Tadros se referiu, indiretamente, ao início da trajetória de corte da taxa básica de juros (Selic) pelo Banco Central. “A expectativa é que o Dia das Crianças impulsione bons resultados para as empresas e contribua para dinamizar a economia, criando um ambiente mais propício neste último trimestre”, projetou Tadros.",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/06/vendas-para-o-dia-das-criancas-devem-crescer-e-somar-r-927-bi-diz-cnc.ghtml",
+      "published": "2026-10-06T14:11:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia",
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "endividamento",
+        "endividamento das famílias",
+        "turismo",
+        "vendas no varejo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vendas no varejo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -5485,6 +5424,37 @@
       "score": 28.0
     },
     {
+      "title": "Governo Lula pede para STF manter proibição das bets no Brasil",
+      "summary": "A AGU (Advocacia-Geral da União) pediu ao ministro Luiz Fux , do STF (Supremo Tribunal Federal), que a corte mantenha os efeitos da medida provisória que proibiu apostas esportivas e cassinos online no Brasil, assinada pelo presidente Lula ( PT ) no último dia 25. Leia mais (10/06/2026 - 10h30)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/governo-pede-que-supremo-mantenha-proibicao-das-bets.shtml",
+      "published": "2026-10-06T13:30:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas esportivas",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas esportivas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Pílulas da B55: CEO influencer, carrinho manco e agência que vira agente",
       "summary": "Marca forte não é sinônimo de ficar parado no que deu certo. Às vezes, para continuar subindo, é preciso descer um degrau; em outras, colocar o dono diante das câmeras, equilibrar interesses que puxam para lados diferentes ou até abandonar o modelo de negócio que funcionou por décadas. No segundo dia de B55 Conference, executivos e empresários por trás de marcas como Hope, Cimed, Boticário e Kopenhagen contaram ao Pipeline como tentam manter negócios longevos e relevantes — enquanto Nizan Guanaes já se prepara para deixar de ser “agência” e virar “agente”. ‘Por mim, o iFood nunca vai fazer IPO’, diz o CEO ‘O empresário perde muito tempo discutindo política’, diz André Street Descer um degrau para continuar subindo: Depois de mais de uma década investindo para virar uma marca premium e aumentar o valor agregado das roupas íntimas – estratégia que incluiu trazer a Gisele Bündchen como garota-propaganda –, a Hope ouviu um conselho da consultoria Bain Company, em 2023. A companhia teria que diversificar o portfólio e público-alvo para continuar crescendo. Lançou então uma linha de produtos mais acessíveis, competindo com nomes como Marisa. “Isso trouxe um público maior e permitiu que entrássemos em shoppings e ruas em que não estávamos”, disse Sandra Chayo, CEO da Hope. Hoje, são 350 lojas e 700 novos pontos mapeados pelo país para abertura até 2030. Assista trecho da entrevista: Sandra Chayo | B55 Conference A origem do showman: Quem acompanha a rotina de João Adibe Marques nas redes sociais, do pijama à malhação, da reunião às farmácias, nem imagina que o empresário tinha medo de exposição. Em 2008, ele foi sequestrado em São Paulo e passou 14 dias em cativeiro, experiência que o fez se manter discreto por um tempo. Anos depois, vendo a nova geração de empreendedores que dava a cara a tapa na internet e mídia, decidiu que era hora de se jogar na Cimed. A decisão inicialmente causou mal-estar na família, mas os frutos vieram e, hoje, a Cimed virou uma empresa impulsionada pelas vendas de mais de sete mil influenciadores: “É o modelo João Adibe”, define ele. A família toda virou influencer para as marcas. Marques, da Cimed: 14 dias de cativeiro fizeram rever a exposição pública Rogério Vieira/Valor Carrinho manco: Por anos CEO e hoje vice-presidente do conselho do Grupo Boticário, Artur Grynbaum atribui a construção de uma marca forte a um tripé formado por uma proposta de valor clara, conhecimento profundo do consumidor e escolha dos canais adequados de comunicação e venda. Para ele, o sucesso também depende de equilibrar a relação com acionistas, colaboradores, parceiros de negócio, consumidores e sociedade. “Quando você faz um relacionamento com um stakeholder e não trata o outro na mesma intensidade ou no mesmo padrão, você vai ficar com um carrinho meio manco. As rodinhas não vão estar todas alinhadas para você andar”, compara. No Boticário, Grynbaum destaca a relação construída desde a origem da rede de franquias, que ajudou a transformar as lojas em pontos de contato e confiança entre a marca e seus clientes. Assista a entrevista na íntegra: Artur Grynbaum | B55 Conference Os três pilares e o poder de adivinhação: Renata Vichi foi do chocolate à malhação. Depois de três décadas à frente do grupo Kopenhagen, ela lidera a expansão da academia de luxo Six Sport Life. Para a empresária, posicionamento claro, conexão emocional com o consumidor e consistência na execução são os trunfos para um negócio dar certo. A Kopenhagen, exemplifica, buscou ir além do produto: “sempre vendeu presente em forma de chocolate”. Conseguir äntecipar uma necessidade que o cliente muitas vezes nem sabe que tem” é a cereja do bolo. Assista abaixo:: Renata Vichi | B55 Conference O homem-agência vai virar agente: A vida toda o publicitário Nizan Guanaes ajudou a definir o destino das marcas. O segredo, diz o consultor, passa por encontrar uma característica que as torne únicas em sua categoria — algo que tenham ou façam de uma forma que os concorrentes não consigam reproduzir. “A inteligência artificial consegue escrever as mesmas linhas, mas o jornalista é quem sabe entender as entrelinhas”, compara. Ele aplica a mesma lógica à publicidade e à própria carreira, adaptando seu negócio às mudanças do mercado. “Eu já fui agência, agora eu vou ser agente”, disse, ao citar a NizAi, iniciativa que pretende levar o conhecimento acumulado por anos pelo publicitário a pequenas e médias empresas e agências. Nizan Guanaes participou hoje da B55 Conference Rogério Vieira/Valor",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/pilulas-da-b55-ceo-influencer-carrinho-manco-e-agencia-que-vira-agente.ghtml",
@@ -5754,75 +5724,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Novas bets ilegais são identificadas após MP que proíbe apostas",
-      "summary": "Novas bets ilegais são identificadas após MP que proíbe apostas &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/29/09/2026/economia/novas-bets-ilegais-sao-identificadas-apos-mp-que-proibe-apostas/amp",
-      "published": "2026-09-29T13:54:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Muse de Meta dio la dirección de un usuario a comprador de Facebook Marketplace sin su autorización",
-      "summary": "Muse de Meta dio la dirección de un usuario a comprador de Facebook Marketplace sin su autorización &nbsp;&nbsp; El Economista",
-      "url": "https://www.eleconomista.com.mx/tecnologia/muse-meta-dio-direccion-usuario-comprador-facebook-marketplace-autorizacion-20260929-835849.html",
-      "published": "2026-09-29T13:59:32+00:00",
-      "source": "https://news.google.com/rss/search?q=site:eleconomista.com.mx&hl=es-419&gl=MX&ceid=MX:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Shopee lança plataforma de exportação para PMEs brasileiras na América Latina",
-      "summary": "Shopee lança plataforma de exportação para PMEs brasileiras na América Latina &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/29/09/2026/ecommerce/shopee-lanca-plataforma-de-exportacao-para-pmes-brasileiras-na-america-latina",
-      "published": "2026-09-29T14:10:35+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Inadimplência das famílias atinge novo recorde em agosto, aponta BC",
@@ -11437,6 +11338,29 @@
       "score": 20.0
     },
     {
+      "title": "Keeta retoma expansão para 21 cidades após vitória na Justiça e deixa Rio para depois",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/keeta-retoma-expansao-vitoria-justica",
+      "published": "2026-10-06T13:22:45+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "keeta"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "keeta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Os grandes doadores que apostam nos dois lados da eleição",
       "summary": "Na disputa acirrada pelo governo do Ceará, as campanhas do ex-governador Ciro Gomes (PSDB) e do candidato à reeleição Elmano de Freitas (PT) têm algo em comum: ambas foram financiadas pelos irmãos Alexandre e Pedro Grendene Bartelle. Donos da Grendene, uma das maiores fabricantes de calçados do país, os bilionários gaúchos já doaram mais de R$ 7,4 milhões a candidatos nas eleições de 2026. A empresa é dona de marcas como Melissa, Rider e Ipanema. Para o governo do Estado nordestino, a aposta é dupla: tanto no PT quanto no PSDB. Elmano, candidato à reeleição pelo PT, recebeu R$ 1 milhão de Pedro Grendene. Do outro lado, Ciro Gomes também embolsou R$ 1 milhão dos fundadores da Grendene: R$ 500 mil de Pedro e R$ 500 mil de Alexandre. Os dois candidatos estão tecnicamente empatados no 1º turno, segundo a última pesquisa do Datafolha. Entre a doação dos irmãos, o maior aporte para um candidato saiu do bolso de Alexandre: R$ 2,5 milhões para Luciano Zucco (PL-RS), candidato ao governo do Rio Grande do Sul. Ele, com patrimônio estimado pela Forbes em R$ 12,1 bilhões, distribuiu mais de R$ 3,9 milhões a seis candidatos de seis partidos diferentes. Além de Zucco, do PL, também doou para candidatos do PSDB, PSB, PDT, Novo e PSD. Em 2022, o empresário havia doado R$ 6,3 milhões. Já Pedro, com fortuna de R$ 5,7 bilhões, também estimada pela revista, doou R$ 3,5 milhões no total: ele também patrocinou seis candidatos, de quatro partidos (PT, PL, PSB e PDT). Em 2022, sua contribuição havia sido de R$ 6 milhões. A Grendene foi fundada em 1971, em Farroupilha, cidade no interior gaúcho. Os irmãos Pedro e Alexandre começaram fabricando suportes plásticos para garrafões de vinho — um negócio simples, industrial, sem qualquer glamour. Tudo mudou em 1979, quando os irmãos decidiram testar a fabricação de calçados de plástico injetado. Nascia a Melissa Aranha, sandália leve e barata que virou febre ao aparecer nos pés da personagem vivida por Sônia Braga na novela Dancing Days. Já nos anos 2000, a marca Ipanema chegou ao mercado com Gisele Bündchen como garota-propaganda. Enquanto a Havaianas mirava o mercado internacional, a Ipanema consolidava terreno no Brasil, apostando em marketing emocional e preço acessível. Mas por que tanto dinheiro investido em campanhas no Ceará, se a Grendene nasceu no Rio Grande do Sul? A presença industrial maciça pode explicar o interesse político dos irmãos no Estado. Nos anos 1990, a empresa transferiu o grosso da produção para o Ceará, onde hoje mantém 11 fábricas no Estado: seis em Sobral, duas em Fortaleza, duas em Crato — além de uma fábrica de PVC e centros de distribuição na região. Do núcleo familiar fundado em Farroupilha nasceram duas companhias: a Grendene, especializada em calçados de PVC, e a Vulcabrás, que avançou no segmento esportivo com marcas como Olympikus, Mizuno e Under Armour no Brasil. Juntas, as duas empresas somam mais de R$ 10 bilhões em valor de mercado. Hoje a Grendene emprega cerca de 16 mil pessoas e, no primeiro semestre de 2026, faturou R$ 1,4 bilhão em receita bruta. A BBC News Brasil procurou os sócios da empresa para comentar os critérios das doações eleitorais, mas não recebeu resposta até o fechamento deste texto. Os 10 maiores doadores até agora* 1. Rubens Ometto Quem é: bilionário do etanol, Ometto preside o conselho da Cosan (dona da Raízen), gigante do agronegócio e dos biocombustíveis. É um nome recorrente nas listas de maiores doadores eleitorais do país há mais de uma década. Quanto doou: R$ 6,1 milhões Para quem mais doou: Direção nacional do MDB 2. Carlos Suarez Quem é: apelidado de \"Rei do Gás\", o empresário baiano enriqueceu na construção civil como um dos fundadores da OAS. Depois, migrou para o setor de gás natural, onde hoje comanda a Termogás e outras empresas do setor. Quanto doou: R$ 5,7 milhões Para quem mais doou: Direção nacional do MDB, PSD, PSDB, PP e União Brasil 3. Alexandre Grendene Bartelle Quem é: preside o conselho da Grendene, a fabricante gaúcha (com fábricas no Ceará) por trás de marcas como Melissa e Ipanema Quanto doou: R$ 3,9 milhões Para quem mais doou: Luciano Zucco (PL-RS), candidato a governador do Rio Grande do Sul 4. Pedro Grendene Bartelle Quem é: empresário e fundador da Grendene, fábrica de calçados Quanto doou: R$ 3,5 milhões Para quem mais doou: Elmano de Freitas (PT-CE), candidato a governador do Ceará 5. Luciano Franco Barreto Quem é: preside a Construtora Celi, gigante da construção civil no Nordeste, com sede em Aracaju Quanto doou: R$ 3,2 milhões Para quem mais doou: Manuel Marcos (PSD-SE), candidato a deputado federal 6. José Ricardo Rezek Quem é: fundador e presidente do Grupo RZK, conglomerado que já foi de sacolão a conectividade rural — hoje reúne agropecuária, revendas de máquinas agrícolas, imobiliário e concessões públicas Quanto doou: R$ 3,1 milhões Para quem mais doou: Acácio Favacho (MDB-AP), candidato ao senado pelo Amapá 7. Robert Carlos Lyra Quem é: usineiro mineiro, comanda a Delta Sucroenergia, do setor sucroalcooleiro no Triângulo Mineiro, parte do tradicional Grupo Carlos Lyra, de Alagoas Quanto doou: R$ 2,7 milhões Para quem mais doou: Direção nacional do PP 8. Carlos Eduardo Ferraz de Mattos Barroso Quem é: empresário e jurista, dono de um cartório de registro de imóveis no Distrito Federal Quanto doou: R$ 2,3 milhões Para quem mais doou: Ronaldo Caiado, candidato à presidência da República pelo PSD 9. Pedro de Godoy Quem é: economista e ex-CEO do grupo Dasa de medicina diagnóstica Quanto doou: R$ 2,2 milhões Para quem mais doou: distribuiu 15 doações de R$ 150 mil a candidaturas ao Senado, para nomes como Marina Silva (Rede-SP), Simone Tebet (PSB-SP), Eliziane Gama (PT-MA), Renato Casagrande (PSB-ES) e Leila de Vôlei (PDT-DF) 10. Maria Consuelo Saraiva Leão Dias Branco Quem é: preside o conselho da M. Dias Branco, dona de marcas como Vitarella, Piraquê e Adria Quanto doou: R$ 2,1 milhões Para quem mais doou: Elmano de Freitas (PT-CE), candidato a governador do Ceará * Dados até 2 de outubro de 2026 às 21h Duas estratégias A lógica das doações dos irmãos Grendene, dizem especialistas, ajuda a explicar por que o ranking dos maiores doadores não deve ser lido apenas como uma lista de apoios políticos. A direção dos recursos e sua distribuição entre partidos e candidatos que disputam entre si também pode revelar uma estratégia de redução de risco por parte dos financiadores, explica o cientista político Bruno Wilhelm Speck. Outro que usou essa estratégia foi o empresário gaúcho Erasmo Carlos Battistella, conhecido no setor de biocombustíveis e CEO da Be8. Nestas eleições, ele doou R$ 1 milhão, dividido igualmente entre as campanhas de Luiz Inácio Lula da Silva (PT) e Flávio Bolsonaro (PL). Com aportes de R$ 500 mil para os principais candidatos à presidência da República, efetuados no início de setembro, ele é um dos principais doadores de ambas as chapas, segundo registros do Tribunal Superior Eleitoral (TSE). Em nota, Erasmo Carlos Battistella afirmou que as doações mencionadas foram realizadas como pessoa física, dentro dos limites estabelecidos pela legislação eleitoral brasileira. \"O empresário reafirma o seu compromisso com as melhores práticas de governança, integridade e transparência\", diz o texto. Para Speck, há duas motivações distintas por trás de doações. A primeira é aumentar as chances de vitória de determinado candidato ou grupo político. Nesse caso, a tendência seria concentrar os recursos em um único lado. A segunda é manter boas relações com o governo que sair das urnas — o que pode levar o doador a distribuir dinheiro entre adversários. Mas esses objetivos podem entrar em conflito. \"Se você quer maximizar o sucesso eleitoral, se você quer ajudar a eleger uma boa bancada, você deve financiar um lado\", afirma Speck. Lula e Bolsonaro travam disputa acirrada pela Presidência BBC News fonte Getty ImagesLula e Bolsonaro travam disputa acirrada pela Presidência Ao apoiar candidatos de campos opostos, um empresário reduz sua capacidade de alterar o resultado da disputa, mas aumenta a possibilidade de manter acesso ao poder independentemente de quem vencer. \"Eu acabo não influenciando o resultado eleitoral, porque eu tô apoiando os dois.\" \"Na medida em que você adota a estratégia de apoiar um, você corre o risco de ficar do lado errado, principalmente em eleições acirradas. E, na medida em que você adota a estratégia dois, você corre o risco de não influenciar o processo eleitoral\", diz Speck. Juliana Sakai, diretora da Transparência Brasil, lembra que a prática de doar aos dois lados já era vista antes da proibição do financiamento empresarial, em 2015, quando grandes empresas contribuíam ao mesmo tempo para PT e PSDB, às vezes em valores iguais, às vezes um pouco maiores para um dos lados. Em 2014, últimas eleições gerais com financiamento empresarial de campanhas, a JBS, dos irmãos Joesley e Wesley Batista, distribuiu verba aos principais concorrentes ao Palácio do Planalto naquele ano: Dilma Rousseff (PT), Marina Silva (então no PSB) e Aécio Neves (PSDB). Para ela, isso não configura, necessariamente, compra de favores. O problema, segundo Sakai, está na dívida que essa relação pode criar. \"Não estamos falando de corrupção, ninguém está prometendo uma vantagem específica. Mas é um dinheiro que está ali e que garante, no mínimo, um espaço de diálogo com aquela pessoa.\" O que mudou com o fim das doações empresariais? A legislação eleitoral brasileira passou por uma reforma na última década, com a proibição das doações de empresas e a expansão do financiamento público das campanhas. Para Speck, porém, o principal efeito dessa transformação não foi apenas reduzir o peso do dinheiro privado nas eleições. A mudança também alterou a distribuição de poder dentro dos próprios partidos. Até 2015, empresas e outros financiadores privados destinavam recursos diretamente às candidaturas, o que dava aos candidatos maior autonomia para arrecadar e financiar suas campanhas. Com o modelo atual, o dinheiro público é distribuído aos partidos, que decidem como repassá-lo aos candidatos — seguindo algumas regras, como cotas para mulheres e candidatos negros. \"A mudança do financiamento privado para o público trouxe uma profunda reorganização da distribuição de poder entre lideranças políticas individuais, quer dizer, candidatos, e as organizações partidárias\", afirma. Segundo ele, os diretórios nacionais ganharam peso não apenas na relação com os candidatos, mas também na relação com as estruturas estaduais, já que concentram recursos e decidem quanto será repassado a cada diretório. A proibição das doações empresariais tinha, entre seus objetivos, reduzir a influência do poder econômico sobre a política, e ganhou tração na sociedade após o escândalo da Lava Jato. Mas isso não significa que o dinheiro privado tenha desaparecido das campanhas. Empresários passaram a fazer doações como pessoas físicas, dentro dos limites estabelecidos pela legislação. Para Speck, contudo, é preciso dimensionar essa mudança. Os valores atuais podem parecer elevados, já que alguns dos maiores doadores individuais deste ano já desembolsaram milhões de reais. No entanto, eles estão em outra escala quando comparados às doações empresariais de antes da proibição. A JBS, campeã do financiamento eleitoral em 2014, doou vultuosos R$ 362 milhões naquele pleito. Neste ano, o maior doador pessoa física, o empresário Rubens Ometto, desembolsou R$ 6,1 milhões. \"Esses doadores doam agora num patamar inferior, na casa dos 10 milhões. É uma redução significativa\", afirma. Isso não significa, porém, que o risco de influência econômica tenha sido eliminado. \"O risco da influência sobre as eleições e da influência sobre os eleitos não está afastado, mas estamos claramente no outro andar agora. Não estamos naqueles valores estratosféricos.\" Teresa Sacchet, professora da UFRGS, também ressalta que a doação empresarial era a principal fonte de recursos que definia as chances de sucesso eleitoral, e ela excluía sobretudo mulheres negras. \"Se a ideia era diminuir o efeito dos interesses privados sobre a política, isso continua, porque quem tem mais capital consegue interferir mais no processo eleitoral.\" Ainda assim, a adoção do financiamento público de campanha teve efeitos positivos, principalmente na competitividade da corrida eleitoral, diz a professora. Entre 2014 e 2018, houve um salto na representação feminina — de 10% para 15% das cadeiras na Câmara, um crescimento de 50%. Entre 2018 e 2022, houve crescimento, mas esse ritmo desacelerou: as mulheres eleitas passaram a 17,7%, um avanço de 18% no período. \"As empresas doavam muito pouco para mulheres e muito menos para mulheres negras\", afirma. \"Não tem como excluir a análise de gênero e raça, porque senão a gente propõe coisas que vão acabar prejudicando esses grupos.\" Um estudo de Sacchet mostra a dimensão dessa dependência: nas eleições de 2022, a cada R$ 100 arrecadados como receita de campanha por candidatas negras a deputada federal, cerca de R$ 95 vieram de fontes públicas de financiamento (FEFC e fundo partidário); entre as candidatas brancas, a proporção foi de aproximadamente R$ 91 a cada R$ 100. Entre os homens, essa dependência era menor: cerca de R$ 86 a cada R$ 100. Ou seja, homens recorrem proporcionalmente mais a outras fontes de financiamento. Outro ponto, defende a professora, é a regra de autofinanciamento. Segundo ela, quem tem dinheiro no início da campanha consegue estruturar melhor o comitê e o planejamento eleitoral. \"A regra de autofinanciamento de 10% do teto favorece quem já tem recurso.\" Para frear o efeito do poder econômico que ainda persiste nas doações de pessoas físicas, a cientista política defende um modelo com teto de doação nominal (valor fixo), e não percentual da renda anual do doador nem do teto de gastos do cargo disputado. Na sua avaliação, essa regra aprofunda a desigualdade entre candidatos. Por que cada vez menos jovens votam no Brasil — e o que explica esse fenômeno Por que Lula acusa Trump de tentar interferir na eleição a favor de Flávio Bolsonaro Por que os candidatos a presidente querem construir mais data centers no Brasil",
       "url": "https://epocanegocios.globo.com/empresas/noticia/2026/10/cdataos-grandes-doadores-que-apostam-nos-dois-lados-da-eleicao.ghtml",
@@ -12109,29 +12033,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Itaú lança solução para o comércio agêntico",
-      "summary": "O Itaú anunciou, nesta terça-feira (29), o lançamento de uma solução para o chamado comércio agêntico — no qual agentes de inteligência artificial (IA) fazem compras em nome dos clientes. Desenvolvida pela Rede, adquirente do banco, a ferramenta permite conectar diferentes plataformas de IA à infraestrutura de e-commerce e pagamentos do banco. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/financas/noticia/2026/09/29/ita-lana-soluo-para-o-comrcio-agntico.ghtml",
-      "published": "2026-09-29T14:15:23+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "e-commerce"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "e-commerce",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "B55: Crescimento de negócio depende das pessoas e empresário deve se focar nisso, contam fundadores",
