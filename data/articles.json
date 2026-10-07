@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T15:35:22.052444+00:00",
-  "count": 448,
-  "new_this_run": 36,
+  "generated_at": "2026-10-07T15:46:34.071887+00:00",
+  "count": 451,
+  "new_this_run": 34,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -3251,6 +3251,37 @@
       "score": 40.0
     },
     {
+      "title": "Justiça homologa plano de recuperação extrajudicial do Grupo Pão de Açúcar",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/negocios/justica-homologa-plano-recuperacao-extrajudicial-grupo-pao-de-acucar",
+      "published": "2026-10-07T15:43:06+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/negocios/",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "grupo pão de açúcar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo pão de açúcar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Nova geração do Mounjaro leva à perda de até 23,4% do peso em pessoas com diabetes",
       "summary": "Retatrutida atua sobre GLP-1, GIP e glucagon e apresentou novos resultados após 80 semanas",
       "url": "https://exame.com/ciencia/nova-geracao-do-mounjaro-leva-a-perda-de-ate-234-do-peso-em-pessoas-com-diabetes",
@@ -5294,6 +5325,37 @@
           "field": "lead",
           "score": 8,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Justiça aprova plano de recuperação extrajudicial do Pão de Açúcar",
+      "summary": "A Justiça de São Paulo homologou nesta quarta-feira (7) o plano de recuperação extrajudicial do Grupo Pão de Açúcar. Leia mais (10/07/2026 - 12h38)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/justica-aprova-plano-de-recuperacao-extrajudicial-do-pao-de-acucar.shtml",
+      "published": "2026-10-07T15:38:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "grupo pão de açúcar",
+        "pão de açúcar"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 28.0
@@ -10645,6 +10707,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Arquivos Agências Shopee",
+      "summary": "Arquivos Agências Shopee &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/tag/agencias-shopee",
+      "published": "2026-10-07T15:33:49+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
           "field": "title",
           "score": 20,
           "topic": null
