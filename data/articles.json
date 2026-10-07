@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T09:15:53.765939+00:00",
-  "count": 451,
-  "new_this_run": 46,
+  "generated_at": "2026-10-07T09:26:03.844209+00:00",
+  "count": 452,
+  "new_this_run": 32,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -10707,6 +10707,29 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Tudo sobre grupo boticário",
+      "summary": "Tudo sobre grupo boticário &nbsp;&nbsp; Forbes Brasil",
+      "url": "https://forbes.com.br/noticias-sobre/grupo-boticario/page/2",
+      "published": "2026-10-07T08:10:21+00:00",
+      "source": "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
           "field": "title",
           "score": 20,
           "topic": null
