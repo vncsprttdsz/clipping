@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T11:02:33.260742+00:00",
-  "count": 455,
+  "generated_at": "2026-10-07T11:13:07.459909+00:00",
+  "count": 457,
   "new_this_run": 32,
   "articles": [
     {
@@ -5340,6 +5340,68 @@
           "alias": "centro de distribuição",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Veto às bets pode liberar até R$ 40 bilhões por ano no orçamento das famílias",
+      "summary": "O veto às apostas online ?as chamadas bets?, anunciado pelo governo de Luiz Inácio Lula da Silva ( PT ) no último dia 25, pode liberar até cerca de R$ 40 bilhões por ano no orçamento das famílias. A estimativa leva em conta o montante da receita bruta obtido em um ano pelas empresas de apostas online até então autorizadas. Ou seja, o valor que foi perdido pelos apostadores. Leia mais (10/07/2026 - 08h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/veto-as-bets-pode-liberar-ate-r-40-bilhoes-por-ano-no-orcamento-das-familias.shtml",
+      "published": "2026-10-07T11:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas online",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Circulação de links de bets ilegais fica estável após veto de Lula, mostra levantamento",
+      "summary": "Nos dez primeiros dias após a proibição das apostas online , a circulação de links de plataformas clandestinas no WhatsApp e no Telegram não aumentou, resultado que contrasta com alegações de representantes do setor de que a medida poderia ampliar o mercado ilegal. Leia mais (10/07/2026 - 08h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/circulacao-de-links-de-bets-ilegais-fica-estavel-apos-veto-de-lula-mostra-levantamento.shtml",
+      "published": "2026-10-07T11:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "apostas online",
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "apostas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
