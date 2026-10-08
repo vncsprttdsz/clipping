@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T15:02:21.943210+00:00",
-  "count": 427,
-  "new_this_run": 51,
+  "generated_at": "2026-10-08T15:37:46.674557+00:00",
+  "count": 428,
+  "new_this_run": 53,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -1498,6 +1498,54 @@
       "score": 44.0
     },
     {
+      "title": "Com reestruturação aprovada, Pão de Açúcar aposta em regionalização e descarta expansão",
+      "summary": "\"Zero glamour e muita sola de sapato\". Assim o CEO do Grupo Pão de Açúcar , Alexandre Santoro, descreve o trabalho de reestruturação da empresa. Segundo ele, a homologação da recuperação extrajudicial do GPA , aprovada nesta quarta-feira (7), é uma conquista, mas deve ser acompanhada de adequações estruturais. Leia mais (10/08/2026 - 12h03)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/com-reestruturacao-aprovada-pao-de-acucar-aposta-em-regionalizacao-e-descarta-expansao.shtml",
+      "published": "2026-10-08T15:03:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "grupo pão de açúcar",
+        "pão de açúcar",
+        "recuperação extrajudicial"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação extrajudicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 44.0
+    },
+    {
       "title": "Smart Fit assina contrato para adquirir até 20% do capital da Buddha Spa por até R$ 32 milhões",
       "summary": "A Smart Fit celebrou, no domingo (4), contrato com o grupo Buddha Spa para adquirir até 20% do capital social e votante da rede de spas. O valor da operação pode chegar a R$ 32 milhões, segundo informações divulgadas pela companhia em comunicado ao mercado na manhã desta segunda-feira (5). Adicionalmente, a Smart Fit garantiu uma opção de compra de mais 10% das ações do Buddha Spa. “A operação está alinhada à estratégia contínua do Grupo Smart Fit de ampliar sua atuação no segmento de saúde e bem-estar e fortalecer seu ecossistema, por meio da adição de serviços complementares, com marcas fortes e claros diferenciais competitivos”, afirma a empresa. A Smart Fit destaca que o Buddha Spa é hoje o maior nome do seu segmento no Brasil, com 149 unidades distribuídas por 12 Estados. Cerca de 96% das lojas são franqueadas. Além de diferentes modalidades de massagens, a empresa oferece tratamentos estéticos e terapias faciais. Pelo acordo, a Smart Fit poderá desembolsar até R$ 32 milhões para a aquisição e subscrição de ações representativas de até 20% do capital social total e votante do Buddha Spa. A definição da fatia a ser comprada e o preço definitivos estão sujeitos ao cumprimento de determinadas condições comerciais previstas no contrato, segundo o comunicado. O acerto entre as partes também prevê a celebração de um acordo de acionistas, que, além de tratar da governança da sociedade, incorporará uma opção de compra de mais 10% do capital social pela Smart Fit. Assim, a rede de academias pode chegar a deter, no futuro, 30% do grupo de spas. “O fechamento da operação está sujeito ao cumprimento de condições precedentes usuais para operações dessa natureza”, diz a Smart Fit. HeikeFrohnhoff/Pixabay",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/05/smart-fit-assina-contrato-para-adquirir-ate-20percent-do-capital-da-buddha-spa-por-ate-r-32-milhoes.ghtml",
@@ -2940,6 +2988,37 @@
         {
           "sector": "E-commerce",
           "alias": "ualá",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Canetas emagrecedoras e bariátrica em crianças: em quais casos a OMS considera o uso?",
+      "summary": "Documento estabelece critérios para tratar crianças e adolescentes com obesidade; medicamentos e cirurgia ficam restritos a situações específicas",
+      "url": "https://exame.com/ciencia/canetas-emagrecedoras-e-bariatrica-em-criancas-em-quais-casos-a-oms-considera-o-uso",
+      "published": "2026-10-08T12:00:39+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -5083,29 +5162,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Canetas emagrecedoras podem causar perda de visão",
-      "summary": "Canetas emagrecedoras podem causar perda de visão &nbsp;&nbsp; R7",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOYlA0SUJoT2g5RlA4WTdUekVkU3lvMUh0T2syajliX1VUd1VBWTdqeHZDZnBod3NldUdTTkZtYjRSc0pOd2Y4MkFWS1FKRDZmcHNmZlVmazRlNFpoSjN5UzM3LXlIY2E5amRXbmdIOTkyTFg0N1lhTnRLNEdNR2FiQmNBVGVBdENmR1pnMzVicm1kT2s?oc=5",
-      "published": "2026-10-01T15:08:35+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Airbnb anuncia aluguel de carros no Brasil e amplia uso de IA no exterior",
