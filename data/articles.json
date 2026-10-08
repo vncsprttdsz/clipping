@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T09:16:23.563379+00:00",
-  "count": 426,
-  "new_this_run": 64,
+  "generated_at": "2026-10-08T09:35:04.631577+00:00",
+  "count": 427,
+  "new_this_run": 47,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -11787,6 +11787,29 @@
         {
           "sector": "E-commerce",
           "alias": "compra online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Jeff Bezos Claims AI Could Allow For 3-Day Workweeks And One-Income Families",
+      "summary": "In an interview with Fox News, the Amazon founder said he disagreed with the assessment that AI will lead to large-scale job losses.",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/10/08/jeff-bezos-claims-ai-could-allow-for-3-day-workweeks-and-one-income-families",
+      "published": "2026-10-08T08:53:55+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
           "field": "lead",
           "score": 8,
           "topic": null
