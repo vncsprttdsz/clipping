@@ -1120,6 +1120,40 @@ sectors:
     - luxury brands
     - luxury goods
     - bernard arnault
+    # Luxo em portugues. Antes "luxo" so existia como termo de contexto, entao
+    # "Um café como porta de entrada para o luxo" (Valor, 06/out) dava score 0.
+    - mercado de luxo
+    - setor de luxo
+    - marcas de luxo
+    - grifes de luxo
+    - varejo de luxo
+    - consumo de luxo
+    - bens de luxo
+    - alias: luxo
+      requires_any: [marca, grife, maison, loja, flagship, café, cafeteria,
+                     shopping, iguatemi, cidade jardim, consumidor, cliente,
+                     varejo, vendas, lvmh, louis vuitton, dior, gucci, prada,
+                     chanel, hermès, tiffany, cartier, kering, richemont,
+                     vivara, joia, joalheria]
+      requires_none: [carro, sedã, suv, picape, imóvel, imóveis, apartamento,
+                      cobertura, condomínio, mansão, hotel, resort, iate,
+                      jatinho, golfe, cruzeiro, incorporadora, imobiliário,
+                      apreendido, apreensão, polícia, operação da pf]
+    # Apple/iPhone: leitura de demanda de eletronicos (MGLU3, ALLD3). So com
+    # vocabulario de vendas/demanda, para nao puxar noticia de IA, app ou
+    # processo. "Apple reduz pedidos do iPhone 18 Pro devido à demanda fraca"
+    # (Valor, 09/out) dava score 0.
+    - alias: apple
+      requires_any: [pedidos, demanda, vendas, receita, faturamento, trimestre,
+                     balanço, lucro, tim cook, encomendas, produção do iphone,
+                     sales, revenue, earnings, demand, orders, shipments,
+                     guidance, quarter]
+      requires_none: [apple pie, big apple, bets]
+    - alias: iphone
+      requires_any: [pedidos, demanda, vendas, preço, encomendas, produção,
+                     sales, demand, orders, shipments, production, price]
+      requires_none: [câmeras de iphone, gravado com, filmado com, golpe,
+                      roubo, roubam, furto, roubado, ladrão, ladrões, assalto]
     # Joias/watches de luxo. Unico lugar onde essas marcas vivem agora
     # (saíram de Joias BR pela regra de ouro).
     - cartier
