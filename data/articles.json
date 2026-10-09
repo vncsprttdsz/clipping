@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T15:19:52.209718+00:00",
-  "count": 385,
-  "new_this_run": 42,
+  "generated_at": "2026-10-09T15:34:53.172550+00:00",
+  "count": 386,
+  "new_this_run": 38,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -4651,6 +4651,38 @@
         {
           "sector": "Viagens",
           "alias": "despegar",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 22.0
+    },
+    {
+      "title": "Site de supermercado é invadido e amanhece com montagem associada a Lula em produtos à venda",
+      "summary": "O site do supermercado Mambo, de São Paulo, apareceu no início desta sexta-feira (9) com uma mesma montagem, associada à foto oficial do atual presidente e candidato à reeleição Luiz Inácio Lula da Silva (PT), ocupando o lugar de fotos de produtos à venda, como café, azeite e carne moída. Procurada, a rede informou que seu site foi invadido por meio de sistemas de parceiros, que repudia o ocorrido e que já adotou medidas de contenção e segurança. As montagens apareceram na página inicial do site, na aba de \"Ofertas Especiais Mambo\", feita em homenagem ao aniversário da marca. Ao invés de fotos ilustrativas dos produtos à venda, a imagem atrelada às ofertas era a mesma: um homem, semelhante ao presidente, com filtros que aplicavam a ele peruca rosa, cílios e unhas postiças, orelha de gato e um laço rosa. Site Supermercados Mambo Reprodução/mambo.com.br A mesma imagem se repetia dezenas de vezes pelo site até por volta de 9h30. Às 10h, o Valor constatou que o site \"saiu do ar para manutenção\", conforme mensagem, assim como o aplicativo oficial da rede. Site do Supermercados Mambo Reprodução/mambo.com.br A rede de supermercados Mambo tem unidades em algumas das regiões mais caras de São Paulo, como Alphaville e os bairros paulistanos Higienópolis, Jardins, Vila Romana, Vila Madalena, Brooklin, Vila Leopoldina, Moema, Tatuapé, Perdizes, Morumbi, Santana e Real Parque. Nas redes sociais, a empresa afirma que seu propósito é \"ser a rede de supermercados premium de São Paulo\". Com uma busca reversa pela imagem, utilizando a ferramenta Google Lens, a ferramenta de busca atribui a imagem à foto oficial do terceiro mandato de Lula. \"A imagem parece ser uma montagem cômica ou \"meme\" que edita o rosto do presidente Luiz Inácio Lula da Silva com cabelo rosa, orelhas e laço da Hello Kitty, maquiagem e unhas postiças\", retorna o buscador em resposta gerada por Inteligência Artificial. Também aponta para algumas publicações na rede Pinterest em que a montagem já havia sido publicada anteriormente. Foto oficial do Lula; Montagem que aparece no Supermercados Mambo Fotos: Divulgação/Ricardo Stuckert; Reprodução/mambo.com.br Procurado pelo Valor , o Supermercados Mambo afirmou que foi alvo de invasão durante a madrugada. Ao identificar a ocorrência a substituição por imagens editadas de figuras políticas, a Mambo adotou medidas de investigação e está trabalhando nas plataformas, informou a empresa. \"Repudiamos veementemente o ocorrido e esclarecemos que não compactuamos com esse tipo de manifestação. Os conteúdos divulgados não foram produzidos ou autorizados pelo Mambo e não representam, sob nenhuma circunstância, os valores, princípios ou posicionamentos institucionais da companhia\", disse Mambo em nota. Veja abaixo o posicionamento completo do Mambo \"O Supermercados Mambo informa que, nesta madrugada, seu site foi alvo de uma invasão por meio dos sistemas de parceiros, responsáveis pela operação de seu e-commerce, resultando na substituição indevida de imagens de produtos por imagens adulteradas de figuras políticas. Repudiamos veementemente o ocorrido e esclarecemos que não compactuamos com esse tipo de manifestação. Os conteúdos divulgados não foram produzidos ou autorizados pelo Mambo e não representam, sob nenhuma circunstância, os valores, princípios ou posicionamentos institucionais da companhia. Assim que identificada a ocorrência, adotamos medidas imediatas de contenção e segurança. Nossas equipes estão trabalhando, em conjunto com os parceiros envolvidos, para restabelecer a plataforma com a maior brevidade possível. Paralelamente, estamos conduzindo uma investigação para apurar as circunstâncias do ocorrido, identificar sua origem e adotar todas as medidas cabíveis. Reafirmamos nosso compromisso com o respeito às pessoas e às instituições, bem como com a segurança, a privacidade e a confiança de nossos clientes. Lamentamos o episódio e agradecemos a compreensão de todos. Supermercados Mambo\" *Estagiária sob supervisão de Diogo Max",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/09/site-de-supermercado-e-invadido-e-amanhece-com-montagem-associada-a-lula-em-produtos-a-venda.ghtml",
+      "published": "2026-10-09T15:14:15+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem",
+        "supermercado"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "supermercado",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
           "field": "body",
           "score": 2,
           "topic": null
