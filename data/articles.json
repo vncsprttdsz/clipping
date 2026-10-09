@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T10:45:52.469742+00:00",
-  "count": 393,
-  "new_this_run": 46,
+  "generated_at": "2026-10-09T11:19:28.701997+00:00",
+  "count": 394,
+  "new_this_run": 43,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -1403,37 +1403,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Datafolha: 68% dos eleitores apoiam oferta gratuita de canetas emagrecedoras pelo SUS",
-      "summary": "Datafolha: 68% dos eleitores apoiam oferta gratuita de canetas emagrecedoras pelo SUS &nbsp;&nbsp; Ceará Agora",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNbG1pcVhGVFE3d3d5S2NIZGFXRk5aX2FEVGpkWVU0d3EyWlFkR1ZDeERoVDJpMndWNVlfbm1SdnBYTGxlenR2RklpY3pWYTJHNWhGdDVwRW1LUDN0cXp4WVlUZmxxRXFPWU9Qelk5a2Fpd3V2azg4YXQ4b1IzajVmczItS1ZjNGFlT1lWc05MbnBqb1NmdEtlOFhibGNsdE9tZWlINEF0UlhZTHNBTm9J?oc=5",
-      "published": "2026-10-02T10:51:48+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Por que a aposta do Magalu no Mercado Livre importa mais para o seller do que parece",
@@ -4525,6 +4494,38 @@
           "field": "lead",
           "score": 8,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "GPA vai atrás das “heranças do passado” e de fantasmas de mais de R$ 15 bilhões",
+      "summary": "A homologação da recuperação extrajudicial (RE) do GPA encerra uma etapa importante do processo de reestruturação da companhia, mas não representa o fim do turnaround. Ao NeoFeed, Alexandre Santoro, CEO do GPA, diz que a empresa agora precisa avançar em duas frentes: equacionar os chamados passivos estruturais e adequar a operação à realidade atual do [&#8230;] O post GPA vai atrás das &#8220;heranças do passado&#8221; e de fantasmas de mais de R$ 15 bilhões apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/gpa-vai-atras-das-herancas-do-passado-e-de-fantasmas-de-mais-de-r-15-bilhoes",
+      "published": "2026-10-09T10:56:35+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "recuperação extrajudicial"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação extrajudicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 28.0
@@ -8907,6 +8908,29 @@
         {
           "sector": "Economia",
           "alias": "salário mínimo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Saint Laurent creative director Vaccarello leaves in latest Kering shake-up",
+      "summary": "Saint Laurent creative director Vaccarello leaves in latest Kering shake-up &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/saint-laurent-ends-decade-long-tenure-creative-director-vaccarello-kering-says-2026-10-09",
+      "published": "2026-10-09T06:40:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "kering"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "kering",
           "field": "title",
           "score": 20,
           "topic": null
