@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T10:36:18.907462+00:00",
-  "count": 403,
-  "new_this_run": 22,
+  "generated_at": "2026-10-10T10:44:11.595658+00:00",
+  "count": 404,
+  "new_this_run": 21,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -11268,6 +11268,29 @@
         {
           "sector": "Pet",
           "alias": "ração",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Quando a promoção confunde o consumidor? Quando vira rotina",
+      "summary": "O varejo vem passando por um momento delicado, com empresas entrando em recuperação judicial, fechando lojas e outras registrando queda nos resultados. O cenário afeta a cadeia e leva as marcas a buscar diferentes formas de atrair o consumidor -- promoções e lançamentos de novos produtos, entre elas. Mas multiplicar promoções ao longo do ano banaliza essa ferramenta de marketing e deixa o consumidor em dúvida sobre qual é o melhor momento para comprar, e se vale mesmo gastar. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/10/10/quando-a-promocao-confunde-o-consumidor-quando-vira-rotina.ghtml",
+      "published": "2026-10-10T10:30:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
           "field": "lead",
           "score": 8,
           "topic": null
