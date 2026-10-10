@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-10T10:52:30.277747+00:00",
-  "count": 404,
+  "generated_at": "2026-10-10T11:17:34.031401+00:00",
+  "count": 405,
   "new_this_run": 20,
   "articles": [
     {
@@ -9243,6 +9243,29 @@
         {
           "sector": "Joias",
           "alias": "joalheria",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Petlove entra em coalizão contra racismo no comércio e amplia agenda social",
+      "summary": "Iniciativa criada por L’Oréal Brasil e MOVER reúne quase 20 empresas e propõe práticas para reduzir episódios de discriminação no varejo e nos serviços",
+      "url": "https://exame.com/esg/petlove-entra-em-coalizao-contra-racismo-no-comercio-e-amplia-agenda-social",
+      "published": "2026-10-10T08:00:48+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Pet"
+      ],
+      "matched_aliases": [
+        "petlove"
+      ],
+      "matches": [
+        {
+          "sector": "Pet",
+          "alias": "petlove",
           "field": "title",
           "score": 20,
           "topic": null
