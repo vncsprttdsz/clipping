@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T10:00:51.126802+00:00",
-  "count": 401,
-  "new_this_run": 20,
+  "generated_at": "2026-10-10T10:36:18.907462+00:00",
+  "count": 403,
+  "new_this_run": 22,
   "articles": [
     {
       "title": "Cabelo Ozempic: novo estudo sugere ligação entre canetas emagrecedoras e queda de cabelo em homens",
@@ -227,6 +227,100 @@
           "alias": "tiktok",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
+      "title": "Canetas podem retardar envelhecimento biológico em até quatro anos, sugerem estudos",
+      "summary": "Medicamentos utilizados no tratamento da obesidade e do diabetes tipo 2, como Ozempic, Wegovy e Mounjaro, podem ter um benefício adicional: retardar o envelhecimento biológico. É o que sugerem pesquisas preliminares apresentadas por cientistas das farmacêuticas Novo Nordisk e Eli Lilly durante a 13ª edição da conferência Aging Research & Drug Discovery (ARDD), realizada na última semana. Segundo informações do Gizmodo, os pesquisadores identificaram alterações em marcadores moleculares associados ao envelhecimento em pacientes que utilizaram os medicamentos, em comparação com aqueles que receberam placebo ou integraram grupos de controle. No caso da Novo Nordisk, os cientistas analisaram dados de ensaios clínicos existentes para investigar os efeitos da semaglutida, princípio ativo do Ozempic e do Wegovy, sobre indicadores biológicos relacionados à idade. Os resultados apontaram uma desaceleração equivalente a dois ou três anos de envelhecimento na maioria dos indicadores analisados. Em uma das medições, baseada em proteínas relacionadas ao coração, a diferença chegou a aproximadamente quatro anos. Já os pesquisadores da Eli Lilly avaliaram os efeitos da tirzepatida, princípio ativo do Mounjaro e do Zepbound, sobre os chamados relógios epigenéticos. Esses indicadores acompanham alterações químicas no DNA que ajudam a regular a atividade dos genes. Os resultados também sugeriram um envelhecimento biológico mais lento entre os usuários do medicamento. \"Não é como se fôssemos reverter a idade em 30 anos ou algo assim, mas é uma redução significativa\", afirmou Kevin Duffin, vice-presidente de pesquisas sobre envelhecimento da Eli Lilly, durante a conferência, segundo relato da MIT Technology Review citado pelo Gizmodo. Os resultados, porém, ainda precisam ser interpretados com cautela. Os estudos não passaram por revisão por pares e foram conduzidos por pesquisadores das próprias farmacêuticas. Além disso, ainda não está claro até que ponto mudanças nos relógios biológicos se traduzem em benefícios concretos para a saúde ou em aumento da expectativa de vida. Outro limite importante é que as análises envolveram pessoas com obesidade ou diabetes tipo 2. Portanto, não é possível afirmar que os mesmos efeitos ocorreriam em indivíduos sem essas condições. Apesar das incertezas, os medicamentos da classe GLP-1 já demonstraram benefícios em diferentes condições de saúde, incluindo a redução do risco de determinados problemas cardiovasculares. Estudos recentes em animais também apontaram possíveis efeitos sobre a longevidade. Novas pesquisas devem ajudar a esclarecer essa relação. O governo federal dos Estados Unidos está financiando um ensaio clínico para investigar diretamente se medicamentos da classe GLP-1 e outros tratamentos podem prolongar a vida e favorecer um envelhecimento saudável em pessoas com mais de 60 anos. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/10/canetas-podem-retardar-envelhecimento-biologico-em-ate-quatro-anos-sugerem-estudos.ghtml",
+      "published": "2026-10-10T10:10:04+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "eli lilly",
+        "mounjaro",
+        "novo nordisk",
+        "ozempic",
+        "semaglutida",
+        "tirzepatida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "ozempic",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -9149,6 +9243,29 @@
         {
           "sector": "Joias",
           "alias": "joalheria",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "INSS, salário mínimo, dívidas: As novas promessas de Flávio que replicam o governo de Lula",
+      "summary": "Na primeira semana após o primeiro turno, candidato fez uma série de novas declarações a respeito de suas políticas em um eventual governo",
+      "url": "https://veja.abril.com.br/economia/inss-salario-minimo-dividas-as-novas-promessas-de-flavio-que-replicam-o-governo-de-lula",
+      "published": "2026-10-10T10:01:44+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "salário mínimo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "salário mínimo",
           "field": "title",
           "score": 20,
           "topic": null
