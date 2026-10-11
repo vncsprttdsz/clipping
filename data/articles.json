@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T11:01:45.348043+00:00",
-  "count": 400,
-  "new_this_run": 12,
+  "generated_at": "2026-10-11T11:04:25.341839+00:00",
+  "count": 401,
+  "new_this_run": 11,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -9082,6 +9082,29 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O que está por trás da ‘maquiagem invisível’, em alta entre as estrelas de Hollywood",
+      "summary": "Técnica busca realçar os tons e texturas naturais do rosto. Mas não se engane: há muita produção oculta no processo",
+      "url": "https://veja.abril.com.br/comportamento/o-que-esta-por-tras-da-maquiagem-invisivel-em-alta-entre-as-estrelas-de-hollywood",
+      "published": "2026-10-11T11:00:17+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
           "field": "title",
           "score": 20,
           "topic": null
