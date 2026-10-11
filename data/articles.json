@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T11:04:25.341839+00:00",
+  "generated_at": "2026-10-11T11:31:20.710056+00:00",
   "count": 401,
-  "new_this_run": 11,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -597,53 +597,6 @@
         }
       ],
       "score": 60.0
-    },
-    {
-      "title": "Mercado informal já fornece a maioria das doses de GLP-1 no Brasil",
-      "summary": "O mercado informal passou a responder pela maior parte do consumo de medicamentos à base de GLP-1 no Brasil. . Segundo atualização de estudo da Scanntech, empresa de inteligência de dados para o varejo, 53,8% das doses consumidas no primeiro semestre de 2026 têm origem estimada fora das farmácias, ante 46,2% dos canais formais. É a primeira vez que o consumo informal supera o formal na estimativa da empresa, que havia apontado uma participação minoritária do mercado paralelo no levantamento divulgado em junho. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/04/mercado-informal-ja-fornece-a-maioria-das-doses-de-glp-1-no-brasil.ghtml",
-      "published": "2026-10-04T11:30:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "farmácias",
-        "glp-1",
-        "medicamentos"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "medicamentos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "glp-1",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 56.0
     },
     {
       "title": "Smart Fit compra até 20% da rede Buddha Spa por R$ 32 milhões",
@@ -3135,6 +3088,37 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "A Saks Fifth Avenue tenta voltar a ser a vitrine do luxo americano",
+      "summary": "Rebatizado de Exemplar Luxury Group, o grupo dono de Saks, Neiman Marcus e Bergdorf Goodman encolheu a rede, renegociou dívidas e ainda busca reconquistar marcas e clientes",
+      "url": "https://exame.com/casual/a-saks-fifth-avenue-tenta-voltar-a-ser-a-vitrine-do-luxo-americano",
+      "published": "2026-10-11T08:21:55+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxo",
+        "saks fifth avenue"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "saks fifth avenue",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
           "field": "title",
           "score": 20,
           "topic": null
