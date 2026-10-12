@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T12:25:03.476205+00:00",
-  "count": 400,
-  "new_this_run": 11,
+  "generated_at": "2026-10-12T12:30:40.276531+00:00",
+  "count": 401,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -11110,6 +11110,29 @@
         {
           "sector": "Economia",
           "alias": "consumo das famílias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "‘Vamos dobrar nossa presença no Brasil até 2030’, diz executivo da Hilton",
+      "summary": "Entre as maiores redes de hotelaria do mundo, a gigante americana Hilton — com mais de 9,4 mil unidades de 28 marcas — planeja dobrar sua presença no Brasil para 60 hotéis até 2030, conta Pablo Maturana, vice-presidente de Desenvolvimento para América Latina e Caribe da companhia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/12/vamos-dobrar-nossa-presenca-no-brasil-ate-2030-diz-executivo-da-hilton.ghtml",
+      "published": "2026-10-12T12:19:53+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "hotelaria"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "hotelaria",
           "field": "lead",
           "score": 8,
           "topic": null
