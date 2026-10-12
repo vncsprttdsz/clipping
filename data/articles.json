@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T17:54:41.847865+00:00",
-  "count": 399,
-  "new_this_run": 14,
+  "generated_at": "2026-10-12T18:12:33.364887+00:00",
+  "count": 401,
+  "new_this_run": 15,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -2963,6 +2963,38 @@
       "score": 40.0
     },
     {
+      "title": "Cimed investe R$ 80 milhões em skincare coreano e mira R$ 150 milhões com nova marca",
+      "summary": "Cimed investe R$ 80 milhões em skincare coreano e mira R$ 150 milhões com nova marca &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/12/10/2026/industria/cimed-investe-r-80-milhoes-em-skincare-coreano-e-mira-r-150-milhoes-com-nova-marca",
+      "published": "2026-10-12T16:57:36+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "FT: Vendas de moda e couro da LVMH caem em retrocesso do setor de luxo",
       "summary": "As vendas no negócio de moda e artigos de couro da LVMH caíram 5% no terceiro trimestre do ano, com o grupo de luxo atingido por uma desaceleração na demanda na China, onde as primeiras esperanças de uma reviravolta decepcionaram. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/12/ft-vendas-de-moda-e-couro-da-lvmh-caem-em-retrocesso-do-setor-de-luxo.ghtml",
@@ -4811,29 +4843,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Magalu e mais: as ações que disparam na Bolsa com vitória de Flávio no 1º turno",
-      "summary": "Ao passar para o segundo turno à frente de Lula, o senador ajuda a reduzir a expectativa de juros futuros e impulsiona as varejistas na Bolsa",
-      "url": "https://veja.abril.com.br/economia/magazine-luiza-e-outras-varejistas-disparam-na-bolsa-com-vitoria-de-flavio-no-1o-turno",
-      "published": "2026-10-05T18:04:39+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "magalu"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "magalu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Saques em bets somam R$ 775,6 milhões desde suspensão pelo governo; R$ 1,33 bi ainda aguarda resgate",
@@ -8930,6 +8939,29 @@
       "score": 20.0
     },
     {
+      "title": "iPhone Duo começa a ser vendido no Brasil nesta semana; veja preços",
+      "summary": "Primeiro smartphone dobrável da Apple chega ao país em outubro de 2026 por até R$ 30.999 e concorre com o iPhone 18 Pro, lançado no mesmo evento por quase metade do preço",
+      "url": "https://exame.com/tecnologia/iphone-duo-comeca-a-ser-vendido-no-brasil-nesta-semana-veja-precos",
+      "published": "2026-10-12T14:59:52+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "iphone"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "iphone",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "IA agêntica resolve demandas de 84% dos clientes da Riachuelo no WhatsApp",
       "summary": "IA agêntica resolve demandas de 84% dos clientes da Riachuelo no WhatsApp &nbsp;&nbsp; E-Commerce Brasil",
       "url": "https://www.ecommercebrasil.com.br/noticias/ia-agentica-resolve-demandas-de-84-dos-clientes-da-riachuelo-no-whatsapp",
@@ -11083,6 +11115,29 @@
         {
           "sector": "Farmácias",
           "alias": "medicamentos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Watch out luxury: mid-market fashion brands are staging a comeback",
+      "summary": "While LVMH’s sales slid more than the market expected in recent months, Uniqlo’s are going gangbusters",
+      "url": "https://www.ft.com/content/ac617b3d-4506-4c26-aff8-64ab14a66f4f?syn-25a6b1a6=1",
+      "published": "2026-10-12T17:30:46+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "lvmh"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "lvmh",
           "field": "lead",
           "score": 8,
           "topic": null
