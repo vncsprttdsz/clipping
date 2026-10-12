@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T16:04:35.560564+00:00",
-  "count": 397,
-  "new_this_run": 18,
+  "generated_at": "2026-10-12T16:52:01.828732+00:00",
+  "count": 398,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -8896,6 +8896,29 @@
         {
           "sector": "Global Consumer",
           "alias": "jewelry",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "LVMH’s fashion and leather sales fall in luxury setback",
+      "summary": "Paris-listed group hails ‘buoyant’ US market but said sales were hit by slowdown in demand in China",
+      "url": "https://www.ft.com/content/71003e2e-107b-4e87-adef-77e825a3aef4?syn-25a6b1a6=1",
+      "published": "2026-10-12T16:25:08+00:00",
+      "source": "https://www.ft.com/rss/home",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "lvmh"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "lvmh",
           "field": "title",
           "score": 20,
           "topic": null
