@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-12T01:20:17.812300+00:00",
-  "count": 406,
-  "new_this_run": 17,
+  "generated_at": "2026-10-12T09:11:55.925198+00:00",
+  "count": 403,
+  "new_this_run": 21,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -309,6 +309,69 @@
       "score": 72.0
     },
     {
+      "title": "Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia",
+      "summary": "Utilizados em larga escala para controle de obesidade e diabetes, medicamentos análogos e agonistas do GLP-1 como a semaglutida e a tirzepatida, que ficaram popularmente conhecidas como “canetas emagrecedoras” têm sido avaliados por cientistas e médicos para um novo uso: o controle de consumo de álcool e drogas. Ao menos é isso que indicam alguns estudos recém-publicados em importantes periódicos científicos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/10/12/canetas-emagrecedoras-medicos-comecam-a-indicar-para-tratar-alcoolismo-estudos-mostram-a-eficacia.ghtml",
+      "published": "2026-10-12T07:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "glp-1",
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 72.0
+    },
+    {
       "title": "Inadimplência e endividamento das famílias recuam em setembro, diz CNC",
       "summary": "A inadimplência e o endividamento das famílias brasileiras recuaram em setembro ante agosto, segundo dados da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) divulgados nesta quinta-feira (8) na Pesquisa de Endividamento e Inadimplência do Consumidor (Peic). O presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, avaliou que o movimento é um “respiro” no orçamento das famílias, mas alertou que a consolidação desse quadro nos próximos meses depende de condições macroeconômicas mais favoráveis, como, por exemplo, juros menores. Na Peic, a parcela de endividados de agosto para setembro caiu de 82% para 81,7%. No entanto, ainda ficou maior do que a de setembro do ano passado (79,2%). Já o porcentual de endividados que admitiram inadimplência recuou de 29,9% para 29,6%, percentual inferior à fatia de setembro de 2025 (30,5%). Já a fatia dos que reconheceram ser inadimplentes, sem condições de quitar dívida, permaneceu em 12,5%. Em igual mês em 2025, era de 13%. Para a confederação, o cenário atual reflete arrefecimento da inadimplência e composição mais favorável da estrutura do orçamento doméstico. No entanto, no mesmo estudo, a organização alertou que a fatia de renda das famílias, comprometida com o pagamento de dívidas que atingiu, no mês passado, a maior parcela em sete meses. Essa proporção subiu de 29,5% para 29,6% de agosto para setembro, a maior taxa desde fevereiro (29,7%). Além disso, a melhora no patamar de endividamento não ocorreu em todas as faixas de renda, sendo impulsionada por famílias de menor poder aquisitivo. Entre famílias com ganhos mensais até três salários mínimos, a fatia de endividados caiu de 85,1% para 84,6% de agosto para setembro, sendo, no entanto, superior à de setembro de 2025 (82%). Nas com renda mensal entre três e cinco salários mínimos, a proporção de endividados recuou de 83,7% para 83,3%, superior também à de setembro de 2025 (81,4%). Em contrapartida, a parcela de endividados de agosto para setembro cresceu de 77,2% para 77,9% entre os com ganhos mensais entre cinco e dez salários mínimos, e ficou acima da de setembro de 2025 (77,3%). Outro aspecto levantado pela pesquisa foi que, embora a fatia de inadimplentes tenha recuado, o tempo médio de atraso de dívidas avançou pelo segundo mês consecutivo, de 65 dias para 65,3 dias, patamar mais longo desde novembro de 2024 (65,5 dias). A piora ocorreu impulsionada por dívidas com mais de 90 dias de atraso, que hoje representam 48,9% do total de contas vencidas. “A redução do endividamento e da inadimplência dá um pequeno respiro para as famílias”, reiterou Tadros, em comunicado. “No entanto, a continuidade dessa trajetória exige medidas que favoreçam o acesso ao crédito em condições mais adequadas, com juros mais compatíveis com a realidade das famílias e das empresas”, recomendou. Marcelo Casal Jr./Agência Brasil",
       "url": "https://valor.globo.com/brasil/noticia/2026/10/08/inadimplencia-e-endividamento-das-familias-recuam-em-setembro-diz-cnc.ghtml",
@@ -591,6 +654,45 @@
         {
           "sector": "Global Consumer",
           "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Canetas Emagrecedoras Já Representam 11% da Receita de Grandes Redes de Farmácias no Brasil",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Aprovação de genéricos, entrada de novos fabricantes e expansão do uso para controle de peso devem fazer a receita da categoria crescer 70% neste ano O post Canetas Emagrecedoras Já Representam 11% da Receita de Grandes Redes de Farmácias no Brasil apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/10/canetas-emagrecedoras-ja-representam-11-da-receita-de-grandes-redes-de-farmacias-no-brasil",
+      "published": "2026-10-12T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
@@ -909,46 +1011,6 @@
         }
       ],
       "score": 50.0
-    },
-    {
-      "title": "Depois da bike indoor, Smart Fit aposta em massagem e compra fatia do Buddha Spa",
-      "summary": "Rede de academias pode pagar até R$ 32 milhões por 20% da maior rede de spas do país e tem opção para chegar a 30%",
-      "url": "https://exame.com/invest/mercados/depois-da-bike-indoor-smart-fit-aposta-em-massagem-e-compra-fatia-do-buddha-spa",
-      "published": "2026-10-05T09:03:54+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Academias",
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "buddha spa",
-        "rede de academias",
-        "smart fit"
-      ],
-      "matches": [
-        {
-          "sector": "Academias",
-          "alias": "rede de academias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Academias",
-          "alias": "smart fit",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "buddha spa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "Grupo Smart Fit anuncia investimento de até R$ 32 mi no Buddha Spa e mira expansão na América do Sul",
@@ -1308,6 +1370,46 @@
       "score": 48.0
     },
     {
+      "title": "Cimed investe R$ 80 milhões para levar cosméticos coreanos às farmácias brasileiras",
+      "summary": "Farmacêutica prepara o lançamento da Mili, sua primeira linha de skincare, e reúne representantes de empresas que respondem por cerca de 60% do varejo farmacêutico brasileiro na Missão Coreia 2026",
+      "url": "https://exame.com/negocios/cimed-investe-r-80-milhoes-para-levar-cosmeticos-coreanos-as-farmacias-brasileiras",
+      "published": "2026-10-12T05:00:43+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed",
+        "farmácias",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Com reestruturação aprovada, Pão de Açúcar aposta em regionalização e descarta expansão",
       "summary": "\"Zero glamour e muita sola de sapato\". Assim o CEO do Grupo Pão de Açúcar , Alexandre Santoro, descreve o trabalho de reestruturação da empresa. Segundo ele, a homologação da recuperação extrajudicial do GPA , aprovada nesta quarta-feira (7), é uma conquista, mas deve ser acompanhada de adequações estruturais. Leia mais (10/08/2026 - 12h03)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/10/com-reestruturacao-aprovada-pao-de-acucar-aposta-em-regionalizacao-e-descarta-expansao.shtml",
@@ -1474,68 +1576,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Notícias sobre: endividamento das famílias",
-      "summary": "Notícias sobre: endividamento das famílias &nbsp;&nbsp; NeoFeed",
-      "url": "https://neofeed.com.br/noticias-sobre/endividamento-das-familias",
-      "published": "2026-10-05T03:52:28+00:00",
-      "source": "https://news.google.com/rss/search?q=site:neofeed.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento",
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Quadrilha é presa após furto de 130 canetas emagrecedoras em farmácia na Asa Sul",
-      "summary": "Quadrilha é presa após furto de 130 canetas emagrecedoras em farmácia na Asa Sul &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/df/distrito-federal/df2/video/quadrilha-e-presa-apos-furto-de-130-canetas-emagrecedoras-em-farmacia-na-asa-sul-15034131.ghtml",
-      "published": "2026-10-05T07:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras",
-        "farmácia"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Smart Fit fecha acordo para compra de 20% do Buddha Spa por R$ 32 mi, com opção de mais 10%",
@@ -3158,6 +3198,68 @@
       "score": 40.0
     },
     {
+      "title": "Amazon subió en Wall Street, AWS y la IA impulsan sus acciones",
+      "summary": "Amazon subió en Wall Street, AWS y la IA impulsan sus acciones &nbsp;&nbsp; El Economista",
+      "url": "https://www.eleconomista.com.mx/mercados/amazon-subio-wall-street-aws-ia-impulsan-acciones-20261011-838055.html",
+      "published": "2026-10-12T04:18:44+00:00",
+      "source": "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aeleconomista.com.mx+when%3A2d&hl=es-419&gl=MX&ceid=MX:es-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Grupo SBF - Brazil Journal",
+      "summary": "Grupo SBF &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/tag/grupo-sbf",
+      "published": "2026-10-12T05:56:57+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "grupo sbf",
+        "sbf"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "grupo sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "sbf",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Prazo para sacar saldo nas plataformas de bets termina nesta segunda; veja como solicitar",
       "summary": "Quem ainda tem dinheiro em sites de apostas esportivas e jogos virtuais tem até as 23h59 desta segunda-feira (5) para solicitar o saque diretamente nas plataformas. A partir da 0h de terça-feira (6), os sites e aplicativos deverão ser retirados do ar. Veja também: Saques em bets somam R$ 775,6 milhões desde suspensão pelo governo; R$ 1,33 bi ainda aguarda resgate Escala 6x1: Alcolumbre mantém sessão para discutir proposta, mas votação depende de acordo A medida faz parte da Medida Provisória (MP) 1.394/2026, assinada pelo presidente Luiz Inácio Lula da Silva em 25 de setembro. A iniciativa estabelece o encerramento das plataformas de apostas autorizadas e cria um mecanismo para devolver aos usuários os valores que permanecerem nas contas. O prazo desta segunda-feira vale para o saque voluntário. Quem não conseguir retirar o dinheiro até o fim do dia não perde o saldo: os valores remanescentes deverão ser devolvidos posteriormente por meio das instituições financeiras. Veja o calendário O processo de encerramento e devolução dos recursos seguirá um cronograma definido pelo governo: 5 de outubro, até 23h59: último dia para o saque voluntário diretamente nas plataformas; 6 de outubro, a partir da 0h: sites e aplicativos de apostas deverão sair do ar; 7 e 8 de outubro: as empresas deverão informar aos bancos os valores mantidos pelos usuários, identificados pelo CPF; 9 a 14 de outubro: as instituições financeiras deverão realizar a devolução dos valores aos apostadores; A partir de 14 de outubro: nos casos em que houver impedimento para a devolução pelos bancos, a Caixa Econômica Federal passará a intermediar o pagamento. Segundo o governo, lojas de aplicativos, provedores de internet e o Comitê Gestor da Internet no Brasil (CGI.br) deverão atuar no bloqueio dos sites e aplicativos. Quem tentar acessar as plataformas poderá ser direcionado a uma página com orientações sobre o resgate dos valores. Bets são proibidas no Brasil Marcelo Theobald/Agência O Globo Quem tem direito? A devolução prevista no cronograma vale para os saldos existentes nas bets que estavam autorizadas pelo governo. Estimativas da Secretaria de Prêmios e Apostas (SPA), do Ministério da Fazenda, indicam que cerca de 23 milhões de apostadores mantinham contas com saldo nas plataformas regularizadas. O governo estima que aproximadamente um valor total de R$ 1,7 bilhão deverá ser devolvido. Para os valores que não forem retirados voluntariamente, as empresas deverão informar aos bancos os saldos remanescentes associados ao CPF de cada usuário. O que fazer agora? Quem ainda tem saldo deve acessar a conta na plataforma de apostas e solicitar o saque antes das 23h59 desta segunda-feira. É recomendável guardar comprovantes da solicitação, do saldo disponível e da operação de saque. Caso o dinheiro não seja retirado dentro do prazo, o usuário deverá acompanhar as orientações da instituição financeira responsável pela devolução. A partir de amanhã, o acesso às plataformas poderá deixar de funcionar. E a publicidade? As empresas do setor também deverão retirar peças de publicidade, propaganda e marketing. O prazo para a remoção de anúncios e de marcas relacionadas a contratos de patrocínio termina às 23h59 desta segunda-feira. A medida afeta especialmente o futebol. Segundo os dados apresentados pelo governo, as bets desembolsaram R$ 1,1 bilhão em 2025 para os principais clubes do país, valor equivalente a 36% das receitas de marketing dessas equipes. Quanto movimentam? Dados da Secretaria de Prêmios e Apostas apontam que os brasileiros movimentaram cerca de R$ 220 bilhões nas bets em 2025. A movimentação diária das casas de apostas chegou a aproximadamente R$ 600 milhões, segundo informações divulgadas pelo Ministério da Fazenda. Já um estudo do Comitê Nacional de Secretários de Fazenda dos Estados e do Distrito Federal (Comsefaz), publicado em agosto, estima que as apostas retiraram R$ 62,5 bilhões do orçamento das famílias brasileiras em 2025. O levantamento calcula uma saída líquida média de R$ 4,7 bilhões por mês entre outubro de 2024 e março de 2026. A Associação Nacional de Jogos e Loterias (ANJL), que representa o setor, contesta as conclusões do estudo e afirma que o levantamento apresenta erros e não considera fatores macroeconômicos relacionados ao crescimento das transações via Pix. Quanto o governo arrecadou? A taxação das empresas de apostas online rendeu R$ 15,3 bilhões ao governo federal desde o início de 2025, segundo dados da Receita Federal. Desse total, R$ 8,94 bilhões foram recolhidos em 2025 e R$ 6,32 bilhões entre janeiro e agosto deste ano. Os recursos são considerados relevantes para o cumprimento das metas fiscais do governo, que estabelecem os objetivos de resultado primário das contas públicas. Por que as bets foram proibidas? A ofensiva contra as apostas faz parte de um pacote de medidas econômicas voltado ao combate ao endividamento das famílias e aos problemas associados ao uso compulsivo de jogos virtuais. O governo também determinou medidas contra plataformas clandestinas. Desde 27 de setembro, o Ministério da Justiça determinou o bloqueio de mais de 5,2 mil sites de apostas considerados irregulares. A regulamentação das apostas de quota fixa começou a ser estruturada em 2023. O setor havia sido legalizado em 2018, no fim do governo Michel Temer, mas a regulamentação prevista originalmente não foi implementada dentro dos prazos estabelecidos. A MP 1.394/2026 precisa ser analisada pelo Congresso Nacional e poderá perder validade caso não seja aprovada dentro do prazo constitucional. (Agência Brasil)",
       "url": "https://oglobo.globo.com/economia/noticia/2026/10/05/prazo-para-sacar-saldo-nas-plataformas-de-bets-termina-nesta-segunda.ghtml",
@@ -3470,53 +3572,6 @@
       "score": 36.0
     },
     {
-      "title": "Do remédio para obesidade ao trem-bala: como a natureza inspira algumas das grandes inovações",
-      "summary": "A inovação inspirada na natureza pode trazer contribuições expressivas para as organizações, em particular, e para a sociedade, em geral. Veja o exemplo do desenvolvimento dos medicamentos do tipo GLP-1 (Glucagon-like peptide 1 ou Peptídeo análogo ao glucagon 1), tais como a Semaglutida e Tirzepatida. Atualmente, esses medicamentos estão redefinindo o tratamento da obesidade, diabete e outros distúrbios metabólicos. A origem desses medicamentos remete ao início de 1990. Nessa época, um grupo de pesquisadores liderados por John Eng ficou curioso com uma característica metabólica dos lagartos da espécie “monstro-de-gila” (Heloderma suspectum): eles podem permanecer meses sem comer e ainda assim manter o nível de açúcar no sangue estável, a despeito do jejum prolongado. Com base nessa percepção da natureza, o referido grupo de pesquisadores estudou o veneno desse lagarto e isolou uma molécula que se comportava de forma semelhante a um hormônio intestinal humano, dando origem aos medicamentos do tipo GLP-1. Usufruir da “sabedoria” na natureza para inovar pode ser realizado de diferentes formas. Uma delas remete ao uso da natureza como fonte de ideias para resolver problemas da sociedade – um conceito também conhecido como bioinspiração. Na inteligência artificial (IA), as redes neurais são um modelo computacional inspirado no cérebro humano projetado para resolver problemas complexos. As redes neurais englobam um conjunto de algoritmos utilizados no aprendizado de máquina (machine learning). Para tanto, ela utiliza camadas de nós interconectados (“neurônios artificiais”) para processar dados, reconhecer padrões e realizar predições. Outro exemplo de IA pode ser citado. No Instituto de Psicologia da Universidade de São Paulo (USP), um grupo de pesquisadores está avaliando o desenvolvimento de uma rede neural artificial que mimetiza aspectos da atividade fisiológica do circuito talâmico. Esse circuito – também chamado de circuito tálamo-cortical - é uma via de comunicação que ocorre no cérebro, especificamente entre o tálamo e o córtex cerebral. Os pesquisadores partem da hipótese de que essa rede neural artificial poderá aumentar a eficiência computacional de determinados modelos baseados em IA. Outra forma de inovação inspirada na natureza está relacionada à biomimética. Esta aborda o estudo da natureza para compreender os princípios dos seus mecanismos subjacentes e aplicá-los para beneficiar o desenvolvimento científico e tecnológico. A biomimética pode ser aplicada em diferentes segmentos, tais como materiais e superfícies. Nestes casos, exemplos incluem o desenvolvimento do velcro baseado na observação da aderência de sementes de bardana – ou carrapicho - aos pelos dos animais; e os trajes de natação inspirados na estrutura da pele de tubarão. Outras áreas do conhecimento podem ser citadas, tais como a engenharia aeronáutica (ex.: formato de aviões baseado em pássaros), a arquitetura e construção civil (ex.: estruturas de construção influenciadas pela espinha dorsal de conchas da família Turbinidae) e energia (ex.: pás de turbina bioinspiradas para geração de energia eólica). A ponta do trem-bala japonês Shinkansen foi projetada a partir do formato do bico do pássaro martim-pescador, uma ave aquática. Esse formato resolve problemas de natureza aerodinâmica, tais como a redução do atrito do ar e o estrondo sônico quando o trem-bala sai dos túneis. A natureza nos fornece elementos essenciais para a vida, tais como água, ar, alimentos e energia. E também nos proporciona “sabedoria” para inspirar a inovação. Esses são motivos mais do que suficientes para consolidar o papel das empresas na proteção do meio ambiente. *Marcelo Caldeira Pedroso é professor de inovação e empreendedorismo da FEA-USP e coordenador de ambientes de inovação da Secretaria de Ciência, Tecnologia e Inovação de São Paulo Mais Lidas",
-      "url": "https://epocanegocios.globo.com/colunas/coluna/2026/10/do-remedio-para-obesidade-ao-trem-bala-como-a-natureza-inspira-algumas-das-grandes-inovacoes.ghtml",
-      "published": "2026-10-05T09:00:00+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "glp-1",
-        "semaglutida",
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "glp-1",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 32.0
-    },
-    {
       "title": "Vendas para o Dia das Crianças devem crescer e somar R$ 9,27 bi, diz CNC",
       "summary": "As vendas no varejo relacionadas ao Dia das Crianças, comemorado em 12 de outubro, devem movimentar R$ 9,27 bilhões, 1,8% acima do observado em igual data no ano passado. A projeção é da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), veiculada em estudo sobre o tema, nesta terça-feira (6). A entidade alertou que patamares elevados de endividamento das famílias e de juros devem impedir avanço maior de compras ligadas ao período comemorativo. A CNC lembrou que o Dia das Crianças é a quarta data mais importante em vendas para o varejo, atrás de Natal, Dia das Mães e Black Friday (período de promoções no comércio em novembro). Assim como em anos anteriores, as vendas de brinquedos devem responder por maior parte da movimentação de negócios do comércio relacionados à data comemorativa, detalhou ainda a CNC. O setor deve responder por 39% do total (R$ 3,62 bilhões), projetou a organização. A segunda posição deve ser ocupada por hiper e supermercados, com 28% do total (R$ 2,63 bilhões), seguida por vestuário e acessórios, com 15% (R$ 1,35 bilhão). No estudo, a CNC apurou ainda preços médios de itens a serem presentados no Dia das Crianças que devem estar mais caros esse ano. A estimativa para uma cesta com 11 itens de grupos de bens e serviços relacionados à data ficou é de preços 6,7% mais caros do que no mesmo período de 2025. Nesse ano, a organização estimou que avanço médio de preços de produtos no varejo relacionados ao evento comemorativo será puxado por chocolates, que devem aumentar 19,3%. Outros avanços projetados foram em videogames (11,2%), lanches (8%), e brinquedos (7,1%). Em contrapartida, artigos de vestuário devem mostrar alta de 4%, menor do que média encontrada pela confederação na inflação de itens relacionados à data. Para Fabio Bentes, economista-chefe da CNC, é baixo o crescimento em vendas, projetado para o comércio relacionadas à data. Além disso, é “sustentado pelo bom índice de população empregada e aumento da massa real de rendimentos e sufocado pela alta taxa de juros e o custo restritivo do crédito”. Em comunicado sobre a pesquisa, o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, admitiu que o atual cenário de crédito mais caro e endividamento elevado das famílias ainda representam desafio para o consumo. Mas Tadros ponderou que, em seu entendimento, há sinais que renovam perspectivas do setor. “Entramos na reta final do ano, um período tradicionalmente importante para o comércio e o turismo”, recordou. “Embora o ambiente ainda exija cautela de empresários e consumidores, a trajetória de redução da taxa de juros, mesmo que tardia, fortalece a confiança em condições mais favoráveis para o crescimento, o investimento e a geração de empregos”, disse. Tadros se referiu, indiretamente, ao início da trajetória de corte da taxa básica de juros (Selic) pelo Banco Central. “A expectativa é que o Dia das Crianças impulsione bons resultados para as empresas e contribua para dinamizar a economia, criando um ambiente mais propício neste último trimestre”, projetou Tadros.",
       "url": "https://valor.globo.com/brasil/noticia/2026/10/06/vendas-para-o-dia-das-criancas-devem-crescer-e-somar-r-927-bi-diz-cnc.ghtml",
@@ -3691,37 +3746,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Brasil tem recorde de financiamento de veículos em meio a alta da inadimplência",
-      "summary": "Mesmo em um cenário de juros altos e comprometimento de renda, a compra parcelada de veículos chegou ao maior volume em 15 anos no Brasil, ao mesmo tempo em que os calotes nos pagamentos também crescem. Leia mais (10/04/2026 - 23h00)",
-      "url": "https://c-level.folha.uol.com.br/financas/2026/10/brasil-tem-recorde-de-financiamento-de-veiculos-em-meio-a-alta-da-inadimplencia.shtml",
-      "published": "2026-10-05T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "comprometimento de renda",
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "comprometimento de renda",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Ferramentas de IA mudam hábitos de consumo e desafiam estratégias de gigantes do ecommerce",
@@ -4689,6 +4713,70 @@
       "score": 28.0
     },
     {
+      "title": "Cimed investe R$ 80 mi em marca de beleza sul-coreana e amplia portfólio para competir com multinacionais",
+      "summary": "Uma das principais fabricantes de medicamentos genéricos no Brasil, a Cimed tem explorado novas categorias para crescer. Depois da boa aceitação da linha de produtos Carmed , a companhia, que pretende superar a marca de R$ 5 bilhões em faturamento em 2027, acaba de lançar a Mili, uma marca de produtos de skincare coreana (K-Beauty) idealizada em parceria com o laboratório GDK Cosmetics. Leia mais (10/12/2026 - 05h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/cimed-investe-r-80-mi-em-marca-de-beleza-sul-coreana-e-amplia-portfolio-para-competir-com-multinacionais.shtml",
+      "published": "2026-10-12T08:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Cimed investe R$ 80 milhões em beleza coreana e mira faturamento de R$ 150 milhões em 2027",
+      "summary": "Dona da Carmed prepara lançamento de marca de skincare produzida na Coreia do Sul, com sete produtos e preços entre 100 e 200 reais",
+      "url": "https://veja.abril.com.br/economia/cimed-investe-r-80-milhoes-em-beleza-coreana-e-mira-faturamento-de-r-150-milhoes-em-2027",
+      "published": "2026-10-12T08:00:48+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Com ‘onda azul’, ações de varejo e construção crescem até três vezes mais que Ibovespa",
       "summary": "Grandes varejistas e empresas da construção civil, altamente ligadas à demanda doméstica, têm subido bem acima do Ibovespa, principal indicador da B3, numa velocidade até três vezes o ritmo da bolsa, e influenciado positivamente a carteira de ações do Icon, o Indicador de Consumo. Enquanto o Icon avança 12% por volta das 16h, e o Ibovespa 8,68%, os papéis do Magazine Luiza se valorizam 26%, os da C&amp;A, 22,3% e os da Renner, 20,5% — todas ações que fazem parte do principal índice da B3. Também no varejo alimentar, em papéis do principal indicador da B3, as altas são representativas: Assaí avança 17,7% e Mateus, 9,7%. A valorização das ações ao longo do pregão desta segunda-feira (5) tem feito as cotações se descolarem para acima do preço-alvo definido pelos analistas, ou para patamar próximo dos seus últimos relatórios, o que indica possibilidade futura de revisão dos preços por parte do mercado. Para Magalu, cotada nesta tarde a R$ 9,62, essa cotação atual está acima do último preço alvo de 2026 da análise do Safra e da Ágora Investimentos (R$ 6), e próxima do BB Investimentos (R$ 9,60) e do Itaú BBA (R$ 10). A C&amp;A, cotada nesta tarde a R$ 12,60, tem como preço-alvo de 2026, na análise do Safra o valor de R$ 15,50 e para a Ágora Investimentos, R$ 15. No setor da construção, a ação da MRV acelerava 16% por volta das 15h30, a da Plano&amp;Plano 21,5%, e da Cury, 11,70%. Ainda nesta tarde, os papéis de shopping centers também avançam acima do Ibovespa, com as ações mais resilientes numa alta mais forte — a ação de Multiplan se valoriza 11,7% nesta tarde e a da Iguatemi, 10,3%. A expectativa de que o país se comprometa com um ajuste fiscal mais robusto dentro de um governo mais liberal do candidato Flávio Bolsonaro (PL), e que isto possa dar início a um processo de redução das taxas de juros básicas de forma mais consistente, fez as ações de empresas ligadas ao setor de consumo e demanda local acelerarem. Esses segmentos vêm, desde 2021, amargando o peso dos juros em dois dígitos — depois de o governo avançar com uma política de aceleração no gasto público — a ponto de empresas locais caminharem com alta alavancagem levando a pedidos recordes de recuperação judicial e extrajudicial. Falta de visão Na avaliação de empresários ligados ao comércio varejista ouvidos ontem pelo Valor, houve uma “onda azul” no país que ganhou força com o eleitorado pressionado pelo aumento do endividamento e pelo desejo de mudança na condução da política econômica do país, e isto ajuda a explicar a vitória de Bolsonaro em primeiro turno. A “onda azul” relatada por um presidente de uma rede de comércio ganhou força em decorrência de uma postura equivocada do presidente da República, que jogou boa parte das fichas no fortalecimento de programas sociais antes das eleições e não entendeu o peso do custo político da alavancagem das famílias, e da alta dos juros, que é fruto do desequilíbrio das contas públicas, afirma ele. A expectativa de empresários ouvidos é de que nas próximas semanas se aprofunde o debate em torno das propostas dos dois candidatos, mas Lula terá trabalho maior no sentido de fazer um “mea culpa” em relação à postura adotada na primeira fase da campanha, afirmam eles. “Flávio sai mais fortalecido do primeiro turno, especialmente porque é raro vermos um vencedor de primeiro turno perdendo a eleição. Ele deve dar força maior ao discurso em torno da política liberal que vem defendendo, além de ser esperado que ele dê mais detalhes sobre a equipe econômica e as primeiras medidas fiscais que deve tomar caso vença. Já Lula tem um trabalho árduo pela frente”, disse o CEO de uma rede varejista. “Se Lula tentar repetir o discurso que já vem promovendo e dobrar a aposta, de negar a importância de um ajuste fiscal sério, de vir novamente defendendo um modelo econômico focado no aumento dos gastos que vem se mostrando esgotado, vai ser um tiro no pé”, afirma o executivo. A dúvida dos empresários é como Lula irá ajustar o seu discurso nesse processo e quais cartas ele pode tirar da manga nas próximas semanas. “O avanço da pauta da escala 6x1, que sofre críticas das varejistas, e que o Senado quer destravar, fica no grupo das medidas mais eleitoreiras que devem ganhar corpo nas próximas semanas, num esforço de reação”, diz o executivo. Na visão de um CEO de uma cadeia de varejo alimentar, o crescimento da rejeição ao Supremo Tribunal Federal nas últimas semanas, depois dos últimos eventos envolvendo as investigações do Banco Master que afetaram a imagem dos membros da corte, impulsionou os votos na direita. E também podem ter feito crescer o total de votos no Senado nos candidatos ligados à direita. Além disso, o chamado “voto envergonhado” e o “voto útil” na direita pode ter crescido nos últimos dias, e há possibilidade de ter ocorrido uma migração de votos de eleitores de outros candidatos, como Augusto Cury (Avante) e Renan Santos (Missão), para Flávio Bolsonaro, disse o executivo. “Minhas lojas atendem consumidores de classe alta e baixa, e víamos uma possibilidade de uma virada no Legislativo para a direita, com as pessoas descontentes, mas essa virada na candidatura à presidência é surpreendente”, disse ele.",
       "url": "https://valor.globo.com/financas/noticia/2026/10/05/com-onda-azul-aes-de-varejo-e-construo-crescem-at-trs-vezes-mais-que-a-bolsa.ghtml",
@@ -4736,6 +4824,45 @@
         }
       ],
       "score": 26.0
+    },
+    {
+      "title": "A que nível chegamos no business para pets: time de provadores de rações e petiscos têm quatro patas e paladares exigentes",
+      "summary": "Imagine dezenas de gatos cochilando ou perambulando por um espaço que se parece muito com uma creche para animais de estimação. Todos os dias, às 16h, é servido o jantar. Os gatos entram em pequenos compartimentos, cada um com duas bandejas de ração seca colocadas sobre balanças. Os gatos escolhem qual alimento preferem, e as balanças medem quanto eles consomem. Petz Cobasi: ‘Pretendemos investir fortemente em serviços’, diz CEO Tudo pelo cliente: De pets a recargas de carros elétricos Nutricionistas de um centro da Royal Canin no sul da França observam atentamente: qual ração os animais preferem? Com que entusiasmo eles comem? Uma equipe utiliza esses dados para ajustar receitas e desenvolver novas fórmulas. Fabricantes de alimentos para animais, como a Royal Canin, pertencente ao conglomerado global de produtos de consumo Mars, estão investindo grandes quantias em pesquisas para entender o paladar de gatos e cães — e para atender às pessoas que consideram seus animais de estimação membros da família. Mesmo com a guerra no Irã provocando inflação e o crescimento dos salários não acompanhando esse ritmo, o mercado de alimentos para animais de estimação continua crescendo. E, à medida que os animais adotados em massa durante a pandemia, em 2020, chegam à meia-idade, os fabricantes de alimentos para pets estão concentrando seus esforços em produtos destinados a ajudar nas articulações doloridas, fortalecer músculos cansados e proteger a função cognitiva. — O envelhecimento é uma das maiores oportunidades — disse Cécile Coutens, presidente da Royal Canin. Cécile Coutens, presidente da Royal Canin, na sede da empresa em Aimargues, França. Ela é a primeira mulher a liderar a companhia Mathias Depardon/The New York Times A linha de alimentos para gatos idosos da empresa inclui uma mousse extramacia para gatos com 11 anos ou mais e uma ração seca fácil de mastigar para gatos a partir dos 15 anos. Muitas empresas vendem suplementos para gatos com demência e para ajudar a manter a saúde cerebral durante o envelhecimento. Da mesa das pessoas ao pote dos pets: A virada da comida à base de insetos A inflação elevou os preços da ração convencional (chamada de “croquettes” em francês). E, ainda assim, as opções nas prateleiras de alimentos para cães e gatos ficaram mais caras e especializadas, com marcas vendendo alimentos frescos de qualidade adequada para consumo humano. Estudos mostram que as pessoas reduzem seus próprios gastos antes de cortar despesas com seus animais de estimação. No ano passado, a Purina lançou um prato de “pedaços macios em uma elegante geleia”, em formato de pirâmide, para incentivar os gatos a dar mordidas maiores. Gatos aguardam a hora de testar as rações no centro de pesquisas da Royal Canin em Aimargues, França Mathias Depardon/The New York Times Mais de US$ 17 bilhões foram gastos com alimentos para gatos nos Estados Unidos no último ano, um aumento de 14% em relação ao mesmo período de dois anos atrás, segundo a NielsenIQ, empresa de pesquisa de mercado. As vendas de alimentos para cães ficaram praticamente estáveis. Diferentemente das gerações anteriores, quando os pais acolhiam animais de estimação a pedido dos filhos, hoje as pessoas muitas vezes têm animais antes de ter filhos — se é que têm filhos —, disse Coutens. Alimento para gatos aguarda teste de paladar no centro de pesquisas da fabricante Royal Canin em Aimargues, França. Nutricionistas do local observam quais grãos os gatos preferem e ajustam as receitas de acordo com essas preferências Mathias Depardon/The New York Times As empresas estão investindo em linhas premium de alimentos para animais que atendem aos consumidores mais ricos, enquanto a economia em formato de K — expressão usada para descrever o aumento da distância entre ricos e pobres — persiste. O luxo dos pets: Entenda como o mercado premium revela a nova relação entre tutores e animais Embora, em alguns aspectos, os gatos exijam menos cuidados do que os cães, eles costumam exigir uma dose maior de criatividade humana quando o assunto é alimentação. “Nós gostamos muito dos gatos porque eles também são mais exigentes para comer, de certa forma. Portanto, é preciso mais ciência e tecnologia para conseguir atender a essas exigências com sucesso”, disse Philipp Navratil, CEO da Nestlé, em uma conferência em junho. Nos últimos anos, os gatos passaram a ser adotados em taxas mais altas do que os cães, à medida que as pessoas passam mais tempo no escritório. Cães com um especialista em comportamento animal no centro de pesquisas da Royal Canin em Aimargues, França. Nos últimos anos, gatos têm sido adotados em taxas mais altas do que cães, à medida que as pessoas passam mais tempo no escritório Mathias Depardon/The New York Times Assim como a Nestlé, que possui dois centros onde pesquisadores estudam o comportamento de gatos e cães, a Royal Canin mantém um extenso programa de pesquisa dedicado a esses animais. No centro de pesquisa da Royal Canin em Aimargues, apenas os animais mais exigentes entre os 377 cães e gatos que vivem no local participam dos testes de palatabilidade. Efeito da pandemia: Empresas abrem as portas para animais de estimação e criam até 'licença-PETernidade' O outro centro da empresa fica em Ohio. Como parte do treinamento, os filhotes de gato recebem alimentos de diferentes texturas e sabores para desenvolver seus sentidos. Aos 7 meses, eles são ensinados a comer em comedouros específicos. Cães que comem praticamente qualquer coisa, como os labradores, não são selecionados, disse Silvia Miret-Catalan, vice-presidente de pesquisa e desenvolvimento da Royal Canin. Um funcionário com um Labrador Retriever no centro de pesquisa da Royal Canin em Aimargues, França. Apenas os animais mais exigentes entre os 377 cães e gatos que vivem no complexo participam dos testes de paladar. Cães que comem quase qualquer coisa, como os Labradores, não são selecionados Mathias Depardon/The New York Times No centro da Royal Canin, uma equipe monitora o comportamento dos animais depois do café da manhã e do jantar. Os gatos e cães parecem mais apáticos do que o habitual? Estão brincalhões? Como está a qualidade das fezes, em uma escala de 1 a 10? — A pontuação mais baixa será dada à diarreia — disse Yannick Soulard, que trabalha na área de inovação. Em seguida, as fezes são secas e analisadas para determinar como o alimento é digerido, explicou. Quando os cães e gatos completam 7 anos, os funcionários podem adotá-los. Há uma longa lista de espera, e os funcionários que criaram um vínculo com determinados animais têm prioridade. O sabor é um dos principais focos. Scott McGrane, especialista em felinos do Waltham Petcare Science Institute, da Mars, na Inglaterra, disse que sua equipe estava especialmente interessada em compreender os sentidos e os sabores percebidos pelos gatos, inclusive os mais velhos. Por que eles não demonstravam preferência por alimentos doces? Por que gostam tanto de atum? Ele disse que os pesquisadores descobriram que os gatos possuem o receptor gustativo do umami, que lhes permite sentir e detectar compostos umami. O atum tem uma combinação única de compostos que, para os gatos, equivale a uma espécie de “superumami”, explicou. Uma estátua do fundador da empresa, Jean Cathary, na sede global da Royal Canin em Aimargues, França. Cathary fundou a Royal Canin em 1968, após criar uma receita de ração para cães à base de cereais em sua garagem para tratar problemas de saúde dos animais Mathias Depardon/The New York Times À medida que envelhecem, alguns dos receptores gustativos dos gatos desaparecem, mas eles mantêm a capacidade de perceber o sabor amargo, o que faz com que certos alimentos se tornem menos atraentes, disse Miret-Catalan. Sua equipe desenvolve alimentos para gatos idosos que mascaram o amargor e intensificam aromas atraentes, para manter o interesse dos animais pela comida à medida que envelhecem, explicou. A Mars provavelmente é mais conhecida por fabricar Snickers, M&amp;M’s e Skittles do que por seus produtos para animais de estimação. Embora tenha adquirido a Royal Canin em 2002, a empresa entrou no mercado de alimentos para animais quase um século atrás. Naquela época, as pessoas alimentavam seus cães principalmente com restos de comida da mesa. Nas últimas décadas, a Mars adquiriu milhares de hospitais e clínicas veterinárias. A empresa é proprietária de 6% de todos os estabelecimentos veterinários dos Estados Unidos, segundo a KPMG. É a maior fornecedora de alimentos para animais de estimação nos Estados Unidos e no mundo. A fábrica na sede global da Royal Canin em Aimargues, França. A fabricante de alimentos para animais de estimação, pertencente à Mars, está investindo pesado em pesquisas para entender o paladar de gatos e cães Mathias Depardon/The New York Times Cathy Bedrick, sócia da KPMG que assessora clientes de private equity, disse que as empresas que possuem clínicas veterinárias esperam ter mais negócios nos próximos anos, à medida que a população mundial de animais de estimação envelhece rapidamente. O cachorro de Bedrick faz sessões semanais de acupuntura para tratar a rigidez na coluna. Dentro da fábrica da Royal Canin, depois de uma parede repleta de fotos emolduradas de enormes pedaços de ração, há gigantescos tambores de aço onde milho, frango, trigo e outros ingredientes são misturados. A fábrica produz 146 tipos de ração seca entre os quais os donos de animais podem escolher. Em uma tarde recente, a Royal Canin reproduziu um teste para mim e para meu colega fotógrafo, em um local ensolarado sob uma árvore. Observei Willow, uma gata Ragdoll de 2 anos, comer da Bandeja A, depois da Bandeja B e, em seguida, novamente da Bandeja A. O que significava sua indecisão? Um representante da Royal Canin admitiu que não se tratava de um verdadeiro teste A/B: as bandejas continham a mesma comida, uma diferença em relação ao procedimento habitual. Willow não se incomodou. Terminou as duas porções e foi embora.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/12/a-que-nivel-chegamos-no-business-para-pets-time-de-provadores-de-racoes-e-petiscos-tem-quatro-patas-e-paladares-exigentes.ghtml",
+      "published": "2026-10-12T07:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Pet"
+      ],
+      "matched_aliases": [
+        "cobasi",
+        "petz",
+        "ração"
+      ],
+      "matches": [
+        {
+          "sector": "Pet",
+          "alias": "petz",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Pet",
+          "alias": "cobasi",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Pet",
+          "alias": "ração",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 24.0
     },
     {
       "title": "Rahra leva a revenda de prata porta a porta a uma rede nacional de franquias",
@@ -4863,144 +4990,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Apostadores têm até segunda (5) para sacar dinheiro depositado em bets; entenda",
-      "summary": "Os brasileiros têm até esta segunda-feira (5) para acessar as casas de apostas, as chamadas bets , e sacar valores depositados. Leia mais (10/04/2026 - 23h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/apostadores-tem-ate-segunda-5-para-sacar-dinheiro-depositado-em-bets-entenda.shtml",
-      "published": "2026-10-05T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Caneta emagrecedora: quando perder o apetite deixa de ser uma vantagem?",
-      "summary": "Caneta emagrecedora: quando perder o apetite deixa de ser uma vantagem? &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/ela/noticia/2026/10/05/caneta-emagrecedora-quando-perder-o-apetite-deixa-de-ser-uma-vantagem.ghtml",
-      "published": "2026-10-05T05:45:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Integrantes da campanha avaliam que proibição de bets prejudicou Lula",
-      "summary": "Integrantes da campanha à reeleição de Luiz Inácio Lula da Silva avaliam que a proibição de bets, anunciada pelo presidente nove dias antes da eleição, teve um efeito negativo para o resultado do primeiro turno da disputa pelo Palácio do Planalto neste domingo. Em monitoramento das redes sociais, foi identificada a atuação de influenciadores voltadas para a classe C com pedido de voto útil em Flávio Bolsonaro (PL) para se contrapor à proibição das apostas. Há também uma preocupação com a piora do problema depois de terça-feira, quando a medida provisória determina que os sites sejam tirados do ar. Por enquanto, quem tem recursos nas plataformas ainda pode continuar jogando. A decisão de proibir totalmente as bets dividiu a campanha de Lula. Apenas o ministro Sidônio Palmeira, da Secretaria Comunicação Social (Secom) e a primeira-dama Janja da Silva defendiam o banimento completo das apostas online. O chefe da Secom justificava que a campanha precisava de uma ação de forte impacto na reta final, e a primeira-dama, que a medida teria forte apoio do eleitorado feminino. Os demais integrantes do entorno do presidente classificavam o banimento como radical e arriscado, porque desagrada setores da sociedade, como os clubes de futebol. Mesmo assim, Lula tomou a decisão de banir as apostas do país.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/05/integrantes-da-campanha-avaliam-que-proibicao-de-bets-prejudicou-lula.ghtml",
-      "published": "2026-10-05T06:30:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Granado dá um salto em perfumaria e pode tirar do papel projeto de segunda fábrica até 2030",
-      "summary": "Do Rock in Rio ao Festival de Cannes, da SP-Arte a camarotes no carnaval de Salvador. A Granado vem colando sua marca em eventos no Brasil e no exterior. Não é por acaso. A botica carioca centenária, que fez fama com seus sabonetes glicerinados e o tradicional Polvilho Antisséptico, vem dando um salto em perfumaria, com crescimento anual superior a 46% no segmento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/05/granado-da-um-salto-em-perfumaria-e-pode-tirar-do-papel-projeto-de-segunda-fabrica-ate-2030.ghtml",
-      "published": "2026-10-05T07:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "perfumaria"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "perfumaria",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Prazo para retirar dinheiro das bets termina hoje: o que acontece com quem não sacar?",
-      "summary": "Sites e aplicativos de apostas serão bloqueados a partir da meia-noite",
-      "url": "https://exame.com/invest/minhas-financas/prazo-para-retirar-dinheiro-das-bets-termina-hoje-o-que-acontece-com-quem-nao-sacar",
-      "published": "2026-10-05T07:54:23+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas para obesidade ajudam a proteger os rins e o coração? Veja o que se sabe",
-      "summary": "Canetas para obesidade ajudam a proteger os rins e o coração? Veja o que se sabe &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/canetas-para-obesidade-ajudam-a-proteger-os-rins-e-o-coracao-veja-o-que-se-sabe-nprm",
-      "published": "2026-10-05T08:30:00+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Maiores altas do Ibovespa: Magazine Luiza, Cosan, Cyrela e B3 sobem mais de 20% com rali eleitoral",
@@ -9051,29 +9040,6 @@
       "score": 20.0
     },
     {
-      "title": "Arquivos mercado&consumo reforma tributária",
-      "summary": "Arquivos mercado&amp;consumo reforma tributária &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/tag/mercadoconsumo-reforma-tributaria",
-      "published": "2026-10-11T08:49:49+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Canetas emagrecedoras, comida pronta e delivery: as forças que estão redesenhando a alimentação",
       "summary": "Canetas emagrecedoras, comida pronta e delivery: as forças que estão redesenhando a alimentação &nbsp;&nbsp; Pequenas Empresas & Grandes Negócios",
       "url": "https://revistapegn.globo.com/ideias-de-negocios/noticia/2026/10/canetas-emagrecedoras-comida-pronta-e-delivery-as-forcas-que-estao-redesenhando-a-alimentacao.ghtml",
@@ -9253,6 +9219,52 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nas Áridas Vinícolas da LVMH, a Água É o Grande Artigo de Luxo",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Conhecido como “Aquaman”, Mariano Dorado é o responsável por administrar um dos recursos mais preciosos dos vinhedos da Terrazas de los Andes em Mendoza O post Nas Áridas Vinícolas da LVMH, a Água É o Grande Artigo de Luxo apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/10/nas-aridas-vinicolas-da-lvmh-a-agua-e-o-grande-artigo-de-luxo",
+      "published": "2026-10-12T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxo"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Acabar com o split payment significa aumentar os impostos, alerta coautor da reforma tributária",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/acabar-com-o-split-payment-significa-aumentar-os-impostos-alerta-coautor-da-reforma-tributaria",
+      "published": "2026-10-12T08:30:00+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "split payment"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "split payment",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 20.0
@@ -9735,52 +9747,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Justiça condena empresa por 'aviso-prévio psicológico' durante licença-maternidade",
-      "summary": "A 2ª Turma do TST (Tribunal Superior do Trabalho) condenou a Biolab Sanus Farmacêutica a pagar R$ 50 mil de indenização por danos morais a uma coordenadora de compliance que foi informada de que seria demitida após o fim da licença-maternidade . Leia mais (10/05/2026 - 04h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/justica-condena-empresa-por-aviso-previo-psicologico-durante-licenca-maternidade.shtml",
-      "published": "2026-10-05T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "biolab"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "biolab",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Microsoft Lidera Lista Forbes das Melhores Empresas do Mundo; Veja 11 Brasileiras na Lista",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Levantamento avalia o engajamento e bem-estar de funcionários em mais de 50 países; Petrobras, Embraer e Nubank estão no ranking de 2026 O post Microsoft Lidera Lista Forbes das Melhores Empresas do Mundo; Veja 11 Brasileiras na Lista apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/carreira/2026/10/microsoft-lidera-lista-forbes-das-melhores-empresas-do-mundo-veja-11-brasileiras-na-lista",
-      "published": "2026-10-05T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Com 25% das vendas externas, incorporadora apresenta Florianópolis em Portugal",
@@ -11250,6 +11216,29 @@
         {
           "sector": "E-commerce",
           "alias": "tiktok",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Consumo deixa de ser motor do PIB e deve ter menor crescimento desde pandemia",
+      "summary": "Considerado o motor da economia nos últimos anos, o consumo das famílias perde tração e deve ter o menor crescimento desde a pandemia neste ano e no próximo, segundo economistas. Com o principal pilar da demanda enfraquecido, eles esperam que o investimento e as exportações ganhem mais espaço como impulsionadores da atividade. Leia mais (10/11/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/consumo-deixa-de-ser-motor-do-pib-e-deve-ter-menor-crescimento-desde-pandemia.shtml",
+      "published": "2026-10-12T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "consumo das famílias"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "consumo das famílias",
           "field": "lead",
           "score": 8,
           "topic": null
