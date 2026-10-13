@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T12:49:27.840437+00:00",
-  "count": 385,
-  "new_this_run": 23,
+  "generated_at": "2026-10-13T14:34:28.631259+00:00",
+  "count": 383,
+  "new_this_run": 35,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -827,6 +827,45 @@
       "score": 60.0
     },
     {
+      "title": "Queda nas vendas da LVMH na China sugere dificuldades prolongadas no setor de luxo",
+      "summary": "O desempenho abaixo do esperado das vendas trimestrais de moda e artigos de couro da LVMH, afetadas pela demanda fraca na China por sua principal marca, Louis Vuitton, levantou novas dúvidas sobre a possibilidade de o setor de luxo, avaliado em US$ 350 bilhões, sair em breve de uma desaceleração que já dura três anos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/13/queda-nas-vendas-da-lvmh-na-china-sugere-dificuldades-prolongadas-no-setor-de-luxo.ghtml",
+      "published": "2026-10-13T12:49:21+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxo",
+        "lvmh",
+        "setor de luxo"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "setor de luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "lvmh",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Caneta emagrecedora, bariátrica: o que dizem as novas orientações da OMS para o tratamento de crianças e adolescentes com obesidade",
       "summary": "Pela primeira vez a Organização Mundial de Saúde (OMS) deu orientações sobre o tratamento de obesidade para crianças e adolescentes, considerando a faixa etária de 0 a 19 anos. O documento, embora não seja específico sobre quais tratamentos usar para diferentes perfis, assume que tanto medicamentos (incluindo as canetas emagrecedoras) quanto cirurgias podem ser utilizadas, quando necessárias, a partir dos 10 anos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://oglobo.globo.com/saude/noticia/2026/10/08/caneta-emagrecedora-bariatrica-o-que-dizem-as-novas-orientacoes-da-oms-para-o-tratamento-de-criancas-e-adolescentes-com-obesidade.ghtml",
@@ -977,46 +1016,6 @@
         }
       ],
       "score": 52.0
-    },
-    {
-      "title": "Casas Bahia tem queda de 35% nas vendas digitais e reduz estoques em centros de distribuição, diz perícia",
-      "summary": "A perícia determinada pela Justiça de São Paulo para verificar a situação da Casas Bahia concluiu que a varejista continua operando, mas registrou forte retração da atividade em agosto, mês em que a companhia pediu recuperação judicial . Leia mais (10/06/2026 - 10h41)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/casas-bahia-tem-queda-de-35-nas-vendas-digitais-e-reduz-estoques-em-centros-de-distribuicao-diz-pericia.shtml",
-      "published": "2026-10-06T13:41:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "centros de distribuição",
-        "recuperação judicial"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "centros de distribuição",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperação judicial",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "O fim da taxa das blusinhas não encerra a discussão tributária",
@@ -1462,37 +1461,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Influenciador com obesidade mórbida perdeu 120 kg sem canetas emagrecedoras ou bariátrica: 'Não existe solução externa'",
-      "summary": "Influenciador com obesidade mórbida perdeu 120 kg sem canetas emagrecedoras ou bariátrica: 'Não existe solução externa' &nbsp;&nbsp; Globo",
-      "url": "https://gq.globo.com/fitness/noticia/2026/10/influenciador-com-obesidade-morbida-perdeu-120-kg-sem-canetas-emagrecedoras-ou-bariatrica-nao-existe-solucao-externa.ghtml",
-      "published": "2026-10-06T13:09:48+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Tudo sobre Aura Beauty",
@@ -3120,52 +3088,43 @@
       "score": 36.0
     },
     {
-      "title": "Vendas para o Dia das Crianças devem crescer e somar R$ 9,27 bi, diz CNC",
-      "summary": "As vendas no varejo relacionadas ao Dia das Crianças, comemorado em 12 de outubro, devem movimentar R$ 9,27 bilhões, 1,8% acima do observado em igual data no ano passado. A projeção é da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), veiculada em estudo sobre o tema, nesta terça-feira (6). A entidade alertou que patamares elevados de endividamento das famílias e de juros devem impedir avanço maior de compras ligadas ao período comemorativo. A CNC lembrou que o Dia das Crianças é a quarta data mais importante em vendas para o varejo, atrás de Natal, Dia das Mães e Black Friday (período de promoções no comércio em novembro). Assim como em anos anteriores, as vendas de brinquedos devem responder por maior parte da movimentação de negócios do comércio relacionados à data comemorativa, detalhou ainda a CNC. O setor deve responder por 39% do total (R$ 3,62 bilhões), projetou a organização. A segunda posição deve ser ocupada por hiper e supermercados, com 28% do total (R$ 2,63 bilhões), seguida por vestuário e acessórios, com 15% (R$ 1,35 bilhão). No estudo, a CNC apurou ainda preços médios de itens a serem presentados no Dia das Crianças que devem estar mais caros esse ano. A estimativa para uma cesta com 11 itens de grupos de bens e serviços relacionados à data ficou é de preços 6,7% mais caros do que no mesmo período de 2025. Nesse ano, a organização estimou que avanço médio de preços de produtos no varejo relacionados ao evento comemorativo será puxado por chocolates, que devem aumentar 19,3%. Outros avanços projetados foram em videogames (11,2%), lanches (8%), e brinquedos (7,1%). Em contrapartida, artigos de vestuário devem mostrar alta de 4%, menor do que média encontrada pela confederação na inflação de itens relacionados à data. Para Fabio Bentes, economista-chefe da CNC, é baixo o crescimento em vendas, projetado para o comércio relacionadas à data. Além disso, é “sustentado pelo bom índice de população empregada e aumento da massa real de rendimentos e sufocado pela alta taxa de juros e o custo restritivo do crédito”. Em comunicado sobre a pesquisa, o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, admitiu que o atual cenário de crédito mais caro e endividamento elevado das famílias ainda representam desafio para o consumo. Mas Tadros ponderou que, em seu entendimento, há sinais que renovam perspectivas do setor. “Entramos na reta final do ano, um período tradicionalmente importante para o comércio e o turismo”, recordou. “Embora o ambiente ainda exija cautela de empresários e consumidores, a trajetória de redução da taxa de juros, mesmo que tardia, fortalece a confiança em condições mais favoráveis para o crescimento, o investimento e a geração de empregos”, disse. Tadros se referiu, indiretamente, ao início da trajetória de corte da taxa básica de juros (Selic) pelo Banco Central. “A expectativa é que o Dia das Crianças impulsione bons resultados para as empresas e contribua para dinamizar a economia, criando um ambiente mais propício neste último trimestre”, projetou Tadros.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/10/06/vendas-para-o-dia-das-criancas-devem-crescer-e-somar-r-927-bi-diz-cnc.ghtml",
-      "published": "2026-10-06T14:11:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
+      "title": "Quem ganha no e-commerce quando o Muse chegar ao Brasil? O BTG responde",
+      "summary": "Lançado há pouco mais de um mês nos Estados Unidos, o sistema Muse Wonder, agente de inteligência artificial da Meta, pode abrir uma nova frente de crescimento para o e-commerce brasileiro. E as principais beneficiadas devem ser Magazine Luiza e Mercado Livre. A avaliação é do BTG Pactual, que enxerga potencial benefício para os dois [&#8230;] O post Quem ganha no e-commerce quando o Muse chegar ao Brasil? O BTG responde apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/quem-ganha-no-e-commerce-quando-o-muse-chegar-ao-brasil-o-btg-responde",
+      "published": "2026-10-13T14:25:41+00:00",
+      "source": "https://neofeed.com.br/feed/",
       "matched_sectors": [
-        "Economia",
-        "Viagens"
+        "E-commerce"
       ],
       "matched_aliases": [
-        "endividamento",
-        "endividamento das famílias",
-        "turismo",
-        "vendas no varejo"
+        "e-commerce",
+        "magazine luiza",
+        "mercado livre"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "vendas no varejo",
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "title",
+          "score": 20,
           "topic": null
         },
         {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
+          "sector": "E-commerce",
+          "alias": "mercado livre",
           "field": "lead",
           "score": 8,
           "topic": null
         }
       ],
-      "score": 32.0
+      "score": 36.0
     },
     {
       "title": "Área técnica do Cade aprova compra de 21 lojas do Carrefour pelo dono da Comper",
@@ -3342,68 +3301,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Governo Lula pede para STF manter proibição das bets no Brasil",
-      "summary": "A AGU (Advocacia-Geral da União) pediu ao ministro Luiz Fux , do STF (Supremo Tribunal Federal), que a corte mantenha os efeitos da medida provisória que proibiu apostas esportivas e cassinos online no Brasil, assinada pelo presidente Lula ( PT ) no último dia 25. Leia mais (10/06/2026 - 10h30)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/governo-pede-que-supremo-mantenha-proibicao-das-bets.shtml",
-      "published": "2026-10-06T13:30:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas esportivas",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas esportivas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "AGU se manifesta a favor de MP do governo Lula que proibiu bets no Brasil",
-      "summary": "União também se posicionou de forma contrária à prorrogação do regime de transição para o fim das apostas online",
-      "url": "https://www.jota.info/executivo/agu-se-manifesta-a-favor-de-mp-do-governo-lula-que-proibiu-bets-no-brasil",
-      "published": "2026-10-06T14:23:36+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Messias chama bets de ‘dragão indomável’ e diz que regulação foi ‘extensamente falha’",
@@ -4342,6 +4239,37 @@
       "score": 28.0
     },
     {
+      "title": "Apple amplia aposta em casa conectada com novos dispositivos e inteligência artificial",
+      "summary": "A Apple anunciou nesta terça-feira o lançamento de novos produtos de olho na casa conectada. A dona do iPhone anunciou o Home View, dispositivo da companhia para casas inteligentes que reúne em um único aparelho recursos de entretenimento, comunicação e gerenciamento doméstico. O equipamento começa a ser vendido em 3 de novembro, com pré-venda a partir desta terça-feira. O lançamento inicial será na Austrália, Canadá, Índia, Nova Zelândia, Reino Unido e Estados Unidos, onde o produto custará US$ 299. Com proposta semelhante à de produtos já oferecidos pela Amazon e Google, o Home View funciona como uma central conectada da casa, permitindo controlar dispositivos por voz ou toque, fazer chamadas pelo FaceTime, assistir a filmes, ouvir música, consultar mensagens e acessar outras funções. O aparelho tem tela Retina de 7 polegadas e pode ser usado apoiado sobre uma base com alto-falante ou instalado diretamente na parede. Na versão com base, o dispositivo será oferecido nas cores prata, rosa, cinza e bege claro. Para instalação na parede, as opções serão cinza e prata. O design lembra os monitores da linha Mac da Apple, com uma estrutura minimalista e uma tela conectada à base por uma dobradiça de aço inoxidável, que permite ajustar suavemente sua inclinação. Apple anuncia novos produtos para casa conectada divulgaçãO O Home View consegue reconhecer até seis pessoas. A partir do sistema operacional da Apple, cada usuário pode ter uma experiência personalizada, com informações e sugestões baseadas em seus e-mails, calendários e preferências. A companhia descreve o produto como uma espécie de iPhone ou iPad para a casa, concentrando diferentes atividades em uma única tela. Siri com inteligência artificial Um dos pilares do Home View é a nova geração da Siri, que a Apple apresenta como Siri AI. O sistema permite utilizar recursos de inteligência artificial e interagir com o dispositivo por meio de comandos de voz. A partir da Siri, o usuário pode controlar diferentes funções da casa inteligente, como visualizar imagens de câmeras instaladas na residência, ajustar o termostato e controlar as luzes. Os mesmos comandos também podem ser realizados diretamente pela tela sensível ao toque. Áudio espacial e chamadas pelo FaceTime Outro destaque do Home View é o sistema de áudio. O aparelho utiliza drivers personalizados, desenvolvidos para captar sons e também reproduzir áudio espacial, criando uma experiência que se espalha pelo ambiente. Para chamadas de vídeo pelo FaceTime, o dispositivo incorpora o recurso Center Stage, já presente em iPads. A tecnologia mantém as pessoas enquadradas no centro da imagem, mesmo quando elas se movimentam. A câmera acompanha lentamente o deslocamento dos participantes, ajustando o enquadramento para manter todos no foco. O Home View é equipado com o chip A18, oferecendo capacidade de processamento para os recursos de inteligência artificial, reconhecimento de usuários e demais funções do aparelho. Apple apresenta nova linha de acessórios para a casa Apple anuncia novos produtos para casa conectada Divulgação A Apple também apresentou uma nova linha de acessórios para casa inteligente, chamada Apple Home Collection, desenvolvida em parceria com a LG Electronics e a Schneider Electric. A linha inclui câmeras internas e externas, termostatos, sensores de temperatura, campainhas e fechaduras de porta com vídeo. Os produtos serão gerenciados pelo novo aplicativo Apple Home, que pode ser acessado pelo iPhone, por exemplo. As vendas dos acessórios começam em dezembro. Segundo a Apple e a LG, as câmeras da nova linha capturam vídeos em alta resolução e têm capacidade de reconhecer pessoas, animais, veículos e pacotes. O histórico das imagens também pode ser armazenado no serviço de nuvem da Apple, o iCloud+. Os acessórios terão preços a partir de US$ 199,95 nos Estados Unidos e poderão chegar a quase US$ 400, dependendo do produto. HomePod mini 2 ganha Siri AI e novas cores Companhia lança Home View por US$ 299, HomePod mini 2 por US$ 149 e nova Apple TV 4K; acessórios para casa inteligente custam a partir de US$ 199,95. Produtos não têm previsão inicial de lançamento no Brasil. Divulgação A Apple também anunciou a nova geração do HomePod mini, seu alto-falante inteligente compacto. O produto passa a contar com suporte à nova versão da Siri AI e chega com novas opções de cores. O HomePod mini 2 terá preço de US$ 149 nos Estados Unidos. Assim como o Home View e os novos acessórios da linha Apple Home Collection, o produto não terá venda inicialmente no Brasil. Nova Apple TV 4K tem chip A19 Apple lança nova Apple TV 4K integrada com Siri AI Divulgação A companhia também apresentou uma nova geração da Apple TV 4K, que passa a incorporar suporte à nova Siri AI. O aparelho recebeu um novo design para acomodar as novas funções e é equipado com o chip A19. Segundo a Apple, o novo processador proporciona um desempenho 50% mais rápido em comparação com a geração anterior. A nova Apple TV 4K amplia, assim, a estratégia da companhia de levar os recursos de inteligência artificial para diferentes dispositivos de seu ecossistema.",
+      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/10/13/apple-amplia-aposta-em-casa-conectada-com-novos-dispositivos-e-inteligencia-artificial.ghtml",
+      "published": "2026-10-13T13:42:50+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "apple",
+        "iphone"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "apple",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "iphone",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "A que nível chegamos no business para pets: time de provadores de rações e petiscos têm quatro patas e paladares exigentes",
       "summary": "Imagine dezenas de gatos cochilando ou perambulando por um espaço que se parece muito com uma creche para animais de estimação. Todos os dias, às 16h, é servido o jantar. Os gatos entram em pequenos compartimentos, cada um com duas bandejas de ração seca colocadas sobre balanças. Os gatos escolhem qual alimento preferem, e as balanças medem quanto eles consomem. Petz Cobasi: ‘Pretendemos investir fortemente em serviços’, diz CEO Tudo pelo cliente: De pets a recargas de carros elétricos Nutricionistas de um centro da Royal Canin no sul da França observam atentamente: qual ração os animais preferem? Com que entusiasmo eles comem? Uma equipe utiliza esses dados para ajustar receitas e desenvolver novas fórmulas. Fabricantes de alimentos para animais, como a Royal Canin, pertencente ao conglomerado global de produtos de consumo Mars, estão investindo grandes quantias em pesquisas para entender o paladar de gatos e cães — e para atender às pessoas que consideram seus animais de estimação membros da família. Mesmo com a guerra no Irã provocando inflação e o crescimento dos salários não acompanhando esse ritmo, o mercado de alimentos para animais de estimação continua crescendo. E, à medida que os animais adotados em massa durante a pandemia, em 2020, chegam à meia-idade, os fabricantes de alimentos para pets estão concentrando seus esforços em produtos destinados a ajudar nas articulações doloridas, fortalecer músculos cansados e proteger a função cognitiva. — O envelhecimento é uma das maiores oportunidades — disse Cécile Coutens, presidente da Royal Canin. Cécile Coutens, presidente da Royal Canin, na sede da empresa em Aimargues, França. Ela é a primeira mulher a liderar a companhia Mathias Depardon/The New York Times A linha de alimentos para gatos idosos da empresa inclui uma mousse extramacia para gatos com 11 anos ou mais e uma ração seca fácil de mastigar para gatos a partir dos 15 anos. Muitas empresas vendem suplementos para gatos com demência e para ajudar a manter a saúde cerebral durante o envelhecimento. Da mesa das pessoas ao pote dos pets: A virada da comida à base de insetos A inflação elevou os preços da ração convencional (chamada de “croquettes” em francês). E, ainda assim, as opções nas prateleiras de alimentos para cães e gatos ficaram mais caras e especializadas, com marcas vendendo alimentos frescos de qualidade adequada para consumo humano. Estudos mostram que as pessoas reduzem seus próprios gastos antes de cortar despesas com seus animais de estimação. No ano passado, a Purina lançou um prato de “pedaços macios em uma elegante geleia”, em formato de pirâmide, para incentivar os gatos a dar mordidas maiores. Gatos aguardam a hora de testar as rações no centro de pesquisas da Royal Canin em Aimargues, França Mathias Depardon/The New York Times Mais de US$ 17 bilhões foram gastos com alimentos para gatos nos Estados Unidos no último ano, um aumento de 14% em relação ao mesmo período de dois anos atrás, segundo a NielsenIQ, empresa de pesquisa de mercado. As vendas de alimentos para cães ficaram praticamente estáveis. Diferentemente das gerações anteriores, quando os pais acolhiam animais de estimação a pedido dos filhos, hoje as pessoas muitas vezes têm animais antes de ter filhos — se é que têm filhos —, disse Coutens. Alimento para gatos aguarda teste de paladar no centro de pesquisas da fabricante Royal Canin em Aimargues, França. Nutricionistas do local observam quais grãos os gatos preferem e ajustam as receitas de acordo com essas preferências Mathias Depardon/The New York Times As empresas estão investindo em linhas premium de alimentos para animais que atendem aos consumidores mais ricos, enquanto a economia em formato de K — expressão usada para descrever o aumento da distância entre ricos e pobres — persiste. O luxo dos pets: Entenda como o mercado premium revela a nova relação entre tutores e animais Embora, em alguns aspectos, os gatos exijam menos cuidados do que os cães, eles costumam exigir uma dose maior de criatividade humana quando o assunto é alimentação. “Nós gostamos muito dos gatos porque eles também são mais exigentes para comer, de certa forma. Portanto, é preciso mais ciência e tecnologia para conseguir atender a essas exigências com sucesso”, disse Philipp Navratil, CEO da Nestlé, em uma conferência em junho. Nos últimos anos, os gatos passaram a ser adotados em taxas mais altas do que os cães, à medida que as pessoas passam mais tempo no escritório. Cães com um especialista em comportamento animal no centro de pesquisas da Royal Canin em Aimargues, França. Nos últimos anos, gatos têm sido adotados em taxas mais altas do que cães, à medida que as pessoas passam mais tempo no escritório Mathias Depardon/The New York Times Assim como a Nestlé, que possui dois centros onde pesquisadores estudam o comportamento de gatos e cães, a Royal Canin mantém um extenso programa de pesquisa dedicado a esses animais. No centro de pesquisa da Royal Canin em Aimargues, apenas os animais mais exigentes entre os 377 cães e gatos que vivem no local participam dos testes de palatabilidade. Efeito da pandemia: Empresas abrem as portas para animais de estimação e criam até 'licença-PETernidade' O outro centro da empresa fica em Ohio. Como parte do treinamento, os filhotes de gato recebem alimentos de diferentes texturas e sabores para desenvolver seus sentidos. Aos 7 meses, eles são ensinados a comer em comedouros específicos. Cães que comem praticamente qualquer coisa, como os labradores, não são selecionados, disse Silvia Miret-Catalan, vice-presidente de pesquisa e desenvolvimento da Royal Canin. Um funcionário com um Labrador Retriever no centro de pesquisa da Royal Canin em Aimargues, França. Apenas os animais mais exigentes entre os 377 cães e gatos que vivem no complexo participam dos testes de paladar. Cães que comem quase qualquer coisa, como os Labradores, não são selecionados Mathias Depardon/The New York Times No centro da Royal Canin, uma equipe monitora o comportamento dos animais depois do café da manhã e do jantar. Os gatos e cães parecem mais apáticos do que o habitual? Estão brincalhões? Como está a qualidade das fezes, em uma escala de 1 a 10? — A pontuação mais baixa será dada à diarreia — disse Yannick Soulard, que trabalha na área de inovação. Em seguida, as fezes são secas e analisadas para determinar como o alimento é digerido, explicou. Quando os cães e gatos completam 7 anos, os funcionários podem adotá-los. Há uma longa lista de espera, e os funcionários que criaram um vínculo com determinados animais têm prioridade. O sabor é um dos principais focos. Scott McGrane, especialista em felinos do Waltham Petcare Science Institute, da Mars, na Inglaterra, disse que sua equipe estava especialmente interessada em compreender os sentidos e os sabores percebidos pelos gatos, inclusive os mais velhos. Por que eles não demonstravam preferência por alimentos doces? Por que gostam tanto de atum? Ele disse que os pesquisadores descobriram que os gatos possuem o receptor gustativo do umami, que lhes permite sentir e detectar compostos umami. O atum tem uma combinação única de compostos que, para os gatos, equivale a uma espécie de “superumami”, explicou. Uma estátua do fundador da empresa, Jean Cathary, na sede global da Royal Canin em Aimargues, França. Cathary fundou a Royal Canin em 1968, após criar uma receita de ração para cães à base de cereais em sua garagem para tratar problemas de saúde dos animais Mathias Depardon/The New York Times À medida que envelhecem, alguns dos receptores gustativos dos gatos desaparecem, mas eles mantêm a capacidade de perceber o sabor amargo, o que faz com que certos alimentos se tornem menos atraentes, disse Miret-Catalan. Sua equipe desenvolve alimentos para gatos idosos que mascaram o amargor e intensificam aromas atraentes, para manter o interesse dos animais pela comida à medida que envelhecem, explicou. A Mars provavelmente é mais conhecida por fabricar Snickers, M&amp;M’s e Skittles do que por seus produtos para animais de estimação. Embora tenha adquirido a Royal Canin em 2002, a empresa entrou no mercado de alimentos para animais quase um século atrás. Naquela época, as pessoas alimentavam seus cães principalmente com restos de comida da mesa. Nas últimas décadas, a Mars adquiriu milhares de hospitais e clínicas veterinárias. A empresa é proprietária de 6% de todos os estabelecimentos veterinários dos Estados Unidos, segundo a KPMG. É a maior fornecedora de alimentos para animais de estimação nos Estados Unidos e no mundo. A fábrica na sede global da Royal Canin em Aimargues, França. A fabricante de alimentos para animais de estimação, pertencente à Mars, está investindo pesado em pesquisas para entender o paladar de gatos e cães Mathias Depardon/The New York Times Cathy Bedrick, sócia da KPMG que assessora clientes de private equity, disse que as empresas que possuem clínicas veterinárias esperam ter mais negócios nos próximos anos, à medida que a população mundial de animais de estimação envelhece rapidamente. O cachorro de Bedrick faz sessões semanais de acupuntura para tratar a rigidez na coluna. Dentro da fábrica da Royal Canin, depois de uma parede repleta de fotos emolduradas de enormes pedaços de ração, há gigantescos tambores de aço onde milho, frango, trigo e outros ingredientes são misturados. A fábrica produz 146 tipos de ração seca entre os quais os donos de animais podem escolher. Em uma tarde recente, a Royal Canin reproduziu um teste para mim e para meu colega fotógrafo, em um local ensolarado sob uma árvore. Observei Willow, uma gata Ragdoll de 2 anos, comer da Bandeja A, depois da Bandeja B e, em seguida, novamente da Bandeja A. O que significava sua indecisão? Um representante da Royal Canin admitiu que não se tratava de um verdadeiro teste A/B: as bandejas continham a mesma comida, uma diferença em relação ao procedimento habitual. Willow não se incomodou. Terminou as duas porções e foi embora.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/12/a-que-nivel-chegamos-no-business-para-pets-time-de-provadores-de-racoes-e-petiscos-tem-quatro-patas-e-paladares-exigentes.ghtml",
@@ -4584,98 +4512,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Inadimplência do consignado CLT começa a aparecer nos fundos de crédito",
-      "summary": "Informes enviados à CVM mostram aumento de atrasos e provisões em veículos lastreados em empréstimos a trabalhadores",
-      "url": "https://veja.abril.com.br/economia/inadimplencia-do-consignado-clt-comeca-a-aparecer-nos-fundos-de-credito",
-      "published": "2026-10-06T13:15:14+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Keeta retoma expansão para 21 cidades após vitória na Justiça e deixa Rio para depois",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/negocios/keeta-retoma-expansao-vitoria-justica",
-      "published": "2026-10-06T13:22:45+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Plataformas de bets começam a encerrar atividades nesta terça-feira",
-      "summary": "Plataformas de bets começam a encerrar atividades nesta terça-feira &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/06/10/2026/economia/plataformas-de-bets-comecam-a-encerrar-atividades-nesta-terca-feira",
-      "published": "2026-10-06T13:41:30+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Uber bets $2.3 billion on ezCater to narrow gap with DoorDash",
-      "summary": "Uber bets $2.3 billion on ezCater to narrow gap with DoorDash &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/uber-buy-us-catering-platform-ezcater-23-billion-2026-10-06",
-      "published": "2026-10-06T14:08:30+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "doordash"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "doordash",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Anvisa proíbe venda de insulina e tirzepatida irregulares",
@@ -8588,6 +8424,29 @@
       "score": 20.0
     },
     {
+      "title": "Avon cria linha para menopausa — incluindo creme que resfria a pele em até 4°C",
+      "summary": "Em entrevista exclusiva à EXAME, executiva detalha como mudanças demográficas e lacunas de cuidado passaram a orientar pesquisas e desenvolvimento de produtos para mulheres 45+",
+      "url": "https://exame.com/esg/avon-cria-linha-para-menopausa-apos-sete-anos-de-pesquisa-sobre-mudancas-na-pele",
+      "published": "2026-10-13T10:03:40+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "avon"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "avon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "A diferença na intenção de voto em Flávio e Lula entre quem recebe e não recebe Bolsa Família, segundo a pesquisa BTG/Nexus",
       "summary": "Levantamento mostra vantagem ampla de um candidato no recorte de beneficiários do programa social",
       "url": "https://veja.abril.com.br/brasil/a-diferenca-na-intencao-de-voto-em-flavio-e-lula-entre-quem-recebe-e-nao-recebe-bolsa-familia-segundo-a-pesquisa-btg-nexus",
@@ -8611,11 +8470,57 @@
       "score": 20.0
     },
     {
-      "title": "Fim da escala 6x1 no plenário do Senado Federal: quantos votos são necessários para aprovar?",
-      "summary": "A Proposta de Emenda à Constituição (PEC) do fim da escala 6x1 é o único item da pauta do plenário do Senado Federal nesta semana. Estão previstas duas sessões de debate sobre o tema na terça e na quarta-feira e, em seguida, a proposta poderá ser votada em primeiro turno, conforme já anunciou o presidente da Casa, Davi Alcolumbre. Pesquisa: 49% dos eleitores de Flávio acham que ele impediria o fim da escala 6x1 se eleito Na reta final do 2º turno: Lula lança pacote de medidas para diminuir dívidas de microempreendedores O texto substitui a jornada de seis de dias de trabalho e um de folga por semana por uma carga horária de cinco de dias e dois de descanso. O governo tem pressa e busca aprovar a PEC, bandeira eleitoral do presidente Lula, em primeiro e segundo turno antes do desfecho da campanha, em 25 de outubro. O PL, partido do candidato Flávio Bolsonaro à Presidência, deve liberar a bancada na votação da PEC do fim da escala 6x1, segundo o senador Wellington Fagundes (PL-MT), líder do bloco de oposição da Casa. O parlamentar afirmou que, embora a coordenação da campanha de Flávio Bolsonaro prefira abstenção, a maioria dos parlamentares avalia que é preciso se posicionar em relação à proposta. Além do PL, as legendas de oposição ao governo no Senado devem liberar as suas bancadas, disse a senadora Tereza Cristina (PP-MS). A senadora foi escolhida para mediar as conversas entre o presidente do Senado, Davi Alcolumbre (União Brasil-AP) e os partidos em relação à tramitação da PEC. Flávio Bolsonaro: Proposta de criar regra fiscal ancorada na dívida pública pode afrouxar pressão por corte de gastos A estratégia deve ser definida em um almoço de integrantes da oposição ao governo, na quarta-feira. As reuniões costumam acontecer nas terças-feiras, mas em virtude do feriado alguns parlamentares não devem chegar a tempo. Flávio Bolsonaro tem se posicionado contra a PEC. Ele defende um regime mais flexível, em que trabalhadores possam negociar a jornada com empregadores, conforme propôs o coordenador da campanha de Flávio, senador Rogério Marinho (PL-RN). — A PEC é um carro desgovernado, eleitoreiro descendo ladeira abaixo, supostamente dirigido por (Davi) Alcolumbre e Lula — disse o líder do partido no Senado, Carlos Portinho (PL-RJ). Fim da escala 6x1: Coordenador da campanha de Lula prevê aprovação da PEC em dois turnos nesta semana — O posicionamento de Rogério Marinho é pela abstenção, mas a maioria da bancada avalia que os senadores devem se posicionar — afirmou Fagundes, líder do bloco. Para acelerar a votação da proposta, a líder do governo no Senado, Teresa Leitão (PT-PE) deverá apresentar até quarta-feira um requerimento de calendário especial para quebra de interstício. Entre alternativas avaliadas pela oposição, além da liberação de bancadas e abstenção, estão esvaziar o quórum e apresentar emendas de plenário. As emendas em discussão sugerem mudar o tempo de transição para seis meses. Pela proposta, a PEC entra em vigor 60 dias após a promulgação, quando a jornada cai de 44 horas semanas para 42 horas e um ano depois, para 40 horas. Também se discute abrir exceções para categoria com regime de escala, como petroleiros e aeroviários, por exemplo. Nas propostas para o comércio internacional: Flávio se alinha aos EUA, e Lula prega multilateralismo O regimento exige cinco sessões de discussão antes da primeira votação. Foram realizadas três sessões na semana passada. Se a PEC for aprovada, há um intervalo de cinco dias úteis e mais três sessões antes do segundo turno. Mas é possível aprovar um requerimento para a votação do segundo turno logo em seguida. A PEC já foi aprovada pela Câmara dos Deputados no fim de maio e pela Comissão de Constituição e Justiça do Senado no início de setembro. Confira o cronograma da tramitação da PEC no Senado Regimento exige cinco sessões de discussão antes da primeira votação Na semana passada, foram realizadas três sessões Estão previstas duas sessões de debate sobre o tema nesta semana, na terça e na quarta-feira Após as cinco sessões de discussões, a proposta poderá ser votada em primeiro turno Se a PEC for aprovada em primeiro turno, há um intervalo de cinco dias úteis e mais três sessões antes do segundo turno. No entanto, os senadores podem aprovar um requerimento para a votação do segundo turno logo em seguida Em cada votação são necessários 49 dos 81 votos, ou seja, três quintos do total de votos",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/13/fim-da-escala-6x1-no-plenario-do-senado-federal-quantos-votos-sao-necessarios-para-aprovar.ghtml",
-      "published": "2026-10-13T11:48:25+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "Descarte de canetas emagrecedoras: agulhas são encontradas no lixo comum e causam riscos",
+      "summary": "Descarte de canetas emagrecedoras: agulhas são encontradas no lixo comum e causam riscos &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/pi/piaui/videos-bom-dia-piaui/video/descarte-de-canetas-emagrecedoras-agulhas-sao-encontradas-no-lixo-comum-e-causam-riscos-15053188.ghtml",
+      "published": "2026-10-13T12:37:56+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Turismo impulsiona bares e restaurantes em 2026",
+      "summary": "O turismo brasileiro faturou R$ 25,5 bilhões em julho, o melhor resultado para o mês desde 2012. De janeiro a julho, a receita somou R$ 168,8 bilhões, alta de 3,4% sobre o mesmo período de 2025. Os números são do levantamento mensal da FecomercioSP, feito com base em dados do IBGE. A federação projeta crescimento de 4% no ano e um faturamento próximo de R$ 300 bilhões, patamar inédito para o setor. Os restaurantes estão entre as quatro atividades turísticas de maior receita, ao lado do transporte aéreo, da hospedagem e das locadoras de veículos. Em maio, a alimentação voltada ao turismo já havia registrado a maior alta proporcional entre os principais segmentos, de 6,9%. Para a Abrasel, os números confirmam o papel de bares e restaurantes na experiência de quem viaja. \"A refeição faz parte de qualquer viagem. Quem recebe bem o visitante à mesa ajuda a construir a imagem do destino\", afirma Paulo Solmucci, presidente-executivo da Abrasel. Onze meses seguidos de alta O bom momento do turismo acompanha o do próprio setor. O Índice Abrasel-Stone de agosto, divulgado em 16 de setembro, registrou alta de 7,4% nas vendas sobre o mesmo mês do ano passado. Foi o 11º mês seguido de crescimento na comparação anual. Dos 24 estados acompanhados, 23 venderam mais, e o Nordeste liderou, com 10,3%. O setor reúne mais de 1,5 milhão de estabelecimentos e emprega cerca de 5 milhões de pessoas, o equivalente a 7,9% dos postos de trabalho do país. Está presente em todas as cidades. Onde o turista chega, há um bar ou restaurante para recebê-lo. Alta temporada e comportamento do viajante O peso da alimentação aparece com mais força nos meses de férias. Em janeiro, a CNC estimou que bares e restaurantes responderiam pela maior fatia do faturamento do turismo na alta temporada 2025/2026, quase 45% do total. A FecomercioSP observa que as famílias passaram a tratar a viagem como prioridade depois da pandemia e ajustam o roteiro ao orçamento. Quando a passagem aérea encarece, muitas trocam o destino distante por uma viagem de carro a uma cidade próxima. Estrangeiros e o calendário de 2027 O visitante internacional também pesa no resultado. Segundo o Ministério do Turismo, o Brasil recebeu 6,4 milhões de estrangeiros de janeiro a agosto de 2026. Eles deixaram R$ 38,7 bilhões na economia. Em 2027, o Brasil sedia a Copa do Mundo Feminina da Fifa, entre junho e julho. Para a Abrasel, o torneio e os demais eventos do calendário devem ajudar a sustentar o patamar alcançado em 2026. A expectativa da entidade é de consolidação dos resultados, sem um salto no faturamento do setor. Vendas em alta, margens apertadas A cautela tem razão. O crescimento das vendas ainda não se converteu em resultado para todos os negócios. Segundo a Pesquisa Nacional de Conjuntura Econômica da Abrasel, 42% dos estabelecimentos operaram com lucro em julho, e 20% fecharam no prejuízo. Em dezembro de 2025, os lucrativos eram 47%. Os custos continuam pressionando o caixa das empresas. Para a Abrasel, o ritmo dos próximos meses depende das condições de crédito e da força do mercado de trabalho.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/13/turismo-impulsiona-bares-e-restaurantes-em-2026-1.ghtml",
+      "published": "2026-10-13T13:39:50+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Flávio Bolsonaro diz que vai votar a favor do fim da escala 6x1, pressionado pela eleição",
+      "summary": "O senador Flávio Bolsonaro ( PL ), candidato à presidência da República, disse na manhã desta terça-feira (13) que vai votar a favor da PEC (proposta de emenda à Constituição) que acaba com a escala 6x1 , proposta do governo Lula ( PT ). Leia mais (10/13/2026 - 10h41)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-diz-que-vai-votar-a-favor-do-fim-da-escala-6x1.shtml",
+      "published": "2026-10-13T13:41:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
         "Economia"
       ],
@@ -8629,6 +8534,29 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Projeções do e-commerce no Brasil: o que esperar até 2036?",
+      "summary": "Projeções do e-commerce no Brasil: o que esperar até 2036? &nbsp;&nbsp; E-Commerce Brasil",
+      "url": "https://www.ecommercebrasil.com.br/artigos/projecoes-do-e-commerce-no-brasil-o-que-esperar-ate-2036",
+      "published": "2026-10-13T14:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
