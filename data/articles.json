@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T14:34:28.631259+00:00",
-  "count": 383,
-  "new_this_run": 35,
+  "generated_at": "2026-10-13T15:10:08.181836+00:00",
+  "count": 384,
+  "new_this_run": 34,
   "articles": [
     {
       "title": "Wellhub fecha com Bluefit, rival da Smart Fit, e vira ‘banco’ de academias",
@@ -952,6 +952,53 @@
         {
           "sector": "Global Consumer",
           "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
+      "title": "Canetas emagrecedoras: veja 6 riscos associados ao uso sem indicação",
+      "summary": "Medicamentos à base de semaglutida e tirzepatida podem causar alterações gastrointestinais, perda muscular e complicações mais raras, como pancreatite",
+      "url": "https://exame.com/ciencia/canetas-emagrecedoras-veja-6-riscos-associados-ao-uso-sem-indicacao",
+      "published": "2026-10-13T11:44:32+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -2893,6 +2940,68 @@
       "score": 40.0
     },
     {
+      "title": "Arquivos Life by Vivara",
+      "summary": "Arquivos Life by Vivara &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/tag/life-by-vivara",
+      "published": "2026-10-13T13:21:23+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "life by vivara",
+        "vivara"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "vivara",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Joias",
+          "alias": "life by vivara",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Reforma Tributária: 86% das notas fiscais destacam a CBS",
+      "summary": "Reforma Tributária: 86% das notas fiscais destacam a CBS &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/13/10/2026/economia/reforma-tributaria-86-das-notas-fiscais-destacam-a-cbs/amp",
+      "published": "2026-10-13T13:25:41+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "O que pode mudar com o fim da escala 6x1? Senado retoma discussão nesta quarta-feira (7)",
       "summary": "O fim da escala 6x1 -na qual se trabalham seis dias com um de folga- voltou aos debates com o Senado pautando a PEC (proposta de emenda à Constituição) 221, que reduz a jornada de trabalho para 40 horas semanais e cria a escala 5x2 sem diminuir o salário. Leia mais (10/07/2026 - 04h00)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/10/o-que-pode-mudar-com-o-fim-da-escala-6x1-senado-retoma-discussao-nesta-quarta-feira-7.shtml",
@@ -3301,37 +3410,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Messias chama bets de ‘dragão indomável’ e diz que regulação foi ‘extensamente falha’",
-      "summary": "Advogado-geral da União envia parecer ao STF em que pede audiência pública sobre o tema, mas defende que apostas online sigam proibidas",
-      "url": "https://veja.abril.com.br/politica/messias-chama-bets-de-dragao-indomavel-e-diz-que-regulacao-foi-extensamente-falha",
-      "published": "2026-10-06T14:46:47+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "CEO explica receita para Itaú sofrer menos com inadimplência do que restante do mercado",
@@ -4348,45 +4426,6 @@
       "score": 24.0
     },
     {
-      "title": "Falta de paridade na Cnica fragiliza o contencioso da reforma",
-      "summary": "A promessa central da reforma tributária sempre foi a simplificação. Ao substituir uma teia caótica de impostos e contribuições sobre o consumo por dois tributos gêmeos, IBS e CBS (o primeiro federal e o segundo compartilhado entre Estados e municípios), prometeu-se maior previsibilidade, menos litígio e mais segurança para quem produz, investe e contrata. Mas a engenharia institucional do novo sistema criou um elemento capaz de comprometer parcela dessas promessas. A Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS (Cnica), criada pela Lei Complementar nº 227/2026 para dar a última palavra na discussão administrativa de controvérsias comuns aos dois tributos, nasce com um vício de origem: a ausência de paridade entre representantes do Fisco e dos contribuintes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/coluna/falta-de-paridade-na-cnica-fragiliza-o-contencioso-da-reforma.ghtml",
-      "published": "2026-10-13T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 24.0
-    },
-    {
       "title": "Rahra leva a revenda de prata porta a porta a uma rede nacional de franquias",
       "summary": "Em 1988, Dona Solange começou como revendedora, vendendo prata de porta em porta em Pará de Minas, no Sul de Minas. Trinta e oito anos depois, o negócio nascido dessa revenda é a Rahra, rede de semijoias com cerca de 60 lojas e presença nacional, construída em etapas: primeiro o atacado, depois o varejo e, por fim, a expansão por franquias. A sequência explica boa parte do modelo atual. A primeira loja da marca foi de atacado, e só depois a empresa passou a atender diretamente o consumidor final. A abertura de unidades franqueadas veio na fase seguinte, quando a operação já tinha estrutura para replicar o formato de loja em outras praças. Minas Gerais segue como a base mais forte da rede, e a estratégia agora é ampliar a presença em outros estados. \"Crescemos no atacado antes de chegar ao varejo, e isso nos deu uma disciplina muito grande com produto, preço e giro. Quando começamos a expandir por franquias, essa base já estava pronta para ser levada a outras cidades\", afirma Jonathas Coelho, CEO da Rahra. A origem na venda direta também segue presente na operação. Além das lojas, a Rahra mantém um canal de revenda, com um espaço exclusivo que oferece suporte, capacitação e ferramentas às revendedoras. Na prática, a marca combina três frentes de distribuição: revenda, lojas franqueadas e e-commerce. A empresa continua familiar. Dona Solange segue como fundadora e referência da marca, Jonathas responde pela frente de negócios e o irmão, Thomas, é diretor de produto. A divisão aparece na forma como a rede organizou sua cadeia produtiva. Parte das peças é desenvolvida a partir de curadoria feita na China, onde a Rahra mantém uma profissional dedicada a acompanhar tendências de moda e encurtar o intervalo entre o que surge no exterior e o que chega às lojas brasileiras. O banho das semijoias é feito no Brasil, em galvânica própria em Limeira (SP), sem terceirização. O controle desse processo sustenta o principal argumento comercial da marca, uma garantia de até 10 anos, que varia conforme a peça. Quanto maior a quantidade de ouro aplicada, maior o prazo, e o desgaste coberto pela garantia é resolvido com a troca por uma peça nova. \"Ter a galvânica dentro de casa é o que nos permite assumir esse compromisso com a cliente. Sabemos exatamente como cada peça foi banhada, então conseguimos responder por ela durante anos\", diz Jonathas. Nos últimos meses, a marca também passou a investir em diferenciação de produto. Desde janeiro de 2026, cada campanha traz um look completo de design autoral, exclusivo da Rahra. O portfólio inclui peças em prata, semijoias banhadas a ouro e uma linha de berloques em aço, que ganhou uma parceria de licenciamento com a Warner Bros. A coleção de Tom e Jerry chegou às lojas em junho, e a de Looney Tunes, em agosto. O posicionamento que a empresa busca fica no espaço entre a joalheria e a bijuteria: uma semijoia de qualidade premium, com preço acessível e apelo de moda. As lojas seguem um projeto próprio, com escada rosa, painel com imagens de mulheres dos anos 1980 e escrivaninha com aparadores, em uma atmosfera retrô e contemporânea que se afasta do formato tradicional de loja do segmento. Para os próximos meses, a rede prevê duas inaugurações em Fortaleza e coloca o digital no centro da estratégia. O e-commerce, em fase de expansão, já reúne mais de 10 mil clientes. \"A loja física construiu a nossa história, e agora o desafio é fazer com que a força da marca no balcão também apareça no digital. Expandir para novos estados e crescer no online são movimentos que andam juntos\", afirma Jonathas.",
       "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/07/rahra-leva-a-revenda-de-prata-porta-a-porta-a-uma-rede-nacional-de-franquias-1.ghtml",
@@ -4512,52 +4551,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Anvisa proíbe venda de insulina e tirzepatida irregulares",
-      "summary": "Anvisa proíbe venda de insulina e tirzepatida irregulares &nbsp;&nbsp; Extra online",
-      "url": "https://extra.globo.com/economia/noticia/2026/10/anvisa-proibe-venda-de-insulina-e-tirzepatida-irregulares.ghtml",
-      "published": "2026-10-06T14:39:57+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Após vitória no TJ-SP, Keeta retoma expansão para 21 cidades e Rio fica para depois",
-      "summary": "Após vitória no TJ-SP, Keeta retoma expansão para 21 cidades e Rio fica para depois &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/06/10/2026/foodservice/apos-vitoria-no-tj-sp-keeta-retoma-expansao-para-21-cidades-e-rio-fica-para-depois",
-      "published": "2026-10-06T15:00:17+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Apple e Google removem bets de suas lojas de aplicativos nesta terça",
@@ -8516,29 +8509,6 @@
       "score": 20.0
     },
     {
-      "title": "Flávio Bolsonaro diz que vai votar a favor do fim da escala 6x1, pressionado pela eleição",
-      "summary": "O senador Flávio Bolsonaro ( PL ), candidato à presidência da República, disse na manhã desta terça-feira (13) que vai votar a favor da PEC (proposta de emenda à Constituição) que acaba com a escala 6x1 , proposta do governo Lula ( PT ). Leia mais (10/13/2026 - 10h41)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-diz-que-vai-votar-a-favor-do-fim-da-escala-6x1.shtml",
-      "published": "2026-10-13T13:41:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Projeções do e-commerce no Brasil: o que esperar até 2036?",
       "summary": "Projeções do e-commerce no Brasil: o que esperar até 2036? &nbsp;&nbsp; E-Commerce Brasil",
       "url": "https://www.ecommercebrasil.com.br/artigos/projecoes-do-e-commerce-no-brasil-o-que-esperar-ate-2036",
@@ -8562,35 +8532,96 @@
       "score": 20.0
     },
     {
-      "title": "Banco gosta de trabalhar com juros abaixo de dois dígitos, o que permite impulsionar a economia, diz CEO do Itaú",
-      "summary": "O CEO do Itaú Unibanco, Milton Maluhy, participou nesta manhã do Panorama Itaúsa, evento da holding que é a principal acionista do banco. Falando sobre o contexto macroeconômico atual, de juros elevados e alto comprometimento de renda das famílias, ele disse que o cenário é desafiador para o mercado como um todo, mas que o portfólio do Itaú tem performando melhor que a média e está há seis trimestres com inadimplência estável. \"A visão de que banco gosta de juros altos é errada. [...] Banco gosta de trabalhar com cenário de juros abaixo de dois dígitos, o que permite impulsionar a economia, produtividade, emprego, consumo, financiamentos saudáveis, famílias que tenham capacidade de pagar suas dívidas\", comentou. Na sequência, o executivo seguiu com o seu raciocínio, apontando que o Banco Central tem o trabalho de manter a inflação em patamares adequados, até porque ela é o pior imposto que existe e incide principalmente sobre as classes menos favorecidas. \"Temos que acompanhar o mercado... o câmbio tem reagido, está em um patamar mais baixo, o que é uma notícia boa para a inflação. A inflação vindo mais baixa abre espaço para o BC acelerar os cortes [de juros], aí a gente vai para um cenário possivelmente mais benigno. Nós continuamos acompanhando, ainda é muito cedo, temos de olhar o que vem pela frente.\" Maluhy não citou explicitamente, mas aparentemente falava da reação do câmbio desde ontem, após o resultado do primeiro turno das eleições presidenciais. Com a possibilidade de vitória de Flávio Bolsonaro (PL), o real tem se fortalecido ante o dólar. Depois de cair 4,12% ontem, o dólar chegou a recuar quase 1% na sessão desta terça-feira. Por volta das 11h40, caía 0,47%, a R$ 4,9774. Milton Maluhy, CEO do Itaú Unibanco Ana Paula Paiva/Valor",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/06/banco-gosta-de-trabalhar-com-juros-abaixo-de-dois-digitos-o-que-permite-impulsionar-a-economia-diz-ceo-do-itau.ghtml",
-      "published": "2026-10-06T14:43:52+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
+      "title": "Flávio Bolsonaro diz que vai votar pelo fim da escala 6x1",
+      "summary": "O candidato do PL à Presidência da República, Flávio Bolsonaro, afirmou nesta terça-feira (13) que votará a favor da proposta de emenda à Constituição (PEC) que prevê o fim da escala 6x1. A declaração foi dada após visita do senador ao pai, o ex-presidente Jair Bolsonaro, que cumpre prisão domiciliar em Brasília após ser condenado por tentativa de golpe de Estado. “Eu estou rodando o Brasil e a maioria dos trabalhadores brasileiros quer o fim da escala 6x1. Então, eu vou votar a favor do fim da escala 6x1”, disse. Apesar de afirmar que votará a favor do fim da escala 6x1 por ser um desejo da maioria dos trabalhadores brasileiros, Flávio Bolsonaro defendeu um modelo diferente do previsto na PEC, que estabelece uma jornada de cinco dias de trabalho e dois de descanso, com limite de 40 horas semanais e sem redução salarial. O candidato do PL voltou a defender que trabalhadores e empregadores tenham liberdade para negociar a jornada de trabalho. O presidenciável também afirmou que será necessário estabelecer compensações para as empresas e acusou o governo do presidente Luiz Inácio Lula da Silva (PT) de provocar o endividamento das famílias e dificuldades financeiras para os empresários. “Obviamente, quando você reduz a jornada de trabalho, será necessária a contratação de mais pessoas. Tem o risco de muita gente ir para a informalidade. Então, isso tudo a gente está pensando, mas, de novo, o meu voto vai ser conforme a vontade da maioria do povo trabalhador brasileiro”, ressaltou. Flávio foi autorizado a retomar as visitas ao pai por decisão do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. Em 13 de julho, o ministro havia proibido o senador de entrar na residência do ex-presidente por 90 dias, após Flávio ler, durante uma transmissão ao vivo nas redes sociais, uma carta escrita por Bolsonaro em que declarava apoio à candidatura do filho. Na ocasião, Moraes entendeu que o episódio violou a medida cautelar que proíbe o ex-presidente de utilizar redes sociais, diretamente ou por intermédio de terceiros. Como consequência, Bolsonaro também foi proibido de receber visitas por 30 dias.",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-vai-votar-pelo-fim-da-escala-6-x-1.ghtml",
+      "published": "2026-10-13T14:06:02+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
-        "comprometimento de renda",
-        "inadimplência"
+        "escala 6x1"
       ],
       "matches": [
         {
           "sector": "Economia",
-          "alias": "comprometimento de renda",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Criminosos fazem funcionários reféns e roubam farmácia em Piracicaba",
+      "summary": "Criminosos fazem funcionários reféns e roubam farmácia em Piracicaba &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/13/criminosos-fazem-funcionarios-refens-e-roubam-farmacia-em-piracicaba.ghtml",
+      "published": "2026-10-13T14:13:46+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia"
+      ],
+      "matches": [
         {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 20.0
+    },
+    {
+      "title": "Itaú BBA vê “estrelas se alinhando” e mexe na recomendação do Magazine Luiza",
+      "summary": "Depois de ver suas ações registrarem alta de 60,5% no rali pós-primeiro turno das eleições presidenciais da semana passada na B3, o Magazine Luiza ganhou mais um reforço para esse ciclo, a princípio, mais favorável para suas operações. Em relatório, o Itaú BBA elevou a recomendação da varejista, de market perform para outperform (o equivalente [&#8230;] O post Itaú BBA vê &#8220;estrelas se alinhando&#8221; e mexe na recomendação do Magazine Luiza apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/itau-bba-ve-estrelas-se-alinhando-e-mexe-na-recomendacao-do-magazine-luiza",
+      "published": "2026-10-13T14:52:49+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "magazine luiza"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Roche fecha acordo de até US$ 1,16 bi com chinesa Rona terapia inovadora contra obesidade",
+      "summary": "A Roche fechou um acordo com a chinesa Rona Therapeutics para licenciar os direitos globais de uma terapia experimental contra a obesidade e doenças metabólicas por até US$ 1,16 bilhão. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/13/roche-fecha-acordo-de-at-us-116-bi-com-chinesa-rona-terapia-inovadora-contra-obesidade.ghtml",
+      "published": "2026-10-13T14:59:06+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "roche"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "roche",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
     },
     {
       "title": "O equilíbrio entre custo, velocidade e segurança",
