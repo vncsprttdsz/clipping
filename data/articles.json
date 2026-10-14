@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T09:44:00.317266+00:00",
-  "count": 378,
-  "new_this_run": 57,
+  "generated_at": "2026-10-14T09:48:26.926522+00:00",
+  "count": 379,
+  "new_this_run": 56,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -899,6 +899,45 @@
         {
           "sector": "Global Consumer",
           "alias": "lvmh",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa proíbe venda de canetas de tirzepatida e retatrutida sem registro",
+      "summary": "Anvisa proíbe venda de canetas de tirzepatida e retatrutida sem registro &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/14/anvisa-proibe-venda-de-canetas-de-tirzepatida-e-retatrutida-sem-registro.ghtml",
+      "published": "2026-10-14T09:36:25+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "retatrutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "retatrutida",
           "field": "title",
           "score": 20,
           "topic": null
