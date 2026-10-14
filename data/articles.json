@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-13T16:25:30.016679+00:00",
-  "count": 383,
-  "new_this_run": 29,
+  "generated_at": "2026-10-14T01:14:50.892876+00:00",
+  "count": 385,
+  "new_this_run": 69,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -547,6 +547,54 @@
       "score": 68.0
     },
     {
+      "title": "Grupo Carrefour chega a 100 drogarias e aposta em novo modelo no Atacadão",
+      "summary": "Inserindo drogarias diretamente nos corredores da rede de atacarejo, Grupo inicia fase de testes de formato que mira captar fluxo diário",
+      "url": "https://exame.com/negocios/grupo-carrefour-chega-a-100-drogarias-e-aposta-em-novo-modelo-no-atacadao",
+      "published": "2026-10-13T18:10:27+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "atacadão",
+        "atacarejo",
+        "carrefour",
+        "drogarias"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "atacadão",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "atacarejo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "drogarias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
       "title": "OMS lança diretriz inédita sobre obesidade em crianças e adolescentes e indica pela 1ª vez uso de remédios para eles, como a caneta emagrecedora",
       "summary": "A Organização Mundial de Saúde (OMS) anunciou nesta quarta-feira suas primeiras diretrizes em relação ao controle de obesidade entre crianças e adolescentes. O volume de meninos e meninas lidando com essa doença crônica quadruplicou desde os anos 1990, chegando a 8% desse público atualmente, de acordo com a entidade. A nova definição dá orientações sobre tratamento da doença em diferentes faixas etárias. Entre 0 e 9 anos, por exemplo, a autoridade médica ainda indica que se façam “intervenções estruturadas” que envolvam dieta, atividade física e mudanças comportamentais. A ideia é que haja uma abordagem multidisciplinar que inclua o que foi chamado de “intervenções de saúde digital”. Desde que supervisionada por pais ou cuidadores. O uso de medicamentos — que incluem as chamadas canetas emagrecedoras (que são os análogos do hormônio GLP-1) e outros — ou cirurgia bariátrica podem ser indicados para o público com um pouco mais de idade, de 10 a 19 anos. Em documento enviado à imprensa, a OMS apontou que esse tipo de cuidado “pode ser considerado apenas quando um programa multimodal supervisionado de mudança de estilo de vida não tiver alcançado os resultados desejados”. A cirurgia bariátrica ainda tem indicativos mais rigorosos. De acordo com a entidade, ela poderá ser considerada “sob condições rigorosas, para adolescentes com obesidade grave”. — A mensagem por trás destas diretrizes é simples. Crianças e adolescentes que vivem com obesidade precisam de acesso a um cuidado eficaz, baseado em evidências e centrado na pessoa. A dimensão do desafio é significativa — disse Luz Maria de Rejil, diretora do Departamento de Nutrição e Segurança Alimentar da OMS, em coletiva de imprensa realizada pela organização. As diretrizes não orientam especificamente sobre os análogos de GLP-1 (as chamadas canetas emagrecedoras), mas incluem esse tipo de medicamento em meio a diversas outras drogas que podem ser usadas no emagrecimento, como as que atuam na absorção de gordura pelo intestino e as que controlem níveis de açúcar no sangue. Em relação ao GLP-1, as canetas, para esses e outros públicos ainda restam dúvidas. Há, por exemplo, questionamentos sobre tempo de uso dessas drogas — e seus efeitos relacionados — e também manutenção da dosagem após a perda de peso. Sobre esses temas, a OMS diz que segue acompanhando avanços de análises e estudos sobre o tema. Rejil ainda ressaltou que a abordagem clínica não é o único método possível diante do volume crescente de casos. De acordo com a própria OMS, em todo o mundo, 170 milhões de crianças e adolescentes de 5 a 19 anos viviam com obesidade em 2014. Do total, 70 milhões estavam na faixa etária de 5 a 9 anos e mais de 100 milhões de adolescentes de 10 a 19 anos. A abordagem diante de números tão grandes, aponta a OMS, requer ações coordenadas com diversos setores da socieade. — Os países também precisam criar ambientes que tornem a alimentação saudável e a atividade física acessíveis e viáveis ​​financeiramente. Garantindo, ao mesmo tempo, que crianças e adolescentes que já vivem com obesidade tenham acesso a cuidados de alta qualidade, livres de estigma e discriminação — afirmou a especialista. Prevenção Laurence Grummer-Strawn, chefe da Unidade de Nutrição e Segurança Alimentar, também da OMS, afirmou que as atuais orientações são dedicadas aos casos de obesidade que já existem. Mas lembra que é preciso um sistema de ações mais amplo do que reeducação alimentar e medicamentos para efetivamente reduzir o número de casos globalmente. A abordagem para a redução de casos deve incluir o ambiente escolar na discussão, assim como reduzir o marketing de alimentos e bebidas não saudáveis e até lançar mão de impostos que podem ser incluídos em alimentos e bebidas que aumentem a obesidade. Essas medidas, ele lembra, também ajudam a melhorar a vida de quem já vive com a doença .",
       "url": "https://oglobo.globo.com/saude/noticia/2026/10/07/oms-lanca-diretriz-inedita-sobre-obesidade-em-criancas-e-adolescentes-e-indica-pela-1a-vez-uso-de-remedios-para-eles-como-a-caneta-emagrecedora.ghtml",
@@ -592,45 +640,6 @@
         }
       ],
       "score": 62.0
-    },
-    {
-      "title": "Canetas emagrecedoras no SUS: a visão do CEO da Novo Nordisk sobre incorporação",
-      "summary": "Canetas emagrecedoras no SUS: a visão do CEO da Novo Nordisk sobre incorporação &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-no-sus-a-visao-do-ceo-da-novo-nordisk-sobre-incorporacao",
-      "published": "2026-10-06T18:14:10+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "novo nordisk"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "novo nordisk",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Temu Inverso: Mercado Libre y Amazon competirán en Argentina tras del Gobierno",
@@ -1403,6 +1412,45 @@
       "score": 48.0
     },
     {
+      "title": "Venda online de canetas emagrecedoras chega a 70% no Grupo DPSP",
+      "summary": "Venda online de canetas emagrecedoras chega a 70% no Grupo DPSP &nbsp;&nbsp; Guia da Farmácia",
+      "url": "https://guiadafarmacia.com.br/venda-online-de-canetas-emagrecedoras-chega-a-70-no-grupo-dpsp",
+      "published": "2026-10-13T18:00:10+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "dpsp",
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "dpsp",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Com reestruturação aprovada, Pão de Açúcar aposta em regionalização e descarta expansão",
       "summary": "\"Zero glamour e muita sola de sapato\". Assim o CEO do Grupo Pão de Açúcar , Alexandre Santoro, descreve o trabalho de reestruturação da empresa. Segundo ele, a homologação da recuperação extrajudicial do GPA , aprovada nesta quarta-feira (7), é uma conquista, mas deve ser acompanhada de adequações estruturais. Leia mais (10/08/2026 - 12h03)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/10/com-reestruturacao-aprovada-pao-de-acucar-aposta-em-regionalizacao-e-descarta-expansao.shtml",
@@ -1443,6 +1491,53 @@
         {
           "sector": "Economia",
           "alias": "recuperação extrajudicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 44.0
+    },
+    {
+      "title": "Anvisa proíbe lote de tirzepatida após empresa descumprir ordem de destruição",
+      "summary": "Tirzepatida é o princípio ativo de medicamentos como o Mounjaro, utilizados no tratamento do diabetes tipo 2 e da obesidade",
+      "url": "https://exame.com/ciencia/anvisa-proibe-lote-de-tirzepatida-apos-empresa-descumprir-ordem-de-destruicao",
+      "published": "2026-10-13T21:12:44+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamentos",
+        "mounjaro",
+        "obesidade",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -1531,97 +1626,43 @@
       "score": 42.0
     },
     {
-      "title": "Polícia prende irmãos e recupera canetas emagrecedoras furtadas em drogaria do DF",
-      "summary": "Polícia prende irmãos e recupera canetas emagrecedoras furtadas em drogaria do DF &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/df/distrito-federal/video/policia-prende-irmaos-e-recupera-canetas-emagrecedoras-furtadas-em-drogaria-do-df-15032926.ghtml",
-      "published": "2026-10-06T19:17:56+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "title": "Bolsas da Europa fecham em leve queda com peso de ‘techs’ e setor de luxo",
+      "summary": "Os principais índices de ações da Europa terminaram a terça-feira (13) em leve queda, perto da estabilidade, devolvendo a alta vista mais cedo e parte da valorização da véspera. Houve certo suporte de um recuo nos preços do petróleo e nos rendimentos dos títulos de dívida no começo do pregão, mas as perdas nos setores de luxo e de tecnologia acabaram se sobrepondo ao sentimento positivo, enquanto investidores repercutem o início da temporada de balanços do terceiro trimestre. No fechamento, o índice pan-europeu Stoxx 600 teve queda de 0,10%, aos 635 pontos, o FTSE 100, da Bolsa de Londres, recuou 0,06%, aos 10.660,33 pontos, o DAX, de Frankfurt, cedeu 0,07%, aos 25.259,90 pontos, e o CAC 40, de Paris, anotou desvalorização de 0,07%, aos 7.827,63 pontos. Entre os destaques do Stoxx 600, o setor de tecnologia teve uma desvalorização de 1,54%, em linha com as perdas vistas nas bolsas americanas e asiáticas, especialmente nas ações de fabricantes de chips e semicondutores. A ASML teve queda 4,10%, a STMicroelectronics recuou 3,80%, a Soitec cedeu 5,95% e a Infineon anotou perda de 2,13%. O segmento de luxo também fechou em queda (-0,74%), contribuindo para pressionar o desempenho das bolsas, após os resultados da LVMH virem abaixo do esperado pelos investidores, por conta da demanda mais fraca na China. As ações da dona da Louis Vuitton fecharam em queda de 0,12%, afastadas das mínimas do dia, assim como as da Dior (-0,19%). A Hermès caiu 1,95% e a Kering, 1,45%. Painel da Euronext, em Paris Cyril Marcilhacy/Bloomberg",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/13/bolsas-da-europa-fecham-em-leve-queda-com-peso-de-techs-e-setor-de-luxo.ghtml",
+      "published": "2026-10-13T16:22:42+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
       "matched_sectors": [
-        "Farmácias"
+        "Global Consumer"
       ],
       "matched_aliases": [
-        "canetas emagrecedoras",
-        "drogaria"
+        "kering",
+        "luxo",
+        "setor de luxo"
       ],
       "matches": [
         {
-          "sector": "Farmácias",
-          "alias": "drogaria",
+          "sector": "Global Consumer",
+          "alias": "kering",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "setor de luxo",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
+          "sector": "Global Consumer",
+          "alias": "luxo",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 40.0
-    },
-    {
-      "title": "Polícia prende irmãos e recupera carga de 'canetas emagrecedoras' furtada em drogaria do DF",
-      "summary": "Polícia prende irmãos e recupera carga de 'canetas emagrecedoras' furtada em drogaria do DF &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/df/distrito-federal/noticia/2026/10/06/policia-prende-irmaos-e-recupera-carga-de-canetas-emagrecedoras-furtada-em-drogaria-da-asa-sul-no-df.ghtml",
-      "published": "2026-10-06T19:23:39+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras",
-        "drogaria"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "drogaria",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Keeta anuncia expansão para 21 cidades e acirra disputa com iFood e 99Food",
-      "summary": "Aplicativo da chinesa Meituan retoma avanço fora de São Paulo após decisão judicial contra restrições a parcerias com restaurantes",
-      "url": "https://veja.abril.com.br/economia/keeta-anuncia-expansao-para-21-cidades-e-acirra-disputa-com-ifood-e-99food",
-      "published": "2026-10-06T19:47:49+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood",
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
+      "score": 42.0
     },
     {
       "title": "Fim da escala 6x1 e regime flexível: entenda propostas sobre jornada de trabalho defendidas por Lula e Flávio",
@@ -2992,6 +3033,37 @@
       "score": 40.0
     },
     {
+      "title": "Farmácia é alvo de furto de canetas emagrecedoras pela 3ª vez em menos de um mês em Cuiabá",
+      "summary": "Farmácia é alvo de furto de canetas emagrecedoras pela 3ª vez em menos de um mês em Cuiabá &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/13/farmacia-e-alvo-de-furto-de-canetas-emagrecedoras-pela-3a-vez-em-menos-de-um-mes-em-cuiaba.ghtml",
+      "published": "2026-10-13T20:23:24+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "O que pode mudar com o fim da escala 6x1? Senado retoma discussão nesta quarta-feira (7)",
       "summary": "O fim da escala 6x1 -na qual se trabalham seis dias com um de folga- voltou aos debates com o Senado pautando a PEC (proposta de emenda à Constituição) 221, que reduz a jornada de trabalho para 40 horas semanais e cria a escala 5x2 sem diminuir o salário. Leia mais (10/07/2026 - 04h00)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/10/o-que-pode-mudar-com-o-fim-da-escala-6x1-senado-retoma-discussao-nesta-quarta-feira-7.shtml",
@@ -3400,130 +3472,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Alpargatas vê potencial de crescimento em lojas especializadas e no mercado externo",
-      "summary": "Com uma média de um par de Havaianas vendido para cada brasileiro por ano, a Alpargatas aposta no mercado externo para crescer, contou o CEO, Liel Miranda, em evento para investidores da Itaúsa, nesta terça-feira (6). A Itaúsa é a holding que controla o Itaú Unibanco e empresas como a Motiva (ex-CCR), Dexco, Alpargatas e Aegea. Segundo Miranda, a marca está presente em mais de cem países, mas concentra 80% do volume de vendas em apenas 40 deles, onde tem focado seus esforços. “Tem muito conhecimento de marca, mas em volume ainda tem muito potencial de crescimento”, disse o executivo, acrescentando que a expansão deve vir por mais investimentos na distribuição dos produtos. Além de um público novo, o mercado internacional também tem margens maiores do que o nacional. “O preço médio cobrado é muito mais alto”, afirmou o CEO. Dentro do Brasil, a avenida de crescimento, de acordo com o executivo, são as lojas especializadas, como de calçados e de departamentos. A avaliação é de que a Havaianas é lder em lojas de alimentos, como supermercados, com 80% de participação no setor. Já nas lojas especializadas, tem menos da metade do mercado. Miranda também destacou que concorrentes cresceram nos setores de calçados masculinos e infantis, enquanto a Havaianas dominou o feminino, o que a empresa espera reverter. A companhia passou por uma redução de metade do seu portfólio, para tornar a produção, a distribuição e a venda mais eficientes. Liel Miranda Leo Pinheiro/Valor",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/06/alpargatas-v-potencial-de-crescimento-em-lojas-especializadas-e-no-mercado-externo.ghtml",
-      "published": "2026-10-06T16:44:06+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "alpargatas",
-        "havaianas"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "alpargatas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "havaianas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Fim da escala 6x1: como pensam Flávio Bolsonaro e Lula sobre a proposta",
-      "summary": "Flávio Bolsonaro (PL) e Lula (PT), que disputam o segundo turno das eleições para a presidência da República, têm posições distintas sobre a proposta de redução da jornada de trabalho e o fim da escala 6x1, que está em discussão no plenário do Senado Federal. Enquanto o presidente e candidato à reeleição defende a aprovação da medida, o senador e candidato do PL critica o texto em discussão e propõe um modelo baseado na remuneração proporcional às horas trabalhadas. A Proposta de Emenda à Constituição (PEC) 221/2019 prevê a redução da jornada máxima de trabalho para 40 horas semanais e a garantia de dois dias de repouso semanal remunerado, sem redução de salário. Segundo o texto em análise no Senado, a mudança seria aplicada progressivamente e teria exceções para trabalhadores submetidos a regimes diferenciados e para aqueles com salários mais elevados e diploma de nível superior. Lula defende fim da escala 6x1 A mudança na jornada de trabalho se tornou uma das bandeiras do governo e da campanha do presidente Lula, que queria vê-la aprovada antes do primeiro turno - mas o texto acabou represado no Senado. Ao defender a medida, o presidente tem associado a redução da jornada à melhoria das condições de trabalho. A PEC prevê uma implementação progressiva da mudança, que o petista é contra. \"Defendemos que seja de uma vez\", afirmou o presidente em maio. \"Não dá para aceitar ficar quatro anos reduzindo meia hora por ano\", disse. O documento do plano de governo de Lula contém a proposta do fim da escala 6x1 expressa na diretriz \"Valorizar o Trabalho em suas Múltiplas Formas\", com uma transição para a redução da jornada de trabalho para até 40 horas semanais sem redução salarial, além do incentivo à melhoria da qualidade de vida e combate a jornadas exaustivas. Além da PEC, outros pontos relacionados ao trabalho defendidos por Lula incluem o combate à precarização, com propostas de regulamentação do trabalho por aplicativos, fiscalização rigorosa da igualdade salarial entre gêneros e garantia de aumento real acima da inflação para o salário mínimo. Flávio critica proposta e defende remuneração por hora Já Flávio Bolsonaro criticou a proposta de fim da escala 6x1 defendida pelo governo Lula e classificou a medida em discussão como \"eleitoreira\". Para o candidato do PL, a mudança poderia provocar consequências negativas para a economia, como aumento do desemprego e do custo de vida. Por isso, a bancada do partido discutiu uma alternativa ao texto, com um modelo de remuneração proporcional às horas trabalhadas, que manteria direitos trabalhistas, como férias remuneradas, FGTS e 13º salário, também de forma proporcional à carga horária. Na avaliação do candidato, o trabalhador deveria ter maior liberdade para escolher como quer ser contratado. \"Quem quer trabalhar mais, ganha mais\", afirmou Flávio. Em outro momento, defendeu que \"o trabalhador tem que escolher quanto tempo trabalha, não o governo\". Flávio também argumentou que a flexibilização permitiria que quem precisasse trabalhar menos horas para poder estudar, cuidar dos filhos ou da saúde pudessem reduzir a jornada sem perder o vínculo empregatício e a proteção trabalhista. O candidato afirmou ainda que a proposta em discussão pelo governo poderia gerar desemprego e aumentar o custo de vida. Para ele, a alternativa defendida pelo PL deveria preservar os direitos trabalhistas, mas permitir diferentes jornadas de acordo com a escolha do trabalhador. Não há menção à escala 6x1 em seu plano de governo. No documento, Flávio defende a maior flexibilização de modelos contratuais e valoriza a prevalência do negociado sobre o legislado, a liberdade econômica e a redução de custos trabalhistas e tributários para os empregadores. O que prevê a proposta A PEC 221/2019 altera o artigo 7º da Constituição Federal para reduzir a duração máxima semanal do trabalho e garantir dois dias de repouso semanal remunerado, sem redução salarial. Entre os possíveis efeitos apontados na justificativa da proposta estão a criação de empregos, a melhoria da qualidade de vida dos trabalhadores e possíveis ganhos de produtividade. Para passar a valer, a PEC tem que passar por dois turnos de discussão e votação e, para ser aprovada, precisa de 49 votos em cada turno de votação.",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/06/escala-6x1-como-flavio-e-lula-se-posicionam-sobre-proposta-de-reducao-de-jornada.ghtml",
-      "published": "2026-10-06T18:45:02+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1",
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Bets Começam a Sair do Ar Nesta Terça-feira",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Medida cumpre a MP 1.394/2026, que proibiu a exploração, oferta, intermediação e publicidade de apostas esportivas e jogos online no país O post Bets Começam a Sair do Ar Nesta Terça-feira apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/geral/2026/10/bets-comecam-a-sair-do-ar-nesta-terca-feira",
-      "published": "2026-10-06T19:33:12+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas esportivas",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas esportivas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Governo diz ter bloqueado 13,2 mil sites de bets ilegais desde proibição de apostas on-line",
-      "summary": "O governo federal informou nesta terça-feira que pediu o boqueio de 13.241 sites ilegais de apostas desde que as bets foram proibidas no país, no dia 25 de setembro, às vésperas do primeiro turno das eleições. O que dizem Lula e Flávio Bolsonaro sobre o fim da escala 6x1? Veja o que cada um defende Fim do 6x1: Qual é a média de horas trabalhadas no Brasil e no mundo? Confira em ferramenta interativa O governo também divulgou que, entre os 188 sites que operavam com autorização até esta segunda-feira, apenas um ainda está em funcionamento. O bloqueio para esse site também já foi solicitado pelo Ministério da Fazenda. O total equivale a uma média de cerca de 1.103 sites encaminhados para bloqueio por dia no período. Além disso, foi solicitada às plataformas a remoção de 3.552 páginas, perfis, canais, grupos e servidores: 1.974 páginas no Facebook, 560 perfis no Instagram, 900 canais e grupos no Telegram, 103 perfis no TikTok, 14 grupos no WhatsApp e um servidor no Discord. Escala 6x1: Quem ganha acima de R$ 21 mil não terá controle de jornada; veja o que diz PEC Segundo o ministro da Fazenda, Dario Durigan, esse volume de perfis estavam impactando mais de 17 milhões de usuários. Esta terça-feira marca o primeiro dia sem operação das plataformas de bets que tinham autorização para funcionar no Brasil. A suspensão das atividades de apostas e a retirada dos sites e aplicativos do ar segue o cronograma da medida provisória editada pelo governo Lula. O prazo para a retirada voluntária dos recursos terminou às 23h59 desta segunda-feira. As empresas terão até quarta-feira para encaminhar às instituições financeiras os saldos remanescentes de cada apostador, discriminados por CPF, além da conta bancária utilizada para os depósitos. Escala 6x1: Ministro da articulação política se reúne com Alcolumbre e tenta destravar PEC em busca de trunfo para Lula Míriam Leitão: Diminui a pressão sobre os senadores para votar a favor do fim da escala 6x1 Segundo o governo, R$ 1,325 bilhão ainda aguardam devolução, e cerca de 26,5 milhões de apostadores têm saldo nas plataformas. — Já tinhamos identificado entre R$ 600 e R$ 650 milhões por dia que saía da poupança popular e ia para as bets. Dinheiro da poupança popular, que passa a ficar com as famílias. Essa é uma mudança importante. Veja: O que dizem os analistas de mercado sobre o resultado do primeiro turno das eleições 2026 Ao todo, 86,2 milhões de contas têm entre R$ 0,01 e R$ 0,99, somando R$ 15,5 milhões. Uma mesma pessoa pode ter contas em diferentes plataformas, por isso o número de contas é maior que o de apostadores. — A grande maioria dos apostadores tem saldo muito pequeno. Então, por exemplo, 1% dos apostadores, algo como 200 mil apostadores, representam 80% do saldo que hoje está pendente de ser resgatado. E 3,4% dos apostadores representa 90%. Percebo que há uma concentração grande. Durigan informou que as contas com saldos elevados, com mais de R$ 500 mil ou R$ 1 milhão, serão investigadas para apurar eventual lavagem de dinheiro e possíveis vínculos com organizações criminosas. Segundo o ministro, são cerca de 40 contas.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/06/governo-diz-ter-bloqueado-132-mil-sites-de-bets-ilegais-desde-proibicao-de-apostas-on-line.ghtml",
-      "published": "2026-10-06T21:26:04+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets",
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Bets iniciaram rodadas de demissões após proibição, mostra relatório",
@@ -4307,6 +4255,70 @@
       "score": 28.0
     },
     {
+      "title": "Apple chega 10 anos depois dos rivais ao mercado de telas inteligentes, mas aposta que atraso não vai atrapalhar",
+      "summary": "A Apple levou quase uma década para entrar no mercado de smart home. Anunciado nesta terça-feira (13), o HomeView chega com preço de US$ 299, nove anos depois de a Amazon apresentar o Echo Show e oito anos após o lançamento do Home Hub, do Google. Mas o atraso pode não ser um problema para a gigante de Cupertino. Para a Fast Company, a Apple aposta em uma estratégia que já funcionou com outros produtos: entrar em mercados estabelecidos e conquistar consumidores com uma combinação de design, engenharia e experiência de uso. Foi assim com o iPod, lançado quando os tocadores de MP3 já existiam, e com o iPhone, que chegou em 2007 a um mercado que já contava com diversos smartphones. Em ambos os casos, a empresa conseguiu transformar seus dispositivos em referências de suas categorias. O HomeView segue essa fórmula. Equipado com uma tela de sete polegadas e um suporte inclinável de alumínio, o aparelho adapta as informações exibidas de acordo com a distância do usuário. Um sistema de reconhecimento facial permite personalizar conteúdos para até seis moradores da mesma residência. Os recursos, porém, não são inéditos. O Nest Hub Max, do Google, já utiliza reconhecimento facial para personalizar calendários e outras informações, enquanto o Echo Show, da Amazon, também identifica usuários e ajusta sua interface conforme a distância. Em algumas funcionalidades, o HomeView fica atrás dos concorrentes. O aparelho da Apple não oferece monitoramento remoto da residência por câmera, disponível no Echo Show, nem acompanhamento do sono por radar, recurso presente na segunda geração do Nest Hub. Além disso, seu preço é superior ao de dispositivos semelhantes, em um momento em que analistas projetam uma queda nas vendas globais de telas inteligentes neste ano. Ainda assim, a avaliação é que o HomeView pode conquistar consumidores graças à capacidade da Apple de transformar tecnologias já conhecidas em produtos desejados. A aposta da companhia é que, mais uma vez, chegar primeiro não seja tão importante quanto oferecer uma experiência capaz de convencer o público a comprar. Mais Lidas",
+      "url": "https://epocanegocios.globo.com/empresas/noticia/2026/10/apple-chega-10-anos-depois-dos-rivais-ao-mercado-de-telas-inteligentes-mas-aposta-que-atraso-nao-vai-atrapalhar.ghtml",
+      "published": "2026-10-13T17:30:39+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "apple"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "apple",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "CVS fecha acordo de US$ 315 mi com governo dos EUA para encerrar processo sobre venda de opioides",
+      "summary": "A CVS Health aceitou pagar US$ 315 milhões para encerrar acusações de que a operadora de redes de farmácias atendeu de forma ilegal receitas médicas sem justificativa clínica para analgésicos opioides altamente viciantes, informou o Departamento de Justiça dos Estados Unidos nesta terça-feira (13). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/13/cvs-fecha-acordo-de-us-315-mi-com-governo-dos-eua-para-encerrar-processo-sobre-venda-de-opioides.ghtml",
+      "published": "2026-10-13T19:06:04+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "cvs",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "cvs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "A que nível chegamos no business para pets: time de provadores de rações e petiscos têm quatro patas e paladares exigentes",
       "summary": "Imagine dezenas de gatos cochilando ou perambulando por um espaço que se parece muito com uma creche para animais de estimação. Todos os dias, às 16h, é servido o jantar. Os gatos entram em pequenos compartimentos, cada um com duas bandejas de ração seca colocadas sobre balanças. Os gatos escolhem qual alimento preferem, e as balanças medem quanto eles consomem. Petz Cobasi: ‘Pretendemos investir fortemente em serviços’, diz CEO Tudo pelo cliente: De pets a recargas de carros elétricos Nutricionistas de um centro da Royal Canin no sul da França observam atentamente: qual ração os animais preferem? Com que entusiasmo eles comem? Uma equipe utiliza esses dados para ajustar receitas e desenvolver novas fórmulas. Fabricantes de alimentos para animais, como a Royal Canin, pertencente ao conglomerado global de produtos de consumo Mars, estão investindo grandes quantias em pesquisas para entender o paladar de gatos e cães — e para atender às pessoas que consideram seus animais de estimação membros da família. Mesmo com a guerra no Irã provocando inflação e o crescimento dos salários não acompanhando esse ritmo, o mercado de alimentos para animais de estimação continua crescendo. E, à medida que os animais adotados em massa durante a pandemia, em 2020, chegam à meia-idade, os fabricantes de alimentos para pets estão concentrando seus esforços em produtos destinados a ajudar nas articulações doloridas, fortalecer músculos cansados e proteger a função cognitiva. — O envelhecimento é uma das maiores oportunidades — disse Cécile Coutens, presidente da Royal Canin. Cécile Coutens, presidente da Royal Canin, na sede da empresa em Aimargues, França. Ela é a primeira mulher a liderar a companhia Mathias Depardon/The New York Times A linha de alimentos para gatos idosos da empresa inclui uma mousse extramacia para gatos com 11 anos ou mais e uma ração seca fácil de mastigar para gatos a partir dos 15 anos. Muitas empresas vendem suplementos para gatos com demência e para ajudar a manter a saúde cerebral durante o envelhecimento. Da mesa das pessoas ao pote dos pets: A virada da comida à base de insetos A inflação elevou os preços da ração convencional (chamada de “croquettes” em francês). E, ainda assim, as opções nas prateleiras de alimentos para cães e gatos ficaram mais caras e especializadas, com marcas vendendo alimentos frescos de qualidade adequada para consumo humano. Estudos mostram que as pessoas reduzem seus próprios gastos antes de cortar despesas com seus animais de estimação. No ano passado, a Purina lançou um prato de “pedaços macios em uma elegante geleia”, em formato de pirâmide, para incentivar os gatos a dar mordidas maiores. Gatos aguardam a hora de testar as rações no centro de pesquisas da Royal Canin em Aimargues, França Mathias Depardon/The New York Times Mais de US$ 17 bilhões foram gastos com alimentos para gatos nos Estados Unidos no último ano, um aumento de 14% em relação ao mesmo período de dois anos atrás, segundo a NielsenIQ, empresa de pesquisa de mercado. As vendas de alimentos para cães ficaram praticamente estáveis. Diferentemente das gerações anteriores, quando os pais acolhiam animais de estimação a pedido dos filhos, hoje as pessoas muitas vezes têm animais antes de ter filhos — se é que têm filhos —, disse Coutens. Alimento para gatos aguarda teste de paladar no centro de pesquisas da fabricante Royal Canin em Aimargues, França. Nutricionistas do local observam quais grãos os gatos preferem e ajustam as receitas de acordo com essas preferências Mathias Depardon/The New York Times As empresas estão investindo em linhas premium de alimentos para animais que atendem aos consumidores mais ricos, enquanto a economia em formato de K — expressão usada para descrever o aumento da distância entre ricos e pobres — persiste. O luxo dos pets: Entenda como o mercado premium revela a nova relação entre tutores e animais Embora, em alguns aspectos, os gatos exijam menos cuidados do que os cães, eles costumam exigir uma dose maior de criatividade humana quando o assunto é alimentação. “Nós gostamos muito dos gatos porque eles também são mais exigentes para comer, de certa forma. Portanto, é preciso mais ciência e tecnologia para conseguir atender a essas exigências com sucesso”, disse Philipp Navratil, CEO da Nestlé, em uma conferência em junho. Nos últimos anos, os gatos passaram a ser adotados em taxas mais altas do que os cães, à medida que as pessoas passam mais tempo no escritório. Cães com um especialista em comportamento animal no centro de pesquisas da Royal Canin em Aimargues, França. Nos últimos anos, gatos têm sido adotados em taxas mais altas do que cães, à medida que as pessoas passam mais tempo no escritório Mathias Depardon/The New York Times Assim como a Nestlé, que possui dois centros onde pesquisadores estudam o comportamento de gatos e cães, a Royal Canin mantém um extenso programa de pesquisa dedicado a esses animais. No centro de pesquisa da Royal Canin em Aimargues, apenas os animais mais exigentes entre os 377 cães e gatos que vivem no local participam dos testes de palatabilidade. Efeito da pandemia: Empresas abrem as portas para animais de estimação e criam até 'licença-PETernidade' O outro centro da empresa fica em Ohio. Como parte do treinamento, os filhotes de gato recebem alimentos de diferentes texturas e sabores para desenvolver seus sentidos. Aos 7 meses, eles são ensinados a comer em comedouros específicos. Cães que comem praticamente qualquer coisa, como os labradores, não são selecionados, disse Silvia Miret-Catalan, vice-presidente de pesquisa e desenvolvimento da Royal Canin. Um funcionário com um Labrador Retriever no centro de pesquisa da Royal Canin em Aimargues, França. Apenas os animais mais exigentes entre os 377 cães e gatos que vivem no complexo participam dos testes de paladar. Cães que comem quase qualquer coisa, como os Labradores, não são selecionados Mathias Depardon/The New York Times No centro da Royal Canin, uma equipe monitora o comportamento dos animais depois do café da manhã e do jantar. Os gatos e cães parecem mais apáticos do que o habitual? Estão brincalhões? Como está a qualidade das fezes, em uma escala de 1 a 10? — A pontuação mais baixa será dada à diarreia — disse Yannick Soulard, que trabalha na área de inovação. Em seguida, as fezes são secas e analisadas para determinar como o alimento é digerido, explicou. Quando os cães e gatos completam 7 anos, os funcionários podem adotá-los. Há uma longa lista de espera, e os funcionários que criaram um vínculo com determinados animais têm prioridade. O sabor é um dos principais focos. Scott McGrane, especialista em felinos do Waltham Petcare Science Institute, da Mars, na Inglaterra, disse que sua equipe estava especialmente interessada em compreender os sentidos e os sabores percebidos pelos gatos, inclusive os mais velhos. Por que eles não demonstravam preferência por alimentos doces? Por que gostam tanto de atum? Ele disse que os pesquisadores descobriram que os gatos possuem o receptor gustativo do umami, que lhes permite sentir e detectar compostos umami. O atum tem uma combinação única de compostos que, para os gatos, equivale a uma espécie de “superumami”, explicou. Uma estátua do fundador da empresa, Jean Cathary, na sede global da Royal Canin em Aimargues, França. Cathary fundou a Royal Canin em 1968, após criar uma receita de ração para cães à base de cereais em sua garagem para tratar problemas de saúde dos animais Mathias Depardon/The New York Times À medida que envelhecem, alguns dos receptores gustativos dos gatos desaparecem, mas eles mantêm a capacidade de perceber o sabor amargo, o que faz com que certos alimentos se tornem menos atraentes, disse Miret-Catalan. Sua equipe desenvolve alimentos para gatos idosos que mascaram o amargor e intensificam aromas atraentes, para manter o interesse dos animais pela comida à medida que envelhecem, explicou. A Mars provavelmente é mais conhecida por fabricar Snickers, M&amp;M’s e Skittles do que por seus produtos para animais de estimação. Embora tenha adquirido a Royal Canin em 2002, a empresa entrou no mercado de alimentos para animais quase um século atrás. Naquela época, as pessoas alimentavam seus cães principalmente com restos de comida da mesa. Nas últimas décadas, a Mars adquiriu milhares de hospitais e clínicas veterinárias. A empresa é proprietária de 6% de todos os estabelecimentos veterinários dos Estados Unidos, segundo a KPMG. É a maior fornecedora de alimentos para animais de estimação nos Estados Unidos e no mundo. A fábrica na sede global da Royal Canin em Aimargues, França. A fabricante de alimentos para animais de estimação, pertencente à Mars, está investindo pesado em pesquisas para entender o paladar de gatos e cães Mathias Depardon/The New York Times Cathy Bedrick, sócia da KPMG que assessora clientes de private equity, disse que as empresas que possuem clínicas veterinárias esperam ter mais negócios nos próximos anos, à medida que a população mundial de animais de estimação envelhece rapidamente. O cachorro de Bedrick faz sessões semanais de acupuntura para tratar a rigidez na coluna. Dentro da fábrica da Royal Canin, depois de uma parede repleta de fotos emolduradas de enormes pedaços de ração, há gigantescos tambores de aço onde milho, frango, trigo e outros ingredientes são misturados. A fábrica produz 146 tipos de ração seca entre os quais os donos de animais podem escolher. Em uma tarde recente, a Royal Canin reproduziu um teste para mim e para meu colega fotógrafo, em um local ensolarado sob uma árvore. Observei Willow, uma gata Ragdoll de 2 anos, comer da Bandeja A, depois da Bandeja B e, em seguida, novamente da Bandeja A. O que significava sua indecisão? Um representante da Royal Canin admitiu que não se tratava de um verdadeiro teste A/B: as bandejas continham a mesma comida, uma diferença em relação ao procedimento habitual. Willow não se incomodou. Terminou as duas porções e foi embora.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/12/a-que-nivel-chegamos-no-business-para-pets-time-de-provadores-de-racoes-e-petiscos-tem-quatro-patas-e-paladares-exigentes.ghtml",
@@ -4543,280 +4555,35 @@
       "score": 22.0
     },
     {
-      "title": "O CVC mais ativo do país",
-      "summary": "Se a participação dos fundos de corporate venture capital (CVCs), aqueles patrocinados por empresas, nas rodadas de startups diminuiu neste ano e algumas companhias até encerraram a estratégia, outras continuam apostando no segmento e se mantêm bastante ativos. Um levantamento do Global Corporate Venturing, em parceria com a agência de fomento às exportações ApexBrasil, mostra que o Vivo Ventures, ligado ao grupo de telecom, fez o maior número de transações no último ano. Entre 1º de julho de 2025 e 30 de junho de 2026, foram nove investimentos pelo CVC comandado por Phillip Trauer. Criado em 2022, o fundo já aportou R$ 242 milhões, distribuídos em três fundos e 14 startups, de áreas que vão de fintech a inteligência artificial. Empresas reveem estratégia para alocação em startups, encerrando CVCs Basf revê estratégia para fundo de startups e encerra operação local A IA é um dos focos para este ano, e a empresa afirma que novos investimentos serão anunciados nos próximos meses. A MF92 Ventures, braço de investimentos da Minerva Foods, fez o maior investimento do período, conforme o levantamento. Entre os CVCs estrangeiros com atuação no país, o mais ativo foi o Prosus Ventures. Phillip Trauer comanda o Vivo Ventures e a aceleradora Wayra Brasil, ambas do mesmo grupo Divulgação",
-      "url": "https://pipelinevalor.globo.com/startups/noticia/o-cvc-mais-ativo-do-pais.ghtml",
-      "published": "2026-10-06T16:45:00+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "title": "Atech, Editora Globo, Ford, JBS, Pirelli e Smart Fit abrem programas de estágio",
+      "summary": "Atech, Editora Globo e Sistema Globo de Rádio, Ford, JBS, Pirelli e Smart Fit estão com inscrições abertas para seus programas de estágio. As vagas contemplam áreas como tecnologia, engenharia, finanças, jornalismo e educação física, em diferentes regiões do país. Saiba mais sobre cada uma das oportunidades: Atech A Atech, de tecnologia, do Grupo Embraer, abriu inscrições para uma nova edição do seu programa de estágio. A maior parte das vagas é voltada à área de TI, com oportunidades também nos setores administrativo e operacional. A empresa não informou o número de posições. Os estagiários de tecnologia atuarão com as equipes de engenharia e desenvolvimento da companhia na criação de soluções para defesa, segurança pública e gestão do tráfego aéreo. Já os selecionados para as áreas administrativas darão suporte operacional a esses projetos. O programa prevê contato com demandas do negócio, mentoria de especialistas do setor e acesso a trilhas de capacitação técnica e comportamental. Grant Thornton e Unilever recebem inscrições para programas de trainee Socorro, brasileiros, precisamos de estadistas 53% das empresas adiaram projetos de TI por falta de pessoal Os benefícios incluem bolsa-auxílio, assistência médica e odontológica, seguro de vida, auxílio-transporte, cartão flexível para vale-alimentação e vale-refeição, acesso à plataforma Wellhub, folga no mês de aniversário e vale-presente. Oportunidades são voltadas a estudantes do ensino superior e técnico em áreas como tecnologia, engenharia, comunicação e educação física Pexels A seleção inclui triagem e avaliações conduzidas pelo RH em conjunto com os gestores das áreas. A iniciativa é voltada a estudantes do ensino superior, e os requisitos de cada vaga estão disponíveis no site. A companhia não informou a data de encerramento das inscrições. Editora Globo e Sistema Globo de Rádio A Editora Globo e o Sistema Globo de Rádio, de comunicação, abriram inscrições para o programa de estágio. Cerca de 60 estudantes do ensino superior e técnico serão selecionados para atuar em diferentes áreas e cidades. As vagas contemplam áreas editoriais, com atuação nas redações de jornais, revistas, sites e rádios, e corporativas, como estratégia digital e jurídico. As posições são para as cidades do Rio de Janeiro (RJ), Duque de Caxias (RJ), São Paulo (SP), Brasília (DF) e Belo Horizonte (MG). Os candidatos devem estar matriculados nos cursos indicados na página do programa, como jornalismo, publicidade e propaganda, ciências da computação e administração, e ter formatura prevista entre dezembro de 2027 e dezembro de 2028. As atividades começam em 8 de março de 2027. Os benefícios incluem bolsa-auxílio, vale-refeição ou vale-alimentação, vale-transporte, seguro de vida, folga no aniversário, além de convênios e descontos em empresas parceiras. As inscrições podem ser feitas pelo site até 31 de outubro. Ford A Ford abriu inscrições para 40 vagas de estágio nas unidades da empresa em Camaçari (BA), São Paulo (SP) e Tatuí (SP). As oportunidades estão distribuídas entre as áreas de desenvolvimento do produto, tecnologia da informação, vendas, pós-vendas, recursos humanos, finanças, manufatura, gestão ambiental e marketing. Podem participar estudantes do ensino superior que estejam cursando do segundo ao penúltimo ano da graduação em instituição reconhecida pelo MEC e tenham disponibilidade para contrato de, no mínimo, um ano. Os selecionados começam em janeiro de 2027. Os estagiários terão acesso a uma trilha voltada ao aprimoramento de habilidades técnicas e comportamentais. Os benefícios incluem bolsa-estágio, folga no dia do aniversário, cartão de alimentação, cartão de mobilidade e conectividade, TotalPass para academia e telemedicina. Os interessados podem se inscrever pelo site até 31 de outubro. JBS A JBS, de alimentos, abriu inscrições para a segunda edição do seu programa de estágio. São 46 vagas em 33 unidades da companhia, distribuídas em dez estados e no Distrito Federal, nas operações da Friboi, Seara, JBS Terminais e JBS Novos Negócios. As oportunidades estão divididas entre as áreas de agropecuária, manutenção, sistema de gestão, garantia da qualidade e produção. A atuação é presencial, com jornada de até seis horas diárias. As cidades contempladas são Brasília (DF); Goiânia (GO); Campo Grande, Dourados e Sidrolândia (MS); Diamantino (MT); Marabá (PA); Campo Mourão, Jacarezinho, Lapa e Rolândia (PR); Vilhena (RO); Caxias do Sul, Montenegro, Passo Fundo e Seberi (RS); Forquilhinha, Ipumirim, Itajaí, Itapiranga, Itaiópolis, Lages, São Miguel do Oeste e Seara (SC); Amparo, Itapetininga, Jaguariúna, Lins, Nuporanga e Osasco (SP); e São Gonçalo dos Campos (BA). Com duração de 12 meses, o programa combina experiência prática nas operações com uma trilha de desenvolvimento cultural, comportamental e técnico. A iniciativa inclui workshops, avaliações e acompanhamento das lideranças. Podem participar estudantes do ensino superior de cursos compatíveis com as áreas oferecidas, que estejam no último ano da formação em 2027, com conclusão em dezembro, e residam na região da unidade escolhida. Os benefícios incluem bolsa-estágio, vale-transporte ou fretado, alimentação no local e programa de acompanhamento e desenvolvimento. Ao término do contrato, há possibilidade de efetivação. Os itens podem variar conforme a localidade, a divisão de negócio e os acordos ou convenções coletivas de cada região. O processo seletivo inclui avaliação de raciocínio lógico, entrevistas com o RH e com gestores locais e dinâmica de grupo. As atividades começam em 18 de janeiro de 2027. As inscrições vão até 18 de outubro pelo site. Pirelli A Pirelli abriu inscrições para 29 vagas voltadas a estudantes do ensino superior e técnico, com início das atividades em 18 de janeiro de 2027. As oportunidades contemplam as áreas administrativas, backoffice, comercial, contabilidade, economia e controladoria, engenharia, financeiro, saúde, segurança e meio ambiente, jurídico, laboratório, manutenção, marketing, negócios e TI, P&amp;D, projetos, qualidade, recursos humanos, secretariado e vendas. As posições são para Feira de Santana (BA), Barueri (SP), Campinas (SP), São Bernardo do Campo (SP) e São Paulo (SP). A carga horária é de seis horas por dia. A bolsa-auxílio varia conforme a localidade. Para universitários, vai de R$ 1.189,44 a R$ 1.869,84. Para alunos do ensino técnico, fica entre R$ 756 e R$ 1.198,26. Os benefícios incluem assistência médica sem coparticipação, vale-refeição ou refeitório no local, vale-transporte ou ônibus fretado, cesta de fim de ano, seguro de vida, programa de descontos em lojas físicas e virtuais, desconto na compra de pneus, acesso ao Wellhub, programa de saúde mental com consultas gratuitas com psicólogos, programa de acompanhamento de doenças crônicas com subsídio de medicamentos e presente de aniversário. O processo seletivo inclui triagem, dinâmica de grupo on-line, painel de negócios e entrevistas com a gerência. As inscrições vão até 2 de novembro pelo site. Smart Fit A Smart Fit abriu inscrições para seu primeiro programa de estágio voltado à operação da companhia. São cerca de mil vagas em todo o Brasil para estudantes do ensino superior em educação física, a partir do quinto semestre. Os selecionados atuarão na rotina das unidades e terão acesso a uma trilha de conhecimento técnico na área de fitness, oferecida a distância pela universidade corporativa da companhia e complementada pela aplicação prática na sala de musculação. A trilha é dividida em módulos que abordam setorização e posicionamento no salão, segurança e protocolos de emergência, biomecânica, anatomia, fisiologia e metodologia de treino. Os benefícios incluem bolsa-auxílio, assistência odontológica, telemedicina pelo aplicativo Dr. Alper, seguro contra acidentes pessoais, parcerias com universidades e plano vip em todas as unidades da rede. Os estagiários também têm acesso gratuito aos aplicativos Smart Fit Nutri, SmartCoach e Queima Diária e a um clube de vantagens com cupons de desconto em sites parceiros. As informações sobre o programa e as inscrições estão disponíveis no site.",
+      "url": "https://valor.globo.com/carreira/empregos-oportunidades/post/2026/10/atech-editora-globo-ford-jbs-pirelli-e-smart-fit-abrem-programas-de-estagio.ghtml",
+      "published": "2026-10-13T18:02:37+00:00",
+      "source": "https://pox.globo.com/rss/valor",
       "matched_sectors": [
-        "Viagens"
+        "Academias"
       ],
       "matched_aliases": [
-        "cvc"
+        "smart fit",
+        "wellhub"
       ],
       "matches": [
         {
-          "sector": "Viagens",
-          "alias": "cvc",
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 20.0
-    },
-    {
-      "title": "Caneta emagrecedora: quando devo parar de usar?",
-      "summary": "Caneta emagrecedora: quando devo parar de usar? &nbsp;&nbsp; Assine Abril",
-      "url": "https://boaforma.abril.com.br/equilibrio/caneta-emagrecedora-parar-usar",
-      "published": "2026-10-06T17:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Anvisa proíbe venda de insulina e tirzepatida irregulares; veja produtos atingidos",
-      "summary": "Anvisa proíbe venda de insulina e tirzepatida irregulares; veja produtos atingidos &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/saude/noticia/2026/10/06/anvisa-proibe-venda-de-insulina-e-tirzepatida-irregulares-veja-produtos-atingidos.ghtml",
-      "published": "2026-10-06T17:11:44+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "TikTok quiere que tu próxima compra la resuelva la IA",
-      "summary": "TikTok quiere que tu próxima compra la resuelva la IA &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/coffee-break/72089-tiktok-quiere-que-tu-proxima-compra-la-resuelva-la-ia",
-      "published": "2026-10-06T17:20:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "tiktok"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "A outra face da abertura de Milei: a explosão do contrabando na Argentina",
-      "summary": "Com menos barreiras às importações e um peso mais forte, produtos que entram ilegalmente ganham espaço",
-      "url": "https://veja.abril.com.br/economia/a-outra-face-da-abertura-de-milei-a-explosao-do-contrabando-na-argentina",
-      "published": "2026-10-06T17:56:59+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "contrabando"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "contrabando",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Tavernando lança marketplace para produtos e serviços de RPG",
-      "summary": "Tavernando lança marketplace para produtos e serviços de RPG &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/06/10/2026/ecommerce/tavernando-lanca-marketplace-para-produtos-e-servicos-de-rpg",
-      "published": "2026-10-06T19:07:10+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Bets deixam de funcionar e R$ 1,3 bilhão ainda precisa ser devolvido aos apostadores",
-      "summary": "Prazo para retirada voluntária terminou na segunda-feira; bancos farão os pagamentos entre 9 e 14 de outubro, e valores com impedimentos serão repassados à Caixa",
-      "url": "https://exame.com/brasil/bets-deixam-de-funcionar-e-r-13-bilhao-ainda-sera-devolvido-aos-apostadores",
-      "published": "2026-10-06T19:21:00+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Pague Menos transforma 'propaganda espontânea' em R$ 4,46 milhões em vendas",
-      "summary": "Pague Menos transforma 'propaganda espontânea' em R$ 4,46 milhões em vendas &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/marketing/pague-menos-transforma-propaganda-espontanea-em-r-446-milhoes-em-vendas",
-      "published": "2026-10-06T19:56:59+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "pague menos"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "pague menos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "MP das Bets: além do futebol, os R$ 2,6 bilhões que podem 'sumir' do esporte",
-      "summary": "MP das Bets: além do futebol, os R$ 2,6 bilhões que podem 'sumir' do esporte &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/esporte/mp-das-bets-alem-do-futebol-os-r-26-bilhoes-que-podem-sumir-do-esporte",
-      "published": "2026-10-06T20:36:27+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Durigan diz que governo derrubou mais de 11 mil bets ilegais desde proibição",
-      "summary": "O ministro da Fazenda, Dario Durigan , disse nesta terça-feira (6) que o governo já derrubou mais de 11 mil sites de bets ilegais após determinar o fim das casas de apostas no Brasil, no dia 25 de setembro. Leia mais (10/06/2026 - 19h17)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/durigan-diz-que-governo-derrubou-mais-de-11-mil-bets-ilegais-desde-proibicao.shtml",
-      "published": "2026-10-06T22:17:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Durigan diz que ainda há R$ 1,3 bi em contas de bets; bancos têm até 14/10 para pagar apostadores",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/durigan-diz-que-ainda-ha-r-13-bi-em-contas-de-bets-bancos-tem-ate-1410-para-pagar-apostadores",
-      "published": "2026-10-06T22:20:02+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Como a caneta emagrecedora age no corpo?",
-      "summary": "Como a caneta emagrecedora age no corpo? &nbsp;&nbsp; BOA FORMA",
-      "url": "https://boaforma.abril.com.br/web-stories-abril/caneta-emagrecedora-como-age",
-      "published": "2026-10-06T23:32:11+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
+      "score": 22.0
     },
     {
       "title": "Bets começam a informar hoje aos bancos saldos deixados por apostadores",
@@ -8384,29 +8151,6 @@
       "score": 20.0
     },
     {
-      "title": "Flávio Bolsonaro diz que vai votar pelo fim da escala 6x1",
-      "summary": "O candidato do PL à Presidência da República, Flávio Bolsonaro, afirmou nesta terça-feira (13) que votará a favor da proposta de emenda à Constituição (PEC) que prevê o fim da escala 6x1. A declaração foi dada após visita do senador ao pai, o ex-presidente Jair Bolsonaro, que cumpre prisão domiciliar em Brasília após ser condenado por tentativa de golpe de Estado. “Eu estou rodando o Brasil e a maioria dos trabalhadores brasileiros quer o fim da escala 6x1. Então, eu vou votar a favor do fim da escala 6x1”, disse. Apesar de afirmar que votará a favor do fim da escala 6x1 por ser um desejo da maioria dos trabalhadores brasileiros, Flávio Bolsonaro defendeu um modelo diferente do previsto na PEC, que estabelece uma jornada de cinco dias de trabalho e dois de descanso, com limite de 40 horas semanais e sem redução salarial. O candidato do PL voltou a defender que trabalhadores e empregadores tenham liberdade para negociar a jornada de trabalho. O presidenciável também afirmou que será necessário estabelecer compensações para as empresas e acusou o governo do presidente Luiz Inácio Lula da Silva (PT) de provocar o endividamento das famílias e dificuldades financeiras para os empresários. “Obviamente, quando você reduz a jornada de trabalho, será necessária a contratação de mais pessoas. Tem o risco de muita gente ir para a informalidade. Então, isso tudo a gente está pensando, mas, de novo, o meu voto vai ser conforme a vontade da maioria do povo trabalhador brasileiro”, ressaltou. Flávio foi autorizado a retomar as visitas ao pai por decisão do ministro do Supremo Tribunal Federal (STF) Alexandre de Moraes. Em 13 de julho, o ministro havia proibido o senador de entrar na residência do ex-presidente por 90 dias, após Flávio ler, durante uma transmissão ao vivo nas redes sociais, uma carta escrita por Bolsonaro em que declarava apoio à candidatura do filho. Na ocasião, Moraes entendeu que o episódio violou a medida cautelar que proíbe o ex-presidente de utilizar redes sociais, diretamente ou por intermédio de terceiros. Como consequência, Bolsonaro também foi proibido de receber visitas por 30 dias.",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/13/flvio-bolsonaro-diz-que-vai-votar-pelo-fim-da-escala-6-x-1.ghtml",
-      "published": "2026-10-13T14:06:02+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Criminosos fazem funcionários reféns e roubam farmácia em Piracicaba",
       "summary": "Criminosos fazem funcionários reféns e roubam farmácia em Piracicaba &nbsp;&nbsp; G1",
       "url": "https://g1.globo.com/sp/piracicaba-regiao/noticia/2026/10/13/criminosos-fazem-funcionarios-refens-e-roubam-farmacia-em-piracicaba.ghtml",
@@ -8589,6 +8333,437 @@
         }
       ],
       "score": 20.0
+    },
+    {
+      "title": "Anvisa proíbe lote de tirzepatida após empresa descumprir ordem de destruição do produto",
+      "summary": "Anvisa proíbe lote de tirzepatida após empresa descumprir ordem de destruição do produto &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/saude/noticia/2026/10/13/anvisa-proibe-lote-de-tirzepatida-apos-empresa-descumprir-ordem-de-destruicao-do-produto.ghtml",
+      "published": "2026-10-13T16:33:51+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Estudo: Canetas emagrecedoras são associadas a alterações em unha e cabelo",
+      "summary": "Estudo: Canetas emagrecedoras são associadas a alterações em unha e cabelo &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/estudo-canetas-emagrecedoras-sao-associadas-a-alteracoes-em-unha-e-cabelo",
+      "published": "2026-10-13T17:14:41+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Crescimento do uso de canetas emagrecedoras alerta para importância de descarte de agulhas",
+      "summary": "Crescimento do uso de canetas emagrecedoras alerta para importância de descarte de agulhas &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/mg/sul-de-minas/videos-jornal-da-eptv-1-edicao/video/crescimento-do-uso-de-canetas-emagrecedoras-alerta-para-importancia-de-descarte-de-agulhas-15054444.ghtml",
+      "published": "2026-10-13T17:31:10+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Autoridades procuram hackers que assumiram controle de refrigeradores do Carrefour e Intermarché na França",
+      "summary": "Investigadores franceses tentam identificar os hackers que assumiram o controle de unidades de refrigeração em centenas de supermercados do país. O ataque cibernético evidenciou a vulnerabilidade de sistemas conectados e, até o momento, nenhum grupo reivindicou a autoria da ação. A apuração ocorre em paralelo a um incidente de cibersegurança enfrentado pela rede varejista holandesa Ahold Delhaize, que provocou a interrupção de seus serviços on-line, embora as autoridades da Holanda tenham descartado qualquer relação entre os dois episódios. A ausência de manifestação por parte de grupos ativistas ou de pedidos de resgate financeiro por cibercriminosos intriga as autoridades francesas, segundo uma fonte familiarizada com as investigações. Tradicionalmente, grupos dessa natureza buscam monetizar rapidamente as invasões ou reivindicar a autoria com finalidades políticas. O ataque cibernético, que alterou os padrões de temperatura de refrigeradores em redes como Carrefour, Monoprix, Intermarché e Coopérative U, parece ter sido de simples execução, de acordo com três especialistas em segurança digital ouvidos pela Reuters. Em Paris, funcionários de supermercados descartaram caixas de carnes estragadas e produtos congelados em grandes contêineres de lixo nesta terça-feira (13). Ao menos 350 lojas, uma fatia pequena do parque total de supermercados na França, foram atingidas pela invasão. Empresa aponta falha em softwares A agência de segurança cibernética da França informou que a invasão afetou refrigeradores operados com softwares da empresa dinamarquesa Danfoss, bem como programas da Copeland e da Dixell. Na segunda-feira (12), a Danfoss afirmou que muitas das unidades afetadas já haviam “chegado ao fim de sua vida útil e não recebem mais atualizações de software ou de segurança” ou estavam “operando com firmware desatualizado”. A companhia declarou ter “orientado os clientes a manter os sistemas suportados atualizados com as versões mais recentes e a migrar sistemas legados para soluções de geração atual”. A Danfoss não quis fazer mais comentários hoje. Já um porta-voz da Copeland, proprietária da Dixell, evitou confirmar os detalhes técnicos, afirmando que a prioridade máxima da companhia é proteger a continuidade operacional de seus clientes. No caso da Danfoss, vulnerabilidades graves em versões antigas de seu firmware já eram de conhecimento público há meses. Em 9 de agosto, a empresa de cibersegurança Claroty detalhou falhas, posteriormente corrigidas por meio de atualizações, no controlador Danfoss AK-SM 800A, as quais permitiam a invasores burlar etapas de autenticação e executar comandos em dispositivos comprometidos. ‘Higiene cibernética básica’ Embora o mecanismo exato utilizado para comprometer os refrigeradores não tenha sido revelado publicamente, analistas de segurança digital apontam que o ataque decorreu de falhas elementares de proteção, provocadas tanto pela falta de atualização dos softwares da Danfoss quanto pela exposição das interfaces dos aparelhos diretamente à internet. “Trata-se de higiene cibernética básica”, afirmou Ken Munro, sócio da consultoria britânica Pen Test Partners. “Se você errar nisso, o resultado são comidas estragadas.” Munro destacou que as vulnerabilidades amplamente conhecidas deixaram as portas abertas aos invasores, sugerindo que a ação pode ter sido obra de “jovens apenas fazendo bagunça”. “Se fosse um ataque patrocinado por algum Estado, por que atingir apenas uma parcela das geladeiras francesas? Há milhares de outros países com refrigeradores expostos à internet”, avaliou. “A ausência de resgate ou de reivindicações indica uma falta de compreensão sobre as perdas financeiras potenciais que os proprietários desses estabelecimentos enfrentariam.” Vulnerabilidade persiste Um grande volume de equipamentos segue acessível pela internet. Por meio da plataforma de varredura digital Shodan, a Reuters localizou ao menos 4.500 interfaces da Danfoss visíveis nesta terça-feira. Não foi possível checar de forma independente quantos desses dispositivos rodam versões vulneráveis do software, mas a empresa francesa de monitoramento digital Onyphe pontuou que apenas uma pequena minoria dos equipamentos parecia contar com as versões mais recentes instaladas. Versões obsoletas continuam “amplamente presentes entre as interfaces de acesso público”, advertiu a Onyphe. Interrupção em rede holandesa Em um incidente separado, a varejista holandesa Ahold Delhaize informou hoje que deu início a uma “retomada controlada de determinados sistemas”, após registrar problemas de segurança cibernética a partir da noite de domingo (11). O órgão regulador de cibersegurança da Holanda, NCSC, declarou não ver indícios de ligação entre o ocorrido na rede e os ataques aos supermercados franceses. A Ahold controla a rede Albert Heijn, na Holanda, e grandes marcas do varejo alimentar norte-americano, como Stop & Shop e Giant Food. Os sites de comércio eletrônico das lojas em ambos os países seguiam fora do ar no fim da tarde de hoje, indisponibilizando serviços de compras e entregas on-line. CC0 Creative Commons / pixabay",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/13/autoridades-procuram-hackers-que-assumiram-controle-de-refrigeradores-do-carrefour-e-intermarche-na-franca.ghtml",
+      "published": "2026-10-13T17:31:16+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "carrefour"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Renner leva conceito de Loja Circular ao Porto Belo Outlet Premium",
+      "summary": "Renner leva conceito de Loja Circular ao Porto Belo Outlet Premium &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/13/10/2026/noticias-varejo/renner-leva-conceito-de-loja-circular-ao-porto-belo-outlet-premium/amp",
+      "published": "2026-10-13T18:00:14+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa proíbe lote de tirzepatida por descumprimento de destruição",
+      "summary": "Anvisa proíbe lote de tirzepatida por descumprimento de destruição &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/anvisa-proibe-lote-de-tirzepatida-por-descumprimento-de-destruicao",
+      "published": "2026-10-13T18:26:08+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Shopee lança plataforma para PMEs brasileiras exportarem para Argentina e México",
+      "summary": "A Shopee criou um programa para que PMEs (pequenas e médias empresas ) possam vender suas mercadorias para Argentina e México sem custos extras. Leia mais (10/13/2026 - 16h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/shopee-lanca-plataforma-para-pmes-brasileiras-exportarem-para-argentina-e-mexico.shtml",
+      "published": "2026-10-13T19:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Referência em depilação a laser, a Espaçolaser alia tecnologia de ponta a tratamentos e atendimento personalizados",
+      "summary": "Referência em depilação a laser, a Espaçolaser alia tecnologia de ponta a tratamentos e atendimento personalizados &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/clube-o-globo/bem-estar/oferta/referencia-em-depilacao-a-laser-a-espacolaser-alia-tecnologia-de-ponta-a-tratamentos-e-atendimento-personalizados.ghtml",
+      "published": "2026-10-13T19:44:19+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "espaçolaser"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "espaçolaser",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "CVS Will Pay $315 Million To Settle Federal Opioid Case",
+      "summary": "The agreement settles a lawsuit the Justice Department filed back in 2024, claiming CVS improperly filled opioid prescriptions and billed federal health care programs.",
+      "url": "https://www.forbes.com/sites/fionariley/2026/10/13/cvs-will-pay-315-million-to-settle-federal-opioid-case",
+      "published": "2026-10-13T19:48:40+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "cvs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "cvs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa proíbe implantes hormonais estéreis e determina apreensão de tirzepatida irregular",
+      "summary": "Anvisa proíbe implantes hormonais estéreis e determina apreensão de tirzepatida irregular &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/anvisa-proibe-implantes-hormonais-estereis-e-determina-apreensao-de-tirzepatida-irregular",
+      "published": "2026-10-13T20:00:56+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa apreende lote de tirzepatida da FarmaUSA",
+      "summary": "Anvisa apreende lote de tirzepatida da FarmaUSA &nbsp;&nbsp; Panorama Farmacêutico",
+      "url": "https://panoramafarmaceutico.com.br/anvisa-apreende-lote-de-tirzepatida-da-farmausa",
+      "published": "2026-10-13T20:30:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Prescrições digitais de canetas emagrecedoras avançam 304,9%",
+      "summary": "Prescrições digitais de canetas emagrecedoras avançam 304,9% &nbsp;&nbsp; Panorama Farmacêutico",
+      "url": "https://panoramafarmaceutico.com.br/prescricoes-digitais-de-canetas-emagrecedoras-avancam-3049",
+      "published": "2026-10-13T21:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Redução de jornada agora é consensual, mas como fazer importa",
+      "summary": "",
+      "url": "https://www.estadao.com.br/economia/fernando-dantas/reducao-de-jornada-agora-e-consensual-mas-como-fazer-importa",
+      "published": "2026-10-13T22:16:49+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "redução de jornada"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "redução de jornada",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Caneta emagrecedora: principais desafios para manter o déficit calórico após o término do uso",
+      "summary": "Caneta emagrecedora: principais desafios para manter o déficit calórico após o término do uso &nbsp;&nbsp; Assine Abril",
+      "url": "https://boaforma.abril.com.br/equilibrio/saude/caneta-emagrecedora-desafios-manter-deficit-calorico-apos-uso",
+      "published": "2026-10-13T23:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lula escreve carta a evangélicos com defesa da família, fim das bets e da escala 6x1; leia",
+      "summary": "Lula divulgará nesta semana uma carta dirigida às famílias evangélicas na qual destaca a importância da família e projetos que encampou, como o fim das bets e da escala 6x1. A coluna teve acesso exclusivo ao documento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/10/lula-escreve-carta-a-evangelicos-defende-a-familia-fim-das-bets-e-da-escala-6x1.ghtml",
+      "published": "2026-10-13T23:16:47+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canetas emagrecedoras mudam hábitos alimentares e desafiam bares e restaurantes",
+      "summary": "Canetas emagrecedoras mudam hábitos alimentares e desafiam bares e restaurantes &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/mg/grande-minas/videos-inter-2/video/canetas-emagrecedoras-mudam-habitos-alimentares-e-desafiam-bares-e-restaurantes-15055888.ghtml",
+      "published": "2026-10-13T23:53:18+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lula propõe Pix para MEI de R$ 5 mil; Flávio anuncia voto pelo fim da escala 6x1",
+      "summary": "Lula propõe Pix para MEI de R$ 5 mil; Flávio anuncia voto pelo fim da escala 6x1 &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/eldorado/podcasts/noticia-no-seu-tempo/lula-prop-e-pix-para-mei-de-r-5-mil-fl-vio-anuncia-voto-pelo-fim-da-escala-6x1",
+      "published": "2026-10-14T00:58:09+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Galeão terá R$ 1 bi em investimentos em três anos e voos para mais 30 destinos",
+      "summary": "O Aeroporto Internacional do Rio de Janeiro/Galeão vai receber aproximadamente R$ 1 bilhão em investimentos ao longo dos próximos três anos. Os aportes serão feitos por parceiros comerciais privados em áreas como hotelaria, logística, manutenção de aeronaves e outras. Às vésperas do 2º turno das eleições: Governo Lula anuncia perdão da dívidas de MEIs e promete Pix de até R$ 5 mil Jerome Cadier: CEO da Latam prevê que passagem vai subir com alta prologada de combustível e Reforma Tributária Virão também voos para 30 novos destinos, entre incrementos de frequências novas rotas e retomadas de linhas sazonais, sendo 12 deles no exterior, com ligações para localidades como Nova York, Dallas, Salta, Lima, Toronto e Montreal, além de ampliação da oferta de voos a pontos como Paris, Miami, Lisboa e Frankfurt. O Galeão está, desde o último dia 6 de outubro, sob gestão da Aena, gigante aeroportuária espanhola que arrematou o terminal relicitado em leilão no fim de março. A empresa levou o ativo com um lance de R$ 2,9 bilhões em outorgas, enquanto o lance mínimo previsto era de R$ 932 milhões. E terá a gestão do ativo até 2039. Santiago Yuz, diretor-vice-presidente da Aena Brasil, participou de um evento no Galeão na manhã desta terça-feira para marcar o início da gestão do aeroporto. Ele frisou que a concessionária seguirá trabalhando \"no mínimo\" até o fim do contrato atual, e que, \"se depois, conseguir estender, melhor ainda\". O executivo explicou que os investimentos diretos da concessionária no aeroporto ainda não estão definidos. Eles virão em melhorias – que o passageiro deverá perceber já no início de 2027 - em índices de qualidade, aprimorando infraestrutura e equipamentos, a exemplo de elevadores, banheiros e sistema de climatização. — O Galeão é a principal porta de entrada do Brasil e com um grande potencial de crescimento. Temos cerca de R$ 1 bilhão de investimento previsto de terceiros a serem aportados ao longo dos próximos três anos, gerando 3.860 empregos — diz Santiago Yuz, diretor-presidente da Aena Brasil. Novo hotel de até 426 quartos Nessa frente estão projetos como o de um novo hotel de bandeira internacional, com 232 quartos, mas já com a possibilidade de ter uma expansão a 426. O hotel receberá R$ 90 milhões em aporte e será operado pela bUP. Leia também: Latam recebe primeiro jato da Embraer e planeja ampliar malha com voos regionais Em paralelo, um centro de testes da BYD, projeto de R$ 300 milhões, vai ocupar uma área de 184 mil metros quadrados, com a previsão de gerar 1.200 empregos. A Gol já anunciou que terá um hangar de manutenção de 56 mil metros quadrados no Galeão, fazendo aporte de R$ 100 milhões, gerando 800 empregos. Já a Hire Capital vai implementar um galpão logístico de 120 mil metros quadrados de área bruta para locação, ao custo de R$ 430 milhões, com o objetivo de atender o mercado fluminense e o capixaba. Vai também expandir o galpão logístico já em operação, que passará de 22 mil metros quadrados para 40 mil m2, com aporte de R$ 54 milhões. Máfia dos táxis: Saiba como não cair na mão de golpistas ao sair do Aeroporto do Galeão O executivo participou de evento realizado na manhã desta terça-feira no Galeão, marcando a assinatura do contrato da nova concessionária. Novas empresas de baixo custo Ele sublinhou que a Aena vai atuar para atrair novas companhias aéreas, entre domésticas e internacionais, incluindo low-costs, além de empresas da área de carga. O Galeão recebeu 17,5 milhões de passageiros em 2025, devendo encerrar este ano com cerca de 19 milhões. A despeito do crescimento, o aeroporto ainda tem perto de metade de sua capacidade para até 37 milhões de passageiros ociosa. Reforma Tributária: Companhias aéreas tentam se enquadrar como regionais para pagar menos imposto Uma das estratégias para avançar em novas companhias, explica Yuz, é integrar o Galeão aos demais 17 aeroportos da Aena no país. Ao todo, essa rede movimentou 63 milhões de passageiros em 2025. — Temos 18 aeroportos e, em sinergia, podemos estimular conexões domésticas com internacionais ou domésticas com domésticas. Já temos um caso de sucesso com a Gol, numa linha que aparece nas telas dos feeds como Congonhas-Galeão-JFK (aeroporto de Nova York), e também para Lisboa. Colaboramos com que chamamos de vendas cruzadas, e de alguma forma a colocamos incentivos que atraem companhias aéreas — explicou o executivo. O presidente da Agência Nacional de Aviação Civil (Anac), Tiago Faierstein, celebrou a bem-sucedida relicitação do Galeão, viabilizada pelas novas condições de contrato de forma a garantir o equilíbrio econômico-financeiro da concessão. E frisou que o setor precisa trabalhar de forma coordenada para fazer o movimento no Galeão e no Rio de Janeiro crescer: — O Galeão sofreu muito com a pandemia. Com a retomada dos voos internacionais, voltam as conexões, os trechos domésticos. O Brasil é um país grande e não sobrevive apenas com o Aeroporto de Guarulhos. Precisa fomentar um outro grande aeroporto internacional. E esse aeroporto é o do Galeão. Sem licitação no Santos Dumont O ministro de Portos e Aeroportos, Tomé França, afirmou que a operação coordenada entre Galeão e Santos Dumont vai seguir a redução gradual da restrição de movimento de passageiros estabelecida ao aeroporto central conforme estabelecido pelo acordo firmado com o Tribunal de Contas da União (TCU). Entenda o que muda: ‘Céus abertos’ entre países da América do Sul começa em um ano, diz ministro Segundo França, não há qualquer estudo em curso para uma eventual licitação do Santos Dumont. O aeroporto responde por quase todo o orçamento da Infraero, estatal de gestão aeroportuária que administra outros 20 aeroportos. Na prática, é preciso pensar a atuação da Infraero antes de avaliar o destino do Santos Dumont. Em paralelo, ele afirmou que o governo vem trabalhando para atrair empresas low-cost ou mesmo ultra-low-cost ao país, ampliando o acesso a viagens aéreas a mais camadas da população. As discussões nessa direção, porém, estão sendo feitas dentro de um grupo de trabalho criado a partir da celebração do Acordo de Liberalização Aérea Sul-Americana (Alas), em julho. O documento propõe a criação de um mercado comum de aviação entre países da América do Sul. Entre as mudanças previstas, a principal seria a liberação da operação de empresas estrangeiras em voos domésticos no país, conhecida como cabotagem.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/13/galeao-tera-r-1-bi-em-investimentos-em-tres-anos-e-voos-para-mais-30-destinos.ghtml",
+      "published": "2026-10-13T16:33:36+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "galpão logístico",
+        "hotelaria",
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "galpão logístico",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "hotelaria",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 18.0
     },
     {
       "title": "O equilíbrio entre custo, velocidade e segurança",
@@ -9005,167 +9180,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "No sacolão e no posto de gasolina, o dinheiro sobrevive",
-      "summary": "Postos de combustível e hortifrútis são os segmentos em que o dinheiro vivo mais pesa no varejo físico de São Paulo, segundo o Indicador HYPR de Meios de Pagamento no Varejo. Em maio, o dinheiro respondeu por 35,5% das vendas nos postos e por 30,3% nos hortifrútis, contra 21,5% no varejo paulista como um todo, ou uma em cada cinco compras. As farmácias vêm em seguida, com 29,7%. Nos postos, o crédito responde por 27,1% e o débito por 24,1%. O Pix fica em 4,3%, e o tíquete médio é de R$ 85,03. Nos hortifrútis, o débito tem 29,7%, o crédito 28,2% e o Pix 4,1%, com tíquete médio de R$ 65,97. O levantamento da HYPR Ventures usa notas fiscais eletrônicas de consumidor (NFC-e) emitidas entre novembro de 2025 e maio de 2026 por estabelecimentos da base da empresa. A HYPR afirma que não se trata de amostra, e sim do universo de notas desses estabelecimentos. Nos postos, diz o estudo, o desafio não é a taxa de cartão, mas a segurança de guardar espécie e a rotina de fechar o caixa no fim do dia. No varejo paulista como um todo, o dinheiro caiu de 23,3% das transações em novembro para 21,5% em maio. Em maio, o Pix tinha 5,5% e os cartões, 61,4%. O dinheiro, como era de se esperar, é meio de pagamento em valores menores: responde por quase 30% dos pagamentos de até R$ 20 e por 13,8% dos acima de R$ 500. Em tíquetes menores, como no sacolão, dinheiro em cédula ainda tem participação relevante Pixabay",
-      "url": "https://pipelinevalor.globo.com/mercado/noticia/no-sacolao-e-no-posto-de-gasolina-o-dinheiro-sobrevive.ghtml",
-      "published": "2026-10-06T16:36:23+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Uber compra empresa que serve alimentos em eventos por US$ 2,3 bi",
-      "summary": "A Uber está próxima de comprar a empresa de catering ezCater por US$ 2,3 bilhões (R$ 11,62 bilhões), em uma operação em dinheiro que ajudará a plataforma de entregas Uber Eats a alcançar uma clientela mais corporativa. Leia mais (10/06/2026 - 14h08)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/uber-compra-empresa-que-serve-alimentos-em-eventos-por-us-23-bi.shtml",
-      "published": "2026-10-06T17:08:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "uber eats"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "uber eats",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Itajubá recebe MKT Experience com foco em vendas digitais",
-      "summary": "Itajubá, no Sul de Minas Gerais, sedia, no dia 24 de outubro de 2026, a segunda edição do MKT Experience, encontro voltado a empreendedoras que buscam transformar a presença nas redes sociais em vendas. Realizado pelo HER Marketplace Empreendedoras em parceria com o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas (Sebrae), o evento acontece no FEPI Eventos, tem entrada gratuita mediante inscrição pela plataforma Sympla e marca os cinco anos da iniciativa idealizada pela empresária Larissa Gignon. A organização prevê receber até 700 participantes. A programação parte de um diagnóstico frequente entre os pequenos negócios: as ferramentas digitais estão acessíveis, mas a conversão em receita segue como gargalo. Estão previstas oficinas práticas sobre produção de vídeos voltados à venda, estratégia de canais, presença digital com apoio de inteligência artificial (IA) e uso do TikTok para negócios, além de uma palestra magna e de momentos dedicados ao networking entre mulheres que lidam com questões semelhantes na gestão de suas empresas. Ferramentas ao alcance, vendas em descompasso Dados recentes ajudam a dimensionar o cenário. A pesquisa Digitalização nos Pequenos Negócios 2026, conduzida pelo Sebrae Minas em março com 304 proprietários de microempreendedores individuais (MEI), microempresas e empresas de pequeno porte de todas as regiões do estado, aponta que 56% já utilizam IA em alguma área da operação. A produção de conteúdo para redes sociais e ações promocionais lidera as aplicações, citada por 29,6% dos entrevistados, seguida por marketing e publicidade, com 27,4%. O mesmo levantamento indica que a adoção ainda é pouco estruturada: apenas 11,2% dos empresários afirmam empregar a tecnologia de forma estratégica e integrada às operações, enquanto 27,4% fazem uso ocasional. A falta de conhecimento técnico é a principal barreira, mencionada por 28,7% dos participantes. Os números sugerem que gerar uma publicação deixou de ser obstáculo, enquanto converter esse conteúdo em relacionamento com o cliente e, em seguida, em venda continua dependendo de método. A disputa por espaço no mercado também se intensificou. Segundo balanço semestral do Sebrae Minas, o estado abriu 315.607 empresas entre janeiro e junho de 2026, e cerca de 97% das aberturas corresponderam a MEI, microempresas e empresas de pequeno porte. O estudo mostra ainda que os encerramentos avançaram 12% no período, acima da alta de 11% registrada nas aberturas, indicação de que formalizar um negócio não assegura sua permanência. Rotina sobrecarregada limita o tempo para planejar Para quem trabalha por conta própria, a lista de tarefas inclui produção, atendimento, controle financeiro, fotografia, gravação de vídeos e resposta a mensagens. É o caso de empreendedoras como a artesã Simone Rosa, de Itajubá, que transforma sacos de café em bolsas artesanais. O produto é autoral e carrega uma história própria, mas precisa disputar a atenção do consumidor em um ambiente digital saturado de ofertas. A pesquisa Perfil do MEI 2026, também do Sebrae Minas, revela que 68% dos microempreendedores individuais não conseguem tirar férias ao longo do ano, e quase metade cumpre jornadas superiores a oito horas diárias. Entre os que fazem alguma pausa, 64% relatam que as atividades da empresa param completamente durante a ausência. É nesse ponto que a tecnologia encontra seus limites. Na avaliação do HER Marketplace Empreendedoras, uma ferramenta que apenas acrescenta mais uma obrigação à rotina não cumpre sua função, e só ganha sentido quando otimiza o tempo e contribui para vendas previsíveis. Para a organização, tecnologia sem estratégia se converte em mais trabalho, e a questão central está em compreender por que se publica, para quem se fala e qual problema o produto resolve. Rede de apoio como caminho para crescer Idealizado por Larissa Gignon, o HER Marketplace Empreendedoras reúne atualmente mais de 220 empreendedoras e parte da premissa de que pequenos negócios não precisam crescer de forma isolada. A proposta combina acesso a conhecimento estratégico, troca de experiências e geração de oportunidades comerciais entre as participantes, modelo que orienta igualmente o formato do MKT Experience, concebido para aproximar conteúdo técnico e aplicação imediata ao longo de uma jornada de atividades. Com a digitalização já incorporada ao cotidiano dos pequenos negócios mineiros, a discussão deixa de girar em torno da necessidade de estar nas redes e passa a se concentrar no uso que se faz das ferramentas disponíveis. Ao reunir empreendedoras e o Sebrae em torno de oficinas práticas, a segunda edição do evento coloca no centro do debate a distância entre visibilidade e resultado, tema que atravessa os dados recentes sobre as micro e pequenas empresas do estado. Serviço: Evento: MKT EXPERIENCE 2026 Data: 24 de outubro de 2026 Local: FEPI Eventos, Itajubá (MG) Entrada: gratuita (inscrições pelo Sympla) Informações no Instagram @her.marketplace.empreendedoras",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/06/itajuba-recebe-mkt-experience-com-foco-em-vendas-digitais-1.ghtml",
-      "published": "2026-10-06T18:17:42+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "marketplace"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "marketplace",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "HUAWEI Band 10 e FreeBuds SE 2 são destaques no 10.10",
-      "summary": "A Huawei realiza sua campanha 10.10 com condições especiais em diferentes categorias de seu portfólio, disponíveis na loja oficial da marca na Shopee. Entre os destaques estão a HUAWEI Band 10 e o HUAWEI FreeBuds SE 2, dispositivos voltados ao acompanhamento da rotina, atividades físicas e entretenimento. A HUAWEI Band 10 participa da ação com cerca de 50% de desconto. Leve e ultrafina, a smartband conta com tela AMOLED de 1,47 polegada, mais de 100 modos de treino e recursos para acompanhamento de indicadores como frequência cardíaca e SpO₂, além de funcionalidades voltadas ao monitoramento do sono. A bateria pode chegar a 14 dias em condições de uso leve e oito dias em uso moderado. O modelo também oferece carregamento rápido, com cinco minutos de carga proporcionando até dois dias de uso. Áudio com até 40 horas de bateria Outro destaque da campanha é o HUAWEI FreeBuds SE 2. Cada fone pesa apenas 3,8 gramas e conta com design desenvolvido para proporcionar conforto durante períodos prolongados de uso. O modelo oferece até 40 horas de reprodução com o estojo de carregamento e até nove horas em uma única carga. Dez minutos de carregamento podem proporcionar até três horas de reprodução. O FreeBuds SE 2 conta ainda com Bluetooth 5.3, certificação IP54 de resistência à água e poeira nos fones e compatibilidade com dispositivos Huawei, Android e iOS. Campanha reúne diferentes categorias Além dos dois destaques, outros dispositivos do ecossistema Huawei participam do 10.10. O HUAWEI WATCH GT Runner 2, desenvolvido especialmente para corredores, terá mais de 61% de desconto, atingindo seu menor preço desde o lançamento no Brasil. A seleção inclui ainda o HUAWEI nova 15 Max, com 50% de desconto, o HUAWEI FreeClip 2, com aproximadamente 54% de desconto, e o HUAWEI MatePad SE 11, também com cerca de 54% de desconto. O smartphone HUAWEI Pura 80 Pro completa os produtos participantes da ação. As condições especiais da campanha 10.10 da Huawei estarão disponíveis na loja oficial da marca na Shopee a partir da meia-noite do dia 10 de outubro, enquanto durarem os estoques.",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/06/huawei-band-10-e-freebuds-se-2-sao-destaques-no-1010-1.ghtml",
-      "published": "2026-10-06T20:07:57+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Durigan afirma que há R$ 1,3 bi depositado em casas de apostas que não foi resgatado",
-      "summary": "Cerca de R$ 1,325 bilhão ainda está depositado em contas de casas de aposta esportivas, conhecidas popularmente como bets, que estão proibidas de atuar no país devido à medida provisória (MP) editada pelo governo no fim de setembro. O prazo para solicitar a devolução voluntária dos recursos acabou ontem (5), às 23h59. Agora, as empresas de aposta terão até quarta-feira (7) para encaminhar às instituições financeiras os saldos remanescentes de cada apostador, discriminados por CPF, além da conta bancária utilizada para os depósitos. Com isso, os recursos serão devolvidos aos 26 milhões de apostadores que continuam com recursos retidos nas casas de apostas. O dinheiro cairá diretamente na conta que foi cadastrada na plataforma. A devolução precisa acontecer até o dia 14. Caso haja algum problema na restituição nesse período, a Caixa Econômica Federal deverá intermediar o pagamento aos apostadores. O ministro da Fazenda, Dario Durigan, afirmou que cerca de 1% dos apostadores, aproximadamente 200 mil pessoas, concentra, 80% do saldo ainda retido. Já 3,4% dos apostadores respondem por 90% dos recursos pendentes de resgate. Por outro lado, há cerca de 40 contas com saldos superiores a R$ 500 mil ou R$ 1 milhão. Nesses casos, a Polícia Federal (PF) está investigando se há possíveis indícios de lavagem de dinheiro ou outras irregularidades, já que o saldo é muito discrepante em relação aos demais apostadores. Até o momento, 13.241 sites de apostas foram bloqueados a pedido do governo. Inicialmente, Durigan afirmou que eram 11.740, mas o número já chega a 13.241, segundo informações mais atuais do Palácio do Planalto. Também foi solicitada a remoção de 3.489 páginas, perfis, canais e grupos em redes sociais e aplicativos de mensagens. Segundo o governo, esse conteúdo alcançava cerca de 17,2 milhões de usuários. Entre as contas e páginas removidas estão 1.974 perfis no Facebook, 560 no Instagram, 837 canais e grupos no Telegram, 103 perfis no TikTok, 14 grupos no WhatsApp e um servidor no Discord. Durigan estima que a restrição às apostas permite que as famílias preservem entre R$ 600 milhões e R$ 650 milhões por dia que anteriormente eram destinados às bets. Ministro da Fazenda, Dario Durigan Fabiano Rocha/Agência O Globo",
-      "url": "https://valor.globo.com/brasil/noticia/2026/10/06/durigan-afirma-que-ha-r-13-bi-depositado-em-casas-de-apostas-que-nao-foi-resgatado.ghtml",
-      "published": "2026-10-06T22:00:38+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Wyndham e Ampla lançam projeto de residencial próximo ao aeroporto de Congonhas",
-      "summary": "A rede Wyndham Hotels &amp; Resorts assinou contrato com a Ampla Incorporadora para construir um hotel próximo ao aeroporto de Congonhas , em São Paulo. O Tryp Residences by Windham tem VGV (valor geral de vendas) projetado de R$ 110 milhões e a operação está prevista para começar até o final de 2029. Leia mais (10/06/2026 - 20h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/10/wyndham-e-ampla-lancam-projeto-de-residencial-proximo-ao-aeroporto-de-congonhas.shtml",
-      "published": "2026-10-06T23:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "hotel"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "hotel",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "The Hidden Cost Of Charging Customers Just Because You Can",
-      "summary": "Nick Jones’ St. Clement offers a new lesson for luxury brands, as the Soho House founder shows why generosity, customer trust and long-term value can beat the quick win.",
-      "url": "https://www.forbes.com/sites/katehardcastle/2026/10/06/the-hidden-cost-of-charging-customers-just-because-you-can",
-      "published": "2026-10-07T00:00:53+00:00",
-      "source": "https://www.forbes.com/business/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxury brands"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxury brands",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "A indústria relojoeira suíça está encolhendo, mas também está ficando mais rica e luxuosa",
@@ -10586,6 +10600,98 @@
         {
           "sector": "E-commerce",
           "alias": "e-commerce",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Bancos têm até esta quarta para devolver dinheiro de milhões de apostadores",
+      "summary": "Governo identificou R$ 1,3 bilhão em saldos após proibição das bets; Caixa assumirá casos em que houver dificuldades para concluir os pagamentos",
+      "url": "https://veja.abril.com.br/economia/bancos-tem-ate-esta-quarta-para-devolver-dinheiro-de-milhoes-de-apostadores",
+      "published": "2026-10-13T18:00:21+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "O prodígio da matemática que monta empresas como quem diversifica uma carteira",
+      "summary": "Guilherme Matsumoto, conhecido como Guilherme Matsu, projeta faturamento de R$ 6 milhões neste ano somando 12 a 15 negócios principais que, à primeira vista, pouco têm em comum: um lar de idosos, uma barbearia, um estúdio, uma produtora, um marketplace geek e eventos de cosplay. O que costura a lista é a lógica de uma carteira de investimentos. Cada empresa funciona como um ativo, e a soma de fontes de receita sem correlação entre si reduz a dependência de um único setor. A tese foge do padrão do empreendedor brasileiro. Segundo o Atlas dos Pequenos Negócios, do Sebrae (Serviço Brasileiro de Apoio às Micro e Pequenas Empresas), 71% dos donos de micro e pequenas empresas não têm outra fonte de renda além do próprio negócio. A permanência no mercado também pesa: das empresas empregadoras nascidas em 2017, 37,9% seguiam ativas cinco anos depois, de acordo com a pesquisa Demografia das Empresas e Estatísticas de Empreendedorismo, do IBGE (Instituto Brasileiro de Geografia e Estatística). O caminho de Matsumoto até essa tese começou longe dos negócios. Criado pelos avós em uma família japonesa que ele define como cartesiana, conta ter acumulado primeiros lugares e pódios em olimpíadas de matemática e estudado em escola particular graças às notas. Aos 17 anos, segundo ele, foi aprovado em primeiro lugar em Economia na Unifesp (Universidade Federal de São Paulo), na USP (Universidade de São Paulo) e na Unicamp (Universidade Estadual de Campinas), onde se formou como primeiro da turma. Tudo apontava para uma carreira corporativa. Em 2011, um curso de autoconhecimento o levou a questionar esse roteiro, embora a virada tenha sido construída aos poucos. Entre janeiro de 2015 e dezembro de 2017, ele trabalhou em regime CLT (Consolidação das Leis do Trabalho) numa empresa de treinamentos e consultoria, na área de vendas. Em 2016, ainda empregado, começou a lançar infoprodutos. Segundo o empresário, eles rendiam entre R$ 10 mil e R$ 20 mil por mês em valores da época. O CNPJ (Cadastro Nacional da Pessoa Jurídica) próprio veio em 2018. Em 2020, ele relata ter feito aportes na bolsa com o Ibovespa na faixa dos 69 mil pontos, durante a queda provocada pela pandemia. No ano seguinte, entrou como sócio numa empresa de eventos que segue ativa. Desde então, incorpora em média uma empresa nova por ano. Entre os negócios de maior permanência estão o lar de idosos, os treinamentos, um coworking de saúde e o marketplace. Pelas contas do empresário, os negócios principais faturam em média cerca de R$ 600 mil por ano, enquanto as operações menores ficam entre R$ 60 mil e R$ 100 mil anuais. Ele estima o valor consolidado da carteira em cerca de R$ 5,5 milhões e compara a estabilidade de participações diversificadas à de ativos de renda fixa. O lar de idosos, mantido desde 2024, dá a medida de um dos ativos de maior porte. Matsumoto o avalia em R$ 350 mil, a operação reúne mais de 20 colaboradores e gera retorno mensal de R$ 8 mil. Na Clique Produções, que segundo ele faturou em um único mês mais do que no ano anterior inteiro, o aporte em equipamentos foi estruturado juridicamente como empréstimo, com garantia de restituição patrimonial em caso de distrato. O desenho protege o capital do investidor caso a sociedade seja desfeita e mostra o peso que a governança ganhou na carteira. A escolha de sócios virou critério central a partir do aprendizado com sociedades anteriores. Hoje, Matsumoto exige valores congruentes, um sócio operador especialista no segmento, ética de trabalho e autorresponsabilidade. As parcerias mais recentes são formalizadas em acordos e contratos societários que definem responsabilidades, regras para conflitos e sucessão. Esses critérios formam o primeiro de três pilares de um método que ele diz ter validado nos próprios negócios. Os sócios passam por seleção, entrevistas e acordo societário. O capital é submetido a análise de viabilidade, com cenários pessimista, realista e otimista, prazo de retorno, ponto de equilíbrio e alavancagem com recursos de terceiros. Os processos administrativos, comerciais, de marketing e financeiros são organizados com base em gestão enxuta. Matsumoto afirma que seu propósito é \"transformar o mundo por meio da educação\". Na prática, isso se traduz numa mentoria voltada à concepção e à abertura de novos negócios. Ela é pensada para empresários que já têm uma operação em funcionamento e querem usar a estrutura e os recursos existentes para criar novas frentes de receita. O público potencial é amplo. A edição 2025 do GEM (Global Entrepreneurship Monitor) é conduzida no Brasil pelo Sebrae com a Anegepe (Associação Nacional de Estudos em Empreendedorismo e Gestão de Pequenas Empresas). Segundo o levantamento, 31,6% dos adultos brasileiros estão envolvidos em alguma atividade empreendedora. A pesquisa também mostra que, entre os empreendedores iniciais, a motivação de construir grande riqueza repetiu o recorde da série, com 69%. Para os próximos anos, o empresário trata como meta pessoal chegar a 100 CNPJs e a um patrimônio líquido acima de R$ 50 milhões. Os princípios que diz seguir são honestidade, cumprimento do que foi combinado, trabalho duro e inteligente, melhoria contínua (kaizen), Deus e família. Esta reportagem abre uma série de três textos sobre a trajetória e o modelo de gestão de Guilherme Matsu. Perguntas frequentes O que é a tese de carteira de empresas de Guilherme Matsu? A tese de carteira de empresas, defendida pelo multiempresário Guilherme Matsumoto, aplica à gestão de negócios a lógica de diversificação de uma carteira de investimentos. Ele reúne de 12 a 15 negócios principais sem correlação entre si, projeta R$ 6 milhões de faturamento no ano e estima o valor consolidado do portfólio em cerca de R$ 5,5 milhões. Quais são os pilares do método de Guilherme Matsu para abrir novos negócios? O método de Guilherme Matsumoto se apoia em três pilares. O primeiro são os sócios, com seleção, entrevistas e acordo societário. O segundo é o capital, com análise de viabilidade, cenários, prazo de retorno e ponto de equilíbrio. O terceiro são os processos administrativos, comerciais, de marketing e financeiros, com base em gestão enxuta. Quantas empresas brasileiras sobrevivem após cinco anos? De acordo com o IBGE, 37,9% das empresas empregadoras nascidas em 2017 seguiam em atividade cinco anos depois. O dado ajuda a explicar por que Matsumoto condiciona cada novo negócio a critérios de sociedade, análise de capital e processos definidos antes da abertura.",
+      "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/13/o-prodigio-da-matematica-que-monta-empresas-como-quem-diversifica-uma-carteira-1.ghtml",
+      "published": "2026-10-13T18:56:03+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Alta das recuperações judiciais no agro amplia atenção de bancos e credores às garantias",
+      "summary": "O avanço das recuperações judiciais no agronegócio brasileiro está ampliando a atenção de bancos, cooperativas de crédito, fornecedores de insumos e demais empresas que financiam a atividade rural para os riscos jurídicos envolvidos nessas operações. Em um setor marcado por financiamentos de alto valor, ciclos produtivos longos e exposição a fatores como clima, preços e produtividade, a proteção do credor começa muito antes de uma eventual inadimplência. Dados da Serasa Experian mostram que o agronegócio registrou 474 pedidos de recuperação judicial no primeiro trimestre de 2026, alta de 21,9% em relação aos 389 contabilizados no mesmo período de 2025. Entre produtores rurais que atuam como pessoa jurídica, foram 196 pedidos, crescimento de 73,5% em um ano. A inadimplência também avançou. No primeiro trimestre, 8,8% da população rural brasileira estava inadimplente, segundo a Serasa Experian, considerando dívidas vencidas há mais de 180 dias e contraídas com empresas ligadas ao agronegócio. O índice aumentou 1,2 ponto percentual em relação ao mesmo período de 2025. Para Marco Antonio Galera Mari, Sócio-Diretor da Galera Mari Advogados, com 40 anos de atuação, esse cenário aumenta a importância de uma análise jurídica criteriosa por parte de quem concede crédito ao setor, especialmente na definição das garantias e das condições que irão reger a operação. \"Quando se fala em crédito no agronegócio, a proteção do credor não começa quando ocorre o inadimplemento. Ela começa na estruturação da operação. É necessário entender quem está tomando o crédito, qual é o patrimônio envolvido, quais garantias efetivamente podem ser constituídas e executadas e como aquela obrigação se comportaria diante de uma eventual recuperação judicial. Um contrato mal estruturado pode limitar significativamente as possibilidades do credor mais adiante\", afirma. Essa avaliação pode envolver desde operações de financiamento bancário até concessão de crédito por cooperativas, tradings, distribuidores, revendas e fornecedores de insumos. Instrumentos como Cédulas de Produto Rural, alienação fiduciária, hipotecas, penhores, cessões de recebíveis e outras modalidades de garantia exigem análise não apenas documental, mas também da estrutura econômica e patrimonial da operação. Segundo Gerson da Silva Oliveira, Sócio-Diretor da Galera Mari Advogados, um dos principais desafios está em verificar se as garantias oferecidas correspondem, na prática, à segurança esperada pelo credor. \"Não basta constar uma garantia no contrato. É preciso verificar a titularidade do bem, eventuais gravames anteriores, registros, prioridade em relação a outros credores e as condições jurídicas para sua execução. No agro, também podem existir diferentes credores disputando o mesmo patrimônio ou recebíveis relacionados a uma safra. Por isso, a análise jurídica anterior à liberação dos recursos é fundamental\", explica Oliveira. A situação se torna ainda mais sensível diante de um pedido de recuperação judicial. Dependendo da natureza do crédito, da garantia constituída e da forma como a operação foi estruturada, o credor pode estar sujeito a diferentes regras dentro do processo, o que interfere diretamente nas possibilidades de recebimento e negociação. Além da análise inicial, os especialistas defendem o acompanhamento jurídico durante toda a vigência da operação. Alterações patrimoniais, novas dívidas, renegociações, substituição de garantias e mudanças na estrutura societária ou produtiva podem modificar o nível de exposição de uma instituição financeira ou empresa credora ao longo do tempo. Questões envolvendo imóveis rurais também exigem atenção. Titularidade, regularidade registral, arrendamentos, restrições ambientais e existência de outros ônus podem interferir no valor e na possibilidade de utilização de determinado ativo como garantia. O mesmo vale para estruturas empresariais ou familiares nas quais patrimônio pessoal, societário e produtivo se misturam. \"O credor precisa analisar a operação para além da capacidade de pagamento apresentada naquele momento. No agronegócio, o patrimônio, a produção e as garantias podem estar distribuídos entre pessoas físicas e jurídicas diferentes, empresas do mesmo grupo e integrantes de uma mesma família. Mapear essas relações antes da contratação reduz riscos e melhora a capacidade de reação caso surja uma dificuldade financeira\", afirma Galera Mari. Para os especialistas, a elevação das recuperações judiciais não significa que instituições financeiras e empresas devam restringir indiscriminadamente o crédito ao agronegócio, mas reforça a necessidade de operações mais estruturadas, com avaliação jurídica integrada à análise financeira. \"A concessão de crédito sempre envolve risco. O objetivo da advocacia preventiva não é eliminar esse risco, mas permitir que o credor saiba exatamente qual exposição está assumindo e quais mecanismos terá à disposição caso o cenário mude. Quanto mais cedo essa análise acontece, maiores são as possibilidades de estruturar garantias, estabelecer obrigações e preservar a posição jurídica do credor\", conclui Oliveira.",
+      "url": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/10/13/alta-das-recuperacoes-judiciais-no-agro-amplia-atencao-de-bancos-e-credores-as-garantias-1.ghtml",
+      "published": "2026-10-13T19:30:54+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Mendonça manda Lula apagar publicação que associa ‘tesouraço’ de Flávio Bolsonaro a cortes em programas sociais",
+      "summary": "O ministro André Mendonça, do Tribunal Superior Eleitoral (TSE), determinou a retirada de publicações do presidente Luiz Inácio Lula da Silva (PT) que associam a proposta de redução de gastos públicos defendida por Flávio Bolsonaro (PL), chamada de “tesouraço”, ao corte de programas sociais, como Farmácia Popular, Minha Casa, Minha Vida e Mais Médicos. A decisão atende parcialmente a um pedido da campanha do candidato do PL e estabelece prazo de três horas para a remoção dos conteúdos, sob pena de multa de R$ 10 mil. Na decisão, Mendonça considerou que a propaganda eleitoral extrapolou os limites da crítica política ao apresentar como consequência certa de uma eventual vitória de Flávio a extinção de benefícios sociais, sem apontar elementos concretos que sustentem essa afirmação. As publicações foram divulgadas em 6 de outubro nos perfis oficiais de Lula no X e no Instagram. O vídeo, de aproximadamente 55 segundos, afirma que o “tesouraço” defendido pelo adversário atingiria políticas públicas como o Farmácia Popular, o Minha Casa, Minha Vida, o Mais Médicos, o combate ao câncer, as cisternas, a merenda escolar e a prevenção de desastres. A propaganda também faz referência a decisões orçamentárias adotadas durante o governo do ex-presidente Jair Bolsonaro, pai de Flávio, e utiliza a expressão “se o pai fez isso, imagina o filho”. Ao analisar o caso, Mendonça afirmou que não identificou declarações ou propostas de Flávio Bolsonaro que sustentassem a afirmação de que ele pretende cortar esses programas. O ministro destacou que o plano de governo apresentado pelo candidato à Justiça Eleitoral prevê a manutenção e o aperfeiçoamento das políticas sociais. Na decisão, o ministro citou o plano de governo registrado por Bolsonaro no TSE, que prevê a manutenção e o aperfeiçoamento dessas políticas públicas, para justificar a retirada das publicações. Segundo a defesa de Flávio, o chamado “tesouraço” se refere à redução da estrutura administrativa do Estado, com cortes de ministérios, cargos comissionados, despesas administrativas, penduricalhos e supersalários, e não à eliminação de benefícios sociais. “O que não se mostra admissível, contudo, é converter a mera possibilidade de divergência entre promessas e futuras ações governamentais em afirmação categórica de que direitos e benefícios determinados serão suprimidos, sem a indicação de elemento concreto que sustente semelhante conclusão”, escreveu Mendonça. O ministro também afirmou que a propaganda apresenta um cenário de desamparo social, sugerindo que milhões de brasileiros perderiam direitos e instrumentos essenciais à subsistência caso Flávio fosse eleito. Para Mendonça, embora seja legítimo questionar a viabilidade de propostas eleitorais e apontar eventuais contradições entre promessas e posições anteriores dos candidatos, não é permitido atribuir a eles intenções que não estejam amparadas em elementos concretos. “A propaganda apresenta como consequência certa uma ameaça generalizada à continuidade de políticas sociais, sem apontar fundamento fático mínimo que autorize semelhante conclusão e em aparente contradição com compromissos expressos no plano de governo registrado nesta Corte”, afirmou o ministro do TSE. Apesar de determinar a remoção dos vídeos, Mendonça rejeitou, neste primeiro momento, o pedido da campanha de Flávio para estender automaticamente a ordem a outras publicações com conteúdo semelhante. O ministro também negou a solicitação para proibir preventivamente novas divulgações sobre o assunto. Segundo ele, uma determinação genérica poderia atingir manifestações legítimas de crítica política, protegidas pela liberdade de expressão.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/13/mendonca-manda-lula-apagar-publicacao-que-associa-tesouraco-de-flavio-bolsonaro-a-cortes-em-programas-sociais.ghtml",
+      "published": "2026-10-13T21:13:50+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
           "field": "lead",
           "score": 8,
           "topic": null
