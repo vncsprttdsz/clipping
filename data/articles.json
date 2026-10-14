@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T10:23:16.959620+00:00",
-  "count": 379,
-  "new_this_run": 58,
+  "generated_at": "2026-10-14T12:22:28.028798+00:00",
+  "count": 381,
+  "new_this_run": 71,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -2986,43 +2986,66 @@
       "score": 40.0
     },
     {
-      "title": "Reforma tributária: sistema de gestão virou obrigatório para a PME, mas não resolve sozinho",
-      "summary": "Na transição para o IBS e a CBS, um sistema de gestão atualizado deixou de ser luxo. Mas especialistas alertam que a tecnologia é só a ponta do problema",
-      "url": "https://exame.com/economia/reforma-tributaria-sistema-de-gestao-virou-obrigatorio-para-a-pme-mas-nao-resolve-sozinho",
-      "published": "2026-10-07T10:56:16+00:00",
-      "source": "https://exame.com/feed/",
+      "title": "Canetas emagrecedoras substituem caixa como principal alvo de roubos a farmácias em MT, diz sindicato",
+      "summary": "Canetas emagrecedoras substituem caixa como principal alvo de roubos a farmácias em MT, diz sindicato &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/14/canetas-emagrecedoras-substituem-caixa-como-principal-alvo-de-roubos-a-farmacias-em-mt-diz-sindicato.ghtml",
+      "published": "2026-10-14T11:07:06+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
-        "Economia"
+        "Farmácias"
       ],
       "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
+        "canetas emagrecedoras",
+        "farmácias"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
+          "sector": "Farmácias",
+          "alias": "farmácias",
           "field": "title",
           "score": 20,
-          "topic": "reforma_tributaria"
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
-      "score": 36.0
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa proíbe emagrecedores com tirzepatida e retatrutida sem registro",
+      "summary": "Anvisa proíbe emagrecedores com tirzepatida e retatrutida sem registro &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/anvisa-proibe-emagrecedores-com-tirzepatida-e-retatrutida-sem-registro",
+      "published": "2026-10-14T11:07:42+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "retatrutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "retatrutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
     },
     {
       "title": "O Refis da reforma tributária: a oportunidade para encerrar o passado",
@@ -3355,100 +3378,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Veto às bets pode liberar até R$ 40 bilhões por ano no orçamento das famílias",
-      "summary": "O veto às apostas online ?as chamadas bets?, anunciado pelo governo de Luiz Inácio Lula da Silva ( PT ) no último dia 25, pode liberar até cerca de R$ 40 bilhões por ano no orçamento das famílias. A estimativa leva em conta o montante da receita bruta obtido em um ano pelas empresas de apostas online até então autorizadas. Ou seja, o valor que foi perdido pelos apostadores. Leia mais (10/07/2026 - 08h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/veto-as-bets-pode-liberar-ate-r-40-bilhoes-por-ano-no-orcamento-das-familias.shtml",
-      "published": "2026-10-07T11:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Circulação de links de bets ilegais fica estável após veto de Lula, mostra levantamento",
-      "summary": "Nos dez primeiros dias após a proibição das apostas online , a circulação de links de plataformas clandestinas no WhatsApp e no Telegram não aumentou, resultado que contrasta com alegações de representantes do setor de que a medida poderia ampliar o mercado ilegal. Leia mais (10/07/2026 - 08h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/circulacao-de-links-de-bets-ilegais-fica-estavel-apos-veto-de-lula-mostra-levantamento.shtml",
-      "published": "2026-10-07T11:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online",
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Ex-funcionários da Casas Bahia pedem revisão da lista de credores trabalhistas",
-      "summary": "Um grupo de ex-funcionários da Casas Bahia pediu que a Justiça espere a empresa resolver as pendências apontadas pela perícia antes de decidir se aceita ou não a recuperação judicial da varejista. O pedido consta de uma resposta apresentada nesta terça-feira (6) ao laudo pericial. Leia mais (10/07/2026 - 09h02)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/ex-funcionarios-da-casas-bahia-pedem-revisao-da-lista-de-credores-trabalhistas.shtml",
-      "published": "2026-10-07T12:02:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "recuperação judicial"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperação judicial",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Escala 6x1: Flávio rebate Lula e diz que mais folga 'não adianta' com trabalhador endividado ou desempregado",
@@ -4139,6 +4068,37 @@
       "score": 28.0
     },
     {
+      "title": "Agenda do dia: Votação do fim da escala 6x1 e CPI nos EUA são destaque",
+      "summary": "Os investidores acompanham a pesquisa mensal de serviços de agosto no Brasil e a votação da proposta de emenda à Constituição (PEC) que acaba com a jornada de trabalho 6x1. No exterior, o mercado acompanha a divulgação do índice de preços ao consumidor (CPI, na sigla em inglês) de setembro nos Estados Unidos. Veja os destaques desta quarta-feira: IBGE divulga Pesquisa Mensal de Serviços de agosto - O Instituto Brasileiro de Geografia e Estatística (IBGE) informa, às 9h, a Pesquisa Mensal de Serviços (PMS) de agosto. Em julho de 2026, o volume de serviços no Brasil ficou estável (0,0%) frente ao mês imediatamente anterior, após ter registrado ligeira variação positiva (0,1%) em junho. Dessa forma, o setor de serviços se encontra 20,0% acima do nível de fevereiro de 2020 (pré-pandemia) e fica, em julho de 2026, 0,2% abaixo do topo da série histórica, alcançado em outubro de 2025. Frente a julho de 2025, o volume de serviços cresceu 0,9%, seu 28º resultado positivo consecutivo. O acumulado de janeiro a julho deste ano foi de 1,9%, frente a igual período de 2025. O acumulado nos últimos doze meses foi a 2,4%, reduzindo o ritmo de expansão observado em junho (2,6%). CNI divulga confiança do empresário industrial (Icei) de outubro – A Confederação Nacional da Indústria (CNI) publica, às 10h, o Índice de Confiança do Empresário Industrial (Icei) de outubro. O Icei caiu de 46,3 pontos em agosto para 44,9 pontos em setembro, permanecendo abaixo da linha de 50 pontos, que separa confiança de falta de confiança. Com o resultado, a indústria brasileira acumula 21 meses consecutivos sem registro de confiança empresarial. A deterioração foi motivada tanto por uma avaliação mais negativa das condições atuais quanto pela piora das expectativas para os próximos seis meses. BC anuncia fluxo cambial semanal - O Banco Central divulga às 14h30 o fluxo cambial semanal (até 9 de outubro). O fluxo cambial brasileiro em setembro registrou saída acumulada de US$ 5,090 bilhões, na maior evasão de capital para este mês do ano desde 2019, quando o fluxo ficou negativo em US$ 6,44 bilhões. O saldo de setembro foi resultado da conta financeira negativa em US$ 7,371 bilhões e da conta comercial positiva de US$ 2,281 bilhões. Na última semana, de 28 de setembro a 2 de outubro, o fluxo cambial registrou saída tímida de US$ 267 milhões, resultado da evasão de US$ 2,788 bilhões pela conta financeira e do ingresso de US$ 2,521 bilhões pela conta comercial. Vice de supervisão do Fed discursa em eventos - A vice-presidente para supervisão do Federal Reserve, Michelle Bowman (vota no Fomc), profere discurso em evento às 6h40 e às 23h55 (de Brasília). MBA publica pedidos de hipotecas nos EUA na semana – A associação de bancos hipotecários (MBA, na sigla em inglês) mostra, às 8h (de Brasília), o número de pedidos de hipotecas nos EUA na semana até 9 de outubro. Na semana anterior, houve baixa de 4,2%. Sem estimativas. EUA noticiam inflação ao consumidor de setembro - O Departamento de Estatísticas do Trabalho (BLS) dos EUA noticia, às 9h30 (de Brasília), o índice de preços ao consumidor (CPI) de setembro. Em agosto, o índice cheio subiu 0,4% na margem e 3,4% em bases anuais; o núcleo do índice variou 0,3% na margem e subiu 2,4% ao ano. As estimativas para o núcleo são de 0,2% (margem) e 2,5% (ano) e para o índice cheio de 0,6% (margem) e 3,6% (ano). Presidente do Fed de Richmond discursa em evento - O presidente do Federal Reserve (Fed) de Richmond, Tom Barkin (não vota no Fomc este ano), discursa às 14h30 (de Brasília). Federal Reserve divulga Livro Bege — O Federal Reserve comunica, às 15h (de Brasília), o \"Livro Bege\", um sumário das condições econômicas atuais que servirá de base para as discussões de política monetária no encontro programado para os dias 27 e 28 de outubro. API divulga estoques de petróleo bruto nos EUA na semana - O Instituto Americano de Petróleo (API) divulga, às 17h30 (de Brasília), os dados de estoques de petróleo bruto nos EUA na semana até 9 de outubro. Na semana anterior, os estoques recuaram em 2,09 milhões de barris. Japão publica encomendas de máquinas em agosto – O Japão divulga, às 20h50 (de Brasília), dados sobre encomendas de máquinas no país em agosto. No mês anterior, as encomendas aumentaram 11,2% em bases anuais e a estimativa é de alta de 15,7%. Na comparação mensal, os pedidos diminuíram 3,7%, com expectativa de alta de 3%. Lula assina regulamentação de jogos eletrônicos - O presidente Luiz Inácio Lula da Silva assina, às 12h, decreto que regulamenta o Marco Legal da Indústria de Jogos Eletrônicos. Senado deve votar PEC do fim da escala 6x1 - A proposta de emenda à Constituição (PEC) que acaba com a jornada de trabalho 6x1 terá a quinta e última sessão regimental em primeiro turno. Se a quebra de interstícios for aprovada, há a possibilidade de a PEC ter os dois turnos de votação concluídos ainda nesta quarta. CCJ do Senado pode concluir votação da PEC da Segurança Pública - A Comissão de Constituição e Justiça (CCJ) do Senado pode concluir, em sessão a partir de 9h, a votação da chamada PEC da Segurança Pública, a proposta de emenda à Constituição que cria o Sistema Único de Segurança Pública (Susp) e o Sistema de Políticas Penais. Após aprovar o texto-base da PEC 18/2025, em setembro, a CCJ deve analisar os destaques apresentados à proposta. Também estão na pauta dois projetos que alteram o Código de Trânsito Brasileiro (CTB), com medidas para aumentar as penas de motoristas que provocarem acidentes sob efeito de álcool ou drogas e tornar obrigatória a realização do teste do bafômetro ou exame clínico em determinadas situações. Câmara vota projeto de resolução bancária - A Câmara dos Deputados realiza sessão às 13h55. Um dos projetos que consta na pauta é o PLP 281/2019, que dispõe sobre os regimes de resolução das instituições autorizadas a funcionar pelo Banco Central do Brasil, pela Superintendência de Seguros Privados e pela Comissão de Valores Mobiliários. O projeto de Resolução Bancária já entrou na pauta em outros momentos neste ano, mas não foi possível avançar em uma convergência. Os deputados também devem votar itens remanescentes da sessão desta terça-feira. Durigan participa de evento da Receita Federal e recebe deputado - O ministro da Fazenda, Dario Durigan, participa, às 9h, da abertura oficial do IV Congresso de Direito Tributário e Aduaneiro da Receita Federal. Às 10h, terá reunião com o deputado federal Otoni de Paula (PSD/RJ). Galípolo terá despachos internos em Brasília - O presidente do Banco Central (BC), Gabriel Galípolo, terá despachos internos em Brasília. Diretor do BC terá reunião com diretora da Susep - A diretora de Cidadania e Supervisão de Conduta do Banco Central, Izabela Moreira Correa, terá reunião com a diretora de Consumidor da Superintendência de Seguros Privados (Susep), Júlia Normande Lins, às 11h, em Brasília. O diretor de Assuntos Internacionais e de Gestão de Riscos Corporativos, Paulo Picchetti, participará de compromissos institucionais em Bangcoc, na Tailândia. Às 10h30 (horário local) terá reunião com a head of the Markets Group at the Federal Reserve Bank de Nova York, Anna Nordstrom. O diretor participará das reuniões anuais do Fundo Monetário Nacional (FMI) em dois horários: às 11h e às 16h. Picchetti encontra-se com Philip Jefferson, vice chair of the Board of Governors at the Federal Reserve System, às 14h. Também terá reunião com Michael Barr, board of Governors at the Federal Reserve Board (FRB), às 18h. Às 19h, o diretor participará de recepção promovida pelo FRB. Os demais diretores terão despachos internos em Brasília. Mercadante terá despachos internos - O presidente do BNDES, Aloizio Mercadante, estará no Rio de Janeiro em agenda de reuniões e despachos internos. Unsplash",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/14/agenda-do-dia-votacao-do-fim-da-escala-6x1-e-cpi-nos-eua-sao-destaque.ghtml",
+      "published": "2026-10-14T10:50:29+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "A que nível chegamos no business para pets: time de provadores de rações e petiscos têm quatro patas e paladares exigentes",
       "summary": "Imagine dezenas de gatos cochilando ou perambulando por um espaço que se parece muito com uma creche para animais de estimação. Todos os dias, às 16h, é servido o jantar. Os gatos entram em pequenos compartimentos, cada um com duas bandejas de ração seca colocadas sobre balanças. Os gatos escolhem qual alimento preferem, e as balanças medem quanto eles consomem. Petz Cobasi: ‘Pretendemos investir fortemente em serviços’, diz CEO Tudo pelo cliente: De pets a recargas de carros elétricos Nutricionistas de um centro da Royal Canin no sul da França observam atentamente: qual ração os animais preferem? Com que entusiasmo eles comem? Uma equipe utiliza esses dados para ajustar receitas e desenvolver novas fórmulas. Fabricantes de alimentos para animais, como a Royal Canin, pertencente ao conglomerado global de produtos de consumo Mars, estão investindo grandes quantias em pesquisas para entender o paladar de gatos e cães — e para atender às pessoas que consideram seus animais de estimação membros da família. Mesmo com a guerra no Irã provocando inflação e o crescimento dos salários não acompanhando esse ritmo, o mercado de alimentos para animais de estimação continua crescendo. E, à medida que os animais adotados em massa durante a pandemia, em 2020, chegam à meia-idade, os fabricantes de alimentos para pets estão concentrando seus esforços em produtos destinados a ajudar nas articulações doloridas, fortalecer músculos cansados e proteger a função cognitiva. — O envelhecimento é uma das maiores oportunidades — disse Cécile Coutens, presidente da Royal Canin. Cécile Coutens, presidente da Royal Canin, na sede da empresa em Aimargues, França. Ela é a primeira mulher a liderar a companhia Mathias Depardon/The New York Times A linha de alimentos para gatos idosos da empresa inclui uma mousse extramacia para gatos com 11 anos ou mais e uma ração seca fácil de mastigar para gatos a partir dos 15 anos. Muitas empresas vendem suplementos para gatos com demência e para ajudar a manter a saúde cerebral durante o envelhecimento. Da mesa das pessoas ao pote dos pets: A virada da comida à base de insetos A inflação elevou os preços da ração convencional (chamada de “croquettes” em francês). E, ainda assim, as opções nas prateleiras de alimentos para cães e gatos ficaram mais caras e especializadas, com marcas vendendo alimentos frescos de qualidade adequada para consumo humano. Estudos mostram que as pessoas reduzem seus próprios gastos antes de cortar despesas com seus animais de estimação. No ano passado, a Purina lançou um prato de “pedaços macios em uma elegante geleia”, em formato de pirâmide, para incentivar os gatos a dar mordidas maiores. Gatos aguardam a hora de testar as rações no centro de pesquisas da Royal Canin em Aimargues, França Mathias Depardon/The New York Times Mais de US$ 17 bilhões foram gastos com alimentos para gatos nos Estados Unidos no último ano, um aumento de 14% em relação ao mesmo período de dois anos atrás, segundo a NielsenIQ, empresa de pesquisa de mercado. As vendas de alimentos para cães ficaram praticamente estáveis. Diferentemente das gerações anteriores, quando os pais acolhiam animais de estimação a pedido dos filhos, hoje as pessoas muitas vezes têm animais antes de ter filhos — se é que têm filhos —, disse Coutens. Alimento para gatos aguarda teste de paladar no centro de pesquisas da fabricante Royal Canin em Aimargues, França. Nutricionistas do local observam quais grãos os gatos preferem e ajustam as receitas de acordo com essas preferências Mathias Depardon/The New York Times As empresas estão investindo em linhas premium de alimentos para animais que atendem aos consumidores mais ricos, enquanto a economia em formato de K — expressão usada para descrever o aumento da distância entre ricos e pobres — persiste. O luxo dos pets: Entenda como o mercado premium revela a nova relação entre tutores e animais Embora, em alguns aspectos, os gatos exijam menos cuidados do que os cães, eles costumam exigir uma dose maior de criatividade humana quando o assunto é alimentação. “Nós gostamos muito dos gatos porque eles também são mais exigentes para comer, de certa forma. Portanto, é preciso mais ciência e tecnologia para conseguir atender a essas exigências com sucesso”, disse Philipp Navratil, CEO da Nestlé, em uma conferência em junho. Nos últimos anos, os gatos passaram a ser adotados em taxas mais altas do que os cães, à medida que as pessoas passam mais tempo no escritório. Cães com um especialista em comportamento animal no centro de pesquisas da Royal Canin em Aimargues, França. Nos últimos anos, gatos têm sido adotados em taxas mais altas do que cães, à medida que as pessoas passam mais tempo no escritório Mathias Depardon/The New York Times Assim como a Nestlé, que possui dois centros onde pesquisadores estudam o comportamento de gatos e cães, a Royal Canin mantém um extenso programa de pesquisa dedicado a esses animais. No centro de pesquisa da Royal Canin em Aimargues, apenas os animais mais exigentes entre os 377 cães e gatos que vivem no local participam dos testes de palatabilidade. Efeito da pandemia: Empresas abrem as portas para animais de estimação e criam até 'licença-PETernidade' O outro centro da empresa fica em Ohio. Como parte do treinamento, os filhotes de gato recebem alimentos de diferentes texturas e sabores para desenvolver seus sentidos. Aos 7 meses, eles são ensinados a comer em comedouros específicos. Cães que comem praticamente qualquer coisa, como os labradores, não são selecionados, disse Silvia Miret-Catalan, vice-presidente de pesquisa e desenvolvimento da Royal Canin. Um funcionário com um Labrador Retriever no centro de pesquisa da Royal Canin em Aimargues, França. Apenas os animais mais exigentes entre os 377 cães e gatos que vivem no complexo participam dos testes de paladar. Cães que comem quase qualquer coisa, como os Labradores, não são selecionados Mathias Depardon/The New York Times No centro da Royal Canin, uma equipe monitora o comportamento dos animais depois do café da manhã e do jantar. Os gatos e cães parecem mais apáticos do que o habitual? Estão brincalhões? Como está a qualidade das fezes, em uma escala de 1 a 10? — A pontuação mais baixa será dada à diarreia — disse Yannick Soulard, que trabalha na área de inovação. Em seguida, as fezes são secas e analisadas para determinar como o alimento é digerido, explicou. Quando os cães e gatos completam 7 anos, os funcionários podem adotá-los. Há uma longa lista de espera, e os funcionários que criaram um vínculo com determinados animais têm prioridade. O sabor é um dos principais focos. Scott McGrane, especialista em felinos do Waltham Petcare Science Institute, da Mars, na Inglaterra, disse que sua equipe estava especialmente interessada em compreender os sentidos e os sabores percebidos pelos gatos, inclusive os mais velhos. Por que eles não demonstravam preferência por alimentos doces? Por que gostam tanto de atum? Ele disse que os pesquisadores descobriram que os gatos possuem o receptor gustativo do umami, que lhes permite sentir e detectar compostos umami. O atum tem uma combinação única de compostos que, para os gatos, equivale a uma espécie de “superumami”, explicou. Uma estátua do fundador da empresa, Jean Cathary, na sede global da Royal Canin em Aimargues, França. Cathary fundou a Royal Canin em 1968, após criar uma receita de ração para cães à base de cereais em sua garagem para tratar problemas de saúde dos animais Mathias Depardon/The New York Times À medida que envelhecem, alguns dos receptores gustativos dos gatos desaparecem, mas eles mantêm a capacidade de perceber o sabor amargo, o que faz com que certos alimentos se tornem menos atraentes, disse Miret-Catalan. Sua equipe desenvolve alimentos para gatos idosos que mascaram o amargor e intensificam aromas atraentes, para manter o interesse dos animais pela comida à medida que envelhecem, explicou. A Mars provavelmente é mais conhecida por fabricar Snickers, M&amp;M’s e Skittles do que por seus produtos para animais de estimação. Embora tenha adquirido a Royal Canin em 2002, a empresa entrou no mercado de alimentos para animais quase um século atrás. Naquela época, as pessoas alimentavam seus cães principalmente com restos de comida da mesa. Nas últimas décadas, a Mars adquiriu milhares de hospitais e clínicas veterinárias. A empresa é proprietária de 6% de todos os estabelecimentos veterinários dos Estados Unidos, segundo a KPMG. É a maior fornecedora de alimentos para animais de estimação nos Estados Unidos e no mundo. A fábrica na sede global da Royal Canin em Aimargues, França. A fabricante de alimentos para animais de estimação, pertencente à Mars, está investindo pesado em pesquisas para entender o paladar de gatos e cães Mathias Depardon/The New York Times Cathy Bedrick, sócia da KPMG que assessora clientes de private equity, disse que as empresas que possuem clínicas veterinárias esperam ter mais negócios nos próximos anos, à medida que a população mundial de animais de estimação envelhece rapidamente. O cachorro de Bedrick faz sessões semanais de acupuntura para tratar a rigidez na coluna. Dentro da fábrica da Royal Canin, depois de uma parede repleta de fotos emolduradas de enormes pedaços de ração, há gigantescos tambores de aço onde milho, frango, trigo e outros ingredientes são misturados. A fábrica produz 146 tipos de ração seca entre os quais os donos de animais podem escolher. Em uma tarde recente, a Royal Canin reproduziu um teste para mim e para meu colega fotógrafo, em um local ensolarado sob uma árvore. Observei Willow, uma gata Ragdoll de 2 anos, comer da Bandeja A, depois da Bandeja B e, em seguida, novamente da Bandeja A. O que significava sua indecisão? Um representante da Royal Canin admitiu que não se tratava de um verdadeiro teste A/B: as bandejas continham a mesma comida, uma diferença em relação ao procedimento habitual. Willow não se incomodou. Terminou as duas porções e foi embora.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/12/a-que-nivel-chegamos-no-business-para-pets-time-de-provadores-de-racoes-e-petiscos-tem-quatro-patas-e-paladares-exigentes.ghtml",
@@ -4212,6 +4172,45 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
+      "title": "Falta de paridade na Cnica fragiliza o contencioso da reforma",
+      "summary": "A promessa central da reforma tributária sempre foi a simplificação. Ao substituir uma teia caótica de impostos e contribuições sobre o consumo por dois tributos gêmeos, IBS e CBS (o primeiro federal e o segundo compartilhado entre Estados e municípios), prometeu-se maior previsibilidade, menos litígio e mais segurança para quem produz, investe e contrata. Mas a engenharia institucional do novo sistema criou um elemento capaz de comprometer parcela dessas promessas. A Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS (Cnica), criada pela Lei Complementar nº 227/2026 para dar a última palavra na discussão administrativa de controvérsias comuns aos dois tributos, nasce com um vício de origem: a ausência de paridade entre representantes do Fisco e dos contribuintes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/legislacao/coluna/falta-de-paridade-na-cnica-fragiliza-o-contencioso-da-reforma.ghtml",
+      "published": "2026-10-13T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 24.0
@@ -4404,29 +4403,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Revolut faz do Brasil seu “laboratório de crédito” para o mundo",
-      "summary": "A Revolut chegou ao Brasil inicialmente para oferecer uma conta global aos brasileiros. Agora, a operação local vê espaço para fazer o caminho inverso e desenvolver produtos que ajudem a fintech britânica a crescer no exterior. A principal oportunidade está em um negócio que os bancos brasileiros conhecem bem, mas que ainda ocupa pouco espaço [&#8230;] O post Revolut faz do Brasil seu &#8220;laboratório de crédito&#8221; para o mundo apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/wealth-management/revolut-faz-do-brasil-seu-laboratorio-de-credito-para-o-mundo",
-      "published": "2026-10-07T10:56:54+00:00",
-      "source": "https://neofeed.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "revolut"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Família bilionária da C&A nomeia membro da 6ª geração para liderar império de 185 anos",
@@ -8454,98 +8430,6 @@
       "score": 20.0
     },
     {
-      "title": "Votação do fim da escala 6x1: o que falta para a aprovação?",
-      "summary": "Proposta reduz jornada de 44 para 40 horas semanais, garante dois dias de folga e impede corte salarial; votação pode ocorrer nesta quarta",
-      "url": "https://exame.com/brasil/votacao-do-fim-da-escala-6x1-o-que-falta-para-a-aprovacao",
-      "published": "2026-10-14T06:48:42+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Empresários 'modernos' e de 'cabeça arejada' já acabaram com escala 6x1, diz ministro do Trabalho",
-      "summary": "O ministro do Trabalho e Emprego, Luiz Marinho , chamou de \"absurdo\" manter uma escala na qual os trabalhadores têm apenas uma folga por semana e afirmou que a jornada 6x1 precisa acabar. Segundo ele, empresas que adotaram o modelo 5x2 conseguiram reduzir faltas e melhorar as contratações. Leia mais (10/14/2026 - 04h00)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/empresarios-modernos-e-de-cabeca-arejada-ja-acabaram-com-escala-6x1-diz-ministro-do-trabalho.shtml",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Governo prepara decreto para regulamentar o fim da escala 6x1",
-      "summary": "Com o avanço no Senado da proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 — seis dias de trabalho para um de descanso —, o governo prepara um decreto para regulamentar as novas regras. Entre os pontos, será fixado um divisor para calcular o valor da hora dos trabalhadores no regime intermitente, criado pela reforma trabalhista. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/14/governo-prepara-decreto-para-regulamentar-o-fim-da-escala-6x1.ghtml",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "A moeda de troca de Alcolumbre na busca de votos a favor do fim da escala 6x1",
-      "summary": "Na busca de angariar votos para aprovar a PEC que coloca fim à escala 6x1, o presidente do Senado, Davi Alcolumbre (União-AP), tem negociado gabinetes para a próxima legislatura. Também entraram nas tratativas apartamentos funcionais. O relato foi feito por senadores de diferentes partidos à coluna. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/bela-megale/post/2026/10/a-moeda-de-troca-de-alcolumbre-na-busca-de-votos-a-favor-do-fim-da-escala-6x1.ghtml",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Pacientes relatam demora da Anvisa na liberação de medicamentos importados; agência alega alta demanda",
       "summary": "Pacientes relatam demora da Anvisa na liberação de medicamentos importados; agência alega alta demanda &nbsp;&nbsp; Folha de S.Paulo",
       "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/10/pacientes-relatam-demora-da-anvisa-na-liberacao-de-medicamentos-importados-agencia-alega-alta-demanda.shtml",
@@ -8564,29 +8448,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Flávio Bolsonaro passa a apoiar PEC da escala 6x1; Senado vota texto nesta quarta",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/politica/noticia/2026/10/14/flavio-bolsonaro-passa-a-apoiar-pec-da-escala-6x1-senado-vota-texto-nesta-quarta.ghtml",
-      "published": "2026-10-14T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -8615,11 +8476,11 @@
       "score": 20.0
     },
     {
-      "title": "A escala 6x1 deve ser votada hoje. Você já fez a conta?",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/camila-farani/a-escala-6x1-deve-ser-votada-hoje-voce-ja-fez-a-conta",
-      "published": "2026-10-14T08:30:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
+      "title": "Fim da escala 6x1 vai reduzir o salário? Entenda a proposta",
+      "summary": "Proposta estabelece transição gradual para a jornada de 40 horas e proíbe a redução dos salários, inclusive dos pisos das categorias",
+      "url": "https://exame.com/brasil/fim-da-escala-6x1-vai-reduzir-o-salario-entenda-a-proposta",
+      "published": "2026-10-14T08:56:39+00:00",
+      "source": "https://exame.com/feed/",
       "matched_sectors": [
         "Economia"
       ],
@@ -8633,6 +8494,167 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Na Riachuelo, funcionários criam IAs sem saber programar — e liberam 3.600 horas de trabalho",
+      "summary": "Programa interno da varejista capacita colaboradores de áreas como RH a desenvolverem ferramentas de IA em poucos dias, mirando eficiência e milhões em economia",
+      "url": "https://exame.com/inteligencia-artificial/na-riachuelo-funcionarios-criam-ias-sem-saber-programar-e-liberam-3-600-horas-de-trabalho",
+      "published": "2026-10-14T09:01:07+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "riachuelo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "riachuelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fim da escala 6x1: Líder do governo no Senado apresenta requerimento e tenta acelerar votação de bandeira eleitoral de Lula",
+      "summary": "A líder do governo no Senado, Teresa Leitão (PT-PE), apresentou à Mesa Diretora, nesta quarta-feira, um requerimento com apoio de partidos e blocos que representam 56 senadores para tentar votar, ainda nesta quarta-feira, os dois turnos da Proposta de Emenda à Constituição (PEC) que acaba com a escala de trabalho 6x1. A iniciativa busca acelerar a tramitação da medida, uma das principais bandeiras eleitorais do presidente Luiz Inácio Lula da Silva (PT), e permitir sua promulgação antes do segundo turno da eleição presidencial, marcado para 25 de outubro. Da 'carga de hipocrisia' ao 'vou votar a favor': Entenda como e por que Flávio mudou discurso sobre o fim da escala 6x1 Entenda: O que acontece se o Senado aprovar ou se rejeitar a proposta que põe fim à escala 6x1 nesta quarta-feira Segundo Teresa, o requerimento conta com o apoio de nove partidos e três blocos parlamentares, que representam 56 senadores, número superior ao exigido para sua apresentação. O pedido prevê a adoção de um calendário especial, que permitiria dispensar as sessões de discussão entre os dois turnos e concluir a análise da proposta no mesmo dia. Para isso, o requerimento ainda precisa ser aprovado pelo plenário. Na justificativa para o avanço da proposta, a líder do governo argumentou que a legislação trabalhista deve assegurar garantias que não dependam exclusivamente da negociação entre empregados e empregadores. Teresa citou direitos como férias remuneradas, décimo terceiro salário e descanso semanal para defender a redução da jornada. — Há direitos que não podem depender exclusivamente da capacidade de negociação de cada trabalhador. Por essa razão, a legislação brasileira estabeleceu, ao longo de sua história, garantias como as férias remuneradas, o 13º salário, o descanso semanal e os limites da jornada de trabalho — afirmou a senadora. Fim da escala 6x1 no plenário do Senado: Entenda o que diz o texto e a regra de transição A movimentação ocorre um dia depois de Flávio Bolsonaro (PL), adversário de Lula no segundo turno, anunciar que votará a favor da PEC, após semanas de críticas à iniciativa. O candidato vinha classificando a votação às vésperas da eleição como oportunista e defendendo uma alternativa baseada na flexibilização da jornada de trabalho. — A maioria dos trabalhadores brasileiros quer o fim da escala 6x1. Então, eu vou votar a favor do fim da 6x1. Só que a gente defende algo ainda melhor — afirmou Flávio, após visitar o pai, o ex-presidente Jair Bolsonaro, em Brasília. Apesar da mudança de posição, Flávio manteve a defesa de um modelo que permita aos trabalhadores negociar seus horários e afirmou que o governo deveria compensar financeiramente as empresas pelos custos da redução da carga horária. No plenário do Senado Federal: Quantos votos são necessários para aprovar a PEC do fim da escala 6x1? Entenda o projeto E a votação nesta quarta-feira ainda depende de um acordo sobre o calendário. Parlamentares da oposição defendem o cumprimento dos prazos regimentais e sustentam que o entendimento firmado até agora contempla apenas a votação em primeiro turno. Na semana passada, o senador Rogério Marinho (PL-RN), coordenador da campanha de Flávio, cobrou do presidente do Senado, Davi Alcolumbre (União Brasil-AP), o respeito ao intervalo entre as votações. Apesar da resistência, interlocutores de Alcolumbre afirmam que a expectativa é de que a proposta seja votada nos dois turnos ainda nesta quarta-feira. Reação: Lula atribui à ‘pressão da sociedade’ mudança de tom de Flávio Bolsonaro sobre fim da escala 6x1 O texto substitui a jornada de seis de dias de trabalho e um de folga por semana por uma carga horária de cinco de dias e dois de descanso, sem redução de salário. A jornada semanal de 44 horas cai para 42 horas em 60 dias após a promulgação da Emenda Constitucional e um ano depois, para 40 horas. A PEC foi aprovada pela Câmara dos Deputados no final de maio e pela Comissão de Constituição e Justiça (CCJ) do Senado no início de setembro. No plenário do Senado, foram realizadas quatro sessões de discussão sobre o tema de um total de cinco para que o tema seja apreciado pela Casa. Para que a PEC seja aprovada, são necessários 49 dos 81 votos (três quintos). Na sessão semipresencial dessa terça-feira, 71 senadores marcaram presença de um total de 81 Para ser aprovada, precisa receber pelo menos 49 votos favoráveis em cada um dos dois turnos de votação no Senado. Caso a análise seja concluída, o texto poderá ser promulgado, sem necessidade de sanção presidencial, desde que tenha sido aprovado pela Câmara com o mesmo conteúdo.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/14/fim-da-escala-6x1-lider-do-governo-lula-no-senado-apresenta-requerimento-para-acelerar-votacao.ghtml",
+      "published": "2026-10-14T11:01:06+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Na TV, propaganda de Lula diz que só ele garante fim da escala 6x1",
+      "summary": "A propaganda de TV do presidente Luiz Inácio Lula da Silva ( PT ) que vai ao ar nesta quarta-feira (14) explora o tema do fim da escala 6x1 , um dos grandes trunfos da campanha petista, que deve ser votado pelo Senado. Leia mais (10/14/2026 - 08h17)",
+      "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/na-tv-propaganda-de-lula-diz-que-so-ele-garante-fim-da-escala-6x1.shtml",
+      "published": "2026-10-14T11:17:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Manhã no mercado: Inflação nos EUA, votação do fim da escala 6x1 e pesquisa eleitoral concentram atenções",
+      "summary": "A atenção dos investidores deve se dividir nesta quarta-feira entre os dados de inflação dos Estados Unidos e o quadro eleitoral no Brasil. O índice de preços ao consumidor (CPI) americano pode consolidar as apostas de manutenção dos juros no país neste mês e deixar a porta aberta na próxima reunião, em dezembro. Por aqui, a votação do fim da escala 6x1 no Senado será observada com atenção, ainda mais a poucos dias do segundo turno da eleição presidencial, enquanto a pesquisa Quaest, a ser divulgada após o fechamento dos mercados, pode mostrar uma recuperação da candidatura do presidente Lula (PT). No exterior, os rendimentos dos Treasuries recuam, apesar do avanço dos preços do petróleo no exterior, à espera dos dados de inflação de setembro. Os discursos de dirigentes do Federal Reserve (Fed), que apontaram para apenas uma alta de 0,25 ponto percentual neste ano, ajudam a amenizar a queda nos preços dos títulos do Tesouro americano. A mediana das projeções dos economistas consultados pelo Wall Street Journal aponta para uma alta de 0,6% do CPI, ante avanço de 0,4% em agosto. Em 12 meses, a expectativa é de aceleração de 3,4% para 3,6%. Para o núcleo, que exclui alimentos e energia, a previsão é de alta mensal de 0,2%, após 0,3% em agosto, e de avanço de 2,5% em 12 meses, ante 2,4%. Por volta das 8h, o rendimento dos Treasuries de dez anos cedia de 5,222% para 5,210%, ao passo que o de 30 anos operava estável a 5,56%. O petróleo Brent com entrega em dezembro avançava 0,84%, a US$ 106,57. Em Wall Street, o futuro do S&amp;P 500 ganhava 0,21%, ao passo que o do Nasdaq cedia 0,13%. No Brasil, a votação do fim da escala 6x1 concentra as atenções. Segundo apurou o Valor, a campanha do presidente Lula (PT) vai focar na mudança de postura do senador Flávio Bolsonaro (PL) sobre a proposta. Antes, ele dizia que a PEC era \"oportunista\", por ser apresentada às vésperas das eleições. Nesta terça, o presidenciável recuou e se declarou a favor da medida à qual, antes, o partido se dizia contrário. Flávio afirmou ainda que defende uma \"jornada flexível\" na qual, segundo ele, o empregado poderia negociar com o empregador para chegar a um acordo sobre as condições de trabalho. Ainda na agenda local, o volume de volume de serviços prestados no país será divulgado nesta manhã. Segundo as projeções coletadas pelo VALOR DATA, o indicador deve ter crescido 0,4% em agosto ante o mês anterior, com ajuste sazonal. As estimativas recolhidas variam de -0,5% a +1,3%.",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/14/manha-no-mercado-inflacao-nos-eua-votacao-do-fim-da-escala-6x1-e-pesquisa-eleitoral-concentram-atencoes.ghtml",
+      "published": "2026-10-14T11:21:49+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inflação americana, fim da escala 6x1 e pesquisa eleitoral dominam atenções",
+      "summary": "Inflação americana, fim da escala 6x1 e pesquisa eleitoral dominam atenções Índice de preços ao consumidor (CPI) americano pode consolidar as apostas de manutenção dos juros no país neste mês e deixar a porta aberta na próxima reunião, em dezembro Manhã no mercado: Inflação nos EUA, votação do fim da escala 6x1 e pesquisa eleitoral concentram atenções",
+      "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+      "published": "2026-10-14T11:24:12+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Galderma compra ZO Skin Health por US$ 1,5 bi  para reforçar linha premium de skincare",
+      "summary": "A Galderma fechou a aquisição da fabricante de dermocosméticos norte-americana ZO Skin Health por US$ 1,5 bilhão, incluindo dívidas, em transação que transfere o controle detido pela gestora Blackstone, pela família fundadora Obagi e por acionistas minoritários. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/14/galderma-compra-zo-skin-health-por-us-15-bi-para-reforar-linha-premium-de-skincare.ghtml",
+      "published": "2026-10-14T11:57:08+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Luxo discreto: conheça as marcas que buscam transformar sofisticação em exclusividade",
+      "summary": "Luxo discreto: conheça as marcas que buscam transformar sofisticação em exclusividade &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/estilo-de-vida/luxo-discreto-conheca-as-marcas-que-buscam-transformar-sofisticacao-em-exclusividade",
+      "published": "2026-10-14T11:59:17+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxo"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
@@ -9091,75 +9113,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Weaning Markets Off Fed Speak",
-      "summary": "The Best Apple and Tech Deals from Amazon’s Prime Big Deal Days",
-      "url": "https://www.wsj.com/finance/investing/weaning-markets-off-fed-speak-8c93b387?mod=rss_markets_main",
-      "published": "2026-10-07T10:25:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Shake Shack e pratos coreanos: a nova aposta da Bold (dona do Outback) para faturar R$ 3,5 bilhões",
-      "summary": "Bold Hospitality Company vai abrir ao menos 40 lojas do empresa americana no Brasil e fecha parceria com a Sephora em campanha inspirada na cultura sul-coreana",
-      "url": "https://exame.com/negocios/shake-shack-e-pratos-coreanos-a-nova-aposta-da-bold-dona-do-outback-para-faturar-r-35-bilhoes",
-      "published": "2026-10-07T10:46:41+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "sephora"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "sephora",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Frasers compra fatia de 8,8% na Under Armour",
-      "summary": "O Frasers Group comprou uma participação na fabricante americana de artigos esportivos Under Armour, em mais um desdobramento da série de operações que compõem a estratégia de expansão da varejista britânica. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/07/frasers-compra-fatia-de-88percent-na-under-armour.ghtml",
-      "published": "2026-10-07T12:07:24+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "artigos esportivos"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "artigos esportivos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Agrolend Day debate crédito e futuro da distribuição",
@@ -10488,6 +10441,98 @@
         {
           "sector": "Economia",
           "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Ela criou um salão de beleza para quem vive atrasada — e construiu um negócio de R$ 30 milhões",
+      "summary": "Aberto em 2018, o Stylebar oferece serviços rápidos de beleza, como escova, maquiagem e manicure, sem corte ou procedimentos químicos, e aposta em novos formatos de franquia e na expansão para outras regiões do país",
+      "url": "https://exame.com/negocios/ela-criou-um-salao-de-beleza-para-quem-vive-atrasada-e-construiu-um-negocio-de-r-30-milhoes",
+      "published": "2026-10-14T08:01:12+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Profissionais pioneiros no uso de IA relatam mais burnout e sobrecarga, diz pesquisa",
+      "summary": "A inteligência artificial (IA) amplia a capacidade de produção dos trabalhadores, mas também pode intensificar a sobrecarga profissional. É o que aponta o \"Panorama do bem-estar corporativo 2027\", pesquisa global do Wellhub realizada com cerca de 5 mil participantes em dez países, incluindo o Brasil. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/carreira/noticia/2026/10/14/profissionais-pioneiros-no-uso-de-ia-relatam-mais-burnout-e-sobrecarga-diz-pesquisa.ghtml",
+      "published": "2026-10-14T11:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "wellhub"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Anvisa aprova novo remédio para doença autoimune que afeta pele, rins e cérebro",
+      "summary": "Medicamento Gazyva (obinutuzumabe) poderá ser utilizado no tratamento de adultos com lúpus eritematoso sistêmico ativo em estágio moderado a grave",
+      "url": "https://veja.abril.com.br/saude/anvisa-aprova-novo-remedio-para-doenca-autoimune-que-afeta-pele-rins-e-cerebro",
+      "published": "2026-10-14T11:00:49+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "The Morning Risk Report: Bank of America to Pay $1.2 Billion to Settle Violations of Money Laundering, Sanctions Laws",
+      "summary": "Plus: CVS health unit resolves illegal opioid prescription claims and drones struck two commercial ships sailing near NATO waters",
+      "url": "https://www.wsj.com/risk-compliance-journal/the-morning-risk-report-bank-of-america-to-pay-1-2-billion-to-settle-violations-of-money-laundering-sanctions-laws-56d72ccf?mod=rss_markets_main",
+      "published": "2026-10-14T11:45:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "cvs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "cvs",
           "field": "lead",
           "score": 8,
           "topic": null
