@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-14T13:44:22.423450+00:00",
-  "count": 387,
+  "generated_at": "2026-10-14T14:02:24.077786+00:00",
+  "count": 388,
   "new_this_run": 72,
   "articles": [
     {
@@ -8764,6 +8764,29 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Presidente do Peru proíbe maquiagem e cabelo tingido em escolas públicas",
+      "summary": "Keiko Fujimori anunciou medidas na segunda-feira, 12",
+      "url": "https://veja.abril.com.br/mundo/presidente-do-peru-proibe-maquiagem-e-cabelo-tingido-em-escolas-publicas",
+      "published": "2026-10-14T13:49:30+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 20.0
