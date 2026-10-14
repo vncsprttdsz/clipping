@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T13:10:15.279306+00:00",
-  "count": 386,
-  "new_this_run": 67,
+  "generated_at": "2026-10-14T13:44:22.423450+00:00",
+  "count": 387,
+  "new_this_run": 72,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -593,45 +593,6 @@
         }
       ],
       "score": 68.0
-    },
-    {
-      "title": "Temu Inverso: Mercado Libre y Amazon competirán en Argentina tras del Gobierno",
-      "summary": "Temu Inverso: Mercado Libre y Amazon competirán en Argentina tras del Gobierno &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/economia-digital/70496-mercado-libre-y-amazon-competiran-en-argentina-tras-decreto-del-gobierno",
-      "published": "2026-10-07T13:18:41+00:00",
-      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "amazon",
-        "mercado libre",
-        "temu"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado libre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "temu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Justiça Homologa Recuperação Extrajudicial do Grupo Pão de Açúcar (PCAR3) e Ação Dispara",
@@ -1399,6 +1360,45 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Votação do fim da escala 6x1: o que muda para quem já trabalha na escala 5x2?",
+      "summary": "PEC prevê redução da jornada máxima para 40 horas semanais; quem já trabalha cinco dias poderá ter mudanças na carga horária",
+      "url": "https://exame.com/brasil/votacao-do-fim-da-escala-6x1-o-que-muda-para-quem-ja-trabalha-na-escala-5x2",
+      "published": "2026-10-14T10:12:54+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "carga horária",
+        "escala 5x2",
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 5x2",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "carga horária",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 48.0
@@ -8470,6 +8470,29 @@
       "score": 20.0
     },
     {
+      "title": "Proibição de maquiagem, unhas pintadas e cabelos longos: veja novas regras para escolas públicas no Peru",
+      "summary": "Proibição de maquiagem, unhas pintadas e cabelos longos: veja novas regras para escolas públicas no Peru &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/mundo/noticia/2026/10/14/proibicao-de-maquiagem-unhas-pintadas-e-cabelos-longos-veja-novas-regras-para-escolas-publicas-no-peru.ghtml",
+      "published": "2026-10-14T07:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Crédito Cresce 8,9%, Mas Inadimplência Preocupa Bancos",
       "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pesquisa da Febraban aponta alta de 11% no crédito direcionado, enquanto 65% dos bancos esperam avanço da inadimplência das famílias até o fim do ano O post Crédito Cresce 8,9%, Mas Inadimplência Preocupa Bancos apareceu primeiro em Forbes Brasil .",
       "url": "https://forbes.com.br/forbes-money/2026/10/credito-bancario-2026-inadimplencia",
@@ -8511,29 +8534,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Inflação americana, fim da escala 6x1 e pesquisa eleitoral dominam atenções",
-      "summary": "Inflação americana, fim da escala 6x1 e pesquisa eleitoral dominam atenções Índice de preços ao consumidor (CPI) americano pode consolidar as apostas de manutenção dos juros no país neste mês e deixar a porta aberta na próxima reunião, em dezembro Manhã no mercado: Inflação nos EUA, votação do fim da escala 6x1 e pesquisa eleitoral concentram atenções",
-      "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
-      "published": "2026-10-14T11:24:12+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -8631,75 +8631,6 @@
       "score": 20.0
     },
     {
-      "title": "Fim da escala 6x1: o que muda no dia a dia de empresas e funcionários?",
-      "summary": "A PEC (proposta de emenda à Constituição) que prevê o fim da escala 6x1 -na qual se trabalham seis dias por semana com um dia de folga- deve mudar a rotina de grande parte dos trabalhadores do país. Leia mais (10/14/2026 - 09h26)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/fim-da-escala-6x1-o-que-muda-no-dia-a-dia-de-empresas-e-funcionarios.shtml",
-      "published": "2026-10-14T12:26:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Fim da escala 6x1: o que acontece se o Senado aprovar a proposta? E se rejeitar? Entenda",
-      "summary": "Senado Federal Lula Marques/Agência Brasil O Senado deve votar nesta quarta-feira, em primeiro turno, a proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 — seis dias de trabalho para um de descanso — e reduz a jornada máxima de 44 para 40 horas semanais, sem corte de salário. A aprovação, porém, não muda as regras de imediato: o texto ainda precisa passar por um segundo turno, ser promulgado pelo Congresso e cumprir uma transição de 14 meses. A votação ocorre a 11 dias do segundo turno da eleição presidencial, em 25 de outubro. Na terça-feira, o candidato do PL à Presidência, senador Flávio Bolsonaro (RJ), anunciou que votará a favor da PEC, depois de meses de críticas à proposta. O governo Lula quer concluir os dois turnos ainda nesta quarta; aliados de Flávio vinham pressionando para que a segunda votação ficasse para depois da eleição. O que será votado nesta quarta-feira? A PEC que será votada foi aprovada na Câmara em maio, por 472 votos no primeiro turno e 461 no segundo. O texto chega ao plenário do Senado sem mudanças. A Comissão de Constituição e Justiça (CCJ) do Senado aprovou a proposta em 2 de setembro, com quatro votos contrários. O relator, Omar Aziz (PSD-AM), rejeitou as 36 emendas apresentadas e manteve a versão dos deputados. O regimento interno do Senado exige cinco sessões de discussão em plenário antes do primeiro turno. A quarta ocorreu na terça-feira; a quinta está marcada para esta quarta, seguida da votação. São necessários 49 votos. Por alterar a Constituição, a PEC precisa do apoio de três quintos do Senado, ou seja, 49 dos 81 senadores, em cada turno. Também será votado um requerimento de calendário especial, apresentado pela base do governo, para permitir o segundo turno no mesmo dia. O que muda com a PEC? Jornada menor: o limite semanal cai de 44 para 40 horas, com até oito horas por dia. Acordos ou convenções coletivas podem prever compensação de horários e redução da jornada. Duas folgas por semana: o repouso semanal remunerado passa a ser de dois dias, um deles preferencialmente aos domingos. Na prática, o modelo padrão deixa de ser o 6x1 e passa a ser o 5x2. Sem corte de salário: o texto proíbe redução salarial nominal, proporcional ou de qualquer outra natureza, inclusive nos contratos em vigor e nos pisos das categorias. Regimes diferenciados: uma nova lei poderá criar regras próprias de jornada e descanso para atividades específicas, respeitados os limites constitucionais. Convenções coletivas podem compensar folgas, desde que a média mensal garanta dois dias de descanso por semana e ao menos um a cada sete dias. Quem fica de fora das novas regras de jornada: empregados com diploma de nível superior que ganhem ao menos 2,5 vezes o teto do INSS (hoje, R$ 21.188,87), que mantêm, porém, o direito às duas folgas; e servidores públicos da União, dos estados, do Distrito Federal e dos municípios. O que acontece se a PEC for aprovada em primeiro turno? Nada muda ainda para o trabalhador. A proposta segue para o segundo turno, que também exige ao menos 49 votos favoráveis. Pelo regimento, há um interstício de três sessões de discussão entre a primeira e a segunda votação. Porém, a líder do governo no Senado, Teresa Leitão (PT-PE), afirma ter reunido assinaturas para um requerimento de calendário especial, que dispensa esse intervalo. Segundo o presidente do Senado, Davi Alcolumbre (União-AP), o pedido já tem o número regimental de apoios e será votado após a quinta sessão de discussão. Se o calendário for aprovado, os dois turnos podem ser concluídos ainda nesta quarta-feira. Se não for, o rito normal pode empurrar a votação final para depois de 25 de outubro. A oposição vinha defendendo esse caminho: aliados de Flávio, como o coordenador de sua campanha, senador Rogério Marinho (PL-RN), queriam deixar a segunda votação para depois da eleição. E se for aprovada nos dois turnos sem mudanças? A PEC vai à promulgação. Como o Senado terá aprovado o mesmo texto da Câmara, a emenda é promulgada pelas Mesas das duas Casas, em sessão do Congresso Nacional. Diferentemente de um projeto de lei, uma emenda constitucional não passa por sanção nem pode ser vetada pelo presidente da República. A data da sessão de promulgação ainda não foi marcada. O que acontece se a PEC for alterada? Se os senadores mudarem o conteúdo, o texto volta à Câmara, onde precisa de novo do apoio de três quintos dos deputados (308 de 513) em dois turnos. Isso adiaria a promulgação. Como uma mudança pode acontecer: além das emendas já rejeitadas pelo relator, os partidos podem apresentar destaques no plenário para votar trechos em separado. Nem toda mudança devolve o texto: ajustes apenas de redação, que não alteram o sentido, não obrigam nova análise dos deputados. A supressão de um trecho também pode ser promulgada sem retorno, desde que o restante já tenha sido aprovado pelas duas Casas. E se a PEC for rejeitada? Se não alcançar 49 votos em qualquer um dos turnos, a proposta é arquivada e continuam valendo as regras atuais: até 44 horas semanais e um dia de repouso. Quando as mudanças podem entrar em vigor? Só depois da promulgação e da publicação da emenda. A transição tem duas etapas: Dois meses após a publicação: as empresas passam a adotar a escala 5x2, com dois dias de repouso, e a jornada máxima cai para 42 horas semanais. Cláusulas de acordos coletivos incompatíveis com as novas regras perdem a validade na mesma data. Doze meses depois, ou 14 meses após a publicação: a jornada máxima chega a 40 horas semanais. E as pequenas empresas? A PEC não fixa regras específicas para microempreendedores individuais (MEIs), microempresas e empresas de pequeno porte. O texto prevê que uma lei complementar futura poderá criar regras de transição para esses negócios, condicionadas à manutenção do nível de emprego. Essa lei ainda precisará ser aprovada pelo Congresso. Grupos empresariais vinham defendendo uma discussão mais ampla sobre os custos da mudança. Flávio Bolsonaro, ao anunciar seu voto, disse que, se eleito, o governo deveria compensar as empresas pela mudança. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/futuro-do-trabalho/noticia/2026/10/fim-da-escala-6x1-o-que-acontece-se-o-senado-aprovar-a-proposta-e-se-rejeitar-entenda.ghtml",
-      "published": "2026-10-14T12:44:58+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Dólar abre em alta com cenário eleitoral e fim da escala 6x1 no radar",
-      "summary": "O dólar abriu em alta nesta quarta-feira (14), com investidores cautelosos diante da volatilidade eleitoral e à espera de uma nova pesquisa de intenção de voto para a Presidência, prevista para depois do fechamento do pregão. Leia mais (10/14/2026 - 09h46)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/dolar-abre-em-alta-com-cenario-eleitoral-e-fim-da-escala-6x1-no-radar.shtml",
-      "published": "2026-10-14T12:46:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Apostador de bets deve receber dinheiro de volta até esta quarta-feira (14); veja o que diz a MP",
       "summary": "Termina nesta quarta-feira (14) o prazo para que bancos e instituições de pagamento devolvam o dinheiro de apostadores de casas de apostas de quota fixa, as bets . O prazo foi delimitado pela Medida Provisória (MP) do governo Lula publicada em 25 de setembro que proibiu a exploração dessas loterias no Brasil . Leia mais (10/14/2026 - 09h57)",
       "url": "https://c-level.folha.uol.com.br/financas/2026/10/apostador-de-bets-deve-receber-dinheiro-de-volta-ate-esta-quarta-feira-14-veja-o-que-diz-a-mp.shtml",
@@ -8741,6 +8672,98 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Quando vai ser a votação do fim da escala 6x1?",
+      "summary": "O Senado deve votar nesta quarta-feira, em primeiro turno, a proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 e reduz a jornada máxima de 44 para 40 horas semanais, sem corte de salário. A votação ocorre a 11 dias do segundo turno da eleição presidencial, em 25 de outubro, e é apontada como um trunfo pelo PT para a campanha de Lula ganha fôlego. Votação do fim da escala 6x1: O que acontece se o Senado aprovar a proposta? E se rejeitar? Entenda ‘Hipocrisia’, ‘prejudicial ao trabalhador’ e ‘solução fácil’: Saiba o que Flávio disse sobre fim da escala 6x1 antes de declarar apoio à PEC Por ser uma proposta de emenda à Constituição (PEC), são necessários dois turnos de votação. O governo Lula quer concluir os dois turnos ainda nesta quarta-feira. Aliados de Flávio Bolsonaro vinham pressionando para que a segunda votação ficasse para depois da eleição. A aprovação, porém, não muda as regras de imediato. O texto precisa ser promulgado pelo Congresso e cumprir uma transição de 14 meses. Veja abaixo os principais pontos do texto e o trâmite no Congresso. Reação: Lula atribui à ‘pressão da sociedade’ mudança de tom de Flávio Bolsonaro sobre fim da escala 6x1 O que será votado nesta quarta-feira? A PEC que será votada foi aprovada na Câmara em maio, por 472 votos no primeiro turno e 461 no segundo. O texto chega ao plenário do Senado sem mudanças. A Comissão de Constituição e Justiça (CCJ) do Senado aprovou a proposta em 2 de setembro, com quatro votos contrários. O relator, Omar Aziz (PSD-AM), rejeitou as 36 emendas apresentadas e manteve a versão dos deputados. O regimento interno do Senado exige cinco sessões de discussão em plenário antes do primeiro turno. A quarta ocorreu na terça-feira; a quinta está marcada para esta quarta, seguida da votação. São necessários 49 votos. Por alterar a Constituição, a PEC precisa do apoio de três quintos do Senado, ou seja, 49 dos 81 senadores, em cada turno. Também será votado um requerimento de calendário especial, apresentado pela base do governo, para permitir o segundo turno no mesmo dia. O que muda com a PEC? Jornada menor: o limite semanal cai de 44 para 40 horas, com até oito horas por dia. Acordos ou convenções coletivas podem prever compensação de horários e redução da jornada. Duas folgas por semana: o repouso semanal remunerado passa a ser de dois dias, um deles preferencialmente aos domingos. Na prática, o modelo padrão deixa de ser o 6x1 e passa a ser o 5x2. Sem corte de salário: o texto proíbe redução salarial nominal, proporcional ou de qualquer outra natureza, inclusive nos contratos em vigor e nos pisos das categorias. Regimes diferenciados: uma nova lei poderá criar regras próprias de jornada e descanso para atividades específicas, respeitados os limites constitucionais. Convenções coletivas podem compensar folgas, desde que a média mensal garanta dois dias de descanso por semana e ao menos um a cada sete dias. Quem fica de fora das novas regras de jornada: empregados com diploma de nível superior que ganhem ao menos 2,5 vezes o teto do INSS (hoje, R$ 21.188,87), que mantêm, porém, o direito às duas folgas; e servidores públicos da União, dos estados, do Distrito Federal e dos municípios. O que acontece se a PEC for aprovada em primeiro turno? Nada muda ainda para o trabalhador. A proposta segue para o segundo turno, que também exige ao menos 49 votos favoráveis. Pelo regimento, há um interstício de três sessões de discussão entre a primeira e a segunda votação. Porém, a líder do governo no Senado, Teresa Leitão (PT-PE), afirma ter reunido assinaturas para um requerimento de calendário especial, que dispensa esse intervalo. Segundo o presidente do Senado, Davi Alcolumbre (União-AP), o pedido já tem o número regimental de apoios e será votado após a quinta sessão de discussão. Se o calendário for aprovado, os dois turnos podem ser concluídos ainda nesta quarta-feira. Se não for, o rito normal pode empurrar a votação final para depois de 25 de outubro. A oposição vinha defendendo esse caminho: aliados de Flávio, como o coordenador de sua campanha, senador Rogério Marinho (PL-RN), queriam deixar a segunda votação para depois da eleição. E se for aprovada nos dois turnos sem mudanças? A PEC vai à promulgação. Como o Senado terá aprovado o mesmo texto da Câmara, a emenda é promulgada pelas Mesas das duas Casas, em sessão do Congresso Nacional. Diferentemente de um projeto de lei, uma emenda constitucional não passa por sanção nem pode ser vetada pelo presidente da República. A data da sessão de promulgação ainda não foi marcada. O que acontece se a PEC for alterada? Se os senadores mudarem o conteúdo, o texto volta à Câmara, onde precisa de novo do apoio de três quintos dos deputados (308 de 513) em dois turnos. Isso adiaria a promulgação. Como uma mudança pode acontecer: além das emendas já rejeitadas pelo relator, os partidos podem apresentar destaques no plenário para votar trechos em separado. Nem toda mudança devolve o texto: ajustes apenas de redação, que não alteram o sentido, não obrigam nova análise dos deputados. A supressão de um trecho também pode ser promulgada sem retorno, desde que o restante já tenha sido aprovado pelas duas Casas. E se a PEC for rejeitada? Se não alcançar 49 votos em qualquer um dos turnos, a proposta é arquivada e continuam valendo as regras atuais: até 44 horas semanais e um dia de repouso. Quando as mudanças podem entrar em vigor? Só depois da promulgação e da publicação da emenda. A transição tem duas etapas: Dois meses após a publicação: as empresas passam a adotar a escala 5x2, com dois dias de repouso, e a jornada máxima cai para 42 horas semanais. Cláusulas de acordos coletivos incompatíveis com as novas regras perdem a validade na mesma data. Doze meses depois, ou 14 meses após a publicação: a jornada máxima chega a 40 horas semanais. E as pequenas empresas? A PEC não fixa regras específicas para microempreendedores individuais (MEIs), microempresas e empresas de pequeno porte. O texto prevê que uma lei complementar futura poderá criar regras de transição para esses negócios, condicionadas à manutenção do nível de emprego. Essa lei ainda precisará ser aprovada pelo Congresso. Grupos empresariais vinham defendendo uma discussão mais ampla sobre os custos da mudança. Flávio Bolsonaro, ao anunciar seu voto, disse que, se eleito, o governo deveria compensar as empresas pela mudança.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/14/quando-vai-ser-a-votacao-do-fim-da-escala-6x1.ghtml",
+      "published": "2026-10-14T13:03:43+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Governo do Peru impõe cabelo curto a meninos e proíbe maquiagem nas escolas públicas",
+      "summary": "A presidente do Peru, Keiko Fujimori, anunciou um novo regulamento disciplinar para as escolas públicas que determina que meninos mantenham os cabelos curtos e que proíbe maquiagem, esmalte e cabelos tingidos. As normas também estabelecem regras para o comprimento das saias dos uniformes usadas por estudantes de todo o país. \"Os meninos devem usar cabelo curto. É totalmente proibido pintar o cabelo ou usar maquiagem\", disse Keiko, filha do ex-ditador Alberto Fujimori, em um evento do governo em uma escola na periferia de Lima, a capital do país. \"A ordem não deve reinar apenas nas ruas, mas também voltar às nossas escolas, às nossas salas de aula.\" As novas regras também preveem a proibição do uso de celulares pelos alunos, salvo autorização do professor, uma medida que vem sendo adotada por vários países, em busca de reduzir a distração dos estudantes dentro das salas de aula. Também estão previstas a expulsão de alunos em casos de infrações mais graves e a retomada de notas disciplinares. O ministro da Educação, José Chang, explicou que o rigor em relação à aparência pessoal dos estudantes e as regras para os uniformes serão restritos às escolas públicas, que atendem cerca de 6 milhões de crianças peruanas. As instituições particulares, frequentadas normalmente por filhos de famílias com maior poder aquisitivo, poderão continuar estabelecendo as próprias regras. O regulamento disciplinar deverá ser publicado no Diário Oficial do Peru antes de entrar em vigor. Segundo o Ministério da Educação, a medida deve ser oficializada até o final deste ano. Após a publicação, os cidadãos terão um prazo de 30 dias para apresentarem objeções e críticas à medida. A ex-vice-ministra de Gestão Pedagógica Ana Andrade Pacora criticou as novas regras anunciadas por Keiko. \"Acredito que essas são medidas absolutamente equivocadas e nos farão retroceder mais de três décadas como sociedade. Equivalem a uma renúncia declarada da escola à missão de oferecer uma formação integral às novas gerações e prepará-las para o exercício da cidadania\", disse ela em entrevista ao jornal espanhol El País. Organizações da sociedade civil, como o Centro da Mulher Peruana Flora Tristan e a Coordenadoria Nacional de Direitos Humanos, também contestaram as propostas do governo, dizendo que as restrições à aparência dos estudantes não contribuem para prevenir a violência nas escolas e que as medidas são \"populistas e autoritárias\". As medidas foram tomadas depois que um adolescente de 16 anos denunciou ter sido agredido sexualmente por seus colegas durante uma viagem em um ônibus escolar. A Justiça peruana determinou a internação preventiva de seis estudantes de uma escola administrada pela Marinha, o que também gerou a intervenção do governo no local e reacendeu o debate sobre a violência nas instituições de ensino do país. Após as críticas, Keiko defendeu as medidas. \"Sei que pode ser bastante restrito, mas acreditem em mim: isso será importante ao longo da vida. Todos esses critérios estabelecerão dis-ci-pli-na\", disse a presidente, enfatizando cada sílaba. Ao tomar posse como primeira presidente da história do país, Keiko prometeu estabilizar o poder. Após um disputado processo eleitoral, ela tem o desafio de produzir resultados capazes de garantir a conclusão de seu mandato de cinco anos, algo que nenhum de seus oito antecessores conseguiu. A conservadora peruana Keiko Fujimori discursa para a imprensa na sede de seu partido REUTERS/Angela Ponce",
+      "url": "https://valor.globo.com/mundo/noticia/2026/10/14/governo-do-peru-impe-cabelo-curto-a-meninos-e-probe-maquiagem-nas-escolas-pblicas.ghtml",
+      "published": "2026-10-14T13:05:57+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "maquiagem"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "maquiagem",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Fim da escala 6x1 pode ser aprovada hoje, mas incerteza sobre o futuro permanece",
+      "summary": "A mudança de posição do candidato Flávio Bolsonaro, que, após se colocar frontalmente contra a medida, disse ontem que votará a favor da PEC que põe fim da escala 6x1, levanta dúvidas sobre se ele dará continuidade ao projeto num cenário eleitoral favorável a ele. Não é crível que ele tenha mudado radicalmente de posição. Isso significa que, mesmo que a PEC seja aprovada nesta quarta-feira, a incerteza permanecerá, porque já se fala na campanha de Flávio Bolsonaro em voltar à ideia do pagamento por hora trabalhada caso ele seja eleito presidente. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/fim-da-escala-6x1-pode-ser-aprovada-hoje-mas-incerteza-sobre-o-futuro-permanece.ghtml",
+      "published": "2026-10-14T13:20:38+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Canal 'Exército do Lula' segue fora do ar em dia de votação do fim da escala 6x1, aposta de 'fôlego' do PT",
+      "summary": "O canal de WhatsApp \"Exército do Lula\", administrado pelo deputado federal André Janones (Rede-MG), segue fora do ar nesta quarta-feira, dia em que o PT espera impulsionar a votação da Proposta de Emenda à Constituição que acaba com a escala 6x1. A medida é a aposta de \"fôlego\" da campanha do presidente Luiz Inácio Lula da Silva (PT), que tenta tirar a vantagem de votos do adversário Flávio Boslonaro (PL) registrada no primeiro turno da corrida ao Planalto. Leia mais: TSE estabelece limites para campanhas de Lula e Flávio associarem adversários ao crime organizado Veja também: Flávio deve votar fim da escala 6x1 à distância enquanto faz campanha com aliados em Porto Alegre Com mais de quatro milhões de seguidores, a lista de transmissão saiu do ar na noite desta terça-feira após o presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, ter estabelecido um prazo de 48 horas para que a ferramenta fosse registrada na Justiça Eleitoral como um endereço oficial de comunicação da campanha. A equipe de Flávio Bolsonaro (PL) havia entrado com uma ação de investigação contra o Exército do Lula há uma semana. Inicialmente avesso ao fim da escala 6x1, o senador modulou o discurso e passou a dizer que votará a favor da medida — apoiada por mais de sete em cada dez eleitores, segundo as pesquisas. Na noite desta terça, o relator do caso, ministro Ricardo Cueva, havia pedido que o caso fosse analisado pelo plenário com urgência, em sessão presencial. Segundo o presidente do TSE, com o reconhecimento do \"Exército do Lula\" como parte da comunicação da campanha do petista, um eventual uso irregular do canal levaria à responsabilização da coligação do presidente. Decisões divergentes A investigação pedida pela equipe do senador, alegando que a lista divulgava notícias falsas contra Flávio, foi para a relatoria de Cueva. Mas, no domingo, a lista foi suspensa por Nunes Marques, a partir de um outro pedido feito pelos advogados do candidato do PL. Cueva restabeleceu o serviço nesta segunda-feira. De acordo como corregedor, a defesa de Flávio apresentou ao pedido feito a Nunes Marques uma documentação que não foi enviada a ele, “incluindo dossiê de publicações, levantamento sobre a circulação de vídeos e plano de conformidade da plataforma”. O relator do caso também alegou que a suspensão de um canal exigia “demonstração da extensão e da reiteração das condutas, de sua efetiva vinculação ao meio de comunicação atingido e, especialmente, da insuficiência de providências menos restritivas, dirigidas às publicações individualizadas” — o que avaliou não ter havido. Galerias Relacionadas Nesta terça, foi a vez de a decisão do corregedor ser invalidada por Nunes Marques. O presidente do TSE afirmou que o corregedor extrapolou sua competência e interferiu em atribuições da presidência da Corte, ao proibir de novo o canal \"Exército do Lula\". Nunes Marques também questionou Cueva por não aguardar uma manifestação do plenário do tribunal sobre o caso. O ministro afirmou que não há precedente na história do tribunal de uma decisão da Corregedoria que tenha suspendido os efeitos de uma determinação da Presidência. “A razão é simples: inexiste instrumento jurídico que lhe confira semelhante competência”, afirmou em sua decisão. Mas advogados especialistas em direito eleitoral avaliaram a derrubada de toda a lista de transmissão — em vez de apenas publicações informações falsas — como uma censura prévia feita pelo presidente do TSE. Além disso, outros ministros do tribunal questionaram o fato de o presidente da Corte, ao mesmo tempo em que criticou o corregedor por ignorar o plenário, ter mantido a disputa sobre o canal de WhatsApp restrita a decisões individuais. Nunes Marques não autorizou que sua própria decisão fosse submetida aos demais ministros. E, ontem, Cueva reiterou que o plenário analise sua decisão sobre o Exército do Lula. Um integrante do TSE avalia que o presidente amplia uma crise no tribunal. Partido quer desvincular O episódio expôs uma disputa sobre os limites das atribuições da presidência e da Corregedoria-Geral da Justiça Eleitoral. Enquanto Nunes Marques sustenta que tem competência administrativa para fiscalizar o cumprimento das obrigações assumidas pelas plataformas digitais, Cueva entende que uma medida com efeitos sobre o funcionamento do canal, já submetida à análise judicial, não poderia desconsiderar a atuação da Corregedoria. Mesmo fora do tribunal, a decisão sobre a volta do funcionamento do Exército do Lula gerou insatisfações. Depois de uma reunião na tarde de ontem de Nunes Marques com as equipes jurídicas de Lula e de Flávio, o presidente do PT, Edinho Silva, afirmou que a campanha continua contra a vinculação à lista de WhatsApp e fez a conexão para seguir apenas a determinação judicial. Edinho afirmou que a legenda e Janones já pediram ao TSE a desvinculação entre a campanha e a iniciativa, por entender que o canal deve ser autônomo e reconhecido como uma forma de organização da sociedade. — Queremos que ele permaneça no ar, sendo um instrumento de organização da sociedade civil. Por isso que tomamos essa medida judicial, para impedir que caia — destacou. O dirigente petista confirmou que a atuação do Exército do Lula foi um dos temas tratados na reunião com Nunes Marques, em que o presidente do TSE pediu que a campanha presidencial tenha uma menor judicialização. — Eu disse ao ministro que a sociedade do século XX se organiza de duas formas: fisicamente, nas organizações tradicionais que nós conhecemos, e por meio das redes sociais. A sociedade tem que ser respeitada quando se organiza por meio das redes sociais e não pode haver cerceamento a essa esse direito de organização. Na segunda-feira, Lula questionou a disputa em torno do canal de WhatsApp. — Estão extrapolando em algumas decisões contra a minha campanha. Isso é visível e já foi denunciado. Não vou criar só o Exército do Lula, vou criar a Marinha, a Aeronáutica do Lula no WhatsApp. Para ele cortar, ele tem que mostrar qual é a ilegalidade, onde estamos transgredindo a lei. Não pode é o presidente da Corte Eleitoral ter lado na política — criticou o presidente em um ato de campanha. Na Câmara, Janones, o criador do Exército do Lula, reclamou da possibilidade de o canal ficar temporariamente fora do ar. — O canal pode ficar fora do ar por 48 horas. Coincidentemente ou não, no período da votação do fim da escala 6x1.Terminou a votação do fim da escala 6x1, aí eles autorizam o canal a voltar. Mandaram derrubar o canal por 48 horas, depois ele volta ao ar, mas já estamos correndo atrás, e acredito na Justiça, acredito que vamos reverter — afirmou o deputado.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/canal-exercito-do-lula-segue-fora-do-ar-em-dia-de-votacao-do-fim-da-escala-6x1-aposta-de-folego-do-pt.ghtml",
+      "published": "2026-10-14T13:23:13+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
