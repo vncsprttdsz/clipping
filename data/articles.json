@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T14:02:24.077786+00:00",
-  "count": 388,
-  "new_this_run": 72,
+  "generated_at": "2026-10-15T00:33:26.424380+00:00",
+  "count": 384,
+  "new_this_run": 131,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -595,43 +595,60 @@
       "score": 68.0
     },
     {
-      "title": "Justiça Homologa Recuperação Extrajudicial do Grupo Pão de Açúcar (PCAR3) e Ação Dispara",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Plano envolve R$4,568 bilhões e teve a adesão de credores titulares de 57,49% dos Créditos Sujeitos O post Justiça Homologa Recuperação Extrajudicial do Grupo Pão de Açúcar (PCAR3) e Ação Dispara apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/10/justica-homologa-recuperacao-extrajudicial-do-grupo-pao-de-acucar-pcar3-e-acao-dispara",
-      "published": "2026-10-07T19:46:55+00:00",
+      "title": "Anvisa Proíbe Canetas Emagrecedoras sem Registro Vendidas na Internet",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Medida inclui produtos com tirzepatida e retatrutida anunciados em diferentes plataformas de comércio eletrônico O post Anvisa Proíbe Canetas Emagrecedoras sem Registro Vendidas na Internet apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-saude/2026/10/anvisa-proibe-canetas-emagrecedoras-sem-registro-vendidas-na-internet",
+      "published": "2026-10-14T20:46:11+00:00",
       "source": "https://forbes.com.br/feed/",
       "matched_sectors": [
-        "Varejo Alimentar"
+        "E-commerce",
+        "Farmácias"
       ],
       "matched_aliases": [
-        "grupo pão de açúcar",
-        "pcar3",
-        "pão de açúcar"
+        "canetas",
+        "canetas emagrecedoras",
+        "comércio eletrônico",
+        "retatrutida",
+        "tirzepatida"
       ],
       "matches": [
         {
-          "sector": "Varejo Alimentar",
-          "alias": "pcar3",
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "Varejo Alimentar",
-          "alias": "grupo pão de açúcar",
+          "sector": "Farmácias",
+          "alias": "canetas",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
-          "sector": "Varejo Alimentar",
-          "alias": "pão de açúcar",
-          "field": "title",
-          "score": 20,
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "retatrutida",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
-      "score": 60.0
+      "score": 64.0
     },
     {
       "title": "Semaglutida Genérica: veja diferenças entre a nova caneta emagrecedora e as opções do mercado",
@@ -907,6 +924,46 @@
       "score": 60.0
     },
     {
+      "title": "Carrefour chega a 100 drogarias e testa novo modelo no Atacadão",
+      "summary": "Carrefour chega a 100 drogarias e testa novo modelo no Atacadão &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/14/10/2026/supermercados/carrefour-chega-a-100-drogarias-e-testa-novo-modelo-no-atacadao",
+      "published": "2026-10-14T15:57:40+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "atacadão",
+        "carrefour",
+        "drogarias"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "atacadão",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "drogarias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Caneta emagrecedora, bariátrica: o que dizem as novas orientações da OMS para o tratamento de crianças e adolescentes com obesidade",
       "summary": "Pela primeira vez a Organização Mundial de Saúde (OMS) deu orientações sobre o tratamento de obesidade para crianças e adolescentes, considerando a faixa etária de 0 a 19 anos. O documento, embora não seja específico sobre quais tratamentos usar para diferentes perfis, assume que tanto medicamentos (incluindo as canetas emagrecedoras) quanto cirurgias podem ser utilizadas, quando necessárias, a partir dos 10 anos. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://oglobo.globo.com/saude/noticia/2026/10/08/caneta-emagrecedora-bariatrica-o-que-dizem-as-novas-orientacoes-da-oms-para-o-tratamento-de-criancas-e-adolescentes-com-obesidade.ghtml",
@@ -1048,83 +1105,52 @@
       "score": 56.0
     },
     {
-      "title": "Exclusivo: Plano de recuperação extrajudicial do GPA é homologado",
-      "summary": "A Justiça de São Paulo homologou o plano de recuperação extrajudicial do GPA, varejista dona de redes como Pão de Açúcar e Extra Mercado, apurou o Valor. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/07/exclusivo-plano-de-recuperacao-extrajudicial-do-gpa-e-homologado.ghtml",
-      "published": "2026-10-07T15:25:18+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
+      "title": "Assaí já sente alta das vendas após fim das bets",
+      "summary": "O dinheiro que deixa de ir para as bets pode estar começando a voltar para os carrinhos de... supermercado. É o que avaliam executivos do Assaí, que identificam sinais de melhora no consumo neste quarto trimestre, especialmente em cidades do interior e bairros de menor renda, e consideram que as restrições às apostas online podem estar contribuindo para esse movimento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/10/assai-ja-sente-alta-das-vendas-apos-fim-das-bets.ghtml",
+      "published": "2026-10-14T16:01:11+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "Varejo Alimentar",
         "Economia"
       ],
       "matched_aliases": [
-        "gpa",
-        "pão de açúcar",
-        "recuperação extrajudicial"
+        "apostas online",
+        "assaí",
+        "bets",
+        "supermercado"
       ],
       "matches": [
         {
           "sector": "Varejo Alimentar",
-          "alias": "gpa",
+          "alias": "assaí",
           "field": "title",
           "score": 20,
           "topic": null
         },
         {
           "sector": "Varejo Alimentar",
-          "alias": "pão de açúcar",
+          "alias": "supermercado",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
           "sector": "Economia",
-          "alias": "recuperação extrajudicial",
+          "alias": "apostas online",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bets",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 48.0
-    },
-    {
-      "title": "Daniella Marques fala em acabar com o split payment da reforma tributária",
-      "summary": "Caso eleito, o senador Flávio Bolsonaro (PL) vai acabar com o 'split payment 'da reforma tributária, disse a porta-voz da campanha para temas econômicos, Daniella Marques, em entrevista ao canal do jornalista Claudio Dantas no YouTube. Informou também que a cobrança do Imposto de Renda sobre distribuição de dividendos está sendo avaliada. O split payment é o sistema que vai recolher e distribuir entre Estados e municípios as receitas do Imposto sobre Bens e Serviços (IBS), que surgirá da fusão do Imposto sobre a Circulação de Mercadorias e Serviços (ICMS), principal tributo estadual, e do Imposto sobre Serviços (ISS), tributo municipal. Marques disse que o split “asfixia” o capital de giro das empresas, sobretudo as pequenas, e destacou que a própria administração de Luiz Inácio Lula da Silva (PT) adiou a implementação desse sistema para 2028. O atual governo optou por fasear a implementação do split por causa de dificuldades operacionais. No momento, o uso do sistema é optativo em 2027 e obrigatório a partir de 2028. A crítica de Marques se deve ao fato que, com o novo sistema, os tributos passarão a ser recolhidos praticamente em tempo real, e não mais periodicamente, como ocorre hoje. Se por um lado isso tem o potencial de diminuir evasão, sonegação e inadimplência na arrecadação, por outro poderá reduzir capital de giro em alguns casos, dependendo de como a empresa opera. A porta-voz de Flávio não detalhou como ocorreria a eliminação do split, que é um elemento central do novo sistema tributário. Disse, por outro lado, que não pretende reabrir a discussão da parte constitucional da reforma. Segundo Marques, um grupo de especialistas já está trabalhando para propor a Flávio, após as eleições, a “reforma da reforma”. “O arcabouço de um Imposto sobre o Valor Agregado é o que funciona em vários lugares do mundo”, disse. “Mas, do jeito que está, é impraticável.” Ela chamou a reforma de “deforma” tributária e pontuou que a proposta, debatida para simplificar o sistema, chega às vésperas de entrar em vigor sem que se saiba qual será a alíquota. Citou estimativas feitas pelo Comitê Gestor do IBS, que apontaram para uma tributação de 28%, na soma do IBS e da Contribuição sobre Bens e Serviços (CBS), que substituirá o PIS/Cofins. IBS e CBS formam o Imposto sobre Valor Agregado a que ela se referiu. Se confirmados, os 28% serão a maior alíquota de IVA do mundo, frisou. O que os defensores da reforma ponderam é que o brasileiro já convive com essa taxação elevada, quando se consideram PIS/Cofins, ICMS e ISS. Os cerca de 28% são calibrados para não trazer ganho nem perda na arrecadação em comparação com o sistema atual. O Congresso Nacional, disse a porta-voz, havia fixado uma alíquota máxima de 26,5%. No entanto, a ampliação da lista de setores que terá tratamento diferenciado na reforma e pagará alíquotas reduzidas forçou o aumento da alíquota para os demais setores, para preservar a arrecadação. Ela não disse, mas a ampliação da lista de exceções foi feita pelo próprio Congresso Nacional, contrariando posição da área técnica do Ministério da Fazenda. Outra medida na mira da equipe de Flávio é a taxação sobre a distribuição de dividendos. Marques disse que todas as medidas que elevaram a arrecadação adotadas neste governo de Lula estão sendo revistas. Falou em cortar o Imposto sobre Operações Financeiras (IOF), majorado na atual administração, e o Imposto de Exportação que está sendo cobrado sobre petróleo, que chamou de “excrescência”. A tributação sobre dividendos chegou a ser proposta no governo de Jair Bolsonaro, disse ela. No entanto, estava acompanhada de uma redução do Imposto de Renda da Pessoa Jurídica (IRPJ). Luciana Whitaker/Valor",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/daniella-marques-fala-em-acabar-com-o-split-payment-da-reforma-tributria.ghtml",
-      "published": "2026-10-07T19:30:37+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "ibs",
-        "reforma tributária",
-        "split payment"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "split payment",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 48.0
+      "score": 56.0
     },
     {
       "title": "A conta do endividamento: Brasil deixará de vender três milhões de smartphones em 2026",
@@ -1404,6 +1430,45 @@
       "score": 48.0
     },
     {
+      "title": "Diretora da Hering e Arezzo deixou 12 anos de B3 pelo varejo: ‘É aí que a mágica acontece’",
+      "summary": "Beatriz Mendonça Schick, da Azzas 2154, conta como transforma análises complexas em decisões para franqueados e o que o programa para conselheiras da Saint Paul mudou em sua forma de liderar",
+      "url": "https://exame.com/carreira/diretora-da-hering-e-arezzo-deixou-12-anos-de-b3-pelo-varejo-e-ai-que-a-magica-acontece",
+      "published": "2026-10-14T16:51:00+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "arezzo",
+        "azzas",
+        "hering"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "arezzo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "hering",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
       "title": "Com reestruturação aprovada, Pão de Açúcar aposta em regionalização e descarta expansão",
       "summary": "\"Zero glamour e muita sola de sapato\". Assim o CEO do Grupo Pão de Açúcar , Alexandre Santoro, descreve o trabalho de reestruturação da empresa. Segundo ele, a homologação da recuperação extrajudicial do GPA , aprovada nesta quarta-feira (7), é uma conquista, mas deve ser acompanhada de adequações estruturais. Leia mais (10/08/2026 - 12h03)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/10/com-reestruturacao-aprovada-pao-de-acucar-aposta-em-regionalizacao-e-descarta-expansao.shtml",
@@ -1616,131 +1681,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Justiça homologa plano de recuperação extrajudicial do Grupo Pão de Açúcar",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/negocios/justica-homologa-plano-recuperacao-extrajudicial-grupo-pao-de-acucar",
-      "published": "2026-10-07T15:43:06+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/negocios/",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "grupo pão de açúcar",
-        "pão de açúcar"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "grupo pão de açúcar",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "pão de açúcar",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Arquivos Shopee Entrega Rápida",
-      "summary": "Arquivos Shopee Entrega Rápida &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/tag/shopee-entrega-rapida",
-      "published": "2026-10-07T16:02:08+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "entrega rápida",
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "entrega rápida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Plano de recuperação extrajudicial do Grupo Pão de Açúcar é homologado",
-      "summary": "Plano de recuperação extrajudicial do Grupo Pão de Açúcar é homologado &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/coluna/faria-lima-news/plano-de-recuperacao-extrajudicial-do-gpa-e-homologado",
-      "published": "2026-10-07T16:08:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "grupo pão de açúcar",
-        "pão de açúcar"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "grupo pão de açúcar",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "pão de açúcar",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Justiça aprova plano de recuperação extrajudicial do GPA para renegociar R$ 4,5 bi em dívidas",
-      "summary": "Justiça aprova plano de recuperação extrajudicial do GPA para renegociar R$ 4,5 bi em dívidas &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/invest/mercados/justica-aprova-plano-de-recuperacao-extrajudicial-do-gpa-para-renegociar-r-45-bi-em-dividas",
-      "published": "2026-10-07T17:53:40+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Varejo Alimentar",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "gpa",
-        "recuperação extrajudicial"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "gpa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperação extrajudicial",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Amazon makes fresh job cuts, mainly in retail division",
@@ -3080,6 +3020,100 @@
       "score": 40.0
     },
     {
+      "title": "Assaí planeja abrir mais 100 farmácias em 2027",
+      "summary": "Assaí planeja abrir mais 100 farmácias em 2027 &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/14/10/2026/mc-capital/assai-planeja-abrir-mais-100-farmacias-em-2027/amp",
+      "published": "2026-10-14T17:09:14+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa proíbe ‘canetas emagrecedoras’ irregulares; veja lista",
+      "summary": "Anvisa proíbe ‘canetas emagrecedoras’ irregulares; veja lista &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/anvisa-proibe-canetas-emagrecedoras-irregulares-veja-lista",
+      "published": "2026-10-14T18:00:21+00:00",
+      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Cade aprova cisão da Azzas e separa Arezzo&Co da Soma",
+      "summary": "O Cade (Conselho Administrativo de Defesa Econômica) aprovou sem restrições nesta quarta-feira (14) a reorganização societária da Azzas 2154 , que vai separar suas marcas sob o guarda-chuva da Arezzo&amp;Co e da Soma. Leia mais (10/14/2026 - 20h36)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/cade-aprova-cisao-da-azzas-e-separa-arezzoco-da-soma.shtml",
+      "published": "2026-10-14T23:36:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "arezzo",
+        "azzas"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "arezzo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Fashion",
+          "alias": "azzas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "O Refis da reforma tributária: a oportunidade para encerrar o passado",
       "summary": "Em 2032, ISS, ICMS, PIS e Cofins deixarão de existir. A reforma tributária sobre o consumo inaugura um novo modelo baseado no IVA dual, composto pela CBS e pelo IBS, promovendo a mais profunda transformação da tributação do consumo na história do país. Leia mais (10/08/2026 - 07h00)",
       "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/10/o-refis-da-reforma-tributaria-a-oportunidade-para-encerrar-o-passado.shtml",
@@ -3236,54 +3270,6 @@
       "score": 36.0
     },
     {
-      "title": "Área técnica do Cade aprova compra de 21 lojas do Carrefour pelo dono da Comper",
-      "summary": "A Superintendência Geral do Conselho Administrativo de Defesa Econômica (SG/Cade) aprovou a aquisição de 21 lojas do Carrefour pela SDB Comércio de Alimentos, o Grupo Pereira, dono das marcas Comper e Fort Atacadista. Se nenhum concorrente ou conselheiro questionar a operação nos próximos 15 dias ela será considerada aprovada em definitivo. As empresas informaram ao Cade que, para o Grupo Pereira, a operação representa uma oportunidade de expansão das suas atividades no segmento de supermercados, farmácias e revenda de combustíveis no Estado de São Paulo e no Distrito Federal. Para o Grupo Carrefour, segundo alegaram, a operação representa uma boa oportunidade de negócios e de otimização de suas operações. A SDB é uma subsidiária do Grupo Pereira, holding não operacional que controla as operações do grupo econômico. É por meio da SDB que o grupo atua no comércio varejista de mercadorias em geral, com foco em produtos alimentícios, principalmente por meio das bandeiras Fort Atacadista (atacarejo) e Comper (supermercados e hipermercados). O grupo também desenvolve atividades nos segmentos de distribuição de alimentos, drogarias, postos de combustíveis, logística, serviços financeiros, restaurantes, turismo e empreendimentos imobiliários. De acordo com o parecer da SG, a participação conjunta das empresas no mercado com sobreposição horizontal (em um mesmo segmento) encontra-se abaixo de 20% (filtro a partir do qual se presume posição dominante e, por conseguinte, possibilidade de exercício de poder de mercado). A participação de cada parte nos mercados verticalmente integrados (em cadeia) está dentro do patamar de 30% (filtro a partir do qual se presume capacidade de fechamento de mercado). Por isso a SG concluiu que a operação não possui o condão de acarretar prejuízos ao ambiente concorrencial. A aprovação foi publicada nesta quarta-feira (7) no Diário Oficial. Claudio Belli/Valor",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/07/rea-tcnica-do-cade-aprova-compra-de-21-lojas-do-carrefour-pelo-dono-da-comper.ghtml",
-      "published": "2026-10-07T18:54:19+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Varejo Alimentar",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "carrefour",
-        "drogarias",
-        "farmácias",
-        "grupo pereira"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "grupo pereira",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "carrefour",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "drogarias",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 32.0
-    },
-    {
       "title": "Vendas da LVMH no 3º tri são impactadas por desaceleração na China",
       "summary": "O conglomerado francês de luxo LVMH registrou receitas de 18,5 bilhões no terceiro trimestre, alta de 1,2% na comparação anual e queda de 6,4% sobre o desempenho do segundo trimestre, ficando em linha com as perspectivas para o período. Em termos orgânicos, que desconsidera variações cambiais, o faturamento do grupo avançou 1%, refletindo o desaquecimento da demanda da China e o bom ritmo de expansão comercial observado nos Estados Unidos, na Europa e no Japão. A divisão de moda e artigos de couro, principal linha de negócios do grupo, que reúne grifes como Louis Vuitton e Dior, foi o segmento mais impactado pelo cenário chinês, com uma queda orgânica de 5% no terceiro trimestre, para 8,25 bilhões de euros. A companhia destacou que o mercado norte-americano seguiu com demanda elevada e ressaltou a receptividade positiva às novas coleções, além de iniciativas de renovação de portfólio. Em contrapartida, as demais divisões operacionais mantiveram trajetória de crescimento no trimestre, compensando parcialmente a fraqueza em artigos de moda, com destaque para relógios e joias, que abriga marca Tiffany & Co. e Bvlgari. A divisão de varejo da LVMG também apresentou desempenho robusto, com alta orgânica de 8% no trimestre, a 4,07 bilhões de euros, puxada pela contínua expansão de fatia de mercado e receitas da Sephora em múltiplos países. A LVMH reiterou confiança em sua capacidade de preservar a rentabilidade e reforçar a liderança global no setor de luxo, sustentada na desejabilidade das marcas, na disciplina de execução e na sua flexibilidade operacional. As ações da LVMH fecharam em alta de 1,18% na Bolsa de Paris.",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/12/vendas-da-lvmh-no-3-tri-so-impactadas-por-desacelerao-na-china.ghtml",
@@ -3410,130 +3396,6 @@
         }
       ],
       "score": 30.0
-    },
-    {
-      "title": "Escala 6x1: Flávio rebate Lula e diz que mais folga 'não adianta' com trabalhador endividado ou desempregado",
-      "summary": "O candidato do PL à Presidência, Flávio Bolsonaro, rebateu nesta quarta-feira as cobranças feitas pelo presidente Luiz Inácio Lula da Silva (PT) para que se posicionasse sobre o fim da escala 6x1. Flávio afirmou ser favorável a que trabalhadores tenham mais tempo de folga, mas evitou declarar apoio à PEC que trata do tema e disse que a mudança “não vai adiantar” se vier acompanhada de desemprego ou endividamento. Fim da escala 6x1 e regime flexível: Entenda propostas sobre jornada de trabalho defendidas por Lula e Flávio PEC da escala 6x1: Brasil se junta a vizinhos latino-americanos na discussão sobre jornada de trabalho; confira A declaração foi dada após uma reunião com integrantes da federação formada por União Brasil e PP, que formalizou apoio à candidatura de Flávio no segundo turno. Na terça-feira, Lula havia usado a discussão da proposta no Senado para criticar o adversário, afirmando que Flávio era contrário à medida e cobrado uma posição do PL sobre a votação. — Depois de quatro anos de governo, ele quer correr para apreciar uma matéria como essa. Está pensando em eleição. É óbvio que eu sou a favor de que o trabalhador tenha um tempo de folga, para almoçar com a sua família, ir à praia no final de semana, viajar. Só que nada disso vai adiantar se estiver todo mundo endividado ou desempregado. Tem que ter responsabilidade — afirmou Flávio. Na terça-feira, Lula havia citado nominalmente Flávio e o PL ao defender o avanço da proposta. O presidente afirmou que a votação serviria como um “primeiro teste” para mostrar a posição do partido e disse que o adversário teria de decidir se orientaria sua bancada a favor da mudança. Initial plugin text Ao responder ao petista, Flávio relacionou a discussão sobre a jornada de trabalho à situação econômica dos trabalhadores e defendeu a redução da tributação sobre a folha de pagamento. Também acusou Lula de tentar acelerar a análise da proposta por interesse eleitoral. — Se ele estivesse pensando no trabalhador, já tinha reduzido a carga tributária sobre a folha de pagamento, para o trabalhador ficar com seu dinheiro. Se estivesse pensando no trabalhador, não estava gastando desse jeito e jogando o juro oficial lá para a Lua, endividando o trabalhador. Lula deixou todo mundo endividado e chega com mais uma promessa de picanha dessa que não vai resolver a vida de ninguém — disse. 6x1: Fim da escala deve criar novas relações de trabalho, e pequenas empresas vão se adaptar, dizem fundadores de startup de RH Flávio, porém, não respondeu se orientará a bancada do PL a votar a favor da PEC, ponto sobre o qual havia sido cobrado por Lula. O partido deve se reunir nesta quarta-feira para discutir a estratégia diante da votação. A proposta começou a ser discutida no plenário do Senado na terça-feira e precisa passar por cinco sessões de discussão antes de ser submetida à votação em primeiro turno. A previsão é que essa etapa seja concluída na próxima semana. O presidente do Senado, Davi Alcolumbre (União-AP), trabalha para colocar a PEC em votação também na próxima semana, possivelmente na quinta-feira. Finalizada esta etapa, serão necessárias mais cinco sessões de discussões antes da análise em segundo turno. O candidato do PL defendeu, na terça-feira, a proposta alternativa, apresentada pelo seu coordenador de campanha, o senador Rogério Marinho (PL-RN). O texto estabelece a jornada flexível de trabalho, com remuneração por hora, seguindo negociação entre empregado e empregador. MP das bets Flávio também criticou a medida provisória editada pelo governo Lula que proibiu as bets e afirmou que a iniciativa gera insegurança jurídica para empresas e clubes de futebol. Segundo o candidato, companhias que pagaram para operar no mercado regulado foram surpreendidas pela mudança das regras, com reflexos sobre contratos de patrocínio. — Ele agrediu a segurança jurídica, agrediu os clubes, diversas empresas. Você imagina uma loja que vende camisa de time pelo Brasil inteiro tendo que jogar fora o seu estoque porque a camisa tem a propaganda de uma bet — afirmou. O candidato defendeu uma distinção entre empresas regularizadas e apostas ilegais e disse que o combate deveria se concentrar nas plataformas que atuam fora das regras. Flávio também criticou o uso de uma medida provisória para promover a mudança, mas evitou dizer se votaria contra o texto no Congresso. — Como é uma medida provisória, daqui a quatro meses ela pode caducar, deixar de existir, e as bets voltarem novamente. Essa é a marca do governo Lula: ele cria o problema e, pensando em votos, aparentemente desfaz o problema. Nada garante que o problema não volte ali na frente. Esse é um problema que o Congresso tem que discutir com muita calma — disse. Flávio afirmou ainda que as plataformas ilegais devem ser alvo de fiscalização e criticou o tratamento dado pelo governo às empresas que passaram pelo processo de regulamentação. Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/07/escala-6x1-flavio-rebate-lula-e-diz-que-mais-folga-nao-adianta-com-trabalhador-endividado-ou-desempregado.ghtml",
-      "published": "2026-10-07T14:41:25+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1",
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Justiça aprova plano de recuperação extrajudicial do Pão de Açúcar",
-      "summary": "A Justiça de São Paulo homologou nesta quarta-feira (7) o plano de recuperação extrajudicial do Grupo Pão de Açúcar. Leia mais (10/07/2026 - 12h38)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/justica-aprova-plano-de-recuperacao-extrajudicial-do-pao-de-acucar.shtml",
-      "published": "2026-10-07T15:38:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "grupo pão de açúcar",
-        "pão de açúcar"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "grupo pão de açúcar",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "pão de açúcar",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Entenda as propostas pelo fim da escala 6x1 apoiadas por Lula e Flávio Bolsonaro",
-      "summary": "A PEC (proposta de emenda à Constituição) 12, apresentada pelo senador Rogério Marinho ( PL -RN) em maio e encampada pelo candidato à Presidência Flávio Bolsonaro (PL) como uma alternativa no debate da escala 6x1 , também pretende mudar regras da jornada de trabalho, mas de forma diferente da PEC 221 , defendida pelo governo do presidente Luiz Inácio Lula da Silva ( PT ), candidato à reeleição. Leia mais (10/07/2026 - 13h21)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/entenda-as-propostas-pelo-fim-da-escala-6x1-de-flavio-bolsonaro-e-lula.shtml",
-      "published": "2026-10-07T16:21:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1",
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Flávio Bolsonaro propõe congelar dívidas das famílias, aos moldes de Desenrola de Lula",
-      "summary": "O senador e candidato a presidente Flávio Bolsonaro ( PL ) afirmou nesta quarta-feira (7) que a proposta para resolver o endividamento da população vai envolver a compra de dívidas pelo governo e suspensão do pagamento de parcelas, a exemplo do programa Desenrola do governo Lula ( PT ). Leia mais (10/07/2026 - 16h40)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/flavio-bolsonaro-propoe-congelar-dividas-das-familias-aos-moldes-de-desenrola-de-lula.shtml",
-      "published": "2026-10-07T19:40:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "dívidas das famílias",
-        "endividamento"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "dívidas das famílias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "GPA tem plano homologado e agora foca gestão",
@@ -4162,6 +4024,194 @@
       "score": 28.0
     },
     {
+      "title": "Canetas emagrecedoras: Conselho de Oftalmologia orienta pacientes",
+      "summary": "Canetas emagrecedoras: Conselho de Oftalmologia orienta pacientes &nbsp;&nbsp; Guia da Farmácia",
+      "url": "https://guiadafarmacia.com.br/canetas-emagrecedoras-conselho-de-oftalmologia-orienta-pacientes",
+      "published": "2026-10-14T17:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Mercado Livre prevê fechar 2026 com 72 centros logísticos no Brasil",
+      "summary": "O Mercado Livre prevê encerrar 2026 com 72 centros logísticos de grande porte no Brasil, alta de 39% em relação ao ano anterior. A companhia planeja abrir 20 novas operações até dezembro, em uma expansão voltada a reduzir o prazo de entrega e ampliar a capacidade de atendimento dos vendedores que usam a plataforma. Os dados foram apresentados por Luiz Augusto Vergueiro, diretor sênior de operações logísticas, durante o Tech Day da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC), nesta quarta-feira (14), no Rio. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/14/mercado-livre-prev-fechar-2026-com-72-centros-logsticos-no-brasil.ghtml",
+      "published": "2026-10-14T17:05:02+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "mercado livre",
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Entenda o que muda se a PEC do fim da escala 6x1 for aprovada",
+      "summary": "A Proposta de Emenda à Constituição (PEC) que prevê o fim da escala 6x1 deve ser votada nesta quarta-feira (14) pelo plenário do Senado Federal. A PEC, se aprovada, altera a rotina de parte dos trabalhadores brasileiros, ao reduzir a jornada de 44 horas semanais de trabalho para 40 horas. O texto foi aprovado em maio pela Câmara dos Deputados e prevê a adoção da escala 5x2, sem diminuição do salário. A medida passou pela Comissão de Constituição e Justiça (CCJ) do Senado em setembro. A ideia do governo do presidente Luiz Inácio Lula da Silva (PT) era que o texto fosse votado em plenário antes do primeiro turno da eleição, mas entraves nos acordos adiaram a votação. Para ser aprovada no plenário da Casa, a PEC precisa de pelo menos 49 votos dos 81 senadores (três quintos do total) em dois turnos. Caso aprovada, por ser uma emenda à Constituição, a proposta é promulgada pelo Congresso Nacional e passa a entrar em vigor. A jornada, hoje limitada a 44 horas semanais, cairá para 42 horas e, depois, para 40 horas. A mudança não será imediata. A nova escala passa a valer 60 dias após a promulgação e a publicação da emenda, quando haverá redução para 42 horas semanais. Depois de 12 meses, a jornada cai para 40 horas. O governo e senadores da base aliada tentam impedir que emendas sejam apresentadas ao texto para evitar o texto voltasse à Câmara para nova apreciação dos deputados. Durante a tramitação na CCJ do Senado, Omar Aziz (PSD-AM), relator da proposta, negou 36 propostas de emendas à PEC. Especialistas ouvidos pelo Valor explicam o que deve mudar caso a medida seja aprovada pelos senadores. O que é a PEC do fim da escala 6x1? A Proposta de Emenda à Constituição que propõe o fim da escala de trabalho 6x1 foi apresentada pelo deputado federal Reginaldo Lopes (PT-MG) em 2019. A medida visa reduzir a jornada de trabalho de 44 horas para 40 horas semanais sem redução de salário e dois dias de descanso. Ela só ganhou forças pelo abaixo-assinado do movimento Vida Além do trabalho (VAT), criado pelo vereador Rick Azevedo (Psol-RJ). Posteriormente, a medida foi encabeçada pela deputada federal Erika Hilton (Psol-SP), que apresentou uma outra PEC propondo a jornada de trabalho de 36 horas semanais, mas esse texto não avançou, abrindo espaço para tramitação da proposta de Lopes. A medida também foi apoiada pelo governo Lula. Quais são as principais mudanças? A advogada trabalhista Gabriela Marques explica que os principais pontos são a redução da jornada e regimes diferenciados de trabalho. “A principal mudança será a substituição da escala 6x1 pela escala 5x2, com dois dias de descanso semanal remunerado e redução gradual da jornada máxima de 44 para 40 horas semanais, sem redução salarial. A proposta também permite regimes diferenciados de trabalho, observadas as condições previstas na legislação e nos instrumentos coletivos”, afirma. As folgas não precisarão ocorrer necessariamente aos finais de semana, ficando definidas pelo empregador. O que muda com a PEC do fim da escala 6x1 Qual é o período de transição para as novas regras? A proposta prevê duas etapas para as mudanças entrarem em vigor: Após dois meses da publicação da emenda constitucional, a jornada máxima será reduzida de 44 horas para 42 horas semanais, com a implementação dos dois dias de descanso; Um ano depois dessa primeira etapa, a jornada máxima passará para 40 horas semanais. Esses prazos começam a contar se a PEC for definitivamente aprovada e promulgada. O que acontece com os acordos e convenções coletivas? De acordo com a advogada, os acordos e convenções coletivas continuam válidos, desde que respeitem a nova norma. “As cláusulas incompatíveis com os novos limites de jornada e descanso perderão seus efeitos dois meses após a publicação da emenda. A negociação coletiva continuará sendo importante para regulamentar escalas diferenciadas e sistemas de compensação”, explica Marques. Para Vinicius Ribeiro, professor e advogado especialista em direito do trabalho, a nova jornada também deve gerar uma atuação maior de sindicatos, já que as empresas preferem as negociações coletivas. \"A fase de transição será muito bem utilizada pelos sindicatos para negociação e representação dos seus membros\", afirma. O que acontece com o banco de horas das empresas? O banco de horas não será extinto, mas precisará ser adequado aos novos limites de jornada e descanso. “As empresas poderão continuar utilizando esse mecanismo, desde que observem a legislação trabalhista e os instrumentos coletivos aplicáveis, sem utilizá-lo para afastar os direitos mínimos assegurados pela nova regra”, explica a advogada. O que muda para quem já trabalha 40 horas semanais ou em escala 5x2? \"Quem já trabalha 40 horas semanais não terá redução adicional obrigatória da jornada, pois já cumpre o limite previsto na proposta\", afirma Marques. “Entretanto, se essas horas estiverem distribuídas em seis dias, a empresa precisará adequar a escala para assegurar os dois dias de descanso semanal, observadas as exceções legalmente admitidas\", completa. O professor Vinicius Ribeiro explica que quem já trabalha na escala 5x2 só será afetado se trabalhar mais de 40 horas semanais. \"Nesses casos, o funcionário deverá ser realocado, ter a jornada reorganizada para se enquadrar nos limites da nova lei. O mesmo vale para quem cumpre jornada de 40 horas, mas distribuída na 6x1, também deve passar por essa reorganização\", diz. O que muda para as empresas? Parte do setor produtivo teme que as novas regras aumentem custos de produção e resultem em demissões. Estudo de pesquisadores do Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre) diz que a PEC traz riscos de aumento de custo do trabalho mesmo para as empresas cujos funcionários cumprem carga horária inferior a 40 horas por semana e esquema 5x2. O advogado Vinicius Ribeiro afirma que a medida deve gerar uma reorganização das empresas, principalmente em setores como farmácias e supermercados. \"Esses estabelecimentos precisarão redistribuir horários, talvez contratar novos funcionários e reorganizar equipes\", afirma. Ele não acredita que a readequação de horários prejudicará o empresário. O que muda para o trabalhador? O principal benefício será a ampliação do descanso semanal para dois dias, que virá da redução gradual da jornada, sem prejuízo salarial. “Isso permitirá maior tempo para descanso, convivência familiar e atividades pessoais”, diz Gabriela Marques.",
+      "url": "https://valor.globo.com/politica/noticia/2026/10/14/entenda-o-que-muda-se-a-pec-do-fim-da-escala-6x1-for-aprovada.ghtml",
+      "published": "2026-10-14T17:52:24+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 5x2",
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 5x2",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "O que a experiência de França e Portugal mostra sobre a redução da jornada de trabalho",
+      "summary": "A redução da jornada de trabalho já foi testada em países europeus, mas seus efeitos não foram iguais. As experiências de França e Portugal ajudam a dimensionar os desafios de acabar com a escala 6x1 no Brasil, onde o peso da informalidade e os custos do trabalho formal tornam a discussão mais complexa, considera o economista André Mancha, professor da Faculdade de Economia, Administração e Contabilidade (FEA) e pesquisador convidado do J-PAL Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/o-que-a-experiencia-de-franca-e-portugal-mostra-sobre-a-reducao-da-jornada-de-trabalho.ghtml",
+      "published": "2026-10-14T19:13:20+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Senado discute PEC do fim da escala 6x1; acompanhe ao vivo",
+      "summary": "O presidente do Senado, Davi Alcolumbre (União-AP), abriu nesta quarta-feira (14) a quinta e última sessão de discussão sobre a Proposta de Emenda à Constituição (PEC) que trata do fim da jornada de trabalho 6x1. A discussão será seguida da votação da matéria em primeiro turno, com possibilidade de apreciação definitiva, a depender da aprovação de uma mudança no calendário da PEC. Ao vivo: Assista à sessão do Senado A possibilidade de concluir a votação ainda nesta quarta-feira mobiliza o governo, e existe a expectativa de que o presidente Luiz Inácio Lula da Silva vá ao Congresso acompanhar o desfecho. A líder do governo no Senado, Teresa Leitão (PT-PE), afirmou ter reunido 56 assinaturas para o requerimento de calendário especial, que permitiria votar os dois turnos no mesmo dia. A proposta precisa de pelo menos 49 votos favoráveis em cada turno. Ao abrir a sessão, Alcolumbre ressaltou que cumpriu o compromisso de levar o texto à votação e atribuiu aos senadores a responsabilidade pelo resultado. “Cumpri o compromisso de colocar a matéria em votação e agora a decisão cabe ao plenário do Senado Federal”, afirmou. Entenda o que muda se a PEC for aprovada PEC gera mais de 700 mil publicações nas redes em 24 horas, diz levantamento Governistas dizem ter votos para aprovar PEC, mas têm dúvidas se conseguirão barrar mudanças “Cada um votará com a sua consciência, com o seu coração e com o seu livre arbítrio. Respeitar essa liberdade é respeitar a decisão soberana do plenário. E esta é, sim, a responsabilidade da presidência do Senado Federal”, acrescentou. O texto em análise prevê dois dias de descanso remunerado por semana e a redução gradual da jornada máxima de 44 horas para 40 horas, sem corte salarial. Já aprovada pela Câmara, a proposta poderá seguir para promulgação pelo Congresso se receber o aval dos senadores nos dois turnos, sem alterações de mérito. Alcolumbre destacou a expectativa dos trabalhadores em relação à mudança. “Neste momento, milhões de brasileiros, milhões de trabalhadores e trabalhadoras estão acompanhando esta sessão com esperança. São pessoas que conhecem na própria rotina o valor de um dia a mais de descanso”, declarou. O presidente do Senado também defendeu que a discussão leve em conta os impactos sobre diferentes setores da economia. “Precisamos ouvir quem trabalha e quem emprega, considerar os pequenos negócios e os diversos setores da nossa economia. É natural que existam posições diferentes. É legítimo que haja dúvidas e preocupações”, disse. “Cabe ao Senado Federal oferecer espaço para este debate e, sobretudo, decidir com serenidade”, afirmou Alcolumbre, que pediu aos parlamentares que votassem pensando “acima de tudo no que é melhor para o nosso país”.",
+      "url": "https://valor.globo.com/politica/noticia/2026/10/14/senado-discute-pec-do-fim-da-escala-6x1.ghtml",
+      "published": "2026-10-14T19:55:34+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Americanas garante venda de imóveis por R$ 130 milhões após ausência de concorrentes",
+      "summary": "A Americanas, em recuperação judicial, informou que a Justiça do Rio de Janeiro aprovou a venda de três imóveis da companhia por cerca de R$ 130 milhões, após a ausência de interessados concorrentes nos processos competitivos de alienação dos ativos. A decisão envolve um imóvel localizado no bairro de Laranjeiras, que será adquirido pela Supermundi Empreendimentos e Participações Ltda. por R$ 95 milhões, e dois imóveis situados na Tijuca e na Freguesia do Engenho Velho, cuja compra foi homologada em favor do Fundo de Investimento Imobiliário Antilhas (FII Antilhas) por R$ 34,92 milhões. A operação também inclui a venda dos sistemas de ar-condicionado instalados nos imóveis por R$ 80 mil. Segundo a companhia, não houve outros participantes habilitados nos processos de venda, o que levou a Justiça a cancelar a audiência de abertura de propostas fechadas que estava marcada para 22 de outubro e aprovar diretamente as ofertas vinculantes já apresentadas pelos compradores iniciais. “A autorização judicial para a alienação desses ativos representa mais uma etapa relevante na execução do plano de transformação da companhia”, diz a Americanas, em comunicado. Americanas Gustavo Minas/Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/14/americanas-garante-venda-de-imveis-por-r-130-milhes-aps-ausncia-de-concorrentes.ghtml",
+      "published": "2026-10-15T00:14:10+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "A que nível chegamos no business para pets: time de provadores de rações e petiscos têm quatro patas e paladares exigentes",
       "summary": "Imagine dezenas de gatos cochilando ou perambulando por um espaço que se parece muito com uma creche para animais de estimação. Todos os dias, às 16h, é servido o jantar. Os gatos entram em pequenos compartimentos, cada um com duas bandejas de ração seca colocadas sobre balanças. Os gatos escolhem qual alimento preferem, e as balanças medem quanto eles consomem. Petz Cobasi: ‘Pretendemos investir fortemente em serviços’, diz CEO Tudo pelo cliente: De pets a recargas de carros elétricos Nutricionistas de um centro da Royal Canin no sul da França observam atentamente: qual ração os animais preferem? Com que entusiasmo eles comem? Uma equipe utiliza esses dados para ajustar receitas e desenvolver novas fórmulas. Fabricantes de alimentos para animais, como a Royal Canin, pertencente ao conglomerado global de produtos de consumo Mars, estão investindo grandes quantias em pesquisas para entender o paladar de gatos e cães — e para atender às pessoas que consideram seus animais de estimação membros da família. Mesmo com a guerra no Irã provocando inflação e o crescimento dos salários não acompanhando esse ritmo, o mercado de alimentos para animais de estimação continua crescendo. E, à medida que os animais adotados em massa durante a pandemia, em 2020, chegam à meia-idade, os fabricantes de alimentos para pets estão concentrando seus esforços em produtos destinados a ajudar nas articulações doloridas, fortalecer músculos cansados e proteger a função cognitiva. — O envelhecimento é uma das maiores oportunidades — disse Cécile Coutens, presidente da Royal Canin. Cécile Coutens, presidente da Royal Canin, na sede da empresa em Aimargues, França. Ela é a primeira mulher a liderar a companhia Mathias Depardon/The New York Times A linha de alimentos para gatos idosos da empresa inclui uma mousse extramacia para gatos com 11 anos ou mais e uma ração seca fácil de mastigar para gatos a partir dos 15 anos. Muitas empresas vendem suplementos para gatos com demência e para ajudar a manter a saúde cerebral durante o envelhecimento. Da mesa das pessoas ao pote dos pets: A virada da comida à base de insetos A inflação elevou os preços da ração convencional (chamada de “croquettes” em francês). E, ainda assim, as opções nas prateleiras de alimentos para cães e gatos ficaram mais caras e especializadas, com marcas vendendo alimentos frescos de qualidade adequada para consumo humano. Estudos mostram que as pessoas reduzem seus próprios gastos antes de cortar despesas com seus animais de estimação. No ano passado, a Purina lançou um prato de “pedaços macios em uma elegante geleia”, em formato de pirâmide, para incentivar os gatos a dar mordidas maiores. Gatos aguardam a hora de testar as rações no centro de pesquisas da Royal Canin em Aimargues, França Mathias Depardon/The New York Times Mais de US$ 17 bilhões foram gastos com alimentos para gatos nos Estados Unidos no último ano, um aumento de 14% em relação ao mesmo período de dois anos atrás, segundo a NielsenIQ, empresa de pesquisa de mercado. As vendas de alimentos para cães ficaram praticamente estáveis. Diferentemente das gerações anteriores, quando os pais acolhiam animais de estimação a pedido dos filhos, hoje as pessoas muitas vezes têm animais antes de ter filhos — se é que têm filhos —, disse Coutens. Alimento para gatos aguarda teste de paladar no centro de pesquisas da fabricante Royal Canin em Aimargues, França. Nutricionistas do local observam quais grãos os gatos preferem e ajustam as receitas de acordo com essas preferências Mathias Depardon/The New York Times As empresas estão investindo em linhas premium de alimentos para animais que atendem aos consumidores mais ricos, enquanto a economia em formato de K — expressão usada para descrever o aumento da distância entre ricos e pobres — persiste. O luxo dos pets: Entenda como o mercado premium revela a nova relação entre tutores e animais Embora, em alguns aspectos, os gatos exijam menos cuidados do que os cães, eles costumam exigir uma dose maior de criatividade humana quando o assunto é alimentação. “Nós gostamos muito dos gatos porque eles também são mais exigentes para comer, de certa forma. Portanto, é preciso mais ciência e tecnologia para conseguir atender a essas exigências com sucesso”, disse Philipp Navratil, CEO da Nestlé, em uma conferência em junho. Nos últimos anos, os gatos passaram a ser adotados em taxas mais altas do que os cães, à medida que as pessoas passam mais tempo no escritório. Cães com um especialista em comportamento animal no centro de pesquisas da Royal Canin em Aimargues, França. Nos últimos anos, gatos têm sido adotados em taxas mais altas do que cães, à medida que as pessoas passam mais tempo no escritório Mathias Depardon/The New York Times Assim como a Nestlé, que possui dois centros onde pesquisadores estudam o comportamento de gatos e cães, a Royal Canin mantém um extenso programa de pesquisa dedicado a esses animais. No centro de pesquisa da Royal Canin em Aimargues, apenas os animais mais exigentes entre os 377 cães e gatos que vivem no local participam dos testes de palatabilidade. Efeito da pandemia: Empresas abrem as portas para animais de estimação e criam até 'licença-PETernidade' O outro centro da empresa fica em Ohio. Como parte do treinamento, os filhotes de gato recebem alimentos de diferentes texturas e sabores para desenvolver seus sentidos. Aos 7 meses, eles são ensinados a comer em comedouros específicos. Cães que comem praticamente qualquer coisa, como os labradores, não são selecionados, disse Silvia Miret-Catalan, vice-presidente de pesquisa e desenvolvimento da Royal Canin. Um funcionário com um Labrador Retriever no centro de pesquisa da Royal Canin em Aimargues, França. Apenas os animais mais exigentes entre os 377 cães e gatos que vivem no complexo participam dos testes de paladar. Cães que comem quase qualquer coisa, como os Labradores, não são selecionados Mathias Depardon/The New York Times No centro da Royal Canin, uma equipe monitora o comportamento dos animais depois do café da manhã e do jantar. Os gatos e cães parecem mais apáticos do que o habitual? Estão brincalhões? Como está a qualidade das fezes, em uma escala de 1 a 10? — A pontuação mais baixa será dada à diarreia — disse Yannick Soulard, que trabalha na área de inovação. Em seguida, as fezes são secas e analisadas para determinar como o alimento é digerido, explicou. Quando os cães e gatos completam 7 anos, os funcionários podem adotá-los. Há uma longa lista de espera, e os funcionários que criaram um vínculo com determinados animais têm prioridade. O sabor é um dos principais focos. Scott McGrane, especialista em felinos do Waltham Petcare Science Institute, da Mars, na Inglaterra, disse que sua equipe estava especialmente interessada em compreender os sentidos e os sabores percebidos pelos gatos, inclusive os mais velhos. Por que eles não demonstravam preferência por alimentos doces? Por que gostam tanto de atum? Ele disse que os pesquisadores descobriram que os gatos possuem o receptor gustativo do umami, que lhes permite sentir e detectar compostos umami. O atum tem uma combinação única de compostos que, para os gatos, equivale a uma espécie de “superumami”, explicou. Uma estátua do fundador da empresa, Jean Cathary, na sede global da Royal Canin em Aimargues, França. Cathary fundou a Royal Canin em 1968, após criar uma receita de ração para cães à base de cereais em sua garagem para tratar problemas de saúde dos animais Mathias Depardon/The New York Times À medida que envelhecem, alguns dos receptores gustativos dos gatos desaparecem, mas eles mantêm a capacidade de perceber o sabor amargo, o que faz com que certos alimentos se tornem menos atraentes, disse Miret-Catalan. Sua equipe desenvolve alimentos para gatos idosos que mascaram o amargor e intensificam aromas atraentes, para manter o interesse dos animais pela comida à medida que envelhecem, explicou. A Mars provavelmente é mais conhecida por fabricar Snickers, M&amp;M’s e Skittles do que por seus produtos para animais de estimação. Embora tenha adquirido a Royal Canin em 2002, a empresa entrou no mercado de alimentos para animais quase um século atrás. Naquela época, as pessoas alimentavam seus cães principalmente com restos de comida da mesa. Nas últimas décadas, a Mars adquiriu milhares de hospitais e clínicas veterinárias. A empresa é proprietária de 6% de todos os estabelecimentos veterinários dos Estados Unidos, segundo a KPMG. É a maior fornecedora de alimentos para animais de estimação nos Estados Unidos e no mundo. A fábrica na sede global da Royal Canin em Aimargues, França. A fabricante de alimentos para animais de estimação, pertencente à Mars, está investindo pesado em pesquisas para entender o paladar de gatos e cães Mathias Depardon/The New York Times Cathy Bedrick, sócia da KPMG que assessora clientes de private equity, disse que as empresas que possuem clínicas veterinárias esperam ter mais negócios nos próximos anos, à medida que a população mundial de animais de estimação envelhece rapidamente. O cachorro de Bedrick faz sessões semanais de acupuntura para tratar a rigidez na coluna. Dentro da fábrica da Royal Canin, depois de uma parede repleta de fotos emolduradas de enormes pedaços de ração, há gigantescos tambores de aço onde milho, frango, trigo e outros ingredientes são misturados. A fábrica produz 146 tipos de ração seca entre os quais os donos de animais podem escolher. Em uma tarde recente, a Royal Canin reproduziu um teste para mim e para meu colega fotógrafo, em um local ensolarado sob uma árvore. Observei Willow, uma gata Ragdoll de 2 anos, comer da Bandeja A, depois da Bandeja B e, em seguida, novamente da Bandeja A. O que significava sua indecisão? Um representante da Royal Canin admitiu que não se tratava de um verdadeiro teste A/B: as bandejas continham a mesma comida, uma diferença em relação ao procedimento habitual. Willow não se incomodou. Terminou as duas porções e foi embora.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/12/a-que-nivel-chegamos-no-business-para-pets-time-de-provadores-de-racoes-e-petiscos-tem-quatro-patas-e-paladares-exigentes.ghtml",
@@ -4277,37 +4327,6 @@
         }
       ],
       "score": 24.0
-    },
-    {
-      "title": "Rahra leva a revenda de prata porta a porta a uma rede nacional de franquias",
-      "summary": "Em 1988, Dona Solange começou como revendedora, vendendo prata de porta em porta em Pará de Minas, no Sul de Minas. Trinta e oito anos depois, o negócio nascido dessa revenda é a Rahra, rede de semijoias com cerca de 60 lojas e presença nacional, construída em etapas: primeiro o atacado, depois o varejo e, por fim, a expansão por franquias. A sequência explica boa parte do modelo atual. A primeira loja da marca foi de atacado, e só depois a empresa passou a atender diretamente o consumidor final. A abertura de unidades franqueadas veio na fase seguinte, quando a operação já tinha estrutura para replicar o formato de loja em outras praças. Minas Gerais segue como a base mais forte da rede, e a estratégia agora é ampliar a presença em outros estados. \"Crescemos no atacado antes de chegar ao varejo, e isso nos deu uma disciplina muito grande com produto, preço e giro. Quando começamos a expandir por franquias, essa base já estava pronta para ser levada a outras cidades\", afirma Jonathas Coelho, CEO da Rahra. A origem na venda direta também segue presente na operação. Além das lojas, a Rahra mantém um canal de revenda, com um espaço exclusivo que oferece suporte, capacitação e ferramentas às revendedoras. Na prática, a marca combina três frentes de distribuição: revenda, lojas franqueadas e e-commerce. A empresa continua familiar. Dona Solange segue como fundadora e referência da marca, Jonathas responde pela frente de negócios e o irmão, Thomas, é diretor de produto. A divisão aparece na forma como a rede organizou sua cadeia produtiva. Parte das peças é desenvolvida a partir de curadoria feita na China, onde a Rahra mantém uma profissional dedicada a acompanhar tendências de moda e encurtar o intervalo entre o que surge no exterior e o que chega às lojas brasileiras. O banho das semijoias é feito no Brasil, em galvânica própria em Limeira (SP), sem terceirização. O controle desse processo sustenta o principal argumento comercial da marca, uma garantia de até 10 anos, que varia conforme a peça. Quanto maior a quantidade de ouro aplicada, maior o prazo, e o desgaste coberto pela garantia é resolvido com a troca por uma peça nova. \"Ter a galvânica dentro de casa é o que nos permite assumir esse compromisso com a cliente. Sabemos exatamente como cada peça foi banhada, então conseguimos responder por ela durante anos\", diz Jonathas. Nos últimos meses, a marca também passou a investir em diferenciação de produto. Desde janeiro de 2026, cada campanha traz um look completo de design autoral, exclusivo da Rahra. O portfólio inclui peças em prata, semijoias banhadas a ouro e uma linha de berloques em aço, que ganhou uma parceria de licenciamento com a Warner Bros. A coleção de Tom e Jerry chegou às lojas em junho, e a de Looney Tunes, em agosto. O posicionamento que a empresa busca fica no espaço entre a joalheria e a bijuteria: uma semijoia de qualidade premium, com preço acessível e apelo de moda. As lojas seguem um projeto próprio, com escada rosa, painel com imagens de mulheres dos anos 1980 e escrivaninha com aparadores, em uma atmosfera retrô e contemporânea que se afasta do formato tradicional de loja do segmento. Para os próximos meses, a rede prevê duas inaugurações em Fortaleza e coloca o digital no centro da estratégia. O e-commerce, em fase de expansão, já reúne mais de 10 mil clientes. \"A loja física construiu a nossa história, e agora o desafio é fazer com que a força da marca no balcão também apareça no digital. Expandir para novos estados e crescer no online são movimentos que andam juntos\", afirma Jonathas.",
-      "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/07/rahra-leva-a-revenda-de-prata-porta-a-porta-a-uma-rede-nacional-de-franquias-1.ghtml",
-      "published": "2026-10-07T14:37:04+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "joalheria",
-        "prata"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "joalheria",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "prata",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 22.0
     },
     {
       "title": "iFood negocia aquisição da Caju",
@@ -4466,581 +4485,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Flávio Bolsonaro propõe usar Caixa para aliviar endividamento de empresas e famílias",
-      "summary": "O candidato do PL à Presidência, senador Flávio Bolsonaro, afirmou nesta quarta-feira (7) que a sua passagem à frente do presidente Luiz Inácio Lula da Silva (PT) no primeiro turno contribuiu para reduzir os juros futuros. O filho de Jair Bolsonaro (PL) ficou à frente do presidente Luiz Inácio Lula da Silva (PT) com 47% dos votos contra 45,2% do petista. “Eu nem sou presidente da República ainda, mas o simples fato de a gente ter passado na frente no primeiro turno, em relação ao ‘império do mal’, já reduziu o juro futuro. Já foram quase R$ 70 bilhões de economia de orçamento em um ano, só com a mudança do ânimo”, disse a jornalistas após reunião com a cúpula da federação União Brasil-PP, que anunciou formalmente apoio ao senador no segundo turno, marcado para 25 de outubro. A senadora Tereza Cristina (PP-MS), que já foi cotada para ser vice de Flávio, afirmou que a federação dará “apoio incondicional” a Flávio. “Cada um de nós vai voltar para os nossos Estados e a campanha continua para que a gente seja vencedor no dia 25 de outubro. Aqui é uma demonstração de união de forças da direita, do centro-direita e do Brasil a favor do nosso presidente Flávio Bolsonaro\", disse. Como mostrou o Valor, os juros futuros de longo prazo recuaram mais de 1 ponto percentual na segunda-feira (5), após o resultado do primeiro turno no último domingo (4), em um dos movimentos mais intensos da renda fixa doméstica nos últimos anos. Flávio afirmou que cada ponto percentual de queda na taxa básica de juros, a Selic, abriria quase R$ 100 bilhões por ano no Orçamento Federal. Segundo ele, o espaço fiscal poderia ser usado para auxiliar a população endividada e “cuidar dos mais fortes”. Refinanciamento de dívidas pela Caixa O senador propõe que a Caixa Econômica Federal compre dívidas de pessoas físicas e jurídicas e as refinancie com prazos mais longos e juros menores. A instituição financeira seria, na avaliação dele, o “banco da prosperidade”. Para pessoas físicas, a proposta de Flávio prevê carência de seis meses, sem reajuste da dívida nem pagamento de parcelas. Para empresas, o prazo seria de um ano. Flávio afirmou que a medida permitiria a retomada do consumo e do acesso ao crédito. “Vamos dar uma carência para as pessoas físicas de seis meses. Vai ficar congelada a sua dívida por seis meses, ela não vai ser reajustada e você não vai pagar nenhuma parcela. Isso vai reinjetar esse dinheiro na economia de uma forma sustentável”, disse. Flávio defendeu, ainda, que seu governo fará “uma economia que seja alicerçada na produtividade e não em jorrar dinheiro público sem nenhum controle, de forma errada e com má qualidade no mercado”. Segundo ele, a consequência da política econômica e fiscal do governo atual reflete em inflação elevada e redução do poder de compra da população. Fim da escala 6x1 Flávio também voltou a defender que a proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 seja votada após as eleições. Segundo ele, a pressa do presidente Lula para avançar com a proposta busca poder político, e não atender os interesses dos trabalhadores. “Ele [Lula] não está pensando no trabalhador. Se estivesse, já teria reduzido a carga tributária sobre a folha de pagamento para o trabalhador ficar com o seu dinheiro. Se estivesse pensando no trabalhador, não estaria gastando desse jeito e jogando o juro oficial lá para a lua, endividando o trabalhador”, disse a jornalistas. Flávio afirmou ser favorável a ampliar o tempo de descanso dos trabalhadores, mas não indicou se pretende orientar sua bancada a obstruir ou retardar a votação no Senado. O presidente da Casa, Davi Alcolumbre (União-AP) sinalizou levar o tema para votação em plenário na próxima semana. A redução da jornada de trabalho está entre as prioridades do governo Lula.",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/simples-fato-de-eu-ter-passado-na-frente-do-1o-turno-ja-reduziu-o-juro-futuro-diz-flavio-bolsonaro.ghtml",
-      "published": "2026-10-07T14:24:20+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "endividamento"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Keeta retoma expansão no Brasil após Justiça proibir exclusividade de concorrentes",
-      "summary": "A Keeta anunciou a expansão de operações para 21 novas cidades no Brasil. Segundo a empresa, a retomada se deve à abertura de mercado propiciada pela decisão da Justiça paulista que considerou ilegais as cláusulas de exclusividade em contratos da 99food com restaurantes parceiros. Leia mais (10/07/2026 - 11h39)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/keeta-retoma-expansao-no-brasil-apos-justica-proibir-exclusividade-de-concorrentes.shtml",
-      "published": "2026-10-07T14:39:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Como o Mercado Livre está reconfigurando o varejo brasileiro",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/negocios/como-mercado-livre-esta-reconfigurando-varejo-brasileiro",
-      "published": "2026-10-07T15:00:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado livre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Com bets proibidas, viciados em apostas veem assédio de sites chineses: ‘Derruba um e criam mil’",
-      "summary": "",
-      "url": "https://www.estadao.com.br/brasil/com-bets-proibidas-viciados-em-apostas-veem-assedio-de-sites-chineses-derruba-um-e-criam-mil",
-      "published": "2026-10-07T15:00:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "O valor bilionário que o fim das bets pode devolver por ano ao orçamento das famílias",
-      "summary": "Estimativa considera dinheiro perdido por apostadores no mercado regulado; recursos podem migrar para consumo, poupança e pagamento de dívidas",
-      "url": "https://veja.abril.com.br/economia/fim-das-bets-pode-devolver-r-40-bilhoes-por-ano-ao-orcamento-das-familias",
-      "published": "2026-10-07T15:07:17+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Arquivos Agências Shopee",
-      "summary": "Arquivos Agências Shopee &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/tag/agencias-shopee",
-      "published": "2026-10-07T15:33:49+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Falsas bets prometem até R$ 3.000 com Pix de R$ 20 e bloqueiam saque",
-      "summary": "Uma rede de falsas plataformas de apostas promete retornos de até R$ 3.000 a partir de depósitos de R$ 20 a R$ 30, mas bloqueia o saque por meio da própria programação dos sites, segundo investigação da ZenoX, empresa brasileira de cibersegurança . Leia mais (10/07/2026 - 12h53)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/falsas-bets-prometem-ate-r-3000-com-pix-de-r-20-e-bloqueiam-saque.shtml",
-      "published": "2026-10-07T15:53:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras para adolescentes: veja o que diz o guia da OMS",
-      "summary": "Canetas emagrecedoras para adolescentes: veja o que diz o guia da OMS &nbsp;&nbsp; Diário do Comércio",
-      "url": "https://diariodocomercio.com.br/geral/canetas-emagrecedoras-para-adolescentes",
-      "published": "2026-10-07T16:15:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "iFood contrata profissionais com deficiência para vagas de analista e desenvolvedor",
-      "summary": "O iFood abriu inscrições para o Eleva PcD, programa com vagas exclusivas para pessoas com deficiência. Há posições para os cargos de analista sênior, na área de negócios, e desenvolvedor de software. Os candidatos precisam ter ao menos quatro anos de experiência. A contratação é feita pelo regime CLT, por prazo indeterminado, com trabalho em modelo híbrido ou remoto, conforme a área. Os aprovados atuam desde o primeiro dia em suas equipes de destino e, em paralelo, participam de uma trilha de seis meses de capacitação em inteligência artificial (IA) aplicada, que inclui mentoria individual com lideranças da companhia. As admissões começam em novembro. As inscrições podem ser feitas pelo site até 13 de outubro. O iFood também tem vagas de ampla concorrência para cargos sêniores, como executivo de key account, gerente de produtos, coordenador comercial, engenheiro de IA e cientista de dados. Pesquisa Carreira dos Sonhos mostra onde jovens querem trabalhar ‘Não tem nenhuma decisão sobre pessoas que eu tome sem usar dados’ Como otimizar o tempo ao lado da minha líder? As oportunidades estão disponíveis no site de carreiras da empresa. Iniciativa do iFood inclui vagas sêniores e exige ao menos quatro anos de experiência de mercado Divulgação",
-      "url": "https://valor.globo.com/carreira/empregos-oportunidades/post/2026/10/ifood-contrata-profissionais-com-deficiencia-para-vagas-de-analista-e-desenvolvedor.ghtml",
-      "published": "2026-10-07T17:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Anvisa proíbe venda de lotes de insulina e tirzepatida sem registro; veja lista",
-      "summary": "Anvisa proíbe venda de lotes de insulina e tirzepatida sem registro; veja lista &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/saude/anvisa-proibe-venda-de-lotes-de-insulina-e-tirzepatida-sem-registro-veja-lista",
-      "published": "2026-10-07T17:00:31+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nubank fora do ar? Internautas reclamam de instabilidades",
-      "summary": "Internautas reclamam de instabilidades em transações Pix do Nubank na tarde desta quarta-feira, 7. De acordo com o portal Downdetector, cerca de 250 reclamações nas redes sociais foram rastreadas pelo site por volta das 14h. Procurado, o Nubank afirmou às 15h30 que a instabilidade FOI solucionada. O banco não respondeu o que causou o problema nem quando o sistema seria normalizado. De acordo com dados do Banco Central, o Nubank é a segunda maior instituição financeira do país, com 117,2 milhões entre pessoas físicas e jurídicas. No início de setembro, uma instabilidade no aplicativo do Nubank deixou a instituição com instabilidades por quatro horas. À época, o banco não deu detalhes sobre a falha. Confira as reclamações de internautas: Initial plugin text Initial plugin text Initial plugin text Initial plugin text",
-      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/10/07/nubank-fora-do-ar-hoje.ghtml",
-      "published": "2026-10-07T17:21:38+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "GPA obtém aval da Justiça de São Paulo para negociar R$ 4,5 bilhões em dívidas",
-      "summary": "GPA obtém aval da Justiça de São Paulo para negociar R$ 4,5 bilhões em dívidas &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/07/10/2026/noticias-varejo/gpa-obtem-aval-da-justica-de-sao-paulo-para-negociar-r-45-bilhoes-em-dividas",
-      "published": "2026-10-07T17:51:38+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "gpa"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "gpa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Família canadense Weston acerta compra da rede de farmácias britânica Boots por US$ 8,9 bi",
-      "summary": "A família canadense Weston fechou um acordo para comprar a rede britânica de farmácias Boots da gestora Sycamore Partners por US$ 8,9 bilhões, incluindo dívidas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/07/familia-canadense-weston-acerta-compra-da-rede-de-farmacias-britanica-boots-por-us-89-bi.ghtml",
-      "published": "2026-10-07T18:03:29+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Família Dona da C&A Nomeia Executivo da Sexta Geração para Comandar Holding de €40 Bilhões",
-      "summary": "Família Dona da C&amp;A Nomeia Executivo da Sexta Geração para Comandar Holding de €40 Bilhões &nbsp;&nbsp; Forbes Brasil",
-      "url": "https://forbes.com.br/geral/2026/10/familia-fundadora-ca-prepara-sucessao-cofra-40-bilhoes",
-      "published": "2026-10-07T18:21:03+00:00",
-      "source": "https://news.google.com/rss/search?q=site:forbes.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "c&a"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "c&a",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "O buraco deixado pela proibição das bets nas camisas do Brasileirão",
-      "summary": "Flamengo, Corinthians, Palmeiras e outros grandes clubes da Série A retiraram casas de apostas dos uniformes; Na Série B, Vila Nova encontrou substituto",
-      "url": "https://veja.abril.com.br/economia/o-buraco-deixado-pela-proibicao-das-bets-nas-camisas-do-brasileirao",
-      "published": "2026-10-07T18:56:20+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "OMS recomenda dieta e exercícios em vez de canetas para crianças com obesidade",
-      "summary": "OMS recomenda dieta e exercícios em vez de canetas para crianças com obesidade &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/10/oms-recomenda-alimentacao-e-exercicios-em-vez-de-canetas-para-criancas-com-obesidade.shtml",
-      "published": "2026-10-07T19:02:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Spotify entra no mercado de audiolivros no Brasil e amplia disputa com Amazon",
-      "summary": "Estreia em 15 de outubro terá mais de 6 mil títulos em português; expansão global abre novas fontes de receita para a plataforma",
-      "url": "https://veja.abril.com.br/economia/spotify-entra-no-mercado-de-audiolivros-no-brasil-e-amplia-disputa-com-amazon",
-      "published": "2026-10-07T19:13:29+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Zealand, Roche's obesity drug helps patients lose up to 9.2% weight in mid-stage trial",
-      "summary": "Zealand, Roche's obesity drug helps patients lose up to 9.2% weight in mid-stage trial &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/zealand-roches-obesity-drug-helps-patients-lose-up-92-weight-mid-stage-trial-2026-10-07",
-      "published": "2026-10-07T20:02:03+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "roche"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "roche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Com plano de recuperação homologado, GPA foca em gerar venda e caixa",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/07/com-plano-de-recuperacao-homologado-gpa-foca-em-gerar-venda-e-caixa.ghtml",
-      "published": "2026-10-07T20:35:04+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "gpa"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "gpa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Restaurantes criticam Keeta por uso de informações sem contrato em 'compra intermediada'",
-      "summary": "Redes de restaurantes estão descontentes com a ideia mais recente da Keeta para driblar contratos de exclusividade selados com outras plataformas de delivery, a modalidade chamada \"compra intermediada\". Leia mais (10/07/2026 - 18h17)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/10/restaurantes-criticam-keeta-por-uso-de-informacoes-sem-contrato-em-compra-intermediada.shtml",
-      "published": "2026-10-07T21:17:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Lululemon puts Nike veteran in charge of product as CEO O'Neill looks to right ship",
-      "summary": "Lululemon puts Nike veteran in charge of product as CEO O'Neill looks to right ship &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/retail-consumer/lululemon-puts-nike-veteran-charge-product-ceo-oneill-looks-right-ship-2026-10-07",
-      "published": "2026-10-07T21:20:11+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "lululemon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "lululemon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Americanas conclui venda de mais uma loja do Natural da Terra à rede Oba",
-      "summary": "A Americanas concluiu, nesta quarta-feira (7), mais uma operação de fechamento parcial da venda de dez lojas da rede Hortifruti Natural da Terra para o Oba Hortifruti. Segundo a companhia, a transação diz respeito a mais um ponto de venda, o quinto repassado ao comprador. O Oba concordou em comprar as dez lojas, todas localizadas no Estado de São Paulo, por R$ 69,3 milhões. Pelo acerto, o Oba pagou, à vista, R$ 1,875 milhão, montante equivalente a 18,038% do total da tranche à vista prevista para a operação parcial. O restante será pago em 24 parcelas mensais e consecutivas. Do valor depositado à vista, foram deduzidos os custos da operação, e o saldo remanescente foi destinado à conta de pagamentos M&amp;A (fusões e aquisições), conforme definido no plano de recuperação judicial da varejista, para a amortização extraordinária da 22ª emissão de debêntures não conversíveis em ações.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/07/americanas-conclui-venda-de-mais-uma-loja-do-natural-da-terra-rede-oba.ghtml",
-      "published": "2026-10-07T21:43:52+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "americanas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "americanas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Lululemon poaches Athleta CEO as new chief product officer",
-      "summary": "Lululemon announced Wednesday that Athleta CEO Maggie Gauger is joining the company as its chief product officer, a newly created role.",
-      "url": "https://www.cnbc.com/2026/10/07/lululemon-athleta-ceo-maggie-gauger-chief-product-officer.html",
-      "published": "2026-10-07T21:47:06+00:00",
-      "source": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "lululemon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "lululemon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Vem aí o Desenrola de Flávio Bolsonaro? Eis a resposta de cotado a ministro da Fazenda",
-      "summary": "Para Marcelo Kayath, que integra a equipe econômica de Flávio Bolsonaro, a solução de longo prazo para as dívidas é fazer o país crescer",
-      "url": "https://veja.abril.com.br/economia/vem-ai-o-desenrola-de-flavio-bolsonaro-eis-a-resposta-de-cotado-a-ministro-da-fazenda",
-      "published": "2026-10-07T22:54:18+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "title",
-          "score": 20,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Caneta emagrecedora: quais efeitos colaterais podem interferir nos treinos?",
-      "summary": "Caneta emagrecedora: quais efeitos colaterais podem interferir nos treinos? &nbsp;&nbsp; BOA FORMA",
-      "url": "https://boaforma.abril.com.br/web-stories-abril/caneta-emagrecedora-efeitos-colaterais-treinos",
-      "published": "2026-10-07T23:34:17+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Mercado Pago, en alianza con Chubb, lanza seguro en México para proteger pequeños comercios",
@@ -8631,6 +8075,29 @@
       "score": 20.0
     },
     {
+      "title": "Prazo pra bancos devolverem R$ 1,3 bilhão de bets acaba nesta quarta",
+      "summary": "Prazo pra bancos devolverem R$ 1,3 bilhão de bets acaba nesta quarta &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/14/10/2026/economia/prazo-pra-bancos-devolverem-r-13-bilhao-de-bets-acaba-nesta-quarta",
+      "published": "2026-10-14T12:25:22+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Apostador de bets deve receber dinheiro de volta até esta quarta-feira (14); veja o que diz a MP",
       "summary": "Termina nesta quarta-feira (14) o prazo para que bancos e instituições de pagamento devolvam o dinheiro de apostadores de casas de apostas de quota fixa, as bets . O prazo foi delimitado pela Medida Provisória (MP) do governo Lula publicada em 25 de setembro que proibiu a exploração dessas loterias no Brasil . Leia mais (10/14/2026 - 09h57)",
       "url": "https://c-level.folha.uol.com.br/financas/2026/10/apostador-de-bets-deve-receber-dinheiro-de-volta-ate-esta-quarta-feira-14-veja-o-que-diz-a-mp.shtml",
@@ -8677,29 +8144,6 @@
       "score": 20.0
     },
     {
-      "title": "Quando vai ser a votação do fim da escala 6x1?",
-      "summary": "O Senado deve votar nesta quarta-feira, em primeiro turno, a proposta de emenda à Constituição (PEC) que acaba com a escala 6x1 e reduz a jornada máxima de 44 para 40 horas semanais, sem corte de salário. A votação ocorre a 11 dias do segundo turno da eleição presidencial, em 25 de outubro, e é apontada como um trunfo pelo PT para a campanha de Lula ganha fôlego. Votação do fim da escala 6x1: O que acontece se o Senado aprovar a proposta? E se rejeitar? Entenda ‘Hipocrisia’, ‘prejudicial ao trabalhador’ e ‘solução fácil’: Saiba o que Flávio disse sobre fim da escala 6x1 antes de declarar apoio à PEC Por ser uma proposta de emenda à Constituição (PEC), são necessários dois turnos de votação. O governo Lula quer concluir os dois turnos ainda nesta quarta-feira. Aliados de Flávio Bolsonaro vinham pressionando para que a segunda votação ficasse para depois da eleição. A aprovação, porém, não muda as regras de imediato. O texto precisa ser promulgado pelo Congresso e cumprir uma transição de 14 meses. Veja abaixo os principais pontos do texto e o trâmite no Congresso. Reação: Lula atribui à ‘pressão da sociedade’ mudança de tom de Flávio Bolsonaro sobre fim da escala 6x1 O que será votado nesta quarta-feira? A PEC que será votada foi aprovada na Câmara em maio, por 472 votos no primeiro turno e 461 no segundo. O texto chega ao plenário do Senado sem mudanças. A Comissão de Constituição e Justiça (CCJ) do Senado aprovou a proposta em 2 de setembro, com quatro votos contrários. O relator, Omar Aziz (PSD-AM), rejeitou as 36 emendas apresentadas e manteve a versão dos deputados. O regimento interno do Senado exige cinco sessões de discussão em plenário antes do primeiro turno. A quarta ocorreu na terça-feira; a quinta está marcada para esta quarta, seguida da votação. São necessários 49 votos. Por alterar a Constituição, a PEC precisa do apoio de três quintos do Senado, ou seja, 49 dos 81 senadores, em cada turno. Também será votado um requerimento de calendário especial, apresentado pela base do governo, para permitir o segundo turno no mesmo dia. O que muda com a PEC? Jornada menor: o limite semanal cai de 44 para 40 horas, com até oito horas por dia. Acordos ou convenções coletivas podem prever compensação de horários e redução da jornada. Duas folgas por semana: o repouso semanal remunerado passa a ser de dois dias, um deles preferencialmente aos domingos. Na prática, o modelo padrão deixa de ser o 6x1 e passa a ser o 5x2. Sem corte de salário: o texto proíbe redução salarial nominal, proporcional ou de qualquer outra natureza, inclusive nos contratos em vigor e nos pisos das categorias. Regimes diferenciados: uma nova lei poderá criar regras próprias de jornada e descanso para atividades específicas, respeitados os limites constitucionais. Convenções coletivas podem compensar folgas, desde que a média mensal garanta dois dias de descanso por semana e ao menos um a cada sete dias. Quem fica de fora das novas regras de jornada: empregados com diploma de nível superior que ganhem ao menos 2,5 vezes o teto do INSS (hoje, R$ 21.188,87), que mantêm, porém, o direito às duas folgas; e servidores públicos da União, dos estados, do Distrito Federal e dos municípios. O que acontece se a PEC for aprovada em primeiro turno? Nada muda ainda para o trabalhador. A proposta segue para o segundo turno, que também exige ao menos 49 votos favoráveis. Pelo regimento, há um interstício de três sessões de discussão entre a primeira e a segunda votação. Porém, a líder do governo no Senado, Teresa Leitão (PT-PE), afirma ter reunido assinaturas para um requerimento de calendário especial, que dispensa esse intervalo. Segundo o presidente do Senado, Davi Alcolumbre (União-AP), o pedido já tem o número regimental de apoios e será votado após a quinta sessão de discussão. Se o calendário for aprovado, os dois turnos podem ser concluídos ainda nesta quarta-feira. Se não for, o rito normal pode empurrar a votação final para depois de 25 de outubro. A oposição vinha defendendo esse caminho: aliados de Flávio, como o coordenador de sua campanha, senador Rogério Marinho (PL-RN), queriam deixar a segunda votação para depois da eleição. E se for aprovada nos dois turnos sem mudanças? A PEC vai à promulgação. Como o Senado terá aprovado o mesmo texto da Câmara, a emenda é promulgada pelas Mesas das duas Casas, em sessão do Congresso Nacional. Diferentemente de um projeto de lei, uma emenda constitucional não passa por sanção nem pode ser vetada pelo presidente da República. A data da sessão de promulgação ainda não foi marcada. O que acontece se a PEC for alterada? Se os senadores mudarem o conteúdo, o texto volta à Câmara, onde precisa de novo do apoio de três quintos dos deputados (308 de 513) em dois turnos. Isso adiaria a promulgação. Como uma mudança pode acontecer: além das emendas já rejeitadas pelo relator, os partidos podem apresentar destaques no plenário para votar trechos em separado. Nem toda mudança devolve o texto: ajustes apenas de redação, que não alteram o sentido, não obrigam nova análise dos deputados. A supressão de um trecho também pode ser promulgada sem retorno, desde que o restante já tenha sido aprovado pelas duas Casas. E se a PEC for rejeitada? Se não alcançar 49 votos em qualquer um dos turnos, a proposta é arquivada e continuam valendo as regras atuais: até 44 horas semanais e um dia de repouso. Quando as mudanças podem entrar em vigor? Só depois da promulgação e da publicação da emenda. A transição tem duas etapas: Dois meses após a publicação: as empresas passam a adotar a escala 5x2, com dois dias de repouso, e a jornada máxima cai para 42 horas semanais. Cláusulas de acordos coletivos incompatíveis com as novas regras perdem a validade na mesma data. Doze meses depois, ou 14 meses após a publicação: a jornada máxima chega a 40 horas semanais. E as pequenas empresas? A PEC não fixa regras específicas para microempreendedores individuais (MEIs), microempresas e empresas de pequeno porte. O texto prevê que uma lei complementar futura poderá criar regras de transição para esses negócios, condicionadas à manutenção do nível de emprego. Essa lei ainda precisará ser aprovada pelo Congresso. Grupos empresariais vinham defendendo uma discussão mais ampla sobre os custos da mudança. Flávio Bolsonaro, ao anunciar seu voto, disse que, se eleito, o governo deveria compensar as empresas pela mudança.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/14/quando-vai-ser-a-votacao-do-fim-da-escala-6x1.ghtml",
-      "published": "2026-10-14T13:03:43+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Governo do Peru impõe cabelo curto a meninos e proíbe maquiagem nas escolas públicas",
       "summary": "A presidente do Peru, Keiko Fujimori, anunciou um novo regulamento disciplinar para as escolas públicas que determina que meninos mantenham os cabelos curtos e que proíbe maquiagem, esmalte e cabelos tingidos. As normas também estabelecem regras para o comprimento das saias dos uniformes usadas por estudantes de todo o país. \"Os meninos devem usar cabelo curto. É totalmente proibido pintar o cabelo ou usar maquiagem\", disse Keiko, filha do ex-ditador Alberto Fujimori, em um evento do governo em uma escola na periferia de Lima, a capital do país. \"A ordem não deve reinar apenas nas ruas, mas também voltar às nossas escolas, às nossas salas de aula.\" As novas regras também preveem a proibição do uso de celulares pelos alunos, salvo autorização do professor, uma medida que vem sendo adotada por vários países, em busca de reduzir a distração dos estudantes dentro das salas de aula. Também estão previstas a expulsão de alunos em casos de infrações mais graves e a retomada de notas disciplinares. O ministro da Educação, José Chang, explicou que o rigor em relação à aparência pessoal dos estudantes e as regras para os uniformes serão restritos às escolas públicas, que atendem cerca de 6 milhões de crianças peruanas. As instituições particulares, frequentadas normalmente por filhos de famílias com maior poder aquisitivo, poderão continuar estabelecendo as próprias regras. O regulamento disciplinar deverá ser publicado no Diário Oficial do Peru antes de entrar em vigor. Segundo o Ministério da Educação, a medida deve ser oficializada até o final deste ano. Após a publicação, os cidadãos terão um prazo de 30 dias para apresentarem objeções e críticas à medida. A ex-vice-ministra de Gestão Pedagógica Ana Andrade Pacora criticou as novas regras anunciadas por Keiko. \"Acredito que essas são medidas absolutamente equivocadas e nos farão retroceder mais de três décadas como sociedade. Equivalem a uma renúncia declarada da escola à missão de oferecer uma formação integral às novas gerações e prepará-las para o exercício da cidadania\", disse ela em entrevista ao jornal espanhol El País. Organizações da sociedade civil, como o Centro da Mulher Peruana Flora Tristan e a Coordenadoria Nacional de Direitos Humanos, também contestaram as propostas do governo, dizendo que as restrições à aparência dos estudantes não contribuem para prevenir a violência nas escolas e que as medidas são \"populistas e autoritárias\". As medidas foram tomadas depois que um adolescente de 16 anos denunciou ter sido agredido sexualmente por seus colegas durante uma viagem em um ônibus escolar. A Justiça peruana determinou a internação preventiva de seis estudantes de uma escola administrada pela Marinha, o que também gerou a intervenção do governo no local e reacendeu o debate sobre a violência nas instituições de ensino do país. Após as críticas, Keiko defendeu as medidas. \"Sei que pode ser bastante restrito, mas acreditem em mim: isso será importante ao longo da vida. Todos esses critérios estabelecerão dis-ci-pli-na\", disse a presidente, enfatizando cada sílaba. Ao tomar posse como primeira presidente da história do país, Keiko prometeu estabilizar o poder. Após um disputado processo eleitoral, ela tem o desafio de produzir resultados capazes de garantir a conclusão de seu mandato de cinco anos, algo que nenhum de seus oito antecessores conseguiu. A conservadora peruana Keiko Fujimori discursa para a imprensa na sede de seu partido REUTERS/Angela Ponce",
       "url": "https://valor.globo.com/mundo/noticia/2026/10/14/governo-do-peru-impe-cabelo-curto-a-meninos-e-probe-maquiagem-nas-escolas-pblicas.ghtml",
@@ -8723,47 +8167,24 @@
       "score": 20.0
     },
     {
-      "title": "Fim da escala 6x1 pode ser aprovada hoje, mas incerteza sobre o futuro permanece",
-      "summary": "A mudança de posição do candidato Flávio Bolsonaro, que, após se colocar frontalmente contra a medida, disse ontem que votará a favor da PEC que põe fim da escala 6x1, levanta dúvidas sobre se ele dará continuidade ao projeto num cenário eleitoral favorável a ele. Não é crível que ele tenha mudado radicalmente de posição. Isso significa que, mesmo que a PEC seja aprovada nesta quarta-feira, a incerteza permanecerá, porque já se fala na campanha de Flávio Bolsonaro em voltar à ideia do pagamento por hora trabalhada caso ele seja eleito presidente. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/fim-da-escala-6x1-pode-ser-aprovada-hoje-mas-incerteza-sobre-o-futuro-permanece.ghtml",
-      "published": "2026-10-14T13:20:38+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "iFood amplia entregas para pedidos recebidos pelos restaurantes em outros canais",
+      "summary": "iFood amplia entregas para pedidos recebidos pelos restaurantes em outros canais &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/14/10/2026/foodservice/ifood-amplia-entregas-para-pedidos-recebidos-pelos-restaurantes-em-outros-canais/amp",
+      "published": "2026-10-14T13:27:35+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
-        "Economia"
+        "E-commerce"
       ],
       "matched_aliases": [
-        "escala 6x1"
+        "ifood"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "escala 6x1",
+          "sector": "E-commerce",
+          "alias": "ifood",
           "field": "title",
           "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canal 'Exército do Lula' segue fora do ar em dia de votação do fim da escala 6x1, aposta de 'fôlego' do PT",
-      "summary": "O canal de WhatsApp \"Exército do Lula\", administrado pelo deputado federal André Janones (Rede-MG), segue fora do ar nesta quarta-feira, dia em que o PT espera impulsionar a votação da Proposta de Emenda à Constituição que acaba com a escala 6x1. A medida é a aposta de \"fôlego\" da campanha do presidente Luiz Inácio Lula da Silva (PT), que tenta tirar a vantagem de votos do adversário Flávio Boslonaro (PL) registrada no primeiro turno da corrida ao Planalto. Leia mais: TSE estabelece limites para campanhas de Lula e Flávio associarem adversários ao crime organizado Veja também: Flávio deve votar fim da escala 6x1 à distância enquanto faz campanha com aliados em Porto Alegre Com mais de quatro milhões de seguidores, a lista de transmissão saiu do ar na noite desta terça-feira após o presidente do Tribunal Superior Eleitoral (TSE), ministro Kassio Nunes Marques, ter estabelecido um prazo de 48 horas para que a ferramenta fosse registrada na Justiça Eleitoral como um endereço oficial de comunicação da campanha. A equipe de Flávio Bolsonaro (PL) havia entrado com uma ação de investigação contra o Exército do Lula há uma semana. Inicialmente avesso ao fim da escala 6x1, o senador modulou o discurso e passou a dizer que votará a favor da medida — apoiada por mais de sete em cada dez eleitores, segundo as pesquisas. Na noite desta terça, o relator do caso, ministro Ricardo Cueva, havia pedido que o caso fosse analisado pelo plenário com urgência, em sessão presencial. Segundo o presidente do TSE, com o reconhecimento do \"Exército do Lula\" como parte da comunicação da campanha do petista, um eventual uso irregular do canal levaria à responsabilização da coligação do presidente. Decisões divergentes A investigação pedida pela equipe do senador, alegando que a lista divulgava notícias falsas contra Flávio, foi para a relatoria de Cueva. Mas, no domingo, a lista foi suspensa por Nunes Marques, a partir de um outro pedido feito pelos advogados do candidato do PL. Cueva restabeleceu o serviço nesta segunda-feira. De acordo como corregedor, a defesa de Flávio apresentou ao pedido feito a Nunes Marques uma documentação que não foi enviada a ele, “incluindo dossiê de publicações, levantamento sobre a circulação de vídeos e plano de conformidade da plataforma”. O relator do caso também alegou que a suspensão de um canal exigia “demonstração da extensão e da reiteração das condutas, de sua efetiva vinculação ao meio de comunicação atingido e, especialmente, da insuficiência de providências menos restritivas, dirigidas às publicações individualizadas” — o que avaliou não ter havido. Galerias Relacionadas Nesta terça, foi a vez de a decisão do corregedor ser invalidada por Nunes Marques. O presidente do TSE afirmou que o corregedor extrapolou sua competência e interferiu em atribuições da presidência da Corte, ao proibir de novo o canal \"Exército do Lula\". Nunes Marques também questionou Cueva por não aguardar uma manifestação do plenário do tribunal sobre o caso. O ministro afirmou que não há precedente na história do tribunal de uma decisão da Corregedoria que tenha suspendido os efeitos de uma determinação da Presidência. “A razão é simples: inexiste instrumento jurídico que lhe confira semelhante competência”, afirmou em sua decisão. Mas advogados especialistas em direito eleitoral avaliaram a derrubada de toda a lista de transmissão — em vez de apenas publicações informações falsas — como uma censura prévia feita pelo presidente do TSE. Além disso, outros ministros do tribunal questionaram o fato de o presidente da Corte, ao mesmo tempo em que criticou o corregedor por ignorar o plenário, ter mantido a disputa sobre o canal de WhatsApp restrita a decisões individuais. Nunes Marques não autorizou que sua própria decisão fosse submetida aos demais ministros. E, ontem, Cueva reiterou que o plenário analise sua decisão sobre o Exército do Lula. Um integrante do TSE avalia que o presidente amplia uma crise no tribunal. Partido quer desvincular O episódio expôs uma disputa sobre os limites das atribuições da presidência e da Corregedoria-Geral da Justiça Eleitoral. Enquanto Nunes Marques sustenta que tem competência administrativa para fiscalizar o cumprimento das obrigações assumidas pelas plataformas digitais, Cueva entende que uma medida com efeitos sobre o funcionamento do canal, já submetida à análise judicial, não poderia desconsiderar a atuação da Corregedoria. Mesmo fora do tribunal, a decisão sobre a volta do funcionamento do Exército do Lula gerou insatisfações. Depois de uma reunião na tarde de ontem de Nunes Marques com as equipes jurídicas de Lula e de Flávio, o presidente do PT, Edinho Silva, afirmou que a campanha continua contra a vinculação à lista de WhatsApp e fez a conexão para seguir apenas a determinação judicial. Edinho afirmou que a legenda e Janones já pediram ao TSE a desvinculação entre a campanha e a iniciativa, por entender que o canal deve ser autônomo e reconhecido como uma forma de organização da sociedade. — Queremos que ele permaneça no ar, sendo um instrumento de organização da sociedade civil. Por isso que tomamos essa medida judicial, para impedir que caia — destacou. O dirigente petista confirmou que a atuação do Exército do Lula foi um dos temas tratados na reunião com Nunes Marques, em que o presidente do TSE pediu que a campanha presidencial tenha uma menor judicialização. — Eu disse ao ministro que a sociedade do século XX se organiza de duas formas: fisicamente, nas organizações tradicionais que nós conhecemos, e por meio das redes sociais. A sociedade tem que ser respeitada quando se organiza por meio das redes sociais e não pode haver cerceamento a essa esse direito de organização. Na segunda-feira, Lula questionou a disputa em torno do canal de WhatsApp. — Estão extrapolando em algumas decisões contra a minha campanha. Isso é visível e já foi denunciado. Não vou criar só o Exército do Lula, vou criar a Marinha, a Aeronáutica do Lula no WhatsApp. Para ele cortar, ele tem que mostrar qual é a ilegalidade, onde estamos transgredindo a lei. Não pode é o presidente da Corte Eleitoral ter lado na política — criticou o presidente em um ato de campanha. Na Câmara, Janones, o criador do Exército do Lula, reclamou da possibilidade de o canal ficar temporariamente fora do ar. — O canal pode ficar fora do ar por 48 horas. Coincidentemente ou não, no período da votação do fim da escala 6x1.Terminou a votação do fim da escala 6x1, aí eles autorizam o canal a voltar. Mandaram derrubar o canal por 48 horas, depois ele volta ao ar, mas já estamos correndo atrás, e acredito na Justiça, acredito que vamos reverter — afirmou o deputado.",
-      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/14/canal-exercito-do-lula-segue-fora-do-ar-em-dia-de-votacao-do-fim-da-escala-6x1-aposta-de-folego-do-pt.ghtml",
-      "published": "2026-10-14T13:23:13+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
+          "topic": null
         }
       ],
       "score": 20.0
@@ -8787,6 +8208,443 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Depois da venda: os (nem tão) pequenos detalhes que mudam a jornada do cliente no e-commerce",
+      "summary": "Depois da venda: os (nem tão) pequenos detalhes que mudam a jornada do cliente no e-commerce &nbsp;&nbsp; E-Commerce Brasil",
+      "url": "https://www.ecommercebrasil.com.br/artigos/depois-da-venda-os-nem-tao-pequenos-detalhes-que-mudam-a-jornada-do-cliente-no-e-commerce",
+      "published": "2026-10-14T14:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Renner e Ashua vão destinar parte das vendas à autonomia financeira feminina",
+      "summary": "Renner e Ashua vão destinar parte das vendas à autonomia financeira feminina &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/negocios/renner-ashua-autonomia-financeira-feminina",
+      "published": "2026-10-14T14:20:38+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Exclusivo: Governo quer discutir após eleição prorrogação do IPI para setores alcançados pelo Imposto Seletivo",
+      "summary": "O governo federal quer discutir, em uma proposta de emenda à Constituição (PEC) após as eleições, a prorrogação da cobrança do Imposto sobre Produtos Industrializados (IPI) até 31 de janeiro de 2027, segundo apurou o Valor. A extensão valerá exclusivamente para os setores alcançados pelo Imposto Seletivo e busca evitar um intervalo sem tributação enquanto a cobrança do novo imposto não começa. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/14/exclusivo-governo-quer-discutir-apos-eleicao-prorrogacao-do-ipi-para-setores-alcancados-pelo-imposto-seletivo.ghtml",
+      "published": "2026-10-14T14:31:02+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "imposto seletivo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "imposto seletivo",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "iFood passa a entregar pedidos de restaurantes feitos fora do aplicativo",
+      "summary": "iFood passa a entregar pedidos de restaurantes feitos fora do aplicativo &nbsp;&nbsp; E-Commerce Brasil",
+      "url": "https://www.ecommercebrasil.com.br/noticias/ifood-passa-a-entregar-pedidos-de-restaurantes-feitos-fora-do-aplicativo",
+      "published": "2026-10-14T15:09:47+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa suspende venda e uso de medicamentos sem registro; veja quais",
+      "summary": "Anvisa suspende venda e uso de medicamentos sem registro; veja quais &nbsp;&nbsp; InfoMoney",
+      "url": "https://www.infomoney.com.br/consumo/anvisa-suspende-venda-medicamentos-sem-registro",
+      "published": "2026-10-14T16:50:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamentos"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Desconto motiva 81% das compras online na Black Friday, aponta pesquisa",
+      "summary": "Desconto motiva 81% das compras online na Black Friday, aponta pesquisa &nbsp;&nbsp; E-Commerce Brasil",
+      "url": "https://www.ecommercebrasil.com.br/noticias/desconto-motiva-81-das-compras-online-na-black-friday-aponta-pesquisa",
+      "published": "2026-10-14T17:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "compras online"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "compras online",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa Aprova Novo Medicamento para Tratar Lúpus",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Agência passa a recomendar o Gazyva (obinutuzumabe) O post Anvisa Aprova Novo Medicamento para Tratar Lúpus apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-saude/2026/10/anvisa-aprova-novo-medicamento-para-tratar-lupus",
+      "published": "2026-10-14T17:35:24+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Primeira Pele: O que você precisa saber antes de usar máscaras de LED na rotina de skincare",
+      "summary": "Primeira Pele: O que você precisa saber antes de usar máscaras de LED na rotina de skincare &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/blogs/primeira-pele/2026/10/o-que-voce-precisa-saber-antes-de-usar-mascaras-de-led-na-rotina-de-skincare.shtml",
+      "published": "2026-10-14T18:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Prazo Para Bancos Devolverem R$ 1,3 Bilhão de Bets Acaba Nesta Quarta",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Cerca de 26,5 milhões de apostadores podem ser beneficiados; valores que não forem devolvidos por dificuldades operacionais serão encaminhados à Caixa Econômica Federal O post Prazo Para Bancos Devolverem R$ 1,3 Bilhão de Bets Acaba Nesta Quarta apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/10/prazo-pra-bancos-devolverem-r-13-bilhao-de-bets-acaba-nesta-quarta",
+      "published": "2026-10-14T18:08:22+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "´Vestibulou': veja como as canetas emagrecedoras pode cair nas questões da Unicamp",
+      "summary": "´Vestibulou': veja como as canetas emagrecedoras pode cair nas questões da Unicamp &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sp/campinas-regiao/video/vestibulou-veja-como-as-canetas-emagrecedoras-pode-cair-nas-questoes-da-unicamp-15058603.ghtml",
+      "published": "2026-10-14T19:13:38+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Às vésperas do iPhone Duo, Apple atinge US$ 5 trilhões em valor de mercado",
+      "summary": "Marco chega no início da gestão de John Ternus, engenheiro que sucedeu Tim Cook com a missão de renovar produtos e avançar em inteligência artificial",
+      "url": "https://exame.com/tecnologia/as-vesperas-do-iphone-duo-apple-atinge-us-5-trilhoes-em-valor-de-mercado",
+      "published": "2026-10-14T19:54:50+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "apple"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "apple",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Apple se prepara para lançar primeiros recursos de IA na China em dezembro, diz agência",
+      "summary": "A Apple está se preparando para lançar sua plataforma de inteligência artificial na China continental, após um longo atraso regulatório que manteve os recursos de IA da empresa fora de um de seus mercados mais importantes. A fabricante do iPhone planeja lançar o Apple Intelligence na região em dezembro, como parte de uma próxima atualização do iOS 27.3, segundo pessoas familiarizadas com o assunto. A estreia incluirá os recursos de IA lançados inicialmente nos Estados Unidos há dois anos para iPhone, iPad e Mac. O lançamento não incluirá o novo assistente de IA Siri nem outros recursos anunciados neste ano, disseram as fontes, que pediram para não ser identificadas porque os planos são confidenciais. A empresa recebeu aprovação preliminar em julho para introduzir o Apple Intelligence na China, mas recentemente realizou novas conversas com o Ministério da Indústria e Tecnologia da Informação do país para obter autorização para o lançamento ao público. Tim Cook, presidente executivo da Apple, participou no mês passado de um jantar de Estado na Casa Branca em homenagem ao presidente chinês, Xi Jinping. A chegada à China será resultado de anos de trabalho da Apple. Em determinado momento, a empresa acreditava que o lançamento ocorreria em maio de 2025. A data foi adiada para o fim daquele ano e, posteriormente, para a primavera deste ano, enquanto a empresa permanecia sem informações claras sobre o andamento do processo de aprovação do governo chinês. Um porta-voz da Apple, sediada em Cupertino, na Califórnia, se recusou a comentar. Para obter a aprovação do Apple Intelligence, a empresa precisou fazer algumas concessões. Diferentemente do que ocorre em outros países, a plataforma contará com mecanismos de proteção desenvolvidos em parceria com o Alibaba Group, da China. Entre eles está um filtro que permite ao governo aprovar atualizações contínuas dos modelos de IA. A Apple também está trabalhando com a Baidu em recursos relacionados a buscas e à Siri. Em 29 de setembro, a Apple recebeu licenças das autoridades chinesas que permitem que iPhones recentes ofereçam suporte ao Apple Intelligence e a modelos de IA do Alibaba, incluindo o Tongyi Wanxiang e o Qwen. A versão inicial do Apple Intelligence inclui recursos como os Genmoji, que permitem criar emojis personalizados, resumos de notificações, ferramentas de escrita e a possibilidade de remover elementos específicos de fotografias. Ainda não está claro, porém, se essa tecnologia impressionará os consumidores chineses. Muitos dos primeiros recursos de IA da Apple foram amplamente criticados por apresentar falhas de funcionamento e não acompanhar as ofertas dos concorrentes. Isso levou a empresa a reformular o Apple Intelligence e apresentar a Siri com IA neste ano. No entanto, a nova assistente, reconstruída com base nos modelos Gemini, do Google, não será lançada na China nesta etapa. O mesmo vale para outros recursos recentes do Apple Intelligence, incluindo a capacidade de expandir imagens, uma versão aprimorada das ferramentas de escrita, Genmoji muito mais avançados e um modo da Siri voltado à inteligência visual por meio da câmera. Os executivos da Apple não estão otimistas quanto à possibilidade de lançar a Siri com IA na China em um futuro próximo. A primeira versão do Apple Intelligence no país também não contará com as ferramentas próprias da empresa para geração de imagens, incluindo o aplicativo Image Playground, a fim de cumprir as exigências regulatórias. Alguns recursos de geração de texto também terão uso limitado em determinados aplicativos. Com a proliferação de serviços de IA nos smartphones de concorrentes como Huawei Technologies, Xiaomi, Oppo Guangdong Mobile Telecommunications, Vivo Mobile e outras empresas na China, ainda não está claro quanto a Apple poderá se beneficiar ao lançar no país um conjunto de recursos de IA relativamente básicos e com dois anos de existência. A outra grande região em que a Apple enfrenta dificuldades para disponibilizar seus recursos mais recentes é a União Europeia. A empresa lançou os recursos iniciais do Apple Intelligence no bloco meses depois da estreia nos Estados Unidos, em 2024. No caso das funcionalidades mais recentes, a Apple recebeu autorização para introduzir a maioria delas na Europa dentro do cronograma, em setembro. A Siri com IA, no entanto, continua indisponível na União Europeia em iPhones, iPads e Apple Watches. Segundo pessoas familiarizadas com o assunto, ainda não está claro se, ou quando, a Apple receberá autorização para lançar o recurso na região.",
+      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/10/14/apple-se-prepara-para-lancar-primeiros-recursos-de-ia-na-china-em-dezembro-diz-agencia.ghtml",
+      "published": "2026-10-14T20:26:35+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "apple"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "apple",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Temu - Brazil Journal",
+      "summary": "Temu &nbsp;&nbsp; Brazil Journal",
+      "url": "https://braziljournal.com/tag/temu",
+      "published": "2026-10-14T21:30:38+00:00",
+      "source": "https://news.google.com/rss/search?q=site:braziljournal.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "temu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "temu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Do checkout às passarelas: Mercado Livre desfila na SPFW com peças e live commerce",
+      "summary": "Do checkout às passarelas: Mercado Livre desfila na SPFW com peças e live commerce &nbsp;&nbsp; E-Commerce Brasil",
+      "url": "https://www.ecommercebrasil.com.br/noticias/do-checkout-as-passarelas-mercado-livre-desfila-na-spfw-com-pecas-e-live-commerce",
+      "published": "2026-10-14T22:11:14+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Grupo é investigado após furto de canetas emagrecedoras em MT",
+      "summary": "Grupo é investigado após furto de canetas emagrecedoras em MT &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/mt/mato-grosso/video/grupo-e-investigado-apos-furto-de-canetas-emagrecedoras-em-mt-15059183.ghtml",
+      "published": "2026-10-14T22:34:59+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Motorista suspeito de apoiar furtos de canetas emagrecedoras é preso em Cuiabá",
+      "summary": "Motorista suspeito de apoiar furtos de canetas emagrecedoras é preso em Cuiabá &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/mt/mato-grosso/noticia/2026/10/14/motorista-suspeito-de-apoiar-furtos-de-canetas-emagrecedoras-e-preso-em-cuiaba.ghtml",
+      "published": "2026-10-14T22:54:27+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Justicia archiva la denuncia contra Marcos Galperin por usura en Mercado Pago",
+      "summary": "Justicia archiva la denuncia contra Marcos Galperin por usura en Mercado Pago &nbsp;&nbsp; iProUP",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVWc2NXg5dEdPYWFlZ25rTUgwN1cyLUk4ZkNCeDJFdEZKU1phNjNidlZHRmF3bXNFQkszRDRmZGRJaERabTlEWDNUMGhoaERMcWVBNlBab2dLVlVSOVRZVm9WbUl1c1hZWUgtZHhyYmNPVEUxOWNaM3Y0dnNWSGxKYmdubGNUNmVMbXFEWVdOeEZuMUd4LWV5a2JPWmg4bUVyWDhHODhIa3ZCOXRrb1JkakZSY0NjRGIyY2hGZmdEaFbSAcABQVVfeXFMT1VnNjV4OXRHT2FhZWdua01IMDdXMi1JOGZDQngyRXRGSlNaYTYzYnZWR0Zhd21zRUJLM0Q0ZmRkSWhEWm05RFgzVDBoaGhETHFlQTZQWm9nS1ZVUjlUWVZvVm1JdXNYWVlILWR4cmJjT1RFMTljWjN2NHZzVkhsSmJnbmxjVDZlTG1xRFlXTnhGbjFHeC1leWtiT1poOG1Fclg4Rzg4SGt2Qjl0a29SZGpGUmNDY0RiMmNoRmZnRGhW?oc=5",
+      "published": "2026-10-14T23:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "PEC do fim da escala 6x1 gera mais de 700 mil publicações nas redes em 24 horas, diz levantamento",
+      "summary": "A votação da proposta de emenda à Constituição (PEC) que prevê o fim da escala de trabalho 6x1 no Senado gerou 738.349 publicações nas redes sociais em 24 horas, segundo levantamento do Instituto Democracia em Xeque, divulgado nesta quarta-feira (14). A repercussão coloca o assunto entre os episódios políticos de maior mobilização digital monitorados pelo instituto desde 2025. A esquerda liderou as discussões entre os perfis políticos analisados, com 61% das publicações e das interações, impulsionada principalmente pelas críticas à mudança de posicionamento do candidato à Presidência Flávio Bolsonaro (PL). O monitoramento, realizado entre meio-dia de terça-feira (13) e meio-dia desta quarta-feira (14), identificou cerca de 54,3 mil perfis envolvidos nas discussões, que somaram 7,8 milhões de interações. Para o levantamento, o instituto analisou conteúdos publicados no Facebook, Instagram, YouTube, X e TikTok, a partir de uma base de mais de 19 mil perfis, incluindo políticos, influenciadores e veículos de imprensa. O maior volume de publicações ocorreu na tarde de terça-feira, após Flávio anunciar que votaria a favor da proposta, apesar de ter criticado anteriormente a medida. O pico de repercussão foi de 59,7 mil publicações em uma hora, registrado duas horas após o início do monitoramento do episódio. Para dimensionar a repercussão, o instituto comparou os dados com outros acontecimentos políticos analisados entre 2025 e 2026, considerando o mesmo intervalo de 24 horas. O volume de publicações sobre o fim da escala 6x1 superou o registrado no episódio envolvendo o pedido de impeachment do ministro Alexandre de Moraes, do Supremo Tribunal Federal (STF), em agosto de 2025, que acumulou 329.708 menções, e na discussão sobre a classificação do Primeiro Comando da Capital (PCC) e do Comando Vermelho (CV) como organizações terroristas, em maio deste ano, com 499.562. Repercussão de acontecimentos políticos nas redes sociais, segundo monitoramento elaborado pelo Instituto Democracia em Xeque Reprodução/Instituto Democracia em Xeque A repercussão também ultrapassou a registrada na polêmica envolvendo Nossa Senhora Aparecida, em setembro, que somou 647.013 publicações no mesmo intervalo. Por outro lado, ficou abaixo da condenação do ex-presidente Jair Bolsonaro (PL), em 2025, que reuniu 756.141 menções, e da revelação de repasses do ex-banqueiro Daniel Vorcaro, do Banco Master, para o filme \"Dark Horse\", cinebiografia de Bolsonaro, revelados em conversas entre Vorcaro e Flávio, com 911.913 publicações. O maior volume entre os casos comparados foi registrado na discussão sobre a medida provisória (MP) apresentada pelo governo Lula para proibir apostas esportivas, em setembro, com 1.332.600 publicações nas primeiras 24 horas. Esquerda lidera debate O instituto também fez uma análise qualitativa que considerou publicações realizadas entre 11 e 14 de outubro, agrupadas em seis eixos temáticos conforme a proximidade de vocabulário, para identificar os principais argumentos de cada campo político. O estudo considera a repercussão em torno da votação, e não o resultado da deliberação no Senado. Nesse sentido, o Democracia em Xeque identificou 1.512 publicações, responsáveis por 46 milhões de interações. A esquerda concentrou 61% das postagens e 61% das interações, enquanto a extrema-direita respondeu por 19% das publicações e 16% do engajamento. A imprensa representou 19% das postagens e 23% das interações. A mudança de posicionamento de Flávio foi o principal assunto desse recorte, com 432 publicações, equivalentes a 29% do total, e 15,5 milhões de interações, ou 34% de engajamento. Desse conjunto de postagens, 74% partiram de perfis identificados com a esquerda, 21% da extrema-direita e 5% da imprensa. Segundo o relatório, as publicações da esquerda recuperaram declarações anteriores de Flávio, que havia classificado a proposta como \"inoportuna e eleitoreira\", para acusá-lo de mudar de opinião diante da proximidade do segundo turno da eleição presidencial. A interpretação predominante nesse campo foi a de que o candidato teria recuado por receio do desgaste eleitoral provocado pela oposição a uma medida popular entre os trabalhadores. Outro eixo relevante foi o da defesa dos direitos trabalhistas, que reuniu 338 publicações, ou 22% do total, e 8,4 milhões de interações. Nesse grupo, a esquerda teve participação de 86%, a maior concentração de um único campo político entre os assuntos analisados. As mensagens destacaram a possibilidade de ampliar o tempo de descanso, a convivência familiar e a qualidade de vida dos trabalhadores. Parte das publicações também atribuiu ao presidente Luiz Inácio Lula da Silva (PT) o avanço da proposta no Congresso. A discussão sobre o posicionamento dos senadores e os possíveis efeitos eleitorais da votação respondeu por outras 338 publicações e 14 milhões de interações, equivalentes a 30% do engajamento total. Nesse eixo, a imprensa liderou com 39% das postagens, seguida pela esquerda, com 35%, e pela extrema-direita, com 26%. Já as publicações relacionadas especificamente à tramitação da PEC e ao calendário de votação no Senado representaram 9% do conteúdo analisado, mas apenas 3% das interações. Para o instituto, os números indicam que a disputa política em torno da mudança de posição de Flávio mobilizou mais as redes do que os procedimentos legislativos para a aprovação da proposta. Entre os perfis de direita, as principais manifestações questionaram a decisão de levar a PEC ao plenário a poucos dias do segundo turno, marcado para 25 de outubro. As publicações acusaram Lula de utilizar a proposta como estratégia eleitoral e levantaram preocupações sobre possíveis impactos da redução da jornada nos custos das empresas e na geração de empregos. Parte desses perfis também passou a apresentar o apoio anunciado por Flávio como demonstração de compromisso com os trabalhadores, argumentando que a redução da jornada não deveria ser associada exclusivamente ao governo Lula.",
+      "url": "https://valor.globo.com/politica/noticia/2026/10/14/pec-do-fim-da-escala-6x1-gera-mais-de-700-mil-publicacoes-nas-redes-em-24-horas-diz-levantamento.ghtml",
+      "published": "2026-10-14T23:00:48+00:00",
+      "source": "https://pox.globo.com/rss/valor/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Flávio Bolsonaro faz agenda no RS em dia de votação sobre escala 6x1 e ignora assunto em comício",
+      "summary": "O senador e candidato à Presidência da República pelo PL, Flávio Bolsonaro , cumpriu agenda de campanha nesta quarta-feira (14) no Rio Grande do Sul sem falar publicamente sobre a PEC (Proposta de Emenda Constitucional) do fim da escala de trabalho 6x1, que começou a ser votada no Senado no final da tarde. Leia mais (10/14/2026 - 20h27)",
+      "url": "https://www1.folha.uol.com.br/poder/2026/10/flavio-bolsonaro-faz-agenda-no-rs-em-dia-de-votacao-sobre-escala-6x1e-ignora-assunto-em-comicio.shtml",
+      "published": "2026-10-14T23:27:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 20.0
@@ -9049,6 +8907,38 @@
       "score": 16.0
     },
     {
+      "title": "Samsung lança maior tablet de sua história e muda estratégia para conquistar usuários",
+      "summary": "Não é apenas no segmento de smartphones que os fabricantes vêm investindo em novos formatos. A Samsung está lançando no Brasil o maior tablet de sua história. Chamado Galaxy Tab S12 Ultra, o aparelho tem tela de 14,6 polegadas e é voltado a quem busca uma área ampla para trabalhar com edição de conteúdo, multitarefa e aplicativos profissionais. O preço é de R$ 11.039. Aviação: Lufthansa vence disputa e compra quase metade das ações da TAP iPhone 18 Pro: veja como melhorar seus vídeos com controles de foco e luz Com isso, a Samsung muda sua estratégia. Em vez de concentrar os investimentos em recursos como a resolução das câmeras, a fabricante sul-coreana aposta em um modelo com maior capacidade de processamento, capaz de executar diferentes sistemas de inteligência artificial generativa e agêntica. O tablet integra assistentes como Bixby, Perplexity e Gemini, do Google. Em outra frente, a Samsung firmou uma parceria com a Adobe para oferecer o inédito Photoshop para tablets além do Canva Pro, plataforma de design gráfico que permite criar artes. A lista de serviços gartuitos inclui ainda o Google AI Pro, com 5 TB de armazenamento, o ArcSite, voltado à criação de desenhos técnicos, e o Clip Studio Paint, destinado à produção de ilustrações e artes digitais, entre outros aplicativos. A estratégia busca impulsionar o segmento de tablets, que, segundo projeções atribuídas à IDC, deve fechar o ano com queda de cerca de 31%, para 2,1 milhões de unidades comercializadas no Brasil. Segundo Rafael Resende, gerente de Tablets da Samsung Brasil, as mudanças no aparelho refletem a transformação nos hábitos dos consumidores, que passaram a enxergar os tablets como parte de um ecossistema de dispositivos, complementando a experiência com computadores, notebooks e smartphones. — Os primeiros modelos do mercado tinham telas LCD de 7 a 8 polegadas, maior espessura e acabamento em plástico, sendo vistos, muitas vezes, como dispositivos básicos e voltados ao entretenimento. O mercado de tablets vem passando por uma transformação nos últimos anos. Eles deixaram de ser vistos como dispositivos isolados, como uma segunda tela ou apenas para o consumo de mídia. Hoje, a busca por telas maiores e alta portabilidade reflete a necessidade de dinamismo dos usuários — afirma o executivo. Samsung lança seu maior tablet, o Galaxy Tab S12 Ultra, com tela de 14,6 polegadas Divulgação Para viabilizar os recursos de inteligência artificial, o novo tablet conta com maior capacidade de processamento e uma câmara de vapor redesenhada para dissipar o calor com mais eficiência. Além disso, o dispositivo tem design ultrafino, com apenas 5,1 milímetros de espessura, e autonomia de bateria de até 23 horas de reprodução de vídeo. A tela Dynamic AMOLED 2X promete imagens mais vibrantes, melhor contraste e menor consumo de energia. O executivo destaca ainda a tecnologia Vision Booster, que ajusta o brilho da tela de acordo com as condições de iluminação para facilitar a visualização em diferentes ambientes, inclusive ao ar livre. Para atrair consumidores, a companhia inclui na caixa a caneta inteligente S Pen e uma capa com teclado Slim. - O tablet é hoje uma espécie de central de produtividade e trabalho portátil. O dispositivo deixou de ser complementar para se tornar um importante dispositivo integrado no espaço de trabalho - afirma Resende.",
+      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/10/14/samsung-lanca-maior-tablet-de-sua-historia-e-muda-estrategia-para-conquistar-usuarios.ghtml",
+      "published": "2026-10-14T20:13:11+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Eletrônicos",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "iphone",
+        "smartphones"
+      ],
+      "matches": [
+        {
+          "sector": "Eletrônicos",
+          "alias": "smartphones",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "iphone",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Mahogany abre oito lojas e aposta em unidade multicanal",
       "summary": "A Mahogany, marca brasileira de perfumaria e cosméticos fundada em 1991 por Jaime Drummond, inaugura oito lojas nas próximas semanas: duas em Boa Vista (Roraima), uma em Ubatuba (São Paulo), uma em Brasília (Distrito Federal), uma em Floriano (Piauí), uma em Florianópolis (Santa Catarina), uma em Lavras (Minas Gerais) e uma no Rio de Janeiro (Rio de Janeiro). A abertura simultânea coloca em evidência o formato que a empresa passou a tratar como eixo da expansão: cada unidade concentra, no mesmo endereço, o atendimento ao consumidor, o suporte às consultoras de venda direta e a operação integrada ao comércio eletrônico. A rede deve encerrar o ano com 220 operações. A marca também está presente em cerca de 660 pontos de venda multimarca, entre perfumarias, lojas de cosméticos e farmácias premium, e conta com quase 20 mil consultoras autônomas. O portfólio reúne mais de 250 produtos, e as fragrâncias respondem por mais da metade do negócio. \"O modelo de loja que trabalhamos atualmente vai além da venda tradicional: somos uma plataforma de vendas\", afirma Brian Drummond, membro do conselho da Mahogany. Na empresa familiar, que passou por um processo de sucessão e profissionalização, ele acompanha de perto as áreas ligadas à experiência do consumidor, como trade marketing, marketing e canais digitais. A loja cumpre três papéis. O primeiro é o de vitrine da marca. O formato Mahogany Boutique, de 25 m² a 35 m², organiza o portfólio e a exposição dos produtos em quatro plataformas conceituais, cada uma associada a uma jornada emocional e olfativa: Status, com fragrâncias ligadas a conquistas pessoais e profissionais; Sedução, com perfumes intensos e envolventes; Autenticidade, voltada à conexão com a própria essência; e Afeto, com notas delicadas que remetem a celebrações, pessoas e memórias. O segundo é o de base comercial para a venda direta: as consultoras se apoiam na unidade para levar os produtos a bairros e municípios vizinhos, o que estende o alcance do ponto além do fluxo do shopping ou da rua onde está instalado. O terceiro é o omnichannel. A loja pode funcionar como ponto de retirada das compras feitas no site, que atende todo o país, e despacha pedidos para localidades próximas. A combinação dialoga com o peso dos canais envolvidos. Segundo a ABEVD (Associação Brasileira de Empresas de Vendas Diretas), a venda direta movimentou cerca de R$ 50 bilhões no Brasil em 2025, com uma força de vendas de aproximadamente 3 milhões de empreendedores independentes. Ao ligar a consultora à loja física, a marca transforma o ponto em um centro de distribuição de proximidade. Para quem avalia investir no modelo de franquia da Mahogany, esse desenho muda a leitura do negócio, porque a unidade passa a ter mais de uma frente de receita e de relacionamento com o cliente. A franqueadora oferece suporte que vai da seleção e da negociação do ponto ao projeto arquitetônico, passando por treinamento de equipe, gestão de estoque e marketing. Na rede, há franqueados que operam oito, nove e dez lojas da marca, mas também existem franqueados que têm uma loja, ainda iniciando no ramo de franquias. Drummond defende que a expansão venha acompanhada de um esforço de esclarecimento sobre o funcionamento do sistema. \"Tem gente que tem medo de investir numa franquia e tem gente que acha que franquia é uma poupança, que você paga uma vez e começa a receber. A franqueadora tem 50% da responsabilidade e o franqueado tem os outros 50%\", diz. O movimento ocorre em um segmento que cresce acima da média do franchising. Dados da ABF (Associação Brasileira de Franchising) mostram que o mercado de franquias faturou R$ 76,3 bilhões no segundo trimestre de 2026, alta nominal de 9,3%. No mesmo período, Saúde, Beleza e Bem-Estar avançou 15,2% e somou R$ 21,1 bilhões, o maior faturamento entre as categorias acompanhadas pela entidade. Na perfumaria, o Brasil ocupa a segunda posição entre os maiores mercados de fragrâncias do mundo, com crescimento de 10% em 2025, segundo a Euromonitor, em dados divulgados pela ABIHPEC (Associação Brasileira da Indústria de Higiene Pessoal, Perfumaria e Cosméticos). Pioneira na introdução do sabonete líquido no país, a Mahogany atua no luxo acessível, com produtos premium voltados principalmente às classes B e C. As inaugurações coincidem com a abertura da temporada de presentes de fim de ano e com o lançamento da coleção de kits de Natal, que a empresa antecipa para acompanhar o calendário das consultoras.",
       "url": "https://valor.globo.com/patrocinado/pulse-brand/noticia/2026/10/09/mahogany-abre-oito-lojas-e-aposta-em-unidade-multicanal-1.ghtml",
@@ -9247,119 +9137,35 @@
       "score": 10.0
     },
     {
-      "title": "Agrolend Day debate crédito e futuro da distribuição",
-      "summary": "A segunda edição do Agrolend Day, realizada em São Paulo, reuniu executivos de diferentes elos do agronegócio para discutir os principais desafios e oportunidades do crédito e dos negócios no setor. Promovido pela Agrolend, o encontro teve como eixo central a transformação do agro diante de um novo cenário de juros, inadimplência, necessidade de maior eficiência financeira e busca por modelos mais integrados de atendimento ao produtor. Para André Glezer, co-CEO da empresa, o evento reforça a importância da aproximação entre os diferentes agentes da cadeia. \"O Agrolend Day nasceu para aproximar quem está à frente das grandes decisões do agro. Reunimos a espinha dorsal do crédito, da indústria de insumos e da distribuição. É um espaço de troca, relacionamento e discussão sobre os caminhos que vão moldar o futuro do setor\", afirma. Sobre o cenário atual, Alan Glezer, co-CEO, destaca: \"O Agro vive um momento que exige novas estratégias para se manter competitivo. No Agrolend Day, o sentimento foi de que o pior deste ciclo já passou\". Ao longo da programação, quatro painéis abordaram diferentes perspectivas desse movimento: \"A indústria de insumos na virada do ciclo: juros, margens, inadimplência e o que vem pela frente\"; \"Soluções integradas de crédito para o Agro: do cliente ao sistema produtivo\"; \"Crescer com o balanço saudável: a disciplina financeira que sustenta a expansão no Agro\"; e \"O futuro da distribuição no Agro: o que vem agora?\". Os debates passaram pela integração das soluções de crédito ao longo da cadeia do agronegócio, pela necessidade de maior conexão entre as áreas financeiras e comerciais e pelo futuro das revendas. Também foram discutidas a diversificação dos serviços, novas formas de relacionamento com o produtor e os caminhos para tornar a distribuição mais eficiente diante das mudanças no setor. Entre os principais temas discutidos esteve a necessidade de maior integração entre crédito, áreas comerciais e produtores, com a busca por modelos financeiros mais estruturados e conectados às diferentes etapas da cadeia do agronegócio. A transformação da distribuição de insumos também marcou as discussões, abordando o futuro das revendas, a diversificação dos serviços oferecidos e a necessidade de ampliar a relação com o produtor em um cenário de maior pressão sobre margens, crédito e gestão. Outro ponto central do encontro foi a perspectiva de mudança no ciclo do agronegócio. \"O Agrolend Day é muito mais do que um evento. É uma oportunidade de estarmos próximos dos nossos clientes e parceiros, trocar ideias sobre o momento dos seus negócios e fortalecer relações que construímos ao longo do tempo. É uma combinação muito importante entre conteúdo e relacionamento\", afirma o fundador e diretor Comercial, Carlos Fagundes. A segunda edição do Agrolend Day reforçou, assim, a importância de discutir o financiamento do agronegócio de forma integrada, considerando não apenas a oferta de crédito, mas também gestão de risco, geração de caixa, eficiência operacional, tecnologia, relacionamento com o produtor e novos modelos de distribuição. As discussões realizadas no encontro evidenciaram que a transformação do setor passa pela capacidade de os diferentes elos da cadeia trabalharem de maneira mais conectada. Para saber mais sobre o evento e acompanhar as novidades do encontro, siga as redes sociais da empresa no Instagram e no LinkedIn.",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/07/agrolend-day-debate-credito-e-futuro-da-distribuicao-1.ghtml",
-      "published": "2026-10-07T17:31:35+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Microsoft diz que novo laptop com chip da Nvidia supera MacBooks",
-      "summary": "A Microsoft revelou o preço e a disponibilidade de seu novo laptop topo de linha equipado com chips da Nvidia, afirmando que o aparelho supera um modelo equivalente da Apple em algumas tarefas de inteligência artificial. Risco: ‘A IA não é como um aparelho que pode ser desligado', diz o físico Constantino Tsallis Dispositivos: Aposta da Apple em ‘casas inteligentes’ inclui campainha, fechadura e termostato O Surface Laptop Ultra consegue responder a comandos de modelos de inteligência artificial executados localmente duas vezes mais rápido que o MacBook Pro M5, da Apple, disseram executivos da Microsoft nesta quarta-feira, durante um evento em São Francisco. O aparelho também é capaz de gerar vídeos seis vezes mais rápido que o dispositivo equivalente da Apple, segundo os executivos. O Ultra, cujas entregas começarão em breve, terá preço inicial de US$ 2.599, cerca de US$ 400 a menos do que a versão básica do MacBook Pro de 16 polegadas. Entenda: Musk vai trocar o nome da SpaceXAI a pedido de Trump A Microsoft está trabalhando para manter a posição dominante de seu sistema operacional Windows na era da inteligência artificial. Os computadores de mesa da Apple têm registrado uma onda de demanda devido à eficiência com que conseguem executar modelos de IA. O novo dispositivo Surface é baseado em um chip da Nvidia desenvolvido para laptops com Windows, que será responsável tanto pela computação de uso geral quanto pelo processamento de IA. Isso abre uma nova frente de competição entre a Nvidia e as principais fabricantes de processadores para PCs de uso geral, Intel e Advanced Micro Devices (AMD). R$ 44 tri a mais no bolso: Boom de IA leva bilionários da tecnologia ao melhor ano de suas vidas O CEO da Nvidia, Jensen Huang, juntou-se a seu homólogo na Microsoft, Satya Nadella, no palco para falar sobre o desenvolvimento do novo chip para PCs. — Nós reinventamos completamente o computador pessoal — disse Huang. Outros fabricantes de PCs, como Dell Technologies e HP, que utilizam o sistema operacional Windows, também desenvolveram dispositivos equipados com o novo chip da Nvidia. Durante o evento, os executivos defenderam o uso do Windows para trabalhos relacionados à inteligência artificial. Os desenvolvedores podem economizar dinheiro e aumentar a segurança ao utilizar o poder de processamento do próprio dispositivo, em vez de pagar a um provedor de serviços em nuvem. Eles também destacaram recursos de segurança do Windows para monitorar e controlar as ações de agentes de IA. Entenda: CEOs de Anthropic, OpenAI, Google e xAI querem mesmo desacelerar o ritmo da inteligência artificial? Com o tempo, desenvolvedores e usuários esperam que as ferramentas de inteligência artificial sejam alimentadas por uma combinação de hardware local e serviços de nuvem, disse Nadella. No verão de 2024, a Microsoft iniciou uma ampla campanha de marketing com parceiros como a Qualcomm para promover PCs otimizados para inteligência artificial. As empresas prometiam recursos de IA incorporados diretamente aos dispositivos, viabilizados por chips mais potentes baseados em projetos da Arm Holdings. Mas o lançamento foi prejudicado por preocupações com a privacidade relacionadas a um de seus principais recursos, criado para oferecer um registro útil das ações realizadas pelos usuários em seus dispositivos. A empresa de análise de mercado Gartner afirmou no início deste ano que o aumento dos custos de memória provavelmente fará com que os PCs com IA demorem até 2028 para representar a maioria dos embarques.",
-      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/10/07/microsoft-diz-que-novo-laptop-com-chip-da-nvidia-supera-macbooks.ghtml",
-      "published": "2026-10-07T19:18:18+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "Bolsas da Europa fecham em alta com foco em balanços corporativos e cenário fiscal",
+      "summary": "Os principais índices de ações europeus fecharam em alta nesta quarta-feira (14), com investidores repercutindo a temporada de balanços do terceiro trimestre, com destaque para os números da ASML, que vieram acima do esperado. O segmento de luxo recuperou parte das perdas da véspera, quando resultados da LMVH decepcionarem os investidores, também dando suporte para as bolsas. A notícia de que o Ministério das Finanças do Reino Unido deve evitar o aumento do endividamento no Orçamento previsto para o fim deste mês foi outro fator positivo. No fechamento, o índice pan-europeu Stoxx 600 teve alta de 0,47%, aos 638,01 pontos, o FTSE 100, da Bolsa de Londres, subiu 0,70%, aos 10.724,86 pontos, o DAX, de Frankfurt, anotou ganho de 0,15%, aos 25.298,61 pontos, e o CAC 40, de Paris, avançou 0,58%, aos 7.873,11 pontos. Entre os destaques do Stoxx 600, as ações da ASML subiram 1,19%, após investidores reagirem positivamente a seus resultados trimestrais. A empresa fornece equipamentos para fabricação de chips e disse que a demanda impulsionada pelo avanço da inteligência artificial é tão forte que a companhia não será capaz de atender plenamente os clientes. Além disso, a ASML aumentou sua projeção de vendas para o ano e pretende expandir sua capacidade de operação. No entanto, o bom humor não foi suficiente para apoiar outras empresas do segmento, e o setor de tecnologia terminou o dia em alta de apenas 0,19%. O setor de luxo acumulou uma valorização de 1,12%, recuperando parte das perdas da véspera, depois dos números trimestrais da LVMH decepcionarem os investidores. Por outro lado, os subíndices do Stoxx 600 de mineração, bancos e automóveis terminaram o pregão com quedas de 1,17%, 0,51% e 0,62%, respectivamente. Em Londres, as ações se beneficiaram da notícia de que o ministro das Finanças do Reino Unido, John Healey, evitará ampliar o endividamento no Orçamento, previsto para o fim deste mês, de acordo com o jornal Financial Times. Ele deve financiar novas iniciativas por meio de aumentos de impostos ou cortes de gastos. Operadores da bolsa de valores Euronext NV em Paris Nathan Laine/Bloomberg",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/14/bolsas-da-europa-fecham-em-alta-com-foco-em-balancos-corporativos-e-cenario-fiscal.ghtml",
+      "published": "2026-10-14T16:22:07+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
       "matched_sectors": [
         "Global Consumer"
       ],
       "matched_aliases": [
-        "apple"
+        "luxo",
+        "setor de luxo"
       ],
       "matches": [
         {
           "sector": "Global Consumer",
-          "alias": "apple",
-          "field": "lead",
-          "score": 8,
+          "alias": "setor de luxo",
+          "field": "body",
+          "score": 2,
           "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "As estratégias para academias se destacarem em mercado de mais de 70 mil unidades, segundo CEO",
-      "summary": "Proposta de valor, conveniência, identidade e tecnologia estão entre recomendações de Priscila Aguiar, diretora-executiva da Academia Gaviões 24h",
-      "url": "https://veja.abril.com.br/economia/as-estrategias-para-academias-se-destacarem-em-mercado-de-mais-de-70-mil-unidades-segundo-ceo",
-      "published": "2026-10-07T19:24:26+00:00",
-      "source": "https://veja.abril.com.br/economia/feed",
-      "matched_sectors": [
-        "Academias"
-      ],
-      "matched_aliases": [
-        "academia gaviões"
-      ],
-      "matches": [
+        },
         {
-          "sector": "Academias",
-          "alias": "academia gaviões",
+          "sector": "Global Consumer",
+          "alias": "luxo",
           "field": "lead",
           "score": 8,
           "topic": null
         }
       ],
-      "score": 8.0
-    },
-    {
-      "title": "‘Não há mandato para grandes mudanças em eventual governo Flávio, afirma cientista político",
-      "summary": "Após ganhar de Kamala Harris nas eleições presidenciais americanas de 2024, Donald Trump e sua equipe cometeram um equívoco: interpretar a vantagem, que no voto popular foi de 3,5 pontos percentuais, como um mandato para promover grandes mudanças no país, afirmou o cientista político Antonio Lavareda. Em painel de evento hoje da Associação Brasileira das Incorporadoras Imobiliárias (Abrainc), Lavareda alertou que o mesmo erro pode ser cometido ao avaliar o resultado do primeiro turno das eleições brasileiras, que deu 1,87 ponto de vantagem para Flávio Bolsonaro. “Nós não podemos extrair dessa ‘derrota’ do governo Lula a leitura de que o Brasil optou por novas políticas, novo posicionamento, nova administração fiscal”, disse. Para o cientista político, Lula perdeu votos entre os pobres, por causa do endividamento da população e por um poder aquisitivo comprimido. “Não há esse mandato para grandes mudanças”, disse. Ainda segundo Lavareda, a Nova República brasileira enfrenta seu momento mais difícil desde 1989. “Ela não está em estado falimentar, mas está em recuperação judicial”, comparou. Em meio à euforia do mercado financeiro e dos empresários com a chance de vitória de um governo Flávio — que Lavareda estima hoje em 70% — ele questionou se o histórico da família Bolsonaro é “tão liberal quando as demandas que o mercado, corretamente, tem em relação às transformações da condução do rumo econômico do país”. Fábio Zambeli, diretor da agência de relações governamentais Athos Public Affairs, acrescentou, no mesmo painel, achar “improvável” que Flávio realmente apoie uma proposta de emenda constitucional (PEC) para acabar com a reeleição, mesmo sendo o que ele caracteriza com a figura mais de “centrão” da família. Em sua opinião, seria uma interrupção da linhagem Bolsonaro no poder, enquanto o próprio Flávio ainda é jovem e a família tem outros integrantes jovens e com “aspirações”, e que foram vitoriosos nas urnas, além do próprio patriarca, Jair Bolsonaro, que poderia voltar a ser viável eleitoralmente. “O projeto não é passar o bastão”, disse Zambeli. “Dificilmente vai chegar a vez de outra pessoa, que não seja da família, na linha de sucessão.” O diretor da Athos também ressaltou que o mercado não deve apostar em um afastamento de Eduardo Bolsonaro no governo do seu irmão, se o cenário se concretizar. “O Eduardo é uma figura muito relevante num eventual governo Flávio, não vamos nos iludir.” Mesmo assim, avalia que há um movimento da classe política que considera um governo Flávio como uma transição para outros candidatos em 2030. “Já tem candidato, teve um que estava aqui há pouco”, afirmou. Mais cedo, o governador reeleito de São Paulo, Tarcísio de Freitas (Republicanos) esteve no mesmo evento. Governabilidade Com o resultado das eleições para a Câmara e o Senado, Zambeli considera que Flávio teria a governabilidade mais favorável desde o governo de Michel Temer. No entanto, parte dos eleitos mobilizou voto com a missão de “comprar briga” com o Supremo Tribunal Federal (STF), destaca. Segundo ele, são agendas que não necessariamente combinam com a ambição de Flávio para a economia, ou que podem se perder em meio a prioridades muito pulverizadas. “Há de se administrar esse apetite de confronto com um poder, tendo ao mesmo tempo que implementar uma agenda reformista robusta”, afirmou. É um “desafio de coordenação política”, no qual seu pai não teve sucesso nos primeiros dois anos de mandato, disse, antes de recorrer às emendas parlamentares, algo que Flávio não poderia fazer se quiser manter um “ambiente mais restrito fiscalmente”. Também no painel, o economista e ex-presidente do Banco Central Gustavo Franco afirmou estar otimista com a perspectiva de vitória de Flávio, e que a dúvida entre economistas, agora, é sobre quem será o “posto Ipiranga” do filho de Bolsonaro. “Muito provavelmente não virá alguém como o Paulo Guedes, virá alguém que será mais um coordenador de equipes”, disse. “Acho que vai ser diferente e que está com cara boa.”",
-      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/07/no-h-mandato-para-grandes-mudanas-em-eventual-governo-flvio-afirma-cientista-poltico.ghtml",
-      "published": "2026-10-07T19:27:15+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "americanas"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "americanas",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "STF exclui créditos presumidos de ICMS da base do PIS e da Cofins",
-      "summary": "O STF (Supremo Tribunal Federal) decidiu nesta quarta-feira (7) que créditos presumidos de ICMS -benefícios fiscais concedidos pelos estados- não podem ser incluídos na base de cálculo do PIS e da Cofins, tributos federais. Leia mais (10/07/2026 - 17h22)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/stf-exclui-creditos-presumidos-de-icms-da-base-do-pis-e-da-cofins.shtml",
-      "published": "2026-10-07T20:22:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "benefícios fiscais"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "benefícios fiscais",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
+      "score": 10.0
     },
     {
       "title": "Construção perde 25,8% da produtividade desde 2016",
@@ -10711,6 +10517,144 @@
         {
           "sector": "Farmácias",
           "alias": "medley",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Securitização e os pontos cegos da informação de crédito",
+      "summary": "Entrada das securitizadoras no SCR amplia visão do endividamento e testa coordenação entre CVM e BC",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/fronteiras-regulacao-financeira/securitizacao-e-os-pontos-cegos-da-informacao-de-credito",
+      "published": "2026-10-14T15:00:52+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "As Tendências Que Vão Transformar o Jeito de Viajar em 2027",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. De hotéis com atmosfera gótica a escapadas de 24 horas, pesquisa apresentada pela Hoteis.com durante jantar no Emiliano, em São Paulo, revela o que deve movimentar o turismo em 2027 O post As Tendências Que Vão Transformar o Jeito de Viajar em 2027 apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-life/2026/10/as-tendencias-que-vao-transformar-o-jeito-de-viajar-em-2027",
+      "published": "2026-10-14T15:50:52+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Magazine Médica é finalista do Prêmio Reclame AQUI 2026",
+      "summary": "A Magazine Médica, e-commerce especializado em produtos médicos e hospitalares, está entre as finalistas do Prêmio Reclame AQUI 2026, na categoria Equipamentos Médicos e Hospitalares, dentro do segmento de varejo. A votação popular teve início em 2 de setembro e segue até 5 de novembro de 2026, com cerimônia marcada para 8 de dezembro de 2026. A escolha das vencedoras cabe aos consumidores cadastrados na plataforma. A companhia chega à etapa final da disputa com o selo RA1000 referente aos últimos 12 meses, classificação máxima de reputação atribuída pela plataforma às empresas que respondem e solucionam as demandas. De acordo com números informados pela própria empresa, o índice de solução no período alcançou 96,55%, com nota 9,5 nos seis meses mais recentes e 93,55% de intenção de voltar a fazer negócio entre os consumidores que registraram alguma manifestação. Para Liziane Wolfart, gerente de Marketing da Magazine Médica, a indicação confirma a direção adotada pela operação. \"Ser finalista do Prêmio Reclame AQUI 2026 é a confirmação de que estamos no caminho certo. Nosso cliente é o médico, a secretária da clínica, o profissional da saúde, o distribuidor: pessoas que confiam no nosso bom trabalho, no nosso mix de produtos, que agrega o seu dia a dia, e que receberão esses pedidos no prazo certo, para cuidar da saúde\", afirma. A gerente acrescenta que o reconhecimento parte do próprio consumidor, o que confere peso específico ao resultado. Tatiane Cadore, gerente de Serviço de Atendimento ao Consumidor (SAC), associa a indicação ao trabalho coletivo das áreas ligadas à experiência do cliente. \"Representa o reconhecimento de um trabalho com compromisso. Representa o esforço de toda a equipe que está envolvida na experiência do cliente, especialmente do SAC\", diz. Reputação construída no detalhe Sobre os aprendizados que levaram ao selo RA1000, Liziane Wolfart resume a leitura feita internamente. \"O principal aprendizado foi entender que reputação se constrói no detalhe e com consistência\", pontua. Segundo ela, a empresa passou a tratar cada reclamação registrada na plataforma como dado, e não apenas como caso isolado, o que permitiu identificar causas recorrentes e corrigi-las na origem. Entre as medidas estão ajustes de comunicação, otimização da navegabilidade do site e mais clareza nas informações sobre fretes e condições comerciais. No SAC, a mudança seguiu caminho semelhante. Tatiane Cadore detalha o processo a partir de ajustes internos e de uma nova forma de interpretar o contato do consumidor. \"Tivemos melhorias na comunicação, internamente e com clientes, melhoramos ações e estratégias entre setores da nossa empresa, estamos sendo mais transparentes com nossos clientes, passamos a enxergar cada contato de cliente não como uma reclamação, e sim como uma oportunidade de melhoria\", relata. Logística e agilidade entre os desafios do setor O varejo de equipamentos médicos e hospitalares impõe condições particulares ao atendimento, já que os itens comercializados sustentam rotinas assistenciais. Para Liziane Wolfart, a distribuição em escala nacional concentra parte dessa complexidade. \"A logística é um dos grandes desafios, visto que somos um país continental. Um insumo que falta pode parar um atendimento ou procedimento, então prazo e disponibilidade de estoque têm peso enorme e nos desafiam sempre a melhorar\", observa. Do lado do relacionamento direto com o consumidor, Tatiane Cadore identifica outra frente de atenção, ligada ao tempo de resposta e à percepção de quem aguarda uma solução. \"No meu ponto de vista, um desafio para nós é equilibrar a agilidade com qualidade no atendimento, é tentar tranquilizar o cliente trazendo segurança, mesmo ele não vendo as ações tomadas no momento\", explica. Integração entre SAC, Marketing e Operações As manifestações registradas na plataforma funcionam como insumo para decisões que ultrapassam o atendimento. A gerente de Marketing descreve uma divisão de papéis entre as áreas: enquanto o SAC resolve os casos individuais no dia a dia, o Marketing observa os padrões que se repetem. Quando um tema retorna com frequência, como dúvidas sobre frete, prazo ou especificação de um produto, ele origina uma ação concreta, da revisão da descrição do produto ao ajuste do que é prometido em campanhas. \"A lógica é simples: o que o cliente sinaliza volta para dentro da empresa e se transforma em processo\", resume. A gerente de SAC caracteriza funcionamento equivalente a partir da ponta do atendimento. \"Somos uma grande equipe e, quando o SAC identifica alguma insatisfação ou dificuldade enfrentada pelo cliente, o trabalho não fica restrito apenas ao nosso setor. É um esforço conjunto, em que diferentes áreas se unem para entender a situação e buscar a melhor forma de solucioná-la\", acentua. De acordo com ela, os setores envolvidos identificam onde a falha ocorreu e trabalham para evitar a repetição de situações semelhantes. Metas para a relação com o consumidor Entre os objetivos apontados pela companhia estão a manutenção da agilidade e da transparência nas respostas e a conquista do selo RA1000 também no recorte de seis meses. A área de Marketing indica ainda um deslocamento do foco para a etapa anterior ao problema, com informação de produto mais completa, comunicação sobre o status de pedidos e entregas, melhorias logísticas e uso dos dados de atendimento para antecipar necessidades. A meta declarada é figurar como o e-commerce de insumos para clínicas mais confiável do país. Na área de atendimento, a leitura converge para o mesmo horizonte. \"Nosso objetivo é não apenas resolver problemas, mas aprender com eles, antecipar necessidades e construir uma relação de confiança a longo prazo\", enfatiza Tatiane Cadore, que acrescenta considerar o aprimoramento contínuo mais relevante, sem abandonar o que já apresenta bom desempenho. Fundada há mais de 22 anos a partir da iniciativa de dois estudantes de fisioterapia, a Magazine Médica migrou das lojas físicas para a operação digital e atende clínicas médicas, profissionais da saúde e equipes administrativas de consultórios. Mais informações estão disponíveis no site oficial da Magazine Médica e a votação pode ser realizada na página do Prêmio Reclame AQUI.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/14/magazine-medica-e-finalista-do-premio-reclame-aqui-2026-1.ghtml",
+      "published": "2026-10-14T17:24:20+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Startup gaúcha mira faturamento de 15 milhões de reais com plataforma de marketing",
+      "summary": "Com mais de 20 mil usuários ativos e clientes como Ambev, Smart Fit e Tramontina, Deskfy aposta em novas ferramentas para acelerar o crescimento até 2030",
+      "url": "https://veja.abril.com.br/economia/startup-gaucha-mira-faturamento-de-15-milhoes-de-reais-com-plataforma-de-marketing",
+      "published": "2026-10-14T18:16:38+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "smart fit"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Setor de imóveis de luxo cresce 13% e enfatiza exclusividade",
+      "summary": "O mercado de luxo brasileiro cresceu 12% ao ano desde 2022, contra uma média mundial de 3% no mesmo período, segundo levantamento da Bain & Company realizado em parceria com o jornal Valor Econômico e a revista Vogue. O setor movimentou R$ 98 bilhões em 2024, com projeção de alcançar R$ 150 bilhões até 2030, e, entre os nove segmentos analisados, o de imóveis avançou 13% no período. Mais do que ampliar o tamanho desse mercado, o crescimento vem acompanhado de uma mudança no comportamento de quem consome produtos e serviços de alto padrão: 57% dos consumidores ouvidos associam luxo à exclusividade, enquanto a consultoria aponta o avanço do conceito de validação silenciosa, em que reconhecimento e pertencimento ganham importância sem depender da exposição ostensiva de marcas. A Bain estima cerca de 1,3 milhão de brasileiros de alto poder aquisitivo, número que pode chegar a 1,5 milhão até 2030. Em outro recorte desse mercado, levantamento da Serasa Experian identificou 7,5 milhões de consumidores classificados como premium no país, metade deles com mais de 49 anos. O deslocamento da exclusividade, da discrição e da personalização para o centro da decisão também altera o que se espera da intermediação imobiliária. Em uma transação de alto valor, o conhecimento de rua, de edifício, do histórico de negociações e até das particularidades de uma determinada quadra pode pesar tanto quanto o volume de imóveis apresentados ao cliente. Esse é o terreno das imobiliárias de perfil boutique: estruturas menores, especializadas em determinadas regiões ou segmentos, que concentram conhecimento aprofundado sobre a área onde atuam. O desafio é que essa especialização nem sempre se traduz em alcance digital proporcional. Enquanto grandes portais e redes imobiliárias concentram investimentos em tecnologia, mídia e posicionamento digital, empresas especializadas disputam visibilidade em um ambiente no qual a jornada de compra começa, com frequência cada vez maior, antes do primeiro contato com um corretor. A assimetria aparece na etapa anterior ao atendimento: o comprador só chega a quem ele encontra. Eduardo Lima, fundador do NPi Hub, ecossistema ligado à NPi Imóveis, marca da NPi Consultoria, fundada em 2010, avalia que esse é um dos principais gargalos enfrentados pelas imobiliárias boutique. \"A imobiliária especializada em um bairro conhece detalhes que influenciam diretamente aquele metro quadrado. Conhece os edifícios, o histórico das negociações, as ruas e as particularidades daquela região. É um conhecimento construído ao longo dos anos e que nenhum sistema reproduz integralmente\", afirma. \"O que muitas vezes falta não é conhecimento nem qualidade de atendimento. É presença na etapa em que a decisão começa, quando o comprador está pesquisando no Google e, cada vez mais, nas ferramentas de inteligência artificial.\" Estruturado em 2024, o NPi Hub reúne imobiliárias boutique de São Paulo dentro de uma estrutura compartilhada de posicionamento. O modelo funciona por especialização regional: cada imobiliária parceira permanece responsável pela área em que já possui maior conhecimento e atuação, enquanto cada imóvel cadastrado fica vinculado a uma única empresa dentro do ambiente, o que evita disputa interna pelo mesmo produto. A estrutura central concentra a organização e o posicionamento desse conteúdo nos mecanismos de busca e nos sistemas de inteligência artificial, além da qualificação inicial dos clientes que chegam por esses canais. O atendimento é conduzido por um gerente de relacionamento do Hub em conjunto com a imobiliária responsável pela região ou pelo imóvel procurado, e a remuneração da estrutura ocorre apenas quando a negociação é concluída. Atualmente, o ecossistema reúne mais de 30 imobiliárias parceiras e mais de 6.800 registros de imóveis e condomínios em base própria. A operação mantém ainda uma camada de agentes de inteligência artificial voltada às etapas operacionais da intermediação, como organização de informações, cadastro e qualificação inicial. Uma segunda fase dessa estrutura, destinada a outras etapas do atendimento, está sendo desenvolvida em parceria com a Labs Guru, empresa de tecnologia dos Estados Unidos. Segundo Lima, a divisão entre tecnologia e atendimento humano é um dos pontos centrais do modelo. \"A tecnologia pode cuidar do que é repetitivo, organizar dados, cruzar informações e acelerar processos. Mas o que decide uma venda de alto padrão continua sendo a leitura que uma pessoa faz da outra\", afirma. Em um mercado imobiliário de luxo que cresce acima de dois dígitos ao ano, diante de um consumidor que associa valor à exclusividade, à personalização e ao conhecimento especializado, a capacidade de ser encontrada nos canais em que a jornada de compra começa tende a pesar tanto quanto a própria especialização no atendimento.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/14/setor-de-imoveis-de-luxo-cresce-13-e-enfatiza-exclusividade-1.ghtml",
+      "published": "2026-10-14T18:27:09+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "mercado de luxo"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "mercado de luxo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Torneio feminino de beach tennis reúne cerca de 250 mulheres em Alphaville",
+      "summary": "O beach tennis tem ampliado sua presença entre as mulheres e ganhado espaço também em eventos que combinam competição, experiências e relacionamento. Esse movimento esteve presente em mais uma edição do Torneio Tata Moreno Joias, realizado na Prainha Tamboré, em Alphaville, com participação de cerca de 250 mulheres. Tradicional no calendário da organizadora, a competição é voltada exclusivamente ao público feminino e reúne jogadoras em diferentes categorias. Neste ano, as disputas foram divididas entre Vibes, Prata, Ouro e Diamante, além do \"Agora Vai\", um minitorneio destinado às participantes que deixaram a competição ainda na fase de grupos. Ao longo do torneio, as atletas disputaram sete partidas. Entre as equipes participantes esteve um time apoiado pela ACIUM, que chegou à final da competição. O evento também contou com ativações de diferentes marcas e patrocinadores e teve as partidas registradas em vídeo, com conteúdo disponibilizado posteriormente no YouTube. Mais do que uma competição esportiva, o torneio aposta em uma experiência que reúne esporte, lazer e networking entre mulheres que têm o beach tennis como prática esportiva e também como parte da rotina social. A participação da ACIUM como patrocinadora está alinhada ao movimento da marca de ampliar sua presença no universo esportivo, especialmente no beach tennis. Atualmente, a empresa apoia 10 atletas da modalidade e vem utilizando o esporte como uma das plataformas para se aproximar de temas como bem-estar, estilo de vida e experiências. \"O beach tennis tem uma comunidade muito engajada e eventos como esse mostram como o esporte também se tornou um espaço de encontro, troca e experiências. Para nós, estar próximo dessas iniciativas é uma forma de acompanhar esse movimento e construir relações com pessoas que têm o esporte presente na rotina\", afirma Eli Neri, CEO da ACIUM Brazil. A atuação da marca na modalidade terá um novo capítulo em dezembro, com a realização do 1º ACIUM Open de Beach Tennis, de 4 a 6 de dezembro, na Casa JOOG SP, em São Paulo. Com expectativa de reunir 350 atletas, o torneio contará com disputas em diferentes categorias e premiação total de R$ 40 mil, além de estrutura de cobertura audiovisual e transmissão de jogos pelo YouTube. A iniciativa amplia a presença da ACIUM no esporte e reforça a aposta da empresa em eventos que conectam competição, comunidade e experiências.",
+      "url": "https://valor.globo.com/patrocinado/pressworks/noticia/2026/10/14/torneio-feminino-de-beach-tennis-reune-cerca-de-250-mulheres-em-alphaville-1.ghtml",
+      "published": "2026-10-14T20:07:34+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "joias"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joias",
           "field": "lead",
           "score": 8,
           "topic": null
