@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T09:12:31.980374+00:00",
-  "count": 380,
-  "new_this_run": 155,
+  "generated_at": "2026-10-15T09:15:31.258716+00:00",
+  "count": 381,
+  "new_this_run": 157,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -8440,6 +8440,29 @@
         {
           "sector": "Cosméticos",
           "alias": "sephora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Havan vai crescer mais no Norte e no Nordeste com capital próprio, diz Luciano Hang",
+      "summary": "Havan vai crescer mais no Norte e no Nordeste com capital próprio, diz Luciano Hang &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/havan-vai-crescer-mais-no-norte-e-no-nordeste-com-capital-proprio-diz-luciano-hang",
+      "published": "2026-10-15T09:00:01+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "havan"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "havan",
           "field": "title",
           "score": 20,
           "topic": null
