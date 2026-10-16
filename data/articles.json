@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T12:34:51.020728+00:00",
+  "generated_at": "2026-10-16T12:48:33.936262+00:00",
   "count": 396,
   "new_this_run": 154,
   "articles": [
@@ -4667,29 +4667,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Correios e AliExpress renovam parceria e miram na Black Friday",
-      "summary": "Correios e AliExpress renovam parceria e miram na Black Friday &nbsp;&nbsp; E-Commerce Brasil",
-      "url": "https://www.ecommercebrasil.com.br/noticias/correios-e-aliexpress-renovam-parceria-e-miram-na-black-friday",
-      "published": "2026-10-09T12:42:06+00:00",
-      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "aliexpress"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "aliexpress",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Inflação na construção civil pelo Sinapi fica em 0,30% em setembro, diz IBGE",
@@ -11037,6 +11014,29 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Tac Tacs chega a novas plataformas de streaming",
+      "summary": "A produção cearense \"Tac Tacs - Uma Aventura Ambiental\" ampliou sua presença no mercado audiovisual ao ser lançada nas plataformas de streaming Globoplay, Amazon, iTunes e Google Play, permitindo acesso ao filme em todo o Brasil e no exterior. Na animação, os personagens Bio, Tati, Ian e seus amigos embarcam em uma jornada para entender o aquecimento global e recebem a missão de proteger o meio ambiente, combinando diversão, conscientização e aprendizado em linguagem lúdica voltada ao público infantil. O longa conta ainda com participações especiais de Haroldo Guimarães, Bráulio Bessa e Solange Teixeira, nomes reconhecidos da cultura cearense, reforçando a identidade regional da obra. \"Chegar a diferentes plataformas é uma oportunidade de levar os Tac Tacs a ainda mais crianças e famílias, dentro e fora do Brasil\", destacou Jadeilson Feitosa, diretor criativo do projeto. Além de entreter, o projeto fortalece a atuação da marca Tac Tacs na indústria criativa, ao investir em conteúdo que estimula valores socioambientais, pensamento crítico e cidadania desde a infância, contribuindo para a projeção do audiovisual cearense no cenário nacional e internacional.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/16/tac-tacs-chega-a-novas-plataformas-de-streaming-1.ghtml",
+      "published": "2026-10-16T12:41:58+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
           "field": "lead",
           "score": 8,
           "topic": null
