@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T09:22:59.322731+00:00",
+  "generated_at": "2026-10-16T09:59:18.291991+00:00",
   "count": 393,
-  "new_this_run": 158,
+  "new_this_run": 160,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -1966,37 +1966,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Apple Shares Dip After Report Says It’s Cutting iPhone 18 Pro Component Orders",
-      "summary": "Apple reportedly cut component orders for the iPhone 18 Pro and Pro Max by at least 15% this month after demand came in below expectations.",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/10/09/apple-shares-dip-after-report-says-its-cutting-iphone-18-pro-component-orders",
-      "published": "2026-10-09T09:38:03+00:00",
-      "source": "https://www.forbes.com/business/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "apple",
-        "iphone"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "apple",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "iphone",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Canetas emagrecedoras foram proibidas pela Anvisa? Saiba quais produtos estão na lista",
@@ -9050,6 +9019,29 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "A caneta emagrecedora que ganhou a China com uma fórmula hormonal diferente",
+      "summary": "Já aprovada no país asiático, mazdutida reduziu 18% do peso em pesquisa com americanos",
+      "url": "https://veja.abril.com.br/saude/a-caneta-emagrecedora-que-ganhou-a-china-com-uma-formula-hormonal-diferente",
+      "published": "2026-10-16T09:30:51+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
           "field": "title",
           "score": 20,
           "topic": null
