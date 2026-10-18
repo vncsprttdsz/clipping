@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T12:15:24.617561+00:00",
-  "count": 382,
-  "new_this_run": 49,
+  "generated_at": "2026-10-18T12:38:36.669607+00:00",
+  "count": 383,
+  "new_this_run": 48,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -1902,6 +1902,45 @@
           "field": "title",
           "score": 20,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 42.0
+    },
+    {
+      "title": "Nova injeção destrói células de gordura e pode evitar ganho de peso após tratamento com GLP-1",
+      "summary": "Segundo a equipe responsável pelos ensaios, o CBL-514 tem potencial para reduzir a gordura em regiões específicas do corpo Getty Images Os primeiros ensaios clínicos de um novo tratamento para redução de gordura apresentaram resultados promissores. Em vez de diminuir o tamanho das células de gordura, como faz a maioria das estratégias de perda de peso, o tratamento as elimina de forma segura e natural. O medicamento, chamado de CBL-514, é administrado por meio de injeções. Além de demonstrar eficácia na redução da gordura subcutânea, há indícios de que ele também pode diminuir a gordura visceral, aquela armazenada em camadas mais profundas, ao redor dos órgãos. Segundo a equipe responsável pelos ensaios, o CBL-514 tem potencial para reduzir a gordura em regiões específicas do corpo. Os pesquisadores esperam que isso também traga outros benefícios associados à perda de peso. “Esperamos que os pacientes fiquem satisfeitos com os efeitos estéticos, como a redução da circunferência abdominal que pode resultar da perda de gordura subcutânea”, afirma o endocrinologista Timothy Garvey, da Universidade do Alabama em Birmingham, nos Estados Unidos, que coordenou o ensaio. “Mas o que será importante para a saúde é a redução do peso corporal e da gordura visceral, além das possíveis melhorias na pressão arterial, nos níveis de colesterol e em outros indicadores.” Os resultados dos ensaios clínicos com o CBL-514 ainda não passaram por revisão por pares. Eles foram apresentados em um congresso científico e divulgados pela empresa responsável pelo medicamento. Não houve ainda publicação de estudo científico. Por isso, devem ser interpretados com cautela. Segundo os pesquisadores, os pacientes que receberam injeções de CBL-514 por até 12 semanas apresentaram uma redução média de 12,01% na gordura visceral. Já os participantes que receberam placebo tiveram, em média, um aumento de 5,68% nessa gordura quatro semanas após a última injeção. “Esses resultados fornecem evidências preliminares animadoras de que o CBL-514 pode reduzir o volume de gordura visceral na região abdominal”, afirma a epidemiologista Marie Spreckley, da Universidade de Cambridge, no Reino Unido, que não participou da pesquisa, ao Science Alert. “Ensaios maiores, com períodos de acompanhamento mais longos, serão importantes para determinar se a redução de gordura é duradoura e se resulta em melhorias para a saúde.” A última parte das evidências disponíveis até agora vem de testes em animais. Ratos tratados simultaneamente com a tirzepatida, um medicamento da classe dos agonistas de GLP-1, e o CBL-514 perderam, em média, mais peso do que aqueles que receberam apenas doses de tirzepatida. Além disso, os ratos que receberam os dois medicamentos ganharam menos peso após a interrupção do tratamento com tirzepatida. Medicamentos que atuam sobre o GLP-1, como a tirzepatida, são comumente prescritos para tratar o diabetes tipo 2 e auxiliar na perda de peso. Seu nome faz referência ao peptídeo semelhante ao glucagon tipo 1 (GLP-1), cuja ação esses medicamentos procuram reproduzir. Embora possam ser bastante eficazes, o peso perdido costuma voltar após o fim do tratamento. É possível que o mecanismo pelo qual o CBL-514 leva as células de gordura à autodestruição — processo tecnicamente conhecido como apoptose — dificulte o reganho de peso. Essa hipótese, porém, ainda precisa ser investigada em estudos com seres humanos.",
+      "url": "https://epocanegocios.globo.com/ciencia-e-saude/noticia/2026/10/nova-injecao-destroi-celulas-de-gordura-e-pode-evitar-ganho-de-peso-apos-tratamento-com-glp-1.ghtml",
+      "published": "2026-10-18T12:19:25+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Farmácias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "glp-1",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 42.0
