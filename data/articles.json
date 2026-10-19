@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T10:06:19.342478+00:00",
-  "count": 377,
+  "generated_at": "2026-10-19T10:16:25.001982+00:00",
+  "count": 378,
   "new_this_run": 15,
   "articles": [
     {
@@ -8210,6 +8210,29 @@
         {
           "sector": "Global Consumer",
           "alias": "airbnb",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Diamante rosa roubado e reencontrado após camareira morder maçã que escondia a joia em 1926 é exibido pela 1ª vez após 100 anos",
+      "summary": "Diamante rosa roubado e reencontrado após camareira morder maçã que escondia a joia em 1926 é exibido pela 1ª vez após 100 anos &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/mundo/epoca/noticia/2026/10/17/diamante-rosa-roubado-e-reencontrado-apos-camareira-morder-maca-que-escondia-a-joia-em-1926-e-exibido-pela-primeira-vez-apos-100-anos.ghtml",
+      "published": "2026-10-17T12:49:22+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "diamante"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "diamante",
           "field": "title",
           "score": 20,
           "topic": null
