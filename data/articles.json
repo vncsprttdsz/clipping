@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T10:21:50.010061+00:00",
+  "generated_at": "2026-10-19T10:58:51.705448+00:00",
   "count": 379,
-  "new_this_run": 15,
+  "new_this_run": 16,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -1905,37 +1905,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Apple reduz pedidos do iPhone 18 Pro após demanda abaixo do esperado",
-      "summary": "Alta no custo dos chips de memória encarece os novos aparelhos, enquanto a disputa por componentes para IA pressiona a fabricante",
-      "url": "https://veja.abril.com.br/economia/apple-reduz-pedidos-do-iphone-18-pro-apos-demanda-abaixo-do-esperado",
-      "published": "2026-10-12T10:32:18+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "apple",
-        "iphone"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "apple",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "iphone",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Cimed investe R$ 80 milhões em skincare coreano e mira R$ 150 milhões com nova marca",
@@ -8762,6 +8731,29 @@
         {
           "sector": "Material de Construção",
           "alias": "leroy merlin",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "El banco de Mercado Pago ya tiene nombre oficial: Mercado Pago Biz",
+      "summary": "El banco de Mercado Pago ya tiene nombre oficial: Mercado Pago Biz &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/72345-el-banco-de-mercado-pago-ya-tiene-nombre-oficial-mercado-pago-biz",
+      "published": "2026-10-19T09:07:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
           "field": "title",
           "score": 20,
           "topic": null
