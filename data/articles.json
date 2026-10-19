@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T10:16:25.001982+00:00",
-  "count": 378,
+  "generated_at": "2026-10-19T10:21:50.010061+00:00",
+  "count": 379,
   "new_this_run": 15,
   "articles": [
     {
@@ -8325,6 +8325,29 @@
         {
           "sector": "E-commerce",
           "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Homem é preso no Rio por enviar canetas emagrecedoras pelos Correios sem autorização",
+      "summary": "Homem é preso no Rio por enviar canetas emagrecedoras pelos Correios sem autorização &nbsp;&nbsp; Agenda do Poder",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVljRG9LVXFiTm41N2xLWHVGdFg0RG5nYTFwM201RWMxM2tqeV9IRDh4RkxfSU9reW0tcUdoZ3B1MGdjcXdpTnlsUEJxcGNQaUtqS192dm96QWxWVFQzU3pobV9TOS0zcE1kUVJCOTg4amcxb0tOQnVlVXNpb3o4bEFxaWFlRlp3VWVBZzRWbWRvUU56cWpuUkVtMkpsRDQ?oc=5",
+      "published": "2026-10-17T14:42:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
           "field": "title",
           "score": 20,
           "topic": null
