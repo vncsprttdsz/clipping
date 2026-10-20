@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T13:34:54.949931+00:00",
-  "count": 446,
-  "new_this_run": 23,
+  "generated_at": "2026-10-20T13:52:28.277869+00:00",
+  "count": 448,
+  "new_this_run": 20,
   "articles": [
     {
       "title": "Magalu estreia na Shopee para ampliar vendas on-line",
@@ -1588,6 +1588,45 @@
         {
           "sector": "Economia",
           "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Amazon anuncia € 16 bilhões na Alemanha, de IA a streaming",
+      "summary": "Plano para 2027 inclui € 4,8 bilhões para ampliar a AWS em Frankfurt, além de logística e internet por satélite",
+      "url": "https://exame.com/tecnologia/amazon-anuncia-e-16-bilhoes-na-alemanha-de-ia-a-streaming",
+      "published": "2026-10-20T10:45:08+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
           "field": "title",
           "score": 20,
           "topic": null
@@ -3659,6 +3698,38 @@
       "score": 40.0
     },
     {
+      "title": "Americanas dispara 23% após fim da recuperação judicial",
+      "summary": "Apesar do otimismo do mercado, analistas apontam longa jornada para empresa recuperar o brilho do passado",
+      "url": "https://veja.abril.com.br/economia/americanas-dispara-23-apos-fim-da-recuperacao-judicial",
+      "published": "2026-10-20T13:44:07+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "AliExpress e YouTube fecham parceria para que os criadores de conteúdo recomendem produtos e recebam comissão por vendas",
       "summary": "O AliExpress fechou uma parceria global com o YouTube para permitir que criadores de conteúdo recomendem produtos de seu marketplace e recebam comissões por vendas. A iniciativa começou em março na Coreia do Sul e vai estar disponível no Brasil a partir desta terça-feira. Mais medidas: governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno Saiba mais: campanha de Flávio promete pagar Bolsa Família por 2 anos após beneficiário conseguir emprego ou abrir negócio Os criadores elegíveis poderão marcar produtos em vídeos, shorts e transmissões ao vivo diretamente pelo YouTube Studio. Ao clicar na recomendação dentro do YouTube, os espectadores poderão acessar os itens recomendados e finalizar a compra no AliExpress. A seleção inclui categorias como eletrônicos, esportes e produtos para casa. No Brasil, a participação será aberta a criadores que cumpram os requisitos do Programa de Afiliados do YouTube Shopping. O diferencial é a integração entre conteúdo e compra. Em vez de o criador apenas exibir uma peça publicitária, o formato permite que ele marque produtos no próprio conteúdo e receba comissão pelo YouTube através do AdSense (plataforma gratuita do Google que permite a criadores de conteúdo, blogueiros e donos de sites ou canais do YouTube monetizarem suas páginas ao exibir anúncios de empresas) por vendas qualificadas geradas pelas recomendações. Segundo Roberto Wajnsztok, sócio-diretor da Gouvêa Consulting, essa tendência de consumo atrelada ao consumo de vídeos está crescendo no mercado. Isso se dá devido principalmente ao protagonismo que o audiovisual ganhou. — Os criadores de conteúdo foram desenvolvendo técnicas para melhorar a exposição e a qualidade desses vídeos, tornando-os mais assertivos na forma como se apresentam, nos assuntos que abordam e na identificação do que gera resultados e do que não funciona. Produzir vídeos nunca foi tão fácil e, logicamente, eles convertem muito mais do que imagens estáticas — analisa Wajnsztok. Nos anos anteriores o consumidor costumava entrar em um site, procurar um produto e encontrar uma foto acompanhada de um texto. Essa experiência foi substituída por uma experiência em vídeo, na qual são destacados os principais atributos do produto e seus diferenciais. Para produtos que não demandam muita explicação, esse formato se encaixa perfeitamente. Os vídeos curtos conseguem apresentar o produto rapidamente e, quando as informações relevantes já foram transmitidas, o consumidor não precisa passar por tantas etapas até a compra. O crescimento do TikTok Shop está muito relacionado ao consumo de vídeos, que atingiu um patamar muito elevado. Diferentemente do TikTok, que desenvolveu um modelo próprio de vendas dentro da plataforma, o Google (que controla o YouTube) não atua diretamente como marketplace. Assim, a parceria entre AliExpress e YouTube busca aproximar os vídeos dos produtos à venda, facilitando o caminho entre o conteúdo e a decisão de compra do consumidor. De acordo com Wajnsztok, o perfil dos vídeos do YouTube é diferente. Embora exista o formato shorts (vídeos curtos), o formato convencional, que tem vídeos mais longos e explicativos, continua sendo relevante. Nesse caso, o consumidor pode assistir a uma apresentação detalhada, até mesmo bastante técnica, sobre o produto e, a partir dessa análise, acessar diretamente o link de compra. – A expectativa é que os produtos comercializados nessa parceria entre AliExpress e YouTube tenham um perfil diferente, possivelmente com maior valor agregado e que demandem mais explicações. Não se trata necessariamente daquele consumo de conteúdo tão rápido – explica. Um vídeo curto, construído para atender a uma necessidade que surge rapidamente na mente do consumidor, tende a gerar uma conversão mais rápida. Já nos vídeos longos, pode ser compensado por uma venda mais racional e consistente, com um ticket médio maior. – O consumidor brasileiro é bastante receptivo a novas experiências de compra, e não vejo nessa iniciativa algo muito diferente daquilo que ele já experimenta atualmente. O perfil dos produtos e o tempo de compra são diferentes. Não podemos esperar o mesmo nível de conversão observado hoje no TikTok Shop, muito menos o mesmo perfil de produtos – observa.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/10/20/aliexpress-e-youtube-fecham-parceria-para-que-os-criadores-de-conteudo-recomendem-produtos-e-recebam-comissao-por-vendas.ghtml",
@@ -3979,37 +4050,6 @@
         }
       ],
       "score": 36.0
-    },
-    {
-      "title": "Apple amplia aposta em casa conectada com novos dispositivos e inteligência artificial",
-      "summary": "A Apple anunciou nesta terça-feira o lançamento de novos produtos de olho na casa conectada. A dona do iPhone anunciou o Home View, dispositivo da companhia para casas inteligentes que reúne em um único aparelho recursos de entretenimento, comunicação e gerenciamento doméstico. O equipamento começa a ser vendido em 3 de novembro, com pré-venda a partir desta terça-feira. O lançamento inicial será na Austrália, Canadá, Índia, Nova Zelândia, Reino Unido e Estados Unidos, onde o produto custará US$ 299. Com proposta semelhante à de produtos já oferecidos pela Amazon e Google, o Home View funciona como uma central conectada da casa, permitindo controlar dispositivos por voz ou toque, fazer chamadas pelo FaceTime, assistir a filmes, ouvir música, consultar mensagens e acessar outras funções. O aparelho tem tela Retina de 7 polegadas e pode ser usado apoiado sobre uma base com alto-falante ou instalado diretamente na parede. Na versão com base, o dispositivo será oferecido nas cores prata, rosa, cinza e bege claro. Para instalação na parede, as opções serão cinza e prata. O design lembra os monitores da linha Mac da Apple, com uma estrutura minimalista e uma tela conectada à base por uma dobradiça de aço inoxidável, que permite ajustar suavemente sua inclinação. Apple anuncia novos produtos para casa conectada divulgaçãO O Home View consegue reconhecer até seis pessoas. A partir do sistema operacional da Apple, cada usuário pode ter uma experiência personalizada, com informações e sugestões baseadas em seus e-mails, calendários e preferências. A companhia descreve o produto como uma espécie de iPhone ou iPad para a casa, concentrando diferentes atividades em uma única tela. Siri com inteligência artificial Um dos pilares do Home View é a nova geração da Siri, que a Apple apresenta como Siri AI. O sistema permite utilizar recursos de inteligência artificial e interagir com o dispositivo por meio de comandos de voz. A partir da Siri, o usuário pode controlar diferentes funções da casa inteligente, como visualizar imagens de câmeras instaladas na residência, ajustar o termostato e controlar as luzes. Os mesmos comandos também podem ser realizados diretamente pela tela sensível ao toque. Áudio espacial e chamadas pelo FaceTime Outro destaque do Home View é o sistema de áudio. O aparelho utiliza drivers personalizados, desenvolvidos para captar sons e também reproduzir áudio espacial, criando uma experiência que se espalha pelo ambiente. Para chamadas de vídeo pelo FaceTime, o dispositivo incorpora o recurso Center Stage, já presente em iPads. A tecnologia mantém as pessoas enquadradas no centro da imagem, mesmo quando elas se movimentam. A câmera acompanha lentamente o deslocamento dos participantes, ajustando o enquadramento para manter todos no foco. O Home View é equipado com o chip A18, oferecendo capacidade de processamento para os recursos de inteligência artificial, reconhecimento de usuários e demais funções do aparelho. Apple apresenta nova linha de acessórios para a casa Apple anuncia novos produtos para casa conectada Divulgação A Apple também apresentou uma nova linha de acessórios para casa inteligente, chamada Apple Home Collection, desenvolvida em parceria com a LG Electronics e a Schneider Electric. A linha inclui câmeras internas e externas, termostatos, sensores de temperatura, campainhas e fechaduras de porta com vídeo. Os produtos serão gerenciados pelo novo aplicativo Apple Home, que pode ser acessado pelo iPhone, por exemplo. As vendas dos acessórios começam em dezembro. Segundo a Apple e a LG, as câmeras da nova linha capturam vídeos em alta resolução e têm capacidade de reconhecer pessoas, animais, veículos e pacotes. O histórico das imagens também pode ser armazenado no serviço de nuvem da Apple, o iCloud+. Os acessórios terão preços a partir de US$ 199,95 nos Estados Unidos e poderão chegar a quase US$ 400, dependendo do produto. HomePod mini 2 ganha Siri AI e novas cores Companhia lança Home View por US$ 299, HomePod mini 2 por US$ 149 e nova Apple TV 4K; acessórios para casa inteligente custam a partir de US$ 199,95. Produtos não têm previsão inicial de lançamento no Brasil. Divulgação A Apple também anunciou a nova geração do HomePod mini, seu alto-falante inteligente compacto. O produto passa a contar com suporte à nova versão da Siri AI e chega com novas opções de cores. O HomePod mini 2 terá preço de US$ 149 nos Estados Unidos. Assim como o Home View e os novos acessórios da linha Apple Home Collection, o produto não terá venda inicialmente no Brasil. Nova Apple TV 4K tem chip A19 Apple lança nova Apple TV 4K integrada com Siri AI Divulgação A companhia também apresentou uma nova geração da Apple TV 4K, que passa a incorporar suporte à nova Siri AI. O aparelho recebeu um novo design para acomodar as novas funções e é equipado com o chip A19. Segundo a Apple, o novo processador proporciona um desempenho 50% mais rápido em comparação com a geração anterior. A nova Apple TV 4K amplia, assim, a estratégia da companhia de levar os recursos de inteligência artificial para diferentes dispositivos de seu ecossistema.",
-      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/10/13/apple-amplia-aposta-em-casa-conectada-com-novos-dispositivos-e-inteligencia-artificial.ghtml",
-      "published": "2026-10-13T13:42:50+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "apple",
-        "iphone"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "apple",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "iphone",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Apple chega 10 anos depois dos rivais ao mercado de telas inteligentes, mas aposta que atraso não vai atrapalhar",
@@ -4954,29 +4994,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Turismo impulsiona bares e restaurantes em 2026",
-      "summary": "O turismo brasileiro faturou R$ 25,5 bilhões em julho, o melhor resultado para o mês desde 2012. De janeiro a julho, a receita somou R$ 168,8 bilhões, alta de 3,4% sobre o mesmo período de 2025. Os números são do levantamento mensal da FecomercioSP, feito com base em dados do IBGE. A federação projeta crescimento de 4% no ano e um faturamento próximo de R$ 300 bilhões, patamar inédito para o setor. Os restaurantes estão entre as quatro atividades turísticas de maior receita, ao lado do transporte aéreo, da hospedagem e das locadoras de veículos. Em maio, a alimentação voltada ao turismo já havia registrado a maior alta proporcional entre os principais segmentos, de 6,9%. Para a Abrasel, os números confirmam o papel de bares e restaurantes na experiência de quem viaja. \"A refeição faz parte de qualquer viagem. Quem recebe bem o visitante à mesa ajuda a construir a imagem do destino\", afirma Paulo Solmucci, presidente-executivo da Abrasel. Onze meses seguidos de alta O bom momento do turismo acompanha o do próprio setor. O Índice Abrasel-Stone de agosto, divulgado em 16 de setembro, registrou alta de 7,4% nas vendas sobre o mesmo mês do ano passado. Foi o 11º mês seguido de crescimento na comparação anual. Dos 24 estados acompanhados, 23 venderam mais, e o Nordeste liderou, com 10,3%. O setor reúne mais de 1,5 milhão de estabelecimentos e emprega cerca de 5 milhões de pessoas, o equivalente a 7,9% dos postos de trabalho do país. Está presente em todas as cidades. Onde o turista chega, há um bar ou restaurante para recebê-lo. Alta temporada e comportamento do viajante O peso da alimentação aparece com mais força nos meses de férias. Em janeiro, a CNC estimou que bares e restaurantes responderiam pela maior fatia do faturamento do turismo na alta temporada 2025/2026, quase 45% do total. A FecomercioSP observa que as famílias passaram a tratar a viagem como prioridade depois da pandemia e ajustam o roteiro ao orçamento. Quando a passagem aérea encarece, muitas trocam o destino distante por uma viagem de carro a uma cidade próxima. Estrangeiros e o calendário de 2027 O visitante internacional também pesa no resultado. Segundo o Ministério do Turismo, o Brasil recebeu 6,4 milhões de estrangeiros de janeiro a agosto de 2026. Eles deixaram R$ 38,7 bilhões na economia. Em 2027, o Brasil sedia a Copa do Mundo Feminina da Fifa, entre junho e julho. Para a Abrasel, o torneio e os demais eventos do calendário devem ajudar a sustentar o patamar alcançado em 2026. A expectativa da entidade é de consolidação dos resultados, sem um salto no faturamento do setor. Vendas em alta, margens apertadas A cautela tem razão. O crescimento das vendas ainda não se converteu em resultado para todos os negócios. Segundo a Pesquisa Nacional de Conjuntura Econômica da Abrasel, 42% dos estabelecimentos operaram com lucro em julho, e 20% fecharam no prejuízo. Em dezembro de 2025, os lucrativos eram 47%. Os custos continuam pressionando o caixa das empresas. Para a Abrasel, o ritmo dos próximos meses depende das condições de crédito e da força do mercado de trabalho.",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/13/turismo-impulsiona-bares-e-restaurantes-em-2026-1.ghtml",
-      "published": "2026-10-13T13:39:50+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Projeções do e-commerce no Brasil: o que esperar até 2036?",
@@ -10200,6 +10217,29 @@
       "score": 20.0
     },
     {
+      "title": "Netflix’s Costco Strategy Faces Another Earnings Test",
+      "summary": "Netflix is not a traditional television network, and it is not simply a movie studio with a streaming app attached. Its business model has more in common with Costco.",
+      "url": "https://www.forbes.com/sites/rickellis/2026/10/20/netflixs-costco-strategy-faces-another-earnings-test",
+      "published": "2026-10-20T12:59:05+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "costco"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "costco",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Americanas perde R$ 9,6 bilhões em valor de mercado com fraude e RJ",
       "summary": "A companhia foi vítima de uma fraude contábil de R$ 54,2 bilhões e precisou da RJ para se reerguer",
       "url": "https://veja.abril.com.br/economia/americanas-perde-r-96-bilhoes-em-valor-de-mercado-com-fraude-e-rj",
@@ -10261,6 +10301,29 @@
         {
           "sector": "Economia",
           "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Dona da Shopee lança divisão de computação em nuvem e avalia IPO de sua fintech",
+      "summary": "Holding de Cingapura controladora da Shopee com atuação no e-commerce e em games, por meio da Garena, a Sea está ampliando seus tentáculos com o lançamento de uma unidade de negócios de computação em nuvem chamada Sea Cloud, com foco em empresas e inteligência artificial (IA). Esse novo passo foi tema de um memorando interno [&#8230;] O post Dona da Shopee lança divisão de computação em nuvem e avalia IPO de sua fintech apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/dona-da-shopee-lanca-divisao-de-computacao-em-nuvem-e-avalia-ipo-de-sua-fintech",
+      "published": "2026-10-20T13:39:44+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
           "field": "title",
           "score": 20,
           "topic": null
