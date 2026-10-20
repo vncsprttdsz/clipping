@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T10:13:51.823061+00:00",
-  "count": 426,
-  "new_this_run": 17,
+  "generated_at": "2026-10-20T12:07:17.141641+00:00",
+  "count": 435,
+  "new_this_run": 28,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -277,6 +277,54 @@
         {
           "sector": "Farmácias",
           "alias": "retatrutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 80.0
+    },
+    {
+      "title": "Do K-pop ao skincare: cosmético coreano avança em farmácias do Brasil com Cimed e Nissei",
+      "summary": "Do K-pop ao skincare: cosmético coreano avança em farmácias do Brasil com Cimed e Nissei &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/do-k-pop-ao-skincare-cosmetico-coreano-avanca-em-farmacias-do-brasil-com-cimed-e-nissei",
+      "published": "2026-10-20T11:44:59+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed",
+        "cosmético",
+        "farmácias",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "cosmético",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1036,53 +1084,6 @@
       "score": 60.0
     },
     {
-      "title": "Canetas emagrecedoras: veja 6 riscos associados ao uso sem indicação",
-      "summary": "Medicamentos à base de semaglutida e tirzepatida podem causar alterações gastrointestinais, perda muscular e complicações mais raras, como pancreatite",
-      "url": "https://exame.com/ciencia/canetas-emagrecedoras-veja-6-riscos-associados-ao-uso-sem-indicacao",
-      "published": "2026-10-13T11:44:32+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "semaglutida",
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 56.0
-    },
-    {
       "title": "Assaí já sente alta das vendas após fim das bets",
       "summary": "O dinheiro que deixa de ir para as bets pode estar começando a voltar para os carrinhos de... supermercado. É o que avaliam executivos do Assaí, que identificam sinais de melhora no consumo neste quarto trimestre, especialmente em cidades do interior e bairros de menor renda, e consideram que as restrições às apostas online podem estar contribuindo para esse movimento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://oglobo.globo.com/blogs/capital/post/2026/10/assai-ja-sente-alta-das-vendas-apos-fim-das-bets.ghtml",
@@ -1705,6 +1706,45 @@
         {
           "sector": "Economia",
           "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Amazon promete mais de US$ 17 bi para expandir operações na Alemanha",
+      "summary": "A Amazon anunciou que investirá mais de 16 bilhões de euros (US$ 17,94 bilhões) em infraestrutura de inteligência artificial, internet de alta velocidade via satélite, logística e conteúdo para o Prime Video na Alemanha no próximo ano. Trata-se do mais recente compromisso de grande porte de uma gigante americana de tecnologia para expandir suas operações no exterior. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/20/amazon-promete-mais-de-us-17-bi-para-expandir-operacoes-na-alemanha.ghtml",
+      "published": "2026-10-20T11:29:52+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "logística"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "logística",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
           "field": "title",
           "score": 20,
           "topic": null
@@ -3576,6 +3616,133 @@
       "score": 40.0
     },
     {
+      "title": "São Paulo puxa locações de galpões logísticos e derruba taxa de vacância do Brasil",
+      "summary": "A taxa de vacância dos galpões logísticos de alto padrão no país alcançou o menor nível dos últimos três anos e caiu para 3,2% no terceiro trimestre deste ano, ante 4,3% nos três meses anteriores, segundo levantamento da consultoria Cushman &amp; Wakefield. Leia mais (10/20/2026 - 08h00)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/sao-paulo-puxa-locacoes-de-galpoes-logisticos-e-derruba-taxa-de-vacancia-do-brasil.shtml",
+      "published": "2026-10-20T11:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "galpões",
+        "galpões logísticos"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "galpões logísticos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Agenda de empresas: Americanas encerra recuperação judicial; Ânima assina acordo com Einstein",
+      "summary": "Americanas Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/20/agenda-de-empresas-americanas-encerra-recuperacao-judicial-anima-assina-acordo-com-einstein.ghtml",
+      "published": "2026-10-20T11:15:13+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Americanas encerra processo de recuperação judicial",
+      "summary": "Empresa foi vítima de uma fraude contábil de R$ 54,2 bilhões e precisou da RJ para se reerguer",
+      "url": "https://veja.abril.com.br/economia/americanas-encerra-processo-de-recuperacao-judicial",
+      "published": "2026-10-20T11:20:53+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Casas Bahia ratifica recuperação judicial após 6 anos sem registrar lucro",
+      "summary": "A empresa acumula prejuízos bilionários desde 2020; entenda",
+      "url": "https://veja.abril.com.br/economia/casas-bahia-ratifica-recuperacao-judicial-apos-6-anos-sem-registrar-lucro",
+      "published": "2026-10-20T11:46:33+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "AliExpress e YouTube fecham parceria para que os criadores de conteúdo recomendem produtos e recebam comissão por vendas",
       "summary": "O AliExpress fechou uma parceria global com o YouTube para permitir que criadores de conteúdo recomendem produtos de seu marketplace e recebam comissões por vendas. A iniciativa começou em março na Coreia do Sul e vai estar disponível no Brasil a partir desta terça-feira. Mais medidas: governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno Saiba mais: campanha de Flávio promete pagar Bolsa Família por 2 anos após beneficiário conseguir emprego ou abrir negócio Os criadores elegíveis poderão marcar produtos em vídeos, shorts e transmissões ao vivo diretamente pelo YouTube Studio. Ao clicar na recomendação dentro do YouTube, os espectadores poderão acessar os itens recomendados e finalizar a compra no AliExpress. A seleção inclui categorias como eletrônicos, esportes e produtos para casa. No Brasil, a participação será aberta a criadores que cumpram os requisitos do Programa de Afiliados do YouTube Shopping. O diferencial é a integração entre conteúdo e compra. Em vez de o criador apenas exibir uma peça publicitária, o formato permite que ele marque produtos no próprio conteúdo e receba comissão pelo YouTube através do AdSense (plataforma gratuita do Google que permite a criadores de conteúdo, blogueiros e donos de sites ou canais do YouTube monetizarem suas páginas ao exibir anúncios de empresas) por vendas qualificadas geradas pelas recomendações. Segundo Roberto Wajnsztok, sócio-diretor da Gouvêa Consulting, essa tendência de consumo atrelada ao consumo de vídeos está crescendo no mercado. Isso se dá devido principalmente ao protagonismo que o audiovisual ganhou. — Os criadores de conteúdo foram desenvolvendo técnicas para melhorar a exposição e a qualidade desses vídeos, tornando-os mais assertivos na forma como se apresentam, nos assuntos que abordam e na identificação do que gera resultados e do que não funciona. Produzir vídeos nunca foi tão fácil e, logicamente, eles convertem muito mais do que imagens estáticas — analisa Wajnsztok. Nos anos anteriores o consumidor costumava entrar em um site, procurar um produto e encontrar uma foto acompanhada de um texto. Essa experiência foi substituída por uma experiência em vídeo, na qual são destacados os principais atributos do produto e seus diferenciais. Para produtos que não demandam muita explicação, esse formato se encaixa perfeitamente. Os vídeos curtos conseguem apresentar o produto rapidamente e, quando as informações relevantes já foram transmitidas, o consumidor não precisa passar por tantas etapas até a compra. O crescimento do TikTok Shop está muito relacionado ao consumo de vídeos, que atingiu um patamar muito elevado. Diferentemente do TikTok, que desenvolveu um modelo próprio de vendas dentro da plataforma, o Google (que controla o YouTube) não atua diretamente como marketplace. Assim, a parceria entre AliExpress e YouTube busca aproximar os vídeos dos produtos à venda, facilitando o caminho entre o conteúdo e a decisão de compra do consumidor. De acordo com Wajnsztok, o perfil dos vídeos do YouTube é diferente. Embora exista o formato shorts (vídeos curtos), o formato convencional, que tem vídeos mais longos e explicativos, continua sendo relevante. Nesse caso, o consumidor pode assistir a uma apresentação detalhada, até mesmo bastante técnica, sobre o produto e, a partir dessa análise, acessar diretamente o link de compra. – A expectativa é que os produtos comercializados nessa parceria entre AliExpress e YouTube tenham um perfil diferente, possivelmente com maior valor agregado e que demandem mais explicações. Não se trata necessariamente daquele consumo de conteúdo tão rápido – explica. Um vídeo curto, construído para atender a uma necessidade que surge rapidamente na mente do consumidor, tende a gerar uma conversão mais rápida. Já nos vídeos longos, pode ser compensado por uma venda mais racional e consistente, com um ticket médio maior. – O consumidor brasileiro é bastante receptivo a novas experiências de compra, e não vejo nessa iniciativa algo muito diferente daquilo que ele já experimenta atualmente. O perfil dos produtos e o tempo de compra são diferentes. Não podemos esperar o mesmo nível de conversão observado hoje no TikTok Shop, muito menos o mesmo perfil de produtos – observa.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/10/20/aliexpress-e-youtube-fecham-parceria-para-que-os-criadores-de-conteudo-recomendem-produtos-e-recebam-comissao-por-vendas.ghtml",
@@ -4783,52 +4950,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "A diferença na intenção de voto em Flávio e Lula entre quem recebe e não recebe Bolsa Família, segundo a pesquisa BTG/Nexus",
-      "summary": "Levantamento mostra vantagem ampla de um candidato no recorte de beneficiários do programa social",
-      "url": "https://veja.abril.com.br/brasil/a-diferenca-na-intencao-de-voto-em-flavio-e-lula-entre-quem-recebe-e-nao-recebe-bolsa-familia-segundo-a-pesquisa-btg-nexus",
-      "published": "2026-10-13T10:21:29+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras exigem acompanhamento para evitar riscos à saúde, alertam especialistas",
-      "summary": "Canetas emagrecedoras exigem acompanhamento para evitar riscos à saúde, alertam especialistas &nbsp;&nbsp; Grupo Ceres de Comunicação",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcTluODY3bkxicFhvcDBxLTdLMFhQZXhLVml2V3ltaDNoTHc4RTM4eGF0QUdiZDN0RjN6QjZxRHg5R1RoTnctcUhhMl93QWdtcEJHZy1wSDVfR3NzbmxjZGlmV3BzclVJX1g1UHpPVTZENHRxREdWSDJDNl94VTdIM043RGVsQ3JKQmZhSl9YWUlGd0JNb1dPc2ltQngzU3FaZEVVdkRDejV3MTBzOWpsYnN6RTZ1UzlsSDNEYktXZGZXQkFWSldhMFJB?oc=5",
-      "published": "2026-10-13T11:43:09+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Descarte de canetas emagrecedoras: agulhas são encontradas no lixo comum e causam riscos",
@@ -9891,6 +10012,98 @@
       "score": 20.0
     },
     {
+      "title": "Dona da Shopee planeja novo negócio de computação em nuvem",
+      "summary": "Dona da Shopee, a Sea está lançando um novo negócio de computação em nuvem e pode abrir o capital de seu braço de serviços financeiros, a Monee, segundo o diretor-presidente Forrest Li. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/20/dona-da-shopee-planeja-novo-negocio-de-computacao-em-nuvem.ghtml",
+      "published": "2026-10-20T10:40:56+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "NBA Opening Night: How NBC And Amazon Prime Plan To Build As Partners",
+      "summary": "NBC Sports and Amazon Prime Video executives spoke to Forbes on how what is in store for its second season an NBA broadcast partners",
+      "url": "https://www.forbes.com/sites/markmedina/2026/10/20/nba-opening-night-how-nbc-and-amazon-prime-plan-to-build-as-partners",
+      "published": "2026-10-20T11:00:00+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Amazon Pledges More Than $17 Billion to Expand German Operations",
+      "summary": "The company plans to invest AI infrastructure, high-speed satellite internet, logistics projects and new Prime Video content, the latest big-ticket investment from a U.S. tech company keen to expand overseas.",
+      "url": "https://www.wsj.com/business/telecom/amazon-pledges-over-17-billion-to-expand-german-operations-52c311ee?mod=rss_Technology",
+      "published": "2026-10-20T11:03:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Hurst lança certificado de recebíveis ligado à fintech Revolut, avaliada em  US$ 115 bi",
+      "summary": "A Hurst Capital colocou na sua plataforma uma oferta de Certificados de Recebíveis (CRs) que proporcionam exposição indireta à Revolut, fintech fundada no Reino Unido que alcançou uma avaliação de mercado de US$ 115 bilhões, numa transação privada. O CR é uma forma de o brasileiro ter acesso à empresa por meio de uma estrutura que investe em participação ligada às ações da companhia na fase pré-IPO (oferta pública inicial de ações). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/20/hurst-lana-certificado-de-recebveis-ligado-fintech-revolut-avaliada-em-us-115-bi.ghtml",
+      "published": "2026-10-20T11:49:44+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Galeão terá R$ 1 bi em investimentos em três anos e voos para mais 30 destinos",
       "summary": "O Aeroporto Internacional do Rio de Janeiro/Galeão vai receber aproximadamente R$ 1 bilhão em investimentos ao longo dos próximos três anos. Os aportes serão feitos por parceiros comerciais privados em áreas como hotelaria, logística, manutenção de aeronaves e outras. Às vésperas do 2º turno das eleições: Governo Lula anuncia perdão da dívidas de MEIs e promete Pix de até R$ 5 mil Jerome Cadier: CEO da Latam prevê que passagem vai subir com alta prologada de combustível e Reforma Tributária Virão também voos para 30 novos destinos, entre incrementos de frequências novas rotas e retomadas de linhas sazonais, sendo 12 deles no exterior, com ligações para localidades como Nova York, Dallas, Salta, Lima, Toronto e Montreal, além de ampliação da oferta de voos a pontos como Paris, Miami, Lisboa e Frankfurt. O Galeão está, desde o último dia 6 de outubro, sob gestão da Aena, gigante aeroportuária espanhola que arrematou o terminal relicitado em leilão no fim de março. A empresa levou o ativo com um lance de R$ 2,9 bilhões em outorgas, enquanto o lance mínimo previsto era de R$ 932 milhões. E terá a gestão do ativo até 2039. Santiago Yuz, diretor-vice-presidente da Aena Brasil, participou de um evento no Galeão na manhã desta terça-feira para marcar o início da gestão do aeroporto. Ele frisou que a concessionária seguirá trabalhando \"no mínimo\" até o fim do contrato atual, e que, \"se depois, conseguir estender, melhor ainda\". O executivo explicou que os investimentos diretos da concessionária no aeroporto ainda não estão definidos. Eles virão em melhorias – que o passageiro deverá perceber já no início de 2027 - em índices de qualidade, aprimorando infraestrutura e equipamentos, a exemplo de elevadores, banheiros e sistema de climatização. — O Galeão é a principal porta de entrada do Brasil e com um grande potencial de crescimento. Temos cerca de R$ 1 bilhão de investimento previsto de terceiros a serem aportados ao longo dos próximos três anos, gerando 3.860 empregos — diz Santiago Yuz, diretor-presidente da Aena Brasil. Novo hotel de até 426 quartos Nessa frente estão projetos como o de um novo hotel de bandeira internacional, com 232 quartos, mas já com a possibilidade de ter uma expansão a 426. O hotel receberá R$ 90 milhões em aporte e será operado pela bUP. Leia também: Latam recebe primeiro jato da Embraer e planeja ampliar malha com voos regionais Em paralelo, um centro de testes da BYD, projeto de R$ 300 milhões, vai ocupar uma área de 184 mil metros quadrados, com a previsão de gerar 1.200 empregos. A Gol já anunciou que terá um hangar de manutenção de 56 mil metros quadrados no Galeão, fazendo aporte de R$ 100 milhões, gerando 800 empregos. Já a Hire Capital vai implementar um galpão logístico de 120 mil metros quadrados de área bruta para locação, ao custo de R$ 430 milhões, com o objetivo de atender o mercado fluminense e o capixaba. Vai também expandir o galpão logístico já em operação, que passará de 22 mil metros quadrados para 40 mil m2, com aporte de R$ 54 milhões. Máfia dos táxis: Saiba como não cair na mão de golpistas ao sair do Aeroporto do Galeão O executivo participou de evento realizado na manhã desta terça-feira no Galeão, marcando a assinatura do contrato da nova concessionária. Novas empresas de baixo custo Ele sublinhou que a Aena vai atuar para atrair novas companhias aéreas, entre domésticas e internacionais, incluindo low-costs, além de empresas da área de carga. O Galeão recebeu 17,5 milhões de passageiros em 2025, devendo encerrar este ano com cerca de 19 milhões. A despeito do crescimento, o aeroporto ainda tem perto de metade de sua capacidade para até 37 milhões de passageiros ociosa. Reforma Tributária: Companhias aéreas tentam se enquadrar como regionais para pagar menos imposto Uma das estratégias para avançar em novas companhias, explica Yuz, é integrar o Galeão aos demais 17 aeroportos da Aena no país. Ao todo, essa rede movimentou 63 milhões de passageiros em 2025. — Temos 18 aeroportos e, em sinergia, podemos estimular conexões domésticas com internacionais ou domésticas com domésticas. Já temos um caso de sucesso com a Gol, numa linha que aparece nas telas dos feeds como Congonhas-Galeão-JFK (aeroporto de Nova York), e também para Lisboa. Colaboramos com que chamamos de vendas cruzadas, e de alguma forma a colocamos incentivos que atraem companhias aéreas — explicou o executivo. O presidente da Agência Nacional de Aviação Civil (Anac), Tiago Faierstein, celebrou a bem-sucedida relicitação do Galeão, viabilizada pelas novas condições de contrato de forma a garantir o equilíbrio econômico-financeiro da concessão. E frisou que o setor precisa trabalhar de forma coordenada para fazer o movimento no Galeão e no Rio de Janeiro crescer: — O Galeão sofreu muito com a pandemia. Com a retomada dos voos internacionais, voltam as conexões, os trechos domésticos. O Brasil é um país grande e não sobrevive apenas com o Aeroporto de Guarulhos. Precisa fomentar um outro grande aeroporto internacional. E esse aeroporto é o do Galeão. Sem licitação no Santos Dumont O ministro de Portos e Aeroportos, Tomé França, afirmou que a operação coordenada entre Galeão e Santos Dumont vai seguir a redução gradual da restrição de movimento de passageiros estabelecida ao aeroporto central conforme estabelecido pelo acordo firmado com o Tribunal de Contas da União (TCU). Entenda o que muda: ‘Céus abertos’ entre países da América do Sul começa em um ano, diz ministro Segundo França, não há qualquer estudo em curso para uma eventual licitação do Santos Dumont. O aeroporto responde por quase todo o orçamento da Infraero, estatal de gestão aeroportuária que administra outros 20 aeroportos. Na prática, é preciso pensar a atuação da Infraero antes de avaliar o destino do Santos Dumont. Em paralelo, ele afirmou que o governo vem trabalhando para atrair empresas low-cost ou mesmo ultra-low-cost ao país, ampliando o acesso a viagens aéreas a mais camadas da população. As discussões nessa direção, porém, estão sendo feitas dentro de um grupo de trabalho criado a partir da celebração do Acordo de Liberalização Aérea Sul-Americana (Alas), em julho. O documento propõe a criação de um mercado comum de aviação entre países da América do Sul. Entre as mudanças previstas, a principal seria a liberação da operação de empresas estrangeiras em voos domésticos no país, conhecida como cabotagem.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/13/galeao-tera-r-1-bi-em-investimentos-em-tres-anos-e-voos-para-mais-30-destinos.ghtml",
@@ -11728,6 +11941,52 @@
         {
           "sector": "E-commerce",
           "alias": "e-commerce",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Fim da 6×1, pacote para MEIs e mais: o que pensa o eleitor sobre ‘bondades’ de Lula, segundo pesquisa Real Time Big Data",
+      "summary": "Pesquisa também mede apoio a expansão do Pé-de-Meia e do Farmácia Popular, criação de Ministério da Segurança Pública e novo PAC",
+      "url": "https://veja.abril.com.br/politica/fim-da-6x1-pacote-para-meis-e-mais-o-que-pensa-o-eleitor-sobre-bondades-de-lula-segundo-pesquisa-real-time-big-data",
+      "published": "2026-10-20T10:52:16+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácia"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "UK banks hit by Google Cloud outage",
+      "summary": "Halifax and Revolut among a string of businesses affected by disruption",
+      "url": "https://www.ft.com/content/c88b07df-d30e-401a-aca9-4b054d6dfd7b?syn-25a6b1a6=1",
+      "published": "2026-10-20T12:03:03+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
           "field": "lead",
           "score": 8,
           "topic": null
