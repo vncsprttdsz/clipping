@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T01:07:41.641632+00:00",
-  "count": 420,
-  "new_this_run": 52,
+  "generated_at": "2026-10-20T09:12:26.244805+00:00",
+  "count": 426,
+  "new_this_run": 34,
   "articles": [
     {
       "title": "Ozempic, Mounjaro, Wegovy e mais: conheça 11 canetas emagrecedoras e veja qual é mais eficaz",
@@ -238,54 +238,6 @@
       "score": 84.0
     },
     {
-      "title": "C&A, Renner, Riachuelo e Vivara: veja as projeções para o varejo de moda no 3º tri",
-      "summary": "C&amp;A, Renner, Riachuelo e Vivara: veja as projeções para o varejo de moda no 3º tri &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/13/10/2026/mc-capital/renner-ca-riachuelo-e-vivara-veja-as-projecoes-para-o-varejo-de-moda-no-3o-tri",
-      "published": "2026-10-13T06:04:41+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Fashion",
-        "Joias"
-      ],
-      "matched_aliases": [
-        "c&a",
-        "renner",
-        "riachuelo",
-        "vivara"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "renner",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "c&a",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "riachuelo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "vivara",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 80.0
-    },
-    {
       "title": "Canetas Emagrecedoras: Anvisa Proíbe Venda De Tirzepatida E Retatrutida Sem Registro",
       "summary": "Canetas Emagrecedoras: Anvisa Proíbe Venda De Tirzepatida E Retatrutida Sem Registro &nbsp;&nbsp; InMagazine",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE15aS1QeXMtRmM4NllsUzNLVXowaEY2V242RTVyMktkS2w5c1U4R0tOaXJ2WUNhQldNdkVWSnhKYXpNOEF1UkswYTIxS3FMM3JBSGhWYUhWenYzZkxmdTRYSTVHM2tPN2tKUVFaR25jaTFBYTFlUlRfelFIYWtkZw?oc=5",
@@ -458,53 +410,6 @@
         }
       ],
       "score": 72.0
-    },
-    {
-      "title": "Crise na China afeta LVMH e diminui esperanças de renascimento do mercado de luxo",
-      "summary": "A LVMH (Louis Vuitton Moët Hennessy) LVMH.PA, referência no setor de luxo , divulgou nesta segunda-feira (12) vendas do terceiro trimestre abaixo do esperado, devido à forte deterioração do humor do consumidor chinês, que afetou a demanda por suas marcas principais, Louis Vuitton e Dior. Leia mais (10/13/2026 - 04h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/crise-na-china-afeta-lvmh-e-diminui-esperancas-de-renascimento-do-mercado-de-luxo.shtml",
-      "published": "2026-10-13T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo",
-        "lvmh",
-        "mercado de luxo",
-        "setor de luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "mercado de luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "setor de luxo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "lvmh",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 68.0
     },
     {
       "title": "Grupo Carrefour chega a 100 drogarias e aposta em novo modelo no Atacadão",
@@ -1084,6 +989,45 @@
         {
           "sector": "Farmácias",
           "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves",
+      "summary": "Os médicos estão cada vez mais preocupados com o fato de os medicamentos para perda de peso estarem causando novos casos de anorexia e com a escassez de medidas de segurança para proteger pacientes com transtornos alimentares. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/10/20/mounjaro-ou-anorexia-medicos-alertam-que-os-efeitos-das-canetas-emagrecedoras-podem-mascarar-transtornos-alimentares-graves.ghtml",
+      "published": "2026-10-20T07:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1972,68 +1916,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Magazine Luiza estima ficar com R$ 7 bi da crise na Casas Bahia",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/13/magazine-luiza-estima-ficar-com-r-7-bi-da-crise-na-casas-bahia.ghtml",
-      "published": "2026-10-13T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "magazine luiza"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "magazine luiza",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Sentença determina exclusão do IBS e CBS do cálculo do ICMS",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/noticia/2026/10/13/sentenca-determina-exclusao-do-ibs-e-cbs-do-calculo-do-icms.ghtml",
-      "published": "2026-10-13T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "ibs"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Arquivos Life by Vivara",
@@ -3439,6 +3321,38 @@
       "score": 40.0
     },
     {
+      "title": "Quase quatro anos depois, a Americanas sai da recuperação judicial",
+      "summary": "Quase quatro anos depois, a Americanas sai da recuperação judicial &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/blogs/lauro-jardim/post/2026/10/quase-quatro-anos-depois-a-americanas-sai-da-recuperacao-judicial.ghtml",
+      "published": "2026-10-19T22:40:10+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Acionistas do Grupo Casas Bahia aprovam ratificação de pedido de recuperação judicial",
       "summary": "O Grupo Casas Bahia informou nesta segunda-feira (19) que seus acionistas aprovaram a ratificação do pedido de recuperação judicial apresentado pela companhia e por determinadas subsidiárias em agosto deste ano. A deliberação ocorreu em assembleia geral extraordinária. O pedido foi protocolado em 16 de agosto de 2026 perante a Vara de Falências e Recuperações Judiciais do Foro Central de São Paulo. A companhia destacou, porém, que o Judiciário ainda não se manifestou sobre o processamento da recuperação judicial. Segundo o fato relevante, não há garantia de que o pedido será aceito nos termos apresentados. Casas Bahia Divulgação",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/19/acionistas-do-grupo-casas-bahia-aprovam-ratificao-de-pedido-de-recuperao-judicial.ghtml",
@@ -3476,6 +3390,38 @@
       "url": "https://valor.globo.com/empresas/noticia/2026/10/19/justia-encerra-recuperao-judicial-da-americanas.ghtml",
       "published": "2026-10-19T22:54:48+00:00",
       "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Americanas encerra recuperação judicial após cumprir plano aprovado por credores",
+      "summary": "Americanas encerra recuperação judicial após cumprir plano aprovado por credores &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/19/10/2026/noticias-varejo/americanas-encerra-recuperacao-judicial-apos-cumprir-plano-aprovado-por-credores",
+      "published": "2026-10-20T00:11:03+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
       "matched_sectors": [
         "E-commerce",
         "Economia"
@@ -3565,6 +3511,86 @@
         }
       ],
       "score": 40.0
+    },
+    {
+      "title": "Americanas sai da recuperação judicial e busca retomada",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/20/americanas-sai-da-recuperacao-judicial-e-busca-retomada.ghtml",
+      "published": "2026-10-20T08:00:01+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "AliExpress e YouTube fecham parceria para que os criadores de conteúdo recomendem produtos e recebam comissão por vendas",
+      "summary": "O AliExpress fechou uma parceria global com o YouTube para permitir que criadores de conteúdo recomendem produtos de seu marketplace e recebam comissões por vendas. A iniciativa começou em março na Coreia do Sul e vai estar disponível no Brasil a partir desta terça-feira. Mais medidas: governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno Saiba mais: campanha de Flávio promete pagar Bolsa Família por 2 anos após beneficiário conseguir emprego ou abrir negócio Os criadores elegíveis poderão marcar produtos em vídeos, shorts e transmissões ao vivo diretamente pelo YouTube Studio. Ao clicar na recomendação dentro do YouTube, os espectadores poderão acessar os itens recomendados e finalizar a compra no AliExpress. A seleção inclui categorias como eletrônicos, esportes e produtos para casa. No Brasil, a participação será aberta a criadores que cumpram os requisitos do Programa de Afiliados do YouTube Shopping. O diferencial é a integração entre conteúdo e compra. Em vez de o criador apenas exibir uma peça publicitária, o formato permite que ele marque produtos no próprio conteúdo e receba comissão pelo YouTube através do AdSense (plataforma gratuita do Google que permite a criadores de conteúdo, blogueiros e donos de sites ou canais do YouTube monetizarem suas páginas ao exibir anúncios de empresas) por vendas qualificadas geradas pelas recomendações. Segundo Roberto Wajnsztok, sócio-diretor da Gouvêa Consulting, essa tendência de consumo atrelada ao consumo de vídeos está crescendo no mercado. Isso se dá devido principalmente ao protagonismo que o audiovisual ganhou. — Os criadores de conteúdo foram desenvolvendo técnicas para melhorar a exposição e a qualidade desses vídeos, tornando-os mais assertivos na forma como se apresentam, nos assuntos que abordam e na identificação do que gera resultados e do que não funciona. Produzir vídeos nunca foi tão fácil e, logicamente, eles convertem muito mais do que imagens estáticas — analisa Wajnsztok. Nos anos anteriores o consumidor costumava entrar em um site, procurar um produto e encontrar uma foto acompanhada de um texto. Essa experiência foi substituída por uma experiência em vídeo, na qual são destacados os principais atributos do produto e seus diferenciais. Para produtos que não demandam muita explicação, esse formato se encaixa perfeitamente. Os vídeos curtos conseguem apresentar o produto rapidamente e, quando as informações relevantes já foram transmitidas, o consumidor não precisa passar por tantas etapas até a compra. O crescimento do TikTok Shop está muito relacionado ao consumo de vídeos, que atingiu um patamar muito elevado. Diferentemente do TikTok, que desenvolveu um modelo próprio de vendas dentro da plataforma, o Google (que controla o YouTube) não atua diretamente como marketplace. Assim, a parceria entre AliExpress e YouTube busca aproximar os vídeos dos produtos à venda, facilitando o caminho entre o conteúdo e a decisão de compra do consumidor. De acordo com Wajnsztok, o perfil dos vídeos do YouTube é diferente. Embora exista o formato shorts (vídeos curtos), o formato convencional, que tem vídeos mais longos e explicativos, continua sendo relevante. Nesse caso, o consumidor pode assistir a uma apresentação detalhada, até mesmo bastante técnica, sobre o produto e, a partir dessa análise, acessar diretamente o link de compra. – A expectativa é que os produtos comercializados nessa parceria entre AliExpress e YouTube tenham um perfil diferente, possivelmente com maior valor agregado e que demandem mais explicações. Não se trata necessariamente daquele consumo de conteúdo tão rápido – explica. Um vídeo curto, construído para atender a uma necessidade que surge rapidamente na mente do consumidor, tende a gerar uma conversão mais rápida. Já nos vídeos longos, pode ser compensado por uma venda mais racional e consistente, com um ticket médio maior. – O consumidor brasileiro é bastante receptivo a novas experiências de compra, e não vejo nessa iniciativa algo muito diferente daquilo que ele já experimenta atualmente. O perfil dos produtos e o tempo de compra são diferentes. Não podemos esperar o mesmo nível de conversão observado hoje no TikTok Shop, muito menos o mesmo perfil de produtos – observa.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/20/aliexpress-e-youtube-fecham-parceria-para-que-os-criadores-de-conteudo-recomendem-produtos-e-recebam-comissao-por-vendas.ghtml",
+      "published": "2026-10-20T03:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "aliexpress",
+        "bolsa família",
+        "marketplace",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "aliexpress",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 38.0
     },
     {
       "title": "Quem ganha no e-commerce quando o Muse chegar ao Brasil? O BTG responde",
@@ -3685,45 +3711,6 @@
       "score": 36.0
     },
     {
-      "title": "Fim da escala 6x1 vira lei: os próximo passos e prazos",
-      "summary": "O Congresso Nacional promulgou nesta sexta-feira (16/10) a emenda constitucional que determina o fim da escala 6x1, de seis dias de trabalho para apenas um de descanso, e prevê a escala 5x2, com dois dias de folga, para todos os brasileiros dentro de dois meses. A emenda prevê também uma redução gradual da jornada de trabalho das atuais 44 horas para 40 horas semanais, sem redução salarial, com um período de transição de 14 meses. A promulgação é o ato que oficializa uma lei, ou seja, é quando ela passa a ter validade legal. No caso de emendas, cabe ao próprio Legislativo promulgar a mudança na lei, e não o Executivo. A nova emenda foi promulgada em sessão solene com participação dos presidentes do Senado, Davi Alcolumbre (União-AP); da Câmara dos Deputados, Hugo Motta (Republicanos-PB); e do presidente Luiz Inácio Lula da Silva (PT). Ministros, senadores e deputados da base do governo lotaram o plenário do Senado, enquanto lideranças da oposição não compareceram à sessão, segundo informações da Agência Brasil. Durante o evento, Alcolumbre destacou a importância da nova lei, agora em vigor: \"Quanto vale mais tempo para cuidar de si e de quem se ama? Para milhões de pessoas que precisam trabalhar seis, às vezes sete dias por semana, a resposta é simples, essas coisas não têm preço, têm valor\", afirmou. Uma vez promulgada, uma emenda constitucional começa a vigorar em um período máximo de 60 dias. A proposta final, de autoria do deputado federal Reginaldo Lopes (PT-MG), prevê a implementação progressiva das mudanças na jornada. O artigo 6° estipula que, dois meses depois do texto ser publicado — ou seja, no intervalo previsto no regimento —, a duração de trabalho semanal já não deverá exceder 42 horas semanais. Estará em vigor a partir de dezembro, portanto. Após essa primeira redução, 12 meses depois a jornada cai para 40 horas. Com isso, a transição completa levará 14 meses, devendo ser concluída em dezembro de 2027. O que mudará? A Constituição de 1988 delimitou que a jornada de trabalho semanal no Brasil não pode ser maior do que 44 horas, com pelo menos um dia de folga nesse período. Com a nova emenda, agora, ela diminuirá para 42 horas, no primeiro ano, e para 40 horas após 14 meses, mantendo o teto máximo de oito horas diárias de trabalho. Os dois dias de folga previstos no projeto, com a preferência do domingo, passará a valer já a partir de dezembro. Essas mudanças serão implementadas sem redução proporcional dos salários, ou o que aparece na proposta, como \"irredutibilidade salarial\". É um dos pontos mais controversos da nova lei, já que, de um lado, analistas apontam que as empresas terão condições econômicas de se adaptar ao novo modelo e até aumentar a produtividade dos seus funcionários, em certos casos, criando novas funções ou padrões de operação. O economista Naercio Menezes Filho, que leciona no Insper, em São Paulo, por exemplo, observa que a última mudança de jornada, em 1988, não gerou redução de empregos nem impactos significativos na economia do país. Especialistas também apontam que a política de reajuste anual do salário mínimo, que indexa parte da massa de renda formal do país, não afeta significativamente o orçamento das empresas, à medida em que elas possuem margens de absorção desses custos. De outro lado, porém, instituições empresariais apontam para impactos negativos produzidos pela mudança, como um aumento significativo da inflação e do desemprego, além de impactos no PIB. A Confederação Nacional do Comércio (CNC), por exemplo, estima que a elevação dos preços nos setores do comércio e dos serviços pode chegar a 13%. Entidades do empresariado paulista, por sua vez, calculam que a folha de pagamentos dos negócios teria um acréscimo de pelo menos R$ 158 bilhões a partir da entrada em vigor da jornada em 40 horas. Isso porque a manutenção salarial aumentaria o custo da hora trabalhada, sem contrapartida de produtividade, pressionando as receitas. Como ficam os acordos coletivos? Embora o artigo 3° da PEC invalide, depois da sua publicação, todos os acordos feitos, no passado, por convenções de sindicatos patronais e de trabalhadores que envolvam a duração da jornada de trabalho, ela também prevê que aqueles que trabalham em regimes diferenciados reconhecidos em lei, como profissionais de saúde, por exemplo, devem estabelecer suas próprias regras — dentro do escopo da Constituição — a partir de agora. Essa negociação poderá seguir o formato dos acordos coletivos, fixado na Carta, mas desde que garantam os dois dias de folgas semanais previstos. O projeto não diz, porém, quais categorias serão consideradas \"diferenciadas\". Essa definição deverá ficar para o ano que vem, provavelmente por meio de lei complementar. Algumas, óbvias, no entanto, são as de saúde, segurança, transporte e limpeza urbana, entre outras. Boa parte dessas categorias funciona, hoje, no modelo 12x36 — isto é, com 12 horas de trabalho para 36 de descanso ininterrupto. Segundo especialistas, as escalas desses trabalhadores também serão alteradas, inevitavelmente, pela PEC, já que elas terão que se reorganizar pela lei para garantir o cumprimento da nova jornada. Na prática, isso também deve acontecer a partir do ano que vem, quando as entidades representativas dos trabalhadores e dos patrões vão produzir seus novos acordos. Há, ainda, uma série de outros trâmites que não serão regulados agora com a PEC, como o manuseio do banco de horas (na lei atual, quem trabalha em domingos e feriados pode ser compensando com uma folga, dependendo do que foi definido nas negociações) e o próprio funcionamento das convenções coletivas, que continuarão tendo poder decisório no caso das categorias especiais. Como a lei foi aprovada? Um dos pêndulos da política brasileira desde o ano passado, a proposta foi inicialmente aprovada pela Câmara dos Deputados em maio, com ampla maioria (472 votos contra 22 em primeiro turno), mas travou no Senado por ação de Alcolumbre, à época em conflito com Lula nos bastidores. O texto recebeu 36 propostas de emendas — a maioria de senadores — que foram rejeitadas pelo relator, Omar Aziz (PSD-AM). Dias antes do primeiro turno da eleição presidencial, no domingo (4/10), Davi Alcolumbre pautou a votação do projeto para a semana seguinte ao pleito, na terça-feira (6/10). Na verdade, ele indicava a tramitação pelas sessões de discussão obrigatórias em plenário. Pelo regimento, a proposta precisaria passar, obrigatoriamente, por três novas sessões de discussão em plenário entre os turnos. Alcolumbre, porém, conseguiu reunir as assinaturas de 27 parlamentares para aprovar a votação integral em calendário especial, isto é, no interstício entre os turnos de tramitação. Foi isso que permitiu que a emenda fosse votada em dois turnos e aprovada na quarta-feira (14/10). Quem será impactado pelas novas regras? Não há um consenso sobre isso — muito porque os conceitos variam. A socióloga Adriana Marcolino, diretora técnica do Departamento Intersindical de Estatística e Estudos Socioeconômicos (Dieese), estipula que pelo menos 15% da mão de obra formal do país esteja atuando dentro da escala 6x1 atualmente. Sua base de observação é o volume de ocupados dentro do mercado de trabalho, formado por cerca de 103 milhões de pessoas. Mas um levantamento da Confederação Nacional do Comércio (CNC), com base na Relação Anual de Informações Sociais (RAIS), mostra que cerca de 35,7 milhões de trabalhadores formais estão, hoje, na faixa entre 40 e 44 horas semanas trabalhadas — o que representa cerca de 62% da força de trabalho celetista do Brasil. A base, nesse caso, é a jornada de trabalho. Alguns setores têm quase a totalidade do quadro de trabalho nesse modelo, como o agronegócio (92% da mão de obra nessa faixa), a construção civil (91%), o varejo (89%) e a indústria (85%). O Ministério do Trabalho e Emprego (MTE), por sua vez, indica que são 14,8 milhões brasileiros na escala 6x1, enquanto outros 29,7 milhões já trabalham no 5x2. A base, nesse caso, é a escala — não a jornada.",
-      "url": "https://epocanegocios.globo.com/futuro-do-trabalho/noticia/2026/10/cdatafim-da-escala-6x-1-vira-lei-os-proximo-passos-e-prazos.ghtml",
-      "published": "2026-10-16T16:14:18+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 5x2",
-        "escala 6x1",
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "escala 5x2",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 36.0
-    },
-    {
       "title": "Fim da escala 6x1: o que muda para os trabalhadores com a nova regra? Envie sua pergunta para O GLOBO",
       "summary": "O direito de todo trabalhador a duas folgas semanais é uma das principais mudanças geradas pela Proposta de Emenda Constitucional (PEC) promulgada pelo Congresso Nacional nesta sexta-feira, dia 16 de outubro. Pelo texto aprovado, dois meses após a promulgação, a escala 5x2 passa a ser obrigatória. Além disso, a jornada de trabalho semanal vai cair de 44 horas para 40 horas. Como será feita a transição? Todo trabalhador terá o mesmo direito? Pode haver negociação direta com as empresas? Se você ainda tem alguma dúvida sobre a nova escala, envie sua pergunta no formulário abaixo. Ela poderá ser selecionada e respondida pela equipe da editoria de Economia do GLOBO. Initial plugin text Pergunte ao estagiário: como é trabalhar em uma grande Redação de jornal? Jovens do GLOBO respondem Pequeno tesouro: Como um repórter ‘rato de sebo’ transformou um achado de R$ 2 em uma viagem ao Rio de 1959 O GLOBO por dentro: Leia outras notícias sobre os bastidores do jornal",
       "url": "https://oglobo.globo.com/o-globo-por-dentro/noticia/2026/10/16/fim-da-escala-6x1-o-que-muda-para-os-trabalhadores-com-a-nova-regra-envie-sua-pergunta-para-o-globo.ghtml",
@@ -3797,6 +3784,84 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "Comércio negocia nova jornada após fim da escala 6x1, com primeiro grande teste no Natal",
+      "summary": "O comércio varejista de São Paulo começou a negociar a nova jornada de trabalho após o fim da escala 6x1 no primeiro grande teste para o setor. A escala 5x2 começará a valer em meados de dezembro, a poucos dias do Natal, momento de maiores ganhos para o setor. Leia mais (10/19/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/comercio-negocia-nova-jornada-apos-fim-da-escala-6x1-com-primeiro-grande-teste-no-natal.shtml",
+      "published": "2026-10-20T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 5x2",
+        "escala 6x1",
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 5x2",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 36.0
+    },
+    {
+      "title": "ROIT Aposta Em Autoexecução Inteligente Para A Reforma Tributária",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. RAI calcula tributos, explica a origem dos valores e automatiza regras entre empresas diante da implementação do IBS e da CBS O post ROIT Aposta Em Autoexecução Inteligente Para A Reforma Tributária apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/forbes-money/2026/10/roit-aposta-em-autoexecucao-inteligente-para-a-reforma-tributaria",
+      "published": "2026-10-20T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 36.0
@@ -4399,43 +4464,67 @@
       "score": 28.0
     },
     {
-      "title": "Falta de paridade na Cnica fragiliza o contencioso da reforma",
-      "summary": "A promessa central da reforma tributária sempre foi a simplificação. Ao substituir uma teia caótica de impostos e contribuições sobre o consumo por dois tributos gêmeos, IBS e CBS (o primeiro federal e o segundo compartilhado entre Estados e municípios), prometeu-se maior previsibilidade, menos litígio e mais segurança para quem produz, investe e contrata. Mas a engenharia institucional do novo sistema criou um elemento capaz de comprometer parcela dessas promessas. A Câmara Nacional de Integração do Contencioso Administrativo do IBS e da CBS (Cnica), criada pela Lei Complementar nº 227/2026 para dar a última palavra na discussão administrativa de controvérsias comuns aos dois tributos, nasce com um vício de origem: a ausência de paridade entre representantes do Fisco e dos contribuintes. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/coluna/falta-de-paridade-na-cnica-fragiliza-o-contencioso-da-reforma.ghtml",
-      "published": "2026-10-13T08:00:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "title": "Bancos vão apresentar resultados mais fracos no 3º tri com inadimplência em alta",
+      "summary": "O resultado dos bancos deve se deteriorar ainda mais no terceiro trimestre deste ano e trazer um indicador negativo para 2027, dizem analistas. Eles esperam que o lucro dos maiores bancos continue pressionado por um maior custo de crédito, dados a ainda alta inadimplência e o comprometimento de renda das famílias. Leia mais (10/19/2026 - 23h00)",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/10/bancos-vao-apresentar-resultados-mais-fracos-no-3o-tri-com-inadimplencia-em-alta.shtml",
+      "published": "2026-10-20T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
-        "cbs",
-        "ibs",
-        "reforma tributária"
+        "comprometimento de renda",
+        "inadimplência"
       ],
       "matches": [
         {
           "sector": "Economia",
-          "alias": "ibs",
+          "alias": "comprometimento de renda",
           "field": "lead",
           "score": 8,
-          "topic": "reforma_tributaria"
+          "topic": null
         },
         {
           "sector": "Economia",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
-      "score": 24.0
+      "score": 28.0
+    },
+    {
+      "title": "Americanas conclui processo de recuperação",
+      "summary": "A Americanas encerrou sua recuperação judicial, iniciada em janeiro de 2023 após a revelação de uma fraude contábil que levou a companhia a renegociar cerca de R$ 42,5 bilhões em dívidas, o terceiro maior valor da história das recuperações no país. Agora, a varejista espera ampliar o acesso ao crédito, para si mesma e a seus fornecedores, e consolidar a reestruturação. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/impresso/noticia/2026/10/20/americanas-conclui-processo-de-recuperacao.ghtml",
+      "published": "2026-10-20T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0
     },
     {
       "title": "Venda no varejo sobe 0,1% em agosto, abaixo da expectativa do mercado",
@@ -4663,52 +4752,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics",
-      "summary": "Roche strikes obesity drug licensing deal worth up to $1.16 bln with Chinese Rona Therapeutics &nbsp;&nbsp; Reuters",
-      "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/roche-strikes-obesity-drug-licensing-deal-worth-up-116-bln-with-chinese-rona-2026-10-13",
-      "published": "2026-10-13T08:15:42+00:00",
-      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "roche"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "roche",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "MP das bets: emendas buscam flexibilizar regras para manter apostas no futebol",
-      "summary": "MP das bets: emendas buscam flexibilizar regras para manter apostas no futebol &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/esportes/futebol/mp-das-bets-emendas-buscam-flexibilizar-regras-para-manter-apostas-no-futebol",
-      "published": "2026-10-13T08:30:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Canetas emagrecedoras são ligadas a um inesperado efeito nas unhas",
@@ -9564,6 +9607,29 @@
       "score": 20.0
     },
     {
+      "title": "A doação de R$ 1 milhão para Flávio Bolsonaro feita pelo fundador da Grendene",
+      "summary": "A doação de R$ 1 milhão para Flávio Bolsonaro feita pelo fundador da Grendene &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/blogs/ancelmo-gois/post/2026/10/a-doacao-de-r-1-milhao-para-flavio-bolsonaro-feita-pelo-fundador-da-grendene.ghtml",
+      "published": "2026-10-19T22:08:01+00:00",
+      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "grendene"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "grendene",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Assaí lança iogurtes e amplia categoria de marcas próprias",
       "summary": "Assaí lança iogurtes e amplia categoria de marcas próprias &nbsp;&nbsp; Mercado&amp;Consumo",
       "url": "https://mercadoeconsumo.com.br/19/10/2026/produtos/assai-lanca-iogurtes-e-amplia-categoria-de-marcas-proprias/amp",
@@ -9656,6 +9722,144 @@
       "score": 20.0
     },
     {
+      "title": "Permissão a bets fez afastamentos do trabalho por vício em jogo aumentar mais de 400% em dois anos",
+      "summary": "O número de afastamentos no trabalho provocados pelo vício em apostas cresceu 441% em dois anos, a partir da regulamentação das bets, em dezembro de 2023. Naquele ano, 67 pessoas receberam auxílio por incapacidade temporária do INSS (Instituto Nacional do Seguro Social) devido à ludopatia, número que saltou para 363 em 2025, segundo dados do Ministério do Trabalho . Leia mais (10/19/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/permissao-a-bets-fez-afastamentos-do-trabalho-por-vicio-em-jogo-aumentar-mais-de-400-em-dois-anos.shtml",
+      "published": "2026-10-20T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Arquivos competição no e-commerce",
+      "summary": "Arquivos competição no e-commerce &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/tag/competicao-no-e-commerce",
+      "published": "2026-10-20T02:16:51+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Jadlog ganha espaço com a crise dos Correios e investe R$ 200 milhões antes da Black Friday",
+      "summary": "Empresa espera até 30% mais encomendas e vai contratar mil temporários",
+      "url": "https://exame.com/invest/mercados/jadlog-ganha-espaco-com-a-crise-dos-correios-e-investe-r-200-milhoes-antes-da-black-friday",
+      "published": "2026-10-20T05:00:14+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "correios"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "correios",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Campanha de Flávio prepara programa sobre Bolsa Família na TV após desgaste com fala de coordenadora econômica",
+      "summary": "A campanha de Flávio Bolsonaro (PL) prepara um programa dedicado ao Bolsa Família para o horário eleitoral gratuito, em uma tentativa de conter o desgaste provocado pelas declarações da coordenadora econômica, Daniella Marques, sobre mudanças nas regras do benefício. A previsão é que a peça reforce as promessas do candidato de ampliar e reajustar o programa, além de garantir proteção aos beneficiários que conseguirem emprego ou abrirem um negócio. Integrantes da equipe temem repetir uma crise enfrentada por Jair Bolsonaro na reta final da eleição de 2022, quando uma proposta do então ministro da Economia Paulo Guedes sobre o reajuste de aposentadorias virou munição eleitoral para Luiz Inácio Lula da Silva (PT). A avaliação na campanha é que a declaração de Daniella abriu espaço para Lula reforçar o discurso de que um eventual governo Flávio poderia promover cortes em benefícios sociais. A preocupação é que o episódio ganhe força nos últimos dias antes do segundo turno, obrigando o candidato a concentrar esforços em responder aos ataques do adversário. A controvérsia começou nesta segunda-feira, após Daniella afirmar, em entrevista à rádio CBN Salvador, que um eventual governo Flávio adotaria uma regra de transição de dois anos para beneficiários do Bolsa Família que conseguissem emprego com carteira assinada ou abrissem um negócio. Segundo a coordenadora, essas famílias poderiam retornar ao programa caso a nova fonte de renda não se sustentasse. A declaração foi explorada por aliados de Lula nas redes sociais, que passaram a associar a proposta ao encerramento do benefício após esse período. A repercussão levou o próprio Flávio a publicar um vídeo negando que pretenda estabelecer um prazo máximo de permanência no programa. — O futuro ex-presidente, o Lula, está espalhando uma fake news daquela cabeluda e eu peço que você compartilhe esse vídeo urgentemente para a gente combater essa mentira dele. E qual que é a mentira que ele está contando? Ele está dizendo por aí que eu acabaria com o Bolsa Família em até dois anos. É óbvio que isso não vai acontecer, é óbvio que isso é mentira — afirmou. Na gravação, o senador explicou que os beneficiários poderiam continuar recebendo o auxílio por até dois anos após conseguir emprego ou abrir uma empresa, com retorno automático caso perdessem a nova fonte de renda. Daniella também gravou um vídeo para esclarecer que o prazo seria destinado à transição dessas famílias, e não ao desligamento de todos os participantes do programa. A necessidade de mobilizar o próprio candidato provocou desconforto entre integrantes da campanha. Aliados avaliam que Daniella não conseguiu apresentar a proposta com clareza e abriu uma frente de desgaste desnecessária. Há também críticas à exposição da coordenadora econômica, que tem concedido entrevistas sobre medidas de um eventual governo, e à falta de alinhamento prévio de algumas declarações com o núcleo político da candidatura. O episódio trouxe à memória de integrantes da campanha uma controvérsia envolvendo Paulo Guedes na eleição de 2022. Em 19 de outubro daquele ano, exatamente quatro anos antes da declaração de Daniella, veio a público uma proposta discutida pela equipe econômica de Bolsonaro para alterar a metodologia de correção do salário mínimo e das aposentadorias, com a possibilidade de desvincular os reajustes do Índice Nacional de Preços ao Consumidor (INPC). A discussão foi explorada pela campanha de Lula, que passou a associar a medida ao risco de perda do poder de compra de trabalhadores e aposentados. Embora a proposta não previsse necessariamente o fim da correção inflacionária, mas uma mudança na forma de calcular os reajustes, o próprio Bolsonaro precisou gravar um vídeo para negar que pretendesse retirar a reposição da inflação do salário mínimo. Agora, a campanha de Flávio tenta evitar uma dinâmica semelhante. A equipe já vinha usando a propaganda eleitoral diariamente para prometer a manutenção do Bolsa Família e de outros benefícios sociais, mas pretende ampliar o tempo dedicado ao assunto. A nova peça deverá destacar o compromisso de reajustar os valores pagos às famílias, ampliar o alcance do programa e assegurar uma transição para beneficiários que ingressarem no mercado de trabalho ou decidirem empreender. A iniciativa também busca afastar a associação entre a proposta de Daniella e o ajuste fiscal prometido pelo candidato. Flávio se comprometeu a reduzir despesas públicas em cerca de R$ 200 bilhões, mas ainda enfrenta questionamentos sobre quais áreas seriam afetadas. A campanha sustenta que os cortes se concentrariam nos gastos da máquina pública, sem comprometer os programas sociais.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/20/campanha-de-flavio-prepara-programa-sobre-bolsa-familia-na-tv-apos-desgaste-com-fala-de-coordenadora-economica.ghtml",
+      "published": "2026-10-20T06:30:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Reforma tributária e concessões: impactos que vão além da carga tributária efetiva",
+      "summary": "Reequilíbrio econômico-financeiro exige olhar além da comparação entre alíquotas do sistema atual e do novo",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/reforma-tributaria-e-concessoes-impactos-que-vao-alem-da-carga-tributaria-efetiva",
+      "published": "2026-10-20T08:00:35+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Watch Boom de canetas emagrecedoras alimenta mercado ilegal no Brasil",
+      "summary": "Watch Boom de canetas emagrecedoras alimenta mercado ilegal no Brasil &nbsp;&nbsp; Bloomberg.com",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-20/boom-de-canetas-emagrecedoras-alimenta-mercado-ilegal-video",
+      "published": "2026-10-20T08:59:33+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Galeão terá R$ 1 bi em investimentos em três anos e voos para mais 30 destinos",
       "summary": "O Aeroporto Internacional do Rio de Janeiro/Galeão vai receber aproximadamente R$ 1 bilhão em investimentos ao longo dos próximos três anos. Os aportes serão feitos por parceiros comerciais privados em áreas como hotelaria, logística, manutenção de aeronaves e outras. Às vésperas do 2º turno das eleições: Governo Lula anuncia perdão da dívidas de MEIs e promete Pix de até R$ 5 mil Jerome Cadier: CEO da Latam prevê que passagem vai subir com alta prologada de combustível e Reforma Tributária Virão também voos para 30 novos destinos, entre incrementos de frequências novas rotas e retomadas de linhas sazonais, sendo 12 deles no exterior, com ligações para localidades como Nova York, Dallas, Salta, Lima, Toronto e Montreal, além de ampliação da oferta de voos a pontos como Paris, Miami, Lisboa e Frankfurt. O Galeão está, desde o último dia 6 de outubro, sob gestão da Aena, gigante aeroportuária espanhola que arrematou o terminal relicitado em leilão no fim de março. A empresa levou o ativo com um lance de R$ 2,9 bilhões em outorgas, enquanto o lance mínimo previsto era de R$ 932 milhões. E terá a gestão do ativo até 2039. Santiago Yuz, diretor-vice-presidente da Aena Brasil, participou de um evento no Galeão na manhã desta terça-feira para marcar o início da gestão do aeroporto. Ele frisou que a concessionária seguirá trabalhando \"no mínimo\" até o fim do contrato atual, e que, \"se depois, conseguir estender, melhor ainda\". O executivo explicou que os investimentos diretos da concessionária no aeroporto ainda não estão definidos. Eles virão em melhorias – que o passageiro deverá perceber já no início de 2027 - em índices de qualidade, aprimorando infraestrutura e equipamentos, a exemplo de elevadores, banheiros e sistema de climatização. — O Galeão é a principal porta de entrada do Brasil e com um grande potencial de crescimento. Temos cerca de R$ 1 bilhão de investimento previsto de terceiros a serem aportados ao longo dos próximos três anos, gerando 3.860 empregos — diz Santiago Yuz, diretor-presidente da Aena Brasil. Novo hotel de até 426 quartos Nessa frente estão projetos como o de um novo hotel de bandeira internacional, com 232 quartos, mas já com a possibilidade de ter uma expansão a 426. O hotel receberá R$ 90 milhões em aporte e será operado pela bUP. Leia também: Latam recebe primeiro jato da Embraer e planeja ampliar malha com voos regionais Em paralelo, um centro de testes da BYD, projeto de R$ 300 milhões, vai ocupar uma área de 184 mil metros quadrados, com a previsão de gerar 1.200 empregos. A Gol já anunciou que terá um hangar de manutenção de 56 mil metros quadrados no Galeão, fazendo aporte de R$ 100 milhões, gerando 800 empregos. Já a Hire Capital vai implementar um galpão logístico de 120 mil metros quadrados de área bruta para locação, ao custo de R$ 430 milhões, com o objetivo de atender o mercado fluminense e o capixaba. Vai também expandir o galpão logístico já em operação, que passará de 22 mil metros quadrados para 40 mil m2, com aporte de R$ 54 milhões. Máfia dos táxis: Saiba como não cair na mão de golpistas ao sair do Aeroporto do Galeão O executivo participou de evento realizado na manhã desta terça-feira no Galeão, marcando a assinatura do contrato da nova concessionária. Novas empresas de baixo custo Ele sublinhou que a Aena vai atuar para atrair novas companhias aéreas, entre domésticas e internacionais, incluindo low-costs, além de empresas da área de carga. O Galeão recebeu 17,5 milhões de passageiros em 2025, devendo encerrar este ano com cerca de 19 milhões. A despeito do crescimento, o aeroporto ainda tem perto de metade de sua capacidade para até 37 milhões de passageiros ociosa. Reforma Tributária: Companhias aéreas tentam se enquadrar como regionais para pagar menos imposto Uma das estratégias para avançar em novas companhias, explica Yuz, é integrar o Galeão aos demais 17 aeroportos da Aena no país. Ao todo, essa rede movimentou 63 milhões de passageiros em 2025. — Temos 18 aeroportos e, em sinergia, podemos estimular conexões domésticas com internacionais ou domésticas com domésticas. Já temos um caso de sucesso com a Gol, numa linha que aparece nas telas dos feeds como Congonhas-Galeão-JFK (aeroporto de Nova York), e também para Lisboa. Colaboramos com que chamamos de vendas cruzadas, e de alguma forma a colocamos incentivos que atraem companhias aéreas — explicou o executivo. O presidente da Agência Nacional de Aviação Civil (Anac), Tiago Faierstein, celebrou a bem-sucedida relicitação do Galeão, viabilizada pelas novas condições de contrato de forma a garantir o equilíbrio econômico-financeiro da concessão. E frisou que o setor precisa trabalhar de forma coordenada para fazer o movimento no Galeão e no Rio de Janeiro crescer: — O Galeão sofreu muito com a pandemia. Com a retomada dos voos internacionais, voltam as conexões, os trechos domésticos. O Brasil é um país grande e não sobrevive apenas com o Aeroporto de Guarulhos. Precisa fomentar um outro grande aeroporto internacional. E esse aeroporto é o do Galeão. Sem licitação no Santos Dumont O ministro de Portos e Aeroportos, Tomé França, afirmou que a operação coordenada entre Galeão e Santos Dumont vai seguir a redução gradual da restrição de movimento de passageiros estabelecida ao aeroporto central conforme estabelecido pelo acordo firmado com o Tribunal de Contas da União (TCU). Entenda o que muda: ‘Céus abertos’ entre países da América do Sul começa em um ano, diz ministro Segundo França, não há qualquer estudo em curso para uma eventual licitação do Santos Dumont. O aeroporto responde por quase todo o orçamento da Infraero, estatal de gestão aeroportuária que administra outros 20 aeroportos. Na prática, é preciso pensar a atuação da Infraero antes de avaliar o destino do Santos Dumont. Em paralelo, ele afirmou que o governo vem trabalhando para atrair empresas low-cost ou mesmo ultra-low-cost ao país, ampliando o acesso a viagens aéreas a mais camadas da população. As discussões nessa direção, porém, estão sendo feitas dentro de um grupo de trabalho criado a partir da celebração do Acordo de Liberalização Aérea Sul-Americana (Alas), em julho. O documento propõe a criação de um mercado comum de aviação entre países da América do Sul. Entre as mudanças previstas, a principal seria a liberação da operação de empresas estrangeiras em voos domésticos no país, conhecida como cabotagem.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/13/galeao-tera-r-1-bi-em-investimentos-em-tres-anos-e-voos-para-mais-30-destinos.ghtml",
@@ -9694,37 +9898,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Podpah fecha parceria com Endemol, criadora do BBB, para produzir realities",
-      "summary": "Grupo responsável pelo podcast já trabalha na versão digital do reality de relacionamento, \"Temptation Island\", exibido no Brasil pelo SBT e Amazon Prime",
-      "url": "https://exame.com/exame-in/grupo-podpah-vai-produzir-reality-em-parceria-inedita-com-endemol-dona-do-bbb",
-      "published": "2026-10-13T07:00:59+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "amazon",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Anúncios do governo não comprometem trajetória de ajuste fiscal, diz número 2 do Planejamento",
@@ -9978,6 +10151,38 @@
       "score": 16.0
     },
     {
+      "title": "Cheiro, som e textura: por que marcas estão recorrendo aos sentidos para fugir da experiência das telas",
+      "summary": "Na Melissa, o cheiro de tutti-frutti das sandálias antecipa o contato com o produto. Na Farm Rio, a fragrância que perfuma lojas e embalagens ganhou uma nova versão como aromatizador para a casa. Na Nescafé Dolce Gusto, o som da máquina, o aroma e as cores das bebidas despertam os sentidos antes do primeiro gole. Essas experiências mostram como as marcas utilizam o branding sensorial para expressar sua identidade, fortalecer vínculos com os consumidores e abrir oportunidades de negócio. Embora não seja nova, a abordagem ganha relevância em uma rotina cada vez mais mediada por telas, na qual o contato físico e os estímulos aos sentidos oferecem outras formas de conexão. Essa busca está ligada ao “reset sensorial”, uma das tendências apresentadas pela WGSN em 2026, com horizonte até 2028. A consultoria identifica uma “fome sensorial” dos consumidores, que desejam tocar, sentir e experimentar os produtos, e associa a valorização desses momentos à procura por alegria e bem-estar. Em uma análise publicada em junho de 2025, a WGSN explica que tocar uma embalagem com textura agradável ou participar de uma instalação interativa pode proporcionar pequenas experiências prazerosas. Essa perspectiva se conecta às “Microalegrias”, tendência prevista para 2026. Para 2027, a consultoria aponta a “Alegria Estratégica”, que propõe usar a diversão de forma planejada para aproximar pessoas, despertar criatividade e promover inclusão. “Quanto mais a nossa vida fica mediada por telas, algoritmos e, agora, inteligências artificiais, mais parece surgir uma certa nostalgia daquilo que nos torna humanos: o corpo, os sentidos, a presença, a experiência real. Existe um desejo crescente de tocar, sentir, ouvir, experimentar. E as marcas estão percebendo isso\", afirma Fred Gelli, da consultoria de design e branding Tátil. Gelli prefere falar em multissensorialidade, uma forma de pensar como materiais, sons, espaços e movimentos, além dos elementos visuais, comunicam a identidade de uma empresa. Além de responder a esse desejo de contato com o mundo físico, os estímulos sensoriais ajudam as marcas a se destacar em meio ao excesso de informação, explica Luciano Tardin, coordenador do curso de design da ESPM. Hotéis, por exemplo, há muito tempo usam fragrâncias em lençóis e toalhas para que os hóspedes associem aquele cheiro à estadia. Em uma rotina cada vez mais digital, aromas, sons e texturas ganham importância como formas de reconhecer e lembrar uma marca. “É muito difícil ter uma experiência de marca se você achata a relação só pelo visual”, afirma. Sandália da Melissa Divulgação Assinatura olfativa Na Melissa, a assinatura olfativa nasceu de uma necessidade industrial. Segundo Tassiana Geisel, gerente de divisão da Melissa, o aroma de tutti-frutti começou a ser utilizado entre o fim dos anos 1970 e o início dos anos 1980 para neutralizar o cheiro natural da matéria-prima. Com o tempo, se tornou uma característica reconhecida pelos consumidores. Hoje, a essência é incorporada ao Melflex, material utilizado na fabricação das peças. Isso permite que o cheiro acompanhe o produto durante o uso, em vez de ficar restrito à loja ou à embalagem. “É muito comum que uma pessoa sinta o cheiro de uma Melissa e imediatamente se lembre de algum momento da infância, de uma coleção ou até de um par que teve”, diz Tassiana. De acordo com a executiva, a marca recebe relatos de clientes que identificam seus produtos pelo aroma antes mesmo de vê-los. Nas lojas, o cheiro das peças é complementado por uma estratégia de perfumação dos ambientes, com essência desenvolvida a partir das mesmas notas. Nas compras online, o contato com essa identidade ocorre ao abrir a caixa, quando o consumidor também pode perceber a textura e a flexibilidade do material. O tato participa do desenvolvimento dos produtos. O Melflex permite diferentes acabamentos, de superfícies lisas e brilhantes a relevos e texturas. Segundo Tassiana, as peças passam por avaliações de uso, calce e resistência para combinar a proposta visual com conforto e funcionalidade. Aromatizador de ambientes em forma de tucano da Farm Divulgação Aroma que vira produto Na Farm Rio, a experiência olfativa percorreu um caminho que começou nas lojas e chegou ao portfólio de produtos. Segundo Bruna Slaviero, head de marketing global da marca, a fragrância foi introduzida à marca em 2002. Depois, passou a acompanhar sacolas e embalagens do e-commerce. Nas lojas, a empresa utiliza sistemas de difusão para distribuir o aroma pelo ambiente. Nas entregas, a essência é borrifada nas caixas e nos envelopes antes de saírem do centro de distribuição. A intenção é estender a experiência do ponto de venda até a casa do consumidor. A fragrância foi comercializada pela primeira vez em 2007. Após ficar um período fora do portfólio, voltou em 2026 com uma embalagem inspirada em um tucano, em versões rosa, preta e bege. O projeto acrescenta uma função decorativa ao aromatizador. “O maior indicador a respeito do retorno dessa estratégia foi o próprio movimento da nossa comunidade pedindo a volta do aromatizador”, avalia Bruna. Segundo ela, a procura dos clientes ajudou a orientar o relançamento. O caso mostra como um elemento criado para compor a atmosfera da loja pode adquirir valor comercial próprio e ampliar a presença da marca no cotidiano do consumidor. A dimensão tátil também faz parte da proposta da Farm. De acordo com a executiva, a escolha dos tecidos considera leveza, flexibilidade e respirabilidade, enquanto os protótipos passam por testes de vestibilidade e caimento. Experiência de cafeteria Na Nescafé Dolce Gusto, a proposta é levar a experiência de uma cafeteria para dentro de casa. Segundo Daniele Micheski Mendonça, gerente de marketing da marca, essa construção envolve um sistema que reúne máquinas, cápsulas, bebidas e acessórios, como xícaras e porta-cápsulas. “Para oferecer essa experiência, nada melhor do que estimular os sentidos”, garante ela. A dimensão visual aparece nas cores das máquinas e na apresentação das bebidas, com espumas, camadas e tonalidades diferentes. Xícaras transparentes permitem observar o resultado do preparo, enquanto peças de cerâmica e detalhes em relevo acrescentam estímulos táteis. A audição participa do ritual. Daniele explica que o som de inserir e perfurar a cápsula, seguido pelo funcionamento da máquina e pela extração, ajuda a antecipar a bebida. O aroma aparece durante o preparo e antecede a degustação. Na avaliação da executiva, essa sequência contribui para construir expectativa e memória da experiência. Daniele Micheski Mendonça, gerente de marketing de Dolce Gusto Divulgação A marca também leva essa combinação a eventos e ações de degustação. Segundo Daniele, no lançamento de uma campanha em agosto de 2026, os estandes exploravam a apresentação visual e os aromas das bebidas, com roupas das promotoras alinhadas ao estilo de cada uma. Nos pontos de venda, a comunicação procura apresentar a cápsula associada à máquina e à bebida pronta. Para a executiva, a escolha da cápsula e dos ajustes de preparo pode ajudar o consumidor a se concentrar no momento. O desafio comercial está em comunicar essa experiência a quem ainda não utiliza o sistema. “Oferecer algo além daquele consumo direto e imediato é fundamental. Então, a gente vai muito para essa construção de experiência. E para oferecer essa experiência, nada melhor do que estimular os sentidos.” Ouvir os consumidores também orienta o desenvolvimento do portfólio. Daniele cita o retorno de uma bebida de caramelo salgado a pedido do público e o lançamento de uma opção de pistache em parceria com Moça em 2026. A variedade de sabores faz parte da proposta de oferecer bebidas para diferentes preferências e ocasiões. Evento \"Tudum\" da Netflix em 2015 Divulgação Do digital ao físico A experiência sensorial também pode conectar uma marca digital ao mundo físico. No trabalho da Tátil para a Netflix, o ponto de partida foi o som que acompanha a abertura dos conteúdos da plataforma. A consultoria transformou a assinatura sonora da Netflix, que já existia, no nome “Tudum”, uma onomatopeia que reproduz o som associado à abertura dos conteúdos da plataforma. A partir desse elemento, criou também a identidade do festival de fãs. Segundo Gelli, o projeto levou quase um ano e incluiu a direção criativa da primeira edição do evento, no Parque Ibirapuera, em São Paulo, com experiências inspiradas em produções como Stranger Things e Sex Education. O som passou a nomear um espaço de encontro e participação. “Às vezes, o melhor movimento é reconhecer a potência de alguma coisa que a marca já tem e dar a ela uma nova vida”, afirma Gelli. A multissensorialidade pode ainda ampliar as formas de acesso a uma identidade. Gelli cita o projeto dos Jogos Paralímpicos Rio 2016, cuja marca tridimensional incorporava luz, som, vibração e sensores de presença. Segundo ele, a proposta permitia experimentar o símbolo também pelo toque. Desafio de consistência Para Tardin, a aplicação dos sentidos exige gestão: além do investimento inicial, as empresas precisam preservar a coerência dos elementos nos diferentes pontos de contato com o público. “Não basta você fazer, você tem que gerenciar isso”, alerta. A fragrância da loja, a textura de uma embalagem ou o som de uma interface precisam se conectar ao conjunto da identidade da marca. Gelli avalia que empresas de diferentes portes podem adotar essa perspectiva. “Não precisa necessariamente significar uma grande instalação, uma assinatura sonora sofisticada ou um projeto caro”, diz. Na avaliação de Tardin, construir essas associações demanda repetição, consistência e uma perspectiva de retorno a médio e longo prazo. Planejar os elementos de forma integrada desde o início facilita o trabalho. Para as empresas, isso significa cuidar tanto da criação de uma experiência marcante quanto da capacidade de repeti-la: na loja, na entrega de uma compra online ou no preparo de uma bebida em casa. \"Uma marca se torna reconhecível quando mantém características consistentes nos diferentes contatos com o consumidor. Tudo é mais fácil quando você projeta [a estratégia] de forma integrada desde o início”, aconselha o especialista. Luciano Tardin, da ESPM Divulgação Banner da Série Tendências para o Futuro Clayton Rodrigues Mais Lidas",
+      "url": "https://epocanegocios.globo.com/empresas/tendencias-para-o-futuro/noticia/2026/10/cheiro-som-e-textura-por-que-marcas-estao-recorrendo-aos-sentidos-para-fugir-da-experiencia-das-telas.ghtml",
+      "published": "2026-10-20T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Fashion",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "farm",
+        "fragrância"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "farm",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "fragrância",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "Matria atrai Astella com ‘copiloto dos hospitais’",
       "summary": "A healthtech mineira Matria, que quer levar inteligência artificial para a gestão de pacientes dos hospitais, captou US$ 6,5 milhões em uma rodada liderada pela gestora brasileira Astella. O cheque seed também trouxe os estrangeiros Endeavor Scale Up Ventures, Floating Point, FluentVC e investidores-anjos da área da saúde, como o cirurgião Paulo Chapchap, conselheiro da Wellhub e Afya – e agora também da startup. A Matria leva agentes de inteligência artificial para a operação de hospitais com objetivo de integrar sistemas. Com a base de dados uniformizada, a startup faz agendamento de exames, consulta pendências clínicas dos pacientes e sugere retornos, entre outras tarefas. Recentemente, lançou um copiloto para ajudar médicos a transcrever consultas e checar o histórico do paciente para dar diferentes desfechos clínicos. Por que uma HRtech brasileira atraiu um fundo suíço de impacto Biotech brasileira chega ao Vale do Silício para prever epidemias “Nosso grande diferencial é a capacidade de usar o contexto da infraestrutura de dados de saúde para usar esses agentes”, afirma o fundador e CEO da Matria, João Vitor Innecco. Médico de formação que se tornou empreendedor, ele criou a empresa Confie Kits Diagnósticos, de teste rápido contra infecções sexualmente transmissíveis (ISTs), e foi consultor de inovação na Dasa e CEO do Incor Minas, em Belo Horizonte. A Matria é a primeira startup de Innecco. Ele criou o negócio em 2023, depois que a avó, Marisa Innecco, morreu como decorrência de um câncer de mama diagnosticado tardiamente. Segundo ele, o início do tratamento poderia ter ocorrido mais cedo caso as informações estivessem conectadas em um sistema integrado. Foi aí que decidiu criar a startup, até então batizada de Marisa Care, em homenagem à avó. Agora, passa a se chamar Matria. Médico que se tornou empreendedor, João Vitor Innecco fundou a Matria para ser o copiloto dos hospitais Divulgação/Matria Sob novo nome e com US$ 6,5 milhões captados, a healthtech quer expandir a operação no Brasil, onde reúne mais de 100 clientes do mercado privado de saúde do Brasil, entre eles Rede D’Or, Rede Américas e Einstein Hospital Israelita. O capital vai ser usado para aumentar o número de funcionários em produto e tecnologia e o time comercial. “Agora é colocar gasolina”, diz Innecco. Além do Brasil, a startup de três anos de idade abriu operações no México no ano passado. O país representa 20% do faturamento da companhia e reúne 26 clientes no total, número que deve crescer com a entrada dos novos investidores estrangeiros. Segundo Innecco, a praça representa uma oportunidade de mercado, já que há o sistema de saúde por lá tem tíquetes mais altos. Depois da Gymrats, Smart Fit compra 20% do Buddha Spa A Senior deletou o epitáfio do software e mira R$ 5 bi com IA e M&amp;A “É um mercado menos digitalizado que o nosso, mas com mais capacidade de pagar por serviços de saúde”, afirma ele. A Matria captou uma rodada pré-seed de US$ 1,5 milhão em 2025, liderada pela empresa de educação médica Afya, que fez follow-on no negócio. Desde então, a startup cresceu 12x e, segundo o CEO, a expectativa é fechar o ano com receita sete vezes maior do que no início de 2026. A companhia não abre faturamento.",
       "url": "https://pipelinevalor.globo.com/startups/noticia/matria-atrai-astella-com-copiloto-dos-hospitais.ghtml",
@@ -10118,75 +10323,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Demência: estudo global revela 11,4 milhões de novos casos em 2023 — número que deverá mais que dobrar até 2050",
-      "summary": "Uma pesquisa internacional produziu algumas das estimativas mais abrangentes e comparáveis ​​de novos casos de demência em todo o mundo, revelando que cerca de 11,4 milhões de pessoas desenvolveram demência em 2023 — um número que deverá subir para 24,7 milhões por ano até 2050. O estudo, publicado recentemente na revista científica JAMA Neurology, fornece um novo parâmetro global para entender com que frequência novos casos de demência ocorrem em diferentes populações. Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia O ovo frito ideal para ganhar massa muscular levar esses dois ingredientes, de acordo com nutricionistas \"Vinte e quatro milhões de novos casos de demência por ano exerceriam uma enorme pressão sobre indivíduos, famílias, sistemas de saúde e economias em todo o mundo.\", diz Henry Brodaty, codiretor e coautor do Centro para o Envelhecimento Cerebral Saudável (CHeBA) da Universidade de Nova Gales do Sul (UNSW Sydney), em comunicado. \"O envelhecimento da população significa que não podemos simplesmente esperar que as pessoas desenvolvam demência para então reagir. Precisamos agir em todas as frentes — desde a redução dos fatores de risco modificáveis ​​e a identificação precoce de pessoas em risco até a melhoria do diagnóstico, tratamento e cuidados.\" A nova pesquisa se concentra especificamente na incidência — a taxa na qual as pessoas desenvolvem demência ou o número de novos casos por ano — em vez da prevalência, que mede o número total de pessoas que vivem com a doença em um determinado momento. Compreender esse dado é fundamental para governos e sistemas de saúde, pois ajuda a antecipar a demanda futura por diagnósticos, atendimento clínico e serviços de apoio, além de indicar onde os esforços de prevenção podem ter o maior impacto. No novo trabalho, pesquisadores liderados pelo CHeBA da UNSW Sydney, por meio do Consórcio Internacional de Estudos de Coorte sobre Memória (COSMIC), analisaram dados de 38.418 pessoas em 22 estudos populacionais abrangendo 18 países e territórios em seis continentes. Os resultados mostraram que a incidência de demência é maior entre as mulheres do que entre os homens e substancialmente maior em países de baixa e média renda do que em países de alta renda. Por exemplo, a taxa de incidência global padronizada por idade e sexo foi de 9,7 novos casos por 1.000 pessoas-ano. Após ajuste para a idade, a incidência foi maior entre as mulheres, com 10,6 casos por 1.000 pessoas-ano, em comparação com 8,6 entre os homens. A diferença entre os países por nível de renda foi ainda maior. A incidência padronizada foi de 13,6 casos por mil pessoas-ano em países de baixa e média renda, em comparação com 8,3 em países de alta renda. O autor principal e codiretor do CHeBA, Perminder Sachdev, afirmou que a maior incidência identificada em países de baixa e média renda é particularmente importante, visto que é onde se espera que ocorra grande parte do crescimento futuro da demência. \"A maior incidência que observamos em países de baixa e média renda é particularmente preocupante, pois essas regiões estão passando por um rápido envelhecimento populacional, ao mesmo tempo que frequentemente dispõem de menos recursos para prevenção, diagnóstico e tratamento.\", explica o pesquisador. \"Nossos resultados destacam a necessidade urgente de fortalecer a redução do risco de demência e a capacidade de atendimento de saúde em nível global, investindo também em melhores dados locais para que os serviços possam ser planejados de acordo com as necessidades de cada país.\" Atualmente, a demência afeta mais de 57 milhões de pessoas em todo o mundo, e pesquisas anteriores projetam que a prevalência chegará a aproximadamente 150 milhões até 2050. O Alzheimer, é a forma mais comum da condição neurodegenerativa. No entanto, muito do que se sabe sobre demência provém historicamente de países de alta renda, apesar de se esperar que alguns dos maiores aumentos futuros ocorram em contextos de poucos recursos. A autora principal, Ashleigh Vella, pesquisadora de pós-doutorado no CHeBA, afirmou que as descobertas fornecem um novo e importante parâmetro para a compreensão do cenário global em constante mudança da demência. \"Pela primeira vez, podemos comparar a incidência de demência em um grupo geograficamente diverso de populações usando a mesma abordagem estatística, o que nos dá uma visão mais clara de onde e entre quem estão ocorrendo os novos casos\", diz. \"O que chama a atenção é que a incidência de demência não é distribuída uniformemente. Observamos taxas mais altas entre mulheres e em países de baixa e média renda. Compreender essas diferenças é fundamental para desenvolvermos estratégias de prevenção, diagnóstico e tratamento da demência que atendam às populações com maior risco futuro.\" Historicamente, comparações internacionais confiáveis ​​sobre a incidência de demência têm sido difíceis. Estudos longitudinais capazes de mensurar novos casos de demência são menos comuns do que estudos que estimam a prevalência, particularmente em países de baixa e média renda, enquanto diferenças nas abordagens diagnósticas e estatísticas têm limitado ainda mais as comparações diretas. O estudo buscou superar essas limitações por meio do COSMIC, um consórcio internacional liderado pelo CHeBA que combina dados de estudos longitudinais sobre envelhecimento e memória em todo o mundo. A análise utilizou coortes de 18 países e territórios — seis países de baixa e média renda e 12 países de alta renda — com pesquisadores aplicando métodos estatísticos consistentes e diagnósticos de demência baseados em critérios clínicos em todos os estudos incluídos. Os pesquisadores alertam que o estudo não estabelece por que a incidência de demência foi maior entre as mulheres ou em países de baixa e média renda. As diferenças podem refletir uma combinação complexa de fatores de saúde, sociais, econômicos, educacionais e ambientais, e serão necessárias mais pesquisas em populações diversas para entender o que as está impulsionando.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/10/13/demencia-estudo-global-revela-114-milhoes-de-novos-casos-em-2023-numero-que-devera-mais-que-dobrar-ate-2050.ghtml",
-      "published": "2026-10-13T07:30:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Mulheres estão recorrendo à testosterona, mas o que a ciência realmente diz sobre isso?",
-      "summary": "Uma reportagem recente da BBC descreveu mulheres fingindo ser homens para conseguir gel de testosterona, na esperança de melhorar os sintomas da menopausa, devido à escassez de produtos de testosterona voltados para o público feminino. Mas por que o interesse por esse hormônio predominantemente masculino está explodindo e há riscos envolvidos? Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia O ovo frito ideal para ganhar massa muscular levar esses dois ingredientes, de acordo com nutricionistas A testosterona costuma ser vista como o hormônio masculino por excelência. Está associada à puberdade, ao desenvolvimento muscular e à função reprodutiva. No entanto, isso ignora uma importante realidade biológica: as mulheres também produzem testosterona, e ela desempenha papéis cruciais em todo o corpo. Embora as concentrações sanguíneas sejam tipicamente cerca de dez a quinze vezes menores do que nos homens, a testosterona permanece biologicamente ativa nas mulheres. As mulheres produzem testosterona nos ovários e nas glândulas suprarrenais, e o corpo também a fabrica transformando outros hormônios na gordura, na pele e nos músculos. Parte dessa testosterona é utilizada para produzir o estradiol, a principal forma de estrogênio em mulheres em idade reprodutiva. Peste na Rússia: agência sanitária conclui que não há risco epidêmico após morte de técnica de laboratório Contudo, a testosterona não é apenas um reservatório de estrogênio. Ela também atua diretamente em tecidos de todo o corpo, incluindo ossos, músculos, coração, vasos sanguíneos e cérebro. Isso levou os pesquisadores a examinarem mais de cerca como a testosterona pode afetar a saúde das mulheres. Assim como nos homens, a testosterona diminui gradualmente ao longo da vida reprodutiva, embora os padrões variem entre os indivíduos. Essa queda começa muito antes da menopausa e, diferentemente do estrogênio, ela não despenca drasticamente na menopausa com o declínio dos ovários. Medir o quanto ela diminuiu apresenta seus próprios desafios. Os níveis femininos são tão baixos que exames de sangue rotineiros historicamente têm dificuldades para medi-los de forma confiável, tornando difícil definir com precisão concentrações consideradas \"normais\". Então, por que um número crescente de mulheres se interessa pela terapia de testosterona após a menopausa? O que dizem as evidências Como a testosterona é conhecida por influenciar o desejo sexual, um de seus usos mais estudados em mulheres é para o transtorno do desejo sexual hypoativo (TDSH) — a falta persistente de desejo sexual que causa sofrimento. Uma meta-análise realizada em 2019 com 36 ensaios clínicos constatou que a testosterona em doses cuidadosas pode melhorar o desejo e a satisfação sexual em algumas mulheres na pós-menopausa. Diretrizes clínicas internacionais reconhecem a terapia com testosterona como um tratamento baseado em evidências para o TDSH, sendo a única condição em mulheres para a qual existem evidências clínicas suficientes que justificam a recomendação da terapia. Nobel de Química 2026: por que Henri Kagan ficou de fora da premiação de 2001 e só foi reconhecido 25 anos depois O desejo sexual é moldado por relacionamentos, estresse, fadiga e saúde mental tanto quanto por qualquer hormônio isolado. A testosterona é apenas um fator entre vários, e não um interruptor principal. Além do desejo sexual, evidências de ensaios clínicos de alta qualidade em mulheres são amplamente escassas. Mas isso não significa necessariamente que a testosterona não exerça uma influência mais ampla sobre a saúde feminina. Ensaios randomizados são a melhor maneira de determinar se um tratamento causa um efeito específico, mas eles não conseguem capturar tudo o que acontece na prática médica diária. Os pacientes podem ter outros problemas de saúde ou tomar vários medicamentos, o que dificulta saber se uma melhora se deve à testosterona ou a outro fator. Marcio Atalla: A era do estresse digital A testosterona não substitui a terapia hormonal padrão para a menopausa. Quando é prescrita, geralmente acompanha o estrogênio — e, às vezes, a progesterona. Algumas mulheres relatam que, mesmo após a otimização de sua TRH (terapia de reposição hormonal) convencional, ainda sentem que seus sintomas não foram totalmente resolvidos e que a adição de testosterona faz uma diferença perceptível. Mulheres e médicos que utilizam a testosterona no cuidado rotineiro da menopausa relatam melhorias que vão além da função sexual. Um estudo britânico recente com 510 mulheres em uma clínica especializada em menopausa constatou que, após quatro meses de uso de gel de testosterona, as mulheres relataram melhorias no humor, nos sintomas cognitivos e na libido. Essas descobertas são interessantes, mas não provam que o tratamento com testosterona causou tais mudanças. Evidências do mundo real não devem substituir ensaios randomizados, mas a ausência de grandes estudos também não significa que essas observações devam ser simplesmente descartadas. Em vez disso, elas podem ajudar a identificar efeitos que valem a pena ser testados nos ensaios clínicos que ainda se fazem necessários. Um mercado que está apenas começando a acompanhar o ritmo As evidências para o uso de testosterona em mulheres são mais fortes em relação ao desejo sexual, mas produtos fabricados especificamente para mulheres têm demorado muito mais a chegar ao mercado. Nos Estados Unidos, por exemplo, ainda não há nenhum produto de testosterona aprovado para mulheres. Dos três principais hormônios sexuais produzidos pelos ovários, o estrogênio e a progesterona possuem produtos amplamente licenciados para mulheres. A testosterona tem seguido um ritmo muito mais lento, com produtos específicos para o público feminino ainda limitados em muitos países. Isso ocorre apesar das evidências de que a testosterona pode ser usada com segurança em mulheres quando administrada em doses projetadas para manter os níveis dentro da faixa fisiológica feminina. Diretrizes internacionais reconheceram a falta de produtos adequados para mulheres e pediram o desenvolvimento de tratamentos com testosterona projetados especificamente para elas. O tema agora vem recebendo atenção de órgãos reguladores. Em setembro de 2026, a Administração de Alimentos e Medicamentos dos Estados Unidos (FDA) realizou um workshop público para examinar lacunas nas evidências e a necessidade de futuras pesquisas de medicamentos nessa área. A Austrália liderou o caminho com o Androfeme, um creme de testosterona registrado formalmente em 2020 especificamente para uso feminino. O Reino Unido concedeu autorização de comercialização em julho de 2025, mas o produto ainda não está disponível rotineiramente pelo sistema público de saúde britânico (NHS). A alternativa tem sido recorrer ao gel masculino, medindo a olho nu cerca de um décimo de um sachê. Essa é uma maneira menos precisa de administrar um hormônio cuja dose terapêutica é extremamente pequena. Se a quantidade aplicada for excessiva, a testosterona pode ultrapassar a faixa desejada, aumentando a probabilidade de efeitos colaterais, como acne e aumento de pelos faciais ou corporais. Mais importante ainda, as evidências sobre a segurança a longo prazo da testosterona em mulheres continuam limitadas, particularmente no que diz respeito a doenças cardíacas, AVC e câncer de mama, uma vez que os ensaios clínicos têm sido geralmente curtos e frequentemente excluíram mulheres com maior risco para essas condições. A demanda continua a subir apesar dessas incertezas. As prescrições do NHS para mulheres na Inglaterra aumentaram cerca de dez vezes entre 2015 e 2022, e nos Estados Unidos a prescrição de testosterona quase triplicou na última década. A necessidade de produtos de testosterona licenciados e específicos para mulheres não pode ser ignorada, não apenas para melhorar o acesso, mas para permitir que a testosterona em mulheres seja estudada com o rigor científico que merece. *Daniel Kelly é professor Sênior de Bioquímica da Universidade de Sheffield Hallam *Este artigo foi republicado de The Conversation sob licença Creative Commons. Leia o original.",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/10/13/mulheres-estao-recorrendo-a-testosterona-mas-o-que-a-ciencia-realmente-diz-sobre-isso.ghtml",
-      "published": "2026-10-13T07:30:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Comunicação pode ser a chave para vitória do time, avaliam especialistas",
-      "summary": "Uma das chaves para o bom funcionamento do time e para mandar bem nas competições, explica a psicóloga Aline Wolff do Comitê Olímpico Brasileiro (COB), está na habilidade de comunicar bem. Um tema que nem sempre é fácil, especialmente para jovens. Canetas emagrecedoras: médicos começam a indicar para tratar alcoolismo; estudos mostram a eficácia O ovo frito ideal para ganhar massa muscular levar esses dois ingredientes, de acordo com nutricionistas — Para um time funcionar bem, é importante que o ambiente seja seguro, e as pessoas possam tirar suas dúvidas, discordar e apresentar outras ideias. Economizar nisso ou deixar as coisas encobertas, indiretamente respondidas, pode trazer mais problemas do que solução — diz ela. — O esporte é um laboratório da experiência humana. O atleta precisa aprender a falar sobre o que para ele é importante, sobre o que ele está sentindo e o que avalia que é necessário corrigir. Isso é algo que precisa ser facilitado pelo ambiente, pelas lideranças, e ter o apoio para que a pessoa vá consolidando essas habilidades. A ideia de que a comunicação é uma das chaves para o bom desempenho esportivo é reforçada por uma pesquisa com 241 praticantes de curling da liga turca do esporte, que é disputado na pista de gelo, entre 2021 e 2022. Na pesquisa, os participantes responderam questionários sobre a relação da equipe, além de aspectos como empatia, comunicação e relação com o grupo. Os pesquisadores da Universidade Tércnica de Ezrum, e de outras instituições, chegaram à conclusão que a boa comunicação dos esportistas era um atalho para empatia entre o grupo e uma ferramenta para permitir o bom relacionamento entre os atletas. Convivência melhor Angélica Kvieczynski é ex-atleta do time brasileiro de ginástica rítmica e conta que falar sobre as experiências pessoais, por exemplo, é uma forma de plantar a “sementinha” da comunicação entre os times. Hoje, ela é treinadora da modalidade na Irlanda e vê que num mesmo time, por exemplo, as atletas um pouco mais velhas podem oferecer suporte e conversas quando há pequenos conflitos entre as mais jovens. — A adolescência é muito delicada, há mudanças hormonais e do corpo, somadas à necessidade de se encaixar. Tudo isso pode levar a atritos — conta. — A necessidade de conversar não deve ser imposta, isso pode levar a mais distanciamento do grupo e também a desentendimentos internos. Mas se elas se sentem num ambiente seguro, também terão mais abertura. Quando os atletas aceitam se colocar no lugar do outro, a comunicação e a convivência melhoram muito. Já a campeã mundial de Jiu-Jítsu Carina Santi, à frente da escola a Almeida JJ Woman and Kids, em São Paulo, diz que rodas de conversa, mesmo que de cinco minutos ajudam muito. E que modelos alternativos, com menos pessoas trocando ideias ao mesmo tempo, podem incluir quem é mais tímido e prefere falar mais reservadamente. — O tímido participa muito quando começa em grupo pequeno, de dois ou três, e quando ninguém força. Já o mais sentimental precisa saber que sentir não é fraqueza, e no tatame isso se ensina de forma natural: quem chora numa luta perdida e volta no outro treino é muito forte — conta. — O mais quieto da sala muitas vezes é quem mais precisa ser ouvido. Não dá pra deixar a voz alta ser a única. Especialistas indicam como fundamental para estabelecer uma boa comunicação em quadra, no campo, no tatame ou nas pistas a escuta, entender quais as necessidades do grupo, e saber criticar a prática quando necessário — e não a pessoa que está praticando. — O primeiro ponto é entender que cada jogador recebe e interpreta uma mensagem de uma maneira diferente. Por isso, é importante que o líder conheça as características individuais de cada atleta e saiba qual é a melhor forma de transmitir um feedback — diz o educador físico e personal trainer Rafael Akira. — Quando o atleta entende o propósito daquela orientação, a mensagem fica mais clara e ele consegue compreender melhor o que precisa fazer para contribuir . Há estratégias para, inclusive, tornar as críticas mais fáceis de assimilar: — Falar sobre falhas e pontos que precisam de melhora é sempre difícil, porque gera desconforto. Não dá para não falar, mas é importante estruturar uma comunicação que deixe claro que aquilo não é uma crítica pela crítica. Escolha bem as palavras. É uma crítica, sim. Mas é uma crítica ao que a pessoa fez, e não a quem ela é — comenta Aline Wolff, que diz que lembrar de erros anteriores já solucionados pode ser uma boa tática de motivação. Futuro A habilidade de se expressar propriamente e liderar times, aspectos bem comuns no esporte, podem ser trunfos no futuro dos adolescentes, quando chegar a hora de entrar no mercado de trabalho. Seja qual for a área de atuação. Isso quem explica é Fábio Salomon, sócio-diretor da Brava Executive Search, além de diretor de RH voluntário da União Brasileiro Israelita do Bem Estar Social (Unibes). — A tal da inteligência artificial coloca o fator humano em evidência — opina. — A liderança hoje no mercado, em primeiro lugar, se revela na capacidade de tomar decisões, resolver problemas. Tudo isso não apesar das pessoas, mas com as pessoas. A escuta ativa, habilidade (necessária do esporte) é outro aspecto amplamente demandado pelo mercado. Assim como a cooperação.",
-      "url": "https://oglobo.globo.com/esportes/intercolegial/noticia/2026/10/13/comunicacao-pode-ser-a-chave-para-vitoria-do-time-avaliam-especialistas.ghtml",
-      "published": "2026-10-13T07:30:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Black Friday deve movimentar R$ 13,3 bilhões, mas crise no varejo desafia vendas",
@@ -11561,6 +11697,29 @@
         {
           "sector": "Eletrônicos",
           "alias": "smartphones",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Magazine Médica terá sorteio de nove prêmios",
+      "summary": "A Magazine Médica, e-commerce de insumos e equipamentos médico-hospitalares com sede em Concórdia (SC), realiza até 31 de outubro de 2026 o Show de Prêmios, campanha de abrangência nacional que sorteará nove prêmios entre clientes que fizerem compras a partir de R$ 1 mil no site da empresa. Iniciada em 1º de setembro, a ação atravessa duas datas ligadas ao público central da marca: o Dia da Secretária, comemorado em 30 de setembro, e o Dia do Médico, em 18 de outubro. A participação é automática e aberta a pessoas físicas e jurídicas de qualquer região do país. Com mais de duas décadas de atuação, a empresa surgiu da iniciativa de dois estudantes de fisioterapia, começou com lojas físicas e hoje concentra a operação no comércio eletrônico, com catálogo que vai de materiais descartáveis a medicamentos. Clínicas, profissionais da saúde e secretárias formam o público-alvo da companhia. De acordo com Liziane Wolfart, gerente de marketing da Magazine Médica, a campanha chega à terceira edição. \"O Show de Prêmios já está na sua terceira edição, uma tradição implementada que nasceu da vontade de agradecer, de forma concreta, a quem está com a gente no dia a dia. Setembro e outubro reúnem duas datas muito significativas para o nosso público: o Dia da Secretária e o Dia do Médico. Quisemos transformar esses dois meses numa celebração que fosse além da mensagem comemorativa e chegasse a clientes de todo o Brasil. O objetivo é reconhecer esses profissionais, fortalecer a relação de confiança com quem já compra conosco e aproximar quem ainda não conhece a Magazine Médica\", afirma. Quem decide e quem compra A escolha do calendário, segundo a gerente, parte da forma como as aquisições acontecem dentro dos consultórios. \"Dentro de uma clínica, quem decide e quem faz a compra muitas vezes são pessoas diferentes. O médico escolhe o produto pela qualidade e pela segurança clínica. A secretária cuida do estoque, dos prazos e da prestação de contas. As duas figuras são centrais para nós e queríamos homenagear os dois. Por isso, o período de participação vai de 1º de setembro a 31 de outubro e abrange justamente o Dia da Secretária e o Dia do Médico\", explica. A lista de premiação acompanha esse perfil duplo. Conforme o regulamento, os nove itens incluem produtos de tecnologia e estilo de vida, como um notebook MacBook Neo, um iPhone 17, um Apple Watch, fones AirPods, um leitor digital Kindle, uma bolsa Prada e uma cafeteira com cápsulas, além de dois equipamentos da rotina clínica, um estetoscópio Littmann Master Cardiology e um aparelho de pressão arterial. O item de maior valor está avaliado em R$ 9 mil. Mecânica sem cadastro adicional Cada compra realizada no site, no varejo ou no atacado, a partir de R$ 1 mil, gera automaticamente um número da sorte, sem necessidade de inscrição em formulário. Todo o catálogo participa, com exceção da categoria de medicamentos, que também não entra no cálculo do valor mínimo. \"O nosso público tem pouco tempo. A rotina de um consultório é agitada e preencher formulários toma esse pouco tempo. Por isso, o princípio é simples: comprou, já está concorrendo\", resume Liziane. Conforme ela, a condição é a mesma para o médico que abastece o próprio consultório, para a clínica que compra para a equipe e para a secretária responsável pelas compras do mês. Não podem concorrer menores de idade, diretores e funcionários da Magazine Médica, bem como seus cônjuges, companheiros e parentes. Regras, apuração e entrega A gerente acentua que a transparência foi prioridade desde a concepção da campanha, por se tratar de um dos valores da empresa. A promoção possui certificado de autorização do Ministério da Fazenda, emitido com base na Lei nº 5.768, de 1971, que disciplina a distribuição gratuita de prêmios em ações promocionais. \"Todas as regras estão no regulamento oficial e divulgadas no nosso site e redes sociais\", destaca. A apuração está marcada para 5 de novembro, às 12h, e terá como referência a extração da Loteria Federal de 4 de novembro, o que, de acordo com Liziane, garante um resultado público e auditável. Os contemplados serão divulgados no site, na seção Dúvidas Frequentes, e no perfil oficial da marca no Instagram, @magazine.medica, e a equipe fará contato direto com cada um deles. Os prêmios serão enviados por transportadora escolhida pela empresa ao endereço cadastrado pelo cliente, em até 30 dias corridos após a apuração, conforme o regulamento. Relação com o cliente no ambiente digital Para além dos sorteios, a companhia pretende medir o efeito da ação sobre a recorrência de compras e a chegada de novos clientes. \"Ao final, queremos ver mais clientes voltando a comprar conosco, novos clientes conhecendo a marca e uma relação mais próxima com nossos clientes atuais. O comércio de insumos e equipamentos médico-hospitalares está cada vez mais digital. Médicos, clínicas e distribuidores buscam praticidade, preço competitivo e entrega confiável, sem abrir mão de qualidade\", avalia a gerente. Nesse cenário, continua, a Magazine Médica quer ser parceira para além de somente uma fornecedora, não só ter um bom catálogo, mas estar presente na rotina dos nossos clientes. \"O Show de Prêmios é uma forma de mostrar isso\", acrescenta. Para ela, a campanha também se alinha à meta da empresa de se consolidar como a \"one-stop shop\" do médico e da secretária, expressão em inglês para o fornecedor que concentra, em um só lugar, os itens de que o cliente precisa. O regulamento completo e as respostas às dúvidas mais frequentes sobre a campanha estão reunidos na página da promoção. Para mais informações, basta acessar: https://magazinemedica.com.br/",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/19/magazine-medica-tera-sorteio-de-nove-premios-1.ghtml",
+      "published": "2026-10-20T02:05:04+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
           "field": "lead",
           "score": 8,
           "topic": null
