@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T09:44:22.407017+00:00",
-  "count": 468,
-  "new_this_run": 17,
+  "generated_at": "2026-10-21T10:21:16.485291+00:00",
+  "count": 470,
+  "new_this_run": 19,
   "articles": [
     {
       "title": "Magalu estreia na Shopee para ampliar vendas on-line",
@@ -919,6 +919,70 @@
       "score": 60.0
     },
     {
+      "title": "Compra da Caju pelo iFood acirra disputa no mercado de vales-refeição e alimentação",
+      "summary": "A disputa pelo mercado de vale-refeição (VR) e vale-alimentação (VA), que movimenta cerca de R$ 150 bilhões por ano no Brasil, ganhou um novo capítulo. O iFood anunciou ontem que assinou um acordo para comprar a Caju, startup de benefícios corporativos. O negócio reúne duas empresas que ganharam espaço nos últimos anos na briga com grupos tradicionais do setor, como Alelo, Ticket e Pluxee. O iFood desembolsará R$ 1 bilhão na operação de compra, disseram ao GLOBO pessoas próximas à companhia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/conteudo-de-marca/acontece-em-sp/negocios/noticia/2026/10/21/compra-da-caju-pelo-ifood-acirra-disputa-no-mercado-de-vales-refeicao-e-alimentacao.ghtml",
+      "published": "2026-10-21T07:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "alelo",
+        "ifood",
+        "pluxee",
+        "vale-alimentação",
+        "vale-refeição",
+        "vr"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "vale-refeição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "vale-alimentação",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "alelo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "pluxee",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "vr",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "Assaí já sente alta das vendas após fim das bets",
       "summary": "O dinheiro que deixa de ir para as bets pode estar começando a voltar para os carrinhos de... supermercado. É o que avaliam executivos do Assaí, que identificam sinais de melhora no consumo neste quarto trimestre, especialmente em cidades do interior e bairros de menor renda, e consideram que as restrições às apostas online podem estar contribuindo para esse movimento. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://oglobo.globo.com/blogs/capital/post/2026/10/assai-ja-sente-alta-das-vendas-apos-fim-das-bets.ghtml",
@@ -1265,45 +1329,6 @@
         }
       ],
       "score": 50.0
-    },
-    {
-      "title": "Votação do fim da escala 6x1: o que muda para quem já trabalha na escala 5x2?",
-      "summary": "PEC prevê redução da jornada máxima para 40 horas semanais; quem já trabalha cinco dias poderá ter mudanças na carga horária",
-      "url": "https://exame.com/brasil/votacao-do-fim-da-escala-6x1-o-que-muda-para-quem-ja-trabalha-na-escala-5x2",
-      "published": "2026-10-14T10:12:54+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "carga horária",
-        "escala 5x2",
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "escala 5x2",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "carga horária",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 48.0
     },
     {
       "title": "Diretora da Hering e Arezzo deixou 12 anos de B3 pelo varejo: ‘É aí que a mágica acontece’",
@@ -4616,6 +4641,37 @@
           "field": "title",
           "score": 20,
           "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Tudo o que você precisa saber sobre o fim da escala 6x1",
+      "summary": "O fim da escala 6x1 -na qual se trabalham seis dias por semana com um dia de folga- promulgado pelo Congresso Nacional na sexta-feira (16) começará a valer em dezembro. O texto estabalece a adoção da escala 5x2, com dois dias de descanso remunerado por semana, redução da carga horára de 44 horas semanais para 42 horas e, depois, para 40 horas, sem redução de salário. Leia mais (10/20/2026 - 14h05)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/tudo-o-que-voce-precisa-saber-sobre-o-fim-da-escala-6x1.shtml",
+      "published": "2026-10-20T17:05:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 5x2",
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "escala 5x2",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
         }
       ],
       "score": 28.0
@@ -10714,6 +10770,29 @@
         {
           "sector": "Farmácias",
           "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Carrefour reduz projeção de lucro e vê impacto de € 200 mi após protestos na França",
+      "summary": "Carrefour reduz projeção de lucro e vê impacto de € 200 mi após protestos na França &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/carrefour-reduz-projecao-de-lucro-e-ve-impacto-de-200-mi-apos-protestos-na-franca",
+      "published": "2026-10-21T09:52:57+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "carrefour"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
           "field": "title",
           "score": 20,
           "topic": null
