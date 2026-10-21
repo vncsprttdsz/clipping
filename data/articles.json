@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-21T13:03:21.996049+00:00",
-  "count": 461,
+  "generated_at": "2026-10-21T13:18:56.954409+00:00",
+  "count": 463,
   "new_this_run": 17,
   "articles": [
     {
@@ -1702,6 +1702,54 @@
         {
           "sector": "Economia",
           "alias": "vr",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 44.0
+    },
+    {
+      "title": "Plano extrajudicial do GPA entra em vigor com prazos para credores",
+      "summary": "A Justiça de São Paulo oficializou nesta terça-feira (20) a sentença de homologação do plano de recuperação extrajudicial do GPA ( Grupo Pão de Açúcar ). Com a publicação da decisão, passam a correr os prazos para a captação de recursos e emissão de debêntures previstos na reestruturação. Leia mais (10/21/2026 - 09h58)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/plano-extrajudicial-do-gpa-entra-em-vigor-com-prazos-para-credores.shtml",
+      "published": "2026-10-21T12:58:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "gpa",
+        "grupo pão de açúcar",
+        "pão de açúcar",
+        "recuperação extrajudicial"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "pão de açúcar",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação extrajudicial",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -5204,29 +5252,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Governo do Peru impõe cabelo curto a meninos e proíbe maquiagem nas escolas públicas",
-      "summary": "A presidente do Peru, Keiko Fujimori, anunciou um novo regulamento disciplinar para as escolas públicas que determina que meninos mantenham os cabelos curtos e que proíbe maquiagem, esmalte e cabelos tingidos. As normas também estabelecem regras para o comprimento das saias dos uniformes usadas por estudantes de todo o país. \"Os meninos devem usar cabelo curto. É totalmente proibido pintar o cabelo ou usar maquiagem\", disse Keiko, filha do ex-ditador Alberto Fujimori, em um evento do governo em uma escola na periferia de Lima, a capital do país. \"A ordem não deve reinar apenas nas ruas, mas também voltar às nossas escolas, às nossas salas de aula.\" As novas regras também preveem a proibição do uso de celulares pelos alunos, salvo autorização do professor, uma medida que vem sendo adotada por vários países, em busca de reduzir a distração dos estudantes dentro das salas de aula. Também estão previstas a expulsão de alunos em casos de infrações mais graves e a retomada de notas disciplinares. O ministro da Educação, José Chang, explicou que o rigor em relação à aparência pessoal dos estudantes e as regras para os uniformes serão restritos às escolas públicas, que atendem cerca de 6 milhões de crianças peruanas. As instituições particulares, frequentadas normalmente por filhos de famílias com maior poder aquisitivo, poderão continuar estabelecendo as próprias regras. O regulamento disciplinar deverá ser publicado no Diário Oficial do Peru antes de entrar em vigor. Segundo o Ministério da Educação, a medida deve ser oficializada até o final deste ano. Após a publicação, os cidadãos terão um prazo de 30 dias para apresentarem objeções e críticas à medida. A ex-vice-ministra de Gestão Pedagógica Ana Andrade Pacora criticou as novas regras anunciadas por Keiko. \"Acredito que essas são medidas absolutamente equivocadas e nos farão retroceder mais de três décadas como sociedade. Equivalem a uma renúncia declarada da escola à missão de oferecer uma formação integral às novas gerações e prepará-las para o exercício da cidadania\", disse ela em entrevista ao jornal espanhol El País. Organizações da sociedade civil, como o Centro da Mulher Peruana Flora Tristan e a Coordenadoria Nacional de Direitos Humanos, também contestaram as propostas do governo, dizendo que as restrições à aparência dos estudantes não contribuem para prevenir a violência nas escolas e que as medidas são \"populistas e autoritárias\". As medidas foram tomadas depois que um adolescente de 16 anos denunciou ter sido agredido sexualmente por seus colegas durante uma viagem em um ônibus escolar. A Justiça peruana determinou a internação preventiva de seis estudantes de uma escola administrada pela Marinha, o que também gerou a intervenção do governo no local e reacendeu o debate sobre a violência nas instituições de ensino do país. Após as críticas, Keiko defendeu as medidas. \"Sei que pode ser bastante restrito, mas acreditem em mim: isso será importante ao longo da vida. Todos esses critérios estabelecerão dis-ci-pli-na\", disse a presidente, enfatizando cada sílaba. Ao tomar posse como primeira presidente da história do país, Keiko prometeu estabilizar o poder. Após um disputado processo eleitoral, ela tem o desafio de produzir resultados capazes de garantir a conclusão de seu mandato de cinco anos, algo que nenhum de seus oito antecessores conseguiu. A conservadora peruana Keiko Fujimori discursa para a imprensa na sede de seu partido REUTERS/Angela Ponce",
-      "url": "https://valor.globo.com/mundo/noticia/2026/10/14/governo-do-peru-impe-cabelo-curto-a-meninos-e-probe-maquiagem-nas-escolas-pblicas.ghtml",
-      "published": "2026-10-14T13:05:57+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "maquiagem"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "iFood amplia entregas para pedidos recebidos pelos restaurantes em outros canais",
@@ -10634,6 +10659,29 @@
       "score": 20.0
     },
     {
+      "title": "Amazon To Hire Record 300,000 Holiday Workers Amid Retail Hold Back",
+      "summary": "Amazon is ramping up for record hires during the coming holiday season but many other retailers are taking a more cautious approach despite resilient sales projections.",
+      "url": "https://www.forbes.com/sites/markfaithfull/2026/10/21/amazon-to-hire-300000-holiday-workers-but-retailers-hold-back-hiring",
+      "published": "2026-10-21T12:51:08+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "7 For All Mankind amplia lojas no Brasil para emplacar jeans de R$ 2 mil",
       "summary": "A grife americana 7 For All Mankind escolheu o Brasil para ser um dos principais mercados para o crescimento global da companhia, que se tornou conhecida pelas calças jeans vendidas a mais de R$ 2 mil. A empresa vê potencial no mercado de luxo do país, que pode saltar de 7% para até 12% do negócio global da marca e superar a casa dos R$ 100 milhões de faturamento até 2029, quando completa 10 anos no país. A principal parte da estratégia é a ampliação de lojas físicas no Brasil. Nos próximos quatro anos, a marca de moda quer inaugurar quatro novas unidades em Goiânia, Recife, Curitiba e Porto Alegre, uma em cada capital. Atualmente, a companhia está fincada principalmente no Sudeste, com cinco lojas em São Paulo, duas no Rio e uma em Brasília. Farm recebe propostas até o fim do mês e atrai fundos de private equity A vida após Azzas: Baw Clothing quer exterior e sócios influenciadores A 7 For All Mankind vê ainda espaço para inaugurar a primeira loja de rua da grife no Brasil. De fora do cronograma de inaugurações, o ponto deve ser aberto na capital paulista e vai ser utilizado principalmente para eventos corporativos da marca, ações culturais e marketing. “Para a imagem da marca, é melhor. Para as vendas, não”, diz o empresário Esber Hajli, CEO e sócio da 7 For All Mankind no Brasil. Loja no VillageMall, no Rio: marca ficou conhecida pelo denim Divulgação A marca quer crescer também em lojas multimarcas, como Grupo Nadia e Twin Set, passando de 100 para 150 pontos. No Brasil, não há planos de adotar o modelo de franquias, e o e-commerce não entra na espinha dorsal da estratégia. “O varejo físico é a nossa estratégia. O e-commerce é importante, mas, para o nosso segmento, ainda acredito em provar o produto\", diz Hajli. \"A calça jeans é complicada porque tem modelagem e temos uma coleção muito ampla. Nas nossas lojas, o vendedor já sabe qual peça indicar, e assim o cliente não prova 45 calças. Essa experiência só se tem fisicamente.” A grife nasceu em 2000 em Los Angeles, uma novata entre as grifes, mas Esber Hajli é um velho conhecido no varejo. O paulistano começou a carreira como vendedor na italiana Fiorucci, que no país era comandada pela estilista Glória Kalil nos anos 1980. Vinte anos depois, ele trouxe a também italiana Diesel, em 2000, permanecendo na companhia até meados de 2015, e é sócio da grife britânica Fred Perry e distribuidor da marca de moda masculina no Brasil. Família Hering quer a marca de volta e contrata BR Partners para negociar com Azzas 'Não prevemos o futuro, criamos o futuro', diz CEO da Oakley Em 2019, o empresário negociou a expansão da 7 For All Mankind no país, onde a marca era distribuída desde 2008 sem operação local. No acordo, Hajli e um grupo de amigos detêm 49% da operação, enquanto a matriz americana possui o controle. Ele assumiu um negócio com faturamento anual de R$ 6 milhões, ante os R$ 65 milhões de hoje, e nenhuma loja no país – e logo depois uma pandemia. “Estou acostumado a ver o Brasil entrar em crise, mas na pandemia o país não entrou sozinho e infelizmente veio para o mundo inteiro. Mas recebemos muita ajuda da matriz”, diz o brasileiro. Hajli ocupa uma cadeira no conselho de produtos da 7 For All Mankind. Veio dele, por exemplo, a sugestão de aumentar a coleção de peças \"ready to wear\", uma iniciativa abraçada pela americana para aumentar o faturamento global com venda de um guarda-roupa completo, incluindo camisetas, camisas e blusas com tamanhos definidos, por exemplo -- enquanto o denim mantém produção dedicada mais próxima à alta costura. “Por mais que nosso jeans seja espetacular, você morre se vender sempre a mesma coisa. Tem que ser uma marca de lifestyle, e isso o ready to wear permite”, explica ele. Após um século no multimarcas, Trussardi investe em lojas próprias 'Cafona é ser blasé', diz Katia Barros, a contadora que redescobriu o lápis de cor para criar a Farm A coleção completa com essas novas categorias estreou em fevereiro passado, assinada pelo estilista Nicola Brognano, que se tornou diretor criativo da marca. No Brasil, já representa 20% das vendas e a perspectiva dé chegar a 30%, reduzindo mais um pouco a participação da venda de calças. No mundo, a categoria está engatinhando, com 10%. “É um dedo do Brasil. Para mim, é um orgulho”, diz Hajli. Esber Hajli, que trouxe a Diesel para o Brasil, virou sócio da 7 For All Mankind no Brasil Divulgação",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/7-for-all-mankind-amplia-lojas-no-brasil-para-emplacar-jeans-de-r-2-mil.ghtml",
@@ -11049,6 +11097,78 @@
         }
       ],
       "score": 16.0
+    },
+    {
+      "title": "Expansão de grandes redes no Brasil impulsiona strip malls",
+      "summary": "A consolidação do modelo de strip malls vem se firmando como uma das principais e mais eficientes estratégias de expansão para grandes marcas nacionais e internacionais no Brasil. O movimento ganha novo impulso com a recente confirmação da chegada da norte-americana Shake Shack ao país, por meio de uma parceria com a BOLD, que detém as redes Outback, Abbraccio e Aussie. O acordo prevê que a empresa, atuando como master-franqueada, abra pelo menos 40 unidades da rede até 2036, com potencial para centenas de lojas nos próximos anos. A iniciativa reflete uma tendência mais ampla do mercado, que conta também com a chegada da chinesa MIXUE e a proliferação de formatos rápidos de grande conveniência, como as unidades drive-thru do KFC. Embora o cenário macroeconômico atual imponha desafios severos a diversos setores do varejo, resultando no endividamento de grandes redes e no aumento expressivo dos pedidos de recuperação judicial, segmentos específicos mantêm um ritmo acelerado de expansão orgânica. Empresas de alimentação e conveniência como McDonald's, KFC e Outback, somadas a grandes redes de farmácias tais como Pague Menos, RaiaDrogasil e DPSP, além de hipermercados no formato atacarejo, clínicas de estética e redes de academias (como Smart Fit, Panobianco, Selfit, Skyfit e Bluefit), continuam ampliando sua presença física pelo país. Para sustentar esse ritmo de crescimento com eficiência operacional e proximidade física com o consumidor, o comércio de vizinhança tornou-se uma alternativa fundamental. Os strip malls surgem como resposta estratégica para marcas que buscam alto tráfego de clientes, facilidade de acesso, estacionamento rápido e custos operacionais reduzidos em comparação aos shoppings tradicionais. \"O modelo de strip mall atende perfeitamente ao comportamento do consumidor moderno, que prioriza a conveniência, a praticidade e a rapidez nas suas decisões diárias de compra e lazer. Para as redes em expansão, esses empreendimentos garantem visibilidade imediata e uma ancoragem muito forte na vida do bairro\", destaca Marcos Saad, sócio-fundador da MEC Malls, empresa especializada na concepção e gestão desse tipo de centro comercial. A relevância do formato ganha ainda mais peso na implementação de modelos operacionais híbridos, que integram atendimento presencial, retirada rápida e operação de delivery. \"Quando analisamos o movimento de marcas globais e locais migrando para formatos de vizinhança, percebemos que o strip mall não é apenas uma escolha imobiliária, mas também uma ferramenta crucial de inteligência de mercado. Ele permite uma penetração capilar em regiões estratégicas com investimentos otimizados e retorno consistente\", complementa Mario Thurler, sócio-fundador da MEC Malls. Com a entrada de novos players globais e o fortalecimento de redes já consolidadas, a tendência é que os centros comerciais de vizinhança continuem a liderar a transformação do ecossistema de varejo urbano no Brasil nos próximos anos.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/21/expansao-de-grandes-redes-no-brasil-impulsiona-strip-malls-1.ghtml",
+      "published": "2026-10-21T13:02:43+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Academias",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "bluefit",
+        "farmácias",
+        "pague menos",
+        "panobianco",
+        "raiadrogasil",
+        "selfit",
+        "smart fit"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "panobianco",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "selfit",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "bluefit",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "raiadrogasil",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "pague menos",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        }
+      ],
+      "score": 14.0
     },
     {
       "title": "Matria atrai Astella com ‘copiloto dos hospitais’",
