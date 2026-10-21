@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-21T00:38:29.872724+00:00",
-  "count": 468,
-  "new_this_run": 78,
+  "generated_at": "2026-10-21T09:12:52.861092+00:00",
+  "count": 472,
+  "new_this_run": 33,
   "articles": [
     {
       "title": "Magalu estreia na Shopee para ampliar vendas on-line",
@@ -910,6 +910,46 @@
         {
           "sector": "Farmácias",
           "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Natura, Mercado Livre e Boticário lideram ranking de empresas que atraem talentos",
+      "summary": "Natura, Mercado Livre e Boticário lideram ranking de empresas que atraem talentos &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/21/10/2026/marcas/natura-mercado-livre-e-boticario-lideram-ranking-de-empresas-que-atraem-talentos",
+      "published": "2026-10-21T06:01:23+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário",
+        "mercado livre",
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1888,68 +1928,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Não é só o fator Casas Bahia que gera adicional bilionário em vendas para o Magalu até 2027",
-      "summary": "Não é só o fator Casas Bahia que gera adicional bilionário em vendas para o Magalu até 2027 &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/14/10/2026/mc-capital/o-que-esta-por-tras-da-projecao-para-magalu-adicionar-r-75-bi-em-vendas-ate-2027",
-      "published": "2026-10-14T06:02:14+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "magalu"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "magalu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Cocos agrega el banco en su app y cambia pelea con Mercado Pago y Ualá",
-      "summary": "Cocos agrega el banco en su app y cambia pelea con Mercado Pago y Ualá &nbsp;&nbsp; iProUP",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbmxSSUNFS3dCTkpKNGtVSVNVckl1LS11LUVfQ05WSHVFc3NrV0VybUQxMmEtUElLaExBLXFxdTU5T1Q4NXNLT3ByRDA4SEVJTldBR2E2SjFyZTJZazVRbTViOFptYzRKYnJaaTMzSFlJYi1idE9KM3RPeWU3VV9DTDZFZ0ZGM1pXdTZIMXpVamwxS1czVUVPRWlsLTlwN2pCSDhhUGlOT0tBQ1J0cDJESnctM2NzQdIBuwFBVV95cUxQbEhBVHUwZndfNzlYQ0RGdktxRmVOVHE0MkdiaGMtSXM3cV9pMnlvcE9LZmFlNThZWjl4c18yVUVwQ0s1czhDamRpbWVwNERVYUEzX3kxOFB0LXk4T0dxcWM4QTJCcmlBRExCb05EUVB0Y2o5ZVVXREdBaF9ucVB0MVBPeFhRSDJVRWpsR1dkdmlNdGgzTnduS1pNMWs4amhialhrTGczWWVvWk9hT24xakNXVDVSWWhWVEo0?oc=5",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago",
-        "ualá"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "ualá",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Farm, Adidas e Real Madrid: o que está por trás da collab inédita",
@@ -3804,6 +3782,37 @@
       "score": 40.0
     },
     {
+      "title": "Não é frete nem preço baixo. A nova briga entre Shopee e Mercado Livre é no crédito",
+      "summary": "A Shopee tinha uma carteira de crédito de US$ 1,8 bilhão, cerca de R$ 9,3 bilhões, no Brasil, em setembro de 2026",
+      "url": "https://exame.com/invest/mercados/nao-e-frete-nem-preco-baixo-a-nova-briga-entre-shopee-e-mercado-livre-e-no-credito",
+      "published": "2026-10-21T06:03:45+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre",
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "AliExpress e YouTube fecham parceria para que os criadores de conteúdo recomendem produtos e recebam comissão por vendas",
       "summary": "O AliExpress fechou uma parceria global com o YouTube para permitir que criadores de conteúdo recomendem produtos de seu marketplace e recebam comissões por vendas. A iniciativa começou em março na Coreia do Sul e vai estar disponível no Brasil a partir desta terça-feira. Mais medidas: governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno Saiba mais: campanha de Flávio promete pagar Bolsa Família por 2 anos após beneficiário conseguir emprego ou abrir negócio Os criadores elegíveis poderão marcar produtos em vídeos, shorts e transmissões ao vivo diretamente pelo YouTube Studio. Ao clicar na recomendação dentro do YouTube, os espectadores poderão acessar os itens recomendados e finalizar a compra no AliExpress. A seleção inclui categorias como eletrônicos, esportes e produtos para casa. No Brasil, a participação será aberta a criadores que cumpram os requisitos do Programa de Afiliados do YouTube Shopping. O diferencial é a integração entre conteúdo e compra. Em vez de o criador apenas exibir uma peça publicitária, o formato permite que ele marque produtos no próprio conteúdo e receba comissão pelo YouTube através do AdSense (plataforma gratuita do Google que permite a criadores de conteúdo, blogueiros e donos de sites ou canais do YouTube monetizarem suas páginas ao exibir anúncios de empresas) por vendas qualificadas geradas pelas recomendações. Segundo Roberto Wajnsztok, sócio-diretor da Gouvêa Consulting, essa tendência de consumo atrelada ao consumo de vídeos está crescendo no mercado. Isso se dá devido principalmente ao protagonismo que o audiovisual ganhou. — Os criadores de conteúdo foram desenvolvendo técnicas para melhorar a exposição e a qualidade desses vídeos, tornando-os mais assertivos na forma como se apresentam, nos assuntos que abordam e na identificação do que gera resultados e do que não funciona. Produzir vídeos nunca foi tão fácil e, logicamente, eles convertem muito mais do que imagens estáticas — analisa Wajnsztok. Nos anos anteriores o consumidor costumava entrar em um site, procurar um produto e encontrar uma foto acompanhada de um texto. Essa experiência foi substituída por uma experiência em vídeo, na qual são destacados os principais atributos do produto e seus diferenciais. Para produtos que não demandam muita explicação, esse formato se encaixa perfeitamente. Os vídeos curtos conseguem apresentar o produto rapidamente e, quando as informações relevantes já foram transmitidas, o consumidor não precisa passar por tantas etapas até a compra. O crescimento do TikTok Shop está muito relacionado ao consumo de vídeos, que atingiu um patamar muito elevado. Diferentemente do TikTok, que desenvolveu um modelo próprio de vendas dentro da plataforma, o Google (que controla o YouTube) não atua diretamente como marketplace. Assim, a parceria entre AliExpress e YouTube busca aproximar os vídeos dos produtos à venda, facilitando o caminho entre o conteúdo e a decisão de compra do consumidor. De acordo com Wajnsztok, o perfil dos vídeos do YouTube é diferente. Embora exista o formato shorts (vídeos curtos), o formato convencional, que tem vídeos mais longos e explicativos, continua sendo relevante. Nesse caso, o consumidor pode assistir a uma apresentação detalhada, até mesmo bastante técnica, sobre o produto e, a partir dessa análise, acessar diretamente o link de compra. – A expectativa é que os produtos comercializados nessa parceria entre AliExpress e YouTube tenham um perfil diferente, possivelmente com maior valor agregado e que demandem mais explicações. Não se trata necessariamente daquele consumo de conteúdo tão rápido – explica. Um vídeo curto, construído para atender a uma necessidade que surge rapidamente na mente do consumidor, tende a gerar uma conversão mais rápida. Já nos vídeos longos, pode ser compensado por uma venda mais racional e consistente, com um ticket médio maior. – O consumidor brasileiro é bastante receptivo a novas experiências de compra, e não vejo nessa iniciativa algo muito diferente daquilo que ele já experimenta atualmente. O perfil dos produtos e o tempo de compra são diferentes. Não podemos esperar o mesmo nível de conversão observado hoje no TikTok Shop, muito menos o mesmo perfil de produtos – observa.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/10/20/aliexpress-e-youtube-fecham-parceria-para-que-os-criadores-de-conteudo-recomendem-produtos-e-recebam-comissao-por-vendas.ghtml",
@@ -4777,6 +4786,68 @@
       "score": 28.0
     },
     {
+      "title": "Carrefour reduz metas financeiras para 2026 após protestos na França",
+      "summary": "O grupo francês Carrefour reportou vendas de € 22,7 bilhões no terceiro trimestre de 2026, representando melhora de 2,3% em bases comparáveis. No Brasil, as vendas cresceram 1,4%, para € 5,14 bilhões, impulsionadas pelo Atacadão, que está acelerando o ganho de participação de mercado em um ambiente ainda desafiador, segundo a companhia. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/21/carrefour-reduz-metas-financeiras-para-2026-apos-protestos-na-franca.ghtml",
+      "published": "2026-10-21T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "atacadão",
+        "carrefour"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "atacadão",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Reforma tributária e eleição, mistura ruim",
+      "summary": "Entre as muitas incertezas que envolvem a reforma tributária pode estar o seu alcance. Cotado para ocupar o Ministério da Fazenda em um eventual governo de Flávio Bolsonaro e atual coordenador do programa econômico da campanha, Adolfo Sachsida tem questionado se a reforma deve avançar além da implementação da Contribuição sobre Bens e Serviços (CBS), substituto do PIS/Cofins. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/brasil/coluna/reforma-tributaria-e-eleicao-mistura-ruim.ghtml",
+      "published": "2026-10-21T08:00:01+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Prudential venderá unidades no Brasil e no México para francesa CNP por US$ 4 bi",
       "summary": "A Prudential Financial concordou em vender suas operações no Brasil e no México para o grupo francês CNP em uma transação de US$ 4 bilhões. O negócio deverá ser concluído no segundo semestre de 2027, sujeito à obtenção das autorizações regulatórias, segundo comunicado divulgado nesta terça-feira. Novidade: AliExpress fecha parceria com YouTube para ampliar vendas a partir de vídeos Processo encerrado: Após quase quatro anos, Americanas sai de recuperação judicial Os recursos obtidos com a venda serão usados para apoiar o negócio de gestão de ativos da Prudential, especialmente suas operações em investimentos alternativos privados, bem como seu negócio de seguros coletivos e investimentos em mercados de previdência selecionados na Europa, afirmou o presidente-executivo Andrew Sullivan em entrevista nesta terça-feira. — Estamos trabalhando ativamente em aquisições nessas três áreas para tornar a empresa mais focada — disse Sullivan. A Prudential vem reduzindo sua presença geográfica e realocando recursos para negócios menos dependentes de capital, como forma de impulsionar os resultados. Em uma atualização estratégica no início deste ano, Sullivan havia estabelecido inicialmente a meta de levantar mais de US$ 3 bilhões com essas vendas de ativos. “Esta transação posiciona a Prudential do Brasil e a Prudential do México para continuar obtendo bons resultados sob o controle de um proprietário comprometido com seus clientes, funcionários e parceiros de distribuição”, afirmou Sullivan em nota. “Continuamos concentrados em reduzir nossa presença geográfica e construir uma Prudential mais simples e focada.\" Na semana do 2º turno: Com antecipação do Bolsa Família, reajuste pode ser questionado? Veja o que dizem especialistas Sediada em Newark, Nova Jersey, a Prudential, maior companhia de seguros do Reino Unido, vem buscando simplificar suas operações por meio da venda de ativos em mercados emergentes. Sullivan está reduzindo a presença geográfica da empresa e realocando recursos para negócios menos dependentes de capital, como forma de impulsionar os resultados. Após anunciar a venda de participações em joint ventures na Indonésia, na África do Sul e no Quênia, a Prudential já se retirou de cerca de 60% dos mercados emergentes dos quais pretende sair, segundo Sullivan. Índia, Gana e China ainda estão na lista. Para a CNP, o negócio ajudará a seguradora de vida francesa a expandir sua atuação na América Latina, diversificando seus canais de distribuição e sua oferta de seguros no Brasil, seu segundo maior mercado, além de ingressar no México. Fraude no INSS: Governo gasta R$ 3,6 bi para ressarcir aposentados e ainda não recuperou recursos No Brasil, a CNP conquistou espaço historicamente por meio de uma parceria com a Caixa Econômica Federal, instituição financeira estatal e uma das maiores do país em volume de ativos. Inicialmente, a parceria abrangia todos os seguros comercializados por meio da Caixa, mas, em 2021, seu escopo foi limitado aos segmentos de seguros de vida, previdência e planos de parcelamento coletivo, levando a CNP a buscar novos canais de distribuição. O negócio “representa um grande avanço em nosso desenvolvimento na América Latina”, afirmou a presidente-executiva da CNP, Marie-Aude Thépaut, em comunicado separado. “Ficamos particularmente impressionados com as capacidades desses negócios.” Entrevista: ‘Não dissociamos mais vendas de serviços’, diz CEO da Leroy Merlin Brasil No Brasil, “estamos fortalecendo nossa posição em um país estratégico para o grupo, ao mesmo tempo que expandimos nossa atuação para o México, outro mercado com significativo potencial de crescimento”, disse Thépaut. As operações da Prudential no Brasil e no México atraíram o interesse da CNP e da MetLife. A Mapfre também mostrou interesse anteriormente, mas, segundo fontes, não havia certeza de que faria uma oferta, segundo fontes. A japonesa Daiichi decidiu não fazer uma oferta.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/20/prudential-vendera-unidades-no-brasil-e-no-mexico-para-francesa-cnp-por-us-4-bi.ghtml",
@@ -4991,6 +5062,45 @@
       "score": 24.0
     },
     {
+      "title": "O que muda na nova indicação para a vacina de meningite? Veja ferramenta para você saber se está com vacinação em dia",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) ampliou a indicação da vacina meningocócica ACWY (MenQuadfi) para bebês a partir de 6 semanas de vida. O imunizante previne da doença meningocócica invasiva causada pelos sorogrupos A, C, W e Y da bactéria Neisseria meningitidis. Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves Fumaça em Manaus: como a mistura tóxica afeta a qualidade do ar a milhares de quilômetros de distância e os danos à saúde Essa decisão é importante pois antecipa a defesa de quem corre mais perigo. No entanto, para essa faixa etária, o imunizante está disponível apenas na rede privada. Na rede pública, a ACWY só está disponível no SUS para crianças acima de um ano de idade De acordo com a Anvisa, a decisão se baseou em dados de segurança que incluíram 6.060 lactentes vacinados entre 6 semanas e menos de 12 meses de idade, expostos a pelo menos uma dose de MenQuadfi em esquemas primários de uma, duas ou três doses, além de 5.373 crianças que receberam uma dose de reforço a partir dos 12 meses de idade. \"Os resultados evidenciaram um perfil de segurança consistente com o esperado para vacinas meningocócicas conjugadas, sem identificação de novas preocupações relevantes de segurança\", escreveu a agência, em comunicado. A meningite é uma infecção bacteriana grave, de rápida evolução e potencialmente fatal e uma das principais preocupações de pais de crianças pequenas. Lactentes e crianças pequenas, especialmente no primeiro ano de vida, estão entre os grupos de maior risco para a doença e suas complicações graves. Mesmo com tratamento adequado, apresenta letalidade em torno de 10%, e até 20% dos sobreviventes podem desenvolver sequelas permanentes e incapacitantes. Por isso, a vacinação é fundamental. Carteira de vacinação em dia Estar em dia com a vacinação, porém, é essencial para evitar doenças graves, como pneumonias, meningites, tétano, internações por Covid-19, entre tantas outras, além de manter enfermidades como sarampo e pólio eliminadas no país. E engana-se quem pensa que há recomendações de imunizantes apenas para bebês e crianças: o calendário brasileiro hoje se estende por todas as faixas etárias, garantindo proteção em diferentes fases da vida. Abaixo, confira se você está em dia com a vacinação na nova ferramenta do GLOBO elaborada com base em informações do Programa nacional de Imunizações (PNI), do Ministério da Saúde. Initial plugin text",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/10/21/o-que-muda-na-nova-indicacao-para-a-vacina-de-meningite-veja-ferramenta-para-voce-saber-se-esta-com-vacinacao-em-dia.ghtml",
+      "published": "2026-10-21T07:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "mounjaro"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 24.0
+    },
+    {
       "title": "Agenda do dia: Vendas no varejo no Brasil e preços ao produtor nos EUA são destaque",
       "summary": "Os investidores acompanham a divulgação dos dados de vendas no varejo em agosto no Brasil. Nos Estados Unidos, o índice de preços ao produtor (PPI, na sigla em inglês) de setembro será monitorado. Veja os destaques desta quinta-feira: FGV publica Indicador do Comércio Exterior de setembro - O Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV/Ibre) publica, às 8h, o Indicador do Comércio Exterior (Icomex) de setembro. O Brasil registrou superávit comercial de US$ 7,4 bilhões em agosto, elevando o saldo acumulado de 2026 para US$ 55,3 bilhões, US$ 12,2 bilhões acima do apurado no mesmo período do ano anterior. O resultado foi impulsionado principalmente pela ampliação do saldo comercial com a China e a União Europeia, enquanto o déficit com os Estados Unidos permaneceu praticamente estável e o superávit com a Argentina encolheu de forma significativa. No conjunto do comércio exterior, as exportações brasileiras cresceram 12,2% em agosto e 10,3% no acumulado do ano, enquanto as importações avançaram 9,2% e 6,1%, respectivamente. FGV divulga Sondagem do Mercado de Trabalho de setembro - O Instituto Brasileiro de Economia da Fundação Getulio Vargas (Ibre-FGV) divulga, às 8h, a Sondagem do Mercado de Trabalho referente a setembro. A décima-quinta edição dos Indicadores de Qualidade do Trabalho da Sondagem de Mercado de Trabalho do FGV IBRE, aborda o tema da satisfação com o trabalho. O quesito desse tema perguntava para cada trabalhador a percepção deles sobre o grau de satisfação com base em sua experiência pessoal. O resultado, com dados do trimestre findo em agosto de 2026, mostra que a maioria dos respondentes (78,1%) afirma que se sentem satisfeitos ou muito satisfeitos com o trabalho atual. IBGE divulga LSPA de setembro – O Instituto Brasileiro de Geografia e Estatística (IBGE) publica, às 9h, o Levantamento Sistemático da Produção Agrícola (LSPA) de setembro. A estimativa de agosto de 2026 para a produção de cereais, leguminosas e oleaginosas foi de 352,9 milhões de toneladas, 2,0% (6,8 milhões de toneladas) maior que a obtida em 2025 (346,1 milhões de toneladas), com declínio de 81.416 toneladas (0,0%) em relação à julho de 2026. A área a ser colhida foi de 83,1 milhões de hectares, com aumento de 1,5 milhão de hectares frente à área colhida em 2025, crescimento de 1,8%. Em relação ao mês anterior, a área a ser colhida apresentou declínio de 17 303 hectares (0,0%). IBGE divulga Pesquisa Mensal de Comércio de agosto - O Instituto Brasileiro de Geografia e Estatística (IBGE) publica, às 9h, a Pesquisa Mensal de Comércio (PMC) de agosto. O volume de vendas do varejo restrito em todo o país deve ter crescido 0,7% em agosto ante julho, com ajuste sazonal, segundo mediana de 18 estimativas coletadas pelo Valor Data junto a consultorias e instituições financeiras. As projeções coletadas para agosto variaram de 0,2% a 1,9%. Em relação a agosto de 2025, a mediana para o volume de vendas do varejo restrito é de alta de 1,6%, com estimativas que variam de 0,4% a 3%. No conceito ampliado, que inclui vendas de veículos e motos, partes e peças, material de construção e atacarejo, a mediana é de alta de 1% em agosto ante julho, com ajuste sazonal. As projeções variaram de 0,1% a 3,3%. Na comparação com agosto de 2025, a mediana é de alta de 2,1%, com estimativas que variam de 1,1% a 5,1%. Tesouro realiza leilão tradicional de LTN e NTN-F – A Secretaria do Tesouro Nacional faz às 11h leilão tradicional de Letras do Tesouro Nacional (LTN) e Notas do Tesouro Nacional Série F (NTN-F). As LTN que serão ofertadas têm vencimentos nos dias 1º de abril de 2027; 1º de outubro de 2028 e 1º de janeiro de 2030. As NTN-F vencem em 1º de janeiro de 2031, 1º de janeiro de 2033 e 1º de janeiro de 2037. A liquidação financeira dos papeis ocorrerá na sexta-feira. EUA revelam preços ao produtor de setembro – O Escritório de Estatísticas do Departamento do Trabalho (BLS, na sigla em inglês) dos EUA revela, às 9h30 (de Brasília), o índice de preços ao produtor (PPI) de setembro. Em agosto, o PPI subiu 0,4% (margem) e 5,4% (ano) e o núcleo, em 0,2% e 4,6%. As estimativas são de 0,5% para o PPI na margem e 5,3% (ano) e de 0,3% e 4,4%, respectivamente, para o núcleo. EUA comunicam vendas no varejo de setembro — O Departamento do Comércio dos EUA comunica, às 9h30 (de Brasília), o dado de vendas no varejo de setembro. A leitura anterior foi de alta de 1,2% na comparação mensal e de aumento de 6% na base anual. Estimativas de alta de 0,3% na comparação mensal e de aumento de 5,2% na anual. EUA mostram pedidos iniciais de seguro-desemprego na semana – O Departamento de Trabalho dos EUA mostra, às 9h30 (de Brasília), o número de novos pedidos de seguro-desemprego requeridos na semana até 10 de outubro. Na semana anterior, houve 197 mil pedidos iniciais. Estimam-se 200 mil novos pedidos. Fed de Nova York comunica índice Empire State de outubro – O Federal Reserve de Nova York informa, às 9h30 (de Brasília), o índice Empire State de atividade manufatureira da região de Nova York de outubro. Em setembro, o índice estava em 7,60 e a expectativa é de 10,3. Fed da Filadélfia expõe índice do setor de manufatura de outubro - O Federal Reserve da Filadélfia expõe às 9h30 (de Brasília) o índice do setor de manufatura relativo a outubro. Em setembro, o índice ficou em 37,8. Expectativa de 28,4. EUA mostram índice de estoques empresariais de agosto - O Departamento do Comércio dos EUA mostra, às 11h (de Brasília), seu índice de estoques empresariais de agosto. Em julho, os estoques variaram 0,8% na comparação mensal e a expectativa é de alta de 0,4%. EUA informam estoques do varejo em agosto — O Departamento do Comércio dos EUA informa, às 11h (de Brasília), os dados dos estoques do varejo (exceto veículos) em agosto. Em julho, os estoques aumentaram 0,8% na margem. Estimativas de alta de 0,1%. EIA expõe estoques de petróleo e derivados nos EUA na semana - A Administração de Informações de Energia (EIA, sigla em inglês) dos EUA expõe, às 13h (de Brasília), os estoques semanais de petróleo e derivados nos EUA na semana até 9 de outubro. Na semana anterior, os estoques de petróleo bruto recuaram em 3,186 milhões de barris e os de gasolina cresceram em 382 mil litros. Presidente do Fed de Cleveland discursa em evento - A presidente do Federal Reserve (Fed) de Cleveland, Beth Hammack (vota no Fomc este ano), discursa em evento às 17h30 (de Brasília). Lula não tem compromissos oficiais - O presidente Luiz Inácio Lula da Silva não tem compromissos oficiais em sua agenda. Plenário do Senado analisa três acordos internacionais - O Plenário do Senado pode votar, a partir das 14h, três projetos de decreto legislativo (PDLs) que ratificam acordos internacionais firmados pelo Brasil. As propostas tratam de cooperação nas áreas de educação e defesa, além de participação brasileira em exposições internacionais. Também está na pauta a PEC da Segurança Pública (PEC 18/2025), que busca ampliar a integração entre os órgãos de segurança e fortalecer o combate ao crime organizado. Comissão do Senado debate políticas públicas voltadas à proteção de meninas - A Comissão de Direitos Humanos (CDH) do Senado debate, às 9h, os direitos das meninas e os desafios das políticas públicas voltadas à sua proteção integral no Brasil. Galípolo terá agenda de despachos em Brasília - O presidente do Banco Central (BC), Gabriel Galípolo, terá despachos internos em Brasília. Diretor do BC reúne-se com representantes do Ministério da Fazenda - O diretor de Regulação do Banco Central, Gilneu Vivan, participará de reunião, por videoconferência, com o secretário da Secretaria de Reformas Econômicas do Ministério da Fazenda, Regis Dudena, e a procuradora-geral da Fazenda Nacional, Anelize Lenzi, às 18h30. Também estará presente o procurador-geral adjunto Fiscal e Financeiro, Luiz Alcoforado. O diretor de Administração, Rodrigo Alves Teixeira, fará audiência às 11h com integrantes da Associação Brasileira de Instituições de Pagamento (Abipag). Participarão o conselheiro da entidade Gabriel Luiz Schvartzman Cohen e o diretor Vinícius do Nascimento Carrasco. O diretor de Assuntos Internacionais e de Gestão de Riscos Corporativos, Paulo Picchetti, participará de uma série de compromissos oficiais em Bangcoc, na Tailândia. Às 7h30 (horário local), participará de reunião de ministros das finanças e de presidentes de bancos centrais do G20. Às 14h, terá reunião com o head of the BIS Innovation Hub, Tommaso Mancini-Griffoli. Às 15h15, reúne-se com representantes da European Economics & Financial Centre (EEFC), o professor H. Scobie, chairman, e Nicholas Dashiell, chief economist and Board Member. Picchetti terá encontro, às 16h, com integrantes da Euroclear: o head Fixed Income & Equities, Product Strategy & Innovation, Kamal Iberraken, e deputy Head of Official Institutions, Diego Pizzamiglio. Às 17h, o diretor terá reunião bilateral com o diretor-adjunto do Departamento do Hemisfério Ocidental do Fundo Monetário Internacional (FMI), Nigel Chalk, e a chefe de missão Ana Corbacho. Às 18h20, Picchetti terá reunião do G7 Finance Ministers and Central Bank Governors. Os demais diretores terão despachos internos em Brasília. Mercadante tem despachos internos - O presidente do BNDES, Aloizio Mercadante, estará no Rio de Janeiro com agenda de reuniões e despachos internos. Unsplash",
       "url": "https://valor.globo.com/financas/noticia/2026/10/15/agenda-do-dia-vendas-no-varejo-no-brasil-e-precos-ao-produtor-nos-eua-sao-destaque.ghtml",
@@ -5115,167 +5225,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Revolut avança em licenças bancárias e acelera expansão na América",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/coluna-da-broad/revolut-avanca-em-licencas-bancarias-e-acelera-expansao-na-america",
-      "published": "2026-10-14T01:00:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "revolut"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Esqueceu de resgatar o saldo das bets? Veja para onde vai o dinheiro e como proceder para recebê-lo",
-      "summary": "Termina nesta quarta-feira (14) o prazo para as instituições financeiras devolverem os saldos remanescentes dos apostadores das bets, segundo o cronograma de encerramento do setor divulgado pelo governo federal. Mas o que fazer se você esquecer de pegar ou em caso de um impedimento para a devolução pelos bancos? Medidas econômicas: a 12 dias do 2º turno, governo Lula anuncia perdão da dívidas de MEIs e promete transferência direta de até R$ 5 mil Novas estratégias: proposta de Flávio de criar regra fiscal ancorada na dívida pública pode afrouxar pressão por corte de gastos Se acontecer uma dessas situações você não vai perder seu dinheiro. De acordo com o cronograma oficial, os valores serão transferidos para a Caixa Econômica Federal, que vai passar a intermediar o pagamento. O saque voluntário direto das plataformas já havia terminado em 5 de outubro. As datas estão previstas na medida provisória (MP) 1.394/2026, assinada pelo presidente Luiz Inácio Lula da Silva em 25 de setembro, no qual proibiu a exploração, a oferta, a intermediação e a publicidade de apostas no país. Os valores que os bancos não conseguirem restituir por dificuldades operacionais, como dados incompletos ou contas encerradas, seguem para a Caixa. Segundo o Ministério da Fazenda, as orientações para os apostadores nessa etapa serão divulgadas pelos canais oficiais. Quem tinha saldo, o governo orienta a guardar comprovantes de depósito, prints do saldo e protocolos de atendimento, e a buscar informações apenas nos canais oficiais do governo e dos bancos, para evitar golpes. Por que o dinheiro ficou retido? Os apostadores tiveram até as 23h59 do dia 5 de outubro para sacar voluntariamente os valores. No dia seguinte, sites e aplicativos começaram a sair do ar. A Apple e o Google tiveram de retirar das lojas os aplicativos notificados. Quem não fez o resgate a tempo passou a depender da devolução pelos bancos. Entre 7 e 8 de outubro, as empresas tiveram de informar às instituições financeiras quanto cada apostador deveria receber, garantir os recursos para as restituições e enviar os dados à Secretaria de Prêmios e Apostas, do Ministério da Fazenda. A partir daí, os bancos tiveram sete dias para fazer os repasses. Apostas que ainda estavam em aberto e sem resultado apurado até o fim do prazo de saque foram anuladas e o valor apostado deve ser devolvido integralmente. Já as apostas com resultado apurado nesse intervalo tiveram os prêmios pagos normalmente. Arrecadação A taxação das empresas de apostas on-line rendeu R$ 15,3 bilhões ao governo federal desde o início de 2025, segundo dados da Receita Federal. Desse total, R$ 8,94 bilhões foram recolhidos em 2025 e R$ 6,32 bilhões entre janeiro e agosto deste ano. Os recursos são considerados relevantes para o cumprimento das metas fiscais do governo, que estabelecem os objetivos de resultado primário das contas públicas. Dados da Secretaria de Prêmios e Apostas (SPA) apontam que os brasileiros movimentaram cerca de R$ 220 bilhões nas bets em 2025. A movimentação diária das casas de apostas chegou a aproximadamente R$ 600 milhões, segundo informações divulgadas pelo Ministério da Fazenda. Já um estudo do Comitê Nacional de Secretários de Fazenda dos Estados e do Distrito Federal (Comsefaz), publicado em agosto, estima que as apostas retiraram R$ 62,5 bilhões do orçamento das famílias brasileiras em 2025. O levantamento calcula uma saída líquida média de R$ 4,7 bilhões por mês entre outubro de 2024 e março de 2026. A Associação Nacional de Jogos e Loterias (ANJL), que representa o setor, contesta as conclusões do estudo e afirma que o levantamento apresenta erros e não considera fatores macroeconômicos relacionados ao crescimento das transações via Pix. Apostas: fim das bets vai mudar a arrecadação e dinheiro será gasto 'em alguma outra coisa', diz secretário da Receita A ofensiva contra as apostas faz parte de um pacote de medidas econômicas voltado ao combate ao endividamento das famílias e aos problemas associados ao uso compulsivo de jogos virtuais. O governo também determinou medidas contra plataformas clandestinas. Desde 27 de setembro, o Ministério da Justiça determinou o bloqueio de mais de 5,2 mil sites de apostas considerados irregulares. A regulamentação das apostas de cota fixa começou a ser estruturada em 2023. O setor havia sido legalizado em 2018, no fim do governo Michel Temer, mas a regulamentação prevista originalmente não foi implementada dentro dos prazos estabelecidos. A MP 1.394/2026 precisa ser analisada pelo Congresso Nacional e poderá perder validade caso não seja aprovada dentro do prazo constitucional de 25 de outubro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/14/esqueceu-de-resgatar-o-saldo-das-bets-veja-para-onde-vai-o-dinheiro-e-como-proceder-para-recebe-lo.ghtml",
-      "published": "2026-10-14T03:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Pandora investe US$ 150 milhões em sua maior fábrica de joias do mundo",
-      "summary": "Gigante dinamarquesa inaugura unidade no Vietnã com capacidade para fabricar até 60 milhões de peças por ano",
-      "url": "https://exame.com/negocios/pandora-investe-us-150-milhoes-em-sua-maior-fabrica-de-joias-do-mundo",
-      "published": "2026-10-14T06:01:24+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "pandora"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "pandora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Pacientes relatam demora da Anvisa na liberação de medicamentos importados; agência alega alta demanda",
-      "summary": "Pacientes relatam demora da Anvisa na liberação de medicamentos importados; agência alega alta demanda &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/10/pacientes-relatam-demora-da-anvisa-na-liberacao-de-medicamentos-importados-agencia-alega-alta-demanda.shtml",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "medicamentos"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "medicamentos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Proibição de maquiagem, unhas pintadas e cabelos longos: veja novas regras para escolas públicas no Peru",
-      "summary": "Proibição de maquiagem, unhas pintadas e cabelos longos: veja novas regras para escolas públicas no Peru &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/mundo/noticia/2026/10/14/proibicao-de-maquiagem-unhas-pintadas-e-cabelos-longos-veja-novas-regras-para-escolas-publicas-no-peru.ghtml",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "maquiagem"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Crédito Cresce 8,9%, Mas Inadimplência Preocupa Bancos",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Pesquisa da Febraban aponta alta de 11% no crédito direcionado, enquanto 65% dos bancos esperam avanço da inadimplência das famílias até o fim do ano O post Crédito Cresce 8,9%, Mas Inadimplência Preocupa Bancos apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/10/credito-bancario-2026-inadimplencia",
-      "published": "2026-10-14T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Na Riachuelo, funcionários criam IAs sem saber programar — e liberam 3.600 horas de trabalho",
-      "summary": "Programa interno da varejista capacita colaboradores de áreas como RH a desenvolverem ferramentas de IA em poucos dias, mirando eficiência e milhões em economia",
-      "url": "https://exame.com/inteligencia-artificial/na-riachuelo-funcionarios-criam-ias-sem-saber-programar-e-liberam-3-600-horas-de-trabalho",
-      "published": "2026-10-14T09:01:07+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "riachuelo"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "riachuelo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Anvisa suspende lotes de implante hormonal e recolhe tirzepatida proibida",
@@ -9786,6 +9735,29 @@
       "score": 20.0
     },
     {
+      "title": "Polícia Militar apreende 32 frascos de tirzepatida durante fiscalização em Saltinho",
+      "summary": "Polícia Militar apreende 32 frascos de tirzepatida durante fiscalização em Saltinho &nbsp;&nbsp; Rede Peperi",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQX1ZJYi04WlJwWkZfTE1wbEJ1OGx6SUNZcXdwd3F0WnFUZTBmbzl1aWlaOXZJSUU0dERtWjBmdGVuQ0FDdDVEOUtLakFUNmJqMGVqYjkyMy14RzA5MmVKbzRpRWVWZUtnaEJrcFFEa0RvZkFrNFVXT1hjR19lM0FRQVd6V3BrSzRkTnN6WWRRS2QtVWVRLVRpZVVtdllaZktqeHAyenA5OTVQQ0ZaOGg0WEZlRlozQXNXLTlITWw2dw?oc=5",
+      "published": "2026-10-20T12:33:30+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Febre de canetas emagrecedoras cria mercado ilegal bilionário e alimenta crime no Brasil",
       "summary": "Febre de canetas emagrecedoras cria mercado ilegal bilionário e alimenta crime no Brasil &nbsp;&nbsp; Bloomberg Línea Brasil",
       "url": "https://www.bloomberglinea.com.br/brasil/febre-de-canetas-emagrecedoras-cria-mercado-ilegal-bilionario-e-alimenta-crime-no-brasil",
@@ -10637,6 +10609,29 @@
       "score": 20.0
     },
     {
+      "title": "Mercado Libre permitirá retirar compras en estaciones de servicio YPF",
+      "summary": "Mercado Libre permitirá retirar compras en estaciones de servicio YPF &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/economia-digital/72497-mercado-libre-permitira-retirar-compras-en-estaciones-de-servicio-ypf.amp",
+      "published": "2026-10-20T22:30:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado libre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado libre",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Federação Turca suspende 147 dirigentes por violação de regras referentes a apostas esportivas",
       "summary": "Federação Turca suspende 147 dirigentes por violação de regras referentes a apostas esportivas &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/esportes/futebol/federacao-turca-suspende-147-dirigentes-por-violacao-de-regras-referentes-a-apostas-esportivas-npres",
@@ -10683,35 +10678,182 @@
       "score": 20.0
     },
     {
-      "title": "Anúncios do governo não comprometem trajetória de ajuste fiscal, diz número 2 do Planejamento",
-      "summary": "O secretário executivo do Ministério do Planejamento, Guilherme Mello, defende que a série de medidas que o governo tem anunciado nas últimas semanas, inclusive as ações voltadas para os microempreendedores individuais (MEI) não comprometem a trajetória de ajuste prevista na lei de diretrizes orçamentárias (LDO) de 2027. Segundo ele, as medidas que têm impacto na despesa, como o reajuste do Bolsa Família, a compra de dívidas no Desenrola 3.0, entre outras, serão feitas cortando outros gastos e cumprindo a regra do teto do arcabouço fiscal. Mello também entrou no confronto político com o adversário de Lula (PT) no segundo turno, o senador Flávio Bolsonaro. Disse que as sinalizações da campanha do PL apontando que um ajuste fiscal com cortes de R$ 200 bilhões em um ano comprometeria uma série de despesas sociais e só seria viável com medidas como a desindexação entre salário mínimo e Previdência. Com os anúncios recentes do governo Lula, não está se comprometendo o Orçamento de 2027 e a trajetória fiscal? Não. Esses anúncios têm pouquíssimo impacto em 2027, quase nenhum. Em tese, há um valor mais relevante relacionado ao perdão de dívidas ativas. Mas, principalmente para esse público, trata-se de uma dívida que dificilmente será recuperada. Individualmente, são tantas dívidas pequenininhas que tem pouco impacto. Também haverá a ampliação teto do MEI de R$ 81 mil por ano para R$ 140 mil por ano. Qual é o impacto? Essa medida já está contemplada no projeto de lei que foi enviado ao Congresso e está incorporada ao PLOA (projeto de lei orçamentária anual). Não há nada novo que não estava no radar até ontem. O projeto já foi encaminhado e está em discussão. E quanto aos R$ 5 bilhões do “Pix MEI”, que não estava previsto? É preciso considerar o período a que esse valor se refere. Estamos falando de um impacto ao longo do mandato, e não de uma despesa que será integralmente realizada agora. Mas o governo também anunciou a desoneração da gasolina. Mesmo que a medida não tenha impacto integral em 2027, ela aumenta a dívida, porque piora o resultado primário… Não necessariamente, você tem que ter receita para fazer. Temos uma sobra e projeção de novas receitas que estão entrando. Não vai piorar a posição da dívida, porque vamos entregar o resultado primário. E a perda de arrecadação com o fim das bets? Tenho dúvidas sobre o impacto efetivo. As bets pagavam impostos sobre o que arrecadavam, que era o que os jogadores pagavam para ela e não recebiam de volta. Então é uma troca de mão de dinheiro. Esse apostador vai deixar de gastar na bet e vai passar a gastar em outra coisa. Teve também o reajuste de 15% Bolsa Família, com impacto de R$ 22 bilhões em 2027... Isso vai ter que ser acomodado no Orçamento. É uma escolha alocativa dentro do limite de gastos. Eu vou substituir uma despesa por outra, porque eu tenho um limite de gasto. A priori, o impacto no primário é zero, mas se eu estiver substituindo uma despesa com baixo multiplicador, com baixo efeito distributivo, por uma despesa com alto multiplicador, alto efeito distributivo, eu posso estar melhorando o primário, em vez de piorar. O fato de ter um Orçamento com um pouco mais de espaço de discricionária nos dá conforto de fazer ajuste. Mas isso não é contraditório com o discurso da equipe econômica de reduzir a rigidez orçamentária? Já mostramos que nossa agenda é essa (reduzir rigidez), tanto que ela gerou efeito. Tem um jeito fácil de reduzir, que foi feito e não deu muito certo nos últimos governos: congela todas as despesas obrigatórias de transferência social. Eles (equipe de Flávio) falam que vão cortar R$ 200 bilhões sem cortar nada. É evidente que tem um problema nessa proposta. Qualquer pessoa que está propondo cortar R$ 200 bilhões vai ter que encontrar uma realidade: onde é que tem espaço orçamentário para isso? Onde há volume de recursos que você pode realocar e cortar para chegar em R$ 200 bilhões: na assistência social, na Previdência Social e nos benefícios sociais. Esse também não é um problema para o governo atual? O projeto de lei de diretrizes orçamentárias (LDO) prevê elevar o resultado para um superávit de 1,5% do PIB ao fim do mandato. Isso exige um ajuste de cerca de dois pontos do PIB ao longo do período. Como atingir? Mas não temos a premissa de cortar R$ 200 bilhões. O ajuste (ao longo do mandato) vai demandar esforço, tanto do lado da receita quanto do lado da despesa. Fizemos um ajuste de 2% do PIB neste governo. Começamos com déficit de 2,3% do PIB e estamos entregando com 0,4% do PIB, 0,5% do PIB. É viável chegar a um superávit de 1,5% do PIB mantendo a política atual de valorização do salário mínimo, como o presidente Lula já disse que pretende fazer? É, desde que tenhamos uma política econômica capaz de sustentar um nível de crescimento e de geração de oportunidades que seja compatível com essa meta. A principal variável da arrecadação não é a alíquota dos impostos. É a atividade econômica. É possível aumentar a arrecadação sem elevar impostos, por meio do crescimento e da formalização. E te garanto uma coisa. Cortando R$ 200 bilhões do orçamento, não vai se manter o ritmo de crescimento e de emprego. Pode escrever. O governo trabalha com crescimento do PIB de 2,5% em 2026. Como é possível atingir isso nesse cenário de esforço fiscal? Concordo que é desafiador a gente chegar em 2030 com um superávit de 1,5% (do PIB). Agora, para ter alguma chance de cumprir isso aqui, não pode olhar para o seu orçamento e falar: já sei, eu corto R$ 200 bilhões e pronto, não tem impacto econômico e social nenhum (como propõe a campanha de Flávio). Se somar, PAC, que são R$ 56 bilhões de investimentos, Pé-de-Meia, Gás do Povo, Minha Casa, Minha Vida, Mais Médicos, dá R$ 90 bilhões. Não dá nem metade. A outra metade só pode vir de um lugar, dos grandes números. Vai ter que cortar a Previdência, BPC. E quanto você perde de arrecadação com a recessão que você contratou? Que é o que o (Javier) Milei fez. O que pode acontecer num país como o Brasil, um país extremamente desigual, mais desigual que a Argentina? Mesmo acomodando tudo dentro das regras fiscais, há uma crítica de que houve um vale-tudo agora nessa reta final da eleição. Isso aconteceu? Não, eu não vejo um vale-tudo eleitoral. Esse governo foi marcado esse tempo todo por muitas políticas e muitos anúncios. Criamos uma série de políticas públicas que, pela primeira vez, estão chegando num grupo social mais da classe D, da classe C, classe trabalhadora, seja formal, informal, empreendedora ou não. O presidente Lula entende a necessidade de a gente dialogar com o que alguns chamam de nova classe média, nova classe trabalhadora. O governo lançou no mês passado o Desenrola 3.0, segunda iniciativa de renegociação de dívidas deste ano. Não pode criar a lógica do Refis, que as pessoas esperam alguém “salvá-las”? Nós vivemos, ao longo desses anos, um período de taxa de juros muito alta. Em 2023, chegamos com 13,75% e agora está em 13,75%. Esse período foi combinado com uma mudança estrutural no mercado de crédito, com a entrada de novos players, players digitais, que ofereceram muito crédito para as famílias e para as empresas. Isso gerou um endividamento grande. O que precisamos fazer agora é ajudar no processo de desalavancagem. O governo arrecada recursos públicos para fazer políticas públicas que tenham um impacto positivo nos temas que machucam a sociedade. Quais são os temas que machucam a sociedade hoje? O endividamento é um deles? Então, vamos alocar recursos públicos para tentar resolver isso.",
-      "url": "https://oglobo.globo.com/economia/fabio-graner/post/2026/10/anuncios-do-governo-nao-comprometem-trajetoria-de-ajuste-fiscal-diz-numero-2-do-planejamento.ghtml",
-      "published": "2026-10-14T08:00:01+00:00",
+      "title": "Anvisa aprova novo medicamento para câncer de pulmão avançado",
+      "summary": "Anvisa aprova novo medicamento para câncer de pulmão avançado &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/10/anvisa-aprova-novo-medicamento-para-cancer-de-pulmao-avancado.shtml",
+      "published": "2026-10-21T00:34:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:folha.uol.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Bolsa Família volta a pautar campanha após falas de Flávio e cotada a ministra abastecerem ataques de Lula",
+      "summary": "Propostas da equipe de Flávio Bolsonaro (PL) para o Bolsa Família distorcidas nas redes sociais, somadas a publicações antigas em que o senador o chamava de “bolsa-farelo”, colocaram a política de transferência de renda no centro do embate político na reta final da campanha. Enquanto o presidente Luiz Inácio Lula da Silva (PT) passou a afirmar que o benefício pago a 49,4 milhões de pessoas poderá ser extinto se o adversário vencer, o candidato do PL atuou para conter o desgaste ao negar nas redes que o programa vai acabar, se for eleito, e deve levar o tema para a propaganda na TV. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/21/bolsa-familia-volta-a-pautar-campanha-apos-falas-de-flavio-e-cotada-a-ministra-abastecerem-ataques-de-lula.ghtml",
+      "published": "2026-10-21T06:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Caixa não deve acionar na Justiça devedores do novo Desenrola do governo Lula",
+      "summary": "A Caixa Econômica Federal, responsável por executar a terceira versão do Desenrola Brasil, não deve acionar a Justiça para obrigar o devedor a quitar a nova dívida, segundo interlocutores do banco. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/21/caixa-nao-deve-acionar-na-justica-devedores-do-novo-desenrola-do-governo-lula.ghtml",
+      "published": "2026-10-21T07:00:00+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
-        "bolsa família",
         "desenrola"
       ],
       "matches": [
         {
           "sector": "Economia",
           "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
+          "field": "title",
+          "score": 20,
           "topic": "desenrola"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "“O Brasil É Magnífico no Agro, Mas Também Poderia Ser no Turismo”, Diz CEO da Latam",
+      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Durante o Forbes Power Lunch Melhores CEOs 2026, Jerome Cadier falou sobre os desafios da liderança da companhia aérea, a virada após o processo de recuperação judicial e o cenário econômico no Brasil O post “O Brasil É Magnífico no Agro, Mas Também Poderia Ser no Turismo”, Diz CEO da Latam apareceu primeiro em Forbes Brasil .",
+      "url": "https://forbes.com.br/carreira/2026/10/o-brasil-e-magnifico-no-agro-mas-tambem-poderia-ser-no-turismo-diz-ceo-da-latam",
+      "published": "2026-10-21T08:00:00+00:00",
+      "source": "https://forbes.com.br/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Nem só de panetone vive o Natal da Kopenhagen: tem até bolsa puffer",
+      "summary": "Bolsa estilo puffer, kits presenteáveis e panetones com recheios que vão da combinação de geleia de frutas vermelhas com chocolate meio amargo aos tradicionais sabores Lajotinha e Língua de Gato. Essas foram algumas das novidades apresentadas no evento de lançamento da campanha de Natal da Kopenhagen, na última segunda-feira. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/10/nem-so-de-panetone-vive-o-natal-da-kopenhagen-tem-ate-bolsa-puffer.ghtml",
+      "published": "2026-10-21T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "kopenhagen"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "kopenhagen",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Prejuízo com roubo de canetas para emagrecimento leva farmácias a se unir à polícia",
+      "summary": "Prejuízo com roubo de canetas para emagrecimento leva farmácias a se unir à polícia &nbsp;&nbsp; InfoMoney",
+      "url": "https://www.infomoney.com.br/minhas-financas/prejuizo-com-roubo-de-canetas-emagrecedoras-leva-farmacias-se-unir-a-policia",
+      "published": "2026-10-21T09:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "7 For All Mankind amplia lojas no Brasil para emplacar jeans de R$ 2 mil",
+      "summary": "A grife americana 7 For All Mankind escolheu o Brasil para ser um dos principais mercados para o crescimento global da companhia, que se tornou conhecida pelas calças jeans vendidas a mais de R$ 2 mil. A empresa vê potencial no mercado de luxo do país, que pode saltar de 7% para até 12% do negócio global da marca e superar a casa dos R$ 100 milhões de faturamento até 2029, quando completa 10 anos no país. A principal parte da estratégia é a ampliação de lojas físicas no Brasil. Nos próximos quatro anos, a marca de moda quer inaugurar quatro novas unidades em Goiânia, Recife, Curitiba e Porto Alegre, uma em cada capital. Atualmente, a companhia está fincada principalmente no Sudeste, com cinco lojas em São Paulo, duas no Rio e uma em Brasília. Farm recebe propostas até o fim do mês e atrai fundos de private equity A vida após Azzas: Baw Clothing quer exterior e sócios influenciadores A 7 For All Mankind vê ainda espaço para inaugurar a primeira loja de rua da grife no Brasil. De fora do cronograma de inaugurações, o ponto deve ser aberto na capital paulista e vai ser utilizado principalmente para eventos corporativos da marca, ações culturais e marketing. “Para a imagem da marca, é melhor. Para as vendas, não”, diz o empresário Esber Hajli, CEO e sócio da 7 For All Mankind no Brasil. Loja no VillageMall, no Rio: marca ficou conhecida pelo denim Divulgação A marca quer crescer também em lojas multimarcas, como Grupo Nadia e Twin Set, passando de 100 para 150 pontos. No Brasil, não há planos de adotar o modelo de franquias, e o e-commerce não entra na espinha dorsal da estratégia. “O varejo físico é a nossa estratégia. O e-commerce é importante, mas, para o nosso segmento, ainda acredito em provar o produto\", diz Hajli. \"A calça jeans é complicada porque tem modelagem e temos uma coleção muito ampla. Nas nossas lojas, o vendedor já sabe qual peça indicar, e assim o cliente não prova 45 calças. Essa experiência só se tem fisicamente.” A grife nasceu em 2000 em Los Angeles, uma novata entre as grifes, mas Esber Hajli é um velho conhecido no varejo. O paulistano começou a carreira como vendedor na italiana Fiorucci, que no país era comandada pela estilista Glória Kalil nos anos 1980. Vinte anos depois, ele trouxe a também italiana Diesel, em 2000, permanecendo na companhia até meados de 2015, e é sócio da grife britânica Fred Perry e distribuidor da marca de moda masculina no Brasil. Família Hering quer a marca de volta e contrata BR Partners para negociar com Azzas 'Não prevemos o futuro, criamos o futuro', diz CEO da Oakley Em 2019, o empresário negociou a expansão da 7 For All Mankind no país, onde a marca era distribuída desde 2008 sem operação local. No acordo, Hajli e um grupo de amigos detêm 49% da operação, enquanto a matriz americana possui o controle. Ele assumiu um negócio com faturamento anual de R$ 6 milhões, ante os R$ 65 milhões de hoje, e nenhuma loja no país – e logo depois uma pandemia. “Estou acostumado a ver o Brasil entrar em crise, mas na pandemia o país não entrou sozinho e infelizmente veio para o mundo inteiro. Mas recebemos muita ajuda da matriz”, diz o brasileiro. Hajli ocupa uma cadeira no conselho de produtos da 7 For All Mankind. Veio dele, por exemplo, a sugestão de aumentar a coleção de peças \"ready to wear\", uma iniciativa abraçada pela americana para aumentar o faturamento global com venda de um guarda-roupa completo, incluindo camisetas, camisas e blusas com tamanhos definidos, por exemplo -- enquanto o denim mantém produção dedicada mais próxima à alta costura. “Por mais que nosso jeans seja espetacular, você morre se vender sempre a mesma coisa. Tem que ser uma marca de lifestyle, e isso o ready to wear permite”, explica ele. Após um século no multimarcas, Trussardi investe em lojas próprias 'Cafona é ser blasé', diz Katia Barros, a contadora que redescobriu o lápis de cor para criar a Farm A coleção completa com essas novas categorias estreou em fevereiro passado, assinada pelo estilista Nicola Brognano, que se tornou diretor criativo da marca. No Brasil, já representa 20% das vendas e a perspectiva dé chegar a 30%, reduzindo mais um pouco a participação da venda de calças. No mundo, a categoria está engatinhando, com 10%. “É um dedo do Brasil. Para mim, é um orgulho”, diz Hajli. Esber Hajli, que trouxe a Diesel para o Brasil, virou sócio da 7 For All Mankind no Brasil Divulgação",
+      "url": "https://pipelinevalor.globo.com/negocios/noticia/7-for-all-mankind-amplia-lojas-no-brasil-para-emplacar-jeans-de-r-2-mil.ghtml",
+      "published": "2026-10-21T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/pipelinevalor",
+      "matched_sectors": [
+        "Fashion",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "hering",
+        "luxo",
+        "mercado de luxo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "hering",
+          "field": "body",
+          "score": 2,
+          "topic": null
         },
         {
-          "sector": "Economia",
-          "alias": "bolsa família",
+          "sector": "Global Consumer",
+          "alias": "mercado de luxo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
           "field": "lead",
           "score": 8,
           "topic": null
         }
       ],
-      "score": 16.0
+      "score": 18.0
     },
     {
       "title": "Samsung lança maior tablet de sua história e muda estratégia para conquistar usuários",
@@ -11231,52 +11373,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Na contramão dos EUA, Starbucks retoma expansão no Brasil e prevê 32 novas lojas em 2026",
-      "summary": "Enquanto fecha lojas nos Estados Unidos , a Starbucks acelera sua expansão no Brasil após um período de estagnação provocado pela recuperação judicial de sua antiga operadora no país. Leia mais (10/14/2026 - 04h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/na-contramao-dos-eua-starbucks-retoma-expansao-no-brasil-e-preve-32-novas-lojas-em-2026.shtml",
-      "published": "2026-10-14T07:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "recuperação judicial"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "recuperação judicial",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Ela criou um salão de beleza para quem vive atrasada — e construiu um negócio de R$ 30 milhões",
-      "summary": "Aberto em 2018, o Stylebar oferece serviços rápidos de beleza, como escova, maquiagem e manicure, sem corte ou procedimentos químicos, e aposta em novos formatos de franquia e na expansão para outras regiões do país",
-      "url": "https://exame.com/negocios/ela-criou-um-salao-de-beleza-para-quem-vive-atrasada-e-construiu-um-negocio-de-r-30-milhoes",
-      "published": "2026-10-14T08:01:12+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "maquiagem"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Dona da Consul e Brastemp quer que o brasileiro troque o lixo da pia pelo triturador",
@@ -12837,6 +12933,52 @@
         {
           "sector": "Economia",
           "alias": "massa salarial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Aliado de Flávio Bolsonaro admite ser sócio de operadora da Loterj em e-mail obtido pela PF",
+      "summary": "A Polícia Federal (PF) encontrou no material apreendido no celular do advogado Willer Tomaz, amigo próximo do presidenciável Flávio Bolsonaro (PL), um e-mail no qual ele admite a uma instituição financeira ser sócio da Rio Pag, operadora dos pagamentos de apostas de lotéricas e bets da Loteria do Estado do Rio de Janeiro (Loterj). O serviço, sobre o qual hoje pesam suspeitas de irregularidades, era prestado através de um contrato controverso firmado na gestão de Cláudio Castro (PL), também aliado de Flávio, quando a autarquia era presidida por um advogado que atuava com Willer em tribunais superiores. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/malu-gaspar/post/2026/10/aliado-de-flavio-bolsonaro-admite-ser-socio-de-operadora-da-loterj-em-e-mail-obtido-pela-pf.ghtml",
+      "published": "2026-10-21T03:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "The big business of personal shopping",
+      "summary": "From sourcing rare Hermès bags to organising last-minute gifts, independent personal shoppers will go to extraordinary lengths to keep wealthy clients happy",
+      "url": "https://www.ft.com/content/ebe39982-d00f-4075-b6e6-e6498d0c90e4?syn-25a6b1a6=1",
+      "published": "2026-10-21T04:00:04+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "hermès"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "hermès",
           "field": "lead",
           "score": 8,
           "topic": null
