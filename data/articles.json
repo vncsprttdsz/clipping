@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T09:19:44.111041+00:00",
-  "count": 447,
-  "new_this_run": 8,
+  "generated_at": "2026-10-23T09:28:40.578993+00:00",
+  "count": 449,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Magalu estreia na Shopee para ampliar vendas on-line",
@@ -2952,6 +2952,37 @@
       "score": 40.0
     },
     {
+      "title": "Apple launches into foldable market as iPhone Duo sales begin",
+      "summary": "Apple launches into foldable market as iPhone Duo sales begin &nbsp;&nbsp; Reuters",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMTlwRzRMSWgwZGFjeWp0bG01c2c1WUkxckYtOGR3MUhieUYwZUwxRVNHdFBCbWUwSm02TWgzdG5fRGxEX0U1TUtvUnF5bGpXQkRaN1lnbmJZeTVuZmZzS21ob0FTMnBYekcySDlic3VVUE0ySjZTOHhJR2V1RzlmN09ZdDh1Mlg1a0N3dXR5ckstOW13Mk91YjJOcmdqNkd3dFR1MzhKYmFORFItakQyMTltekVOaVQyc0ZMSm5B?oc=5",
+      "published": "2026-10-22T20:03:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "apple",
+        "iphone"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "apple",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "iphone",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Ação para excluir IBS/CBS da base dos tributos atuais vale a pena?",
       "summary": "Algumas empresas têm obtido decisões liminares favoráveis à exclusão da CBS (Contribuição sobre Bens e Serviços) e do IBS (Imposto sobre Bens e Serviços) da base de cálculo do ICMS, mas especialistas alertam que tais determinações judiciais não dispensam o pagamento do tributo e nem garantem a recuperação de valores caso este tenha sido pago. Leia mais (10/23/2026 - 04h00)",
       "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/10/acao-para-excluir-ibscbs-da-base-dos-tributos-atuais-vale-a-pena.shtml",
@@ -4126,6 +4157,38 @@
           "field": "title",
           "score": 20,
           "topic": "desenrola"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Vendas no varejo do Reino Unido caem 0,4% em setembro com clima e contenção",
+      "summary": "Os volumes de vendas no varejo do Reino Unido caíram 0,4% na comparação mensal em setembro de 2026, recuo mais acentuado do que a queda de 0,1% esperada pelo mercado, após uma alta revisada para cima de 0,7% em agosto. As varejistas de vestuário online reportaram uma demanda mais fraca por coleções de outono e inverno em meio a um clima atipicamente quente, enquanto o menor fluxo de clientes e a contenção de gastos dos consumidores pesaram sobre as lojas de roupas, calçados, artigos esportivos e artigos para o lar. As vendas de supermercados também declinaram após registrarem alta em julho e agosto. No geral, os volumes de vendas de lojas não alimentícias caíram 0,4%. Em contrapartida, as vendas de combustíveis automotivos subiram, apesar dos preços mais elevados. No terceiro trimestre, os volumes de vendas no varejo avançaram 0,7% na comparação trimestral e 1,5% na comparação anual, sustentados pelas vendas de combustíveis e de lojas de alimentos, enquanto o clima quente, promoções e a Copa do Mundo impulsionaram as vendas de bebidas alcoólicas e não alcoólicas. Na comparação anual, o volume de vendas no varejo subiu 0,8% em setembro, abaixo do crescimento de 1% esperado pelo mercado e desacelerando em relação à alta de 2,7% registrada em agosto.",
+      "url": "https://valor.globo.com/mundo/noticia/2026/10/23/vendas-no-varejo-do-reino-unido-caem-04percent-em-setembro-com-clima-e-contencao.ghtml",
+      "published": "2026-10-23T09:21:47+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Economia",
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "artigos esportivos",
+        "vendas no varejo"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vendas no varejo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "artigos esportivos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
         }
       ],
       "score": 28.0
