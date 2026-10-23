@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T09:39:53.112367+00:00",
-  "count": 448,
-  "new_this_run": 8,
+  "generated_at": "2026-10-23T10:16:12.817829+00:00",
+  "count": 450,
+  "new_this_run": 13,
   "articles": [
     {
       "title": "Magalu estreia na Shopee para ampliar vendas on-line",
@@ -796,53 +796,6 @@
         }
       ],
       "score": 52.0
-    },
-    {
-      "title": "Homem de 63 anos afirma ter ficado cego após usar Ozempic e processa fabricante do medicamento nos EUA",
-      "summary": "Um americano de 63 anos afirma ter perdido completamente a visão após usar Ozempic, medicamento indicado para o tratamento do diabetes tipo 2. Todd Engel, morador do estado de Maryland, nos Estados Unidos, diz que desenvolveu uma doença que compromete o nervo óptico cerca de quatro meses depois de iniciar o tratamento, em 2023. Ele entrou com uma ação judicial contra a farmacêutica Novo Nordisk, fabricante do remédio, sob a alegação de que a empresa não alertou adequadamente pacientes e médicos sobre o possível risco. Veja também: Pai denuncia uso excessivo de telas após filho assistir a 120 vídeos do YouTube na escola nos EUA Leia mais: Gêmeos siameses equatorianos morrem aos 27 anos na Colômbia Engel contou à emissora Fox News que percebeu a perda de visão no olho direito na véspera do Ano-Novo de 2024, quando se preparava para ir ao trabalho. Segundo ele, a visão do olho ficou completamente escura. Após passar por exames, recebeu o diagnóstico de neuropatia óptica isquêmica anterior não arterítica (NOIA-NA), uma condição associada à redução do fluxo sanguíneo para o nervo óptico, que pode provocar perda súbita e permanente da visão. Cerca de dez meses depois, Engel sofreu uma perda semelhante no olho esquerdo. Segundo o relato, os médicos disseram que não havia tratamento medicamentoso ou cirurgia capaz de recuperar sua visão. Ele interrompeu o uso do Ozempic após o segundo episódio. A neuropatia óptica isquêmica anterior não arterítica é conhecida informalmente como um tipo de “derrame ocular”. A condição pode causar danos irreversíveis ao nervo óptico. No caso de Engel, porém, não foi estabelecido que o medicamento tenha provocado a doença. A perda da visão também encerrou a carreira profissional do americano, que trabalhava havia cerca de 40 anos como operador de máquinas pesadas e motorista de caminhão. Ele disse que deixou de realizar atividades cotidianas sem ajuda e passou a usar uma bengala branca para se locomover fora de casa. “Eu não fiquei cego. Tiraram minha visão de mim”, afirmou Engel à Fox News, ao descrever o impacto da condição sobre sua vida e sua família. Ação judicial Engel está entre centenas de pacientes que movem ações nos Estados Unidos contra fabricantes de medicamentos da classe dos agonistas do receptor de GLP-1, como Ozempic e Wegovy, alegando que os produtos provocaram perda de visão associada à NOIA-NA. Os processos sustentam que as empresas não forneceram alertas suficientes sobre o risco. A Novo Nordisk contesta a existência de uma relação causal comprovada entre o uso de semaglutida, princípio ativo do Ozempic, e a doença ocular. Em declaração à Fox News, a empresa afirmou que o conjunto de evidências disponíveis não permite confirmar essa associação. A farmacêutica também citou uma análise de ensaios clínicos randomizados e controlados por placebo, na qual foram identificados poucos casos confirmados de NOIA-NA e não foi observado aumento da incidência entre os pacientes que receberam semaglutida. A empresa afirmou que continua monitorando a condição em seus procedimentos de farmacovigilância e classificou como improcedentes as ações judiciais movidas nos Estados Unidos.",
-      "url": "https://oglobo.globo.com/saude/epoca/noticia/2026/10/16/homem-de-63-anos-afirma-ter-ficado-cego-apos-usar-ozempic-e-processa-fabricante-do-medicamento-nos-eua.ghtml",
-      "published": "2026-10-16T10:10:48+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "novo nordisk",
-        "ozempic",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "novo nordisk",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 50.0
     },
     {
       "title": "Justiça autoriza processo de recuperação judicial da Casas Bahia",
@@ -3014,6 +2967,38 @@
       "score": 40.0
     },
     {
+      "title": "Na Casas Bahia, recuperação judicial abre caminho para crédito novo",
+      "summary": "Companhia negocia mais de uma linha de financiamento DIP com instituições financeiras",
+      "url": "https://exame.com/exame-in/na-casas-bahia-recuperacao-judicial-abre-caminho-para-credito-novo",
+      "published": "2026-10-23T07:00:30+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "AliExpress e YouTube fecham parceria para que os criadores de conteúdo recomendem produtos e recebam comissão por vendas",
       "summary": "O AliExpress fechou uma parceria global com o YouTube para permitir que criadores de conteúdo recomendem produtos de seu marketplace e recebam comissões por vendas. A iniciativa começou em março na Coreia do Sul e vai estar disponível no Brasil a partir desta terça-feira. Mais medidas: governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno Saiba mais: campanha de Flávio promete pagar Bolsa Família por 2 anos após beneficiário conseguir emprego ou abrir negócio Os criadores elegíveis poderão marcar produtos em vídeos, shorts e transmissões ao vivo diretamente pelo YouTube Studio. Ao clicar na recomendação dentro do YouTube, os espectadores poderão acessar os itens recomendados e finalizar a compra no AliExpress. A seleção inclui categorias como eletrônicos, esportes e produtos para casa. No Brasil, a participação será aberta a criadores que cumpram os requisitos do Programa de Afiliados do YouTube Shopping. O diferencial é a integração entre conteúdo e compra. Em vez de o criador apenas exibir uma peça publicitária, o formato permite que ele marque produtos no próprio conteúdo e receba comissão pelo YouTube através do AdSense (plataforma gratuita do Google que permite a criadores de conteúdo, blogueiros e donos de sites ou canais do YouTube monetizarem suas páginas ao exibir anúncios de empresas) por vendas qualificadas geradas pelas recomendações. Segundo Roberto Wajnsztok, sócio-diretor da Gouvêa Consulting, essa tendência de consumo atrelada ao consumo de vídeos está crescendo no mercado. Isso se dá devido principalmente ao protagonismo que o audiovisual ganhou. — Os criadores de conteúdo foram desenvolvendo técnicas para melhorar a exposição e a qualidade desses vídeos, tornando-os mais assertivos na forma como se apresentam, nos assuntos que abordam e na identificação do que gera resultados e do que não funciona. Produzir vídeos nunca foi tão fácil e, logicamente, eles convertem muito mais do que imagens estáticas — analisa Wajnsztok. Nos anos anteriores o consumidor costumava entrar em um site, procurar um produto e encontrar uma foto acompanhada de um texto. Essa experiência foi substituída por uma experiência em vídeo, na qual são destacados os principais atributos do produto e seus diferenciais. Para produtos que não demandam muita explicação, esse formato se encaixa perfeitamente. Os vídeos curtos conseguem apresentar o produto rapidamente e, quando as informações relevantes já foram transmitidas, o consumidor não precisa passar por tantas etapas até a compra. O crescimento do TikTok Shop está muito relacionado ao consumo de vídeos, que atingiu um patamar muito elevado. Diferentemente do TikTok, que desenvolveu um modelo próprio de vendas dentro da plataforma, o Google (que controla o YouTube) não atua diretamente como marketplace. Assim, a parceria entre AliExpress e YouTube busca aproximar os vídeos dos produtos à venda, facilitando o caminho entre o conteúdo e a decisão de compra do consumidor. De acordo com Wajnsztok, o perfil dos vídeos do YouTube é diferente. Embora exista o formato shorts (vídeos curtos), o formato convencional, que tem vídeos mais longos e explicativos, continua sendo relevante. Nesse caso, o consumidor pode assistir a uma apresentação detalhada, até mesmo bastante técnica, sobre o produto e, a partir dessa análise, acessar diretamente o link de compra. – A expectativa é que os produtos comercializados nessa parceria entre AliExpress e YouTube tenham um perfil diferente, possivelmente com maior valor agregado e que demandem mais explicações. Não se trata necessariamente daquele consumo de conteúdo tão rápido – explica. Um vídeo curto, construído para atender a uma necessidade que surge rapidamente na mente do consumidor, tende a gerar uma conversão mais rápida. Já nos vídeos longos, pode ser compensado por uma venda mais racional e consistente, com um ticket médio maior. – O consumidor brasileiro é bastante receptivo a novas experiências de compra, e não vejo nessa iniciativa algo muito diferente daquilo que ele já experimenta atualmente. O perfil dos produtos e o tempo de compra são diferentes. Não podemos esperar o mesmo nível de conversão observado hoje no TikTok Shop, muito menos o mesmo perfil de produtos – observa.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/10/20/aliexpress-e-youtube-fecham-parceria-para-que-os-criadores-de-conteudo-recomendem-produtos-e-recebam-comissao-por-vendas.ghtml",
@@ -4578,29 +4563,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Além das roupas: onde a Track & Field quer buscar crescimento",
-      "summary": "Além das roupas: onde a Track & Field quer buscar crescimento &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/insight/alem-das-roupas-onde-a-track-field-quer-buscar-crescimento/p",
-      "published": "2026-10-16T10:05:14+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "track & field"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "track & field",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Black Friday na era das IAs: como preparar seu e-commerce para a jornada de compra zero clique e conversacional",
@@ -9939,6 +9901,29 @@
       "score": 20.0
     },
     {
+      "title": "Premier League barra bets nas camisas, mas anúncios seguem por toda parte",
+      "summary": "Estudo da Universidade de Bristol identificou mais de 15 mil mensagens de apostas na transmissão da rodada de abertura do Campeonato Inglês, apesar da nova regra",
+      "url": "https://exame.com/esporte/premier-league-barra-bets-nas-camisas-mas-anuncios-seguem-por-toda-parte",
+      "published": "2026-10-23T06:50:03+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "iPhone Duo começa a ser vendido nesta sexta (23) no Brasil; veja preços e ofertas",
       "summary": "O iPhone Duo, primeiro celular dobrável da Apple , começa a ser vendido no Brasil nesta sexta-feira (23). O aparelho custa a partir de R$ 22 mil e chega a R$ 31 mil na versão com 2 TB de armazenamento. Leia mais (10/23/2026 - 04h00)",
       "url": "https://www1.folha.uol.com.br/tec/2026/10/iphone-duo-comeca-a-ser-vendido-nesta-sexta-23-no-brasil-veja-precos-e-ofertas.shtml",
@@ -10046,6 +10031,52 @@
         {
           "sector": "Farmácias",
           "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Google quer reinventar o carrinho de compras. E o seu e-commerce está preparado?",
+      "summary": "Google quer reinventar o carrinho de compras. E o seu e-commerce está preparado? &nbsp;&nbsp; E-Commerce Brasil",
+      "url": "https://www.ecommercebrasil.com.br/artigos/google-quer-reinventar-o-carrinho-de-compras-e-o-seu-e-commerce-esta-preparado",
+      "published": "2026-10-23T10:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Mercado de remédios para emagrecer em China, Índia e Brasil pode chegar a US$ 22 bi até 2035",
+      "summary": "O mercado combinado de medicamentos para perda de peso na China, Índia e Brasil pode crescer para US$ 22 bilhões até 2035, ante os US$ 6,6 bilhões atuais, estimou o J.P. Morgan, à medida que a melhora na acessibilidade financeira e o acesso mais amplo impulsionam a adoção em populações de pacientes em grande parte inexploradas. O mercado endereçável pode crescer a uma taxa anual de 15% até 2035, disseram analistas do J.P. Morgan liderados por Yang Huang em nota nesta sexta-feira, considerando os elevados índices de diabetes e obesidade desses países. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/23/mercado-de-remedios-para-emagrecer-em-china-india-e-brasil-pode-chegar-a-us-22-bi-ate-2035.ghtml",
+      "published": "2026-10-23T10:05:57+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "remédios para emagrecer"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "remédios para emagrecer",
           "field": "title",
           "score": 20,
           "topic": null
@@ -10776,29 +10807,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "RecargaPay troca gestão financeira para se preparar para IPO nos EUA",
-      "summary": "A RecargaPay, fintech de pagamento de origem argentina, acaba de trocar sua gestão financeira mirando um IPO (abertura de capital na bolsa de valores ) nos Estados Unidos . Com isso, a empresa segue o movimento de outras companhias do segmento, como Nubank e Inter . Leia mais (10/16/2026 - 07h01)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/10/recargapay-troca-gestao-financeira-para-se-preparar-para-ipo-nos-eua.shtml",
-      "published": "2026-10-16T10:01:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Tac Tacs chega a novas plataformas de streaming",
@@ -12244,6 +12252,29 @@
         {
           "sector": "Farmácias",
           "alias": "farmácia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Steal The Look projeta expansão de 20% no faturamento deste ano",
+      "summary": "A Steal The Look, empresa que nasceu como um site de moda, projeta expansão do faturamento superior a 20% neste ano, após crescer 20% entre 2024 e 2025. Sua principal fonte de receita é a produção de conteúdo publicitário e campanhas para marcas. Nos últimos 12 meses, a empresa registrou 170 clientes fixos, entre eles Olympikus, L’Oréal, Pampers e Ambev. O faturamento não é divulgado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/10/23/steal-the-look-projeta-expansao-de-20percent-no-faturamento-deste-ano.ghtml",
+      "published": "2026-10-23T10:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Wellness e Esportes"
+      ],
+      "matched_aliases": [
+        "olympikus"
+      ],
+      "matches": [
+        {
+          "sector": "Wellness e Esportes",
+          "alias": "olympikus",
           "field": "lead",
           "score": 8,
           "topic": null
