@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T09:40:45.974752+00:00",
+  "generated_at": "2026-10-24T11:36:21.953619+00:00",
   "count": 496,
-  "new_this_run": 6,
+  "new_this_run": 7,
   "articles": [
     {
       "title": "Exclusivo: Lancôme estreia no TikTok Shop, segunda marca de luxo da L’Oréal na plataforma",
@@ -4515,6 +4515,37 @@
           "field": "lead",
           "score": 8,
           "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Antecipação de recebíveis: como a reforma tributária muda o custo do crédito em 2027",
+      "summary": "Reforma tributária, CBS e duplicata escritural exigem novos critérios para calcular valores e riscos na antecipação de títulos",
+      "url": "https://exame.com/bussola/antecipacao-de-recebiveis-em-2027-como-a-reforma-muda-o-preco-do-credito",
+      "published": "2026-10-24T07:00:23+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
         }
       ],
       "score": 28.0
@@ -10576,29 +10607,6 @@
           "field": "title",
           "score": 20,
           "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Sem rito definido, Senado discutirá alíquotas de referência da CBS no pós-eleições",
-      "summary": "TCU precisa enviar os cálculos até o fim de outubro, mas o regimento da Casa não diz qual comissão analisará a resolução",
-      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/sem-rito-definido-senado-discutira-aliquotas-de-referencia-da-cbs-no-pos-eleicoes",
-      "published": "2026-10-23T17:37:11+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "cbs"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
         }
       ],
       "score": 20.0
