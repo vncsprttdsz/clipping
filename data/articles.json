@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T12:40:38.264027+00:00",
-  "count": 488,
-  "new_this_run": 5,
+  "generated_at": "2026-10-25T12:50:07.561109+00:00",
+  "count": 489,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Exclusivo: Lancôme estreia no TikTok Shop, segunda marca de luxo da L’Oréal na plataforma",
@@ -10859,6 +10859,29 @@
         {
           "sector": "E-commerce",
           "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "C&A amplia conceito Energia em loja de 2.400 m² no Espírito Santo",
+      "summary": "C&amp;A amplia conceito Energia em loja de 2.400 m² no Espírito Santo &nbsp;&nbsp; Mercado&amp;Consumo",
+      "url": "https://mercadoeconsumo.com.br/25/10/2026/noticias-varejo/ca-amplia-conceito-energia-em-loja-de-2-400-m%C2%B2-no-espirito-santo",
+      "published": "2026-10-25T12:00:48+00:00",
+      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "c&a"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "c&a",
           "field": "title",
           "score": 20,
           "topic": null
