@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T09:15:38.164226+00:00",
+  "generated_at": "2026-10-25T09:17:33.813640+00:00",
   "count": 487,
-  "new_this_run": 12,
+  "new_this_run": 4,
   "articles": [
     {
       "title": "Exclusivo: Lancôme estreia no TikTok Shop, segunda marca de luxo da L’Oréal na plataforma",
@@ -4577,6 +4577,38 @@
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Nissei amplia portfólio de beleza com marca sul-coreana de skincare",
+      "summary": "O Grupo Nissei ampliou sua atuação no segmento de beleza com a chegada da PrettySkin, marca sul-coreana de cuidados com a pele que passa a ser comercializada com exclusividade no canal farmacêutico pela rede. O lançamento ocorreu em 9 de outubro, no Nissei Beauty Center, localizado no Conjunto Nacional, em São Paulo, e no e-commerce [&#8230;] O post Nissei amplia portfólio de beleza com marca sul-coreana de skincare apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/24/10/2026/noticias-varejo/nissei-amplia-portfolio-de-beleza-com-marca-sul-coreana-de-skincare",
+      "published": "2026-10-24T22:50:52+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "e-commerce",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
         }
       ],
       "score": 28.0
@@ -10796,29 +10828,6 @@
         {
           "sector": "E-commerce",
           "alias": "nu holdings",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nissei amplia portfólio de beleza com marca sul-coreana de skincare",
-      "summary": "Nissei amplia portfólio de beleza com marca sul-coreana de skincare &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/tag/prettyskin",
-      "published": "2026-10-24T23:58:11+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
           "field": "title",
           "score": 20,
           "topic": null
