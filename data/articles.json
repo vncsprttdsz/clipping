@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T00:21:15.675706+00:00",
-  "count": 482,
-  "new_this_run": 9,
+  "generated_at": "2026-10-25T09:12:36.801519+00:00",
+  "count": 487,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Exclusivo: Lancôme estreia no TikTok Shop, segunda marca de luxo da L’Oréal na plataforma",
@@ -3113,6 +3113,37 @@
       "score": 40.0
     },
     {
+      "title": "Amazon cloud capacity sold out through 2027, CEO Jassy says",
+      "summary": "Amazon cloud capacity sold out through 2027, CEO Jassy says &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/retail-consumer/amazon-cloud-capacity-sold-out-through-2027-ceo-jassy-says-2026-10-23",
+      "published": "2026-10-23T23:07:43+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Split payment da reforma tributária deve ter baixo impacto no caixa, dizem economistas",
       "summary": "O split payment previsto na reforma tributária terá pouco impacto no caixa das empresas brasileiras e pode ajudar a reduzir a alíquota dos novos impostos, segundo economistas ouvidos pela Folha . Leia mais (10/23/2026 - 23h00)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/10/split-payment-da-reforma-tributaria-deve-ter-baixo-impacto-no-caixa-dizem-economistas.shtml",
@@ -3136,6 +3167,69 @@
         {
           "sector": "Economia",
           "alias": "split payment",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Por que o uso de canetas emagrecedoras está afetando as vendas de produtos de beleza, segundo a L'Oreal",
+      "summary": "Por que o uso de canetas emagrecedoras está afetando as vendas de produtos de beleza, segundo a L'Oreal &nbsp;&nbsp; BBC",
+      "url": "https://www.bbc.com/portuguese/articles/cmvgx59k2kplo",
+      "published": "2026-10-25T02:15:11+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Cosméticos",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras",
+        "l'oréal"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "l'oréal",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Quando pagar IBS e CBS pode ser vantajoso para o condomínio?",
+      "summary": "Condomínios terão três regimes possíveis — e pagar o tributo pode até compensar",
+      "url": "https://www.jota.info/opiniao-e-analise/artigos/quando-pagar-ibs-e-cbs-pode-ser-vantajoso-para-o-condominio",
+      "published": "2026-10-25T08:00:45+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": "reforma_tributaria"
+        },
+        {
+          "sector": "Economia",
+          "alias": "cbs",
           "field": "title",
           "score": 20,
           "topic": "reforma_tributaria"
@@ -3550,37 +3644,6 @@
         }
       ],
       "score": 32.0
-    },
-    {
-      "title": "O maior desafio institucional da reforma tributária",
-      "summary": "Receita Federal e Comitê Gestor do IBS irão enxergar a mesma operação de forma igual?",
-      "url": "https://www.jota.info/opiniao-e-analise/artigos/o-maior-desafio-institucional-da-reforma-tributaria",
-      "published": "2026-10-18T08:20:08+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "ibs",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "ibs",
-          "field": "lead",
-          "score": 8,
-          "topic": "reforma_tributaria"
-        },
-        {
-          "sector": "Economia",
-          "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
-          "topic": "reforma_tributaria"
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "A reforma tributária no orçamento das empresas em 2027",
@@ -4519,6 +4582,38 @@
       "score": 28.0
     },
     {
+      "title": "Nissei amplia portfólio de beleza com marca sul-coreana de skincare",
+      "summary": "O Grupo Nissei ampliou sua atuação no segmento de beleza com a chegada da PrettySkin, marca sul-coreana de cuidados com a pele que passa a ser comercializada com exclusividade no canal farmacêutico pela rede. O lançamento ocorreu em 9 de outubro, no Nissei Beauty Center, localizado no Conjunto Nacional, em São Paulo, e no e-commerce [&#8230;] O post Nissei amplia portfólio de beleza com marca sul-coreana de skincare apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/24/10/2026/noticias-varejo/nissei-amplia-portfolio-de-beleza-com-marca-sul-coreana-de-skincare",
+      "published": "2026-10-24T22:50:52+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "e-commerce",
+        "skincare"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "skincare",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Prudential venderá unidades no Brasil e no México para francesa CNP por US$ 4 bi",
       "summary": "A Prudential Financial concordou em vender suas operações no Brasil e no México para o grupo francês CNP em uma transação de US$ 4 bilhões. O negócio deverá ser concluído no segundo semestre de 2027, sujeito à obtenção das autorizações regulatórias, segundo comunicado divulgado nesta terça-feira. Novidade: AliExpress fecha parceria com YouTube para ampliar vendas a partir de vídeos Processo encerrado: Após quase quatro anos, Americanas sai de recuperação judicial Os recursos obtidos com a venda serão usados para apoiar o negócio de gestão de ativos da Prudential, especialmente suas operações em investimentos alternativos privados, bem como seu negócio de seguros coletivos e investimentos em mercados de previdência selecionados na Europa, afirmou o presidente-executivo Andrew Sullivan em entrevista nesta terça-feira. — Estamos trabalhando ativamente em aquisições nessas três áreas para tornar a empresa mais focada — disse Sullivan. A Prudential vem reduzindo sua presença geográfica e realocando recursos para negócios menos dependentes de capital, como forma de impulsionar os resultados. Em uma atualização estratégica no início deste ano, Sullivan havia estabelecido inicialmente a meta de levantar mais de US$ 3 bilhões com essas vendas de ativos. “Esta transação posiciona a Prudential do Brasil e a Prudential do México para continuar obtendo bons resultados sob o controle de um proprietário comprometido com seus clientes, funcionários e parceiros de distribuição”, afirmou Sullivan em nota. “Continuamos concentrados em reduzir nossa presença geográfica e construir uma Prudential mais simples e focada.\" Na semana do 2º turno: Com antecipação do Bolsa Família, reajuste pode ser questionado? Veja o que dizem especialistas Sediada em Newark, Nova Jersey, a Prudential, maior companhia de seguros do Reino Unido, vem buscando simplificar suas operações por meio da venda de ativos em mercados emergentes. Sullivan está reduzindo a presença geográfica da empresa e realocando recursos para negócios menos dependentes de capital, como forma de impulsionar os resultados. Após anunciar a venda de participações em joint ventures na Indonésia, na África do Sul e no Quênia, a Prudential já se retirou de cerca de 60% dos mercados emergentes dos quais pretende sair, segundo Sullivan. Índia, Gana e China ainda estão na lista. Para a CNP, o negócio ajudará a seguradora de vida francesa a expandir sua atuação na América Latina, diversificando seus canais de distribuição e sua oferta de seguros no Brasil, seu segundo maior mercado, além de ingressar no México. Fraude no INSS: Governo gasta R$ 3,6 bi para ressarcir aposentados e ainda não recuperou recursos No Brasil, a CNP conquistou espaço historicamente por meio de uma parceria com a Caixa Econômica Federal, instituição financeira estatal e uma das maiores do país em volume de ativos. Inicialmente, a parceria abrangia todos os seguros comercializados por meio da Caixa, mas, em 2021, seu escopo foi limitado aos segmentos de seguros de vida, previdência e planos de parcelamento coletivo, levando a CNP a buscar novos canais de distribuição. O negócio “representa um grande avanço em nosso desenvolvimento na América Latina”, afirmou a presidente-executiva da CNP, Marie-Aude Thépaut, em comunicado separado. “Ficamos particularmente impressionados com as capacidades desses negócios.” Entrevista: ‘Não dissociamos mais vendas de serviços’, diz CEO da Leroy Merlin Brasil No Brasil, “estamos fortalecendo nossa posição em um país estratégico para o grupo, ao mesmo tempo que expandimos nossa atuação para o México, outro mercado com significativo potencial de crescimento”, disse Thépaut. As operações da Prudential no Brasil e no México atraíram o interesse da CNP e da MetLife. A Mapfre também mostrou interesse anteriormente, mas, segundo fontes, não havia certeza de que faria uma oferta, segundo fontes. A japonesa Daiichi decidiu não fazer uma oferta.",
       "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/20/prudential-vendera-unidades-no-brasil-e-no-mexico-para-francesa-cnp-por-us-4-bi.ghtml",
@@ -4966,52 +5061,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Lula aumenta em 5 pontos vantagem sobre Flávio entre beneficiários do Bolsa Família, diz Datafolha",
-      "summary": "A pesquisa Datafolha divulgada na última quinta-feira (15) indica que o reajuste dado pelo governo Lula ao Bolsa Família vem tendo efeito positivo para sua campanha. Leia mais (10/17/2026 - 23h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/painel/2026/10/lula-aumenta-em-5-pontos-vantagem-sobre-flavio-entre-beneficiarios-do-bolsa-familia-diz-datafolha.shtml",
-      "published": "2026-10-18T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Nubank lanza Nu Smart Invest: IA para inversiones imparciales",
-      "summary": "Nubank lanza Nu Smart Invest: IA para inversiones imparciales &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/finanzas/72445-nubank-lanza-nu-smart-invest-ia-para-inversiones-imparciales",
-      "published": "2026-10-18T07:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "São Paulo lidera turismo internacional no Brasil com 2,09 milhões de visitantes",
@@ -10787,6 +10836,29 @@
       "score": 20.0
     },
     {
+      "title": "25 anos do iPod, o dispositivo que salvou a Apple e mudou para sempre a forma como ouvimos música",
+      "summary": "Em 23 de outubro de 2001, Steve Jobs apresentou em Cupertino um dispositivo que mudaria a história da tecnologia e da cultura popular com uma promessa simples, mas devastadora: \"1000 músicas no seu bolso\". Duas décadas e meia após esse marco, o iPod deixou uma marca indelével na indústria musical, transformando a Apple de uma empresa de computadores em gigante global da eletrônica de consumo que conhecemos hoje. Conheça Thiago Navarro: Criado com IA, cantor que não existe tem música viral e caso gera polêmica Autonomia? Agentes de IA ficam 30 horas sem ordens e surpreendem pesquisadores ao inventar tarefas em ilha virtual Os segredos técnicos do primeiro player Esse modelo original de iPod entrou em um mercado onde já existiam tocadores de música portáteis em formato MP3 (como alternativa ao Discman, que estava no mercado há mais de 15 anos), mas todos eram de marcas desconhecidas, mais focados na habilidade técnica do dispositivo do que em seu design e usabilidade. O iPod, por outro lado, veio da Apple, uma empresa que estava ressurgindo das cinzas com o retorno de Steve Jobs e a estreia do iMac, em 1998. Com um preço inicial de $399 e, naquele momento, destinado exclusivamente a usuários de Mac, o primeiro iPod pesava 184 gramas e apresentava um design polido em aço inoxidável e policarbonato branco. Seu grande coração técnico era um pequeno disco rígido de 1,8 polegada, desenvolvido pela Toshiba, com capacidade de 5 GB, que permitia armazenar 1 mil músicas com qualidade de CD (em formato MP3, um padrão criado em 1995 na Alemanha para oferecer áudio em um arquivo que ocupava 10 vezes menos memória com uma diferença quase imperceptível na qualidade do som) e incorporava um sistema de memória cache para evitar pulos durante a reprodução. Para resolver o dilema de como navegar entre centenas de arquivos sem recorrer a um teclado ou a um painel de botões, Phil Schiller concebeu a icônica roda de rolagem, que permitia rolar por menus e listas dependendo apenas do seu polegar. O hardware foi completado com uma tela LCD monocromática de 160x128 pixels com retroiluminação LED branca, um amplificador de 60 mW para garantir graves profundos, fones de ouvido com ímãs de neodímio (com fio, claro) e uma bateria de polímero de lítio que oferecia até 10 horas de autonomia contínua. No entanto, a verdadeira vantagem competitiva estava na velocidade: graças à conexão FireWire e ao Auto-Sync via iTunes 2, a transferência de um álbum inteiro era concluída em apenas dez segundos. É assim que a Apple promoveu isso: A empresa vendeu 125 mil unidades no primeiro trimestre no mercado e definiu um segmento inteiro que dominaria o mundo da música portátil durante toda aquela década. Tinha múltiplos concorrentes de uma enorme quantidade de marcas (incluindo algumas estreitamente associadas ao segmento, como a Creative), mas nenhuma alcançou a identificação de marca que a Apple e o iPod tinham. Uma evolução em tamanho e tecnologia A evolução do iPod não parou: em 2002, a segunda geração substituiu a roda mecânica por uma roda sensível ao toque. Em 2003, a terceira geração introduziu quatro botões auxiliares retroiluminados, o conector dock de 30 pinos e integração nativa com a recém-criada iTunes Store. O ano de 2004 trouxe a consolidação da Click Wheel (roda de controle sensível ao toque com botão de seleção central) na quarta geração do iPod, o nascimento do iPod Mini – com uma estrutura compacta de alumínio em várias cores – e a chegada do iPod Photo, o primeiro modelo a incorporar uma tela colorida. Em 2005, a empresa diversificou seu catálogo com dois conceitos opostos, mas voltados para o grande público: o iPod Shuffle, um reprodutor ultra-portátil com armazenamento flash, sem tela e focado na reprodução aleatória de músicas, e o iPod Nano, um modelo ultrafino que substituiu o Mini. O ponto de virada veio em setembro de 2007 com a introdução do iPod Touch, que adotou o design e a maior parte do hardware do novo iPhone, com sua tela sensível ao toque capacitiva de 3,5 polegadas, conectividade Wi-Fi e o sistema operacional iOS (que permitia adicionar aplicativos), tornando-se um centro multimídia portátil. A aposentadoria de uma lenda Naquele iPod Touch de 2007 estava o início de seu fim: a família de iPhones que seria lançada nos anos seguintes oferecia a mesma capacidade de reproduzir música, acrescentava novas funções e, como todo bom celular, estava sempre com o usuário. Com a chegada das plataformas de streaming, como o Spotify (que estreou publicamente em 2008), o destino do iPod estava selado. Nesse meio tempo, a Apple tornou possível vender músicas individuais por $0,99 através da sua loja iTunes (como alternativa à compra de um álbum inteiro em CD), com o qual fez fortunas; ofereceu à indústria fonográfica uma alternativa à pirataria que as conexões de banda larga e redes P2P como a Napster possibilitaram, e criou um modelo de negócios digital que levou às plataformas de streaming de música atuais por uma taxa mensal. Para medir o impacto do iPod: em 2002 foram vendidas 376 mil unidades; um ano depois, cerca de 4 milhões; em 2004, cerca de 9 milhões; em 2005, 20 milhões. Em 2006, as vendas de iPod e música representavam 40% de toda a receita da Apple. O pico de vendas ocorreu em 2008, coincidindo com a revolução do iPhone: mais de 58 milhões de iPods foram vendidos. A Apple descontinuou o iPod Classic em 2014, seguido pelo Nano e Shuffle em 2017. O capítulo final foi escrito em 10 de maio de 2022, quando a empresa anunciou a cessação da produção do iPod Touch - o modelo mais recente do catálogo - após acumular mais de 450 milhões de unidades vendidas mundialmente, adicionando todas as gerações dos players de áudio da empresa. Ainda assim, o legado do iPod e dos MP3 players que o precederam permanece, com o surgimento de dispositivos portáteis dedicados exclusivamente à reprodução de música, que também permitem assistir a vídeos, como o novíssimo Sony Walkman NW-WM1ZM3, um player multimídia de edição especial, com carcaça folheada a ouro, rodando Android 16. uma tela de 5,5 polegadas, estrutura de cobre livre de oxigênio, suporte para formatos FLAC, Apple Lossless, DSD, MQA e WAV (ou seja, sem a perda de qualidade de som que o MP3 pode ter), e um preço notável de US$5900. Não é necessário ir tão longe, é claro: é possível optar por um dos múltiplos emuladores do iPod original, com design semelhante, funções básicas de áudio (música, podcasts, audiolivros) e sem notificações que nos interrompam, que podem ser obtidos por 50 a 100 dólares em lojas internacionais, muitos deles até mesmo com Bluetooth para quem quer ficar sem cabos.",
+      "url": "https://oglobo.globo.com/economia/tecnologia/noticia/2026/10/25/25-anos-do-ipod-o-dispositivo-que-salvou-a-apple-e-mudou-para-sempre-a-forma-como-ouvimos-musica.ghtml",
+      "published": "2026-10-25T06:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "apple"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "apple",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "7 For All Mankind amplia lojas no Brasil para emplacar jeans de R$ 2 mil",
       "summary": "A grife americana 7 For All Mankind escolheu o Brasil para ser um dos principais mercados para o crescimento global da companhia, que se tornou conhecida pelas calças jeans vendidas a mais de R$ 2 mil. A empresa vê potencial no mercado de luxo do país, que pode saltar de 7% para até 12% do negócio global da marca e superar a casa dos R$ 100 milhões de faturamento até 2029, quando completa 10 anos no país. A principal parte da estratégia é a ampliação de lojas físicas no Brasil. Nos próximos quatro anos, a marca de moda quer inaugurar quatro novas unidades em Goiânia, Recife, Curitiba e Porto Alegre, uma em cada capital. Atualmente, a companhia está fincada principalmente no Sudeste, com cinco lojas em São Paulo, duas no Rio e uma em Brasília. Farm recebe propostas até o fim do mês e atrai fundos de private equity A vida após Azzas: Baw Clothing quer exterior e sócios influenciadores A 7 For All Mankind vê ainda espaço para inaugurar a primeira loja de rua da grife no Brasil. De fora do cronograma de inaugurações, o ponto deve ser aberto na capital paulista e vai ser utilizado principalmente para eventos corporativos da marca, ações culturais e marketing. “Para a imagem da marca, é melhor. Para as vendas, não”, diz o empresário Esber Hajli, CEO e sócio da 7 For All Mankind no Brasil. Loja no VillageMall, no Rio: marca ficou conhecida pelo denim Divulgação A marca quer crescer também em lojas multimarcas, como Grupo Nadia e Twin Set, passando de 100 para 150 pontos. No Brasil, não há planos de adotar o modelo de franquias, e o e-commerce não entra na espinha dorsal da estratégia. “O varejo físico é a nossa estratégia. O e-commerce é importante, mas, para o nosso segmento, ainda acredito em provar o produto\", diz Hajli. \"A calça jeans é complicada porque tem modelagem e temos uma coleção muito ampla. Nas nossas lojas, o vendedor já sabe qual peça indicar, e assim o cliente não prova 45 calças. Essa experiência só se tem fisicamente.” A grife nasceu em 2000 em Los Angeles, uma novata entre as grifes, mas Esber Hajli é um velho conhecido no varejo. O paulistano começou a carreira como vendedor na italiana Fiorucci, que no país era comandada pela estilista Glória Kalil nos anos 1980. Vinte anos depois, ele trouxe a também italiana Diesel, em 2000, permanecendo na companhia até meados de 2015, e é sócio da grife britânica Fred Perry e distribuidor da marca de moda masculina no Brasil. Família Hering quer a marca de volta e contrata BR Partners para negociar com Azzas 'Não prevemos o futuro, criamos o futuro', diz CEO da Oakley Em 2019, o empresário negociou a expansão da 7 For All Mankind no país, onde a marca era distribuída desde 2008 sem operação local. No acordo, Hajli e um grupo de amigos detêm 49% da operação, enquanto a matriz americana possui o controle. Ele assumiu um negócio com faturamento anual de R$ 6 milhões, ante os R$ 65 milhões de hoje, e nenhuma loja no país – e logo depois uma pandemia. “Estou acostumado a ver o Brasil entrar em crise, mas na pandemia o país não entrou sozinho e infelizmente veio para o mundo inteiro. Mas recebemos muita ajuda da matriz”, diz o brasileiro. Hajli ocupa uma cadeira no conselho de produtos da 7 For All Mankind. Veio dele, por exemplo, a sugestão de aumentar a coleção de peças \"ready to wear\", uma iniciativa abraçada pela americana para aumentar o faturamento global com venda de um guarda-roupa completo, incluindo camisetas, camisas e blusas com tamanhos definidos, por exemplo -- enquanto o denim mantém produção dedicada mais próxima à alta costura. “Por mais que nosso jeans seja espetacular, você morre se vender sempre a mesma coisa. Tem que ser uma marca de lifestyle, e isso o ready to wear permite”, explica ele. Após um século no multimarcas, Trussardi investe em lojas próprias 'Cafona é ser blasé', diz Katia Barros, a contadora que redescobriu o lápis de cor para criar a Farm A coleção completa com essas novas categorias estreou em fevereiro passado, assinada pelo estilista Nicola Brognano, que se tornou diretor criativo da marca. No Brasil, já representa 20% das vendas e a perspectiva dé chegar a 30%, reduzindo mais um pouco a participação da venda de calças. No mundo, a categoria está engatinhando, com 10%. “É um dedo do Brasil. Para mim, é um orgulho”, diz Hajli. Esber Hajli, que trouxe a Diesel para o Brasil, virou sócio da 7 For All Mankind no Brasil Divulgação",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/7-for-all-mankind-amplia-lojas-no-brasil-para-emplacar-jeans-de-r-2-mil.ghtml",
@@ -13094,6 +13166,75 @@
         {
           "sector": "E-commerce",
           "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Lula x Flávio Bolsonaro: o que cada um propõe para a moradia?",
+      "summary": "Minha Casa, Minha Vida e a retomada do Casa Verde e Amarela estão em debate nos planos eleitorais de Flávio e Tarcísio para a presidência",
+      "url": "https://exame.com/brasil/lula-x-flavio-bolsonaro-o-que-cada-um-propoe-para-a-moradia",
+      "published": "2026-10-25T02:00:57+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "casa verde e amarela"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "casa verde e amarela",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Veja truque caseiro para conservar as bananas e prevenir que escureçam",
+      "summary": "É comum que as bananas escureçam ou fiquem manchadas, mesmo quando passou apenas alguns dias desde que foram compradas. Diante dessa situação, existem diferentes métodos caseiros que prometem prolongar sua frescura, mas nem todos oferecem os resultados esperados. No entanto, um simples truque de conservação pode ajudar a mantê-las em bom estado por mais tempo. Confira: Cinco mitos sobre a obesidade que podem atrapalhar a luta contra a balança Percarbonato de sódio e saneantes: Anvisa proíbe produtos de limpeza de duas marcas; veja quais são e os riscos à saúde Ofruteiro José Luis Caro, especialista no assunto e responsável pela quitanda \"The Fruits of the World\", localizada em Pozuelo de Alarcón, Madri, compartilhou através de suas redes sociais uma técnica para conservar as bananas durante sete ou oito dias sem que fiquem pretas tão rápido. Ao contrário de outros conselhos populares, sua proposta consiste em preparar as frutas de uma maneira particular antes de guardá-las na geladeira. O truque para evitar que as bananas escureçam Através de um vídeo, Caro explicou que um dos métodos mais conhecidos consiste em envolver a extremidade superior das bananas com filme plástico ou papel alumínio. No entanto, alertou que esta prática nem sempre é suficiente para evitar que apareçam manchas escuras. — Com certeza você está cansado de ver vídeos na internet que te recomendam envolver papel alumínio ou plástico filme para evitar que se desidratem e tal, mas no final elas acabam amadurecendo e você se depara com o problema de sempre — apontou. Por esse motivo, ele recomendou começar com bananas que ainda tenham uma tonalidade amarela esverdeada. O primeiro passo consiste em cortar tanto a extremidade superior quanto a inferior de cada fruta, sem retirar a casca. Em seguida, deve-se colocar papel toalha no fundo de um recipiente hermético e acomodar as bananas em seu interior. Uma vez distribuídas, é importante cobri-las com outras folhas de papel toalha para protegê-las do contato direto com o frio. — Pegamos um pote ou recipiente onde vamos colocar um papel toalha no fundo para que faça de cama — explicou o especialista. Finalmente, é preciso fechar o recipiente com sua tampa ou, se as bananas ocuparem muito espaço, utilizar filme plástico para cobri-las corretamente. Uma vez terminado o procedimento, guarda-se o pote na geladeira. Segundo o especialista, esta técnica permite conservar as frutas durante aproximadamente sete ou oito dias, embora os resultados possam variar de acordo com o seu estado inicial.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/10/25/veja-truque-caseiro-para-conservar-as-bananas-e-prevenir-que-escurecam.ghtml",
+      "published": "2026-10-25T05:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Por que Lula? Proteção social, meio ambiente e soberania norteiam eleitores do petista",
+      "summary": "Entre os brasileiros que sairão de casa hoje para apoiar a reeleição do presidente Luiz Inácio Lula da Silva (PT), há quem olhe para o passado, há quem faça planos para o futuro. Quando questionados sobre o motivo do voto, é comum citarem as marcas dos quase 12 anos de Lula na Presidência, como os programas Bolsa Família e Minha Casa, Minha Vida. E a defesa de melhorias dos serviços públicos, como o fortalecimento do Sistema Único de Saúde (SUS) e o aumento dos investimentos nas universidades, aparece como uma prioridade. A defesa da soberania tem sido um tema recorrente entre os eleitores de Lula, já que a campanha dele jogou luz sobre o interesse internacional nas reservas de terras-raras e sinais de interferência dos EUA de Donald Trump no pleito. Lula é apontado ainda como a melhor opção quando se trata de preservação do meio ambiente, demarcação de territórios para povos e comunidades tradicionais e manutenção dos direitos de minorias. Há também, entre os eleitores do presidente, quem admita não endossar todo o ideário e a trajetória do político e já ter se posicionado contra ele em pleitos anteriores. O voto deste domingo, para este segmento, fala mais sobre uma rejeição à família Bolsonaro do que reflete apoio ao governo. Crença na virada Diferente da massa verde-amarela do rival, os eleitores de Lula se mostram mais plurais nas motivações e no uso das cores. Muitos trocaram o vermelho do PT pela disputa das cores da bandeira nacional nas ruas e nas redes. Após Lula terminar o primeiro turno atrás de Flávio Bolsonaro, todos se uniram nas últimas três semanas no “front” que tenta reverter a vantagem do rival. Deixando de lado as incertezas das estatísticas, são unânimes na crença de uma virada.",
+      "url": "https://oglobo.globo.com/politica/eleicoes-2026/especial/por-que-lula-protecao-social-meio-ambiente-e-soberania-norteiam-eleitores-do-petista.ghtml",
+      "published": "2026-10-25T06:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
           "field": "lead",
           "score": 8,
           "topic": null
