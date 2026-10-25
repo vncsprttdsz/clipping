@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T09:28:44.494926+00:00",
-  "count": 487,
-  "new_this_run": 4,
+  "generated_at": "2026-10-25T09:58:05.174591+00:00",
+  "count": 488,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Exclusivo: Lancôme estreia no TikTok Shop, segunda marca de luxo da L’Oréal na plataforma",
@@ -10851,6 +10851,29 @@
         {
           "sector": "Global Consumer",
           "alias": "apple",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Carf mantém multa por cessão de nome em importação envolvendo grupo Lojas Americanas",
+      "summary": "Para conselheiros, Destro Brasil Distribuição Ltda tentou ocultar a real adquirente de operações feitas em seu nome",
+      "url": "https://www.jota.info/tributos/carf-mantem-multa-por-cessao-de-nome-em-importacao-envolvendo-grupo-lojas-americanas",
+      "published": "2026-10-25T09:39:10+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "americanas"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
           "field": "title",
           "score": 20,
           "topic": null
