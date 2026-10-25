@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-25T12:50:07.561109+00:00",
-  "count": 489,
+  "generated_at": "2026-10-25T13:13:07.463201+00:00",
+  "count": 490,
   "new_this_run": 6,
   "articles": [
     {
@@ -13297,6 +13297,29 @@
         {
           "sector": "Economia",
           "alias": "bolsa família",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Chuva provoca acidentes em diferentes vias do Rio neste domingo de eleições",
+      "summary": "A chuva que atinge o Rio neste domingo (25), dia do 2° turno das eleições, já provoca transtornos no trânsito em diferentes regiões da cidade. No começo da manhã, uma carreta tombou na Avenida Brasil, na altura de Santa Cruz, e ocupou uma faixa no sentido Centro. Também foram registrados acidentes envolvendo carros, ônibus, caminhão e moto em outras vias, segundo informações do Centro de Operações do Rio (COR-Rio). Não foi a única ocorrência na Avenida Brasil. Na altura do Atacadão, em Benfica, no sentido Centro, outro acidente envolvendo um carro obrigou que agentes da CET-Rio e do Corpo de Bombeiros interditassem uma faixa da via. No Recreio, um carro invadiu a calha do BRT na Avenida das Américas, na altura da estação Recanto das Garças, no sentido Guaratiba. A CET-Rio foi acionada para auxiliar no acidente do automóvel. Na zona norte, um acidente envolvendo um ônibus e um carro ocupou uma faixa da Estrada Adhemar Bebiano, na altura da Avenida Pastor Martin Luther King Júnior, no Engenho de Rainha, no sentido Inhaúma. O Corpo de Bombeiros foi acionado e atuou para conter um princípio de incêndio. No Rio Comprido, outro acidente envolvendo um carro ocupa uma faixa da Avenida Paulo de Frontin, sentido Túnel Rebouças, na altura da Rua Haddock Lobo. Na zona oeste, um acidente entre um caminhão e uma moto interditou parcialmente duas faixas da Estrada da Paciência, na altura do número 460. Mesmo com acionamento do Corpo de Bombeiros e da Guarda Municipal, não houve impactos no trânsito, de acordo com o Centro de Operações. O deslocamento de uma frente fria pelo oceano influencia o tempo na cidade neste domingo. A previsão é de céu nublado a encoberto, com pancadas de chuva moderadas e fortes ao longo do dia. A precipitação pode vir acompanhada de rajadas de vento de até 76 km/h. Com as pistas molhadas e a possibilidade de chuva intensa e ventos fortes, a recomendação é que os motoristas reduzam a velocidade e mantenham distância segura dos demais veículos. Pixabay",
+      "url": "https://valor.globo.com/politica/eleicoes-2026/noticia/2026/10/25/chuva-provoca-acidentes-em-diferentes-vias-do-rio-neste-domingo-de-eleies.ghtml",
+      "published": "2026-10-25T12:54:58+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "atacadão"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "atacadão",
           "field": "lead",
           "score": 8,
           "topic": null
