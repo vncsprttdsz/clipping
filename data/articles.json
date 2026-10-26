@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T13:21:21.302027+00:00",
+  "generated_at": "2026-10-26T00:20:00.235887+00:00",
   "count": 490,
-  "new_this_run": 5,
+  "new_this_run": 9,
   "articles": [
     {
       "title": "Exclusivo: Lancôme estreia no TikTok Shop, segunda marca de luxo da L’Oréal na plataforma",
@@ -162,45 +162,6 @@
         }
       ],
       "score": 68.0
-    },
-    {
-      "title": "Canetas emagrecedoras podem agir no cérebro? GLP-1 são testados contra vício e depressão",
-      "summary": "Remédios da classe GLP-1 ganham nova abordagem e avançam em testes clínicos para tratar dependência química, depressão e Parkinson",
-      "url": "https://exame.com/ciencia/canetas-emagrecedoras-podem-agir-no-cerebro-glp-1-sao-testados-contra-vicio-e-depressao",
-      "published": "2026-10-18T17:10:19+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "glp-1"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "glp-1",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
     },
     {
       "title": "Mounjaro ou anorexia? Médicos alertam que os efeitos das canetas emagrecedoras podem mascarar transtornos alimentares graves",
@@ -386,6 +347,45 @@
       "score": 60.0
     },
     {
+      "title": "Caneta emagrecedora: os benefícios da semaglutida que a balança não mostra",
+      "summary": "Caneta emagrecedora: os benefícios da semaglutida que a balança não mostra &nbsp;&nbsp; Assine Abril",
+      "url": "https://boaforma.abril.com.br/equilibrio/caneta-emagrecedora-beneficios-perda-de-peso",
+      "published": "2026-10-25T17:03:53+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
       "title": "DPSP, dona da Drogaria São Paulo, aposta em vacinação para atrair visitas e registra 15% de alta",
       "summary": "A DPSP, dona das redes Drogaria São Paulo e Drogarias Pacheco , está apostando em salas de vacinação em suas unidades para reter clientes e aumentar o número de visitas aos estabelecimentos. O grupo já instalou 466 salas para essa finalidade em 2026, que totalizam 28% das lojas das redes de farmácias. Leia mais (10/22/2026 - 17h11)",
       "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/10/dpsp-dona-da-drogaria-sao-paulo-aposta-em-vacinacao-para-atrair-visitas-e-registra-15-de-alta.shtml",
@@ -427,6 +427,53 @@
           "alias": "drogarias",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
+      "title": "FT/Análise: As marcas de luxo da China estão prontas para deixar para trás as rivais ocidentais",
+      "summary": "Uma divergência surpreendente está surgindo no mercado de luxo da China: os gastos continuam a cair, as algumas marcas de luxo chinesas estão crescendo a taxas extraordinárias. Para grupos de luxo europeus, como Kering, Hermès e LVMH — que atribuíram seus resultados decepcionantes ao fraco desempenho das vendas na China —, isso levanta a possibilidade de, mesmo quando o mercado se recuperar, as vendas dessas empresas talvez não seguirem o mesmo caminho. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/10/25/ftanalise-as-marcas-de-luxo-da-china-estao-prontas-para-deixar-para-tras-as-rivais-ocidentais.ghtml",
+      "published": "2026-10-25T18:50:25+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "kering",
+        "luxo",
+        "marcas de luxo",
+        "mercado de luxo"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "kering",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "mercado de luxo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "marcas de luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -1217,68 +1264,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Chineses veem grifes de luxo como 'ultrapassadas' e optam por produtos nacionais mais baratos",
-      "summary": "Com a economia da China ainda enfrentando dificuldades para se recuperar da pandemia, até mesmo ícones globais da moda começam a sentir o aperto , à medida que os consumidores recorrem ao mercado de segunda mão ou compram de novas marcas nacionais emergentes. Leia mais (10/18/2026 - 12h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/chineses-veem-grifes-de-luxo-como-ultrapassadas-e-optam-por-produtos-nacionais-mais-baratos.shtml",
-      "published": "2026-10-18T15:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "grifes de luxo",
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "grifes de luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "⚠️ Canetas emagrecedoras: como evitar recuperar peso após o tratamento | #CidadeAL",
-      "summary": "⚠️ Canetas emagrecedoras: como evitar recuperar peso após o tratamento | #CidadeAL &nbsp;&nbsp; TNH1",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNZTl1a3VaNnJONU9pS05ISVJpZ3BxbHdHSEwzOENFZ0JJVkZObVJlaWhKU0lBRERLR211UndiRGdQNFFWejNhS2FqRnNrTU1HNXNfMFZoemhOdXZQZnRIX2NmSHVEUTAxREtKRW1qSW5zbUE2VHJYZUdYVzB0cnZGaDV1MS15RmhZMkhBX0VJbHZhaXB1VTFjY0ZEMm9LZEhiVFZub2JGOU41ZjdqcWFxaGRVQk9hRlZwTW1laUhYTmdxbzlpRWQxbjJnSDVsdld2REQ3VXJn?oc=5",
-      "published": "2026-10-18T21:30:35+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Canetas emagrecedoras: estudo aponta 3 alterações em unhas e cabelos",
@@ -3230,6 +3215,99 @@
       "score": 40.0
     },
     {
+      "title": "La turbulenta serie de Amazon Prime Video sobre una obsesión sexual que tenés que ver",
+      "summary": "La turbulenta serie de Amazon Prime Video sobre una obsesión sexual que tenés que ver &nbsp;&nbsp; Ambito",
+      "url": "https://www.ambito.com/espectaculos/la-turbulenta-serie-amazon-prime-video-una-obsesion-sexual-que-tenes-que-ver-n6337121",
+      "published": "2026-10-25T13:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aambito.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Marcas de luxo perdem 250 bilhões de euros em valor de mercado com queda na demanda chinesa",
+      "summary": "Os principais grupos europeus de luxo perderam cerca de 250 bilhões de euros (R$ 1,4 trilhão) em valor de mercado neste ano, em meio à queda dos gastos dos consumidores da China e às oscilações das bolsas provocadas pela inteligência artificial , que reduzem a demanda por calçados e bolsas de alto padrão. Leia mais (10/25/2026 - 12h34)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/marcas-de-luxo-perdem-250-bilhoes-de-euros-em-valor-de-mercado-com-queda-na-demanda-chinesa.shtml",
+      "published": "2026-10-25T15:34:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "luxo",
+        "marcas de luxo"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "marcas de luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "TikTok Shop lança calendário de promoções para impulsionar vendas até dezembro",
+      "summary": "O TikTok Shop prepara uma sequência de campanhas promocionais para movimentar as vendas no fim do ano. A programação começa em 27 de outubro e segue até dezembro, com datas temáticas voltadas a diferentes categorias, como eletrônicos, beleza, moda, casa e produtos para festas. A estratégia combina descontos, cupons, ofertas relâmpago e conteúdos de criadores [&#8230;] O post TikTok Shop lança calendário de promoções para impulsionar vendas até dezembro apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/25/10/2026/ecommerce/tiktok-shop-lanca-calendario-de-promocoes-para-impulsionar-vendas-ate-dezembro",
+      "published": "2026-10-25T21:58:42+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "tiktok",
+        "tiktok shop"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok shop",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "AliExpress e YouTube fecham parceria para que os criadores de conteúdo recomendem produtos e recebam comissão por vendas",
       "summary": "O AliExpress fechou uma parceria global com o YouTube para permitir que criadores de conteúdo recomendem produtos de seu marketplace e recebam comissões por vendas. A iniciativa começou em março na Coreia do Sul e vai estar disponível no Brasil a partir desta terça-feira. Mais medidas: governo Lula antecipa pagamento do Bolsa Família, e todos os beneficiários receberão reajuste antes do 2º turno Saiba mais: campanha de Flávio promete pagar Bolsa Família por 2 anos após beneficiário conseguir emprego ou abrir negócio Os criadores elegíveis poderão marcar produtos em vídeos, shorts e transmissões ao vivo diretamente pelo YouTube Studio. Ao clicar na recomendação dentro do YouTube, os espectadores poderão acessar os itens recomendados e finalizar a compra no AliExpress. A seleção inclui categorias como eletrônicos, esportes e produtos para casa. No Brasil, a participação será aberta a criadores que cumpram os requisitos do Programa de Afiliados do YouTube Shopping. O diferencial é a integração entre conteúdo e compra. Em vez de o criador apenas exibir uma peça publicitária, o formato permite que ele marque produtos no próprio conteúdo e receba comissão pelo YouTube através do AdSense (plataforma gratuita do Google que permite a criadores de conteúdo, blogueiros e donos de sites ou canais do YouTube monetizarem suas páginas ao exibir anúncios de empresas) por vendas qualificadas geradas pelas recomendações. Segundo Roberto Wajnsztok, sócio-diretor da Gouvêa Consulting, essa tendência de consumo atrelada ao consumo de vídeos está crescendo no mercado. Isso se dá devido principalmente ao protagonismo que o audiovisual ganhou. — Os criadores de conteúdo foram desenvolvendo técnicas para melhorar a exposição e a qualidade desses vídeos, tornando-os mais assertivos na forma como se apresentam, nos assuntos que abordam e na identificação do que gera resultados e do que não funciona. Produzir vídeos nunca foi tão fácil e, logicamente, eles convertem muito mais do que imagens estáticas — analisa Wajnsztok. Nos anos anteriores o consumidor costumava entrar em um site, procurar um produto e encontrar uma foto acompanhada de um texto. Essa experiência foi substituída por uma experiência em vídeo, na qual são destacados os principais atributos do produto e seus diferenciais. Para produtos que não demandam muita explicação, esse formato se encaixa perfeitamente. Os vídeos curtos conseguem apresentar o produto rapidamente e, quando as informações relevantes já foram transmitidas, o consumidor não precisa passar por tantas etapas até a compra. O crescimento do TikTok Shop está muito relacionado ao consumo de vídeos, que atingiu um patamar muito elevado. Diferentemente do TikTok, que desenvolveu um modelo próprio de vendas dentro da plataforma, o Google (que controla o YouTube) não atua diretamente como marketplace. Assim, a parceria entre AliExpress e YouTube busca aproximar os vídeos dos produtos à venda, facilitando o caminho entre o conteúdo e a decisão de compra do consumidor. De acordo com Wajnsztok, o perfil dos vídeos do YouTube é diferente. Embora exista o formato shorts (vídeos curtos), o formato convencional, que tem vídeos mais longos e explicativos, continua sendo relevante. Nesse caso, o consumidor pode assistir a uma apresentação detalhada, até mesmo bastante técnica, sobre o produto e, a partir dessa análise, acessar diretamente o link de compra. – A expectativa é que os produtos comercializados nessa parceria entre AliExpress e YouTube tenham um perfil diferente, possivelmente com maior valor agregado e que demandem mais explicações. Não se trata necessariamente daquele consumo de conteúdo tão rápido – explica. Um vídeo curto, construído para atender a uma necessidade que surge rapidamente na mente do consumidor, tende a gerar uma conversão mais rápida. Já nos vídeos longos, pode ser compensado por uma venda mais racional e consistente, com um ticket médio maior. – O consumidor brasileiro é bastante receptivo a novas experiências de compra, e não vejo nessa iniciativa algo muito diferente daquilo que ele já experimenta atualmente. O perfil dos produtos e o tempo de compra são diferentes. Não podemos esperar o mesmo nível de conversão observado hoje no TikTok Shop, muito menos o mesmo perfil de produtos – observa.",
       "url": "https://oglobo.globo.com/economia/noticia/2026/10/20/aliexpress-e-youtube-fecham-parceria-para-que-os-criadores-de-conteudo-recomendem-produtos-e-recebam-comissao-por-vendas.ghtml",
@@ -5069,98 +5147,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Caixa não espera Minha Casa Minha Vida para famílias com renda de até R$ 21 mil",
-      "summary": "Caixa não espera Minha Casa Minha Vida para famílias com renda de até R$ 21 mil &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/mercado-imobiliario/caixa-nao-espera-minha-casa-minha-vida-para-familias-com-renda-de-ate-r-21-mil",
-      "published": "2026-10-18T15:04:52+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Material de Construção"
-      ],
-      "matched_aliases": [
-        "minha casa minha vida"
-      ],
-      "matches": [
-        {
-          "sector": "Material de Construção",
-          "alias": "minha casa minha vida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Homem relata cegueira após usar caneta emagrecedora; o que se sabe sobre o risco",
-      "summary": "Americano de 63 anos desenvolveu uma condição que compromete o nervo óptico e processa a fabricante do medicamento",
-      "url": "https://exame.com/ciencia/homem-relata-cegueira-apos-usar-caneta-emagrecedora-o-que-se-sabe-sobre-o-risco",
-      "published": "2026-10-18T16:48:44+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "caneta emagrecedora"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "caneta emagrecedora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Destruição de itens de luxo: o que está em jogo para as marcas com nova política da UE",
-      "summary": "Destruição de itens de luxo: o que está em jogo para as marcas com nova política da UE &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/destruicao-de-itens-de-luxo-o-que-esta-em-jogo-para-as-marcas-com-nova-politica-da-ue",
-      "published": "2026-10-18T16:59:55+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Detectan venta de medicamentos e insumos del sector salud en Mercado Libre y Facebook",
-      "summary": "Detectan venta de medicamentos e insumos del sector salud en Mercado Libre y Facebook &nbsp;&nbsp; El Economista",
-      "url": "https://www.eleconomista.com.mx/empresas/detectan-venta-medicamentos-e-insumos-sector-salud-mercado-libre-facebook-20261018-839205.html",
-      "published": "2026-10-18T22:21:39+00:00",
-      "source": "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aeleconomista.com.mx+when%3A2d&hl=es-419&gl=MX&ceid=MX:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado libre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado libre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Qual é a relação do uso de caneta emagrecedora e o efeito sanfona? Entenda",
@@ -10568,6 +10554,29 @@
       "score": 20.0
     },
     {
+      "title": "Receita Federal já apreendeu mais de 3 mil canetas emagrecedoras no RS, em 2026",
+      "summary": "Receita Federal já apreendeu mais de 3 mil canetas emagrecedoras no RS, em 2026 &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/rs/rio-grande-do-sul/videos-rbs-noticias/video/receita-federal-ja-apreendeu-mais-de-3-mil-canetas-emagrecedoras-no-rs-em-2026-15118269.ghtml",
+      "published": "2026-10-24T01:57:34+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Bolsa Família precisa do 'Oportunidade Família'",
       "summary": "Conseguir um trabalho deveria trazer mais segurança para uma família pobre. No entanto, quando essa conquista vem acompanhada da perda de parte importante da transferência de renda , a transição pode gerar preocupação. O emprego vai durar? Se não durar, como garantir a alimentação dos filhos? Leia mais (10/23/2026 - 23h00)",
       "url": "https://www1.folha.uol.com.br/colunas/laura-machado/2026/10/bolsa-familia-precisa-do-oportunidade-familia.shtml",
@@ -13320,6 +13329,29 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "atacadão",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Nuvemshop inaugura CD no Rio de Janeiro para acelerar entregas e reduzir frete",
+      "summary": "A Nuvemshop anunciou a inauguração de um centro de distribuição, em modelo cross-dock, no Estado do Rio de Janeiro. A iniciativa tem o objetivo de suprir a demanda por serviços logísticos na região e atender a solicitações de marcas locais. A expectativa é reduzir em pelo menos 20% os custos de frete para os lojistas, [&#8230;] O post Nuvemshop inaugura CD no Rio de Janeiro para acelerar entregas e reduzir frete apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/25/10/2026/logistica/nuvemshop-inaugura-cd-no-rio-de-janeiro-para-acelerar-entregas-e-reduzir-frete",
+      "published": "2026-10-25T21:08:48+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "centro de distribuição"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centro de distribuição",
           "field": "lead",
           "score": 8,
           "topic": null
