@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T14:09:52.580561+00:00",
-  "count": 428,
-  "new_this_run": 12,
+  "generated_at": "2026-10-28T14:37:07.085615+00:00",
+  "count": 431,
+  "new_this_run": 17,
   "articles": [
     {
       "title": "'Rosto Ozempic': com aumento de medicamentos para perda de peso, indústria de cosméticos corre para tratar efeitos colaterais",
@@ -997,38 +997,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "XP alerta para risco de queda em 17 ações após alta do Ibovespa; Magalu e Renner estão na lista",
-      "summary": "XP alerta para risco de queda em 17 ações após alta do Ibovespa; Magalu e Renner estão na lista &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/einvestidor/cenarios-e-mercado/xp-alerta-para-risco-de-queda-em-17-acoes-apos-alta-do-ibovespa-magalu-e-renner-estao-na-lista",
-      "published": "2026-10-21T14:12:43+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Fashion",
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "magalu",
-        "renner"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "renner",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "magalu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Justiça aprova recuperação judicial do Grupo Casas Bahia",
@@ -2743,6 +2711,69 @@
       "score": 40.0
     },
     {
+      "title": "Caneta emagrecedora da Hypera estreia com vendas fortes, mas marketing pesa no balanço",
+      "summary": "Caneta emagrecedora da Hypera estreia com vendas fortes, mas marketing pesa no balanço &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/caneta-emagrecedora-da-hypera-estreia-com-vendas-fortes-mas-marketing-pesa-no-balanco",
+      "published": "2026-10-28T13:58:33+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta emagrecedora",
+        "hypera"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "hypera",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Justiça aceita pedido de recuperação judicial da Marabraz",
+      "summary": "A Justiça de São Paulo aprovou a recuperação judicial do Marabraz. Na decisão, publicada nesta terça-feira (27), a juíza Fernanda Perez Jacomini reconheceu o preenchimento dos requisitos legais pela varejista, mas indicou pendências documentais a serem entregues em 15 dias. Leia mais (10/28/2026 - 11h08)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/justica-aceita-pedido-de-recuperacao-judicial-da-marabraz.shtml",
+      "published": "2026-10-28T14:08:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Fashion",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "marabraz",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marabraz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Com estimativa de R$ 90 bi, Desenrola 3 pode superar soma dos dois primeiros programas",
       "summary": "O governo federal se prepara para fazer o seu terceiro programa de renegociação de dívidas de inadimplentes em três anos . Com a estimativa de atingir até R$ 90 bilhões em dívidas em um primeiro momento, ele pode superar a soma entre os montantes do Desenrola original e do Desenrola 2.0 em uma estratégia que, segundo especialistas, não resolve o problema de alto endividamento do Brasil. Leia mais (10/21/2026 - 23h00)",
       "url": "https://www1.folha.uol.com.br/mercado/2026/10/com-estimativa-de-r-90-bi-desenrola-3-pode-superar-soma-dos-dois-primeiros-programas.shtml",
@@ -3988,11 +4019,11 @@
       "score": 28.0
     },
     {
-      "title": "TCU propõe alíquota de 11,3% para nova contribuição da reforma tributária em 2027",
-      "summary": "A alíquota da CBS, contribuição federal sobre bens e serviços prevista na reforma tributária , será de 11,3% em 2027, segundo proposta apresentada pelo TCU (Tribunal de Contas da União) nesta quarta-feira (28) para manter a carga dos tributos federais sobre o consumo. Leia mais (10/28/2026 - 10h51)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/tcu-propoe-aliquota-de-113-para-nova-contribuicao-da-reforma-tributaria-em-2027.shtml",
-      "published": "2026-10-28T13:51:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "title": "TCU propõe alíquota de referência de 11,3% para CBS em 2027, que substitui PIS e Cofins",
+      "summary": "O plenário do Tribunal de Contas da União (TCU) propôs nesta quarta-feira que a alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) seja de 11,3%. A proposta será encaminhada ao Senado até a próxima quarta-feira, que terá até o dia 15 de dezembro para analisar e fixar a alíquota. A CBS é o tributo federal criado pela Reforma Tributária que substituirá o PIS e a Cofins a partir de janeiro de 2027. O relator é o presidente da Corte, ministro Vital do Rêgo. Em 14 de setembro, a Receita Federal entregou ao TCU o modelo de cálculo, mas sem estimativa numérica. O tribunal tratava o documento como sigiloso, e o percentual não foi divulgado durante a campanha eleitoral. Pela lei que regulamentou a reforma, a alíquota de referência deve preservar a arrecadação dos tributos que a CBS substitui. O cálculo simula a cobrança da nova contribuição sobre a base de consumo. Entram na conta as alíquotas reduzidas, os regimes específicos, o Simples Nacional, a devolução de imposto (cashback) e os créditos presumidos previstos na lei. Na prática, quanto mais exceções, maior a alíquota necessária para manter a arrecadação. Sem caráter oficial, o Comitê Gestor do IBS usava como referência 9,21% para a CBS e 18,7% para o IBS, o tributo de estados e municípios, o que soma 27,91%. O Projeto de Lei Orçamentária (PLOA) de 2027 prevê arrecadação de R$ 636,8 bilhões com a nova contribuição, o equivalente a 4,7% do PIB.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/28/tcu-propoe-aliquota-de-referencia-de-113percent-para-cbs-em-2027-que-substitui-pis-e-cofins.ghtml",
+      "published": "2026-10-28T13:58:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "Economia"
       ],
@@ -4004,26 +4035,26 @@
         {
           "sector": "Economia",
           "alias": "cbs",
-          "field": "lead",
-          "score": 8,
+          "field": "title",
+          "score": 20,
           "topic": "reforma_tributaria"
         },
         {
           "sector": "Economia",
           "alias": "reforma tributária",
-          "field": "title",
-          "score": 20,
+          "field": "lead",
+          "score": 8,
           "topic": "reforma_tributaria"
         }
       ],
       "score": 28.0
     },
     {
-      "title": "TCU propõe alíquota de referência de 11,3% para CBS em 2027, que substitui PIS e Cofins",
-      "summary": "O plenário do Tribunal de Contas da União (TCU) propôs nesta quarta-feira que a alíquota de referência da Contribuição Social sobre Bens e Serviços (CBS) seja de 11,3%. A proposta será encaminhada ao Senado até a próxima quarta-feira, que terá até o dia 15 de dezembro para analisar e fixar a alíquota. A CBS é o tributo federal criado pela Reforma Tributária que substituirá o PIS e a Cofins a partir de janeiro de 2027. O relator é o presidente da Corte, ministro Vital do Rêgo. Em 14 de setembro, a Receita Federal entregou ao TCU o modelo de cálculo, mas sem estimativa numérica. O tribunal tratava o documento como sigiloso, e o percentual não foi divulgado durante a campanha eleitoral. Pela lei que regulamentou a reforma, a alíquota de referência deve preservar a arrecadação dos tributos que a CBS substitui. O cálculo simula a cobrança da nova contribuição sobre a base de consumo. Entram na conta as alíquotas reduzidas, os regimes específicos, o Simples Nacional, a devolução de imposto (cashback) e os créditos presumidos previstos na lei. Na prática, quanto mais exceções, maior a alíquota necessária para manter a arrecadação. Sem caráter oficial, o Comitê Gestor do IBS usava como referência 9,21% para a CBS e 18,7% para o IBS, o tributo de estados e municípios, o que soma 27,91%. O Projeto de Lei Orçamentária (PLOA) de 2027 prevê arrecadação de R$ 636,8 bilhões com a nova contribuição, o equivalente a 4,7% do PIB.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/28/tcu-propoe-aliquota-de-referencia-de-113percent-para-cbs-em-2027-que-substitui-pis-e-cofins.ghtml",
-      "published": "2026-10-28T13:58:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "title": "TCU define alíquota de referência da CBS em 11,3%",
+      "summary": "O Tribunal de Contas da União (TCU) propôs em 11,3% a alíquota de referência da Contribuição sobre Bens e Serviços (CBS), um dos novos tributos criados pela reforma tributária que entra em vigor em 2027. O anúncio foi feito nesta quarta-feira (28), em sessão extraordinária. O processo é relatado pelo presidente do TCU, ministro Vital do Rêgo. O TCU também indicou um redutor de 44,2% para as compras da administração pública direta, autarquias e fundações públicas. O valor será analisado pelos ministros do TCU. Se aprovado, será enviado ainda hoje ao Senado, responsável por fixar a alíquota. Pela emenda constitucional de 2023, a definição foi feita com base em cálculos elaborados pelo Executivo federal e pelo Comitê Gestor e homologados pelo TCU. O Comitê Gestor é a entidade responsável por coordenar a arrecadação do Imposto sobre Bens e Serviços (IBS), cujas receitas serão divididas entre Estados e municípios. Durante a sessão, Vital afirmou que a alíquota de referência é um parâmetro e não necessariamente o percentual que será efetivamente cobrado. Segundo o ministro, o número representa uma previsão de arrecadação para 2027 e não mede o impacto da reforma sobre os preços, contribuintes ou setores específicos, mas indica o percentual necessário para preservar a equivalência das receitas. Vital destacou ainda que o patamar alcançado reflete escolhas feitas pelo legislador ao estabelecer tratamentos diferenciados para determinados segmentos. O cálculo considera, por exemplo, a alíquota zero para a cesta básica, as alíquotas reduzidas para saúde e educação, os regimes da Zona Franca de Manaus e do Simples Nacional e a devolução de tributos para famílias de baixa renda, o chamado cashback. O governo enviou a proposta de cálculo ao tribunal em 14 de setembro, mas manteve os valores em sigilo em meio à eleição presidencial. O TCU tinha até 30 de outubro para encaminhar a proposta ao Senado. O número era cobrado pelas empresas, que precisam se preparar para a entrada em vigor da CBS, prevista para 1º de janeiro de 2027. A reforma tributária substitui cinco tributos sobre o consumo — PIS, Cofins, IPI, ICMS e ISS — por um Imposto sobre Valor Agregado (IVA) dual, formado pela CBS, de competência federal, e pelo IBS, de Estados e municípios. O novo sistema também criou o Imposto Seletivo, que incidirá sobre bens e serviços considerados prejudiciais à saúde ou ao meio ambiente. A CBS entra em vigor em 2027, enquanto o IBS será implementado gradativamente a partir de 2029 e terá sua alíquota de referência definida posteriormente. Em 2027, o IBS terá uma alíquota simbólica de 0,1%. Marcos Oliveira/Agência Senado",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/28/tcu-define-alquota-de-referncia-da-cbs-em-113-pontos-percentuais.ghtml",
+      "published": "2026-10-28T14:14:46+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
       "matched_sectors": [
         "Economia"
       ],
@@ -4089,37 +4120,6 @@
       "score": 24.0
     },
     {
-      "title": "Hotel na Malásia começa a usar 'robôs camareiros' para liberar funcionários de tarefas repetitivas; veja fotos",
-      "summary": "Um hotel na Malásia começou a utilizar robôs de serviço para assumir tarefas rotineiras e liberar funcionários para atividades que exigem maior interação com os hóspedes. A iniciativa é da YYForce, empresa de soluções de força de trabalho sediada em Singapura, que implementou a tecnologia no Aloft by Marriott Langkawi Pantai Tengah, localizado na ilha de Langkawi. O robô foi introduzido por meio da marca YY Circle Malaysia, da YYForce, como parte da estratégia da companhia de combinar trabalho humano e automação no setor de hotelaria. A proposta é utilizar máquinas em atividades operacionais adequadas à tecnologia, permitindo que os profissionais concentrem seus esforços no atendimento personalizado. Robô camareiro tem objetivo de diminuir tarefas repetitivas dos humanos, alega hotel Divulgação A implementação faz parte de uma parceria firmada em 2025 entre a YYForce, anteriormente conhecida como YY Group, e a Keenon, fornecedora global de robôs de serviço. O acordo prevê explorar a utilização dessas máquinas no setor hoteleiro do Sudeste Asiático. \"A hospitalidade é construída em torno das pessoas, e vemos a robótica como uma maneira prática de apoiar as equipes responsáveis por proporcionar essa experiência\", afirmou Mike Fu, CEO da YYForce, em comunicado. Segundo o executivo, o objetivo é testar os robôs em ambientes reais de operação, identificar onde podem agregar valor e desenvolver soluções que trabalhem ao lado dos funcionários. A experiência na Malásia também funcionará como um teste para avaliar a viabilidade da tecnologia em outros estabelecimentos. A empresa pretende acompanhar indicadores como conclusão de tarefas, confiabilidade dos equipamentos, adesão dos funcionários e avaliações dos hóspedes. Os resultados deverão orientar futuras decisões de implementação e melhorias no serviço. O movimento acompanha a expansão da robótica no setor hoteleiro asiático. No Japão, robôs já são utilizados em hotéis, enquanto a China também explora modelos de estabelecimentos operados integralmente por máquinas. Listada na Nasdaq sob o código YFOR, a YYForce registrou receita de US$ 57,2 milhões em 2025, crescimento de 39,3% em relação ao ano anterior. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/tecnologia/noticia/2026/10/hotel-na-malasia-comeca-a-usar-robos-camareiros-para-liberar-funcionarios-de-tarefas-repetitivas-veja-fotos.ghtml",
-      "published": "2026-10-21T14:33:20+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "hotel",
-        "setor hoteleiro"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "setor hoteleiro",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "hotel",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 22.0
-    },
-    {
       "title": "Flávio reúne sertanejos no programa eleitoral e critica governo por dívidas das famílias, e Lula usa Janones e ataca rival sobre programas sociais",
       "summary": "As campanhas de Flávio Bolsonaro (PL) e do presidente Luiz Inácio Lula da Silva (PT) escolheram estratégias distintas para encerrar a propaganda eleitoral gratuita nesta sexta-feira. Enquanto o senador aposta em manifestações de apoio de cantores sertanejos, mensagens de fé e um apelo para que os eleitores não se intimidem na hora de votar, o petista dedicou parte do último programa a ataques ao adversário, explorando investigações e propostas econômicas, antes de adotar um tom de despedida e pedir mobilização até domingo. Os programas de rádio foram ao ar nesta manhã, enquanto os da TV, que costumam ser semelhantes aos do rádio, vão ao ar à tarde. O programa de Flávio começa com um grupo de pessoas tocando instrumentos musicais ao som do Hino Nacional. Na sequência, reúne participações de artistas como Gusttavo Lima, Marrone e Rodolffo, ex-participante do Big Brother Brasil, e apresenta uma retrospectiva das viagens do candidato pelo país. A peça combina agradecimentos aos eleitores com críticas à situação econômica e à segurança pública, temas que marcaram a campanha do senador. Em uma das passagens, Flávio afirma ter sido transformado pelo contato com a população durante a disputa presidencial. — Eu tive uma aula de Brasil com vocês, vocês me levaram para andar pelo Brasil real. Eu aprendi com vocês, eu nunca mais vou ser o mesmo — diz. A participação dos sertanejos ocorre depois de um encontro promovido nesta semana, em Goiás, que reuniu artistas em apoio ao candidato. Na ocasião, Flávio também prometeu retomar o Programa Emergencial de Retomada do Setor de Eventos (Perse), criado durante a pandemia e encerrado em 2025 após atingir o limite de R$ 15 bilhões em renúncias fiscais. Na propaganda, o senador apresenta a eleição como uma escolha entre a continuidade do governo Lula e uma mudança de rumo, com críticas ao endividamento das famílias, à perda de poder de compra e à criminalidade. — Você vai escolher se vai viver com medo ou se os bandidos é que vão ter medo de nós — afirma. A parte final concentra o apelo à mobilização dos eleitores, uma das principais preocupações da campanha diante da disputa apertada. Flávio pede que seus apoiadores procurem familiares e amigos, convençam indecisos e levem outras pessoas às urnas. — E agora é hora de força total. Fala com todo mundo, chama sua família, seus amigos, peça voto. Leve gente pra votar com você — diz. O senador também ressalta o sigilo do voto e orienta os eleitores a não se intimidarem diante de eventuais pressões. O programa termina com uma oração e uma mensagem de fé. Lula concentra ataques em Flávio Do lado petista, o último programa de rádio começa com uma sequência de críticas a Flávio, apresentada sob o argumento de revelar fatos que o adversário tentaria esconder. A propaganda explora episódios envolvendo o senador, como seu posicionamento sobre a licença-maternidade, declarações sobre privatizações e cortes de gastos, além de suspeitas relacionadas a milícias, apostas e ao Banco Master. A peça também apresenta o depoimento da mãe de uma menina de cinco anos assassinada, cujo autor recebeu assistência jurídica de Flávio, e recupera declarações do candidato sobre milícias. Em outro trecho, a campanha associa a proposta de ajuste fiscal do senador ao risco de cortes em salários, aposentadorias e programas sociais, como o Bolsa Família e o Farmácia Popular. A propaganda ainda acusa Flávio de tentar reverter o fim da escala 6x1 e utiliza uma declaração do senador favorável à privatização da Petrobras para associar a proposta ao risco de aumento dos combustíveis. As afirmações são apresentadas pela campanha de Lula como argumentos contra a eleição do adversário. Após a sequência de ataques, o deputado André Janones (Rede-MG) aparece para convocar uma mobilização permanente até a votação. — Daqui até domingo ninguém dorme, não tem sossego. Avisa pra todo mundo que é vigília 24 horas por dia — afirma. Na segunda parte, o programa muda de tom. Os apresentadores da propaganda se despedem dos ouvintes e convidam os eleitores a encarar o domingo como o primeiro dia de uma nova etapa. Lula, por sua vez, faz um balanço de sua trajetória e defende a continuidade do governo, afirmando que o país avançou desde o início de seu mandato, embora ainda tenha desafios pela frente. — Tenho dedicado minha vida a lutar por um país mais justo, com oportunidades para todos. Sei que ainda temos muito a avançar, mas o Brasil de hoje é melhor do que o Brasil que encontrei — afirma o presidente. O petista também retoma as críticas ao adversário ao defender que o país não avançará com a retirada de direitos, o desrespeito às mulheres ou a presença de milicianos na segurança pública. Em seguida, pede que os apoiadores ocupem as ruas e as redes sociais até domingo. — Temos milhões de brasileiros e brasileiras botando fé nesse futuro, botando fé no Brasil. Eu sou desses brasileiros, eu sou de vocês, eu tenho certeza que vamos vencer — diz. A propaganda termina com uma nova intervenção de Janones, que pede aos eleitores que reproduzam o jingle de Lula em volume alto, em carros e residências, como forma de ampliar a mobilização na reta final. As mensagens finais refletem a preocupação das duas campanhas com a capacidade de levar seus apoiadores às urnas em uma disputa sem favorito definido. Pesquisa Datafolha divulgada nesta quinta-feira mostrou Flávio com 47% das intenções de voto, contra 46% de Lula, diferença dentro da margem de erro de dois pontos percentuais. Nos votos válidos, os candidatos aparecem empatados, com 50% cada.",
       "url": "https://oglobo.globo.com/politica/eleicoes-2026/noticia/2026/10/23/flavio-reune-sertanejos-no-programa-eleitoral-e-critica-governo-por-dividas-das-familias-e-lula-usa-janones-e-ataca-rival-sobre-programas-sociais.ghtml",
@@ -4181,29 +4181,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Intenções de voto, indecisão e 'medo de Bolsonaro': os reflexos do discurso sobre Bolsa Família na pesquisa Quaest",
-      "summary": "O acirramento das discussões sobre o Bolsa Família, que ganhou centralidade nos últimos dias, já surtiu alguns efeitos na nova pesquisa Quaest, contratada pelo GLOBO e pela TV Globo. Os beneficiários do programa social registraram variações nas intenções de voto, estão mais indecisos na sondagem espontânea e reforçaram o temor de um eventual retorno da família Bolsonaro ao poder. Pesquisa Quaest: Flávio tem 45%, e Lula marca 44%; distância diminui a quatro dias da eleição Na pesquisa estimulada, o presidente Luiz Inácio Lula da Silva (PT) oscilou dois pontos para cima em uma semana entre os que recebem o auxílio e chegou a 62%, enquanto Flávio Bolsonaro (PL) recuou quatro pontos e tem 27%. Os movimentos se deram enquanto o patamar visto entre os não-beneficiários ficou na mesma. Initial plugin text Uma das principais variações está na pesquisa espontânea, aquela em que o entrevistado não é apresentado previamente aos candidatos disponíveis. O percentual dos indecisos entre os beneficiários, aqui, mais que dobrou: saiu de 7% para 19%. Trata-se de uma ascensão bem maior que a registrada pelos não-beneficiários, que foram de 8% para 12%. Outro ponto que evidencia as mudanças da semana passada para a atual é a pergunta que testa se o eleitor tem mais medo da continuidade de Lula ou da volta dos Bolsonaro ao governo. Estável no grupo dos que não recebem o auxílio, a curva se abriu entre quem conta com ele. Agora, 63% temem mais o retorno da família de Flávio, e apenas 23% mencionam a sequência do lulismo como principal temor. O placar era de 58% a 29% na semana passada. Flávio, aliás, é rejeitado por 68% dos beneficiários, e o percentual cai para 48% entre quem não recebe o auxílio. No caso de Lula, a diferença é ainda mais brusca: apenas 27% no grupo dos beneficiários, ante 53% nos demais. A Quaest ouviu 2.154 eleitores entre os dias 17 e 20 de outubro. Registrado na Justiça Eleitoral sob o protocolo BR-08535/2026, o levantamento tem margem de erro geral de dois pontos para mais ou para menos, e o nível de confiança é de 95%. Initial plugin text",
-      "url": "https://oglobo.globo.com/blogs/pulso/post/2026/10/intencoes-de-voto-indecisao-e-medo-de-bolsonaro-os-reflexos-do-discurso-sobre-bolsa-familia-na-pesquisa-quaest.ghtml",
-      "published": "2026-10-21T14:10:13+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/politica",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Associação de restaurantes processa Keeta por compra sem autorização",
@@ -9036,6 +9013,29 @@
       "score": 20.0
     },
     {
+      "title": "Adyen shares drop 12% as lower margin target overshadows revenue beat",
+      "summary": "Adyen shares drop 12% as lower margin target overshadows revenue beat &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/dutch-fintech-firm-adyens-revenue-tops-forecast-trims-2026-margin-goal-2026-10-28",
+      "published": "2026-10-28T09:11:33+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "target"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "target",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Fim da escala 6x1: 5 dúvidas que empresas precisam esclarecer até dezembro",
       "summary": "Advogada esclarece cinco dúvidas sobre prazos, remuneração, folgas, banco de horas e contratos de trabalho",
       "url": "https://exame.com/bussola/fim-da-escala-6x1-5-duvidas-que-empresas-precisam-esclarecer-ate-dezembro",
@@ -9074,6 +9074,29 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Lula amplia votação em cidades com mais beneficiários do Bolsa Família por domicílio no 2º turno",
+      "summary": "Todas as dez cidades do ranking ficam localizadas no interior das regiões Norte e Nordeste, sobretudo nos estados do Amazonas, Amapá e Maranhão",
+      "url": "https://exame.com/brasil/lula-amplia-votacao-em-cidades-com-mais-beneficiarios-do-bolsa-familia-por-domicilio-no-2o-turno",
+      "published": "2026-10-28T11:04:52+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
           "field": "title",
           "score": 20,
           "topic": null
@@ -9174,6 +9197,75 @@
       "score": 20.0
     },
     {
+      "title": "Endividamento de risco no Brasil cresce 75% em cinco anos, diz BC",
+      "summary": "O número de brasileiros em situação de endividamento de risco chegou a 20,3 milhões em junho de 2026, alta de 75% em cinco anos, informou nesta terça-feira, 27, o Relatório de Estabiliadde Financeira do Banco Central (BC). O contingente representa 17% dos devedores do Sistema Financeiro Nacional. Diante do avanço do problema, o presidente do [&#8230;] O post Endividamento de risco no Brasil cresce 75% em cinco anos, diz BC apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/28/10/2026/economia/endividamento-de-risco-no-brasil-cresce-75-em-cinco-anos-diz-bc",
+      "published": "2026-10-28T13:11:08+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Vale-refeição e alimentação terão novas regras em novembro; veja o que muda",
+      "summary": "Cartões deverão funcionar em qualquer maquininha habilitada, enquanto restaurantes e supermercados poderão se beneficiar de taxas menores",
+      "url": "https://veja.abril.com.br/economia/vale-refeicao-e-alimentacao-terao-novas-regras-em-novembro-veja-o-que-muda",
+      "published": "2026-10-28T14:20:27+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "vale-refeição"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vale-refeição",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Veto às bets faz consumo subir 6,5% nos supermercados, diz Abras",
+      "summary": "Arroz, óleo, macarrão e café estão entre os itens mais procurados, em um movimento que a entidade relaciona à queda dos gastos com apostas",
+      "url": "https://veja.abril.com.br/economia/veto-as-bets-faz-consumo-subir-65-nos-supermercados-diz-abras",
+      "published": "2026-10-28T14:22:07+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Vou de Busão amplia compra digital de passagens no Nordeste",
       "summary": "A compra de passagens rodoviárias no Nordeste começa a percorrer o mesmo caminho já trilhado pelos serviços bancários e pelo comércio eletrônico na região. Levantamento do Instituto Brasileiro de Geografia e Estatística (IBGE) aponta que 88,5% da população de 10 anos ou mais dos nove estados nordestinos utilizou a internet no período de referência da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua de 2025. É nesse cenário que a Vou de Busão, marketplace digital de passagens rodoviárias, busca ampliar o acesso à compra digital de passagens no Nordeste, por meio de uma plataforma em que o passageiro pesquisa, compara, compra e gerencia bilhetes pelo celular. O mesmo estudo indica que comprar ou encomendar bens e serviços pela internet foi uma das finalidades que mais avançaram no país, com crescimento de 4,8 pontos percentuais em relação ao ano anterior. A atividade foi relatada por 52,7% dos usuários de internet em 2025, a primeira vez na série histórica em que mais da metade do grupo declara realizar compras on-line. O acesso a bancos e a outras instituições financeiras, citado por 74,2% dos usuários, também registrou expansão no período. Na leitura da empresa, a digitalização não altera a forma como o nordestino viaja, e sim como ele organiza e adquire essa viagem. Em vez de depender do deslocamento até a rodoviária ou de uma negociação presencial no guichê, o passageiro consegue consultar trechos, horários e companhias de onde estiver. A companhia descreve o processo em etapas curtas: informar origem, destino e data, verificar as opções disponíveis e concluir a compra pelo celular. Celular concentra decisões do cotidiano De acordo com a Vou de Busão, o telefone móvel passou a integrar diversas escolhas do dia a dia, e a aquisição de passagens acompanha esse movimento. A empresa observa que o público busca mais autonomia para pesquisar horários, comparar alternativas e organizar o deslocamento sem depender exclusivamente de um ponto físico de venda. Entre as dificuldades que permanecem, a marca relaciona identificar as opções disponíveis para determinado trecho, comparar horários e viações e entender qual alternativa atende melhor à necessidade de cada viagem. No ambiente digital, segundo a companhia, essas informações podem ficar reunidas em um único lugar, o que tende a simplificar a pesquisa, a comparação e a conclusão do pedido. A relevância do modal para a região aparece nos números do setor. Conforme os dados da Agência Nacional de Transportes Terrestres (ANTT), reunidos na publicação TRIIP 2025, o serviço regular de transporte rodoviário interestadual movimentou aproximadamente 36,7 milhões de passageiros em 2025. O Nordeste respondeu por cerca de 18,5% dos embarques por origem das viagens, a segunda maior participação do país, atrás apenas do Sudeste. O mesmo documento da ANTT posiciona Maranhão e Bahia entre os estados com mais da metade dos municípios contemplados pelos mercados autorizados, indicador de capilaridade do serviço em áreas fora dos grandes centros. Atendimento humano complementa a jornada digital Um dos pontos destacados pela empresa está no suporte por WhatsApp, conduzido por atendentes humanos, canal mantido em paralelo à plataforma. A companhia afirma que o recurso atende principalmente quem tem dúvidas, precisa de orientação durante a compra ou busca apoio após a conclusão do pedido. A proposta, segundo a marca, é oferecer a praticidade da tecnologia sem eliminar a possibilidade de conversar com uma pessoa quando houver necessidade, mantendo o atendimento humano como parte da experiência de compra. A plataforma opera em âmbito nacional e reúne mais de 300 viações, informação divulgada pela própria Vou de Busão. O alcance da operação inclui trechos entre capitais, cidades do interior e demais destinos atendidos em Alagoas, Bahia, Ceará, Maranhão, Paraíba, Pernambuco, Piauí, Rio Grande do Norte e Sergipe. A empresa informa que trabalha com viações parceiras que operam conforme as exigências regulatórias aplicáveis, incluindo a autorização da ANTT para os serviços interestaduais. A companhia avalia que a viagem de ônibus no Nordeste atende necessidades bastante distintas, que vão de trabalho e estudo a visitas familiares e turismo, conectando capitais e municípios do interior. Nessa leitura, a jornada digital tende a acompanhar a diversidade desses deslocamentos, ampliando a autonomia de quem pesquisa, compara e compra conforme a própria demanda. O propósito declarado pela marca consiste em estender essa facilidade sem perder a proximidade com o passageiro e o suporte ao longo do processo. O avanço da conectividade no Nordeste, o peso do transporte rodoviário na mobilidade regional e a expansão das compras on-line compõem o pano de fundo dessa transformação. A combinação entre plataforma digital e canais de atendimento humano, conforme a estratégia apresentada pela empresa, busca responder a um público que já resolve parte da rotina pelo celular, mas que ainda encontra obstáculos para comparar trechos e horários de forma centralizada. O desafio seguinte, nesse recorte, está em tornar a jornada compreensível também para quem tem menor familiaridade com ferramentas digitais. Para mais informações, basta acessar: https://voudebusao.com/",
       "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/21/vou-de-busao-amplia-compra-digital-de-passagens-no-nordeste-1.ghtml",
@@ -9211,38 +9303,6 @@
         }
       ],
       "score": 18.0
-    },
-    {
-      "title": "Musk vai unir SpaceX e Tesla? Empresas formam comitê para avaliar fusão de US$ 3,6 trilhões",
-      "summary": "Duas das empresas do magnata Elon Musk, a companhia de lançamento de foguetes e satélites SpaceX e a montadora de carros elétricos Tesla analisam a possibilidade de fusão. Ambas criaram comitês especiais para avaliar a operação, que daria origem a uma gigante com valor de mercado estimado em US$ 3,6 trilhões. A cifra colocaria a companhia entre as cinco mais valiosas do mundo, ao lado de Nvidia, Apple, Alphabet e Microsoft. Concorrência: Compra da Caju pelo iFood acirra disputa no mercado de vales-refeição e alimentação Ampliando atuação: Salesforce comprará plataforma de marketing Braze por US$ 5,7 bi Na terça-feira, em um call com investidores sobre a divulgação do resultado da SpaceX, Musk apontou a possibilidade de negócio entre as duas empresas como “uma boa ideia”. A declaração ajudou as ações da SpaceX a avançarem 8% após o fechamento do mercado. A empresa obteve o primeiro lucro desde a abertura capital da companhia, o que também impulsionou os papéis. — Considero que seria uma boa ideia, mas a decisão cabe aos comitês especiais de ambas as empresas — afirmou Musk. Tesla apresenta novo carro que ‘voa’ e acelera como um foguete Esta foi a primeira confirmação oficial de que as companhias mantêm conversas formais sobre uma possível fusão. Apesar de demonstrar apoio à operação, Musk ponderou que ainda é cedo para afirmar que a união será concretizada. Na call com investidores, o homem mais rico do mundo explicou que, por ter interesses diretos nas duas empresas, não poderia participar das discussões conduzidas pelos comitês, formados por conselheiros independentes. Musk é fundador, CEO e o sócio majoritário de ambas as companhias. Segundo ele, os comitês foram criados a pedido dos acionistas, que terão de aprovar qualquer eventual transação. Desinvestimento: Prudential venderá unidades no Brasil e no México para francesa CNP por US$ 4 bi Caso a fusão se concretize, a empresa combinada reuniria negócios que vão de foguetes e satélites a veículos elétricos, robôs e inteligência artificial. Em fevereiro deste ano, a SpaceX se uniu à xAI, startup responsável pelo chatbot Grok, que já era controlada pelo bilionário. As duas companhias já compartilham projetos. Na semana passada, foi lançado o novo Roadster da Tesla. Na demonstração para convidados, o carro acionou propulsores como os usados em foguetes, que o fizeram voar sobre uma fileira de outros veículos da Tesla, fazendo piruetas e cambalhotas. Engenheiros da SpaceX trabalharam no produto em conjunto com os da montadora. Evento de lançamento do Roadster, no Texas, Estados Unidos: carro sobrevoa outros veículos e dá piruetas no ar Photo by Tesla / AFP 155 mil empregados Juntas, as duas empresas empregariam mais de 155 mil pessoas e gerariam uma receita conjunta de US$ 153 bilhões neste ano, segundo projeções de analistas compiladas pela Visible Alpha. Esses mesmos analistas, porém, esperam que o grupo registre fluxo de caixa livre negativo de pelo menos US$ 54 bilhões, à medida que os planos de gastos de Musk com infraestrutura de inteligência artificial (IA), fábricas de chips e foguetes crescem a cada dia. O negócio também ampliaria o controle de Musk sobre a Tesla. Ele detém cerca de 84% dos direitos de voto da SpaceX por meio de ações com poder de voto especial, em comparação com aproximadamente 20% na Tesla, onde cada ação dá direito a um voto. Grok é o chatbot de Musk que foi incorporado pela SpaceX no início do ano Kirill Kudryavtsev/AFP Barreiras regulatórias nos EUA e na China Musk já havia sinalizado a acionistas a possibilidade de unir a SpaceX e a Tesla, citando a crescente integração entre as operações das duas empresas. Nos últimos dias, ganhou força a especulação de que a companhia aeroespacial poderia comprar a fabricante de veículos elétricos. Na semana passada, o Barclays chegou a sugerir que um acordo poderia ser anunciado antes da assembleia anual de acionistas da Tesla, prevista para dezembro. Licitação por espectro: Operadoras de telefonia da Europa estudam criar grupo de satélites para fazer frente à Starlink, de Musk A fusão, porém, enfrenta obstáculos significativos. Entre eles, segundo reportagem do Financial Times, estão as preocupações dos acionistas com a concentração de poder nas mãos de Musk e a necessidade de aprovação das autoridades regulatórias dos Estados Unidos e da China. A operação deverá passar por um escrutínio rigoroso, por se tratar da maior fusão empresarial da história. Enquanto as negociações estão em andamento, os analistas se voltam para o resultado da SpaceX. Na call com investidores, Musk afirmou que a empresa deve alcançar entre US$ 500 bilhões e US$ 1 trilhão em receita até o fim de 2027. A projeção reflete a disparada da demanda por espaço em centros de processamento de dados, impulsionada pelo avanço da IA. Segundo o empresário, a empresa terá cerca de 3 gigawatts de capacidade computacional em operação até o fim deste ano e 13 gigawatts até o fim do próximo.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/21/musk-vai-unir-spacex-e-tesla-empresas-formam-comite-para-avaliar-fusao-de-us-36-trilhoes.ghtml",
-      "published": "2026-10-21T14:31:21+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "apple",
-        "ifood"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ifood",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "apple",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 16.0
     },
     {
       "title": "Febraban cria assistente de IA para educação financeira",
@@ -9923,29 +9983,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "PF investiga se Flávio Bolsonaro é sócio oculto de bet, diz revista",
-      "summary": "A Polícia Federal solicitou ao STF (Supremo Tribunal Federal) a abertura de um inquérito para investigar se o candidato à presidência Flávio Bolsonaro ( PL ) é sócio oculto da BestBet, casa de apostas online licenciada pelo governo de Cláudio Castro (PL-RJ) . A informação foi publicada pela revista Piauí. Leia mais (10/21/2026 - 11h26)",
-      "url": "https://www1.folha.uol.com.br/mercado/2026/10/pf-investiga-se-flavio-bolsonaro-e-socio-oculto-de-bet-diz-revista.shtml",
-      "published": "2026-10-21T14:26:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "apostas online"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "apostas online",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Taiwan Adquire 65 Mil Toneladas de Milho do Brasil com Prêmio Menor",
@@ -11532,6 +11569,29 @@
         {
           "sector": "Farmácias",
           "alias": "medley",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "'Tiktoker' famoso nos EUA fica sem movimentos nas pernas após acidente de ciclomotor",
+      "summary": "O criador de conteúdo FunBucketKustoms, de 27 anos, ficou sem os movimentos das pernas após um acidente de ciclomotor em 10 de outubro, em Hawthorne, na Flórida, nos Estados Unidos. Com cerca de 600 mil seguidores no TikTok, ele relatou ter sofrido múltiplas fraturas na perna esquerda e na pélvis depois que, segundo seu relato, outro motorista invadiu sua faixa e bateu de frente com ele. Leia: Família processa escola nos EUA após mais de 50 alunos comerem pretzels com produto de limpeza Nos EUA: Homem de 63 anos afirma ter ficado cego após usar Ozempic e processa fabricante do medicamento — Estou destruído e a motoneta também. Estamos ambos em maus lençóis — afirmou o influenciador em um vídeo publicado na rede social, no qual aparece em uma cadeira de rodas. Duas semanas internado e dificuldades financeiras Após passar duas semanas no hospital, Kustoms disse que ficou com a mobilidade das pernas comprometida e que não consegue movimentar a pélvis. Ele também relatou ter perdido a consciência por alguns minutos durante o acidente e afirmou que precisou de procedimentos de emergência para sobreviver. — Tenho sorte de estar vivo agora. Agradeço a Deus por estar vivo. Deus me deu uma segunda chance na vida — declarou. O influenciador, conhecido por publicar vídeos sobre carros e que não revela seu nome verdadeiro na internet, também afirmou enfrentar uma dívida médica elevada. Segundo ele, a falta de plano de saúde contribuiu para que deixasse o hospital antes do que esperava. O caso envolvendo o outro motorista, de acordo com Kustoms, ainda não foi resolvido. O criador de conteúdo iniciou uma campanha de arrecadação no GoFundMe com meta de US$ 28,6 mil. Ele pretende documentar o processo de recuperação nas redes sociais e espera voltar a andar. — Vai ser apenas uma luta diária para sair desta maldita cadeira de rodas e voltar a ser o FunBucket — concluiu.",
+      "url": "https://oglobo.globo.com/saude/epoca/noticia/2026/10/28/tiktoker-famoso-nos-eua-fica-sem-movimentos-nas-pernas-apos-acidente-de-ciclomotor.ghtml",
+      "published": "2026-10-28T14:01:42+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "tiktok"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "tiktok",
           "field": "lead",
           "score": 8,
           "topic": null
