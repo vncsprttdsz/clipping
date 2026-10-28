@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-28T14:37:07.085615+00:00",
-  "count": 431,
-  "new_this_run": 17,
+  "generated_at": "2026-10-28T15:07:47.218844+00:00",
+  "count": 428,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "'Rosto Ozempic': com aumento de medicamentos para perda de peso, indústria de cosméticos corre para tratar efeitos colaterais",
@@ -997,38 +997,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Justiça aprova recuperação judicial do Grupo Casas Bahia",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/negocios/justica-aprova-recuperacao-judicial-do-grupo-casas-bahia",
-      "published": "2026-10-21T15:07:17+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/negocios/",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "recuperação judicial"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperação judicial",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Casas Bahia vai fechar? Justiça aceita recuperação judicial de R$ 17 bi",
@@ -4181,75 +4149,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Associação de restaurantes processa Keeta por compra sem autorização",
-      "summary": "A ANR (Associação Nacional de Restaurantes) protocolou uma ação civil pública contra a Keeta , subsidiária da chinesa Meituan, na Justiça de São Paulo contestando o modelo de compra intermediada adotado pela companhia de delivery no Brasil. Leia mais (10/21/2026 - 11h42)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/associacao-de-restaurantes-processa-keeta-por-compra-sem-autorizacao.shtml",
-      "published": "2026-10-21T14:42:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Skincare em dias de mudanças drásticas no clima",
-      "summary": "Skincare em dias de mudanças drásticas no clima &nbsp;&nbsp; Valor Econômico",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/21/skincare-em-dias-de-mudancas-drasticas-no-clima-1.ghtml",
-      "published": "2026-10-21T14:45:37+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:valor.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Restaurantes Vão À Justiça contra Modelo de Delivery da Keeta no Brasil",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Associação Nacional de Restaurantes pede suspensão da compra intermediada, modelo que inclui restaurantes no aplicativo sem autorização prévia O post Restaurantes Vão À Justiça contra Modelo de Delivery da Keeta no Brasil apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/10/anr-processa-keeta-compra-intermediada-restaurantes",
-      "published": "2026-10-21T14:46:39+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "End of an era? How the Hermes Birkin bag is losing its scarcity appeal",
@@ -9258,6 +9157,29 @@
         {
           "sector": "Economia",
           "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Black Friday: Mercado Livre mantém R$ 100 mi em cupons e triplica descontos",
+      "summary": "Black Friday: Mercado Livre mantém R$ 100 mi em cupons e triplica descontos &nbsp;&nbsp; E-Commerce Brasil",
+      "url": "https://www.ecommercebrasil.com.br/noticias/black-friday-mercado-livre-mantem-r-100-mi-em-cupons-e-triplica-descontos",
+      "published": "2026-10-28T15:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado livre"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado livre",
           "field": "title",
           "score": 20,
           "topic": null
