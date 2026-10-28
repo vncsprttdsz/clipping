@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T09:53:38.250482+00:00",
+  "generated_at": "2026-10-28T10:32:45.686496+00:00",
   "count": 430,
   "new_this_run": 9,
   "articles": [
@@ -1092,38 +1092,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Recuperação extrajudicial do GPA: B3 bloqueia títulos e abre prazo de 60 dias",
-      "summary": "Publicação da sentença no diário oficial dispara os prazos para aporte de R$ 200 milhões e emissão dos novos títulos da varejista",
-      "url": "https://exame.com/invest/mercados/recuperacao-extrajudicial-do-gpa-b3-bloqueia-titulos-e-abre-prazo-de-60-dias",
-      "published": "2026-10-21T09:55:06+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Varejo Alimentar",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "gpa",
-        "recuperação extrajudicial"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "gpa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperação extrajudicial",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Sentença de homologação do plano de recuperação extrajudicial do GPA é publicada",
@@ -4211,6 +4179,37 @@
           "alias": "bets",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "O que o Mounjaro pode fazer com a depressão, segundo novo estudo",
+      "summary": "Pesquisa associa tirzepatida a menos pensamentos suicidas em pessoas com depressão e obesidade",
+      "url": "https://veja.abril.com.br/saude/o-que-o-mounjaro-pode-fazer-com-a-depressao-segundo-novo-estudo",
+      "published": "2026-10-28T10:00:40+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "mounjaro",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "mounjaro",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -9288,6 +9287,29 @@
       "score": 20.0
     },
     {
+      "title": "Fim da escala 6x1: governo prepara decreto para definir exceções à regra",
+      "summary": "Segundo a senadora Teresa Leitão, regulamentação deve contemplar jornadas atípicas, como plantões e atividades de aeroviários, e pode ficar pronta até dezembro",
+      "url": "https://exame.com/brasil/fim-da-escala-6x1-governo-prepara-decreto-para-definir-excecoes-a-regra",
+      "published": "2026-10-28T06:56:32+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "De Heleninha Roitman às bets: como os vícios são retratados nos filmes, nas séries e novelas",
       "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/eu-e/noticia/2026/10/28/de-heleninha-roitman-as-bets-como-os-vicios-sao-retratados-nos-filmes-nas-series-e-novelas.ghtml",
@@ -11468,29 +11490,6 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Galípolo Nega Convite para a Fazenda e Reforça Mandato no BC até 2028",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Presidente do BC comenta volatilidade cambial após as eleições e possíveis efeitos inflacionários do fim da escala 6x1 O post Galípolo Nega Convite para a Fazenda e Reforça Mandato no BC até 2028 apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-money/2026/10/galipolo-nega-convite-para-a-fazenda-e-reforca-mandato-no-bc-ate-2028",
-      "published": "2026-10-27T17:10:12+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "lead",
-          "score": 8,
-          "topic": "jornada_trabalho"
         }
       ],
       "score": 8.0
