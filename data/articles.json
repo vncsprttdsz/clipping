@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:10:04.353756+00:00",
-  "count": 428,
-  "new_this_run": 27,
+  "generated_at": "2026-10-29T11:38:49.266392+00:00",
+  "count": 431,
+  "new_this_run": 31,
   "articles": [
     {
       "title": "Listadas: Por que Smart Fit, Raia Drogasil e Panvel resistem a consumo fraco",
@@ -357,6 +357,61 @@
         }
       ],
       "score": 68.0
+    },
+    {
+      "title": "Anvisa aprova 5 novas canetas para diabetes e obesidade",
+      "summary": "Três medicamentos são à base de liraglutida e dois contêm semaglutida; agência já aprovou 20 canetas em 2026",
+      "url": "https://exame.com/brasil/anvisa-aprova-5-novas-canetas-para-diabetes-e-obesidade",
+      "published": "2026-10-29T08:24:38+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "liraglutida",
+        "medicamentos",
+        "obesidade",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "liraglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 64.0
     },
     {
       "title": "Lancôme aposta no TikTok Shop para vender perfumes de luxo",
@@ -1455,37 +1510,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Nem a Birkin salva: Hermès vê crescimento perder força na Ásia em meio a crise do luxo",
-      "summary": "Nem a Birkin salva: Hermès vê crescimento perder força na Ásia em meio a crise do luxo &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/nem-a-birkin-salva-hermes-ve-crescimento-perder-forca-na-asia-em-meio-a-crise-do-luxo",
-      "published": "2026-10-22T11:19:24+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "hermès",
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "hermès",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Vendas da Prada perdem força com desaceleração do setor de luxo",
@@ -3221,6 +3245,37 @@
         {
           "sector": "Global Consumer",
           "alias": "zepbound",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Eli Lilly profits surge on demand for weight-loss drugs",
+      "summary": "US drugmaker to raise its revenue outlook for the second time in three months",
+      "url": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c?syn-25a6b1a6=1",
+      "published": "2026-10-29T11:04:04+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly",
+        "weight-loss drugs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "weight-loss drugs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
           "field": "title",
           "score": 20,
           "topic": null
@@ -9541,35 +9596,66 @@
       "score": 20.0
     },
     {
-      "title": "Esmeralda aposta em Réveillon temático do Egito Antigo",
-      "summary": "O Esmeralda Praia Hotel já definiu o tema do seu Réveillon 2026/2027: o Egito Antigo. A escolha aposta em uma virada de ano temática e imersiva, voltada para hóspedes, em um período que se tornou o ponto alto do calendário turístico brasileiro. O peso econômico da temporada ajuda a entender a aposta. A última alta temporada de verão, de dezembro a fevereiro, foi projetada pela CNC em R$ 218,77 bilhões, um recorde que representa cerca de 44% de toda a receita anual do turismo nacional. É a janela em que a procura se concentra e em que destinos e hotéis mais disputam a atenção do viajante. Nesse cenário, a experiência oferecida na noite da virada se firmou como fator de diferenciação. O hotel apostou em um evento exclusivo para hóspedes, construído inteiro em torno de um tema, do cenário à programação, com a intenção de transformar a estadia de fim de ano em uma vivência completa, e não apenas em uma ceia comemorativa. A revelação antecipada do tema também faz parte do movimento. Quem planeja a virada de ano costuma decidir a viagem com meses de antecedência, e saber o que vai encontrar pesa nessa escolha tanto quanto o destino. Uma virada ambientada no Egito Antigo Para Ruan Henrique, supervisor de marketing do Esmeralda Praia Hotel, em Ponta Negra, a proposta é fazer o hóspede entrar em outro mundo assim que chega à festa. \"A decoração é imersiva, ambientada no Egito Antigo, com áreas cenográficas pensadas também para foto, e as experiências da noite bebem do mesmo tema, para que tudo converse entre si, do visual à programação\", afirma. Segundo o supervisor, a aposta na ambientação responde ao que o viajante passou a valorizar. \"O que segura o hóspede hoje é a história que a festa conta, mais do que a ceia em si. Uma virada temática dá o que lembrar e o que compartilhar, e é isso que faz a experiência render depois, quando o hóspede volta a falar dela para outras pessoas\", afirma. O que espera o hóspede na noite da virada Para Amanda Correia, gerente comercial do Esmeralda Praia Hotel, a estrutura da festa foi desenhada para tirar qualquer preocupação da noite. \"Cada apartamento tem mesa reservada no evento, com espumante de cortesia, e a noite conta com open bar e open food premium. A ideia é que o hóspede não precise resolver nada na virada, apenas aproveitar, porque está tudo dentro do hotel e incluso na reserva\", afirma. Segundo a gerente comercial, o formato favorece um público específico da data. \"A programação tem shows com bandas ao vivo e brindes para os hóspedes, e por ser um evento exclusivo, a festa acontece dentro da própria estrutura do hotel. Isso facilita para quem viaja em família e não quer se deslocar à noite com as crianças no fim do ano\", afirma. A leitura de mercado Para Gianluca D'alessandro, CEO do Esmeralda Praia Hotel, o tamanho da temporada muda o que se espera de uma virada de ano. \"Quando o verão concentra quase metade da receita do turismo no ano, o Réveillon deixa de ser uma festa e passa a ser um produto. Escolher um tema e montar um evento só para hóspedes é a forma de entregar uma experiência que não se encontra em qualquer lugar, e que ajuda a justificar a viagem\", afirma. Para o executivo, a construção do Réveillon tem efeito que passa da própria noite. \"Uma virada bem feita fideliza, porque o hóspede que vive um bom fim de ano no hotel tende a voltar no seguinte. Por isso, a festa deixou de ser um evento pontual de dezembro e virou parte da estratégia de relacionamento do hotel com quem já é cliente\", afirma.",
-      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/10/22/esmeralda-aposta-em-reveillon-tematico-do-egito-antigo-1.ghtml",
-      "published": "2026-10-22T11:13:54+00:00",
-      "source": "https://pox.globo.com/rss/valor",
+      "title": "C&A leva seu ‘personal shopper’ movido a IA para o WhatsApp",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/10/canda-leva-seu-personal-shopper-movido-a-ia-para-o-whatsapp.ghtml",
+      "published": "2026-10-29T11:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
-        "Viagens"
+        "Fashion"
       ],
       "matched_aliases": [
-        "hotel",
-        "turismo"
+        "c&a"
       ],
       "matches": [
         {
-          "sector": "Viagens",
-          "alias": "turismo",
+          "sector": "Fashion",
+          "alias": "c&a",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Eli Lilly tem lucro líquido de US$ 6,45 bilhões no 3º trimestre, alta de 16% na base anual",
+      "summary": "A Eli Lilly somou aproximadamente US$ 6,45 bilhões de lucro líquido no terceiro trimestre de 2026, montante 16% superior ao obtido no mesmo período do ano anterior. A empresa com sede em Indianápolis, nos Estados Unidos, divulgou o balanço trimestral na manhã desta quinta-feira (29). Entre julho e setembro, a receita da farmacêutica aumentou 39% na comparação anual, para US$ 24,4 bilhões, impulsionada pelas vendas dos medicamentos Mounjaro e Zepbound. Segundo a Eli Lilly, o crescimento da receita global reflete um avanço de 53% no volume de medicamentos vendidos, parcialmente compensado por um declínio de 15% dos preços realizados. O faturamento da empresa nos Estados Unidos avançou 34% na base anual, somando US$ 15,1 bilhões. No país, o volume vendido cresceu 41%, enquanto os preços realizados recuaram 7%, principalmente em razão do Zepbound. O medicamento, ainda não comercializado no Brasil, é indicado para o controle de peso e tem a tirzepatida, a mesma substância ativa do Mounjaro, como base. Fora dos Estados Unidos, a Eli Lilly somou US$ 9,3 bilhões em receita, o que representa uma alta de 47% na comparação anual. O Mounjaro, carro-chefe da farmacêutica, respondeu por US$ 10,7 bilhões do faturamento global, ante US$ 6,5 bilhões em igual período do ano anterior — crescimento de 65%. A receita com o Zepbound avançou 49%, alcançando US$ 5,3 bilhões no trimestre. A Eli Lilly revisou suas projeções para este ano, prevendo agora que a receita fique no intervalo de US$ 91 bilhões a US$ 92 bilhões, acima da estimativa anterior, de US$ 85 bilhões a US$ 87 bilhões. Já a faixa estimada para o lucro ajustado por ação foi reduzida de US$ 35,50 a US$ 36,50 para US$ 35 a US$ 36. Segundo a companhia, a melhora no desempenho operacional permitiu elevar em US$ 4,07 o ponto médio da projeção, mas esse efeito foi mais do que compensado por despesas de US$ 4,57 por ação relacionadas à aquisição de projetos de pesquisa e desenvolvimento no terceiro trimestre. Eli Lilly Bloomberg",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/29/eli-lilly-tem-lucro-liquido-de-us-645-bilhoes-no-3o-trimestre-alta-de-16percent-na-base-anual.ghtml",
+      "published": "2026-10-29T11:30:08+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamentos",
+        "mounjaro",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
           "field": "lead",
           "score": 8,
           "topic": null
         },
         {
-          "sector": "Viagens",
-          "alias": "hotel",
+          "sector": "Farmácias",
+          "alias": "mounjaro",
           "field": "lead",
           "score": 8,
           "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "body",
+          "score": 2,
+          "topic": null
         }
       ],
-      "score": 16.0
+      "score": 18.0
     },
     {
       "title": "Prévia da inflação desacelera e fica em 0,32% em outubro, puxada por alta dos alimentos",
@@ -11758,6 +11844,29 @@
         {
           "sector": "E-commerce",
           "alias": "nubank",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Índice de Confiança do Comércio sobe para 83,1 pontos em outubro, informa FGV",
+      "summary": "O Índice de Confiança do Comércio (ICOM) do Instituto Brasileiro de Economia da Fundação Getulio Vargas (FGV Ibre) subiu 1,8 ponto em outubro, para 83,1 pontos. Em médias móveis trimestrais, o índice recuou 0,8 ponto, para 82,9 pontos. “Algumas medidas de estímulo, como reajuste de programas sociais, podem ter ajudado a interromper a trajetória de queda da confiança, mas o cenário de comprometimento de renda dos consumidores ainda parece um desafio”, avaliou o superintendente-adjunto do FGV Ibre, Rodolpho Tobler, ao lembrar que o indicador havia caído nos dois meses anteriores. Em outubro, a confiança oscilou entre os seis segmentos pesquisados, com três em alta e três em queda. O resultado refletiu a oscilação tanto nas avaliações sobre a situação atual quanto nas expectativas para os próximos meses. O Índice de Situação Atual (ISA-COM) avançou 1,8 ponto, para 82,1 pontos. Os dois indicadores que compõe o ISA-COM subiram no mês. O indicador de Situação Atual dos Negócios aumentou 2,6 pontos, para 83,5 pontos, enquanto o indicador de Volume de Demanda Atual registrou 81,2 pontos, com um diferencial de 0,9 ponto. No mesmo sentido, o Índice de Expectativas (IE-COM) subiu 1,7 ponto, após duas quedas consecutivas, registrando 85,0 pontos. O indicador de Tendência dos Negócios teve alta para 86,5 pontos, chegando ao maior nível desde fevereiro de 2026 (87,3 pontos), com um aumento de 4,8 pontos. Em contrapartida, o indicador de Vendas Previstas recuou para 84,0 pontos, alcançando o menor patamar desde setembro de 2025 (80,2 pontos), com uma diminuição de 1,5 ponto. Dado Galdieri/Bloomberg",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/29/ndice-de-confiana-do-comrcio-sobe-para-831-pontos-em-outubro-informa-fgv.ghtml",
+      "published": "2026-10-29T11:24:06+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "comprometimento de renda"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "comprometimento de renda",
           "field": "lead",
           "score": 8,
           "topic": null
