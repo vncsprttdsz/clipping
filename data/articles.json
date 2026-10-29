@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T11:38:49.266392+00:00",
-  "count": 431,
-  "new_this_run": 31,
+  "generated_at": "2026-10-29T13:42:29.008052+00:00",
+  "count": 438,
+  "new_this_run": 41,
   "articles": [
     {
       "title": "Listadas: Por que Smart Fit, Raia Drogasil e Panvel resistem a consumo fraco",
@@ -414,46 +414,6 @@
       "score": 64.0
     },
     {
-      "title": "Lancôme aposta no TikTok Shop para vender perfumes de luxo",
-      "summary": "Marca do Grupo L’Oréal aposta no crescimento dos body splashes e lança três versões da linha La Vie Est Belle na plataforma",
-      "url": "https://veja.abril.com.br/economia/lancome-aposta-no-tiktok-shop-para-vender-perfumes-de-luxo",
-      "published": "2026-10-22T12:01:21+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "E-commerce",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo",
-        "tiktok",
-        "tiktok shop"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok shop",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0
-    },
-    {
       "title": "Caneta emagrecedora: os benefícios da semaglutida que a balança não mostra",
       "summary": "Caneta emagrecedora: os benefícios da semaglutida que a balança não mostra &nbsp;&nbsp; Assine Abril",
       "url": "https://boaforma.abril.com.br/equilibrio/caneta-emagrecedora-beneficios-perda-de-peso",
@@ -565,6 +525,45 @@
         {
           "sector": "Farmácias",
           "alias": "hypera",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova cinco novas canetas emagrecedoras de GLP-1",
+      "summary": "Anvisa aprova cinco novas canetas emagrecedoras de GLP-1 &nbsp;&nbsp; CNN Brasil",
+      "url": "https://www.cnnbrasil.com.br/saude/anvisa-aprova-cinco-novas-canetas-emagrecedoras-de-glp-1",
+      "published": "2026-10-29T12:51:03+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "glp-1"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
           "field": "title",
           "score": 20,
           "topic": null
@@ -1510,37 +1509,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Vendas da Prada perdem força com desaceleração do setor de luxo",
-      "summary": "A grife italiana Prada desacelerou o crescimento das vendas num cenário que classificou como particularmente desafiador para o setor de luxo, enquanto concorrentes enfrentam dificuldades para reavivar a demanda por produtos de alto padrão. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/22/vendas-da-prada-perdem-fora-com-desacelerao-do-setor-de-luxo.ghtml",
-      "published": "2026-10-22T12:17:11+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo",
-        "setor de luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "setor de luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "No Airbnb, anfitriões não poderão mais exigir que hóspede lave louça ou troque a roupa de cama",
@@ -3284,6 +3252,99 @@
       "score": 40.0
     },
     {
+      "title": "DoorDash to acquire Instacart for $17bn",
+      "summary": "Deal further consolidates the fiercely competitive US food delivery market",
+      "url": "https://www.ft.com/content/d84d7db1-d18d-49ce-9f60-e42c07a3d67a?syn-25a6b1a6=1",
+      "published": "2026-10-29T11:57:23+00:00",
+      "source": "https://www.ft.com/rss/home",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "doordash",
+        "instacart"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "doordash",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "instacart",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "DoorDash Will Acquire Instacart In $17 Billion Deal",
+      "summary": "DoorDash will purchase Instacart in a cash and stock deal representing a 26% premium on Instacart’s stock price, the company said.",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/29/doordash-will-acquire-instacart-in-17-billion-deal",
+      "published": "2026-10-29T12:41:45+00:00",
+      "source": "https://www.forbes.com/business/feed/",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "doordash",
+        "instacart"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "doordash",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "instacart",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Fundos ligados aos irmãos Muffato alcançam participação de 15,02% no Assaí",
+      "summary": "O Assaí informou, nesta quinta-feira (29), que determinados fundos, em conjunto com os irmãos Ederson Muffato e Everton Muffato, passaram a deter participação acionária relevante de 15,02% no capital social da companhia. Há cerca de um mês, o Conselho Administrativo de Defesa Econômica (Cade) autorizou a compra de 12% das ações do Assaí por Everton Muffato e pela mesma relação de fundos. As informações foram divulgadas pela varejista em comunicado ao mercado, em que informa que a correspondência sobre a participação acionária foi enviada pelas partes hoje. São citados os fundos Snapper Rocks Strategy, WHG Apache e Exitus, Everton e Ederson Muffato, que não participou diretamente da transação que passou por análise do Cade. No formulário de referência mais recente do Assaí, de 16 de outubro, são mencionados os fundos Snapper Rocks Strategy e WHG Apache, com participações de 10,62% e 0,55%, respectivamente. Everton Muffato aparece com fatia de 0,005%. As outras partes não são relacionadas no documento. Segundo o Assaí, os investidores declararam não ter intenção de alterar a composição do controle acionário ou a estrutura administrativa da companhia. Também afirmam não haver acordos ou contratos que regulem o exercício do direito de voto ou a compra e venda de valores mobiliários de emissão do Assaí. Divulgação/Assaí",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/29/fundos-ligados-aos-irmos-muffato-alcanam-participao-de-1502-pontos-percentuais-no-assa.ghtml",
+      "published": "2026-10-29T13:24:46+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "muffato"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "muffato",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Os planos do CEO Fábio Barreto para a Farm Rio",
       "summary": "O executivo detalha a estratégia traçada até 2032, enquanto Grupo Soma e Arezzo buscam comprador para o negócio: mercado internacional maior do que o brasileiro, expansão para a Ásia e foco em São Paulo",
       "url": "https://exame.com/exame-in/os-planos-do-ceo-fabio-barreto-para-a-farm-rio",
@@ -3520,16 +3581,15 @@
       "score": 36.0
     },
     {
-      "title": "Compra de dívida é boa para as famílias e os bancos, a dúvida é o custo fiscal",
-      "summary": "Dessa vez, é o governo quem vai negociar as dívidas com os bancos, e não os endividados. E a condição é que as instituições financeiras ofereçam um desconto mínimo de 90%. Essa é a grande diferença do Desenrola 3.0, que começa nesta quinta-feira. A Febraban diz que é uma medida que respeita as características de mercado, permiti uma “desalavancagem mais acelerada e uma redução do endividamento das famílias mais afetadas pela alta da inadimplência” e terá impacto para o “bom funcionamento do mercado de crédito”. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/miriam-leitao/post/2026/10/compra-de-divida-e-boa-para-as-familias-e-os-bancos-a-duvida-e-o-custo-fiscal.ghtml",
-      "published": "2026-10-22T12:04:10+00:00",
+      "title": "Inadimplência das famílias com bancos tem novo recorde, e dívida já ultrapassa metade da renda anual",
+      "summary": "O endividamento das famílias brasileiras com o sistema financeiro aumentou 0,2 pontos percentuais e chegou a 50,1% da renda anual em agosto, segundo relatório do Banco Central divulgado nesta quinta-feira. É o maior nível registrado na série histórica do BC, no dado que inclui financiamento imobiliário. Isso significa que mais da metade de tudo o que as famílias ganham ao longo de um ano já corresponde a dívidas, como financiamentos, empréstimos pessoais, crédito consignado e uso do cartão de crédito. O cálculo inclui todas as obrigações das famílias junto aos bancos e faz parte da pesquisa \"Estatísticas Monetárias e de Crédito\", do BC. Sem incluir financiamento imobiliário, o endividamento é de 31% da renda. O BC também informou que a inadimplência (atraso superior a 90 dias no pagamento de qualquer parcela) das pessoas atingiu 8,1% em agosto, renovando recorde Com o avanço do endividamento, o comprometimento das famílias com o pagamento de dívidas continuou subindo em agosto e alcançou um novo recorde da série histórica iniciada em março de 2011. O indicador que mede o percentual do orçamento mensal que é usado para pagar as parcelas das dívidas subiu de 28,8% para 29%. O endividamento das famílias tem sido um dos principais desafios econômicos do terceiro mandato de Lula e deve continuar no centro das preocupações do próximo governo. Apesar dos programas de renegociação de dívidas lançados pela atual gestão, o comprometimento da renda dos brasileiros com empréstimos e financiamentos voltou a crescer. O nível de endividamento das famílias chegou a cair no início do terceiro governo, até dezembro de 2023, primeiro ano do mandato, quando ficou em 47,7%. Naquele ano, o governo lançou em julho o Desenrola, programa para renegociação de dívidas, que vigorou até maio do ano seguinte. Mas o endividamento voltou a subir em meio ao novo ciclo de aperto monetário. A alta da taxa básica de juros, a Selic - iniciada em setembro de 2024 - encareceu o crédito e pressiona o orçamento. A Selic chegou a 15% ao ano, e atualmente está em 13,75%. Em meio ao aperto no bolso das famílias, em maio deste ano o governo lançou uma nova versão do Desenrola, com descontos de até 90% para renegociação de dívidas de famílias com renda de até cinco salários mínimos. A iniciativa se encerrou ao final de agosto, com mais de R$ 22,4 bilhões em dívidas renegociadas. Em setembro, anunciou uma terceira etapa do programa, que prevê a compra de dívidas antigas pela União para facilitar a renegociação com os consumidores. A expectativa do governo é alcançar até 15 milhões de pessoas, com o início dos novos acordos previsto para fevereiro de 2027.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/10/29/dividas-das-familias-ultrapassam-metade-da-renda-anual-e-atingem-maior-nivel-da-historia-diz-bc.ghtml",
+      "published": "2026-10-29T11:45:59+00:00",
       "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "Economia"
       ],
       "matched_aliases": [
-        "desenrola",
         "endividamento",
         "endividamento das famílias",
         "inadimplência"
@@ -3545,8 +3605,8 @@
         {
           "sector": "Economia",
           "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
+          "field": "title",
+          "score": 20,
           "topic": null
         },
         {
@@ -3555,16 +3615,9 @@
           "field": "lead",
           "score": 8,
           "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
         }
       ],
-      "score": 32.0
+      "score": 36.0
     },
     {
       "title": "TRT2 concede liminares para garantir que trabalhadores do varejo consigam votar",
@@ -4787,121 +4840,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Black Friday 2026 deve movimentar mais de R$ 16 bilhões no e-commerce",
-      "summary": "Black Friday 2026 deve movimentar mais de R$ 16 bilhões no e-commerce &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/22/10/2026/black-friday/black-friday-2026-deve-movimentar-mais-de-r-16-bilhoes-no-e-commerce",
-      "published": "2026-10-22T11:44:44+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "e-commerce"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "e-commerce",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "American Express brings Airbnb bookings and rewards to Amex Travel platform",
-      "summary": "More than 1 million Airbnb listings are now available to book through Amex Travel, allowing customers to earn membership points on prepaid bookings.",
-      "url": "https://www.cnbc.com/2026/10/22/american-express-airbnb-travel-platform.html",
-      "published": "2026-10-22T12:00:02+00:00",
-      "source": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "airbnb"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "airbnb",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Keeta acusa 99Food de descumprir ordem da Justiça de SP",
-      "summary": "Keeta acusa 99Food de descumprir ordem da Justiça de SP &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/22/10/2026/foodservice/keeta-acusa-99food-de-descumprir-ordem-da-justica-de-sp",
-      "published": "2026-10-22T12:29:31+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "keeta"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "keeta",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Airbnb acaba com obrigação de lavar louça e tirar lixo antes de deixar imóvel",
-      "summary": "Hóspedes ainda poderão receber pedidos simples de organização, mas anfitriões não poderão exigir tarefas extensas",
-      "url": "https://veja.abril.com.br/economia/airbnb-acaba-com-obrigacao-de-lavar-louca-e-tirar-lixo-antes-de-deixar-imovel",
-      "published": "2026-10-22T13:20:07+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "airbnb"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "airbnb",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Hermès vê desaceleração nas vendas com cenário ainda difícil para o luxo",
-      "summary": "Hermès vê desaceleração nas vendas com cenário ainda difícil para o luxo &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/22/10/2026/mc-capital/hermes-ve-desaceleracao-nas-vendas-com-cenario-ainda-dificil-para-o-luxo/amp",
-      "published": "2026-10-22T13:24:10+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Porto Alegre cresceu 18,2% no e-commerce e superou média do RS e do Brasil",
@@ -9228,6 +9166,29 @@
       "score": 20.0
     },
     {
+      "title": "Justiça aceita pedido de recuperação da Marabraz, que já teve 135 lojas e agora deve R$ 140 milhões",
+      "summary": "Justiça aceita pedido de recuperação da Marabraz, que já teve 135 lojas e agora deve R$ 140 milhões &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/negocios/justica-aceita-pedido-de-recuperacao-da-marabraz-que-ja-teve-135-lojas-e-agora-deve-r-140-milhoes",
+      "published": "2026-10-28T19:20:50+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "marabraz"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marabraz",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "É falso que governo Lula tenha recuado sobre fim da escala 6x1",
       "summary": "É falso que governo Lula tenha recuado sobre fim da escala 6x1 &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/estadao-verifica/governo-lula-recua-escala-6x1-manter-varios-setores-falso",
@@ -9611,6 +9572,144 @@
         {
           "sector": "Fashion",
           "alias": "c&a",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Juros sobem e inadimplência das famílias avança no crédito livre, mostra BC",
+      "summary": "Taxa de atraso nesse segmento chegou a 8,1% em setembro; na carteira total, indicador ficou estável em 5%",
+      "url": "https://veja.abril.com.br/economia/juros-sobem-e-inadimplencia-das-familias-avanca-no-credito-livre-mostra-bc",
+      "published": "2026-10-29T11:44:04+00:00",
+      "source": "https://veja.abril.com.br/economia/feed",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "El impuesto Temu desplomó las compras en el exterior y couriers aguardan un repunte para fin de año",
+      "summary": "El impuesto Temu desplomó las compras en el exterior y couriers aguardan un repunte para fin de año &nbsp;&nbsp; Ambito",
+      "url": "https://www.ambito.com/uruguay/el-impuesto-temu-desplomo-las-compras-el-exterior-y-couriers-aguardan-un-repunte-fin-ano-n6339125",
+      "published": "2026-10-29T11:50:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aambito.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "temu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "temu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Inadimplência de pessoas físicas com recursos livres sobe para 8,1%, novo recorde",
+      "summary": "A inadimplência de pessoas físicas em operações de crédito com recursos livres subiu para 8,1% em setembro, o maio patamar da série histórica, iniciada em 2011, segundo dados divulgados nesta quinta-feira pelo Banco Central. Em 12 meses, o indicador subiu 1,2 ponto percentual. Para pessoas jurídicas, recuou 0,1 ponto percentual no mês, para 4,2%. Já a inadimplência média das operações de crédito, que inclui recursos livres e direcionados, ficou estável em 5% em setembro. A taxa para as empresas caiu em 3,3% em setembro, vindo de 3,4% em agosto. Em igual período, a inadimplência das famílias ficou estável em 6%. No crédito com recursos livres, a inadimplência feficou estável em 6,6%. Nos recursos direcionados, a taxa caiu de 3,0% para 2,9% entre agosto e setembro. Taxa de juros A taxa de juros média anual cobrada pelo sistema financeiro nas operações de crédito subiu 0,2 ponto perccentual (p.p.), para 32,4% ao ano em setembro, em relação a agosto. Em 12 meses, houve avanço de 0,9 ponto percentual. A taxa cobrada das pessoas jurídicas, por sua vez, caiu 0,3 ponto, para 19,4% ao ano em setembro. Para as pessoas físicas, a taxa subiu 0,3 ponto para 38,5% ao ano. Nos recursos livres, a taxa média subiu de 48,5% para 49% entre agosto e setembro. No caso dos recursos direcionados, saiu de 11,7% para 11,4% entre os dois meses. Já o spread, que mede a diferença entre as taxas que os bancos cobram nos empréstimos e o custo de captação desses recursos, subiu de 21,1 pontos em agosto para 21,6 pontos percentuais em setembro. Nas operações de crédito com pessoas físicas, o spread ficou em 28 pontos percentuais, acima dos 27,5 pontos percentuais de agosto. No crédito às empresas, ficou em 8,1 pontos em setembro, contra 7,8 pontos no mês anterior. Nataliya Vaitkevich/Pexels",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/29/juro-medio-das-operacoes-de-credito-sobe-em-setembro-e-inadimplencia-fica-estavel-em-5percent-aponta-bc.ghtml",
+      "published": "2026-10-29T11:57:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Instituição de pagamento liquidada pelo BC atendia bets",
+      "summary": "A instituição de pagamento MW Pay, liquidada pelo Banco Central nesta quinta-feira, foi fundada em fevereiro de 2024 e recebeu a licença do regulador em outubro daquele ano. Com sede em Joinville (SC), foi criada pelo empresário Witor Fernandes Corrêa, que também tem outros negócios na cidade, como uma fábrica de ferramentas. Em seu site, a MW Pay se define como uma infraestrutura de pagamentos via API, com participação direta no Pix, “com foco em segurança, rastreabilidade e eficiência operacional.” A instituição de pagamentos atuava com clientes de diversos segmentos, incluindo turismo, hotelaria, marketplaces e operadoras de apostas esportivas (bets) - antes da proibição recente definida pelo governo. Procurada, a MW ainda não se pronunciou. MW Pay, liquidada pelo Banco Central Reprodução/LinkedIn",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/29/instituio-de-pagamento-liquidada-pelo-bc-atendia-bets.ghtml",
+      "published": "2026-10-29T12:11:27+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "DoorDash compra rival Instacart por US$ 17 bilhões",
+      "summary": "A DoorDash Inc. acertou a compra da concorrente Instacart em um negócio que avalia a empresa em cerca de US$ 17 bilhões — o mais recente sinal de consolidação em um mercado de entregas cada vez mais competitivo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/29/doordash-compra-rival-instacart-por-us-17-bilhoes.ghtml",
+      "published": "2026-10-29T12:32:56+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "doordash"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "doordash",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Karla Cimed e Felipe Theodoro participam de encontro de influenciadores",
+      "summary": "Brasil Influencer 2026 espera reunir 12 mil pessoas em São Paulo",
+      "url": "https://veja.abril.com.br/cultura/karla-cimed-e-felipe-theodoro-participam-de-encontro-de-influenciadores",
+      "published": "2026-10-29T13:30:53+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "cimed"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "cimed",
           "field": "title",
           "score": 20,
           "topic": null
@@ -10063,6 +10162,37 @@
       "score": 16.0
     },
     {
+      "title": "Crédito mais arriscado, oportunidade maior: o dilema da Creditas para 2027",
+      "summary": "O cenário de crédito no Brasil deve ficar mais desafiador em 2027, com juros elevados, famílias pressionadas pelo endividamento e pouco espaço para expansão das concessões. Para a Creditas, porém, esse quadro é como uma faca de dois gumes: ao mesmo tempo em que aumenta o risco de inadimplência, pode abrir uma oportunidade para ampliar [&#8230;] O post Crédito mais arriscado, oportunidade maior: o dilema da Creditas para 2027 apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/startups/credito-mais-arriscado-oportunidade-maior-o-dilema-da-creditas-para-2027",
+      "published": "2026-10-29T12:00:57+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento",
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "MegaMamute quer ajudar fabricantes de eletrônicos na venda online",
       "summary": "A MegaMamute vai usar seus 18 anos de experiência online com a venda de eletroeletrônicos de tíquete alto como geladeiras, televisores e celulares para impulsionar outros e-commerces através de dois novos negócios, que devem ajudar o grupo de varejo digital a ultrapassar a barreira psicológica de R$ 1 bilhão em volume bruto de mercadorias vendidas (GMV) em 2027. A principal aposta está no MegaCommerce, criada em 2025 e mantida em piloto até agora, para atendimento, conciliação financeira e gerenciamento de canais dos clientes B2B. Estoque, definição de estratégia comercial e precificação não entram no escopo – uma diferença em relação às empresas de full-commerce, que atuam na gestão de ponta a ponta. Estratégia com remédios e canetas aproxima Meli do Amazon Now Guarulhos passa Cajamar na corrida dos galpões logísticos No segmento, a Infracommerce é nome mais conhecido, por atender marcas como Samsung, Levi’s e Guess. Já a Mega mira fabricantes de eletrônicos e eletrodomésticos com canais próprios de vendas ao consumidor ainda não lançados ou em fase inicial, como marcas chinesas que estão desembarcando no Brasil – a TC, é uma das cinco clientes já fechadas da companhia. A nova frente deve fechar o ano com R$ 200 milhões de GMV. Para 2027, o objetivo é crescer 10 vezes o portfólio de clientes e atingir GMV de R$ 500 milhões. “A MegaCommerce vai atender os fabricantes que querem ocupar o espaço online, mas não têm o know-how de operação de e-commerce”, resume Cristiane Sens Bastos, fundadora e CEO da MegaMamute. Cristiane Bastos, fundadora e CEO da MegaMamute, quer entrar no ‘e-commerce as a service’ Divulgação A empreitada tem como sócio Guilherme Bastos, chefe de produto da nova empresa e marido da CEO. “O que fazemos é como um e-commerce as a service”, diz a empresária. Na outra ponta, o grupo está lançando a MegaAgents, uma startup para oferecer agentes de inteligência artificial para ajudar comerciantes a aumentar as vendas em marketplaces, com funcionalidades de automação diferentes para cada empresa, que podem integrar ERPs, pagamentos e logística aos robôs. A expectativa é reunir 100 clientes até o final de 2027. Mercado Livre tem margens pressionadas, alerta Citi antes do balanço RD Saúde prevê um novo CD por ano para abrir uma loja por dia Top seller do Mercado Livre, Easytech levanta R$ 30 mi com a GCB Com sede em Londrina, onde está a maior parte dos 58 funcionários, e centros de distribuição em São Paulo, Minas Gerais e Espírito Santo, a MegaMamute não abre o faturamento, mas afirma que seu GMV oscila entre R$ 800 milhões e R$ 900 milhões desde 2016. “Já rentabilizamos a MegaMamute, estamos crescendo a MegaCommerce e agora estamos semeando a MegaAgents”, diz Bastos.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/megamamute-quer-ajudar-fabricantes-de-eletronicos-na-venda-online.ghtml",
@@ -10214,18 +10344,27 @@
       "score": 10.0
     },
     {
-      "title": "Roche registra aumento de 8,1% nas vendas no 3º trimestre",
-      "summary": "A Roche Holding reportou um aumento nas vendas no terceiro trimestre, impulsionado pelo crescimento em suas divisões farmacêutica e de diagnósticos, enquanto a farmacêutica trabalha para obter a aprovação de novos medicamentos em comprimidos para câncer de mama e esclerose múltipla. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/22/roche-registra-aumento-de-81-pontos-percentuais-nas-vendas-no-3-trimestre.ghtml",
-      "published": "2026-10-22T11:40:45+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
+      "title": "Com Guarulhos no limite, Viracopos firma acordo com aeroporto belga para atrair cargas de tecnologia e fármacos",
+      "summary": "Enquanto o Aeroporto de Guarulhos, principal complexo aeroportuário do país, lida com episódios de superlotação desde o final de 2023, o Aeroporto Internacional de Viracopos, em Campinas (SP), mira importações de alto valor agregado para capturar uma fatia expressiva dessa demanda reprimida. O terminal assinou uma aliança estratégica com o Aeroporto de Liège, na Bélgica, para estruturar um corredor logístico voltado para o escoamento rápido de componentes eletrônicos, medicamentos e mercadorias do comércio digital. Leia mais: Samsung tem lucro 15 vezes maior em divisão de semicondutores, mas resultado fica abaixo das estimativas Veja também: Shopee inaugura 4 centros de distribuição e libera R$ 48 milhões em cupons para 11/11 e Black Friday A movimentação de Viracopos ocorre em um momento crítico para a infraestrutura aeroportuária nacional. O Aeroporto de Guarulhos vem sofrendo com a falta de capacidade de seus armazéns de carga, o que resulta no acúmulo de mercadorias nos pátios, avarias e um salto expressivo nos custos logísticos para as empresas. Com o cenário favorável à expansão, Viracopos firmou o memorando de entendimento com Liège para desenhar soluções diretas a operadores e companhias aéreas. O complexo belga possui uma vasta malha conectando a Europa à Ásia, o que serve como uma extensão natural para as rotas sul-americanas operadas por Campinas. As equipes comerciais de ambos atuarão em conjunto no estudo de viabilidade para novos voos e na formatação de pacotes de incentivos. — Nossa prioridade é construir relacionamentos com companhias aéreas e agentes de carga capazes de apoiar o desenvolvimento sustentável de novas rotas, ao mesmo tempo em que oferecemos aos embarcadores conexões eficientes para produtos farmacêuticos, tecnologia e outras cargas de alto valor transportadas entre essas importantes regiões comerciais em ambos os sentidos — projetou Frédéric Brun, vice-presidente de Vendas e Marketing do Aeroporto de Liège. Um informe de junho de 2026 emitido pela administradora do terminal de Guarulhos mostra que o complexo logístico de Guarulhos continua operando com capacidade elevada e acionando contingências, uma vez que o ritmo de retirada de mercadorias pelos importadores permanecia inferior à taxa de recebimento dos voos. Área de carga em Guarulhos: terminal registrou recorde Divulgação No histórico dos últimos anos, o grupo Air France KLM Martinair já precisou paralisar temporariamente o recebimento de novas exportações devido a um enorme bloqueio de remessas presas no setor de importação, e a própria concessionária chegou a suspender o aceite de cargas secas internacionais por cinco dias para tentar desobstruir o pátio. A lentidão de 2024 resultou em uma determinação da Justiça de São Paulo que proibiu a administração de cobrar taxas de armazenagem originadas por atrasos de sua própria responsabilidade, sob pena de multa diária. Fármacos, IA e o impulso do regime Redata O foco da nova malha cargueira mira em nichos de alto rendimento. Na área da saúde, Viracopos registrou um salto de 43% nos valores de medicamentos importados ao longo de 2026. Para dar conta do aumento, a gestão do aeroporto iniciou as obras de uma câmara fria que vai duplicar o espaço disponível para insumos que exigem controle rigoroso de temperatura. A expansão acelerada dos sistemas de inteligência artificial e da infraestrutura de computação em nuvem tem provocado uma corrida pela importação de servidores e equipamentos para data centers. Com o Brasil na rota de proliferação dos data centers, Viracopos se tornou a porta de entrada de 45% de todo o maquinário de alta tecnologia que chega ao Brasil pelo modal aéreo. A expectativa é de que o segmento deve ganhar ainda mais tração com o avanço do Regime Especial de Tributação para Serviços de Datacenter (Redata), programa do governo federal que isenta novos investimentos em data centers do recolhimento de impostos federais por um prazo de cinco anos. O projeto foi aprovado no Congresso e sancionado pelo presidente Lula em setembro. — Estamos investindo na infraestrutura e nas capacidades necessárias para apoiar a próxima etapa de crescimento da carga aérea brasileira. Vemos um potencial significativo nos segmentos farmacêutico, tecnológico e de comércio eletrônico internacional, nos quais confiabilidade operacional e conectividade são fundamentais para o sucesso de nossos clientes e de seus negócios — pontuou Maria Fan, diretora comercial (CCO) do Aeroporto Internacional de Viracopos. Terminal de Viracopos, em Campinas (SP) Divulgação Completando o tripé logístico da parceria, as operações de comércio eletrônico cross-border também estão no radar. Viracopos colocou em funcionamento um novo galpão de 20 mil metros quadrados voltado a esse nicho, incorporando scanners de raio-X de maior capacidade e ligação direta com as pistas, o que promete encurtar ainda mais o trânsito entre o porão dos aviões e a entrega na ponta final da cadeia. A parceria entre os aeroportos combinará prospecção comercial, inteligência de mercado, ações promocionais conjuntas e negociações com potenciais companhias aéreas parceiras. Entre as iniciativas previstas estão a avaliação de incentivos comerciais para operadores interessados e a realização de estudos técnicos e operacionais voltados à análise da viabilidade de novos serviços cargueiros.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/10/29/com-guarulhos-no-limite-viracopos-firma-acordo-com-aeroporto-belga-para-atrair-cargas-de-tecnologia-e-farmacos.ghtml",
+      "published": "2026-10-29T13:23:04+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
+        "E-commerce",
         "Farmácias"
       ],
       "matched_aliases": [
+        "centros de distribuição",
         "medicamentos"
       ],
       "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
         {
           "sector": "Farmácias",
           "alias": "medicamentos",
@@ -10234,53 +10373,7 @@
           "topic": null
         }
       ],
-      "score": 8.0
-    },
-    {
-      "title": "Vendas da Hermès cresce 4,3% ao ano no 3º trimestre, para 4,1 bilhões de euros",
-      "summary": "A Hermès informou que o crescimento de suas vendas perdeu ritmo no terceiro trimestre, à medida que diminuem as esperanças de uma recuperação na demanda por artigos de luxo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/10/22/vendas-da-hermes-cresce-43percent-ao-ano-no-3o-trimestre-para-41-bilhoes-de-euros.ghtml",
-      "published": "2026-10-22T12:35:20+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
-    },
-    {
-      "title": "Willer Tomaz, amigo de Flávio Bolsonaro, preferia cassinos online e apostou R$ 1,3 bilhão em 2026",
-      "summary": "O advogado Willer Tomaz, amigo de Flávio Bolsonaro ( PL ) que é alvo de investigação por lavagem de dinheiro com bets junto do senador e candidato à presidência, tinha como preferência em sua atividade nas casas de apostas os jogos online, como cassino e \"jogo do tigrinho\". Leia mais (10/22/2026 - 10h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/willer-tomaz-amigo-de-flavio-bolsonaro-preferia-cassinos-online-e-apostou-r-13-bilhao-em-2026.shtml",
-      "published": "2026-10-22T13:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
+      "score": 10.0
     },
     {
       "title": "Walmart Libera Compras por Agentes de Inteligência Artificial nos EUA",
@@ -11867,6 +11960,98 @@
         {
           "sector": "Economia",
           "alias": "comprometimento de renda",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Manhã no mercado: Investidores aguardam PIB dos EUA e monitoram rumos da política econômica no Brasil",
+      "summary": "Após o presidente do Federal Reserve (Fed), Kevin Warsh, dar poucos sinais sobre os próximos passos do banco central americano, os investidores devem acompanhar nesta quinta-feira os dados do Produto Interno Bruto (PIB) e do índice de preços de gastos com consumo pessoal (PCE, na sigla em inglês) em busca de pistas sobre uma nova alta de juros em dezembro. Nas bolsas americanas, os agentes reagem ao tombo da gigante Alphabet e aguardam os balanços de Amazon e Intel, em meio à queda dos futuros dos índices de Nova York. No Brasil, a reprecificação dos ativos após a surpresa do mercado com a reeleição do presidente Luiz Inácio Lula da Silva (PT) somou-se aos rumores sobre a política econômica do próximo mandato, ampliando a pressão sobre a bolsa, os juros futuros e o real no pregão de quarta-feira. Com as atenções divididas entre o exterior e a política econômica do próximo governo Lula, ainda em definição, a cautela deve prevalecer nos mercados locais. A preocupação com os custos da inteligência artificial segue elevada neste início da temporada de balanços, enquanto o petróleo recua mais de 1% no mercado internacional. A queda ocorre em meio aos esforços do governo americano para retomar as negociações com o Irã, a poucos dias das eleições de meio de mandato. Neste contexto, o PCE deve ajudar a calibrar as apostas para os juros americanos em dezembro. De acordo com a mediana das projeções dos economistas consultados pelo The Wall Street Journal, o índice deve ter avançado 0,5% em setembro, após alta de 0,3% em agosto. Em 12 meses, a taxa deve acelerar de 3,4% para 3,7%. Para o núcleo, que exclui alimentos e energia, a expectativa é de alta de 0,3% no mês, ante 0,2% em agosto, e de 3,1% em 12 meses, frente a 3,0%. No mercado local, os agentes avaliam as sinalizações sobre quem deverá liderar a equipe econômica do quarto mandato de Lula. Segundo apurou o Valor, conversas intensas vêm ocorrendo nos Palácios do Planalto e da Alvorada, em meio ao embate entre desenvolvimentistas e fiscalistas sobre os rumos da política econômica. Na frente política, após a carta golpista do senador Flávio Bolsonaro (PL), na qual se declara “líder do Brasil”, o presidente americano, Donald Trump, afirmou que “não irá se envolver”. Ainda assim, os investidores seguem atentos à possibilidade de interferência de Trump no Brasil. Unsplash",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/29/manha-no-mercado-investidores-aguardam-pib-dos-eua-e-monitoram-rumos-da-politica-economica-no-brasil.ghtml",
+      "published": "2026-10-29T11:36:33+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Juro do cartão de crédito rotativo sobe a 451,7% ao ano em setembro, mostra BC",
+      "summary": "A taxa de juros do cartão de crédito rotativo saiu de 444,9% ao ano em agosto para 451,7% em setembro. O rotativo é a linha de crédito pré-aprovada no cartão e inclui também saques feitos na função crédito do meio de pagamento. No caso de inadimplência do cliente, o banco deverá parcelar o saldo devedor ou oferecer outra forma para quitar a dívida em condições mais vantajosas dentro de 30 dias. Além disso, conforme estabelecido pelo Conselho Monetário Nacional (CMN), os juros de novas operações no rotativo e no parcelado realizadas a partir de 3 de janeiro de 2024 não poderão superar 100% do valor original da dívida. Já a taxa do parcelado do cartão variou de 192,1% para 193%. Assim, a taxa de juros total do cartão de crédito subiu de 97,8% para 100,3% ao ano na comparação entre agosto e setembro. No cheque especial, a taxa média de juros cobrada foi de 139,0%, vinda de 136,3% em agosto. Chris Ratcliffe/Bloomberg",
+      "url": "https://valor.globo.com/financas/noticia/2026/10/29/juro-do-cartao-de-credito-rotativo-sobe-a-4517percent-ao-ano-em-setembro-mostra-bc.ghtml",
+      "published": "2026-10-29T12:06:43+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Dona do imunoterápico Keytruda, farmacêutica tem lucro acima do esperado no 3º trimestre",
+      "summary": "A farmacêutica Merck — conhecida como MSD no Brasil — divulgou nesta quinta-feira (29) lucro acima do esperado para o terceiro trimestre, impulsionado pela forte demanda por seu medicamento de grande sucesso contra o câncer, Keytruda, e por sua vacina contra o HPV, Gardasil. A farmacêutica americana registrou receita de US$ 18,1 bilhões no terceiro trimestre, superando a estimativa média de US$ 17,3 bilhões dos analistas, segundo dados da LSEG. O lucro ajustado foi de US$ 2,49 por ação, acima das expectativas de US$ 2,08 por ação. Cerca de US$ 550 milhões do crescimento da companhia no trimestre decorreram de compras de medicamentos realizadas antes do previsto, informou a empresa. As vendas do imunoterápico Keytruda — um dos medicamentos mais vendidos do mundo — cresceram 6% em relação ao mesmo trimestre do ano anterior, para US$ 8,6 bilhões, superando as estimativas de US$ 8 bilhões dos analistas. Esse resultado incluiu US$ 830 milhões provenientes da nova versão do medicamento administrada por via subcutânea, o Keytruda QLEX, aprovada no fim do ano passado. As vendas da vacina Gardasil, que foram prejudicadas pela demanda fraca na China nos últimos trimestres, também cresceram significativamente, beneficiadas por compras antecipadas dos Centros de Controle e Prevenção de Doenças (CDC) dos Estados Unidos. As vendas da vacina, que previne cânceres causados pelo papilomavírus humano (HPV), aumentaram 14%, para pouco menos de US$ 2 bilhões, ante estimativas de US$ 1,8 bilhão de Wall Street. A companhia elevou o piso de sua projeção de receita para o ano inteiro de US$ 66,3 bilhões para US$ 66,8 bilhões, mantendo o teto anteriormente previsto de US$ 67,3 bilhões. A empresa também aumentou sua previsão de lucro ajustado e agora espera um resultado entre US$ 2,77 e US$ 2,82 por ação, em comparação com a projeção anterior de US$ 2,66 a US$ 2,76 por ação. A farmacêutica vem trabalhando para diversificar seu portfólio e reduzir a dependência do Keytruda, que começará a perder importantes proteções patentárias a partir de 2028. A empresa gastou bilhões de dólares em aquisições e acordos de licenciamento na tentativa de substituir a receita que espera perder futuramente para a concorrência de medicamentos biossimilares. O Winrevair, medicamento para hipertensão arterial pulmonar e um dos produtos mais recentes de crescimento da companhia, gerou US$ 694 milhões em vendas, alta de 94% em relação ao ano passado e acima das expectativas de US$ 645 milhões de Wall Street. Na semana passada, a farmacêutica e sua parceira Moderna divulgaram dados mostrando que sua vacina contra o câncer baseada em RNA mensageiro (mRNA) reduziu significativamente o risco de morte ou recorrência do melanoma quando combinada com o Keytruda. O resultado marcou o primeiro desfecho positivo de um estudo clínico em estágio avançado de uma vacina contra o câncer baseada em mRNA. As ações fecharam a quarta-feira cotadas a US$ 140,93 e acumulam valorização de cerca de 34% neste ano, superando o desempenho do mercado mais amplo. A farmacêutica vem trabalhando para diversificar seu portfólio e reduzir a dependência do Keytruda, que começará a perder importantes proteções patentárias a partir de 2028 Reprodução",
+      "url": "https://valor.globo.com/empresas/noticia/2026/10/29/dona-do-imunoterapico-keytruda-farmaceutica-tem-lucro-acima-do-esperado-no-3o-trimestre.ghtml",
+      "published": "2026-10-29T12:46:09+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Ibovespa cai, dólar sobe e juros futuros rondam estabilidade com dados dos EUA e governo Lula 4 no foco",
+      "summary": "Ibovespa cai, dólar sobe e juros futuros rondam estabilidade com dados dos EUA e governo Lula 4 no foco Nas bolsas americanas, os agentes reagem ao tombo da gigante Alphabet e aguardam os balanços de Amazon e Intel, em meio à queda dos futuros dos índices de Nova York Manhã no mercado: Investidores aguardam PIB dos EUA e monitoram rumos da política econômica no Brasil. Juros futuros oscilam perto dos ajustes de olho na política econômica local e PIB e PCE nos EUA",
+      "url": "https://valor.globo.com/financas/ao-vivo/2023/06/16/dolar-avanca-e-ibovespa-recua-em-dia-de-correcao-siga-os-mercados.ghtml",
+      "published": "2026-10-29T13:14:43+00:00",
+      "source": "https://pox.globo.com/rss/valor/financas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
           "field": "lead",
           "score": 8,
           "topic": null
