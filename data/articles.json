@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T13:42:29.008052+00:00",
-  "count": 438,
-  "new_this_run": 41,
+  "generated_at": "2026-10-29T14:31:34.037520+00:00",
+  "count": 440,
+  "new_this_run": 27,
   "articles": [
     {
       "title": "Listadas: Por que Smart Fit, Raia Drogasil e Panvel resistem a consumo fraco",
@@ -3345,6 +3345,37 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa aprova cinco novas canetas emagrecedoras",
+      "summary": "Anvisa aprova cinco novas canetas emagrecedoras &nbsp;&nbsp; Panorama Farmacêutico",
+      "url": "https://panoramafarmaceutico.com.br/anvisa-aprova-cinco-novas-canetas-emagrecedoras",
+      "published": "2026-10-29T14:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Os planos do CEO Fábio Barreto para a Farm Rio",
       "summary": "O executivo detalha a estratégia traçada até 2032, enquanto Grupo Soma e Arezzo buscam comprador para o negócio: mercado internacional maior do que o brasileiro, expansão para a Ásia e foco em São Paulo",
       "url": "https://exame.com/exame-in/os-planos-do-ceo-fabio-barreto-para-a-farm-rio",
@@ -4840,52 +4871,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Porto Alegre cresceu 18,2% no e-commerce e superou média do RS e do Brasil",
-      "summary": "Porto Alegre cresceu 18,2% no e-commerce e superou média do RS e do Brasil &nbsp;&nbsp; E-Commerce Brasil",
-      "url": "https://www.ecommercebrasil.com.br/noticias/porto-alegre-cresceu-182-no-e-commerce-e-superou-media-do-rs-e-do-brasil",
-      "published": "2026-10-22T13:47:33+00:00",
-      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "e-commerce"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "e-commerce",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Canetas emagrecedoras do Paraguai são apreendidas em loja de roupas no Paraná após denúncia anônima",
-      "summary": "Canetas emagrecedoras do Paraguai são apreendidas em loja de roupas no Paraná após denúncia anônima &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/pr/oeste-sudoeste/noticia/2026/10/22/canetas-emagrecedoras-do-paraguai-apreendidas.ghtml",
-      "published": "2026-10-22T13:56:54+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Arrecadação do governo com ‘bets’ somou R$ 11 bi de janeiro a setembro",
@@ -9672,6 +9657,29 @@
       "score": 20.0
     },
     {
+      "title": "Inadimplência das famílias com bancos volta a bater recorde em setembro, mostra BC",
+      "summary": "A inadimplência das famílias no crédito livre, que tem condições livres pactuadas entre bancos e clientes, voltou a bater recorde em setembro, de acordo com dados divulgados pelo Banco Central nesta quinta-feira (29), totalizando a maior marca da série histórica novamente. Leia mais (10/29/2026 - 09h12)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/10/estoque-de-credito-bancario-no-brasil-sobe-04-em-setembro-diz-bc.shtml",
+      "published": "2026-10-29T12:12:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "DoorDash compra rival Instacart por US$ 17 bilhões",
       "summary": "A DoorDash Inc. acertou a compra da concorrente Instacart em um negócio que avalia a empresa em cerca de US$ 17 bilhões — o mais recente sinal de consolidação em um mercado de entregas cada vez mais competitivo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/29/doordash-compra-rival-instacart-por-us-17-bilhoes.ghtml",
@@ -10193,6 +10201,37 @@
       "score": 16.0
     },
     {
+      "title": "75% dos ex-jogadores da NFL que morreram nos últimos 15 anos tinham uma doença cerebral causada por impacto, estima estudo",
+      "summary": "Um novo estudo que analisou o cérebro de ex-jogadores da Liga Nacional de Futebol Americano dos Estados Unidos (NFL, na sigla em inglês) que morreram nos últimos 15 anos identificou que 75% dos atletas tinham um quadro de encefalopatia traumática crônica (ETC), uma doença neurodegenerativa causada por impactos repetitivos na cabeça ao longo do tempo. Entenda: Homem descobre planta crescendo no olho após meses de dores de cabeça e visão dupla na Rússia Nova caneta: Retatrutida mais que dobra perda de peso do Ozempic em novo estudo, diz farmacêutica O trabalho, conduzido por pesquisadores da Universidade de Boston, do Mass General Brigham (MGB) e da Concussion & CTE Foundation, foi publicado nesta quarta-feira na revista científica JAMA Network Open. Julia Gallini, autora principal do estudo e doutoranda na Escola de Saúde Pública da Universidade de Boston, explica que a prevalência é significativamente acima da observada na população geral. “Como a ETC é encontrada consistentemente em menos de 1% dos doadores de bancos comunitários de cérebros, uma prevalência estimada de 75% entre jogadores da NFL que morreram ao longo de um período de 16 anos é preocupante e sugere que precisamos intensificar os esforços para apoiar as famílias, diagnosticar a ETC durante a vida e tratar os sintomas relacionados à doença”, diz em nota. Mark McDaniel, psicólogo de Harvard: 'Aprender sem esforço é como escrever na areia' Os pesquisadores enfatizam que a prevalência do quadro não deve ser replicada para os atletas em atividade, já que envolveu ex-jogadores que já faleceram. O estudo analisou 2.362 indivíduos que jogaram na NFL por, em média, cinco anos e que morreram entre 2008 e 2023. A ETC só pode ser diagnosticada de forma definitiva após o óbito, com uma dissecação do cérebro, por isso eles não sabiam em vida se tinham ou não a doença. No novo estudo, os autores analisaram diretamente os cérebros doados de 387 ex-jogadores, grupo em que foi observado que 94% apresentavam algum grau da neuropatologia da ETC. No entanto, indivíduos que têm o órgão doado para a ciência têm uma probabilidade maior de apresentar sintomas ligados à doença, por isso avaliar a prevalência apenas entre esses ex-atletas levaria a resultados enviesados. Por isso, em seguida, os pesquisadores americanos analisaram os registros de óbitos de todo o conjunto de 2.362 ex-atletas, que incluíam dados sobre quantos morreram de doenças neurodegenerativas e tinham demência, e olharam também para fatores associados à doação de cérebros, incluindo sintomas cognitivos, idade ao morrer, posição em campo e anos de atuação na NFL. Com essas informações, os pesquisadores conseguiram identificar que ex-jogadores com sintomas cognitivos tinham cerca de cinco vezes mais probabilidade de ter seus cérebros doados pelas famílias, um dado que permitiu que eles ajustassem o cálculo geral da prevalência para levar em consideração essa influência no resultado. Como consequência, a análise estatística considerando todos esses fatores indicou a prevalência final de 74,5%. Essa é a primeira vez que esses métodos foram utilizados para conseguir estimar a proporção da ETC entre todos os 2.362 ex-jogadores falecidos no período, incluindo aqueles cujos cérebros não foram doados e que não foram avaliados diretamente. “Não posso desfazer os impactos que sofri, mas posso me inscrever em pesquisas e fazer tudo o que estiver ao meu alcance para ajudar os cientistas, para que encontrem uma cura durante a minha vida. Precisamos aprender com esses dados para tornar o esporte mais seguro, porque não podemos aceitar esses números para a próxima geração de jogadores”, afirma Matt Hasselbeck, que jogou por 18 temporadas na NFL e atua como embaixador do estudo. Os autores explicam que nem todos com alterações patológicas de ETC desenvolvem sintomas, especialmente nos casos em que a doença está em estágio inicial. Entre aqueles que manifestam queixas, porém, as mais comuns incluem comprometimento cognitivo, alterações comportamentais e demência. Estudos anteriores já haviam demonstrado que jogadores da NFL desenvolvem demência a uma taxa quatro vezes maior do que a população em geral.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/10/29/75percent-dos-ex-jogadores-da-nfl-que-morreram-nos-ultimos-15-anos-tinham-uma-doenca-cerebral-causada-por-impacto-estima-estudo.ghtml",
+      "published": "2026-10-29T13:23:17+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "retatrutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "retatrutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0
+    },
+    {
       "title": "MegaMamute quer ajudar fabricantes de eletrônicos na venda online",
       "summary": "A MegaMamute vai usar seus 18 anos de experiência online com a venda de eletroeletrônicos de tíquete alto como geladeiras, televisores e celulares para impulsionar outros e-commerces através de dois novos negócios, que devem ajudar o grupo de varejo digital a ultrapassar a barreira psicológica de R$ 1 bilhão em volume bruto de mercadorias vendidas (GMV) em 2027. A principal aposta está no MegaCommerce, criada em 2025 e mantida em piloto até agora, para atendimento, conciliação financeira e gerenciamento de canais dos clientes B2B. Estoque, definição de estratégia comercial e precificação não entram no escopo – uma diferença em relação às empresas de full-commerce, que atuam na gestão de ponta a ponta. Estratégia com remédios e canetas aproxima Meli do Amazon Now Guarulhos passa Cajamar na corrida dos galpões logísticos No segmento, a Infracommerce é nome mais conhecido, por atender marcas como Samsung, Levi’s e Guess. Já a Mega mira fabricantes de eletrônicos e eletrodomésticos com canais próprios de vendas ao consumidor ainda não lançados ou em fase inicial, como marcas chinesas que estão desembarcando no Brasil – a TC, é uma das cinco clientes já fechadas da companhia. A nova frente deve fechar o ano com R$ 200 milhões de GMV. Para 2027, o objetivo é crescer 10 vezes o portfólio de clientes e atingir GMV de R$ 500 milhões. “A MegaCommerce vai atender os fabricantes que querem ocupar o espaço online, mas não têm o know-how de operação de e-commerce”, resume Cristiane Sens Bastos, fundadora e CEO da MegaMamute. Cristiane Bastos, fundadora e CEO da MegaMamute, quer entrar no ‘e-commerce as a service’ Divulgação A empreitada tem como sócio Guilherme Bastos, chefe de produto da nova empresa e marido da CEO. “O que fazemos é como um e-commerce as a service”, diz a empresária. Na outra ponta, o grupo está lançando a MegaAgents, uma startup para oferecer agentes de inteligência artificial para ajudar comerciantes a aumentar as vendas em marketplaces, com funcionalidades de automação diferentes para cada empresa, que podem integrar ERPs, pagamentos e logística aos robôs. A expectativa é reunir 100 clientes até o final de 2027. Mercado Livre tem margens pressionadas, alerta Citi antes do balanço RD Saúde prevê um novo CD por ano para abrir uma loja por dia Top seller do Mercado Livre, Easytech levanta R$ 30 mi com a GCB Com sede em Londrina, onde está a maior parte dos 58 funcionários, e centros de distribuição em São Paulo, Minas Gerais e Espírito Santo, a MegaMamute não abre o faturamento, mas afirma que seu GMV oscila entre R$ 800 milhões e R$ 900 milhões desde 2016. “Já rentabilizamos a MegaMamute, estamos crescendo a MegaCommerce e agora estamos semeando a MegaAgents”, diz Bastos.",
       "url": "https://pipelinevalor.globo.com/negocios/noticia/megamamute-quer-ajudar-fabricantes-de-eletronicos-na-venda-online.ghtml",
@@ -10273,6 +10312,47 @@
         {
           "sector": "Economia",
           "alias": "vale-refeição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 12.0
+    },
+    {
+      "title": "Confiança do comércio cai 2,7% em outubro, informa CNC",
+      "summary": "Às vésperas da Black Friday, em novembro, e do Natal, o Índice de Confiança do Empresário do Comércio (Icec) da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) recuou 2,7% em outubro, para 96,7 pontos, informou nesta quinta-feira (29) a organização. Foi o quarto recuo consecutivo do indicador, e o conduziu ao menor patamar desde maio de 2021 (94,5 pontos). Uma piora na percepção do varejo em relação ao ritmo de negócios, no momento presente, levou ao resultado, detalhou a confederação. Incertezas quanto aos rumos da economia, bem como concorrência internacional, de entrada de produtos estrangeiros no mercado doméstico, também ajudaram a compor a queda, detalhou ainda a CNC. Os três indicadores componentes do Icec tiveram queda em outubro. Tanto na comparação ante setembro quanto ante outubro do ano passado. Em relação a mês imediatamente anterior, foram mapeados recuos em expectativas (-1,3%); intenção de investimentos (-2,4%), e condições atuais (-5,5%). Esses mesmos tópicos tiveram quedas de 1,1%, de 1,8% e de 4,1%, respectivamente, na comparação com igual mês em 2025. A CNC chamou atenção para os recuos mais expressivos em tópicos relacionados a condições atuais de negócios do comércio. Esse tópico, em outubro desse ano, ficou com 68,2 pontos, menor pontuação desde maio de 2021 (64,5 pontos). Um dos aspectos que levaram a essa visão desfavorável, na percepção de vendas atuais, do varejo, foi piora na avaliação sobre a economia. No Icec, 78,2% dos entrevistados para o estudo classificaram o cenário econômico como pior, maior parcela para essa resposta desde maio de 2021 (80,5%). Esse contexto menos favorável, tanto em relação a vendas quanto em economia em geral, também derrubou outros dois indicadores, dentro do estudo. Um deles foi intenção de contratação de funcionários, que mostrou recuo de 2,8% em outubro. O outro foi análise de percepção de estoques, que caiu 1,4% esse mês, após meses de crescimento. Nesse cenário, os varejistas de comércio de bens semiduráveis mostraram-se os mais pessimistas, no Icec de outubro, acrescentou a CNC. Na análise por segmentos, a organização apurou quedas expressivas nos indicadores de confiança em roupas, calçados, tecidos e acessórios, que tiveram queda 5,4% em outubro ante setembro, para 97,3 pontos; de supermercados, farmácias e lojas de cosméticos, com recuo de 2,7%, para 93,9 pontos; e eletrônicos, eletrodomésticos, móveis e decoração, cine/foto/som, material de construção, veículos, com queda de 2,8%, para 100,6 pontos. Em comunicado, o presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros, ponderou que os varejistas se apresentam inseguros em outubro quanto ao ritmo de seus negócios. Em um período em que deveriam pensar em ampliar investimentos, notou. Visto ser começo do quarto trimestre, com proximidade de períodos de aumento de demanda, como a semana promocional de varejo, a “Black Friday” e o Natal, em dezembro. \"O comércio acende um alerta para todo o País ao entrar no período mais lucrativo do calendário, sob cautela”, afirmou ele. “Quando o empresário pisa no freio das contratações e dos investimentos, toda economia desacelera, reflexo direto das incertezas nos âmbitos fiscal e monetário que travam as decisões de negócios neste último trimestre”, ponderou. “Para aproveitarmos essas datas comerciais e gerar crescimento sustentável, é preciso previsibilidade e segurança jurídica, além de políticas monetárias que reduzam os custos das operações do setor”, recomendou ele. “O comércio quer expandir e gerar postos de trabalho, mas precisa de um ambiente mais favorável para manter o crescimento\", finalizou Tadros. O economista-chefe da CNC, Fabio Bentes, concordou com Tadros. “Há uma desaceleração de toda economia, bem como do comércio, impactado por importações diretas sem as cargas tributárias equivalentes para o empresário e com o consumidor mais acanhado por conta do alto endividamento duradouro”, disse. “Esperamos que as datas festivas do último trimestre melhorem essa situação”, projetou. Presidente do Sistema CNC-Sesc-Senac, José Roberto Tadros Divulgação/CNC",
+      "url": "https://valor.globo.com/brasil/noticia/2026/10/29/confiana-do-comrcio-cai-27-pontos-percentuais-em-outubro-informa-cnc.ghtml",
+      "published": "2026-10-29T14:15:43+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "Farmácias",
+        "Material de Construção",
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "farmácias",
+        "material de construção",
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Material de Construção",
+          "alias": "material de construção",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
           "field": "lead",
           "score": 8,
           "topic": null
