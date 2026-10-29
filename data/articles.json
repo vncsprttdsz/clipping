@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T14:44:17.095919+00:00",
-  "count": 441,
-  "new_this_run": 24,
+  "generated_at": "2026-10-29T15:14:50.730605+00:00",
+  "count": 446,
+  "new_this_run": 29,
   "articles": [
     {
       "title": "Listadas: Por que Smart Fit, Raia Drogasil e Panvel resistem a consumo fraco",
@@ -3368,6 +3368,99 @@
         {
           "sector": "Farmácias",
           "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova cinco novas canetas para tratamento do diabetes e da obesidade",
+      "summary": "",
+      "url": "https://www.estadao.com.br/brasil/anvisa-aprova-cinco-novas-canetas-para-tratamento-do-diabetes-e-da-obesidade-nprm",
+      "published": "2026-10-29T14:32:43+00:00",
+      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/brasil/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova 5 novas canetas para diabetes e obesidade; total chega a 19 em 2026",
+      "summary": "Anvisa aprova 5 novas canetas para diabetes e obesidade; total chega a 19 em 2026 &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/10/anvisa-aprova-5-novas-canetas-para-diabetes-e-obesidade-total-chega-a-19-em-2026.shtml",
+      "published": "2026-10-29T14:46:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "obesidade"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Fundos ligados à família Muffato elevam fatia no Assaí a 15,02%",
+      "summary": "O Assaí divulgou nesta quinta-feira (29) que recebeu correspondência dos fundos Snapper Rocks Strategy, WHG Apache e Exitus, bem como de Ederson Muffato e Everton Muffato , informando sobre a aquisição de participação acionária relevante, alcançando 15,02% em ações ordinárias e derivativos de emissão da companhia. Leia mais (10/29/2026 - 12h08)",
+      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/fundos-ligados-a-familia-muffato-elevam-fatia-no-assai-a-1502.shtml",
+      "published": "2026-10-29T15:08:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "muffato"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "muffato",
           "field": "title",
           "score": 20,
           "topic": null
@@ -9749,6 +9842,29 @@
       "score": 20.0
     },
     {
+      "title": "Fundo do crediário da Casas Bahia entra em liquidação com 84% da carteira provisionada",
+      "summary": "Veículo acumulava 122 milhões de reais em provisões; encerramento expõe dificuldades de uma estrutura usada para financiar compras parceladas",
+      "url": "https://veja.abril.com.br/economia/fundo-do-crediario-da-casas-bahia-entra-em-liquidacao-com-84-da-carteira-provisionada",
+      "published": "2026-10-29T15:00:31+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Eli Lilly tem lucro líquido de US$ 6,45 bilhões no 3º trimestre, alta de 16% na base anual",
       "summary": "A Eli Lilly somou aproximadamente US$ 6,45 bilhões de lucro líquido no terceiro trimestre de 2026, montante 16% superior ao obtido no mesmo período do ano anterior. A empresa com sede em Indianápolis, nos Estados Unidos, divulgou o balanço trimestral na manhã desta quinta-feira (29). Entre julho e setembro, a receita da farmacêutica aumentou 39% na comparação anual, para US$ 24,4 bilhões, impulsionada pelas vendas dos medicamentos Mounjaro e Zepbound. Segundo a Eli Lilly, o crescimento da receita global reflete um avanço de 53% no volume de medicamentos vendidos, parcialmente compensado por um declínio de 15% dos preços realizados. O faturamento da empresa nos Estados Unidos avançou 34% na base anual, somando US$ 15,1 bilhões. No país, o volume vendido cresceu 41%, enquanto os preços realizados recuaram 7%, principalmente em razão do Zepbound. O medicamento, ainda não comercializado no Brasil, é indicado para o controle de peso e tem a tirzepatida, a mesma substância ativa do Mounjaro, como base. Fora dos Estados Unidos, a Eli Lilly somou US$ 9,3 bilhões em receita, o que representa uma alta de 47% na comparação anual. O Mounjaro, carro-chefe da farmacêutica, respondeu por US$ 10,7 bilhões do faturamento global, ante US$ 6,5 bilhões em igual período do ano anterior — crescimento de 65%. A receita com o Zepbound avançou 49%, alcançando US$ 5,3 bilhões no trimestre. A Eli Lilly revisou suas projeções para este ano, prevendo agora que a receita fique no intervalo de US$ 91 bilhões a US$ 92 bilhões, acima da estimativa anterior, de US$ 85 bilhões a US$ 87 bilhões. Já a faixa estimada para o lucro ajustado por ação foi reduzida de US$ 35,50 a US$ 36,50 para US$ 35 a US$ 36. Segundo a companhia, a melhora no desempenho operacional permitiu elevar em US$ 4,07 o ponto médio da projeção, mas esse efeito foi mais do que compensado por despesas de US$ 4,57 por ação relacionadas à aquisição de projetos de pesquisa e desenvolvimento no terceiro trimestre. Eli Lilly Bloomberg",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/29/eli-lilly-tem-lucro-liquido-de-us-645-bilhoes-no-3o-trimestre-alta-de-16percent-na-base-anual.ghtml",
@@ -12155,6 +12271,29 @@
         {
           "sector": "E-commerce",
           "alias": "amazon",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Confiança do comércio cai 2,7% em outubro e atinge menor nível desde 2021",
+      "summary": "Os empresários do comércio chegam ao último trimestre do ano com menos planos de expansão e contratação. A confiança do setor caiu 2,7% em outubro, em meio às incertezas do período eleitoral, segundo o Índice de Confiança do Empresário do Comércio (Icec), apurado pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). Essa [&#8230;] O post Confiança do comércio cai 2,7% em outubro e atinge menor nível desde 2021 apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/29/10/2026/noticias-varejo/confianca-do-comercio-cai-27-em-outubro-e-atinge-menor-nivel-desde-2021",
+      "published": "2026-10-29T14:55:43+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
           "field": "lead",
           "score": 8,
           "topic": null
