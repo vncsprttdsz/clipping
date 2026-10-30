@@ -1,78 +1,30 @@
 name: Clipping diário
-# Objetivo: ter o clipping pronto ANTES das 06:30 BRT (09:30 UTC).
+# Objetivo: clipping pronto ANTES das 06:30 BRT (09:30 UTC).
 #
-# O agendamento do GitHub Actions e best-effort e neste repo atrasa MUITO.
-# Atraso medido em 12 dias (ago/2026), do horario do cron ate o disparo real:
-#   dias bons  08-13/ago e 26/ago : 34 a 110 min
-#   dias ruins 27-31/ago          : 307 a 750 min (5 a 12 HORAS)
-# Repo publico no plano Free tem a menor prioridade na fila de runners, e nao
-# ha o que fazer quanto a isso do lado do cron.
+# DISPARO PRINCIPAL: cron-job.org, todo dia as 06:07 BRT, via
+# workflow_dispatch (POST na API do GitHub com token de Actions). Dispatch
+# roda na hora; em 18 dias medidos (13-30/out) disparou as 06:07 em todos.
 #
-# Duas consequencias que moldam esta grade:
+# RESERVA: tres crons do GitHub + ancora. O agendador do GitHub e
+# best-effort e neste repo atrasa de 30 min a 7h, com regime que muda de
+# semana para semana. Por isso o cron nao decide a hora: o job "ancora"
+# segura o run ate 06:15 BRT e so entao o scrape roda. Os tres slots, a 1h
+# de distancia, garantem que pelo menos um caia na janela da ancora (03:45 a
+# 09:15 UTC) com atraso entre ~25 min e ~6h. Se o cron-job.org falhar ou o
+# token expirar, a reserva entrega sozinha as ~06:18 BRT.
 #
-# 1. O atraso e CORRELACIONADO dentro do dia: em 28/ago os 5 slots vieram
-#    todos 11-12h atrasados. Empilhar crons numa janela de 5h nao cria
-#    redundancia, todos falham juntos. Redundancia real so vem de espalhar
-#    ao longo da noite, comecando na vespera.
-#
-# 2. Todo cron precisa caber em: disparo + atraso + duracao <= 09:30 UTC.
-#    A duracao caiu de 14-18 min para ~3 min quando a busca dos feeds virou
-#    paralela. Planejamos com 6 min, quase o dobro do medido, porque ate
-#    agora ha UMA observacao com o codigo novo (run 763, 3min18s) e a
-#    latencia de rede varia. Cada minuto a menos de duracao vira um minuto a
-#    mais de folga, entao os slots da manha puderam ser empurrados.
-#
-#    O cron antigo das 09:17 UTC (06:17 BRT) era IMPOSSIVEL: mesmo com atraso
-#    zero terminaria 09:35, depois do deadline. Continua fora.
-#
-# Cobertura nos 12 dias medidos: 11/12 entregam alguma coisa, 7/12 entregam a
-# madrugada, e esta grade nunca entrega mais tarde que a anterior - ganha 18 a
-# 30 min de frescor nos dias de atraso normal. Os slots da vespera existem
-# para o caso ruim, quando so eles chegam a tempo.
-#
-# Nao adianta esticar alem das 08:41 UTC: um slot as 08:53 toleraria so 31
-# min de atraso, e o menor atraso ja observado foi 34 min.
+# Ate out/2026 eram 16 crons espalhados de 19:13 a 05:41 BRT para cercar
+# o atraso. Com o dispatch externo eles so geravam runs cancelados (3 a 8
+# por dia) e refresh em horario imprevisivel. Para atualizar durante o
+# dia, crie outro job no cron-job.org no horario exato desejado.
 
 on:
   schedule:
-    # Horários em UTC. BRT = UTC-3 (sem horário de verão desde 2019).
-    # Minutos quebrados evitam os picos de fila de :00, :15, :30 e :45.
-
-    # --- rede de seguranca: dispara na vespera, sobrevive a atraso de horas
-    - cron: '13 22 * * *'  # 19:13 BRT (D-1)  tolera ate 11,2h de atraso
-    - cron: '23 1 * * *'   # 22:23 BRT (D-1)  tolera ate 8,0h
-
-    # --- ALIMENTAM A ANCORA (ver step abaixo). Medido 28/set-01/out: o cron
-    # das 01:23 chega 06:50-07:14 UTC e o das 03:23 chega 09:49-09:57. Tudo
-    # que chega entre 03:40 e 09:10 UTC dorme ate 09:10 e roda na hora certa.
-    # Tres slots a mais entre os dois para nao depender de um so.
-    - cron: '53 1 * * *'   # 22:53 BRT (D-1)
+    # Horarios em UTC. BRT = UTC-3. Minutos quebrados evitam os picos de :00.
+    - cron: '23 1 * * *'   # 22:23 BRT (D-1)
     - cron: '23 2 * * *'   # 23:23 BRT (D-1)
-    - cron: '53 2 * * *'   # 23:53 BRT (D-1)
-    - cron: '23 3 * * *'   # 00:23 BRT        tolera ate 6,0h
-
-    # --- LADDER DO REGIME DE ATRASO ALTO (medido 01-03/set: 256 a 298 min)
-    # Com ~270 min de atraso, o que aterrissa perto das 06:30 BRT e o que
-    # DISPARA entre 04:00 e 05:00 UTC. Antes nao havia cron nenhum entre
-    # 03:23 e 05:23, um buraco de 2h exatamente na faixa que importa: o
-    # ultimo run util caia as 05:02-05:11 BRT, antes dos portais que
-    # publicam entre 05:00 e 06:00.
-    # Aterrissagem esperada no regime atual (atraso 256 a 298 min):
-    - cron: '7 4 * * *'    # dispara 01:07 BRT -> chega 05:26 a 06:08 BRT
-    - cron: '23 4 * * *'   # dispara 01:23 BRT -> chega 05:42 a 06:24 BRT
-    - cron: '37 4 * * *'   # dispara 01:37 BRT -> chega 05:56 a 06:38 BRT
-    - cron: '53 4 * * *'   # dispara 01:53 BRT -> chega 06:12 a 06:54 BRT
-
-    # --- cobrem a madrugada, que e a noticia que interessa
-    - cron: '23 5 * * *'   # 02:23 BRT        tolera ate 4,0h
-    - cron: '43 6 * * *'   # 03:43 BRT        tolera ate 2,7h
-
-    # --- reta final: cada slot pega uma faixa de atraso, do maior pro menor
-    - cron: '23 7 * * *'   # 04:23 BRT        tolera ate 121 min
-    - cron: '53 7 * * *'   # 04:53 BRT        tolera ate  91 min
-    - cron: '17 8 * * *'   # 05:17 BRT        tolera ate  67 min
-    - cron: '41 8 * * *'   # 05:41 BRT        tolera ate  43 min
-  # Botão "Run workflow" manual (útil pra testar ou re-scorear)
+    - cron: '23 3 * * *'   # 00:23 BRT
+  # Disparo do cron-job.org (06:07 BRT) e o botao "Run workflow" manual.
   workflow_dispatch:
     inputs:
       rescore:
@@ -87,46 +39,24 @@ permissions:
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
-# Serializa runs - se um começar enquanto outro ainda roda, espera a vez.
-# cancel-in-progress: false garante que nenhum run seja morto no meio.
-concurrency:
-  group: clipping-daily
-  cancel-in-progress: false
-
 jobs:
-  scrape:
+  # ANCORA, so em schedule: o cron so precisa acordar o runner em algum
+  # momento da janela; o job dorme ate o alvo.
+  #
+  # E um job separado, SEM concurrency, de proposito. Quando a espera ficava
+  # dentro do job de scrape, o run dormindo segurava o grupo de concorrencia
+  # por horas: o disparo das 06:07 ficava na fila atras dele e, se outro
+  # cron chegasse nesse meio tempo, o GitHub cancelava o disparo (5 de 18
+  # dias em out/2026). Agora so o scrape disputa o grupo.
+  ancora:
+    if: ${{ github.event_name == 'schedule' }}
     runs-on: ubuntu-latest
-    # Sleep da ancora (ate 330 min) + run (~4 min) cabem folgados. O teto
-    # do GitHub para um job e 360 min; o limite evita runner preso.
-    timeout-minutes: 350
-
+    # Espera ate 330 min. O teto do GitHub e 360 min por job.
+    timeout-minutes: 345
     steps:
-      # ANCORA: quem controla a hora do scraper passa a ser o job, nao o
-      # agendador do GitHub. O cron so precisa acordar o runner em ALGUM
-      # momento da janela; a partir dai o job espera ate o alvo.
-      #
-      # Existe porque o atraso do Actions ja mudou de regime tres vezes em um
-      # mes (34-110 min, depois 307-750, agora 256-298). Qualquer grade de
-      # cron calibrada para um regime fica desalinhada quando ele muda, e o
-      # clipping volta a ficar 1h velho as 06:30.
-      #
-      # JANELA era 100 min e funcionou ate 26/set: o cron das 03:23 chegava
-      # 08:08-09:05 e dormia ate 09:10. Em 27/set o atraso subiu ~1h (esse
-      # cron passou a chegar 09:22-09:57, depois do alvo, sem dormir) e o
-      # ultimo run antes das 06:30 BRT virou o das 01:23, que chega ~04:00
-      # BRT e com 100 min de janela nao esperava. Daí o clipping 2h velho.
-      # Agora a janela e 330 min: qualquer run que chegue a partir de 03:40
-      # UTC espera o alvo. Dormir custa so tempo de runner, e repo publico
-      # nao paga minutos. O teto e o limite de 360 min por job do GitHub.
-      #
-      # Vem ANTES do checkout de proposito: dormir depois deixaria o working
-      # tree 70 min velho, e outro run pode ter dado push nesse intervalo.
-      #
-      # So em schedule. Run manual (workflow_dispatch) roda na hora.
-      - name: Ancora o run na janela alvo
-        if: ${{ github.event_name == 'schedule' }}
+      - name: Espera ate 06:15 BRT
         run: |
-          ALVO="09:10"   # 06:10 BRT, depois dos portais que publicam 05:00-06:00
+          ALVO="09:15"   # 06:15 BRT: depois do dispatch das 06:07, que fica pronto ~06:10
           JANELA=19800   # so espera se o alvo estiver a no maximo 330 min
           # Registra qual cron gerou o run, para medir o atraso de cada slot.
           echo "Cron: ${{ github.event.schedule }}"
@@ -134,17 +64,30 @@ jobs:
           agora=$(date -u +%s)
           espera=$(( alvo - agora ))
           if [ "$espera" -gt 0 ] && [ "$espera" -le "$JANELA" ]; then
-            echo "Iniciou $(date -u +%H:%M) UTC. Dormindo $((espera/60)) min ate $ALVO UTC (06:10 BRT)."
+            echo "Iniciou $(date -u +%H:%M) UTC. Dormindo $((espera/60)) min ate $ALVO UTC (06:15 BRT)."
             sleep "$espera"
-            echo "Acordou $(date -u +%H:%M) UTC. Rodando o clipping."
+            echo "Acordou $(date -u +%H:%M) UTC."
           else
             echo "Sem espera: alvo esta a $((espera/60)) min. Rodando agora, $(date -u +%H:%M) UTC."
           fi
 
+  scrape:
+    needs: ancora
+    # Roda tambem quando a ancora e pulada (dispatch) ou falha (runner
+    # perdido no meio da espera): melhor publicar fora de hora que nao
+    # publicar. So nao roda se o run foi cancelado.
+    if: ${{ !cancelled() }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    # Serializa os scrapes: se um comecar enquanto outro roda, espera a vez.
+    concurrency:
+      group: clipping-daily
+      cancel-in-progress: false
+
+    steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
         with:
-          # fetch-depth 0 permite rebase limpo se precisarmos
           fetch-depth: 0
 
       - name: Instala Python 3.11
@@ -181,9 +124,8 @@ jobs:
           # CONFLICT em data/articles.json, o "|| true" engolia o erro e o
           # push rodava com o repo em rebase pela metade, em detached HEAD:
           #   fatal: You are not currently on a branch  -> exit 128
-          # Foi o que derrubou o run 797 em 04/set. A ancora tornou isso
-          # frequente: ela segura o slot de concorrencia por ~66 min, entao
-          # os runs represados saem em sequencia e publicam com minutos de
+          # Foi o que derrubou o run 797 em 04/set. Continua possivel: o
+          # dispatch das 06:07 e a reserva das 06:15 publicam com minutos de
           # diferenca, partindo de bases diferentes.
           #
           # Rebase e a ferramenta errada aqui. data/articles.json e ARTEFATO
