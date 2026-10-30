@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T09:12:48.514785+00:00",
-  "count": 463,
-  "new_this_run": 52,
+  "generated_at": "2026-10-30T09:15:52.179725+00:00",
+  "count": 464,
+  "new_this_run": 53,
   "articles": [
     {
       "title": "Listadas: Por que Smart Fit, Raia Drogasil e Panvel resistem a consumo fraco",
@@ -3595,6 +3595,37 @@
         {
           "sector": "Global Consumer",
           "alias": "eli lilly",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Prime Gaming: Amazon Luna recebe os últimos jogos grátis de outubro! Resgate agora (29)",
+      "summary": "Prime Gaming: Amazon Luna recebe os últimos jogos grátis de outubro! Resgate agora (29) &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/tecmundo/voxel/prime-gaming-amazon-luna-recebe-os-ultimos-jogos-gratis-de-outubro-resgate-agora-29",
+      "published": "2026-10-29T11:15:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
           "field": "title",
           "score": 20,
           "topic": null
