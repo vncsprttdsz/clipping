@@ -1,9 +1,11 @@
 name: Clipping diário
 # Objetivo: clipping pronto ANTES das 06:30 BRT (09:30 UTC).
 #
-# DISPARO PRINCIPAL: cron-job.org, todo dia as 06:07 BRT, via
+# DISPARO PRINCIPAL: cron-job.org, todo dia as 05:45 e as 06:07 BRT, via
 # workflow_dispatch (POST na API do GitHub com token de Actions). Dispatch
 # roda na hora; em 18 dias medidos (13-30/out) disparou as 06:07 em todos.
+# O das 05:45 deixa o clipping pronto para quem olha as 06:00; o das 06:07
+# pega o que os portais publicam ate perto das 06:30.
 #
 # RESERVA: tres crons do GitHub + ancora. O agendador do GitHub e
 # best-effort e neste repo atrasa de 30 min a 7h, com regime que muda de
@@ -24,7 +26,7 @@ on:
     - cron: '23 1 * * *'   # 22:23 BRT (D-1)
     - cron: '23 2 * * *'   # 23:23 BRT (D-1)
     - cron: '23 3 * * *'   # 00:23 BRT
-  # Disparo do cron-job.org (06:07 BRT) e o botao "Run workflow" manual.
+  # Disparos do cron-job.org (05:45 e 06:07 BRT) e o botao "Run workflow" manual.
   workflow_dispatch:
     inputs:
       rescore:
