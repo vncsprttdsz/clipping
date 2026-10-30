@@ -77,6 +77,10 @@ BODY_CHARS = 3000
 # sobre agua com gas), o que gerava dezenas de falsos positivos de corpo.
 MIN_SCORE_KEEP = 8
 ECONOMY_SECTOR = "Economia"
+# Setores que so olham titulo e lead (sem body). Reforma Tributaria saiu de
+# Economia e herdou a regra: IBS/CBS aparecem no corpo de qualquer texto de
+# negocios, entao match no body seria ruido.
+ECONOMY_SECTORS = {ECONOMY_SECTOR, "Reforma Tributária"}
 
 JUNK_TITLES = {
     "curtas", "giro", "resumo", "resumo do dia", "giro do dia",
@@ -88,7 +92,8 @@ GLOBAL_SECTOR_NAME = "Global Consumer"
 
 BR_ONLY_SECTORS = {
     "Fashion", "Joias", "E-commerce", "Varejo Alimentar", "Academias",
-    "Cosméticos", "Farmácias", "Economia", "Material de Construção",
+    "Cosméticos", "Farmácias", "Economia", "Reforma Tributária",
+    "Material de Construção",
     "Eletrônicos", "Viagens", "Pet", "Wellness e Esportes",
 }
 
@@ -96,7 +101,6 @@ BR_ONLY_SECTORS = {
 TOPIC_CAPS = {
     "jornada_trabalho": 12,
     "desenrola": 8,
-    "reforma_tributaria": 10,
 }
 
 # Se a matéria cita diretamente empresas cobertas no título, ela não deve
@@ -891,7 +895,7 @@ def score_article(a: Article) -> None:
 
         sector_score = 0.0
         sector_has_match = False
-        context_n = economy_context_n if sector_name == ECONOMY_SECTOR else full_n
+        context_n = economy_context_n if sector_name in ECONOMY_SECTORS else full_n
 
         for rule in rules:
             if _search_rule(title_n, rule, context_n):
@@ -920,7 +924,7 @@ def score_article(a: Article) -> None:
                 })
                 continue
 
-            if (sector_name != ECONOMY_SECTOR and rule.get("_body_eligible")
+            if (sector_name not in ECONOMY_SECTORS and rule.get("_body_eligible")
                     and _search_rule(body_n, rule, context_n)):
                 sector_score += 2
                 sector_has_match = True

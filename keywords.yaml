@@ -354,7 +354,8 @@ sectors:
                      ventas, envíos, comercio electrónico, centro de datos,
                      méxico, argentina, colombia, chile, latinoamérica]
       requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
-                      valuation da anthropic, segundo o papa, openai, nvidia,
+                      valuation da anthropic, tech selloff, tech rout,
+                      segundo o papa, openai, nvidia,
                       rio amazonas, floresta amazônica, floresta amazonica,
                       desmatamento, bioma, spacex, supera a amazon,
                       superar a amazon, em valor de mercado, fortuna de elon,
@@ -725,57 +726,6 @@ sectors:
     - alias: carga horária
       topic: jornada_trabalho
 
-    # Tributário - termos ambíguos precisam de contexto
-    - alias: ibs
-      topic: reforma_tributaria
-      requires_any: [reforma tributária, cbs, imposto sobre bens e serviços,
-                     comitê gestor, tributo, tributária, alíquota, imposto,
-                     consumo, lc 214, lei complementar]
-    - alias: cbs
-      topic: reforma_tributaria
-      requires_any: [reforma tributária, ibs, imposto sobre bens e serviços,
-                     contribuição sobre bens e serviços, tributo, tributária,
-                     alíquota, imposto, consumo, lc 214, lei complementar]
-      requires_none: [segundo cbs, cbs news, emissora cbs, entrevista à cbs,
-                      entrevista a cbs, according to cbs]
-    - alias: imposto seletivo
-      topic: reforma_tributaria
-    - alias: cesta básica nacional
-      topic: reforma_tributaria
-    - alias: reforma tributária
-      topic: reforma_tributaria
-      requires_any: [varejo, consumo, ibs, cbs, alíquota, regulamentação,
-                     supermercado, cesta básica, imposto seletivo, subvenção,
-                     setor produtivo, comércio, indústria, tributos sobre consumo,
-                     indústria de bebidas, refrigerantes, tabaco, álcool]
-      requires_none: [petrobras, petróleo, gás natural, gasolina, diesel,
-                      combustível, combustíveis, refinaria, óleo, pré-sal]
-    - alias: subvenção
-      requires_any: [icms, crédito presumido, benefício fiscal, benefícios fiscais,
-                     incentivo fiscal, lei 14.789, varejo, comércio, consumo,
-                     base de cálculo, pis, cofins, irpj, csll]
-      requires_none: [gasolina, diesel, combustível, combustíveis, petróleo,
-                      gás natural, etanol, fertilizantes, agro, rural]
-    - alias: créditos fiscais
-      requires_any: [icms, crédito presumido, benefício fiscal, benefícios fiscais,
-                     incentivo fiscal, lei 14.789, varejo, comércio, consumo,
-                     pis, cofins, irpj, csll]
-      requires_none: [gasolina, diesel, combustível, combustíveis, petróleo,
-                      gás natural, etanol, fertilizantes, agro, rural]
-    - alias: benefícios fiscais
-      requires_any: [icms, crédito presumido, varejo, comércio, consumo, indústria,
-                     reforma tributária, subvenção, irpj, csll, pis, cofins,
-                     incentivo fiscal]
-      requires_none: [igrejas, defesa, vorcaro, brb, fertilizantes, combustível,
-                      combustíveis]
-    # Split payment: vocabulario central da regulamentacao do IBS/CBS.
-    - alias: split payment
-      topic: reforma_tributaria
-    - substituição tributária
-    - icms-st
-    - difal
-    - convênio icms
-
     # Macro consumo - Economia agora só considera título e lead, não body
     - alias: pmc
       requires_any: [ibge, pesquisa mensal do comercio, pesquisa mensal do comércio,
@@ -841,7 +791,12 @@ sectors:
     - vale refeição
     - vale-alimentação
     - vale alimentação
-    - alelo
+    # "alelo" solto casava termo de genetica ("Cientistas conseguem reverter
+    # danos associados ao Alzheimer" entrou em Economia).
+    - alias: alelo
+      requires_any: [vale-refeição, vale refeição, vale-alimentação,
+                     vale alimentação, benefício, benefícios, cartão, pat,
+                     ticket, sodexo, pluxee, vr, flash, empresa, empresas]
     - sodexo
     - pluxee
     - alias: vr
@@ -905,7 +860,124 @@ sectors:
       requires_none: [dono de bets, empresário de bets, jatinho,
                       hugo motta, ciro nogueira, patrocínio, patrocinios,
                       time de futebol, clubes de futebol, mercado de previsão,
-                      prediction markets]
+                      prediction markets,
+                      # Fora do angulo de consumo: escandalo policial,
+                      # futebol e entretenimento (out/2026, ~10% das bets).
+                      polícia federal, pf investiga, pf suspeita, sócio oculto,
+                      flamengo, corinthians, palmeiras, futebol feminino,
+                      premier league, camisa, camisas, copa do mundo,
+                      novela, novelas, filmes, séries]
+  # ------------------------------------------------------------
+  # REFORMA TRIBUTÁRIA
+  # ------------------------------------------------------------
+  # Saiu de Economia em out/2026 e virou segmento: o tema concentra a
+  # agenda (alíquota de referência da CBS, IBS, split payment, fundo de
+  # compensação, subvenção) e misturado em Economia sumia no meio de bets e
+  # endividamento. Como Economia, so conta titulo e lead (ver
+  # ECONOMY_SECTORS em clipping.py): materia de reforma cita IBS/CBS no
+  # corpo de qualquer texto de negocios.
+  #
+  # Sem topic cap: o cap de 10 materias por base (7 dias) cortava o proprio
+  # assunto que agora e prioridade.
+  Reforma Tributária:
+    - alias: reforma tributária
+      requires_any: [varejo, consumo, ibs, cbs, alíquota, regulamentação,
+                     supermercado, cesta básica, imposto seletivo, subvenção,
+                     setor produtivo, comércio, indústria, tributos sobre consumo,
+                     indústria de bebidas, refrigerantes, tabaco, álcool,
+                     split payment, empresas, preços, benefícios fiscais,
+                     incentivos fiscais, fundo de compensação, cashback,
+                     transição, tcu, senado, congresso]
+      requires_none: [petrobras, petróleo, gás natural, gasolina, diesel,
+                      combustível, combustíveis, refinaria, óleo, pré-sal]
+    - alias: ibs
+      requires_any: [reforma tributária, cbs, imposto sobre bens e serviços,
+                     comitê gestor, tributo, tributária, alíquota, imposto,
+                     consumo, lc 214, lei complementar]
+    - alias: cbs
+      requires_any: [reforma tributária, ibs, imposto sobre bens e serviços,
+                     contribuição sobre bens e serviços, tributo, tributária,
+                     alíquota, imposto, consumo, lc 214, lei complementar]
+      requires_none: [segundo cbs, cbs news, emissora cbs, entrevista à cbs,
+                      entrevista a cbs, according to cbs]
+    - imposto sobre bens e serviços
+    - contribuição sobre bens e serviços
+    - alias: iva
+      requires_any: [ibs, cbs, reforma tributária, iva dual, alíquota, tributo]
+    - iva dual
+    - alias: alíquota de referência
+      requires_any: [ibs, cbs, reforma tributária, tcu, senado, iva, tributo]
+    - alias: comitê gestor
+      requires_any: [ibs, reforma tributária, tributo, estados, municípios]
+    - lc 214
+    - lei complementar 214
+    - plp 108
+    - alias: transição tributária
+      requires_any: [ibs, cbs, reforma, icms, pis, cofins]
+    - imposto seletivo
+    - imposto do pecado
+    - cesta básica nacional
+    - alias: cesta básica
+      requires_any: [ibs, cbs, reforma tributária, alíquota zero, isenção,
+                     imposto, tributária, tributo]
+    - alias: cashback
+      requires_any: [reforma tributária, ibs, cbs, tributo, tributos,
+                     imposto, cadúnico, cadunico, devolução de impostos]
+    - split payment
+
+    # Incentivos fiscais de ICMS: o lado da reforma que pega o varejo pelo
+    # balanço (subvenção para investimento, Lei 14.789, crédito presumido)
+    # e pela transição (fundo de compensação de benefícios fiscais).
+    - fundo de compensação de benefícios fiscais
+    - alias: fundo de compensação
+      requires_any: [benefícios fiscais, incentivos fiscais, icms, ibs,
+                     reforma tributária, financeiro-fiscais, guerra fiscal,
+                     estados, convalidação]
+    - subvenção para investimento
+    - subvenções para investimento
+    - subvenção de investimento
+    - subvenções de icms
+    - lei 14.789
+    - alias: subvenção
+      requires_any: [icms, crédito presumido, benefício fiscal, benefícios fiscais,
+                     incentivo fiscal, incentivos fiscais, lei 14.789, varejo,
+                     comércio, consumo, base de cálculo, pis, cofins, irpj, csll,
+                     varejista, varejistas]
+      requires_none: [gasolina, diesel, combustível, combustíveis, petróleo,
+                      gás natural, etanol, fertilizantes, agro, rural,
+                      energia elétrica]
+    - alias: crédito presumido
+      requires_any: [icms, pis, cofins, irpj, csll, subvenção, benefício fiscal,
+                     benefícios fiscais, varejo, stf, stj, carf]
+    - alias: créditos fiscais
+      requires_any: [icms, crédito presumido, benefício fiscal, benefícios fiscais,
+                     incentivo fiscal, lei 14.789, varejo, comércio, consumo,
+                     pis, cofins, irpj, csll]
+      requires_none: [gasolina, diesel, combustível, combustíveis, petróleo,
+                      gás natural, etanol, fertilizantes, agro, rural]
+    - alias: benefícios fiscais
+      requires_any: [icms, crédito presumido, varejo, comércio, consumo, indústria,
+                     reforma tributária, subvenção, irpj, csll, pis, cofins,
+                     incentivo fiscal, fundo de compensação]
+      requires_none: [igrejas, defesa, vorcaro, brb, fertilizantes, combustível,
+                      combustíveis]
+    - alias: incentivos fiscais
+      requires_any: [icms, crédito presumido, varejo, comércio, consumo,
+                     reforma tributária, subvenção, irpj, csll, pis, cofins,
+                     fundo de compensação, guerra fiscal, ibs]
+      requires_none: [igrejas, defesa, vorcaro, brb, fertilizantes, combustível,
+                      combustíveis, lei rouanet, cultura, esporte]
+    - alias: guerra fiscal
+      requires_any: [icms, estados, benefícios fiscais, incentivos fiscais,
+                     reforma tributária, ibs]
+    - alias: créditos de icms
+      requires_any: [varejo, varejista, empresa, empresas, stf, stj, reforma,
+                     ibs, cbs, saldo credor, ressarcimento]
+    - substituição tributária
+    - icms-st
+    - difal
+    - convênio icms
+
   # ------------------------------------------------------------
   # MATERIAL DE CONSTRUÇÃO
   # ------------------------------------------------------------
@@ -1215,7 +1287,8 @@ sectors:
       requires_any: [ecommerce, cloud, aws, retail, prime, stock, revenue,
                      bezos, jassy, earnings, antitrust]
       requires_none: [anthropic levanta, anthropic atinge, anthropic ultrapassa,
-                      valuation da anthropic, segundo o papa, openai, nvidia,
+                      valuation da anthropic, tech selloff, tech rout,
+                      segundo o papa, openai, nvidia,
                       spacex, supera a amazon, superar a amazon,
                       surpass amazon, overtake amazon, fortuna de elon,
                       fortuna de musk, climbed]

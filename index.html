@@ -57,11 +57,12 @@
     -webkit-tap-highlight-color: transparent;
     padding-bottom: env(safe-area-inset-bottom);
   }
+  /* O header rola junto com a pagina. Antes ele era sticky e ocupava ~150px
+     fixos no topo (titulo, status, toggle, busca), quase 1/5 da tela do
+     celular, sem ajudar na leitura. Quem gruda agora e a barra de segmentos,
+     que e o que se usa no meio da rolagem. */
   header {
-    position: sticky; top: 0; z-index: 10;
-    background: color-mix(in srgb, var(--bg) 90%, transparent);
-    backdrop-filter: saturate(180%) blur(12px);
-    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    background: var(--bg);
     border-bottom: 1px solid var(--border);
     padding: 14px 16px 10px;
     padding-top: max(14px, env(safe-area-inset-top));
@@ -132,14 +133,141 @@
   }
 
   main {
-    padding: 8px 16px 100px;
+    padding: 4px 16px 100px;
   }
-  .group { margin-bottom: 18px; }
-  .group-title {
-    font-size: 11px; font-weight: 600;
-    text-transform: uppercase; letter-spacing: 0.6px;
+
+  /* ---------- Navegacao por segmento ----------
+     Tres pecas, cada uma resolve um problema:
+     1. Barra de chips grudada no topo: pular direto para um segmento, com
+        contagem e um ponto azul onde ja ha materia selecionada.
+     2. Cabecalho de cada grupo grudado logo abaixo da barra: voce sempre
+        sabe em que segmento esta, e recolhe dali mesmo sem voltar ao topo.
+     3. Recolher/expandir por grupo e em massa, lembrado entre visitas.
+     Durante a busca tudo fica aberto: resultado escondido parece "nao achei". */
+  :root { --nav-h: 49px; }
+  html { scroll-padding-top: calc(env(safe-area-inset-top) + var(--nav-h) + 48px); }
+  /* No PWA do iPhone a barra de status e translucida: sem esta faixa, a
+     barra grudada passaria por baixo do relogio. Fora do PWA tem altura 0. */
+  body::before {
+    content: '';
+    position: fixed; top: 0; left: 0; right: 0;
+    height: env(safe-area-inset-top);
+    background: var(--bg);
+    z-index: 16;
+  }
+  .sector-nav {
+    position: sticky; top: env(safe-area-inset-top); z-index: 15;
+    display: flex; align-items: center; gap: 8px;
+    padding: 8px 0 8px 16px;
+    background: color-mix(in srgb, var(--bg) 92%, transparent);
+    backdrop-filter: saturate(180%) blur(12px);
+    -webkit-backdrop-filter: saturate(180%) blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+  .sector-nav[hidden] { display: none; }
+  .nav-track {
+    position: relative;
+    display: flex; gap: 6px;
+    flex: 1; min-width: 0;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    padding-right: 20px;
+    /* Esmaece a borda direita: sinaliza que a barra rola para o lado. */
+    -webkit-mask-image: linear-gradient(to right, #000 calc(100% - 24px), transparent);
+    mask-image: linear-gradient(to right, #000 calc(100% - 24px), transparent);
+  }
+  .nav-track::-webkit-scrollbar { display: none; }
+  .nav-chip {
+    flex-shrink: 0;
+    display: inline-flex; align-items: center; gap: 6px;
+    height: 32px; padding: 0 12px;
+    border-radius: 100px;
+    border: 1px solid var(--border);
+    background: var(--bg);
+    color: var(--text);
+    font-size: 13px; font-weight: 500;
+    white-space: nowrap;
+    cursor: pointer;
+    -webkit-appearance: none;
+    touch-action: manipulation;
+  }
+  .nav-chip .n {
     color: var(--text-muted);
-    padding: 16px 0 10px;
+    font-size: 12px;
+    font-variant-numeric: tabular-nums;
+  }
+  .nav-chip.active {
+    background: var(--text); color: var(--bg);
+    border-color: var(--text);
+  }
+  .nav-chip.active .n { color: inherit; opacity: 0.7; }
+  .nav-chip .sel-dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--accent);
+  }
+  .nav-chip:focus-visible, .nav-toggle-all:focus-visible, .group-header:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+  .nav-toggle-all {
+    flex-shrink: 0;
+    height: 32px; padding: 0 12px;
+    margin-right: 16px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    color: var(--accent);
+    font-size: 13px; font-weight: 600;
+    cursor: pointer;
+    -webkit-appearance: none;
+    touch-action: manipulation;
+  }
+  .nav-toggle-all:disabled { color: var(--text-muted); opacity: 0.6; cursor: default; }
+
+  .group { margin-bottom: 4px; }
+  .group-items { padding-top: 10px; }
+  .group-header {
+    position: sticky;
+    top: calc(env(safe-area-inset-top) + var(--nav-h));
+    z-index: 5;
+    width: 100%;
+    display: flex; align-items: center; gap: 8px;
+    min-height: 44px;
+    padding: 8px 0;
+    margin: 0;
+    background: var(--bg);
+    border: none;
+    box-shadow: 0 1px 0 var(--border);
+    color: var(--text-muted);
+    font: inherit;
+    font-size: 12px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.6px;
+    text-align: left;
+    cursor: pointer;
+    -webkit-appearance: none;
+    touch-action: manipulation;
+  }
+  .group-header .chev {
+    display: inline-block; width: 12px;
+    font-size: 11px;
+    transition: transform 0.15s;
+  }
+  .group-header[aria-expanded="false"] .chev { transform: rotate(-90deg); }
+  .group-header[aria-expanded="false"] { color: var(--text); }
+  .group-header .count { margin-left: 0; }
+  .sel-count {
+    margin-left: auto;
+    text-transform: none; letter-spacing: 0;
+    font-size: 11.5px; font-weight: 600;
+    color: var(--tag-fg);
+    background: var(--tag-bg);
+    padding: 2px 8px;
+    border-radius: 100px;
+  }
+  .group-items[hidden] { display: none; }
+  @media (prefers-reduced-motion: reduce) {
+    .group-header .chev { transition: none; }
   }
   .count {
     display: inline-block;
@@ -622,6 +750,10 @@
     <button class="pill" data-days="4">4d</button>
     <button class="pill" data-days="5">5d</button>
   </div>
+  <nav class="sector-nav" id="sector-nav" aria-label="Segmentos" hidden>
+    <div class="nav-track" id="nav-track"></div>
+    <button type="button" class="nav-toggle-all" id="toggle-all"></button>
+  </nav>
   <main id="list"></main>
 
   <div class="action-bar" id="action-bar">
@@ -694,6 +826,7 @@ const SECTOR_LABELS = {
   'Cosméticos': 'Cosméticos',
   'Farmácias': 'Farmácias',
   'Economia': 'Economia',
+  'Reforma Tributária': 'Reforma Tributária',
   'Material de Construção': 'Material de Construção',
   'Eletrônicos': 'Eletrônicos',
   'Viagens': 'Viagens',
@@ -716,6 +849,7 @@ const SECTOR_PRIORITY = [
   'Pet',
   'Material de Construção',
   'Viagens',
+  'Reforma Tributária',
   'Economia',
   'Global Consumer'
 ];
@@ -774,6 +908,7 @@ const state = {
   query: '',
   selected: new Set(),
   order: [],
+  collapsed: new Set(),   // segmentos recolhidos (chave do setor)
 };
 
 const STORAGE_KEYS = {
@@ -782,6 +917,7 @@ const STORAGE_KEYS = {
   manual: 'retail-daily-manual',
   selectionBatch: 'retail-daily-selection-batch',
   autoClear: 'retail-daily-autoclear',
+  collapsed: 'retail-daily-collapsed',
 };
 
 // Default: limpeza automática LIGADA. Quando o bot publica um lote novo
@@ -804,6 +940,8 @@ function loadState() {
     if (ord) state.order = JSON.parse(ord);
     const man = localStorage.getItem(STORAGE_KEYS.manual);
     if (man) state.manualArticles = JSON.parse(man);
+    const col = localStorage.getItem(STORAGE_KEYS.collapsed);
+    if (col) state.collapsed = new Set(JSON.parse(col));
   } catch (e) {
     console.error('Erro carregando estado:', e);
   }
@@ -817,6 +955,12 @@ function persist() {
     if (state.generatedAt) {
       localStorage.setItem(STORAGE_KEYS.selectionBatch, state.generatedAt);
     }
+  } catch (e) { console.error(e); }
+}
+
+function saveCollapsed() {
+  try {
+    localStorage.setItem(STORAGE_KEYS.collapsed, JSON.stringify([...state.collapsed]));
   } catch (e) { console.error(e); }
 }
 
@@ -944,6 +1088,8 @@ function render() {
 
   if (!filtered.length) {
     document.getElementById('list').innerHTML = '<div class="empty">Nenhuma matéria com os filtros atuais.</div>';
+    document.getElementById('sector-nav').hidden = true;
+    renderedKeys = [];
     updateActionBar();
     document.getElementById('sources-container').innerHTML = '';
     return;
@@ -989,11 +1135,21 @@ function render() {
     return SECTOR_LABELS[key] || key;
   }
 
-  document.getElementById('list').innerHTML = orderedKeys.map(key => {
+  const searching = isSearching();
+  document.getElementById('list').innerHTML = orderedKeys.map((key, i) => {
     const articles = groups[key];
+    const id = 'sec-' + i;
+    const collapsed = !searching && state.collapsed.has(key);
+    const selN = articles.filter(a => state.selected.has(a.url)).length;
     return `
-    <section class="group">
-      <div class="group-title">${esc(getGroupTitle(key))}<span class="count">${articles.length}</span></div>
+    <section class="group" data-key="${esc(key)}">
+      <button type="button" class="group-header" data-key="${esc(key)}"
+              aria-expanded="${!collapsed}" aria-controls="${id}-items">
+        <span class="chev" aria-hidden="true">▾</span>
+        <span>${esc(getGroupTitle(key))}</span><span class="count">${articles.length}</span>
+        ${selN ? `<span class="sel-count">${selN} selecionada${selN > 1 ? 's' : ''}</span>` : ''}
+      </button>
+      <div class="group-items" id="${id}-items" ${collapsed ? 'hidden' : ''}>
       ${articles.map(a => {
         const sourceLabel = extractSource(a.url);
         const sourceTag = sourceLabel ? `<span class="source-tag">${esc(sourceLabel)}</span>` : '';
@@ -1019,8 +1175,11 @@ function render() {
           </div>
         </article>`;
       }).join('')}
+      </div>
     </section>`;
   }).join('');
+
+  renderNav(orderedKeys, groups, getGroupTitle);
 
   document.querySelectorAll('.check').forEach(box => {
     box.onclick = (e) => {
@@ -1031,6 +1190,180 @@ function render() {
 
   updateActionBar();
   renderSourcesTable(filtered);
+}
+
+// ============================================================
+// Navegação por segmento: barra de chips, recolher/expandir e
+// destaque do segmento visível
+// ============================================================
+let renderedKeys = [];
+const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+function isSearching() {
+  return state.query.trim() !== '';
+}
+
+function findSection(key) {
+  return document.querySelector(`#list .group[data-key="${CSS.escape(key)}"]`);
+}
+
+// Altura ocupada no topo pela barra grudada (inclui a faixa da barra de status
+// do iPhone, que entra no "top" calculado do sticky).
+function stickyOffset() {
+  const nav = document.getElementById('sector-nav');
+  if (!nav || nav.hidden) return 0;
+  return (parseFloat(getComputedStyle(nav).top) || 0) + nav.offsetHeight;
+}
+
+function syncNavHeight() {
+  const nav = document.getElementById('sector-nav');
+  if (nav && !nav.hidden) {
+    document.documentElement.style.setProperty('--nav-h', nav.offsetHeight + 'px');
+  }
+}
+
+function renderNav(keys, groups, getTitle) {
+  renderedKeys = keys;
+  const nav = document.getElementById('sector-nav');
+  const track = document.getElementById('nav-track');
+  // render() roda a cada seleção; sem isso a barra voltaria pro começo.
+  const keepLeft = track.scrollLeft;
+  track.innerHTML = keys.map(key => {
+    const items = groups[key];
+    const hasSel = items.some(a => state.selected.has(a.url));
+    return `<button type="button" class="nav-chip" data-key="${esc(key)}">` +
+      `${esc(getTitle(key))}<span class="n">${items.length}</span>` +
+      (hasSel ? '<span class="sel-dot" title="Tem selecionada"></span>' : '') +
+      `</button>`;
+  }).join('');
+  track.scrollLeft = keepLeft;
+  nav.hidden = keys.length === 0;
+  syncNavHeight();
+  updateToggleAll();
+  updateActiveChip();
+}
+
+function updateToggleAll() {
+  const btn = document.getElementById('toggle-all');
+  const allCollapsed = renderedKeys.length > 0 && renderedKeys.every(k => state.collapsed.has(k));
+  btn.textContent = allCollapsed ? 'Expandir' : 'Recolher';
+  btn.setAttribute('aria-label', allCollapsed ? 'Expandir todos os segmentos' : 'Recolher todos os segmentos');
+  btn.disabled = isSearching();
+  btn.title = isSearching() ? 'Durante a busca todos os segmentos ficam abertos' : '';
+}
+
+function setCollapsed(key, collapsed) {
+  if (collapsed) state.collapsed.add(key); else state.collapsed.delete(key);
+  saveCollapsed();
+  const sec = findSection(key);
+  if (!sec) return;
+  sec.querySelector('.group-items').hidden = collapsed;
+  sec.querySelector('.group-header').setAttribute('aria-expanded', String(!collapsed));
+}
+
+function toggleSector(key) {
+  if (isSearching()) return;
+  const collapse = !state.collapsed.has(key);
+  setCollapsed(key, collapse);
+  // Recolher com o cabeçalho grudado no topo some com o conteúdo de baixo e
+  // deixa a tela num ponto qualquer da lista. Devolve o cabeçalho pro lugar,
+  // logo abaixo da barra, pra o próximo segmento aparecer em seguida.
+  const sec = findSection(key);
+  if (collapse && sec) {
+    const top = sec.getBoundingClientRect().top;
+    if (top < stickyOffset()) {
+      window.scrollTo({ top: top + window.scrollY - stickyOffset() });
+    }
+  }
+  updateToggleAll();
+  updateActiveChip();
+}
+
+function toggleAll() {
+  if (isSearching() || !renderedKeys.length) return;
+  const allCollapsed = renderedKeys.every(k => state.collapsed.has(k));
+  renderedKeys.forEach(k => setCollapsed(k, !allCollapsed));
+  updateToggleAll();
+  // Recolhendo tudo a página encolhe: volta pro início da lista.
+  const list = document.getElementById('list');
+  const top = list.getBoundingClientRect().top + window.scrollY - stickyOffset();
+  if (window.scrollY > top) window.scrollTo({ top });
+  updateActiveChip();
+}
+
+function jumpToSector(key) {
+  const sec = findSection(key);
+  if (!sec) return;
+  // Pular para um segmento recolhido abre o segmento: é o que se quer ver.
+  if (!isSearching() && state.collapsed.has(key)) {
+    setCollapsed(key, false);
+    updateToggleAll();
+  }
+  lockActive(key);
+  const top = sec.getBoundingClientRect().top + window.scrollY - stickyOffset();
+  window.scrollTo({ top: Math.max(0, top), behavior: reduceMotion ? 'auto' : 'smooth' });
+}
+
+// Depois de um clique no chip, o destaque fica no segmento escolhido até a
+// rolagem assentar. Sem isso, um segmento curto no fim da página (que não
+// consegue subir até o topo) nunca ficaria destacado.
+let activeLock = null;
+let activeLockTimer = null;
+function lockActive(key) {
+  activeLock = key;
+  setActiveChip(key);
+  clearTimeout(activeLockTimer);
+  activeLockTimer = setTimeout(() => { activeLock = null; }, 1000);
+}
+
+function updateActiveChip() {
+  if (activeLock) { setActiveChip(activeLock); return; }
+  const limit = stickyOffset() + 1;
+  let current = renderedKeys[0] || null;
+  for (const sec of document.querySelectorAll('#list .group')) {
+    if (sec.getBoundingClientRect().top <= limit) current = sec.dataset.key;
+    else break;
+  }
+  setActiveChip(current);
+}
+
+function setActiveChip(key) {
+  const track = document.getElementById('nav-track');
+  let activeEl = null;
+  track.querySelectorAll('.nav-chip').forEach(ch => {
+    const on = ch.dataset.key === key;
+    ch.classList.toggle('active', on);
+    if (on) { ch.setAttribute('aria-current', 'true'); activeEl = ch; }
+    else ch.removeAttribute('aria-current');
+  });
+  // Mantém o chip ativo à vista mexendo só na rolagem horizontal da barra
+  // (scrollIntoView também rolaria a página na vertical).
+  if (activeEl) {
+    const left = activeEl.offsetLeft;
+    const right = left + activeEl.offsetWidth;
+    if (left < track.scrollLeft || right > track.scrollLeft + track.clientWidth) {
+      track.scrollTo({ left: Math.max(0, left - 16), behavior: reduceMotion ? 'auto' : 'smooth' });
+    }
+  }
+}
+
+function initSectorNav() {
+  document.getElementById('nav-track').addEventListener('click', (e) => {
+    const chip = e.target.closest('.nav-chip');
+    if (chip) jumpToSector(chip.dataset.key);
+  });
+  document.getElementById('toggle-all').addEventListener('click', toggleAll);
+  document.getElementById('list').addEventListener('click', (e) => {
+    const header = e.target.closest('.group-header');
+    if (header) toggleSector(header.dataset.key);
+  });
+  let ticking = false;
+  window.addEventListener('scroll', () => {
+    if (ticking) return;
+    ticking = true;
+    requestAnimationFrame(() => { ticking = false; updateActiveChip(); });
+  }, { passive: true });
+  window.addEventListener('resize', syncNavHeight);
 }
 
 function renderSourcesTable(articles) {
@@ -1468,6 +1801,7 @@ function initAutoClearToggle() {
 
 loadState();
 initAutoClearToggle();
+initSectorNav();
 fetchData().then(render);
 </script>
 </body>
