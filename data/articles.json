@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T09:15:52.179725+00:00",
+  "generated_at": "2026-10-30T09:35:15.758567+00:00",
   "count": 464,
-  "new_this_run": 53,
+  "new_this_run": 27,
   "articles": [
     {
       "title": "Listadas: Por que Smart Fit, Raia Drogasil e Panvel resistem a consumo fraco",
@@ -4623,38 +4623,6 @@
         }
       ],
       "score": 32.0
-    },
-    {
-      "title": "Vendas no varejo do Reino Unido caem 0,4% em setembro com clima e contenção",
-      "summary": "Os volumes de vendas no varejo do Reino Unido caíram 0,4% na comparação mensal em setembro de 2026, recuo mais acentuado do que a queda de 0,1% esperada pelo mercado, após uma alta revisada para cima de 0,7% em agosto. As varejistas de vestuário online reportaram uma demanda mais fraca por coleções de outono e inverno em meio a um clima atipicamente quente, enquanto o menor fluxo de clientes e a contenção de gastos dos consumidores pesaram sobre as lojas de roupas, calçados, artigos esportivos e artigos para o lar. As vendas de supermercados também declinaram após registrarem alta em julho e agosto. No geral, os volumes de vendas de lojas não alimentícias caíram 0,4%. Em contrapartida, as vendas de combustíveis automotivos subiram, apesar dos preços mais elevados. No terceiro trimestre, os volumes de vendas no varejo avançaram 0,7% na comparação trimestral e 1,5% na comparação anual, sustentados pelas vendas de combustíveis e de lojas de alimentos, enquanto o clima quente, promoções e a Copa do Mundo impulsionaram as vendas de bebidas alcoólicas e não alcoólicas. Na comparação anual, o volume de vendas no varejo subiu 0,8% em setembro, abaixo do crescimento de 1% esperado pelo mercado e desacelerando em relação à alta de 2,7% registrada em agosto.",
-      "url": "https://valor.globo.com/mundo/noticia/2026/10/23/vendas-no-varejo-do-reino-unido-caem-04percent-em-setembro-com-clima-e-contencao.ghtml",
-      "published": "2026-10-23T09:21:47+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia",
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "artigos esportivos",
-        "vendas no varejo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "vendas no varejo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "artigos esportivos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Vale-alimentação pode impactar aposentadoria",
@@ -10488,6 +10456,29 @@
         {
           "sector": "Farmácias",
           "alias": "panvel",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Tesco to sell Czech, Slovak businesses to Ahold Delhaize in $1.9 billion deal",
+      "summary": "Tesco to sell Czech, Slovak businesses to Ahold Delhaize in $1.9 billion deal &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/tesco-sell-czech-slovak-businesses-ahold-delhaize-19-billion-deal-2026-10-30",
+      "published": "2026-10-30T08:13:22+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "tesco"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "tesco",
           "field": "title",
           "score": 20,
           "topic": null
