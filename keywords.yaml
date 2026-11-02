@@ -473,7 +473,12 @@ sectors:
     - espaço laser
     - espa3
     - f45
-    - crossfit
+    # "crossfit" solto trazia video de atleta ("Atletas de crossfit fazem
+    # corrida de parada de mao na Escocia"). So conta como negocio de academia.
+    - alias: crossfit
+      requires_any: [academia, academias, box, boxes, rede, franquia,
+                     franquias, mercado, setor, unidades, alunos, mensalidade,
+                     smart fit, empresa, marca, expansão, investimento]
 
     # Ambíguos
     # "smart fit" (2 palavras) e marca inequivoca em portugues. Com gate,
