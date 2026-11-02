@@ -482,6 +482,36 @@ sectors:
     # para a Smart Fit"). SMFT3 e cobertura.
     - smart fit
 
+    # O setor sem marca no titulo. Post do blog Capital (O Globo) sobre
+    # Panobianco chegou com resumo "Materia exclusiva para assinantes" e
+    # titulo "Academias tem hoje maior vento a favor da historia do
+    # segmento...": sem marca e sem "rede de academias", score 0.
+    - setor de academias
+    - mercado de academias
+    - mercado fitness
+    - setor fitness
+    - alias: academias
+      requires_any: [segmento, setor, mercado, rede, redes, fitness, alunos,
+                     unidades, mensalidade, ginástica, musculação, franquia,
+                     franqueados, expansão, receita, faturamento, ipo,
+                     investimento, aporte, aquisição, consolidação, low cost,
+                     smart fit, panobianco, bluefit, selfit, bodytech,
+                     bio ritmo, wellhub, gympass, totalpass]
+      requires_none: [academias de polícia, academia de polícia,
+                      academias militares, academia militar, academia de letras,
+                      academia brasileira de letras, academias de letras,
+                      academia de ciências, academias de futebol,
+                      academia de futebol, escolinhas]
+    # Singular e mais ambiguo ("a academia e o mercado", Academia Brasileira
+    # de Letras, Oscar): so com vocabulario inequivoco de academia de ginastica.
+    - alias: academia
+      requires_any: [rede de academias, smart fit, panobianco, bluefit, selfit,
+                     bodytech, bio ritmo, musculação, ginástica, fitness,
+                     mensalidade, low cost, personal trainer]
+      requires_none: [academia brasileira, academia de letras, academia de polícia,
+                      academia militar, academia sueca, nobel, oscar, hollywood,
+                      academia de futebol, universidade, pesquisadores]
+
   # ------------------------------------------------------------
   # COSMÉTICOS
   # ------------------------------------------------------------
