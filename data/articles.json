@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T09:17:12.107982+00:00",
-  "count": 481,
-  "new_this_run": 101,
+  "generated_at": "2026-11-04T09:30:51.942913+00:00",
+  "count": 482,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Ozempic natural: como aumentar os níveis de GLP-1 sem o uso de medicamentos",
@@ -11487,6 +11487,29 @@
         {
           "sector": "Reforma Tributária",
           "alias": "imposto seletivo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Agência de Comunicação - Loupit Travel Tech: marketplace permite trocar de agência e manter o sistema",
+      "summary": "Agência de Comunicação - Loupit Travel Tech: marketplace permite trocar de agência e manter o sistema &nbsp;&nbsp; Estadão Blue Studio",
+      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/pulsebrand/loupit-travel-tech-marketplace-permite-trocar-de-agencia-e-manter-o-sistema",
+      "published": "2026-11-03T18:35:31+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "marketplace"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "marketplace",
           "field": "title",
           "score": 20,
           "topic": null
