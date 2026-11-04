@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-04T09:30:51.942913+00:00",
-  "count": 482,
-  "new_this_run": 5,
+  "generated_at": "2026-11-04T11:12:50.654843+00:00",
+  "count": 484,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Ozempic natural: como aumentar os níveis de GLP-1 sem o uso de medicamentos",
@@ -279,6 +279,93 @@
         }
       ],
       "score": 104.0
+    },
+    {
+      "title": "Anvisa aprova Wegovy em comprimido, 1ª versão oral das canetas emagrecedoras",
+      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou, nesta quarta-feira, uma versão em comprimidos do medicamento Wegovy, da farmacêutica dinamarquesa Novo Nordisk, para tratamento da obesidade. O fármaco, que tem como princípio ativo a semaglutida, é a primeira versão oral de um remédio da classe conhecida como \"canetas emagrecedoras\" a receber o aval no Brasil. A expectativa do laboratório é iniciar a comercialização no primeiro semestre de 2027. O que significa andar com as mãos atrás das costas, segundo especialistas em linguagem corporal? Jesús de Miguel: um golpe no peito pode parar o coração? Entenda o que pode ter causado a morte do jogador A versão injetável do Wegovy já era autorizada para tratamento de indivíduos com obesidade (IMC ≥30 kg/m²) ou com sobrepeso (IMC ≥27 kg/m² a <30 kg/m²) e uma comorbidade associada ao peso, a partir dos 12 anos de idade, em conjunto com uma dieta hipocalórica e aumento da atividade física. A versão em comprimidos foi aprovada para o mesmo objetivo, porém apenas para adultos. Em nota, a Anvisa destaca que a semaglutida \"atua na regulação do apetite e da ingestão alimentar, promovendo redução do peso corporal e melhora de parâmetros metabólicos associados à obesidade\". Além das canetas emagrecedoras: Novo dispositivo promete combater a obesidade com estímulos cerebrais Outro novo medicamento oral que também pertence à classe das \"canetas emagrecedoras\", chamada formalmente de análogos de GLP-1, é a orforgliprona, comercializada com o nome de Foundayo nos Estados Unidos. O fármaco ainda está em análise na Anvisa e é produzido pela farmacêutica Eli Lilly, a mesma do Mounjaro (tirzepatida). Wegovy oral O Wegovy oral é administrado uma vez ao dia e, assim como a versão injetável, envolve um aumento gradual da dose utilizada, iniciando em 1,5 mg, avançando para 4 mg, depois 9 mg, até atingir a dose diária de manutenção recomendada, de 25 mg. O medicamento precisa ser tomado em jejum, com uma pequena quantidade de água, aguardando-se pelo menos 30 minutos depois para a ingestão de alimentos, bebidas ou outros remédios. A agência sanitária brasileira destaca que a nova apresentação oferece \"mais flexibilidade terapêutica aos pacientes e profissionais de saúde, o que inclui a possibilidade de transição entre as formulações oral e subcutânea (injetável), quando clinicamente apropriado, de acordo com as orientações aprovadas em bula\". Ainda não há, porém, estimativas de custo no Brasil. Antes disso, a Câmara de Regulação do Mercado de Medicamentos (CMED) precisa definir o preço máximo que poderá ser cobrado pela farmacêutica no país, uma das etapas do processo para que um novo medicamento seja comercializado nas drogarias brasileiras. A aprovação da Anvisa teve como base os resultados do estudo clínico de fase 3 chamado OASIS 4, que avaliou a eficácia da semaglutida oral na dosagem de 25 mg em adultos com obesidade ou sobrepeso associado a comorbidades, e observou que, após 64 semanas de tratamento, a medicação levou a uma perda média de 13,6% do peso. Uma análise posterior considerando um cenário em que todos os pacientes permanecessem em tratamento estimou que essa redução do número na balança pode chegar a aproximadamente 17%. Além disso, nos testes, 1 em cada 3 voluntários perdeu 20% ou mais do peso no período. Além disso, segundo a Anvisa, a medicação promoveu melhora em diversos marcadores de saúde cardiometabólica dos pacientes. Para comparação, o Wegovy injetável, no estudo também de fase 3 chamado STEP-4, levou a uma perda de peso de aproximadamente 17,4% após 68 semanas.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/11/04/anvisa-aprova-wegovy-em-comprimido-1a-versao-oral-das-canetas-emagrecedoras.ghtml",
+      "published": "2026-11-04T09:53:02+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "drogarias",
+        "medicamento",
+        "novo nordisk",
+        "obesidade",
+        "semaglutida",
+        "tirzepatida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "drogarias",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 96.0
     },
     {
       "title": "A disputa no balcão da farmácia: CEO da Pague Menos abre o jogo sobre o Mercado Livre",
@@ -707,6 +794,69 @@
       "score": 72.0
     },
     {
+      "title": "Anvisa aprova nova semaglutida em comprimido para o tratamento da obesidade",
+      "summary": "Wegovy pill 25 mg tem o mesmo princípio ativo e indicação da caneta injetável; medicamento é o primeiro agonista do GLP-1 em pílula a receber aval no Brasil",
+      "url": "https://veja.abril.com.br/saude/anvisa-aprova-nova-semaglutida-em-comprimido-para-o-tratamento-da-obesidade",
+      "published": "2026-11-04T09:55:55+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "glp-1",
+        "medicamento",
+        "obesidade",
+        "semaglutida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "glp-1",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 72.0
+    },
+    {
       "title": "Endividamento das famílias supera 50% e comprometimento de renda vai a 29% em agosto, em novo recorde",
       "summary": "O endividamento das famílias com operações de crédito superou 50% pela primeira vez na história, divulgou nesta quinta-feira (29) o Banco Central (BC). O indicador atingiu 50,1% em agosto, o maior patamar da série, iniciada em janeiro de 2005. O endividamento do BC calcula a relação percentual entre o saldo das dívidas das famílias e a renda acumulada em 12 meses, com base na Renda Nacional Disponível Bruta das Famílias (RNDBF), calculada com base nos ganhos financeiros com trabalho, ajudas do governo, rendas de aluguel, por exemplo, e desconto com o pagamento de tributos. Já o comprometimento de renda das famílias (relação percentual entre o valor médio estimado para o pagamento do serviço das dívidas das famílias no trimestre encerrado no mês de referência e a RNDBF média apurada) subiu para 29% em agosto, também nível recorde. O chefe do departamento de estatística do Banco Central, Fernando Rocha, disse que tanto os indicadores de endividamento quando de comprometimento de renda estão em tendência de elevação, com uma trajetória de variações sutis tanto para baixo quanto para cima. “Muito embora o endividamento das famílias esteja oscilando já há vários meses, em especial neste ano inteiro, entre 49,7% e 49,9% da renda anual das famílias, subiu adicionalmente em agosto, chegando a 50,1%”, disse. Marcello Casal Jr/Agência Brasil",
       "url": "https://valor.globo.com/financas/noticia/2026/10/29/endividamento-das-familias-e-comprometimento-de-renda-batem-recorde-em-agosto.ghtml",
@@ -842,6 +992,53 @@
           "alias": "eli lilly",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 68.0
+    },
+    {
+      "title": "Wegovy oral: Anvisa aprova 1ª versão em comprimidos de caneta emagrecedora",
+      "summary": "Versão oral da semaglutida será indicada para adultos e poderá ser tomada uma vez ao dia; estudo apontou perda média de 13% do peso em 64 semanas",
+      "url": "https://exame.com/brasil/wegovy-oral-anvisa-aprova-1a-versao-em-comprimidos-de-caneta-emagrecedora",
+      "published": "2026-11-04T07:39:10+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "semaglutida",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -1856,6 +2053,61 @@
           "alias": "imposto seletivo",
           "field": "lead",
           "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 52.0
+    },
+    {
+      "title": "Split payment e RAD mudam liquidez do caixa das empresas",
+      "summary": "O split payment (pagamento dividido, em tradução livre), um dos pilares da reforma tributária, vai mudar profundamente o fluxo de caixa das empresas. Instituições financeiras e de meios de pagamento passarão a separar automaticamente, na liquidação da operação, a parcela do IBS e da CBS, repassando-a diretamente à Receita Federal e ao Comitê Gestor do IBS. Previsto para começar de forma opcional em 2027 e se tornar obrigatório em meados de 2028, o modelo promete combater a sonegação e agilizar os créditos tributários, mas elimina o uso temporário desses valores como capital de giro. Leia mais (11/04/2026 - 08h00)",
+      "url": "https://www1.folha.uol.com.br/blogs/que-imposto-e-esse/2026/11/split-payment-e-rad-mudam-liquidez-do-caixa-das-empresas.shtml",
+      "published": "2026-11-04T11:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "comitê gestor",
+        "ibs",
+        "reforma tributária",
+        "split payment"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "comitê gestor",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "split payment",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
@@ -5715,69 +5967,6 @@
       "score": 30.0
     },
     {
-      "title": "O que o Mounjaro pode fazer com a depressão, segundo novo estudo",
-      "summary": "Pesquisa associa tirzepatida a menos pensamentos suicidas em pessoas com depressão e obesidade",
-      "url": "https://veja.abril.com.br/saude/o-que-o-mounjaro-pode-fazer-com-a-depressao-segundo-novo-estudo",
-      "published": "2026-10-28T10:00:40+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "mounjaro",
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "mounjaro",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
-      "title": "Dona da Brastemp e da Consul tem US$ 157 milhões a receber da Casas Bahia: vai ter calote?",
-      "summary": "A recuperação judicial da Casas Bahia deixou a Whirlpool com US$ 157 milhões em créditos sob risco",
-      "url": "https://exame.com/invest/mercados/dona-da-brastemp-e-da-consul-tem-us-157-milhoes-a-receber-da-casas-bahia-vai-ter-calote",
-      "published": "2026-10-28T11:00:45+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Economia"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "recuperação judicial"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "recuperação judicial",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Hypera descarta redução no preço de caneta emagrecedora com entrada de mais fabricantes",
       "summary": "A Hypera Farma afirmou não ver redução de preço das canetas emagrecedoras no curto prazo mesmo com a entrada de novos competidores. Leia mais (10/28/2026 - 12h50)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/10/hypera-descarta-reducao-no-preco-de-caneta-emagrecedora-e-ve-espaco-para-expansao-do-mercado.shtml",
@@ -7077,52 +7266,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Santander Brasil vê lucro recuar no terceiro trimestre; inadimplência sobe",
-      "summary": "O Santander Brasil obteve lucro líquido gerencial de R$ 2,885 bilhões no terceiro trimestre de 2026, o que representa baixa de 4,3% na comparação com o segundo trimestre e de 28% ante o mesmo trimestre do ano anterior. O resultado veio em linha com as projeções dos analistas consultados pelo Valor, que apontavam um ganho de R$ 2,890 bilhões. “O ambiente macroeconômico segue exigindo disciplina, seletividade e foco na qualidade dos resultados. Nossos números refletem esse contexto, mas também mostram um banco que está realizando ajustes importantes para fortalecer sua capacidade de crescimento sustentável”, afirma em nota Gilson Finkelsztain, CEO do Santander Brasil. “Continuamos o avanço na carteira de crédito, com uma relação mais equilibrada entre risco, retorno e uso de capital e na busca por maior eficiência. O próximo passo é uma recuperação gradual da rentabilidade.” O terceiro maior banco privado do País em ativos contabilizou margem financeira bruta de R$ 14,958 bilhões no terceiro trimestre, com queda de 2,5% ante o trimestre anterior e 1,6% em relação ao terceiro trimestre de 2025. As despesas líquidas com provisões para devedores duvidosos (PDD) ficaram em R$ 7,460 bilhões, com queda de 2,5% ante o trimestre anterior e alta de 14,4% em 12 meses. As receitas de prestação de serviços e tarifas bancárias atingiram R$ 5,417 bilhões, com alta de 1,6% no trimestre e baixa de 2,4% em 12 meses. Já as despesas gerais totalizaram R$ 6,383 bilhões, com redução de 3,0% no trimestre e queda de 0,6% em 12 meses. O retorno sobre o patrimônio (ROE) - excluindo ágio - ficou em 11,9% no terceiro trimestre, ante 12,5% no segundo trimestre e 17,5% no terceiro trimestre de 2025. O índice de Basileia ficou em 15,1%, de 15,3% e 15,2%, na mesma base de comparação. Inadimplência O Santander Brasil encerrou o terceiro trimestre com inadimplência de 3,4% na carteira de crédito, ante 3,3% em junho e 2,8% em setembro do ano anterior. A taxa de calotes de pessoa física ficou em 5,5% no fim de setembro, ante 5,1% em junho e 4,2% no fim do terceiro trimestre de 2025. No caso de pessoas jurídicas, o indicador estava em 1,5% no fim de setembro, de 1,6% e 1,4%, na mesma base de comparação. “No trimestre, o avanço refletiu a maior inadimplência em pessoa física, principalmente nos segmentos de baixa renda e agronegócio, diante de um cenário econômico ainda desafiador e de elevado endividamento, sendo parcialmente compensado pela melhora em PMEs”, diz o banco. A inadimplência de curto prazo (15 a 90 dias) ficou em 3,2% em setembro, de 3,3% em junho e 3,1% em setembro de 2025. Em PF, a inadimplência ficou em 5,2%, de 5,3% e 4,9%, na mesma base de comparação. E em PJ o indicador foi de 1,3%, de 1,5% e 1,4%, respectivamente. O registro de empréstimos inadimplentes (NPL formation) ficou em R$ 7,204 bilhões no terceiro trimestre. A relação entre o NPL formation e a carteira de crédito alcançou 1,01%, de 1,00% no segundo trimestre e 1,02% no terceiro trimestre de 2025. O Santander informou ainda que sua carteira renegociada atingiu R$ 46,7 bilhões em setembro, com queda de 2,3% no trimestre e elevação de 3,3% em doze meses. Silvia Zamboni/Valor",
-      "url": "https://valor.globo.com/financas/noticia/2026/10/28/santander-brasil-ve-lucro-recuar-no-terceiro-trimestre.ghtml",
-      "published": "2026-10-28T10:52:51+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Lula amplia votação em cidades com mais beneficiários do Bolsa Família por domicílio no 2º turno",
-      "summary": "Todas as dez cidades do ranking ficam localizadas no interior das regiões Norte e Nordeste, sobretudo nos estados do Amazonas, Amapá e Maranhão",
-      "url": "https://exame.com/brasil/lula-amplia-votacao-em-cidades-com-mais-beneficiarios-do-bolsa-familia-por-domicilio-no-2o-turno",
-      "published": "2026-10-28T11:04:52+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bolsa família"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bolsa família",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Do SEO ao GEO: como a busca em IAs impacta a jornada do consumidor no e-commerce",
@@ -9724,29 +9867,6 @@
       "score": 20.0
     },
     {
-      "title": "Fim da escala 6x1: o que falta definir para categorias especiais e como o Senado quer resolver",
-      "summary": "Quinze dias após a promulgação da proposta de emenda constitucional (PEC) que acabou com a jornada de seis dias de trabalho e um de descanso (a escala 6x1) pelo Congresso Nacional, uma ala do Senado já se articula para apresentar, na próxima terça-feira, uma outra PEC para tratar das atividades profissionais com jornadas específicas. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/10/31/fim-da-escala-6x1-o-que-falta-definir-para-categorias-especiais-e-como-o-senado-quer-resolver.ghtml",
-      "published": "2026-10-31T07:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Como esta ex-banqueira do Goldman virou peça-chave para fintechs como o Nubank nos EUA",
       "summary": "Como esta ex-banqueira do Goldman virou peça-chave para fintechs como o Nubank nos EUA &nbsp;&nbsp; Bloomberg Línea Brasil",
       "url": "https://www.bloomberglinea.com.br/2026/10/31/como-esta-ex-banqueira-do-goldman-virou-peca-chave-para-fintechs-como-o-nubank-nos-eua",
@@ -12185,6 +12305,52 @@
       "score": 20.0
     },
     {
+      "title": "Reforma tributária, escala 5x2 e o reequilíbrio das concessões",
+      "summary": "Uma pedra cai na água e ninguém discorda de que isso forma ondas. A questão é até onde elas vão. Nas concessões de serviços públicos, duas pedras acabam de cair. Leia mais (11/04/2026 - 07h00)",
+      "url": "https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/11/reforma-tributaria-escala-5x2-e-o-reequilibrio-das-concessoes.shtml",
+      "published": "2026-11-04T10:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 5x2"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 5x2",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Novo eleva projeções com avanço da comercialização da versão em comprimido do Wegovy",
+      "summary": "A Novo elevou suas projeções para o ano após identificar uma melhora nas perspectivas para seus principais medicamentos contra obesidade e diabetes, especialmente nos mercados fora dos Estados Unidos, enquanto continua a expansão da comercialização de seu novo comprimido para perda de peso. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/11/04/novo-eleva-projecoes-com-avanco-da-comercializacao-da-versao-em-comprimido-do-wegovy.ghtml",
+      "published": "2026-11-04T10:57:34+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Eli Lilly tem lucro líquido de US$ 6,45 bilhões no 3º trimestre, alta de 16% na base anual",
       "summary": "A Eli Lilly somou aproximadamente US$ 6,45 bilhões de lucro líquido no terceiro trimestre de 2026, montante 16% superior ao obtido no mesmo período do ano anterior. A empresa com sede em Indianápolis, nos Estados Unidos, divulgou o balanço trimestral na manhã desta quinta-feira (29). Entre julho e setembro, a receita da farmacêutica aumentou 39% na comparação anual, para US$ 24,4 bilhões, impulsionada pelas vendas dos medicamentos Mounjaro e Zepbound. Segundo a Eli Lilly, o crescimento da receita global reflete um avanço de 53% no volume de medicamentos vendidos, parcialmente compensado por um declínio de 15% dos preços realizados. O faturamento da empresa nos Estados Unidos avançou 34% na base anual, somando US$ 15,1 bilhões. No país, o volume vendido cresceu 41%, enquanto os preços realizados recuaram 7%, principalmente em razão do Zepbound. O medicamento, ainda não comercializado no Brasil, é indicado para o controle de peso e tem a tirzepatida, a mesma substância ativa do Mounjaro, como base. Fora dos Estados Unidos, a Eli Lilly somou US$ 9,3 bilhões em receita, o que representa uma alta de 47% na comparação anual. O Mounjaro, carro-chefe da farmacêutica, respondeu por US$ 10,7 bilhões do faturamento global, ante US$ 6,5 bilhões em igual período do ano anterior — crescimento de 65%. A receita com o Zepbound avançou 49%, alcançando US$ 5,3 bilhões no trimestre. A Eli Lilly revisou suas projeções para este ano, prevendo agora que a receita fique no intervalo de US$ 91 bilhões a US$ 92 bilhões, acima da estimativa anterior, de US$ 85 bilhões a US$ 87 bilhões. Já a faixa estimada para o lucro ajustado por ação foi reduzida de US$ 35,50 a US$ 36,50 para US$ 35 a US$ 36. Segundo a companhia, a melhora no desempenho operacional permitiu elevar em US$ 4,07 o ponto médio da projeção, mas esse efeito foi mais do que compensado por despesas de US$ 4,57 por ação relacionadas à aquisição de projetos de pesquisa e desenvolvimento no terceiro trimestre. Eli Lilly Bloomberg",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/29/eli-lilly-tem-lucro-liquido-de-us-645-bilhoes-no-3o-trimestre-alta-de-16percent-na-base-anual.ghtml",
@@ -12737,29 +12903,6 @@
         }
       ],
       "score": 10.0
-    },
-    {
-      "title": "Lucro do Santander cai 28% sob pressão de provisões contra calotes",
-      "summary": "Pressionado pela inadimplência e pelo aumento nas provisões contra calotes, o Santander Brasil registrou lucro líquido gerencial de R$ 2,885 bilhões no terceiro trimestre deste ano, divulgou o banco nesta quarta-feira (28). Leia mais (10/28/2026 - 07h49)",
-      "url": "https://c-level.folha.uol.com.br/financas/2026/10/lucro-do-santander-cai-28-sob-pressao-de-provisoes-contra-calotes.shtml",
-      "published": "2026-10-28T10:49:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0
     },
     {
       "title": "Número de superendividados no Brasil cresce 75% em cinco anos, diz BC",
@@ -14134,6 +14277,52 @@
         {
           "sector": "Economia",
           "alias": "renegociação de dívidas",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Favelas e periferias têm potencial de consumo de R$ 167 bilhões por ano, estima Novo Outdoor Social",
+      "summary": "As favelas e periferias brasileiras têm potencial de consumo anual estimado em R$ 167 bilhões, segundo levantamento da Novo Outdoor Social (Nós), empresa fundada em 2012 que atua com publicidade e inteligência de dados em favelas, periferias, aldeias indígenas e comunidades ribeirinhas no Brasil, com 50 mil pontos de mídia instalados. A dimensão desse mercado também é resultado do avanço das compras pela internet e da presença de grandes plataformas de comércio eletrônico entre os consumidores. Na pesquisa \"Brand Fans Marketplace\", o percentual de entrevistados que moram em comunidades que já compraram na Shopee, plataforma singapuriana de comércio eletrônico, chegou a 70,4% em agosto de 2026, ante 56,1% em 2025. O avanço de 14,3 pontos percentuais é o maior entre os 11 marketplaces acompanhados pela Nós. Entre os entrevistados que conhecem a Shopee, 86,6% já compraram na plataforma. O Mercado Livre, de comércio eletrônico na América Latina, aparece logo atrás nesse indicador, com 81,3%. Quando considerada a totalidade dos entrevistados, a taxa de compra da Shopee é de 70,4%. No caso da Shein, de comércio eletrônico focado em moda, por exemplo, 55,5% conhecem a plataforma, mas somente 28,1% afirmam já ter comprado nela. O Mercado Livre se destaca por apresentar uma distribuição mais equilibrada de consumidores entre homens e mulheres. Os resultados fazem parte do \"Brand Fans\", edição especial de marketplaces do Tracking das Favelas, pesquisa contínua da empresa de publicidade. O levantamento acompanha indicadores de conhecimento, compra, preferência, intenção de compra, recomendação e satisfação em relação às plataformas. A pesquisa também permite observar a diferença entre o reconhecimento de uma marca e sua capacidade de converter esse conhecimento em compra. Para Emília Rabello, fundadora e sócia da Nós, a expansão das compras digitais está relacionada à mudança na infraestrutura disponível nesses territórios. “O que aconteceu nessa última década foi a tecnologia como infraestrutura”, afirma. Rabello cita a expansão da internet móvel, dos meios de pagamento digitais e dos serviços de entrega como fatores que ampliaram o acesso ao comércio eletrônico. Ela avalia, porém, que a presença das plataformas digitais não elimina a importância do comércio de bairro. Produtos de consumo cotidiano, como alimentos e materiais de limpeza, continuam associados às lojas locais, enquanto roupas e eletrônicos têm maior presença nos marketplaces, segundo Rabello. A estimativa de R$ 167 bilhões considera informações de orçamento familiar, renda, emprego e endividamento. O valor representa a capacidade potencial de compra da população, e não o faturamento efetivamente realizado pelo comércio ou pelas plataformas. A empresa de publicidade divulgou estimativa semelhante em 2025, quando a estimativa ficou em R$ 160 bilhões. O Tracking das Favelas, pesquisa de inteligência de mercado que mapeia o comportamento de consumo, marcas preferidas e tendências, é realizado em ondas trimestrais desde março de 2024. A edição de marketplaces foi concluída em setembro de 2026 e integra uma base acumulada de mais de 19 mil entrevistas em dez ondas. A coleta é feita por aplicativo próprio, com entrevistadores que moram nas comunidades. Segundo a empresa, são aplicados cerca de 800 questionários por mês, com margem de erro declarada de 3,5 pontos percentuais e intervalo de confiança de 95%. A dimensão demográfica desse mercado também aparece no Censo 2022 do Instituto Brasileiro de Geografia e Estatística (IBGE). Naquele ano, 16,4 milhões de pessoas viviam em favelas e comunidades urbanas no país, distribuídas por 12.348 territórios em 656 municípios. O instituto contabilizou ainda 958 mil estabelecimentos nesses locais, incluindo comércios e outros tipos de atividade.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/11/04/favelas-e-periferias-tem-potencial-de-consumo-de-r-167-bilhoes-por-ano-estima-novo-outdoor-social.ghtml",
+      "published": "2026-11-04T11:00:01+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "comércio eletrônico"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Democrats Take Congress as Trump Says Iran War Is Partly to Blame for GOP Losses",
+      "summary": "Plus, Iran turns to guerrilla tactics to try to stop the flow of oil leaving the Strait of Hormuz, and CVS Health decides to split in two.",
+      "url": "https://www.wsj.com/world/democrats-take-congress-as-trump-says-iran-war-is-partly-to-blame-for-gop-losses-b03d4784?mod=rss_Technology",
+      "published": "2026-11-04T11:03:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "cvs"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "cvs",
           "field": "lead",
           "score": 8,
           "topic": null
