@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T09:41:25.229664+00:00",
-  "count": 505,
-  "new_this_run": 12,
+  "generated_at": "2026-11-05T11:12:52.310276+00:00",
+  "count": 507,
+  "new_this_run": 20,
   "articles": [
     {
       "title": "Ozempic natural: como aumentar os níveis de GLP-1 sem o uso de medicamentos",
@@ -624,61 +624,6 @@
         }
       ],
       "score": 80.0
-    },
-    {
-      "title": "O que aconteceu com o primeiro duelo entre as canetas de retatrutida e semaglutida em pessoas com diabetes",
-      "summary": "Droga experimental foi comparada em estudo com o Ozempic entre pessoas acima do peso com diabetes tipo 2",
-      "url": "https://veja.abril.com.br/saude/o-que-aconteceu-com-o-primeiro-duelo-entre-as-canetas-de-retatrutida-e-semaglutida-em-pessoas-com-diabetes",
-      "published": "2026-10-29T10:00:10+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "ozempic",
-        "retatrutida",
-        "semaglutida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "ozempic",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "retatrutida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "ozempic",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 76.0
     },
     {
       "title": "Quais canetas emagrecedoras foram aprovadas pela Anvisa? Veja as 20 novidades de 2026",
@@ -1623,6 +1568,46 @@
         {
           "sector": "Farmácias",
           "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Receita recebe lista de medicamentos com alíquota zero de CBS e IBS nesta semana",
+      "summary": "Há dúvidas sobre o tratamento tributário que será dado para medicamentos que estarão em estoque na virada de 2026 e 2027",
+      "url": "https://www.jota.info/saude/receita-recebe-lista-de-medicamentos-com-aliquota-zero-de-cbs-e-ibs-nesta-semana",
+      "published": "2026-11-05T10:07:23+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Farmácias",
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "medicamentos"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "cbs",
           "field": "title",
           "score": 20,
           "topic": null
@@ -3063,68 +3048,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Eli Lilly blows past estimates, hikes sales outlook on resilient Zepbound and Mounjaro demand",
-      "summary": "Eli Lilly reported that sales of obesity drug Zepbound and diabetes treatment Mounjaro surged again in the third quarter.",
-      "url": "https://www.cnbc.com/2026/10/29/eli-lilly-lly-earnings-q3-2026.html",
-      "published": "2026-10-29T10:56:02+00:00",
-      "source": "https://www.cnbc.com/id/10001147/device/rss/rss.html",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "eli lilly",
-        "zepbound"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "eli lilly",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "zepbound",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
-    },
-    {
-      "title": "Eli Lilly profits surge on demand for weight-loss drugs",
-      "summary": "US drugmaker to raise its revenue outlook for the second time in three months",
-      "url": "https://www.ft.com/content/5a3eaa0a-c903-4d41-bc7c-c3e5b8ef773c?syn-25a6b1a6=1",
-      "published": "2026-10-29T11:04:04+00:00",
-      "source": "https://www.ft.com/companies?format=rss",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "eli lilly",
-        "weight-loss drugs"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "weight-loss drugs",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "eli lilly",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Prime Gaming: Amazon Luna recebe os últimos jogos grátis de outubro! Resgate agora (29)",
@@ -6095,6 +6018,45 @@
       "score": 36.0
     },
     {
+      "title": "O TCU e uma análise da CBS de 11,3%",
+      "summary": "O Tribunal de Contas da União (TCU) concluiu, em 28 de outubro, o cálculo da alíquota de referência da Contribuição sobre Bens e Serviços (CBS), estabelecendo o percentual de 11,3468%, arredondado para 11,3%. O resultado será encaminhado ao Senado Federal, a quem compete fixar a alíquota por resolução. Nesse artigo, pretende-se examinar algumas premissas que sustentaram as conclusões do TCU. A Lei Complementar nº 214/2025 determina que a CBS preserve a arrecadação federal dos tributos substituídos pela reforma, tomando como referência a média da receita obtida entre 2012 e 2021, proporcionalmente ao PIB. A dificuldade consiste em encontrar a alíquota adequada para atingir esse resultado, sobretudo por estarmos diante de um sistema tributário com regras profundamente distintas do sistema em substituição. SAIBA MAIS: Para tanto, a Receita Federal desenvolveu uma metodologia composta por 17 módulos, examinada pelo TCU, que também construiu ferramenta própria para reproduzir os cálculos. O modelo combina registros contábeis, informações fiscais, estatísticas econômicas e estimativas dos efeitos dos diversos regimes tributários. O esforço técnico merece reconhecimento. Mas a exatidão da operação matemática aplicada pelo TCU deve ser ponderada diante da análise da correção das premissas utilizadas nos cálculos. O primeiro ponto de destaque diz respeito à escolha das bases de dados. A metodologia utiliza amplamente informações da Escrituração Contábil Fiscal (ECF), sobretudo receitas, custos e despesas declarados pelas empresas. Ocorre que registros contábeis concebidos para apuração de tributos sobre a renda não reproduzem necessariamente as bases de incidência e creditamento de um imposto sobre valor agregado. A CBS assegura, como regra, créditos vinculados às aquisições tributadas, observadas as condições legais. Já a contabilidade registra custos e despesas segundo critérios de competência e reconhecimento de resultados. O custo das mercadorias vendidas, por exemplo, pode corresponder a aquisições realizadas em exercícios anteriores. Depreciações e amortizações, por sua vez, são apropriações contábeis que não equivalem automaticamente a novas operações geradoras de créditos. A utilização dessas rubricas exige ajustes. Se a base de créditos for superestimada, a arrecadação potencial da CBS será artificialmente menor, exigindo alíquota maior para alcançar a meta legal. E vice-versa. Seria indispensável, para obter o número ideal, uma conciliação efetiva entre registros contábeis e operações juridicamente creditáveis. Outra fragilidade está na identificação do consumo final. Para calcular os efeitos das alíquotas reduzidas e da alíquota zero, o modelo utiliza, entre outros critérios, proporções entre demanda final e demanda total extraídas das Contas Nacionais. O problema é que demanda final, em linguagem macroeconômica, não se confunde necessariamente com consumo final sujeito à tributação definitiva. Pode compreender investimentos, estoques e exportações, operações com consequências tributárias distintas. Além disso, o modelo pressupõe que diferenças entre débitos e créditos nas etapas intermediárias sejam neutralizadas ao longo da cadeia. Essa equivalência funciona adequadamente em um IVA ideal, com não cumulatividade plena. Entretanto, regimes específicos, restrições de creditamento e tratamentos diferenciados podem impedir sua reprodução integral. A importância dessa questão aparece nos próprios números divulgados. Os módulos de redução proporcional de alíquotas e alíquota zero representam ajustes negativos de aproximadamente R$ 61,9 bilhões e R$ 126,3 bilhões, respectivamente. São quase R$ 188,2 bilhões de redução na arrecadação estimada. Pequenas imprecisões na identificação das operações beneficiadas podem, portanto, produzir efeitos relevantes na alíquota final. Há ainda dificuldades na classificação das atividades econômicas. Para determinados serviços, a metodologia utiliza códigos CNAE e receitas agregadas das empresas. Contudo, benefícios da CBS frequentemente dependem da natureza concreta do fornecimento, e não simplesmente da atividade principal do contribuinte. Empresas podem realizar simultaneamente operações sujeitas a alíquotas distintas, tornando indispensável uma classificação fragmentada. Outro ponto sensível envolve a estimativa da inadimplência e da sonegação, conhecida como tax gap. A metodologia inicialmente apresentada partia da premissa de que os dados históricos já refletiriam tais perdas. O TCU, acertadamente, introduziu no cálculo final um ajuste destinado a considerar a melhoria esperada na conformidade tributária. A correção é oportuna, mas talvez não capture adequadamente os efeitos do split payment, das novas exigências de creditamento, do cruzamento eletrônico de informações e dos incentivos à formalização. Se a CBS conseguir arrecadar proporcionalmente mais que os tributos substituídos, a manutenção da alíquota estimada poderá resultar em aumento efetivo da carga tributária. Também merece atenção a utilização dos anos-base de 2023 e 2024, em substituição a 2024 e 2025, previstos no art. 353 da LC nº 214/2025. A indisponibilidade de dados consolidados justificou a solução técnica adotada, mas não dispensa a demonstração de sua compatibilidade jurídica nem a avaliação dos efeitos econômicos dessa substituição. Some-se a isso a existência de parâmetros normativos ainda indefinidos na data do cálculo, incluindo, por exemplo, alíquotas do Imposto Seletivo e determinados percentuais de créditos presumidos. A necessidade de estimá-los introduz incertezas adicionais em um resultado apresentado com quatro casas decimais. Nada disso autoriza afirmar, sem demonstração quantitativa, que a alíquota de 11,3% está errada. Tampouco significa desconhecer os aperfeiçoamentos realizados pelo TCU. Significa apenas reconhecer que existem escolhas metodológicas capazes de alterar o resultado, algumas em direção oposta às demais. A questão transcende, porém, a precisão dos cálculos. O percentual elevado também reflete escolhas políticas feitas durante a tramitação da reforma, especialmente a multiplicação de regimes especiais, reduções de alíquotas e exceções à tributação uniforme. Quanto maior a parcela da economia favorecida, maior tende a ser a alíquota exigida dos demais contribuintes para preservar a arrecadação. A neutralidade arrecadatória, ademais, não significa neutralidade econômica. Preservar a receita global da União não assegura que a carga tributária permaneça inalterada para empresas, setores ou consumidores. É precisamente por isso que a metodologia deve ser submetida ao mais amplo escrutínio. Não basta divulgar a alíquota resultante. É necessário permitir que suas premissas, bases de dados, critérios de classificação e ajustes sejam reproduzidos e testados independentemente, inclusive mediante cenários alternativos. A alíquota de referência não pode transformar-se em uma presunção incontestável apenas porque resulta de uma fórmula complexa. O maior risco não é apontar imprecisões nos cálculos, mas atribuir certeza absoluta a estimativas que, por sua própria natureza, carregam margens relevantes de incerteza. A reforma tributária nasceu sob a promessa de simplificação, transparência e racionalidade econômica. Nesse contexto, a aceitação da alíquota, matematicamente apurada, não dispensa a segurança das premissas utilizadas nos respectivos cálculos. Qualquer imprecisão pode custar bilhões aos contribuintes, relembrando que a revisão quinquenal dos artigos 475 e 476 da lei complementar 214/2025 não é prazo mínimo, mas prazo máximo para correção de disfuncionalidades no nosso sistema.",
+      "url": "https://valor.globo.com/legislacao/fio-da-meada/post/2026/11/o-tcu-e-uma-analise-da-cbs-de-113percent.ghtml",
+      "published": "2026-11-05T10:00:02+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "alíquota de referência",
+        "cbs",
+        "contribuição sobre bens e serviços"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "contribuição sobre bens e serviços",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "alíquota de referência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0
+    },
+    {
       "title": "Escolas precisam de gestão rigorosa para usufruir  de benefícios fiscais como redutor e ProUni, diz advogado",
       "summary": "As instituições de ensino vão precisar fazer uma gestão tributária rigorosa para serem efetivamente beneficiadas pelo redutor de 60% nas alíquotas do Imposto sobre Bens e Serviços (IBS) e da Contribuição sobre Bens e Serviços (CBS), crédito tributário e ProUni, segundo o advogado tributarista Filipe Piazzi, sócio conselheiro do escritório Coimbra, Chaves & Batista Advogados. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/10/30/escolas-precisam-de-gestao-rigorosa-para-usufruir-de-beneficios-fiscais-como-redutor-e-prouni-diz-advogado.ghtml",
@@ -7475,6 +7437,68 @@
       "score": 28.0
     },
     {
+      "title": "MP do Imposto Seletivo define sobretaxa para para cerveja, cigarro e carros; veja alíquotas",
+      "summary": "O governo federal publicou nesta quarta-feira a medida provisória (MP) que fixa as alíquotas do imposto seletivo (IS). O tributo foi criado pela Reforma Tributária para encarecer produtos considerados prejudiciais à saúde ou ao meio ambiente. Por isso, será um tributo cobrado além da taxa-padrão da reforma. Fabio Graner: Projeções de inflação disparam em meio a combinação de choques e forçam Copom a manter juros altos 'Incertezas regulatórias': OAB pede adiamento de implementação da Reforma Tributária para 2028 Apelidado de \"Imposto do Pecado\", o novo tributo precisa respeitar a noventena, prazo mínimo de 90 dias entre a publicação da norma e o início da cobrança. Dessa forma, o Imposto Seletivo só começará a ser cobrado em fevereiro de 2027, e não em 1º de janeiro, como previa o calendário da reforma. Para permitir essa medida, o governo vai apresentar uma proposta de emenda à Constituição (PEC) para prorrogar a incidência do Imposto sobre Produtos Industrializados (IPI) incidentes sobre bens prejudiciais à saúde ou ao meio ambiente, até que haja pleno efeito do IS, a fim de evitar perda de arrecadação. Veja abaixo as alíquotas: Unsplash Cigarro O texto publicado traz a série de alíquotas de acordo com cada produto. O maior percentual é adotado para cigarros e cigarrilhas, de 66,7% mais uma parcela fixa de R$ 3,50 por conjunto de 20 unidades. Fim da escala 6x1: Confederações do comércio e da indústria recorrem a STF por exeções e mais prazo para se adaptar à nova jornada de trabalho Até o fim de 2027, para produtos com preço de venda tabelado, a base de cálculo será de 15% do preço no varejo. A MP mantém, para os cigarros, a regra de preço mínimo de venda prevista no regulamento do IPI. Cerveja Freepik Bebidas açucaradas, cerveja e vinho No cado das bebidas, há grande variação de percentual de acordo com o produto. bebidas açucaradas: 2,6% cerveja de malte: 4,2% vinho: 8%. Fotos de Marcelo Theobald Carros, caminhões, aeronaves e embarcações No caso dos veículos, também diferença de alíquotas: carro de passeio: a MP cria uma alíquota-base de 6,3%, que sobe ou desce conforme uma série de cinco critérios como fonte de energia e tecnologia de propulsão, eficiência energética, potência, desempenho estrutural e tecnologias de assistência à direção e reciclabilidade. carros com baixa emissão: terão alíquota zero. O texto estabelece critérios de sustentabilidade e eficiência energética para a definição das alíquotas incidentes sobre veículos. carros para pessoas com deficiência: carros adquiridos por pessoas com deficiência ou com transtorno do espectro autista terão alíquota zero. carros usados por por motoristas profissionais: os que utilizam o automóvel na categoria de aluguel (táxi) também ficarão isentos, observadas as condições previstas na medida. caminhões: a medida prevê ainda a não incidência do Imposto Seletivo sobre caminhões com peso bruto total igual ou superior a 3.500 quilos, exceto picapes aeronaves e embarcações: não haverá incidência de Imposto Seletivo para aeronaves e embarcações com características técnicas específicas destinados ao uso operacional das Forças Armadas ou dos órgãos de segurança pública. Implementação gradual O Palácio do Planalto explicou que o regime estabelecido pela medida provisória terá caráter temporário e vigorará até 31 de dezembro de 2027. Até 31 de maio de 2027, o Poder Executivo encaminhará ao Congresso Nacional projeto de lei com a definição das alíquotas do Imposto Seletivo aplicáveis a partir de 1º de janeiro de 2028. Nesse período, afirma o governo, as alíquotas do Imposto Seletivo aplicáveis a veículos, aeronaves, embarcações, produtos fumígenos, bebidas alcoólicas e bebidas açucaradas corresponderão às atuais alíquotas do IPI, após a aplicação de fatores específicos de conversão. A adequação considera as diferenças entre as bases de incidência dos dois tributos, de modo a preservar o nível efetivo da tributação durante a transição, sem aumento de carga tributária ou perda de arrecadação. No caso dos bens minerais extraídos, as alíquotas ficam reduzidas a zero até 31 de dezembro de 2027, enquanto a definição do regime permanente será objeto de discussão em legislativa específica. Para os concursos de prognósticos, como Mega-Sena, Lotofácil e Loteca, foi estabelecida alíquota de 0,5%. Segundo o ministro da Fazenda, Dario Durigan, essa transição foi negociada com os setores afetados, que concordaram em manter a carga do IPI no IS. — Tem um ajuste de base porque o ICMS tá dentro da base de cálculo do IPI. Quando a gente expurga para limpar a base de cálculo do novo tributo que é imposto seletivo, você tem um ajuste na alíquota a ser feito — disse Durigan a jornalistas na terça-feira. Arrecadação O governo afirmou que eventual aumento da arrecadação estimada do Imposto Seletivo será compensado por redução equivalente da alíquota de referência e da arrecadação estimada da Contribuição sobre Bens e Serviços (CBS), e vice-versa. Dessa forma, fica preservado o nível global de arrecadação previsto no desenho da Reforma Tributária. A medida não implica renúncia de receitas tributárias. O projeto de lei orçamentária anual (PLOA) de 2027 prevê arrecadação de quase R$ 42 bilhões com o seletivo no próximo ano. Noventena A medida foi publicada após reunião do presidente Luiz Inácio Lula da Silva com os ministros da Fazenda, Dario Durigan, e do Planejamento, Bruno Moretti, hoje mais cedo. A medida chega atrasada. Para que o seletivo estreasse junto com a Contribuição sobre Bens e Serviços (CBS), em janeiro, a MP precisaria ter sido editada até 2 de outubro. O governo, porém, deixou o envio para depois do segundo turno das eleições, em 25 de outubro, por temer desgastes na campanha. Parte da receita esperada com apostas, porém, ficou comprometida. Em setembro, o governo editou a MP que proibiu as apostas esportivas e os jogos virtuais no país, que teriam incidência de IS. A MP tem força de lei a partir da publicação e validade de até 120 dias. Mas Câmara e Senado teriam de aprovar o texto antes do recesso parlamentar, que começa em 23 de dezembro.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/11/05/mp-do-imposto-seletivo-define-sobretaxa-para-para-cerveja-cigarro-e-carros-veja-aliquotas.ghtml",
+      "published": "2026-11-05T10:58:39+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "imposto seletivo",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "reforma tributária",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "imposto seletivo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0
+    },
+    {
+      "title": "Centrais sindicais defendem regulamentar fim da escala 6x1 por acordos, evitando decretos",
+      "summary": "Presidentes de centrais sindicais se reuniram com o ministro do Trabalho, Luiz Marinho , nesta quarta-feira (4) para defender que o governo Lula ( PT ) e o Congresso evitem editar novas normas sobre o fim da escala 6x1 e deixem a definição de como se dará a nova jornada de trabalho para os acordos coletivos feitos por negociação sindical. Leia mais (11/05/2026 - 08h04)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/11/centrais-sindicais-defendem-regulamentar-fim-da-escala-6x1-por-acordos-evitando-decretos.shtml",
+      "published": "2026-11-05T11:04:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1",
+        "jornada de trabalho"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        },
+        {
+          "sector": "Economia",
+          "alias": "jornada de trabalho",
+          "field": "lead",
+          "score": 8,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 28.0
+    },
+    {
       "title": "Smart Fit tem lucro de R$ 255 milhões no terceiro trimestre, alta de 50%",
       "summary": "O grupo Smart Fit fechou o terceiro trimestre com um lucro líquido de R$ 255,3 milhões, crescimento de 50% na comparação com igual período no ano anterior. Os resultados foram amparados por um crescimento operacional, assim como por uma menor alíquota de Imposto de Renda. A receita global da empresa foi de R$ 2,3 bilhões, alta de 29% na comparação anual. O Ebitda (lucro antes de juros, impostos, depreciação e amortização) foi de R$ 772,5 milhões, crescimento de 32%. A margem Ebitda subiu 0,7 ponto percentual, para 32,9%. A companhia encerrou o trimestre com 2.259 academias em 17 países, crescimento de 21% em relação a igual período do ano anterior, ou 19% desconsiderando as 30 unidades da Evolve, que passaram a integrar a base consolidada neste trimestre. Ao final do período, a rede era composta por 1.822 unidades próprias (81% do total) e 437 franquias (19%). Segundo a empresa, nos últimos 12 meses, foram adicionadas 392 academias, a maior expansão na história do grupo, sendo 349 da marca Smart Fit, 30 da Evolve e 13 unidades “Bio Ritmo e outras”. Uma das fortalezas da empresa tem sido sua operação para além das academias no Brasil, como os estúdios de ginástica e o agregador TotalPass. Essas outras categorias (o grupo não abre detalhes de cada uma delas) fecharam com uma receita de R$ 226,1 milhões no terceiro trimestre, alta de 50% na comparação anual, representando 10% da receita líquida total. Já no lucro bruto, o salto da categoria “outras” foi de 116%, para R$ 203,9 milhões, representando agora 17% do lucro bruto do grupo — contra 10% um ano antes. A companhia apresentou um aumento de R$ 377,8 milhões na dívida líquida ajustada no trimestre em relação ao segundo trimestre. De acordo com o grupo, essa evolução reflete, principalmente, os investimentos realizados no período, com foco na expansão da rede de academias, incluindo a aquisição da Evolve. “Esses efeitos foram parcialmente compensados pela sólida geração de caixa operacional de R$ 658,9 milhões, impulsionada pelo crescimento do Ebitda ajustado de 7%. Com isso, a taxa de conversão do Ebitda ajustado em caixa operacional foi de 86% no trimestre”, disse. O endividamento da empresa (medido pela dívida líquida ajustada pelo Ebitda nos últimos 12 meses) ficou em 1,21 vez, contra 1,04 vez um ano antes. Smart Fit Divulgação",
       "url": "https://valor.globo.com/empresas/noticia/2026/11/04/smart-fit-tem-lucro-de-r-255-milhoes-no-terceiro-trimestre-alta-de-50percent.ghtml",
@@ -7841,75 +7865,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Cómo funciona la IA de Ualá y qué reclamos resuelven empleados",
-      "summary": "Cómo funciona la IA de Ualá y qué reclamos resuelven empleados &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/innovacion/72623-como-funciona-la-ia-de-uala-y-que-reclamos-resuelven-empleados",
-      "published": "2026-10-29T09:44:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "ualá"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "ualá",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "Justiça pune Atacadão em R$ 50 mil por venda de produtos impróprios ao consumo; MP pediu R$ 600 mil",
-      "summary": "A rede de supermercados Atacadão foi condenada a pagar uma indenização por danos morais coletivos de R$ 50 mil por colocar à venda 25 produtos impróprios ou inadequados ao consumo. Leia mais (10/29/2026 - 08h00)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/10/justica-pune-atacadao-em-r-50-mil-por-venda-de-produtos-improprios-ao-consumo-mp-pediu-r-600-mil.shtml",
-      "published": "2026-10-29T11:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "atacadão"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "atacadão",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "C&A leva seu ‘personal shopper’ movido a IA para o WhatsApp",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/10/canda-leva-seu-personal-shopper-movido-a-ia-para-o-whatsapp.ghtml",
-      "published": "2026-10-29T11:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "c&a"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "c&a",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Juros sobem e inadimplência das famílias avança no crédito livre, mostra BC",
@@ -11822,29 +11777,6 @@
       "score": 20.0
     },
     {
-      "title": "Reforma tributária, escala 5x2 e o reequilíbrio das concessões",
-      "summary": "Uma pedra cai na água e ninguém discorda de que isso forma ondas. A questão é até onde elas vão. Nas concessões de serviços públicos, duas pedras acabam de cair. Leia mais (11/04/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/mauricio-portugal-ribeiro/2026/11/reforma-tributaria-escala-5x2-e-o-reequilibrio-das-concessoes.shtml",
-      "published": "2026-11-04T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 5x2"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 5x2",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0
-    },
-    {
       "title": "Novo eleva projeções com avanço da comercialização da versão em comprimido do Wegovy",
       "summary": "A Novo elevou suas projeções para o ano após identificar uma melhora nas perspectivas para seus principais medicamentos contra obesidade e diabetes, especialmente nos mercados fora dos Estados Unidos, enquanto continua a expansão da comercialização de seu novo comprimido para perda de peso. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/empresas/noticia/2026/11/04/novo-eleva-projecoes-com-avanco-da-comercializacao-da-versao-em-comprimido-do-wegovy.ghtml",
@@ -11883,6 +11815,29 @@
         {
           "sector": "Farmácias",
           "alias": "rd saúde",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Comprimido ou caneta: qual Wegovy emagrece mais?",
+      "summary": "Comprimido ou caneta: qual Wegovy emagrece mais? &nbsp;&nbsp; VEJA",
+      "url": "https://veja.abril.com.br/saude/comprimido-ou-caneta-qual-wegovy-emagrece-mais",
+      "published": "2026-11-04T12:40:13+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
           "field": "title",
           "score": 20,
           "topic": null
@@ -12757,6 +12712,52 @@
         {
           "sector": "Fashion",
           "alias": "malwee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Governo define regras do 'imposto do pecado' para 2027; veja o que muda",
+      "summary": "Cobrança começa em 2 de fevereiro de 2027; medida prevê alíquota zero para algumas categorias de veículos e bens minerais",
+      "url": "https://exame.com/economia/governo-define-regras-do-imposto-do-pecado-para-2027-veja-o-que-muda",
+      "published": "2026-11-05T06:49:38+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "imposto do pecado"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "imposto do pecado",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "O balanço da C&A foi bom ou ruim? Lucro supera previsão, mas vendas decepcionam",
+      "summary": "Despesas crescem o triplo das vendas e consomem o ganho de margem com roupas",
+      "url": "https://exame.com/invest/mercados/o-balanco-da-ca-foi-bom-ou-ruim-lucro-supera-previsao-mas-vendas-decepcionam",
+      "published": "2026-11-05T07:07:52+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "c&a"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "c&a",
           "field": "title",
           "score": 20,
           "topic": null
@@ -14915,6 +14916,29 @@
       "score": 8.0
     },
     {
+      "title": "Porto prevê 'PIB zero' em 2027 e reforça proteção contra calotes em R$ 300 milhões",
+      "summary": "A decisão considera a piora das perspectivas para juros, inflação e atividade econômica, além da pressão sobre a renda das famílias e o risco de aumento da inadimplência",
+      "url": "https://exame.com/invest/mercados/porto-preve-pib-zero-em-2027-e-reforca-protecao-contra-calotes-em-r-300-milhoes",
+      "published": "2026-11-05T07:33:50+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
       "title": "CNC e CNI tentam no STF adiar novas jornadas",
       "summary": "A Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e a da Indústria (CNI) recorreram ao Supremo Tribunal Federal (STF) para tentar adiar a implementação das novas jornadas de trabalho com o fim da escala de trabalho 6x1. Ambas as entidades entraram com ações diretas de inconstitucionalidade (ADIs). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
       "url": "https://valor.globo.com/legislacao/noticia/2026/11/05/cnc-e-cni-tentam-no-stf-adiar-novas-jornadas.ghtml",
@@ -14953,6 +14977,29 @@
         {
           "sector": "Cosméticos",
           "alias": "boticário",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0
+    },
+    {
+      "title": "Governo propõe manter IPI em janeiro para evitar perda de arrecadação",
+      "summary": "Transição depende de aval do Congresso; cobrança do Imposto Seletivo está prevista para começar em fevereiro de 2027",
+      "url": "https://veja.abril.com.br/economia/governo-propoe-manter-ipi-em-janeiro-para-evitar-perda-de-arrecadacao",
+      "published": "2026-11-05T10:53:16+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "imposto seletivo"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "imposto seletivo",
           "field": "lead",
           "score": 8,
           "topic": null
