@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T09:17:55.886243+00:00",
-  "count": 508,
-  "new_this_run": 131,
+  "generated_at": "2026-11-06T09:33:50.168129+00:00",
+  "count": 513,
+  "new_this_run": 18,
   "articles": [
     {
       "title": "Ozempic natural: como aumentar os níveis de GLP-1 sem o uso de medicamentos",
@@ -1396,6 +1396,45 @@
         {
           "sector": "Farmácias",
           "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0
+    },
+    {
+      "title": "Anvisa aprova versão oral do medicamento Wegovy para tratamento da obesidade",
+      "summary": "Anvisa aprova versão oral do medicamento Wegovy para tratamento da obesidade &nbsp;&nbsp; Folha BV",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNQlN0dVl2dTJUczVJekszMllPVUtrSmlrZjA4UVVHOHAwbEU3VERnWHVWRWFwR1pLWi00ZVI3Znd5WnFJV2lkRkJpMjZzNE1mWDBxUll0YmQyVUgwUkZ5VGZjV1QxTmZXQXdkOExvci1nVDNvNjlfajlmZ2hBcmlZU1E0a3lEMWR6bzlrWEFjMndFdFFuMTNJVjVXQ1BKRElpVFhNeXhIc3ZmX09NRkNyZUVTRU5RMXBnWmJEeHR5Zw?oc=5",
+      "published": "2026-11-04T17:38:05+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamento",
+        "obesidade",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
           "field": "title",
           "score": 20,
           "topic": null
@@ -3936,6 +3975,68 @@
       "score": 40.0
     },
     {
+      "title": "Anvisa aprova Wegovy em comprimidos para obesidade no Brasil",
+      "summary": "Anvisa aprova Wegovy em comprimidos para obesidade no Brasil &nbsp;&nbsp; Game Overdrive",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPX3J4clJES09keGZNOWNOTXlzeFNsVVJOekJwd1Y5bUc5RWRwQTBzQlRDVTUwbzlrTnZhdk1IcU1ScEliNmR2c3M0ZVUxdktHMVRHNUJLeGFsM2tBRWRUTlV3TTc1ekVRUEVRN2pJdFpPNUwxMzNxa2pCMjJtTXlNekRJeG5hdw?oc=5",
+      "published": "2026-11-04T12:52:59+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "obesidade",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova Wegovy em comprimido para tratamento da obesidade no Brasil",
+      "summary": "Anvisa aprova Wegovy em comprimido para tratamento da obesidade no Brasil &nbsp;&nbsp; Portal iG",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBwc3ZUcVkyb0ZTNDBDSW00a0VRS2YtVnprdWZaam5HcUd4TUFlWGhLZWpyLTk1U1U5cVhXZlBwR1RtcnBIZEdUU2RNZ0ZFME9DR2YzZzhLVV9uazRDNXd4MmJpdTdrSXVNRFZyNktSUGlTM1l6QmN6WTZ1SQ?oc=5",
+      "published": "2026-11-04T12:56:07+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "obesidade",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Anvisa aprova primeiro GLP-1 em comprimido para tratamento da obesidade",
       "summary": "Anvisa aprova primeiro GLP-1 em comprimido para tratamento da obesidade &nbsp;&nbsp; Estadão",
       "url": "https://www.estadao.com.br/pulsa/medicina-e-estudos/anvisa-aprova-primeiro-glp-1-em-comprimido-para-tratar-obesidade-nprm",
@@ -3952,6 +4053,37 @@
         {
           "sector": "Farmácias",
           "alias": "glp-1",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "obesidade",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
+      "title": "Anvisa aprova Wegovy em comprimido para obesidade; preço e data de chegada ainda não saíram",
+      "summary": "Anvisa aprova Wegovy em comprimido para obesidade; preço e data de chegada ainda não saíram &nbsp;&nbsp; soubrasilia.com",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUE1fZGlEOW90RGhWVF9hSEdZQ2NpNlN3NjlZRjdfVjJlejJJMnQzR0xEclExdk04WlI0aUJDUXlzaWFnRW02czR3MkdsNFpXczBrcGVnRVFHM21xbGw3TXhIQUtlOTM3RElBSlRueUtjY2pjLW14aGp2cktISVNPckJ4dktfQzFsbk1iZWVDOGJ3SldxZnY1Y0ROUU5HR1VH?oc=5",
+      "published": "2026-11-04T14:05:05+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "obesidade",
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
           "field": "title",
           "score": 20,
           "topic": null
@@ -11389,6 +11521,29 @@
         {
           "sector": "Farmácias",
           "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Anvisa aprova versão oral do Wegovy e especialista detalha impactos da perda de peso na saúde vascular",
+      "summary": "Anvisa aprova versão oral do Wegovy e especialista detalha impactos da perda de peso na saúde vascular &nbsp;&nbsp; R7",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPdGlycGFVVnl5QVB6YjQyUEJXOG5pWkx0eXIyNlU4aXk2WDhmSm1XdFRudGV1WVhXQlZ4S2Q4SGdvTkdrWVJ5aTl0WVlRMFZVMGp6bnR0c25WT0xueExoZ21JS3JxbWVBcXo4MDBkNm5NVkxvc21sVGpLVG1BbWdEMG5Ecy1pN3lJTGJkVVJORlZoU19BQ2RLNXI1dTFEcTNTMktQQ19Qci15R1NFMXhLd2V2WURITVZZOWRCZ0V1WHo2bTI5QVd0OWlHUjN6bThrbS1taTVKMU5sTnFveFJKUzdBMHIwcHFpdm5Scg?oc=5",
+      "published": "2026-11-05T03:09:24+00:00",
+      "source": "https://news.google.com/rss/search?q=ozempic+OR+mounjaro+OR+wegovy+brasil&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "wegovy"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "wegovy",
           "field": "title",
           "score": 20,
           "topic": null
