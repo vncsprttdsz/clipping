@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T09:18:44.460699+00:00",
+  "generated_at": "2026-11-08T10:36:40.250500+00:00",
   "count": 581,
-  "new_this_run": 40,
+  "new_this_run": 5,
   "articles": [
     {
       "title": "Ozempic natural: como aumentar os níveis de GLP-1 sem o uso de medicamentos",
@@ -2150,6 +2150,53 @@
         {
           "sector": "Farmácias",
           "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
+      "title": "DoorDash Shareholders Aren’t Convinced the Company Can Take On Amazon",
+      "summary": "Following Instacart acquisition plans and an Amazon deal with rival Uber Eats, DoorDash stock is on sale.",
+      "url": "https://www.wsj.com/business/retail/doordash-shareholders-arent-convinced-the-company-can-take-on-amazon-bdb22c70?mod=rss_markets_main",
+      "published": "2026-11-08T10:30:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon",
+        "doordash",
+        "instacart",
+        "uber eats"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "doordash",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "uber eats",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "instacart",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -9232,29 +9279,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "The Shopping Bots Are Coming for Amazon",
-      "summary": "The biggest U.S. company by revenue has dominated e-commerce, but a potential rival is emerging.",
-      "url": "https://www.wsj.com/tech/the-shopping-bots-are-coming-for-amazon-701caa57?mod=rss_Technology",
-      "published": "2026-11-01T10:30:00+00:00",
-      "source": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "amazon"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "amazon",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Caminhos da Índia: moda que sai dos ateliês sul-asiáticos conquista o mercado de luxo do Ocidente",
