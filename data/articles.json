@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T09:17:53.827033+00:00",
-  "count": 591,
-  "new_this_run": 39,
+  "generated_at": "2026-11-09T09:58:44.992770+00:00",
+  "count": 593,
+  "new_this_run": 6,
   "articles": [
     {
       "title": "Ozempic natural: como aumentar os níveis de GLP-1 sem o uso de medicamentos",
@@ -3089,6 +3089,45 @@
           "alias": "luxo",
           "field": "title",
           "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0
+    },
+    {
+      "title": "Caneta emagrecedora e novo comprimido são comparados no combate à gordura no fígado",
+      "summary": "Estudo avaliou semaglutida e resmetirom no mundo real; saiba quem levou a melhor nesse primeiro round",
+      "url": "https://veja.abril.com.br/saude/caneta-emagrecedora-e-novo-comprimido-sao-comparados-no-combate-a-gordura-no-figado",
+      "published": "2026-11-09T09:50:26+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "caneta",
+        "caneta emagrecedora",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "caneta emagrecedora",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "caneta",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
           "topic": null
         }
       ],
@@ -15456,6 +15495,29 @@
         {
           "sector": "Reforma Tributária",
           "alias": "cesta básica",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Não é só o Brasil. Veja outros países que têm imposto do pecado para bebidas e cigarros",
+      "summary": "Não é só o Brasil. Veja outros países que têm imposto do pecado para bebidas e cigarros &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/economia/nao-e-so-o-brasil-veja-outros-paises-que-tem-imposto-do-pecado-para-bebidas-e-cigarros",
+      "published": "2026-11-08T12:01:06+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "imposto do pecado"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "imposto do pecado",
           "field": "title",
           "score": 20,
           "topic": null
