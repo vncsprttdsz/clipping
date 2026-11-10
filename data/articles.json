@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T09:17:32.762172+00:00",
-  "count": 636,
-  "new_this_run": 93,
+  "generated_at": "2026-11-10T10:03:25.650872+00:00",
+  "count": 637,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "SemaClique: nova caneta emagrecedora nacional chega às farmácias nesta sexta-feira; saiba como funciona e os valores",
@@ -2679,6 +2679,53 @@
         {
           "sector": "Reforma Tributária",
           "alias": "alíquota de referência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 56.0
+    },
+    {
+      "title": "‘Canetas emagrecedoras’ despertam interesse por seus possíveis efeitos no cérebro",
+      "summary": "Revisão publicada na Science analisa evidências sobre semaglutida e tirzepatida, mas aponta que ainda não há comprovação de benefícios cognitivos em humanos",
+      "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-despertam-interesse-por-seus-possiveis-efeitos-no-cerebro",
+      "published": "2026-11-10T10:00:29+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "semaglutida",
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
           "field": "lead",
           "score": 8,
           "topic": null
@@ -6670,6 +6717,37 @@
       "score": 40.0
     },
     {
+      "title": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia",
+      "summary": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/invest/mercados/magalu-volta-a-lucro-de-r-139-mi-e-dobra-crescimento-das-lojas-em-meio-a-crise-da-casas-bahia",
+      "published": "2026-11-09T21:57:18+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "casas bahia",
+        "magalu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "casas bahia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0
+    },
+    {
       "title": "Magalu começa a surfar a crise das Casas Bahia",
       "summary": "Magalu começa a surfar a crise das Casas Bahia &nbsp;&nbsp; Brazil Journal",
       "url": "https://braziljournal.com/magalu-comeca-a-surfar-a-crise-das-casas-bahia",
@@ -8199,37 +8277,6 @@
         }
       ],
       "score": 32.0
-    },
-    {
-      "title": "Truss faz campanha da nova linha capilar que recebeu maior investimento em pesquisa da marca",
-      "summary": "O mercado de cuidados capilares no Brasil está entre os mais competitivos do setor de beleza, com consumidores cada vez mais bem informados, exigentes e atentos à composição e à tecnologia dos produtos. Para disputar espaço, as marcas vêm ampliando seus portfólios e investindo em novas soluções. É o caso da Truss, do Grupo Boticário, que lança a linha Unique Blond, voltada a cabelos loiros e descoloridos. O produto recebeu o maior investimento em pesquisa e desenvolvimento (P&amp;D) da história da marca, três vezes superior à média destinada aos lançamentos desde sua integração ao grupo. O valor em reais não foi divulgado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/11/03/truss-faz-campanha-da-nova-linha-capilar-que-recebeu-maior-investimento-em-pesquisa-da-marca.ghtml",
-      "published": "2026-11-03T10:00:01+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário",
-        "truss"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "truss",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0
     },
     {
       "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
