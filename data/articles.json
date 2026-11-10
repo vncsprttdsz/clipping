@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T10:03:25.650872+00:00",
+  "generated_at": "2026-11-10T11:26:58.858757+00:00",
   "count": 637,
-  "new_this_run": 12,
+  "new_this_run": 15,
   "articles": [
     {
       "title": "SemaClique: nova caneta emagrecedora nacional chega às farmácias nesta sexta-feira; saiba como funciona e os valores",
@@ -4182,6 +4182,53 @@
       "score": 44.0
     },
     {
+      "title": "Novas regras do vale-alimentação e refeição são suspensas? Entenda a decisão da Justiça",
+      "summary": "Liminar beneficia associadas à ABBT, como Alelo, Pluxee e VR, e abrange limites de taxas e prazos de repasse.",
+      "url": "https://exame.com/brasil/novas-regras-do-vale-alimentacao-e-refeicao-sao-suspensas-entenda-a-decisao-da-justica",
+      "published": "2026-11-10T07:24:04+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "alelo",
+        "pluxee",
+        "vale-alimentação",
+        "vr"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "vale-alimentação",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "alelo",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "pluxee",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "vr",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 44.0
+    },
+    {
       "title": "Lojas Renner tem lucro líquido de R$ 246,4 milhões no 3º tri, queda anual de 11,8%",
       "summary": "A Lojas Renner fechou o terceiro trimestre com lucro líquido de R$ 246,4 milhões. O valor é 11,8% menor que o registrado há um ano. Confira os resultados e indicadores da Renner e das demais companhias de capital aberto no portal Valor Empresas 360 A receita líquida da varejista recuou 1,16%, para R$ 3,52 bilhões. No segmento de varejo, o indicador caiu 1,6%, para R$ 3,02 bilhões. As vendas nas mesmas lojas de varejo caíram 2,5% entre julho e setembro, revertendo um resultado positivo em 3,1% registrado no mesmo período de 2026. No segmento de vestuário, o indicator caiu 1,8%. Segundo a empresa, o desempenho refletiu um ambiente de consumo mais desafiador, com “maior seletividade e sensibilidade a preço, em um contexto de juros e endividamento das famílias elevados”. A companhia também pontuou que houve uma maior intensidade na competitividade, “especialmente diante da expansão das plataformas internacionais de cross-border, impulsionado pelo benefício fiscal federal concedido a essas empresas, a partir de maio de 2026”. Os jogos da Copa do Mundo também afetaram o fluxo no início do trimestre, informou a varejista. O lucro antes de juros, impostos, depreciação e amortização (Ebitda, na sigla em inglês) ajustado caiu 3,9% na comparação anual, para R$ 570,9 milhões. A piora pode ser explicada pelo resultado de serviços financeiros, que piorou 49% ao ano, fechando positivo em R$ 40,7 milhões. Considerando apenas o segmento de varejo, o Ebitda subiu 3,2% na mesma base de comparação. Houve também uma piora de 0,5 ponto percentual na margem Ebitda, que ficou em 18,8%. A empresa chegou ao dia 30 de setembro com um caixa líquido de R$ 1,17 bilhões, alta trimestral de 1,24%. Além dos resultados trimestrais, a Lojas Renner comunicou a descontinuidade da projeção Crescimento Anual de Receita Operacional Líquida (ROL) de Varejo para os períodos de 2026 e 2027-2030. Segundo o comunicado, a decisão “decorreu de um ambiente macroeconômico de maior incerteza, marcado por mudanças regulatórias relevantes para o setor”. *Estagiário sob supervisão de Nelson Rocco",
       "url": "https://valor.globo.com/empresas/noticia/2026/11/05/lojas-renner-tem-lucro-lquido-de-r-2464-milhes-no-3-tri-queda-anual-de-118-pontos-percentuais.ghtml",
@@ -4260,37 +4307,6 @@
         }
       ],
       "score": 42.0
-    },
-    {
-      "title": "Alíquota de referência da CBS acende alerta no Senado",
-      "summary": "Senador Eduardo Braga (MDB-AM), que foi relator da reforma, afirmou que a alíquota veio alta e fora do que o Senado esperava",
-      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/aliquota-de-referencia-da-cbs-acende-alerta-no-senado",
-      "published": "2026-11-03T10:18:48+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "alíquota de referência",
-        "cbs"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "alíquota de referência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0
     },
     {
       "title": "Além das canetas emagrecedoras: novo dispositivo promete combater a obesidade com estímulos cerebrais",
@@ -8279,37 +8295,6 @@
       "score": 32.0
     },
     {
-      "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
-      "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
-      "url": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "published": "2026-11-03T11:10:37+00:00",
-      "source": "http://feeds.bbci.co.uk/news/business/rss.xml",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "apple",
-        "iphone"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "apple",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "iphone",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0
-    },
-    {
       "title": "Durigan diz que MP do imposto seletivo será despachada com presidente e possivelmente, enviada nesta terça-feira",
       "summary": "O ministro da Fazenda, Dario Durigan, confirmou nesta terça-feira (3) que a medida provisória (MP) que regulamenta o Imposto Seletivo será encaminhada ao Congresso Nacional nesta terça-feira. O ministro deve despachar sobre o assunto ainda hoje com o presidente Luiz Inácio Lula da Silva (PT). “A MP já saiu do Ministério da Fazenda, devo despachar com o presidente hoje. A expectativa é que seja hoje, sim”, disse Durigan a jornalistas na sede da pasta. Apelidado de “Imposto do Pecado”, o tributo foi criado pela reforma tributária e incidirá sobre produtos considerados nocivos à saúde e ao meio ambiente. Durigan afirmou que houve acordo com os setores afetados para manter a carga tributária do Imposto sobre Produtos Industrializados (IPI) como referência para a definição das alíquotas do Imposto Seletivo. A negociação foi antecipada pelo Valor, que também mostrou que a Fazenda decidiu manter os termos acordados independentemente do resultado das eleições. Segundo o ministro, será necessário fazer um ajuste porque o ICMS integra a base de cálculo do IPI, mas não deverá compor a base do novo tributo. \"Quando a gente expurga para limpar a base de cálculo do novo tributo, que é o Imposto Seletivo, tem um ajuste na alíquota a ser feito, mas isso foi feito a várias mãos com os setores que deram esse ‘ok’ para que a gente siga em comum acordo agora para o Congresso”, explicou. Questionado sobre a possibilidade de o IPI continuar em vigor no início do ano que vem para garantir a transição até a entrada do novo tributo, Durigan disse que a ideia é negociar com os setores uma extensão do imposto durante janeiro. A partir de fevereiro, começaria a incidência do Imposto Seletivo. Diante do atraso na edição da MP, o Executivo pretende propor, por meio de uma proposta de emenda à Constituição (PEC), a prorrogação da cobrança do IPI até 31 de janeiro de 2027, conforme antecipou o Valor. A extensão seria restrita aos setores alcançados pelo Imposto Seletivo, para evitar um intervalo sem tributação até o início da cobrança do novo imposto. A edição da MP foi adiada para depois das eleições. Para que a cobrança do tributo pudesse começar em 1º de janeiro de 2027, o governo precisaria ter publicado a medida até 2 de outubro, em razão da regra da noventena, que exige um intervalo de 90 dias entre a publicação da norma e o início da cobrança. A medida atrasou devido ao receio de impactos negativos na campanha eleitoral do presidente Luiz Inácio Lula da Silva, que buscava se reeleger. Criado pela reforma tributária sobre o consumo, o Imposto Seletivo incidirá sobre veículos, embarcações, aeronaves, cigarros e outros produtos de tabaco, bebidas alcoólicas e bebidas açucaradas. As chamadas “bets” também estavam previstas entre as atividades sujeitas ao tributo, mas foram posteriormente excluídas após serem proibidas no país. CBS Durigan negou que o atraso no envio ao Congresso da MP do Imposto Seletivo tenha influenciado a alíquota de 11,3% da Contribuição sobre Bens e Serviços (CBS), informada pelo Tribunal de Contas da União (TCU) na semana passada. Segundo Durigan, as negociações com os setores afetados pelo Imposto Seletivo levaram mais tempo do que o previsto. O ministro afirmou que a MP do Seletivo deverá ser enviada ao Congresso ainda hoje, após despacho com o presidente Luiz Inácio Lula da Silva. O ministro disse que a reforma tributária permitirá dar transparência à carga sobre o consumo no país, atualmente distribuída entre tributos federais, estaduais e municipais. Essa transparência, acrescentou ele, também ajudará nas revisões previstas na emenda constitucional da reforma tributária, aprovada e promulgada em 2023. Durigan destacou que o projeto enviado ao Congresso pelo então ministro da Economia Paulo Guedes, previa uma CBS com alíquota de 12%, superior à definida pela atual gestão. “O governo [de Jair] Bolsonaro mandou para o Congresso uma CBS com alíquota de 12%. Nós mandamos para o TCU toda a base de cálculo com base no que o Congresso aprovou. O TCU mandou uma alíquota máxima de 11,3%, uma alíquota média que vai ser aplicada no país de algo como 8,5%”, explicou. Para Durigan, isso dará ao Congresso condições de revisar as exceções incluídas durante a tramitação da reforma, às quais a Fazenda se opôs. O ministro reforçou que o objetivo é reduzir “a alíquota de maneira mais justa e mais apropriada do que estava sendo proposto anteriormente”. \"É preciso fazer revisões nas exceções e nos regimes beneficiados para que a gente consiga mexer na alíquota\", disse. \"O que eu estou dizendo é que deve ficar abaixo das expectativas que estão sendo geradas para soma de CBS mais IBS dos estados\", completou. Ministro da Fazenda, Dario Durigan Brenno Carvalho/Agência O Globo",
       "url": "https://valor.globo.com/brasil/noticia/2026/11/03/durigan-diz-que-mp-do-imposto-seletivo-sera-despachada-com-presidente-e-possivelmente-enviada-nesta-terca-feira.ghtml",
@@ -10320,52 +10305,6 @@
         }
       ],
       "score": 22.0
-    },
-    {
-      "title": "Apple supera previsões de receita, mas margens menores viram desafio para novo CEO",
-      "summary": "Apple supera previsões de receita, mas margens menores viram desafio para novo CEO &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/negocios/apple-supera-previsoes-de-receita-mas-margens-menores-desafiam-novo-ceo",
-      "published": "2026-11-03T10:15:16+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "apple"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "apple",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
-    },
-    {
-      "title": "STF realiza audiência sobre veto às bets em meio a tensão entre governo e setor de apostas",
-      "summary": "Convocado pelo ministro Luiz Fux, debate vai municiar a Corte com dados técnicos e jurídicos após Medida Provisória proibir a modalidade no país",
-      "url": "https://veja.abril.com.br/brasil/stf-realiza-audiencia-sobre-veto-as-bets-em-meio-a-tensao-entre-governo-e-setor-de-apostas",
-      "published": "2026-11-03T10:30:07+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0
     },
     {
       "title": "Ozempic eletrônico? BrainCo mira mercado de GLP-1 com dispositivo para reduzir apetite",
@@ -16877,6 +16816,29 @@
       "score": 20.0
     },
     {
+      "title": "Magalu volta ao prejuízo no 3T26 apesar da alta de 10% nas vendas das lojas físicas",
+      "summary": "Magalu volta ao prejuízo no 3T26 apesar da alta de 10% nas vendas das lojas físicas &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/einvestidor/cenarios-e-mercado/magalu-volta-ao-prejuizo-no-3t26-apesar-da-alta-de-10-nas-vendas-das-lojas-fisicas",
+      "published": "2026-11-09T22:22:25+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "magalu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magalu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "Demanda de galpão de alto padrão é impulsionada por ecommerce, e vacância diminui, diz levantamento",
       "summary": "A taxa de vacância de condomínios logísticos classificados como A ou A+ (ou seja, de alto padrão) caiu a 4,9% no terceiro trimestre de 2026, segundo monitoramento feito pela consultoria Binswanger Brazil. O resultado representa o menor patamar da série histórica, iniciada em 2013. Leia mais (11/09/2026 - 19h24)",
       "url": "https://c-level.folha.uol.com.br/negocios/2026/11/demanda-de-galpao-de-alto-padrao-e-impulsionada-por-ecommerce-e-vacancia-diminui-diz-levantamento.shtml",
@@ -17038,6 +17000,29 @@
       "score": 20.0
     },
     {
+      "title": "Os planos da gigante dos supermercados de R$ 10 bilhões após a compra do St. Marche",
+      "summary": "Dona de redes como Giga e Prezunic, chilena Cencosud mira 32 lojas de supermercados premium em São Paulo enquanto reforma unidades e reorganiza sua operação no Brasil",
+      "url": "https://exame.com/negocios/os-planos-da-gigante-dos-supermercados-de-r-10-bilhoes-apos-a-compra-do-st-marche",
+      "published": "2026-11-10T08:11:09+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "st. marche"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "st. marche",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
       "title": "OXXO lanza canasta básica",
       "summary": "OXXO lanza canasta básica &nbsp;&nbsp; El Financiero",
       "url": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/11/10/oxxo-lanza-canasta-basica",
@@ -17076,6 +17061,29 @@
         {
           "sector": "Fashion",
           "alias": "riachuelo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "‘Sistema bancário paralelo’, FIDCs crescem em meio a aumento na inadimplência no crédito",
+      "summary": "‘Sistema bancário paralelo’, FIDCs crescem em meio a aumento na inadimplência no crédito &nbsp;&nbsp; Bloomberg Linea Brasil",
+      "url": "https://www.bloomberglinea.com.br/mercados/sistema-bancario-paralelo-fidcs-crescem-em-meio-a-aumento-na-inadimplencia-no-credito",
+      "published": "2026-11-10T11:08:10+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
           "field": "title",
           "score": 20,
           "topic": null
