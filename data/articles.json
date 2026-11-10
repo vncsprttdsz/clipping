@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T09:09:27.967936+00:00",
+  "generated_at": "2026-11-10T09:17:32.762172+00:00",
   "count": 636,
   "new_this_run": 93,
   "articles": [
@@ -3687,45 +3687,6 @@
         {
           "sector": "Economia",
           "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 48.0
-    },
-    {
-      "title": "Magalu volta a lucro de R$ 13,9 mi e dobra crescimento das lojas em meio à crise da Casas Bahia",
-      "summary": "O Magazine Luiza voltou ao lucro líquido ajustado no terceiro trimestre, enquanto acelerou o ganho de participação no varejo físico após o fechamento de unidades de concorrentes",
-      "url": "https://exame.com/invest/mercados/magalu-volta-a-lucro-de-r-139-mi-e-dobra-crescimento-das-lojas-em-meio-a-crise-da-casas-bahia",
-      "published": "2026-11-09T18:56:34+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "casas bahia",
-        "magalu",
-        "magazine luiza"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "magalu",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "magazine luiza",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "casas bahia",
           "field": "title",
           "score": 20,
           "topic": null
@@ -17032,7 +16993,7 @@
     {
       "title": "OXXO lanza canasta básica",
       "summary": "OXXO lanza canasta básica &nbsp;&nbsp; El Financiero",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOYXc5MHRRaGpIejZkdW1CYkVBUS15Zk1mT2l3RFdGX2QwUEV5WVgzb2FuNXVBeE1OVjgwX3M4UTJxSl9oYVp5b19XanBFYmZQaUxlS0Z3ZzhlN1lhclJrYlBwa3dxdW8xWTRxX2JsalpKckJoSW56RlgwTjk0MUpCajRTMVNsT01VQWlWTmpiRQ?oc=5",
+      "url": "https://www.elfinanciero.com.mx/opinion/de-jefes/2026/11/10/oxxo-lanza-canasta-basica",
       "published": "2026-11-10T08:28:13+00:00",
       "source": "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aelfinanciero.com.mx+when%3A2d&hl=es-419&gl=MX&ceid=MX:es-419",
       "matched_sectors": [
@@ -17045,6 +17006,29 @@
         {
           "sector": "Varejo Alimentar",
           "alias": "oxxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0
+    },
+    {
+      "title": "Riachuelo se concentra em vestuário e reduz espaço para artigos para casa e celulares",
+      "summary": "Riachuelo se concentra em vestuário e reduz espaço para artigos para casa e celulares &nbsp;&nbsp; Bloomberg Linea Brasil",
+      "url": "https://www.bloomberglinea.com.br/negocios/riachuelo-se-concentra-em-vestuario-e-reduz-espaco-para-artigos-para-casa-e-celulares",
+      "published": "2026-11-10T09:00:01+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "riachuelo"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "riachuelo",
           "field": "title",
           "score": 20,
           "topic": null
