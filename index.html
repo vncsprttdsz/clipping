@@ -266,6 +266,45 @@
     border-radius: 100px;
   }
   .group-items[hidden] { display: none; }
+
+  /* ---------- Sugeridas, fontes alternativas e menções fracas ---------- */
+  .group-suggested .group-header { color: var(--tag-fg); }
+  .group-actions {
+    display: flex; align-items: center; gap: 10px;
+    font-size: 12.5px; color: var(--text-muted);
+    margin: 0 0 10px;
+  }
+  .group-actions span { flex: 1; }
+  .select-suggested, .weak-toggle {
+    flex-shrink: 0;
+    min-height: 36px; padding: 0 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--bg-elevated);
+    color: var(--accent);
+    font-size: 13px; font-weight: 600;
+    cursor: pointer;
+    -webkit-appearance: none;
+    touch-action: manipulation;
+  }
+  .weak-toggle { width: 100%; margin: 2px 0 10px; color: var(--text-muted); font-weight: 500; }
+  .weak-items[hidden] { display: none; }
+  .suggest-badge { color: var(--tag-fg); font-size: 12px; }
+  details.alts { margin-top: 8px; }
+  details.alts summary {
+    padding: 4px 0;
+    font-size: 12.5px;
+    color: var(--accent);
+  }
+  .alt-row {
+    display: flex; align-items: flex-start; gap: 8px;
+    padding: 8px 0 4px;
+    border-top: 1px solid var(--border);
+    font-size: 13.5px;
+  }
+  article .alt-row a { font-size: 13.5px; font-weight: 500; }
+  .alt-row .source-tag { flex-shrink: 0; }
+  .check.small { width: 20px; height: 20px; }
   @media (prefers-reduced-motion: reduce) {
     .group-header .chev { transition: none; }
   }
@@ -909,6 +948,7 @@ const state = {
   selected: new Set(),
   order: [],
   collapsed: new Set(),   // segmentos recolhidos (chave do setor)
+  weakOpen: new Set(),    // setores com as menções fracas abertas (só na sessão)
 };
 
 const STORAGE_KEYS = {
@@ -1074,15 +1114,104 @@ function getPrimarySector(sectors) {
   return sectors[0];
 }
 
+// Chave do grupo virtual de sugestões, sempre o primeiro da lista.
+const SUGGESTED_KEY = '★ Sugeridas';
+// Quantas histórias sugerir. No backtest (out-nov/2026) você selecionava
+// ~11 por dia, e 15 cobre a maioria sem virar lista longa.
+const SUGGESTED_N = 15;
+// Abaixo disso a matéria só casou de raspão (lead/corpo, ou um termo
+// fraco). No backtest: 148 candidatas com score < 20, 3 selecionadas.
+const WEAK_SCORE = 20;
+
+function rankOf(a) {
+  if (typeof a.rank === 'number') return a.rank;
+  return typeof a.score === 'number' ? Math.min(a.score, 100) / 4 : 0;
+}
+
+function byRelevance(a, b) {
+  if (a._manual !== b._manual) return a._manual ? -1 : 1;
+  const d = rankOf(b) - rankOf(a);
+  if (d) return d;
+  const ta = a.published ? new Date(a.published).getTime() : -Infinity;
+  const tb = b.published ? new Date(b.published).getTime() : -Infinity;
+  return tb - ta;
+}
+
+// A mesma notícia em várias fontes vira UM card: o de maior rank fica na
+// frente e os outros viram "outras fontes" dentro dele, cada um com a
+// própria caixa de seleção (às vezes você prefere a versão do Valor).
+function buildStories(articles) {
+  const byStory = new Map();
+  const leaders = [];
+  for (const a of articles) {
+    const sid = a._manual || !a.story ? null : a.story;
+    if (!sid) { leaders.push({ ...a, _alts: [] }); continue; }
+    (byStory.get(sid) || byStory.set(sid, []).get(sid)).push(a);
+  }
+  for (const members of byStory.values()) {
+    members.sort(byRelevance);
+    leaders.push({ ...members[0], _alts: members.slice(1) });
+  }
+  return leaders;
+}
+
+function storySelectedCount(a) {
+  return [a, ...(a._alts || [])].filter(x => state.selected.has(x.url)).length;
+}
+
+function articleCard(a, key, suggested) {
+  const sourceLabel = extractSource(a.url);
+  const sourceTag = sourceLabel ? `<span class="source-tag">${esc(sourceLabel)}</span>` : '';
+  const otherSectors = (a.matched_sectors || []).filter(s => s !== key).map(s => `<span class="tag">${esc(s)}</span>`).join('');
+  const aliases = (a.matched_aliases || []).map(al => `<span class="alias-tag">${esc(al)}</span>`).join('');
+  const isSelected = state.selected.has(a.url);
+  const isManual = a._manual === true;
+  const alts = a._alts || [];
+  const altSel = alts.some(x => state.selected.has(x.url));
+  const altsHtml = alts.length ? `
+            <details class="alts"${altSel ? ' open' : ''}>
+              <summary>+${alts.length} ${alts.length > 1 ? 'outras fontes' : 'outra fonte'}: ${esc([...new Set(alts.map(x => extractSource(x.url)))].join(', '))}</summary>
+              ${alts.map(x => {
+                const s = state.selected.has(x.url);
+                return `
+              <div class="alt-row${s ? ' selected' : ''}">
+                <div class="check small ${s ? 'checked' : ''}" data-url="${esc(x.url)}"></div>
+                <a href="${esc(x.url)}" target="_blank" rel="noopener">${esc(x.title)}</a>
+                <span class="source-tag">${esc(extractSource(x.url))}</span>
+              </div>`;
+              }).join('')}
+            </details>` : '';
+  return `
+        <article class="${isSelected ? 'selected' : ''}" data-url="${esc(a.url)}">
+          <div class="check ${isSelected ? 'checked' : ''}" data-url="${esc(a.url)}"></div>
+          <div class="article-body">
+            <div class="article-title-row">
+              <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
+              ${isManual ? `<span class="manual-badge" title="Adicionado manualmente">✏️</span>` : ''}
+              ${isManual ? `<button class="delete-manual" data-url="${esc(a.url)}" onclick="deleteManualArticle('${esc(a.url)}')" title="Remover artigo manual">🗑️</button>` : ''}
+            </div>
+            <div class="article-meta">
+              ${suggested ? '<span class="suggest-badge" title="Sugerida pelo ranking">★</span>' : ''}
+              ${sourceTag}
+              ${a.published ? esc(formatDate(a.published)) : ''}
+              ${otherSectors}
+            </div>
+            ${aliases ? `<div class="article-aliases">🔍 ${aliases}</div>` : ''}${altsHtml}
+          </div>
+        </article>`;
+}
+
 function render() {
   const all = getAllArticles();
   const filtered = filterArticles(all);
+  const searching = isSearching();
+  const stories = buildStories(filtered);
 
   const parts = [];
   if (state.generatedAt) parts.push('Atualizado ' + relative(state.generatedAt));
   const manualCount = state.manualArticles.length;
-  const totalCount = filtered.length;
-  parts.push(totalCount + (totalCount === 1 ? ' matéria' : ' matérias'));
+  parts.push(stories.length + (stories.length === 1 ? ' história' : ' histórias'));
+  if (filtered.length > stories.length) parts.push(filtered.length + ' matérias');
   if (manualCount > 0) parts.push(`✏️ ${manualCount} manual(is)`);
   document.getElementById('status').textContent = parts.join(' · ');
 
@@ -1095,31 +1224,26 @@ function render() {
     return;
   }
 
+  // Sugeridas: as N histórias de maior rank no filtro de dias atual. Some
+  // durante a busca, quando o que importa é achar um título específico.
+  const suggested = searching ? [] :
+    stories.filter(a => !a._manual).sort(byRelevance).slice(0, SUGGESTED_N);
+  const suggestedUrls = new Set(suggested.map(a => a.url));
+
   const groups = {};
-  for (const a of filtered) {
-    const primary = getPrimarySector(a.matched_sectors);
-    const key = primary || '— OUTROS';
+  if (suggested.length) groups[SUGGESTED_KEY] = suggested;
+  for (const a of stories) {
+    const key = getPrimarySector(a.matched_sectors) || '— OUTROS';
     (groups[key] = groups[key] || []).push(a);
   }
-
-  // Dentro de cada setor: score primeiro (mais provavel de ser relevante no
-  // topo), data so como desempate. Antes era so data, o que enterrava match
-  // forte de titulo embaixo de mencao fraca mais recente.
-  // Artigo manual vem sempre primeiro: foi o usuario que digitou, entao a
-  // intencao dele ganha do score (que e fixo em 1 e o afundaria).
-  for (const key of Object.keys(groups)) {
-    groups[key].sort((a, b) => {
-      if (a._manual !== b._manual) return a._manual ? -1 : 1;
-      const sa = typeof a.score === 'number' ? a.score : 0;
-      const sb = typeof b.score === 'number' ? b.score : 0;
-      if (sb !== sa) return sb - sa;
-      const ta = a.published ? new Date(a.published).getTime() : -Infinity;
-      const tb = b.published ? new Date(b.published).getTime() : -Infinity;
-      return tb - ta;
-    });
-  }
+  // Ordem dentro do setor: relevância (rank), com manual sempre primeiro.
+  // Antes era o score dos setores, que soma aliases e empurrava matéria de
+  // canetas com 5 termos acima de notícia de empresa coberta com 1.
+  for (const key of Object.keys(groups)) groups[key].sort(byRelevance);
 
   const orderedKeys = Object.keys(groups).sort((a, b) => {
+    if (a === SUGGESTED_KEY) return -1;
+    if (b === SUGGESTED_KEY) return 1;
     if (a === '— OUTROS') return 1;
     if (b === '— OUTROS') return -1;
     const indexA = SECTOR_PRIORITY.indexOf(a);
@@ -1131,18 +1255,24 @@ function render() {
   });
 
   function getGroupTitle(key) {
+    if (key === SUGGESTED_KEY) return 'Sugeridas';
     if (key === '— OUTROS') return '— OUTROS';
     return SECTOR_LABELS[key] || key;
   }
 
-  const searching = isSearching();
   document.getElementById('list').innerHTML = orderedKeys.map((key, i) => {
     const articles = groups[key];
     const id = 'sec-' + i;
     const collapsed = !searching && state.collapsed.has(key);
-    const selN = articles.filter(a => state.selected.has(a.url)).length;
+    const selN = articles.reduce((n, a) => n + storySelectedCount(a), 0);
+    const isSug = key === SUGGESTED_KEY;
+    // Menção fraca vai para o fim, recolhida. Fica à mão, mas não no caminho.
+    const weakHidden = !searching && !isSug && !state.weakOpen.has(key);
+    const strong = isSug ? articles : articles.filter(a => a._manual || suggestedUrls.has(a.url) || !(a.score < WEAK_SCORE));
+    const weak = isSug ? [] : articles.filter(a => !strong.includes(a));
+    const unselectedSug = isSug ? articles.filter(a => !state.selected.has(a.url)).length : 0;
     return `
-    <section class="group" data-key="${esc(key)}">
+    <section class="group${isSug ? ' group-suggested' : ''}" data-key="${esc(key)}">
       <button type="button" class="group-header" data-key="${esc(key)}"
               aria-expanded="${!collapsed}" aria-controls="${id}-items">
         <span class="chev" aria-hidden="true">▾</span>
@@ -1150,31 +1280,19 @@ function render() {
         ${selN ? `<span class="sel-count">${selN} selecionada${selN > 1 ? 's' : ''}</span>` : ''}
       </button>
       <div class="group-items" id="${id}-items" ${collapsed ? 'hidden' : ''}>
-      ${articles.map(a => {
-        const sourceLabel = extractSource(a.url);
-        const sourceTag = sourceLabel ? `<span class="source-tag">${esc(sourceLabel)}</span>` : '';
-        const otherSectors = (a.matched_sectors || []).filter(s => s !== key).map(s => `<span class="tag">${esc(s)}</span>`).join('');
-        const aliases = (a.matched_aliases || []).map(al => `<span class="alias-tag">${esc(al)}</span>`).join('');
-        const isSelected = state.selected.has(a.url);
-        const isManual = a._manual === true;
-        return `
-        <article class="${isSelected ? 'selected' : ''}" data-url="${esc(a.url)}">
-          <div class="check ${isSelected ? 'checked' : ''}" data-url="${esc(a.url)}"></div>
-          <div class="article-body">
-            <div class="article-title-row">
-              <a href="${esc(a.url)}" target="_blank" rel="noopener">${esc(a.title)}</a>
-              ${isManual ? `<span class="manual-badge" title="Adicionado manualmente">✏️</span>` : ''}
-              ${isManual ? `<button class="delete-manual" data-url="${esc(a.url)}" onclick="deleteManualArticle('${esc(a.url)}')" title="Remover artigo manual">🗑️</button>` : ''}
-            </div>
-            <div class="article-meta">
-              ${sourceTag}
-              ${a.published ? esc(formatDate(a.published)) : ''}
-              ${otherSectors}
-            </div>
-            ${aliases ? `<div class="article-aliases">🔍 ${aliases}</div>` : ''}
-          </div>
-        </article>`;
-      }).join('')}
+      ${isSug ? `
+        <div class="group-actions">
+          <span>Ordenadas pelo ranking calibrado nas suas seleções. Revise antes de enviar.</span>
+          ${unselectedSug ? `<button type="button" class="select-suggested">Selecionar ${unselectedSug === articles.length ? 'as ' + unselectedSug : 'as outras ' + unselectedSug}</button>` : ''}
+        </div>` : ''}
+      ${strong.map(a => articleCard(a, key, !isSug && suggestedUrls.has(a.url))).join('')}
+      ${weak.length ? `
+        <button type="button" class="weak-toggle" data-key="${esc(key)}" aria-expanded="${!weakHidden}">
+          ${weakHidden ? `Mais ${weak.length} com menção fraca` : 'Ocultar menções fracas'}
+        </button>
+        <div class="weak-items" ${weakHidden ? 'hidden' : ''}>
+          ${weak.map(a => articleCard(a, key, false)).join('')}
+        </div>` : ''}
       </div>
     </section>`;
   }).join('');
@@ -1190,6 +1308,28 @@ function render() {
 
   updateActionBar();
   renderSourcesTable(filtered);
+}
+
+function selectSuggested() {
+  const sec = findSection(SUGGESTED_KEY);
+  if (!sec) return;
+  const urls = [...sec.querySelectorAll(':scope > .group-items > article')].map(el => el.dataset.url);
+  const added = urls.filter(u => !state.selected.has(u));
+  if (!added.length) return;
+  for (const u of added) { state.selected.add(u); state.order.push(u); }
+  persist();
+  render();
+  showUndoToast(`${added.length} selecionada${added.length > 1 ? 's' : ''}`, () => {
+    for (const u of added) state.selected.delete(u);
+    state.order = state.order.filter(u => !added.includes(u));
+    persist();
+    render();
+  });
+}
+
+function toggleWeak(key) {
+  if (state.weakOpen.has(key)) state.weakOpen.delete(key); else state.weakOpen.add(key);
+  render();
 }
 
 // ============================================================
@@ -1230,7 +1370,7 @@ function renderNav(keys, groups, getTitle) {
   const keepLeft = track.scrollLeft;
   track.innerHTML = keys.map(key => {
     const items = groups[key];
-    const hasSel = items.some(a => state.selected.has(a.url));
+    const hasSel = items.some(a => storySelectedCount(a) > 0);
     return `<button type="button" class="nav-chip" data-key="${esc(key)}">` +
       `${esc(getTitle(key))}<span class="n">${items.length}</span>` +
       (hasSel ? '<span class="sel-dot" title="Tem selecionada"></span>' : '') +
@@ -1355,7 +1495,10 @@ function initSectorNav() {
   document.getElementById('toggle-all').addEventListener('click', toggleAll);
   document.getElementById('list').addEventListener('click', (e) => {
     const header = e.target.closest('.group-header');
-    if (header) toggleSector(header.dataset.key);
+    if (header) { toggleSector(header.dataset.key); return; }
+    if (e.target.closest('.select-suggested')) { selectSuggested(); return; }
+    const weak = e.target.closest('.weak-toggle');
+    if (weak) toggleWeak(weak.dataset.key);
   });
   let ticking = false;
   window.addEventListener('scroll', () => {

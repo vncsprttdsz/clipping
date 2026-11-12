@@ -1450,3 +1450,37 @@ sectors:
                      peptide, glp]
     - alias: decathlon
       requires_any: [france, europe, stores, global, sports, retailer]
+
+# ============================================================
+# RANKING (ordem no PWA e sugestoes). Nao decide o que entra na base:
+# isso continua sendo o score dos setores acima. Decide so a ORDEM.
+#
+# Calibrado no backtest de out-nov/2026 contra os clippings enviados: o
+# sinal que mais separa o que voce escolhe e ter empresa no TITULO (da
+# cobertura ou concorrente direto). Termos aqui sao comparados sem acento
+# e com fronteira de palavra.
+# ============================================================
+ranking:
+  cobertura:
+    [allied, assai, azzas, arezzo, farm, farm rio, hering, animale, c&a,
+     cvc, espacolaser, espaco laser, grupo mateus, mateus, grupo sbf,
+     centauro, quero-quero, quero quero, magalu, magazine luiza,
+     mercado livre, mercado libre, meli, mercado pago, natura, avon,
+     pague menos, panvel, petz, cobasi, petz cobasi, rd saude, raia,
+     drogasil, droga raia, renner, lojas renner, riachuelo, guararapes,
+     smart fit, smartfit, track&field, track & field, vivara, life by vivara,
+     vulcabras, olympikus, mizuno, alld3, asai3, azza3, ceab3, cvcb3,
+     espa3, gmat3, sbfg3, ljqq3, mglu3, natu3, pgmn3, pnvl3, auau3, radl3,
+     lren3, riaa3, smft3, tfco4, viva3, vulc3]
+  concorrentes:
+    [casas bahia, americanas, shopee, shein, temu, aliexpress, amazon,
+     tiktok shop, nubank, revolut, picpay, carrefour, atacadao, gpa,
+     pao de acucar, cencosud, boticario, grupo boticario, o boticario,
+     bluefit, panobianco, selfit, bodytech, totalpass, wellhub, gympass,
+     planet fitness, hypera, ems, eurofarma, profarma, dpsp, pacheco,
+     eli lilly, novo nordisk, leroy merlin, havan, marabraz, tok&stok,
+     ifood, walmart, nike, adidas, skechers, l'oreal, lvmh, inditex, zara,
+     h&m, sephora, centauro, decathlon]
+  # Fontes com volume e zero escolha no backtest (Forbes Brasil 45
+  # candidatas, JOTA 21, G1 20): perdem posicao, nao sao excluidas.
+  fontes_fracas: [forbes.com.br, jota.info, g1.globo.com]

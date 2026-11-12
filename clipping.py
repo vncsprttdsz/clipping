@@ -8,7 +8,9 @@ e gera um digest ordenado por relevancia.
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
+import math
 import re
 import socket
 import sys
@@ -948,6 +950,167 @@ def score_article(a: Article) -> None:
 
 
 # ============================================================
+# Ranking e agrupamento por historia
+# ============================================================
+# O score dos setores decide o que ENTRA na base. Ele e ruim para ORDENAR:
+# soma aliases, entao "Anvisa aprova 20 novos medicamentos" (canetas +
+# semaglutida + tirzepatida + ozempic) chega a 104 e "Fundo do crediario da
+# Casas Bahia entra em liquidacao" fica com 20. No backtest contra os
+# clippings enviados (8 dias, 88 escolhas, ~99 historias por manha) so 26%
+# das escolhas apareciam no top 15 por score.
+#
+# "rank" (0-100) e uma regressao logistica pequena, com pesos fixos ajustados
+# nesse backtest e arredondados. Sinais, em ordem de peso: titulo pergunta
+# (-), empresa coberta ou concorrente no titulo (+), algum alias no titulo
+# (+), score dos setores em log (+, retorno decrescente), fonte fraca (-),
+# giro de mercado (-), idade (-), politica eleitoral (-), saude explicativa
+# (-). Deterministico, sem IA.
+def _load_ranking_terms():
+    try:
+        with open(KEYWORDS_FILE, "r", encoding="utf-8") as f:
+            data = yaml.safe_load(f) or {}
+    except Exception:
+        return {}
+    return data.get("ranking", {}) or {}
+
+
+def _terms_re(terms):
+    terms = sorted({normalize(t) for t in (terms or []) if t}, key=len, reverse=True)
+    if not terms:
+        return re.compile(r"(?!x)x")
+    return re.compile("|".join(rf"(?<!\w){re.escape(t)}(?!\w)" for t in terms))
+
+
+_RANKING = _load_ranking_terms()
+_RANK_COBERTURA_RE = _terms_re(_RANKING.get("cobertura"))
+_RANK_CONCORRENTE_RE = _terms_re(_RANKING.get("concorrentes"))
+_RANK_FONTES_FRACAS = {d.lower() for d in (_RANKING.get("fontes_fracas") or [])}
+_RANK_POLITICA_RE = re.compile(
+    r"\b(lula|bolsonaro|flavio|eleic\w*|debate|candidat\w*|datafolha|quaest|"
+    r"campanha|reeleit\w*|segundo turno|stf)\b")
+_RANK_EXPLICATIVO_RE = re.compile(
+    r"\b(estudo|cientistas|pesquisadores|sintomas?|efeitos? colaterais|"
+    r"doencas?|diabetes|cancer|alzheimer|como funciona|entenda|saiba|veja|"
+    r"o que e|o que sao|tire duvidas|study|trial)\b")
+_RANK_MERCADO_RE = re.compile(
+    r"\b(ibovespa|stock market|wall street|premarket|dolar hoje|juros futuros|"
+    r"bolsa hoje|fechamento do mercado|manha no mercado|agenda do dia)\b")
+
+# Pesos (logit). Intercepto calibrado para ~12% de base de selecao.
+_RANK_W = {
+    "intercepto": -4.3,
+    "log_score": 0.55,
+    "alias_no_titulo": 0.9,
+    "cobertura_no_titulo": 1.0,
+    "concorrente_no_titulo": 1.0,
+    "politica": -0.5,
+    "explicativo": -0.5,
+    "mercado": -0.8,
+    "pergunta": -1.0,
+    "fonte_fraca": -1.0,
+    "idade_dia": -0.5,
+}
+
+
+def rank_article(a_dict: dict, now: Optional[datetime] = None) -> int:
+    """Relevancia 0-100 para ordenar e sugerir. Nao afeta o que entra."""
+    now = now or datetime.now(timezone.utc)
+    title_n = normalize(a_dict.get("title", ""))
+    score = max(float(a_dict.get("score", 0) or 0), 1.0)
+    matches = a_dict.get("matches") or []
+    dom = _domain_of(a_dict.get("url", ""))
+    idade = 0.0
+    if a_dict.get("published"):
+        try:
+            idade = max(0.0, (now - datetime.fromisoformat(a_dict["published"])).total_seconds() / 86400)
+        except Exception:
+            pass
+    w = _RANK_W
+    z = (w["intercepto"]
+         + w["log_score"] * math.log(score)
+         + w["alias_no_titulo"] * any(m.get("field") == "title" for m in matches)
+         + w["cobertura_no_titulo"] * bool(_RANK_COBERTURA_RE.search(title_n))
+         + w["concorrente_no_titulo"] * bool(_RANK_CONCORRENTE_RE.search(title_n))
+         + w["politica"] * bool(_RANK_POLITICA_RE.search(title_n))
+         + w["explicativo"] * bool(_RANK_EXPLICATIVO_RE.search(title_n))
+         + w["mercado"] * bool(_RANK_MERCADO_RE.search(title_n))
+         + w["pergunta"] * ("?" in a_dict.get("title", ""))
+         + w["fonte_fraca"] * any(dom == d or dom.endswith("." + d) for d in _RANK_FONTES_FRACAS)
+         + w["idade_dia"] * min(idade, 3.0))
+    return int(round(100 / (1 + math.exp(-z))))
+
+
+_STORY_STOP = set(
+    "de da do das dos em no na nos nas para por com sem que um uma o a os as e "
+    "ou ao aos apos sobre diz como mais seu sua ate entre the of to in for and "
+    "on is as at by with from its el la los las del su".split())
+
+
+def _story_tokens(title: str) -> set:
+    t = normalize(strip_gn_venue(title or ""))
+    return {w for w in re.findall(r"[a-z0-9&]+", t) if len(w) > 2 and w not in _STORY_STOP}
+
+
+def assign_stories(articles: List[dict], limiar: float = 0.45,
+                   janela_h: float = 48) -> None:
+    """Marca com o mesmo "story" as materias que contam a mesma noticia.
+
+    Similaridade de Jaccard entre as palavras do titulo, so entre materias
+    publicadas a ate 48h uma da outra. No backtest, a mesma aprovacao da
+    Anvisa vinha em 4 versoes no topo e a compra da Instacart em 3. O PWA
+    mostra a mais relevante e guarda as outras como fontes alternativas.
+    """
+    toks = [_story_tokens(a.get("title", "")) for a in articles]
+    # Titulo de formula ("X reverte lucro e registra prejuizo de R$ N
+    # milhoes no 3o trimestre") passa no Jaccard com empresas diferentes.
+    # Empresa diferente ou numero diferente no titulo = historia diferente.
+    empresas, numeros = [], []
+    for a in articles:
+        t = normalize(a.get("title", ""))
+        empresas.append({m.group(0) for r in (_RANK_COBERTURA_RE, _RANK_CONCORRENTE_RE)
+                         for m in r.finditer(t)})
+        numeros.append(set(re.findall(r"\d+(?:[.,]\d+)?", t)))
+    ts = []
+    for a in articles:
+        try:
+            ts.append(datetime.fromisoformat(a["published"]).timestamp() if a.get("published") else None)
+        except Exception:
+            ts.append(None)
+    pai = list(range(len(articles)))
+
+    def raiz(i):
+        while pai[i] != i:
+            pai[i] = pai[pai[i]]
+            i = pai[i]
+        return i
+
+    for i in range(len(articles)):
+        if not toks[i]:
+            continue
+        for j in range(i):
+            if not toks[j]:
+                continue
+            if ts[i] and ts[j] and abs(ts[i] - ts[j]) > janela_h * 3600:
+                continue
+            if empresas[i] and empresas[j] and not (empresas[i] & empresas[j]):
+                continue
+            if numeros[i] and numeros[j] and not (numeros[i] & numeros[j]):
+                continue
+            inter = len(toks[i] & toks[j])
+            if inter and inter / len(toks[i] | toks[j]) >= limiar:
+                pai[raiz(i)] = raiz(j)
+    grupos = {}
+    for i, a in enumerate(articles):
+        grupos.setdefault(raiz(i), []).append(a)
+    for membros in grupos.values():
+        # id estavel: a URL mais antiga do grupo, para nao mudar a cada run
+        ancora = min(membros, key=lambda a: (a.get("published") or "", a.get("url", "")))
+        sid = hashlib.sha1(ancora.get("url", "").encode()).hexdigest()[:10]
+        for a in membros:
+            a["story"] = sid
+
+
+# ============================================================
 # Topic caps
 # ============================================================
 
@@ -1417,6 +1580,10 @@ def run_ci(output_path: str, since_hours: int = 48, keep_days: int = 7,
     keep_cutoff = (datetime.now(timezone.utc) - timedelta(days=keep_days)).isoformat()
     merged = [a for a in existing if (not a.get("published")) or a["published"] >= keep_cutoff]
     merged = apply_topic_caps(merged)
+    agora = datetime.now(timezone.utc)
+    for a in merged:
+        a["rank"] = rank_article(a, agora)
+    assign_stories(merged)
     merged.sort(key=lambda a: (-a.get("score", 0), a.get("published") or ""), reverse=False)
 
     path.write_text(json.dumps({
