@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-13T09:46:08.629537+00:00",
-  "count": 564,
-  "new_this_run": 27,
+  "generated_at": "2026-11-13T11:16:03.459829+00:00",
+  "count": 568,
+  "new_this_run": 34,
   "articles": [
     {
       "title": "Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA",
@@ -73,7 +73,7 @@
         }
       ],
       "score": 128.0,
-      "rank": 72,
+      "rank": 71,
       "story": "5126841443"
     },
     {
@@ -342,7 +342,7 @@
         }
       ],
       "score": 112.0,
-      "rank": 32,
+      "rank": 31,
       "story": "0d76fa00f1"
     },
     {
@@ -1177,6 +1177,64 @@
       "score": 76.0,
       "rank": 18,
       "story": "7126553138"
+    },
+    {
+      "title": "A reforma tributária está redesenhando o mapa dos galpões logísticos no Brasil",
+      "summary": "A reforma tributária ainda está longe de ser plenamente implementada, mas já começa a mudar os planos de desenvolvimento e locação de galpões logísticos no Brasil. Com a perspectiva do fim dos incentivos fiscais ligados ao ICMS, empresas estão revendo a localização de seus centros de distribuição, desenvolvedores identificam oportunidades em novas regiões e investidores [&#8230;] O post A reforma tributária está redesenhando o mapa dos galpões logísticos no Brasil apareceu primeiro em NeoFeed .",
+      "url": "https://neofeed.com.br/negocios/a-reforma-tributaria-esta-redesenhando-o-mapa-dos-galpoes-logisticos-no-brasil",
+      "published": "2026-11-13T10:53:03+00:00",
+      "source": "https://neofeed.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "centros de distribuição",
+        "galpões",
+        "galpões logísticos",
+        "incentivos fiscais",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões logísticos",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "incentivos fiscais",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 76.0,
+      "rank": 26,
+      "story": "cbfbbcaae1"
     },
     {
       "title": "Caneta de semaglutida Owozy começa a ser vendida no Brasil a partir de R$ 349",
@@ -2333,7 +2391,7 @@
         }
       ],
       "score": 56.0,
-      "rank": 35,
+      "rank": 34,
       "story": "415c4afa2c"
     },
     {
@@ -2431,7 +2489,7 @@
         }
       ],
       "score": 56.0,
-      "rank": 27,
+      "rank": 26,
       "story": "b93479547c"
     },
     {
@@ -2480,7 +2538,7 @@
         }
       ],
       "score": 56.0,
-      "rank": 10,
+      "rank": 9,
       "story": "cb56ba5383"
     },
     {
@@ -3226,7 +3284,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 3,
+      "rank": 2,
       "story": "29272ed948"
     },
     {
@@ -3269,6 +3327,47 @@
       "score": 48.0,
       "rank": 9,
       "story": "32e0a019e4"
+    },
+    {
+      "title": "Anvisa registra duas novas canetas de semaglutida",
+      "summary": "Anvisa registra duas novas canetas de semaglutida &nbsp;&nbsp; Guia da Farmácia",
+      "url": "https://guiadafarmacia.com.br/anvisa-registra-duas-novas-canetas-de-semaglutida",
+      "published": "2026-11-11T13:00:01+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "farmácia",
+        "semaglutida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácia",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "semaglutida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 48.0,
+      "rank": 10,
+      "story": "65da33ca5a"
     },
     {
       "title": "Receita quer ampliar em 30 dias prazo para pagamento definitivo da CBS da reforma tributária",
@@ -3349,7 +3448,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 11,
+      "rank": 10,
       "story": "77e7a804cb"
     },
     {
@@ -3390,7 +3489,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 47,
+      "rank": 46,
       "story": "25c74b40ef"
     },
     {
@@ -3557,55 +3656,6 @@
       "score": 48.0,
       "rank": 6,
       "story": "784d22e64d"
-    },
-    {
-      "title": "A marca de cabelos que já representa 40% do faturamento da Eudora",
-      "summary": "A marca Siàge, de cuidados capilares, já responde por 40% do faturamento da Eudora, do Grupo Boticário. Entre 2022 e 2025, a receita da marca cresceu 117%, mais que dobrando no período e consolidando os produtos para cabelos como uma das principais frentes de negócios da Eudora, que também atua em maquiagem, perfumaria e cuidados com a pele e o corpo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/11/a-marca-de-cabelos-que-ja-representa-40percent-do-faturamento-da-eudora.ghtml",
-      "published": "2026-11-06T10:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "boticário",
-        "eudora",
-        "maquiagem",
-        "perfumaria"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "boticário",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "eudora",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "perfumaria",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 44.0,
-      "rank": 6,
-      "story": "c82b0c5eb0"
     },
     {
       "title": "Novas regras do vale-alimentação e refeição são suspensas? Entenda a decisão da Justiça",
@@ -3836,7 +3886,7 @@
         }
       ],
       "score": 42.0,
-      "rank": 26,
+      "rank": 25,
       "story": "cc873eba57"
     },
     {
@@ -5327,7 +5377,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 32,
+      "rank": 31,
       "story": "2f3df1b8d4"
     },
     {
@@ -5559,7 +5609,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 7,
+      "rank": 6,
       "story": "cd0ae64743"
     },
     {
@@ -5748,7 +5798,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 43,
+      "rank": 42,
       "story": "af1c63fd04"
     },
     {
@@ -5814,7 +5864,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 44,
+      "rank": 43,
       "story": "44ad650ac7"
     },
     {
@@ -5847,7 +5897,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 23,
+      "rank": 22,
       "story": "b7543a8679"
     },
     {
@@ -5880,7 +5930,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 19,
+      "rank": 18,
       "story": "280cf23356"
     },
     {
@@ -5913,7 +5963,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 24,
+      "rank": 23,
       "story": "1260ec8c93"
     },
     {
@@ -6046,7 +6096,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 32,
+      "rank": 31,
       "story": "0c84abac21"
     },
     {
@@ -6079,7 +6129,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 16,
+      "rank": 15,
       "story": "9cebf23276"
     },
     {
@@ -6112,7 +6162,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 7,
+      "rank": 6,
       "story": "4693fa8270"
     },
     {
@@ -6211,7 +6261,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 20,
+      "rank": 19,
       "story": "e3897f0c1f"
     },
     {
@@ -6977,7 +7027,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 10,
+      "rank": 9,
       "story": "b17c1cf0d6"
     },
     {
@@ -7018,7 +7068,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 27,
+      "rank": 26,
       "story": "d7f5ef1c71"
     },
     {
@@ -7059,7 +7109,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 34,
+      "rank": 33,
       "story": "e665d2e15c"
     },
     {
@@ -7840,7 +7890,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 13,
+      "rank": 12,
       "story": "ee727ea380"
     },
     {
@@ -8269,7 +8319,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 21,
+      "rank": 20,
       "story": "6a0033d9af"
     },
     {
@@ -8403,7 +8453,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 11,
+      "rank": 10,
       "story": "7aa03b7128"
     },
     {
@@ -8437,7 +8487,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 11,
+      "rank": 10,
       "story": "21fda3cf43"
     },
     {
@@ -8736,7 +8786,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 31,
+      "rank": 30,
       "story": "242892a4cd"
     },
     {
@@ -8837,6 +8887,73 @@
       "score": 28.0,
       "rank": 16,
       "story": "efa28fc08e"
+    },
+    {
+      "title": "Americanas vê 2027 'muito desafiador' e não espera 'ajuda' da economia, diz CFO",
+      "summary": "Após encerrar a recuperação judicial em outubro, varejista busca reduzir o consumo de caixa e renegociar dívidas em 2027, enquanto se prepara para um ano difícil",
+      "url": "https://exame.com/invest/mercados/americanas-ve-2027-muito-desafiador-e-nao-espera-ajuda-da-economia-diz-cfo",
+      "published": "2026-11-13T07:32:14+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "americanas",
+        "recuperação judicial"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "americanas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "recuperação judicial",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0,
+      "rank": 34,
+      "story": "b65f43cf4f"
+    },
+    {
+      "title": "Maior supermercado do Brasil terá 5 mil ofertas e lojas abertas por 90 horas na Black Friday",
+      "summary": "Com cerca de 962 unidades no grupo, Carrefour prepara operação para a Black Friday de 2026, reforça equipes em mais de 15% em alguns setores e espera crescimento de até 9% nas vendas",
+      "url": "https://exame.com/negocios/maior-supermercado-do-brasil-tera-5-mil-ofertas-e-lojas-abertas-por-90-horas-na-black-friday",
+      "published": "2026-11-13T08:02:10+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "carrefour",
+        "supermercado"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "supermercado",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0,
+      "rank": 16,
+      "story": "a7c297feea"
     },
     {
       "title": "Jewellery demand helps Richemont buck luxury downturn",
@@ -9016,7 +9133,7 @@
         }
       ],
       "score": 26.0,
-      "rank": 21,
+      "rank": 20,
       "story": "e33538622f"
     },
     {
@@ -9126,56 +9243,6 @@
       "score": 22.0,
       "rank": 4,
       "story": "32aa359f3e"
-    },
-    {
-      "title": "Os detalhes da MP que trouxe a alíquota do Imposto Seletivo",
-      "summary": "Alíquotas começam a valer a partir de 2 de fevereiro de 2027",
-      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/os-detalhes-da-mp-que-trouxe-a-aliquota-do-imposto-seletivo",
-      "published": "2026-11-06T10:01:30+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "imposto seletivo"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "imposto seletivo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 1,
-      "story": "684019adcc"
-    },
-    {
-      "title": "Arquivos Malwee Active",
-      "summary": "Arquivos Malwee Active &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/tag/malwee-active",
-      "published": "2026-11-06T10:10:45+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "malwee"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "malwee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "b0a04a4db6"
     },
     {
       "title": "Justiça de SP autoriza três bets a voltarem a funcionar; desembargadora chama MP de 'confisco'",
@@ -12449,7 +12516,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "409e1a0e7a"
     },
     {
@@ -12974,7 +13041,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "4017da5adb"
     },
     {
@@ -13099,7 +13166,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 13,
+      "rank": 12,
       "story": "af4691466f"
     },
     {
@@ -13174,7 +13241,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 13,
       "story": "3fa25dc4cf"
     },
     {
@@ -13424,7 +13491,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 6,
       "story": "d344df63d4"
     },
     {
@@ -13449,7 +13516,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 3,
+      "rank": 2,
       "story": "13942cbe03"
     },
     {
@@ -13599,7 +13666,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 16,
       "story": "8fb1e0946c"
     },
     {
@@ -13899,7 +13966,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 17,
       "story": "1a32d6f54f"
     },
     {
@@ -13949,7 +14016,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 17,
       "story": "0dbfbb0f89"
     },
     {
@@ -13974,7 +14041,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 17,
       "story": "74d7c74f74"
     },
     {
@@ -14049,7 +14116,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 8,
+      "rank": 7,
       "story": "7230737f57"
     },
     {
@@ -14149,7 +14216,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 19,
+      "rank": 18,
       "story": "a0ba07fb70"
     },
     {
@@ -14174,7 +14241,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 19,
+      "rank": 18,
       "story": "c6ed7c3d52"
     },
     {
@@ -14249,7 +14316,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 19,
+      "rank": 18,
       "story": "26d234e83c"
     },
     {
@@ -14374,7 +14441,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 20,
+      "rank": 19,
       "story": "dcdc2987d4"
     },
     {
@@ -14474,7 +14541,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 9,
       "story": "2e5813aba9"
     },
     {
@@ -14524,7 +14591,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 23,
+      "rank": 22,
       "story": "b2d5c8e0f4"
     },
     {
@@ -14774,7 +14841,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "8f875d6e1e"
     },
     {
@@ -14799,7 +14866,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 25,
+      "rank": 24,
       "story": "7d69e779d0"
     },
     {
@@ -14974,7 +15041,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "687c40538d"
     },
     {
@@ -15024,7 +15091,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "49bf5185c5"
     },
     {
@@ -15099,7 +15166,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 11,
       "story": "1e0c30fd50"
     },
     {
@@ -15124,7 +15191,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 11,
       "story": "5b47bfaee7"
     },
     {
@@ -15149,7 +15216,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "5614f00d2e"
     },
     {
@@ -15174,7 +15241,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "4e6b9d2a7c"
     },
     {
@@ -15224,7 +15291,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "66f3b57f7b"
     },
     {
@@ -15249,7 +15316,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "497f4043bf"
     },
     {
@@ -15299,7 +15366,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "98201cc6f6"
     },
     {
@@ -15324,7 +15391,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "f18010d389"
     },
     {
@@ -15499,7 +15566,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 28,
+      "rank": 27,
       "story": "6e4cf68bd4"
     },
     {
@@ -15524,7 +15591,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 28,
+      "rank": 27,
       "story": "242892a4cd"
     },
     {
@@ -15549,7 +15616,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 28,
+      "rank": 27,
       "story": "f9ef645f5d"
     },
     {
@@ -15651,6 +15718,106 @@
       "score": 20.0,
       "rank": 14,
       "story": "86e512e083"
+    },
+    {
+      "title": "‘Todo varejista quer uma redução da taxa de juros', diz CEO da Marisa",
+      "summary": "Companhia reportou um prejuízo de R$ 60,9 milhões no terceiro trimestre de 2026, apesar de Ebtida ter crescido 27,1%",
+      "url": "https://exame.com/invest/mercados/todo-varejista-quer-uma-reducao-da-taxa-de-juros-diz-ceo-da-marisa",
+      "published": "2026-11-13T07:26:51+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "marisa"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "marisa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 14,
+      "story": "5d863e9c05"
+    },
+    {
+      "title": "Mercado Pago lanza un FAL gratis para pelear un negocio de u$s5.000 M",
+      "summary": "Mercado Pago lanza un FAL gratis para pelear un negocio de u$s5.000 M &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/73088-mercado-pago-lanza-un-fal-gratis-para-pelear-un-negocio-de-us5-000-m",
+      "published": "2026-11-13T09:07:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 31,
+      "story": "62d9b41c47"
+    },
+    {
+      "title": "Mais acessível e enxuta: a estratégia do CEO da Westwing para ganhar fôlego",
+      "summary": "Desde que assumiu o comando da Westwing, em agosto de 2025, André Machado tem focado em uma reestruturação para tirar a varejista de móveis e decoração do vermelho. Nesse período, reduziu o quadro de funcionários de 550 para 320 pessoas, enxugou o catálogo de 85 mil para 22 mil produtos e reforçou a aposta na marca própria, que já representa quase 40% do volume bruto de vendas (GMV). Agora, o executivo prepara uma nova etapa da estratégia, com foco em artigos mais acessíveis e maior presença em marketplaces e redes sociais, numa tentativa de recuperar as vendas, que continuam em queda. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/11/mais-acessivel-e-enxuta-a-estrategia-do-ceo-da-westwing-para-ganhar-folego.ghtml",
+      "published": "2026-11-13T10:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "westwing"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "westwing",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 14,
+      "story": "2cecee73e2"
+    },
+    {
+      "title": "Nubank melhora perspectivas para índice de eficiência de 2026",
+      "summary": "O banco digital Nubank divulgou nessa quinta-feira (12) um lucro para o terceiro trimestre em linha com as estimativas dos analistas , ao mesmo tempo em que melhorou suas projeções para o índice de eficiência do ano, em parte devido a uma desaceleração nas contratações impulsionada pela inteligência artificial . Leia mais (11/13/2026 - 08h10)",
+      "url": "https://c-level.folha.uol.com.br/financas/2026/11/nubank-melhora-perspectivas-para-indice-de-eficiencia-de-2026.shtml",
+      "published": "2026-11-13T11:10:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 32,
+      "story": "a5e8632030"
     },
     {
       "title": "Clientes do Ueno Bank começam a receber dinheiro de volta no Paraguai",
@@ -16066,57 +16233,6 @@
       "score": 10.0,
       "rank": 2,
       "story": "0a3193c30e"
-    },
-    {
-      "title": "Agenda de empresas: Lucro da Suzano soma R$ 2 bi; Cosan negocia venda de fatia na Compass",
-      "summary": "Suzano A Suzano fechou o terceiro trimestre de 2026 com lucro líquido de R$ 2,08 bilhões. O valor representa uma alta de 6,25% na comparação com o mesmo período de 2025. A teleconferência será realizada às 10h. Cosan A Cosan está negociando a venda de 25% da Compass, controladora da Comgás, para uma gestora de investimentos ligada ao governo de Abu Dhabi, apurou o Pipeline, site de negócios do Valor. Sabesp A Sabesp fechou o terceiro trimestre do ano com um lucro líquido ajustado de R$ 1,1 bilhão, montante que representa uma redução anual de 13,8%. A teleconferência será realizada às 10h. O conselho de administração da Sabesp aprovou o pagamento de juros sobre capital próprio no valor bruto total de R$ 2,64 bilhões. PetroReconcavo A PetroReconcavo fechou o terceiro trimestre com lucro líquido de R$ 236 milhões, uma alta de 94% na comparação com o ganho de R$ 121,9 milhões em igual período do ano passado. A teleconferência será realizada às 10h. Allos A administradora de shoppings Allos apresentou um lucro líquido de R$ 291,3 milhões no terceiro trimestre, representando um crescimento de 131,4% ante o lucro de R$ 126,9 milhões reportado há um ano. A teleconferência será realizada às 11h. Assaí O Assaí registrou lucro líquido de R$ 427 milhões no terceiro trimestre, alta de 119% na comparação com o terceiro trimestre de 2025. A teleconferência será realizada às 11h. Ânima A Ânima apurou um lucro líquido atribuível aos acionistas controladores de R$ 88,7 milhões, no terceiro trimestre, o que representa um crescimento de 142,7% sobre um ano antes. A teleconferência será realizada às 10h. Fleury O Fleury apurou um lucro líquido de R$ 264,3 milhões no terceiro trimestre, o que representa um salto de 42,9% sobre o mesmo período do ano passado. A teleconferência será realizada às 11h. Lojas Renner A Lojas Renner fechou o terceiro trimestre com lucro líquido de R$ 246,4 milhões. O valor é 11,8% menor que o registrado há um ano. A teleconferência será realizada às 10h. Vivara A fabricante de joias Vivara reportou um lucro líquido de R$ 106,5 milhões no terceiro trimestre de 2026, representando uma queda anual de 39,4%. A teleconferência será realizada às 12h. Tupy A Tupy apresentou um lucro líquido de R$ 56,3 milhões no terceiro trimestre de 2026, revertendo o prejuízo de R$ 29,6 milhões reportado no mesmo período do ano passado. A teleconferência será realizada às 11h. Localiza A Localiza registrou um lucro líquido de R$ 1,12 bilhão no terceiro trimestre de 2026, representando um crescimento de 336% ante o lucro de R$ 258,1 milhões reportado há um ano. A teleconferência será realizada às 11h. EZTec A incorporadora EZTec registrou um lucro líquido de R$ 85,4 milhões no terceiro trimestre, queda de 53,4% em relação ao mesmo período de 2025. A teleconferência será realizada às 10h. Grendene A Grendene registrou um lucro líquido de R$ 121,7 milhões no terceiro trimestre de 2026, representando uma queda anual de 12,1%. A teleconferência será realizada às 10h30. Moura Dubeux A incorporadora Moura Dubeux, que atua na região Nordeste, registrou um lucro líquido de R$ 150,1 milhões no terceiro trimestre, 27,7% maior do que no mesmo período de 2025. A teleconferência será realizada às 11h. HBR Realty A HBR Realty encerrou o terceiro trimestre com prejuízo líquido atribuído aos controladores de R$ 28,9 milhões, melhora de 3,7% ante o prejuízo de R$ 30 milhões no mesmo período de 2025. A teleconferência será realizada às 10h. Panvel A Panvel fechou o terceiro trimestre com lucro líquido de R$ 46,4 milhões. O valor representa alta de 35,4% em relação ao registrado há um ano. A teleconferência será realizada às 9h30. Lojas Quero-Quero A varejista de material de construção Quero-Quero apresentou uma piora de 11,3% no seu prejuízo líquido no terceiro trimestre, na comparação com o mesmo período de 2025. O indicador terminou setembro em R$ 46,9 milhões, apesar do aumento na receita. A teleconferência será realizada às 9h. Alupar A Alupar, que atua nos segmentos de transmissão, geração e comercialização de energia, encerrou o terceiro trimestre com um lucro líquido regulatório de R$ 214,2 milhões, que representa uma redução de 2,6% com o verificado em igual etapa de 2025. A teleconferência será realizada às 15h. Dasa A rede de medicina diagnóstica Dasa apurou, no terceiro trimestre, um lucro líquido R$ 173 milhões, o que representa um crescimento de 120% sobre igual período de 2025. A teleconferência será realizada às 14h. Bmg O Banco Bmg registrou lucro líquido recorrente de R$ 141 milhões no terceiro trimestre, queda de 10,2% em relação ao trimestre anterior e de 4,7% ante o mesmo período de 2025. A teleconferência será realizada às 11h. Aura Minerals O lucro líquido da Aura Minerals aumentou 24 vezes na comparação anual, fechando o terceiro trimestre em US$ 135 milhões. A companhia também anunciou a aprovação de um dividendo de US$ 0,72 por ação ordinária, equivalente a uma distribuição total aproximada de US$ 60,4 milhões aos seus acionistas. Iguatemi A Catuaí e o Iguatemi anunciaram um projeto para a construção de um empreendimento com hotelaria e residenciais sob a marca Four Seasons. Com a parceria, a Catuaí vai ter 54% do ativo imobiliário e o Iguatemi, 44%. Kora Saúde A Kora Saúde anunciou que a Justiça homologou os planos de recuperação extrajudicial apresentados pelo grupo em abril deste ano. Balanço Nesta sexta-feira (6), a Alpargatas divulgará seus resultados trimestrais após o fechamento do mercado. No exterior, são esperados os balanços da IAG (British Airways) e Moderna. Unsplash",
-      "url": "https://valor.globo.com/empresas/noticia/2026/11/06/agenda-de-empresas-lucro-da-suzano-soma-r-2-bi-cosan-negocia-venda-de-fatia-na-compass.ghtml",
-      "published": "2026-11-06T11:05:14+00:00",
-      "source": "https://www.valor.com.br/rss",
-      "matched_sectors": [
-        "Fashion",
-        "Joias",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "grendene",
-        "lojas renner",
-        "panvel",
-        "vivara"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "lojas renner",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "grendene",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Joias",
-          "alias": "vivara",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "panvel",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 1,
-      "story": "d5beee26aa"
     },
     {
       "title": "Bancos cortam projeções para o PIB e elevam estimativas de inflação em 2027",
@@ -17390,7 +17506,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 3,
+      "rank": 2,
       "story": "4af486d1e8"
     },
     {
