@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T11:14:42.516750+00:00",
-  "count": 518,
-  "new_this_run": 19,
+  "generated_at": "2026-11-16T09:08:52.685724+00:00",
+  "count": 503,
+  "new_this_run": 24,
   "articles": [
     {
       "title": "Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA",
@@ -73,7 +73,7 @@
         }
       ],
       "score": 128.0,
-      "rank": 48,
+      "rank": 44,
       "story": "5126841443"
     },
     {
@@ -247,6 +247,64 @@
       "score": 108.0,
       "rank": 9,
       "story": "49b7eb8824"
+    },
+    {
+      "title": "Endividamento das famílias pressiona resultados do Carrefour, Assaí e GPA no 3º trimestre",
+      "summary": "O endividamento das famílias brasileiras continua pressionando o orçamento doméstico e impondo desafios ao varejo alimentar. Em junho, 20,3 milhões de brasileiros estavam em situação de endividamento de risco, alta de 75% em cinco anos, segundo o Relatório de Estabilidade Financeira do Banco Central. Os efeitos desse cenário aparecem nos balanços do terceiro trimestre de Carrefour, [&#8230;] O post Endividamento das famílias pressiona resultados do Carrefour, Assaí e GPA no 3º trimestre apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/16/11/2026/mc-capital/endividamento-das-familias-pressiona-resultados-do-carrefour-assai-e-gpa-no-3o-trimestre",
+      "published": "2026-11-16T06:02:32+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Economia"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "carrefour",
+        "endividamento",
+        "endividamento das famílias",
+        "gpa"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "gpa",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "carrefour",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento das famílias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 100.0,
+      "rank": 74,
+      "story": "038ca42dd8"
     },
     {
       "title": "Magalu cresce com a crise da Casas Bahia e parcerias com plataformas internacionais",
@@ -733,63 +791,6 @@
       "story": "963434c924"
     },
     {
-      "title": "Avanço de compras digitais impulsiona balanços de RD Saúde, Panvel e Pague Menos no 3º tri",
-      "summary": "O avanço das compras digitais também tem impulsionado o setor farmacêutico. Dados da Associação Brasileira de Redes de Farmácias e Drogarias (Abrafarma) mostram que os pedidos feitos a distância nas 29 redes associadas cresceram 57,7% em 2025, na comparação com 2024, movimentando R$ 22,6 bilhões. Nesse cenário, os balanços de RD Saúde, Panvel e Pague [&#8230;] O post Avanço de compras digitais impulsiona balanços de RD Saúde, Panvel e Pague Menos no 3º tri apareceu primeiro em Mercado&amp;Consumo .",
-      "url": "https://mercadoeconsumo.com.br/09/11/2026/mc-capital/avanco-de-compras-digitais-impulsiona-balancos-de-rd-saude-panvel-e-pague-menos-no-3o-tri",
-      "published": "2026-11-09T06:02:03+00:00",
-      "source": "https://mercadoeconsumo.com.br/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "drogarias",
-        "farmácias",
-        "pague menos",
-        "panvel",
-        "rd saúde"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "rd saúde",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "pague menos",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "panvel",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "drogarias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 76.0,
-      "rank": 18,
-      "story": "7126553138"
-    },
-    {
       "title": "A reforma tributária está redesenhando o mapa dos galpões logísticos no Brasil",
       "summary": "A reforma tributária ainda está longe de ser plenamente implementada, mas já começa a mudar os planos de desenvolvimento e locação de galpões logísticos no Brasil. Com a perspectiva do fim dos incentivos fiscais ligados ao ICMS, empresas estão revendo a localização de seus centros de distribuição, desenvolvedores identificam oportunidades em novas regiões e investidores [&#8230;] O post A reforma tributária está redesenhando o mapa dos galpões logísticos no Brasil apareceu primeiro em NeoFeed .",
       "url": "https://neofeed.com.br/negocios/a-reforma-tributaria-esta-redesenhando-o-mapa-dos-galpoes-logisticos-no-brasil",
@@ -844,7 +845,7 @@
         }
       ],
       "score": 76.0,
-      "rank": 12,
+      "rank": 8,
       "story": "cbfbbcaae1"
     },
     {
@@ -1016,7 +1017,7 @@
         }
       ],
       "score": 68.0,
-      "rank": 27,
+      "rank": 19,
       "story": "4d81c8f446"
     },
     {
@@ -1631,7 +1632,7 @@
         }
       ],
       "score": 60.0,
-      "rank": 12,
+      "rank": 8,
       "story": "a0edf89146"
     },
     {
@@ -1976,7 +1977,7 @@
         }
       ],
       "score": 56.0,
-      "rank": 4,
+      "rank": 2,
       "story": "cb56ba5383"
     },
     {
@@ -2043,64 +2044,6 @@
       "score": 54.0,
       "rank": 4,
       "story": "02867946bc"
-    },
-    {
-      "title": "IA deve ampliar vantagem de grandes varejistas no comércio eletrônico, diz UBS BB",
-      "summary": "A inteligência artificial (IA) tende a ampliar a vantagem competitiva das empresas que já têm posições fortes no comércio eletrônico, em vez de nivelar a disputa no setor. A avaliação é do UBS BB, que analisou a adoção da tecnologia pelo Mercado Livre, Magazine Luiza e Lojas Renner. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/11/08/ia-deve-ampliar-vantagem-de-grandes-varejistas-no-comrcio-eletrnico-diz-ubs-bb.ghtml",
-      "published": "2026-11-08T13:03:14+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Fashion",
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "comércio eletrônico",
-        "lojas renner",
-        "magazine luiza",
-        "mercado livre",
-        "renner"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "renner",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Fashion",
-          "alias": "lojas renner",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "magazine luiza",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "comércio eletrônico",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 52.0,
-      "rank": 6,
-      "story": "9f94edc983"
     },
     {
       "title": "Interromper o uso de Ozempic pode dobrar o risco de infarto, alerta estudo; entenda o motivo",
@@ -2257,47 +2200,6 @@
       "score": 50.0,
       "rank": 6,
       "story": "c54b4ed3b3"
-    },
-    {
-      "title": "Por Dentro do Universo de Grifes de Luxo do Novo CJ Fashion",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Em cerca de 4 mil m², o Shopping Cidade Jardim agora tem uma loja com mais de 60 marcas de luxo. A ideia é combinar moda, design e gastronomia em uma única experiência de compra O post Por Dentro do Universo de Grifes de Luxo do Novo CJ Fashion apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-life/2026/11/por-dentro-do-universo-de-grifes-de-luxo-da-cj-fashion",
-      "published": "2026-11-09T08:00:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "grifes de luxo",
-        "luxo",
-        "marcas de luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "marcas de luxo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "grifes de luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 48.0,
-      "rank": 2,
-      "story": "245ac1f8d2"
     },
     {
       "title": "Caneta emagrecedora e novo comprimido são comparados no combate à gordura no fígado",
@@ -2998,6 +2900,47 @@
       "story": "784d22e64d"
     },
     {
+      "title": "Como o Boticário engajou 2,8 milhões de consumidores na reciclagem e levou embalagens vazias de volta às lojas",
+      "summary": "Uma embalagem vazia de perfume ou creme pode valer mais do que parece. Nas lojas do Boticário, consumidores que devolvem recipientes usados de cosméticos e produtos de higiene pessoal podem receber descontos na compra de novos produtos. A estratégia combina sustentabilidade e incentivo ao consumo e ajudou a transformar o Boti Recicla, criado em 2006, em um programa que mobilizou mais de 2,8 milhões de pessoas somente em 2025. A iniciativa, que completa 20 anos em 2026, reúne mais de 4 mil pontos de coleta espalhados pelo Brasil e registrou crescimento de 48% no volume de embalagens recolhidas em 2025, na comparação com o ano anterior. Segundo levantamento encomendado à Euromonitor International com a própria companhia, trata-se do maior programa de logística reversa do mundo no varejo de beleza em número de pontos de coleta físicos. O modelo é relativamente simples: consumidores podem levar embalagens vazias de cosméticos e produtos de higiene pessoal de qualquer marca às lojas participantes. Os materiais são encaminhados à cadeia de reciclagem, enquanto os clientes que atendem às condições da campanha podem receber benefícios para realizar novas compras. A iniciativa também funciona como uma oportunidade de estreitar o relacionamento com o público. Além de estimular o retorno às lojas, o programa envolve franqueados, consultores e revendedoras, que ajudam a divulgar a coleta e a ampliar seu alcance. Em entrevista à Época NEGÓCIOS, Mariana Cavanha, gerente sênior de ESG do Grupo Boticário, explica que a expansão do programa exigiu integrar diferentes áreas da companhia. \"Hoje de manhã [...] estava numa reunião junto com mais de cinco ou seis áreas do negócio para falar do programa, porque a gente não é um programa de ESG, é um programa do Grupo Boticário\", afirma. A ideia inicial do projeto era aproveitar a rede de franqueados da marca para incentivar a devolução de embalagens usadas e garantir sua destinação adequada. Segundo Mariana, a expansão ocorreu gradualmente, com testes e ajustes baseados na experiência dos consumidores e na participação dos funcionários das lojas. \"A gente não começou nas quatro mil lojas. Isso foi escalando e a gente foi testando, entendendo e conversando com o consumidor\", conta. Ao longo dessa trajetória, a empresa passou a incorporar incentivos comerciais à iniciativa. Consumidores que devolvem embalagens podem obter descontos em compras, criando uma conexão entre o descarte adequado e uma nova visita ao ponto de venda. Em novembro, por exemplo, a campanha de aniversário oferece R$ 15 de desconto e um brinde em compras acima de R$ 220 para quem entregar pelo menos seis embalagens vazias, conforme as condições da promoção. O programa também foi ampliado para a venda direta. Revendedoras podem receber embalagens dos clientes e encaminhá-las aos espaços da companhia, levando a iniciativa a consumidores que não necessariamente frequentam as lojas físicas. Segundo Mariana, essa dinâmica cria novas oportunidades de contato entre as revendedoras e seus clientes. O modelo permite que uma iniciativa originalmente ambiental também participe da estratégia de relacionamento comercial da marca. A companhia, porém, não apresentou dados sobre quantas vendas são geradas pelos incentivos ou quanto o programa representa em receita adicional. Uma operação que envolve toda a empresa A expansão do Boti Recicla exigiu que o programa deixasse de ser tratado como uma responsabilidade exclusiva da área de sustentabilidade. Hoje, segundo Mariana, diferentes equipes participam das decisões sobre sua operação, incluindo áreas relacionadas às lojas, aos consumidores e à venda direta. Essa integração também se reflete nos indicadores acompanhados pela empresa. Além do volume recolhido e da quantidade de participantes, o grupo monitora a satisfação dos consumidores, a experiência das cooperativas parceiras e o número de trabalhadores beneficiados. Em 2025, mais de 2,8 milhões de consumidores participaram do programa. O número informado pela empresa inclui pessoas que aderiram à dinâmica de devolução com benefícios, mas não representa necessariamente todos os consumidores que entregaram embalagens. A operação conta com 17 cooperativas homologadas, envolvendo mais de 700 profissionais. São essas organizações que participam do encaminhamento dos materiais à cadeia de reciclagem, permitindo que parte dos resíduos volte a ser utilizada como matéria-prima. A companhia também começou a incorporar materiais reciclados à própria estrutura de suas lojas. Atualmente, 142 unidades utilizam mobiliário e estruturas produzidas com materiais reciclados, em iniciativas que já reintegraram mais de 147 toneladas de resíduos à cadeia produtiva. Outra experiência foi a Boti Recicla Store, realizada em uma loja conceito em Pinheiros, na capital paulista. Durante três dias, mais de 600 participantes trocaram resíduos recicláveis por produtos e experiências da marca. A ação arrecadou mais de uma tonelada de materiais. O desafio de ampliar os resultados Apesar da expansão do programa, a reciclagem ainda está longe de alcançar a totalidade das embalagens comercializadas pela companhia. Em 2025, o Grupo Boticário recolheu e destinou para reciclagem um volume equivalente a 39% dos resíduos de embalagens gerados no ano. O indicador mostra o tamanho do desafio para ampliar a circularidade dos materiais. Para os próximos anos, a empresa pretende aprofundar o relacionamento com consumidores e cooperativas, melhorar seus indicadores e ampliar a divulgação dos resultados. Mariana conta que a companhia já discute o planejamento do programa para os próximos anos, incluindo 2027 e 2030. Entre as prioridades estão fortalecer a participação dos consumidores, aprimorar a operação e tornar seus impactos mais mensuráveis. \"A gente quer explorar cada vez mais os dados, mostrar cada vez mais a relevância, ser cada vez mais pragmático\", conclui. Mais Lidas Banner da série Inovação de Resultado (Novo) Clayton Rodrigues",
+      "url": "https://epocanegocios.globo.com/empresas/inovacao-de-resultado/noticia/2026/11/como-o-boticario-engajou-28-milhoes-de-consumidores-na-reciclagem-e-levou-embalagens-vazias-de-volta-as-lojas.ghtml",
+      "published": "2026-11-16T09:00:00+00:00",
+      "source": "https://pox.globo.com/rss/epocanegocios",
+      "matched_sectors": [
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "boticário",
+        "o boticário",
+        "perfume"
+      ],
+      "matches": [
+        {
+          "sector": "Cosméticos",
+          "alias": "boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "o boticário",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "perfume",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 48.0,
+      "rank": 43,
+      "story": "9734c7d40e"
+    },
+    {
       "title": "Novas regras do vale-alimentação e refeição são suspensas? Entenda a decisão da Justiça",
       "summary": "Liminar beneficia associadas à ABBT, como Alelo, Pluxee e VR, e abrange limites de taxas e prazos de repasse.",
       "url": "https://exame.com/brasil/novas-regras-do-vale-alimentacao-e-refeicao-sao-suspensas-entenda-a-decisao-da-justica",
@@ -3191,7 +3134,7 @@
         }
       ],
       "score": 44.0,
-      "rank": 20,
+      "rank": 14,
       "story": "ba599ab07a"
     },
     {
@@ -3236,105 +3179,6 @@
       "score": 42.0,
       "rank": 14,
       "story": "cc873eba57"
-    },
-    {
-      "title": "Como descartar canetas emagrecedoras corretamente?",
-      "summary": "Agulhas e dispositivos usados no tratamento da obesidade e diabetes exigem cuidados específicos para evitar acidentes e contaminação ambiental",
-      "url": "https://exame.com/ciencia/como-descartar-canetas-emagrecedoras-corretamente",
-      "published": "2026-11-08T22:27:25+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 2,
-      "story": "5be9b8ba8c"
-    },
-    {
-      "title": "Fim da escala 6x1: STF promove audiência de conciliação para discutir implementação da nova jornada de trabalho",
-      "summary": "O ministro Flávio Dino, do Supremo Tribunal Federal (STF), fará uma audiência de conciliação na terça-feira, dia 10, para discutir a implementação do fim da escala 6x1 após entidades questionarem judicialmente a emenda que reduziu a jornada de trabalho de 44 para 40 horas semanais. O ministro destacou que a audiência não vai \"conciliar\" a redução da jornada. Segundo ele, a mudança aprovada pelo Congresso é \"plenamente constitucional em sua finalidade\" e e seu mérito \"não está sujeito a transação\". \"A redução da jornada e a ampliação do repouso semanal não estão em negociação\", frisou. Conforme o ministro, o encontro vai debater, se possível, os aspectos de implementação da redução de jornada. Foram convidados para a audiência: as confederações sindicais empresariais de âmbito nacional (representantes das categorias econômicas); as centrais sindicais (entidades de representação geral dos trabalhadores); a Advocacia Geral da União e das advocacias do Senado Federal e da Câmara dos Deputados; e a Procuradoria Geral da República. Dino determinou a realização da audiência após questionamentos da Confederação Nacional da Indústria (CNI) e da Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC). A CNC pediu o adiamento do cronograma de implementação da redução de jornada aprovada pelo Congresso Nacional. Ela não questionou a redução da carga de trabalho para 40 horas semanais nem os dois dias de descanso, mas o prazo de adaptação. Com a publicação da emenda à Constituição, a primeira etapa, uma redução para 42 horas semanais, começa em 16 de dezembro. A ação movida pela CNC pede que essa fase da transição comece em 16 de outubro de 2027. Na segunda fase do cronograma da emenda constitucional aprovada pelo Congresso, está prevista a redução da jornada para 40 horas semanais, com dois dias de descanso. Conforme a emenda, isso passaria a valer em dezembro de 2027. Na mesma ação, a CNC pede o adiamento da segunda etapa para outubro de 2028. “A entidade sustenta que o prazo de apenas 60 dias previsto na emenda constitucional promulgada é insuficiente para mapear postos, contratar trabalhadores, reestruturar turnos e renegociar convenções coletivas”, disse a CNC, em nota. A entidade apontou, ainda, que não está sendo respeitado o princípio da isonomia quando “a administração pública direta e indireta recebeu prazo de até um ano para aditar seus contratos de terceirização e reequilibrar seus custos\", enquanto o setor privado teve 60 dias. Já a CNI pediu a suspensão da redução de jornada para os contratos de trabalho celebrados e os acordos e convenções coletivas de trabalho vigentes antes de sua promulgação. Ela também defende que o fim da 6x1 não se aplique a micro e pequenas empresas até regulamentação específica para essas companhias. Outra solicitação é para que o STF permita a ampla negociação de acordos e convenções coletivas “sobre regimes diferenciados de compensação, escala e jornada de trabalho”, de modo que as empresas não tenham que seguir a regra que garante os dois dias de repouso semanal remunerado. Há pedidos secundários, caso os principais não sejam aceitos. Um deles é para que o STF adie a transição da redução de jornada por, no mínimo, um ano. Outro é para que a Corte permita “negociação coletiva para fixação de prazos de transição mais adequados a cada categoria”. O principal argumento da CNI é o de que a redução da escala para contratos já firmados significaria uma “retroatividade”, o que é vedada por lei. A entidade alega que a medida “eleva custos de mão de obra sem ganhos de produtividade” e por isso seria “desproporcional e excessiva”. Além disso, segundo a entidade, o fim da escala 6x1 demandaria “maior prazo de acomodação para preservação da sustentabilidade econômica e dos empregos”.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/11/09/fim-da-escala-6x1-stf-promove-audiencia-de-conciliacao-para-discutir-implementacao-da-nova-jornada-de-trabalho.ghtml",
-      "published": "2026-11-09T03:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1",
-        "jornada de trabalho"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        },
-        {
-          "sector": "Economia",
-          "alias": "jornada de trabalho",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 40.0,
-      "rank": 3,
-      "story": "244159eaee"
-    },
-    {
-      "title": "CBS de 11,3%: as premissas do cálculo e os limites da alíquota de referência",
-      "summary": "O cálculo do TCU orienta as projeções para 2027, mas tem gerado discussões metodológicas",
-      "url": "https://www.jota.info/opiniao-e-analise/colunas/coluna-da-abdf/cbs-de-113-as-premissas-do-calculo-e-os-limites-da-aliquota-de-referencia",
-      "published": "2026-11-09T06:18:47+00:00",
-      "source": "https://www.jota.info/feed",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "alíquota de referência",
-        "cbs"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "alíquota de referência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 2,
-      "story": "c1d2cbbc09"
     },
     {
       "title": "Caneta de semaglutida Owozy começa a ser vendida no Brasil",
@@ -4450,7 +4294,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 6,
+      "rank": 5,
       "story": "454678d79f"
     },
     {
@@ -4483,7 +4327,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 14,
+      "rank": 13,
       "story": "0c84abac21"
     },
     {
@@ -4516,7 +4360,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 6,
+      "rank": 5,
       "story": "454678d79f"
     },
     {
@@ -4582,7 +4426,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 16,
+      "rank": 13,
       "story": "dff3928aa7"
     },
     {
@@ -4615,7 +4459,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 7,
+      "rank": 5,
       "story": "454678d79f"
     },
     {
@@ -4681,7 +4525,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 8,
+      "rank": 5,
       "story": "ad6d0b7cb3"
     },
     {
@@ -4714,7 +4558,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 8,
+      "rank": 5,
       "story": "e3897f0c1f"
     },
     {
@@ -4747,7 +4591,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 9,
+      "rank": 6,
       "story": "966f9da20f"
     },
     {
@@ -4780,7 +4624,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 9,
+      "rank": 6,
       "story": "454678d79f"
     },
     {
@@ -4813,7 +4657,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 4,
+      "rank": 2,
       "story": "d43d1eeb08"
     },
     {
@@ -4846,7 +4690,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 44,
+      "rank": 33,
       "story": "1a15cb2987"
     },
     {
@@ -4879,7 +4723,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 25,
+      "rank": 17,
       "story": "e004b517e4"
     },
     {
@@ -4912,7 +4756,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 12,
+      "rank": 8,
       "story": "a8d447a41b"
     },
     {
@@ -4945,7 +4789,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 13,
+      "rank": 9,
       "story": "249cb5e86d"
     },
     {
@@ -4978,7 +4822,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 14,
+      "rank": 9,
       "story": "501b22aff2"
     },
     {
@@ -5011,7 +4855,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 9,
+      "rank": 6,
       "story": "7908f471f0"
     },
     {
@@ -5044,8 +4888,42 @@
         }
       ],
       "score": 40.0,
-      "rank": 10,
+      "rank": 7,
       "story": "7908f471f0"
+    },
+    {
+      "title": "Lucro da Richemont sobe com vendas de joias e relógios",
+      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/11/16/lucro-da-richemont-sobe-com-vendas-de-joias-e-relogios.ghtml",
+      "published": "2026-11-16T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "Joias",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "joias",
+        "richemont"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "richemont",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0,
+      "rank": 20,
+      "story": "93c637702d"
     },
     {
       "title": "Vendas no varejo recuam 0,3% no terceiro trimestre, aponta IBGE",
@@ -5094,132 +4972,8 @@
         }
       ],
       "score": 38.0,
-      "rank": 9,
+      "rank": 6,
       "story": "02448ce825"
-    },
-    {
-      "title": "Endividamento recorde deve limitar vendas da Black Friday",
-      "summary": "Com o endividamento das famílias em nível recorde, segundo dados do Banco Central, a Black Friday deste ano deve ter vendas mais concentradas em produtos de menor valor, enquanto bens duráveis, como móveis e eletrodomésticos, tendem a enfrentar maior dificuldade para atrair consumidores. Descontos mais agressivos e o pagamento do 13º salário podem dar algum fôlego ao comércio, mas não devem reverter o quadro de consumo pressionado pelo comprometimento da renda e pelo custo do crédito, segundo economistas e analistas ouvidos pelo Valor. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/brasil/noticia/2026/11/08/endividamento-recorde-deve-limitar-vendas-da-black-friday.ghtml",
-      "published": "2026-11-08T11:18:48+00:00",
-      "source": "https://pox.globo.com/rss/valor/brasil",
-      "matched_sectors": [
-        "Economia",
-        "Eletrônicos"
-      ],
-      "matched_aliases": [
-        "eletrodomésticos",
-        "endividamento",
-        "endividamento das famílias"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "endividamento das famílias",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "endividamento",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Eletrônicos",
-          "alias": "eletrodomésticos",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0,
-      "rank": 5,
-      "story": "8d4f443b93"
-    },
-    {
-      "title": "Agenda de política: Senado inicia audiências para definir alíquota da CBS",
-      "summary": "O presidente Luiz Inácio Lula da Silva (PT) viaja nesta segunda-feira (9) de Brasília para Antália, na Turquia, para participar da COP31. Enquanto isso, no Congresso, a reforma tributária deve ser um dos temas mais relevantes da semana. A Comissão de Assuntos Econômico (CAE) do Senado inicia a realização de audiências públicas para discutir a alíquota da Contribuição sobre Bens e Serviços (CBS), tributo criado para substituir o PIS e a Cofins. O Senado tem até o dia 15 de dezembro para fixar a alíquota. Se isso não for feito, valerá o percentual determinado pelo Tribunal de Contas da União (TCU): 11,3%. Em entrevista na semana passada, o senador Eduardo Braga (MDB-AM), relator da resolução da alíquota da CBS no Senado, disse que foi “pego de surpresa” pelo percentual fixado pelo TCU. Segundo ele, a alíquota de11,3% não está dentro da previsão estabelecida pelos estudos da Receita nem pelos próprios estudos encomendados à época das discussões da reforma ao TCU. “Quero aqui, de antemão, dizer da minha preocupação com a alíquota estabelecida e [que sou] muito favorável a um amplo debate para que nós possamos não apenas ouvir os especialistas do TCU como também o pessoal da Receita Federal e os contribuintes para que possamos compreender em detalhes os fundamentos”, disse. Foram convidados para participar das audiências públicas o presidente do TCU, Vital do Rêgo; o secretário da Receita Federal, Robinson Barreirinhas; o presidente do Comsefaz, Flávio César Mendes de Oliveira; um integrante do Comitê Gestor do IBS, entre outros representantes de entidades empresariais. Veja, abaixo, os principais eventos previstos para a semana: Palácio do Planalto Na segunda-feira (9) pela manhã, Lula viaja de Brasília para Antália, na Turquia, para participar da COP31. Chegada no local está prevista para a madrugada da terça (10). São esperadas algumas reuniões bilaterais. Na quarta-feira (11), o presidente participa da sessão da COP31 e pode falar em um evento sobre florestas. Na quinta-feira (12), estão previstas reuniões bilaterais, participação em uma agenda que promove diálogo com a sociedade civil sobre desenvolvimento sustentável. No final do dia, Lula viaja para Manila, nas Filipinas, para participar da Cúpula da Asean, com previsão de chegada na sexta-feira (13). Na sexta-feira, há previsão de reuniões bilaterais. Câmara dos Deputados A semana na Câmara deve ter como destaque a continuidade das audiências públicas da comissão especial que analisa a PEC da redução da maioridade penal. Estão previstas duas reuniões, na terça-feira (10), às 14h30, e na quarta-feira (11), no mesmo horário. Na terça, foram convidados o secretário de Assuntos Legislativos do Ministério da Justiça, Paulo Garrido Modesto, representante do ministro da Justiça, e a presidente da Associação Brasileira dos Magistrados da Infância e da Juventude (Abraminj), Katy Braun do Prado. O presidente do Conselho Nacional do Ministério Público (CNMP), Paulo Gonet Branco, também foi convidado. Na quarta-feira, a comissão deve ouvir os procuradores de Justiça Fernando Capez, do Ministério Público de São Paulo, e Marcelo Rocha Monteiro, do Ministério Público do Rio de Janeiro, além dos juízes aposentados Ludmila Lins Grilo e Pedro Paulo Castelo Branco. Até o momento, não há sessão deliberativa de plenário convocada para a semana. A agenda também será impactada pela realização da COP, na Turquia, que deve levar muitos parlamentares para fora de Brasília. Ainda não está confirmado se o presidente da Câmara, Hugo Motta (Republicanos-PB), participará da conferência. Senado Depois de votar a proposta de emenda à Constituição (PEC) da segurança pública, as atenções se voltam para a Comissão de Assuntos Econômicos (CAE), que deve ter revisão de audiência pública para discutir a alíquota da Contribuição sobre Bens e Serviços (CBS). Terça-feira (10): A Comissão de Infraestrutura (CI) aprecia, a partir das 9h, um projeto de lei que destina recursos à redução de tarifas de energia elétrica praticada em Estados da Amazônia Legal e outro que cria a Política Nacional de Incentivo à Fabricação de Motores (PNIFM). O plenário pode votar, a partir das 16h, um projeto de lei complementar que trata do acesso da Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) às informações fiscais dos agentes regulados para fins de fiscalização e regulação do setor. Quarta-feira (11): Comissão de Assuntos Econômicos (CAE) deve iniciar, às 10h, as audiências públicas para discutir a alíquota da Contribuição sobre Bens e Serviços (CBS). O plenário pode votar, a partir das 16h, um projeto de lei complementar que proíbe a limitação de empenho e movimentação financeira das despesas relativas ao Fundo de Universalização dos Serviços de Telecomunicações (Fust). Judiciário Terça-feira (10):O Conselho Nacional de Justiça (CNJ) analisa, a partir das 10h, proposta de resolução que estabelece parâmetros gerais para a cessão de créditos de precatórios no Poder Judiciário. A proposta foi apresentada em outubro. A Segunda Turma do Supremo Tribunal Federal (STF) realiza, a partir das 14h, sessão ordinária de julgamentos, com processos sobre tributos estaduais, entre outros temas. O Tribunal Superior Eleitoral (TSE) realiza sessão de julgamento a partir das 19h. A pauta prevê a análise de registros de candidatura, prestações de contas e recursos sobre propaganda eleitoral das eleições de 2024. Quarta-feira (11): O plenário do STF realiza sessão de julgamentos a partir das 14h. Entre os processos previstos está a análise de dispositivos do Código Penal que concedem imunidade penal em crimes patrimoniais cometidos contra familiares. O tribunal vai discutir a validade dessas regras em casos de violência patrimonial contra a mulher (ADPFs 1185 e 1241). Os ministros também devem analisar reclamação contra decisão do Tribunal de Justiça do Paraná (TJ-PR) que condenou uma emissora a pagar indenização por uma reportagem considerada vexatória. O STF vai avaliar se a condenação contraria o entendimento da Corte sobre a responsabilização de veículos de imprensa (Rcl 78354).",
-      "url": "https://valor.globo.com/politica/noticia/2026/11/08/agenda-de-politica-senado-inicia-audiencias-para-definir-aliquota-da-cbs.ghtml",
-      "published": "2026-11-09T00:47:51+00:00",
-      "source": "https://pox.globo.com/rss/valor/politica",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "cbs",
-        "contribuição sobre bens e serviços",
-        "reforma tributária"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "cbs",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "contribuição sobre bens e serviços",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0,
-      "rank": 5,
-      "story": "f5e6cf356a"
-    },
-    {
-      "title": "Anvisa proíbe lotes de Mounjaro; entenda",
-      "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou, na última sexta-feira, a apreensão de lotes falsificados do medicamento usado para diabetes e perda de peso Mounjaro. A medida também proíbe a distribuição, a venda e o uso dos produtos pertencentes aos lotes. A agência sanitária foi informada pela farmacêutica responsável pelo Mounjaro, a Eli Lilly, sobre a identificação de unidades do produto com características divergentes das constantes no medicamento original. “Entre os problemas identificados estão a utilização de lotes não reconhecidos pela empresa, bem como rotulagem incompatível com os padrões de fabricação da empresa”, explicou a Anvisa em nota. Logo, trata-se de produtos falsificados. Veja quais são os lotes: Mounjaro 2,5mg: lote KUSTR43969410 Mounjaro 15mg: lotes D810042, D838889 e 2138737 Mounjaro 5mg: lote B55010",
-      "url": "https://oglobo.globo.com/saude/noticia/2026/11/09/anvisa-proibe-lotes-de-mounjaro-entenda.ghtml",
-      "published": "2026-11-09T06:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/saude",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "eli lilly",
-        "medicamento",
-        "mounjaro"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "medicamento",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "mounjaro",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "eli lilly",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 36.0,
-      "rank": 3,
-      "story": "53cc1031cd"
     },
     {
       "title": "Agenda de empresas: Alpargatas lucra R$ 175,5 milhões; Braskem tem dificuldades em negociação com credores",
@@ -5654,7 +5408,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 15,
+      "rank": 13,
       "story": "e665d2e15c"
     },
     {
@@ -5695,7 +5449,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 13,
+      "rank": 8,
       "story": "630aa33e3d"
     },
     {
@@ -5737,8 +5491,49 @@
         }
       ],
       "score": 36.0,
-      "rank": 13,
+      "rank": 8,
       "story": "2d45b80b83"
+    },
+    {
+      "title": "Empresas perdem primeira rodada na Justiça contra imposto sobre imposto na reforma tributária",
+      "summary": "Empresas brasileiras contestam no Judiciário a decisão de alguns estados e municípios de incluir os novos tributos sobre bens e serviços (CBS/IBS) na base de cálculo dos seus impostos atuais a partir de 2027. Leia mais (11/15/2026 - 12h30)",
+      "url": "https://www1.folha.uol.com.br/mercado/2026/11/empresas-perdem-primeira-rodada-na-justica-contra-imposto-sobre-imposto-na-reforma-tributaria.shtml",
+      "published": "2026-11-15T15:30:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "ibs",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "cbs",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0,
+      "rank": 14,
+      "story": "ee2aa6ea82"
     },
     {
       "title": "Empresas fazem cálculos do fim da escala 6x1 e estudam estratégias para adotar novo modelo",
@@ -5888,41 +5683,8 @@
         }
       ],
       "score": 32.0,
-      "rank": 8,
+      "rank": 5,
       "story": "b69064040b"
-    },
-    {
-      "title": "Alíquota de referência: o raio-X da tributação sobre o consumo",
-      "summary": "O Tribunal de Contas da União (TCU) calculou a alíquota de referência da CBS para 2027 em 11,3% e a encaminhou ao Senado, gerando forte reação na imprensa e nas redes sociais. A crítica geral alega que o Brasil terá um dos maiores IVAS do mundo, superando o da Hungria. Mas o que esse percentual realmente representa? Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/coluna/aliquota-de-referencia-o-raio-x-da-tributacao-sobre-o-consumo.ghtml",
-      "published": "2026-11-09T08:00:02+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "alíquota de referência",
-        "cbs"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "cbs",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "alíquota de referência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0,
-      "rank": 4,
-      "story": "a4982a7b6b"
     },
     {
       "title": "Coreia do Sul multa Coupang por abuso de poder no mercado de delivery",
@@ -7049,7 +6811,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 4,
       "story": "d53892ab79"
     },
     {
@@ -7116,7 +6878,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 4,
       "story": "8917cec0b1"
     },
     {
@@ -7149,7 +6911,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 14,
+      "rank": 11,
       "story": "28d6f913dd"
     },
     {
@@ -7182,7 +6944,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 14,
+      "rank": 11,
       "story": "24e1049bc0"
     },
     {
@@ -7215,7 +6977,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 6,
+      "rank": 4,
       "story": "37daaa2b3f"
     },
     {
@@ -7248,7 +7010,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 6,
+      "rank": 4,
       "story": "efa28fc08e"
     },
     {
@@ -7282,7 +7044,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 16,
+      "rank": 11,
       "story": "b65f43cf4f"
     },
     {
@@ -7315,7 +7077,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 7,
+      "rank": 4,
       "story": "a7c297feea"
     },
     {
@@ -7348,7 +7110,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 7,
+      "rank": 4,
       "story": "bd6946951b"
     },
     {
@@ -7381,7 +7143,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 8,
+      "rank": 5,
       "story": "1d0aa424ea"
     },
     {
@@ -7414,7 +7176,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 8,
+      "rank": 5,
       "story": "d48a1174f0"
     },
     {
@@ -7447,8 +7209,41 @@
         }
       ],
       "score": 28.0,
-      "rank": 15,
+      "rank": 10,
       "story": "bd13d027b0"
+    },
+    {
+      "title": "Tentativa de fraudes no e-commerce recuam às vésperas da Black Friday",
+      "summary": "Depois de três meses seguidos de alta, as tentativas de fraude no comércio eletrônico brasileiro recuaram em 6,86% em outubro, em relação a setembro, segundo o Índice de Fraude da Equifax BoaVista, que analisou cerca de 45 milhões de transações digitais no período. A taxa de tentativas também diminuiu: foi de 1,42% para 1,33%, uma [&#8230;] O post Tentativa de fraudes no e-commerce recuam às vésperas da Black Friday apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/15/11/2026/ecommerce/tentativa-de-fraudes-no-e-commerce-recuam-as-vesperas-da-black-friday",
+      "published": "2026-11-15T18:20:53+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "comércio eletrônico",
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0,
+      "rank": 13,
+      "story": "cd3556b7c3"
     },
     {
       "title": "Magazine Luiza reverte lucro e registra prejuízo de R$ 10,7 milhões no 3º trimestre",
@@ -7703,7 +7498,7 @@
         }
       ],
       "score": 22.0,
-      "rank": 16,
+      "rank": 11,
       "story": "547ac8030a"
     },
     {
@@ -7736,358 +7531,8 @@
         }
       ],
       "score": 22.0,
-      "rank": 25,
+      "rank": 17,
       "story": "366d01f910"
-    },
-    {
-      "title": "Chips de IA esquentam cada vez mais. A aposta para resfriá-los é um diamante gigante",
-      "summary": "Um diamante de 20 centímetros de diâmetro pode ajudar a enfrentar um dos principais limites dos chips usados em inteligência artificial: o calor concentrado em regiões microscópicas dos processadores. A empresa americana Diamond Foundry anunciou a produção de um diamante monocristalino de 200 milímetros, dimensão usada pela indústria para fabricar lâminas de semicondutores. A peça foi apresentada ainda bruta, diretamente do processo de crescimento, e será desenvolvida como material para chips, eletrônica de potência e sistemas de resfriamento. Segundo o anúncio divulgado pela companhia, trata-se do primeiro diamante formado por um único cristal a atingir esse tamanho. A estrutura não é composta por pedras menores unidas nem por diferentes cristais compactados numa mesma lâmina. A distinção importa para a computação porque as divisões entre cristais podem interferir na circulação do calor. Em uma estrutura contínua, os átomos de carbono mantêm o mesmo arranjo ao longo do material, permitindo explorar melhor a alta condutividade térmica do diamante. Do anel para a fábrica de chips O desafio da Diamond Foundry não era demonstrar que o diamante conduz calor, propriedade conhecida e estudada há décadas. Era fabricar uma peça grande o suficiente para se aproximar das dimensões e dos processos usados pela indústria de semicondutores. Os chips são produzidos sobre lâminas circulares, conhecidas como wafers, que permitem fabricar vários componentes ao mesmo tempo. Quanto maior a lâmina, maior tende a ser a quantidade de chips processada em cada ciclo de produção. Diamantes naturais são limitados pelo tamanho das pedras encontradas na natureza. Os materiais cultivados em laboratório também permaneceram durante anos restritos a cristais menores, dificultando seu uso em escala industrial. O cristal de 200 milímetros amplia essa fronteira. De acordo com a Diamond Foundry, a peça é resultado de avanços em crescimento de cristais, física de plasma, construção de reatores e controle de fabricação. A companhia atribui a tecnologia a um trabalho iniciado há 25 anos pelos pesquisadores Stefan Gsell e Martin Fischer. Os dois entraram na Diamond Foundry em 2022, quando a empresa comprou a alemã Augsburg Diamond Technology. A peça exibida pela companhia ainda passará pelas etapas que transformam um cristal bruto em uma lâmina utilizável na fabricação de componentes. Entre elas estão o corte, o polimento e a verificação da espessura, da planicidade e da presença de defeitos em sua estrutura. O calor que limita os chips de IA Processadores usados para treinar e executar sistemas de inteligência artificial concentram grande quantidade de energia em espaços cada vez menores. A temperatura média do equipamento pode permanecer controlada enquanto pontos específicos do chip atingem níveis capazes de limitar seu desempenho e reduzir sua vida útil. O diamante pode funcionar como uma camada para espalhar esse calor antes que ele se concentre. Em vez de substituir necessariamente o silício, o material pode ser incorporado à estrutura do componente e aproximado das regiões em que os transistores operam. A condutividade térmica do diamante monocristalino pode chegar a cerca de 2.000 watts por metro-kelvin, várias vezes a do cobre, de acordo com a Interesting Engineering. A capacidade de distribuir rapidamente o calor abre espaço para processadores mais potentes, sistemas de resfriamento mais eficientes e equipamentos com maior vida útil. A Diamond Foundry também desenvolve aplicações do material em eletrônica de alta potência, sistemas ópticos, computação quântica e empilhamento de chips. O tamanho de 200 milímetros aproxima o diamante dos formatos usados pelas fábricas, embora sua adoção dependa da capacidade de produzir lâminas com qualidade uniforme e custo competitivo. A empresa pretende ampliar essa produção por meio de um projeto de US$ 2,77 bilhões na Espanha, apoiado pela política europeia de incentivo à fabricação de chips. Martin Roscheisen, CEO da Diamond Foundry, afirmou que o avanço para 200 milímetros torna previsível a fabricação futura de cristais de 300 milímetros, dimensão predominante nas fábricas mais avançadas. A companhia ainda não divulgou um prazo para apresentar essa próxima peça. Mais Lidas",
-      "url": "https://epocanegocios.globo.com/inteligencia-artificial/noticia/2026/11/chips-de-ia-esquentam-cada-vez-mais-a-aposta-para-resfria-los-e-um-diamante-gigante.ghtml",
-      "published": "2026-11-08T11:49:12+00:00",
-      "source": "https://pox.globo.com/rss/epocanegocios",
-      "matched_sectors": [
-        "Joias"
-      ],
-      "matched_aliases": [
-        "diamante"
-      ],
-      "matches": [
-        {
-          "sector": "Joias",
-          "alias": "diamante",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "62342b027f"
-    },
-    {
-      "title": "Quaest: Fim da 6x1 e isenção da cesta básica lideram prioridades de eleitores para Lula 4",
-      "summary": "O fim da escala de trabalho 6x1 e o imposto zero sobre a cesta básica são as promessas de campanha que os brasileiros consideram prioritárias no quarto mandato de Luiz Inácio Lula da Silva (PT), segundo pesquisa Quaest divulgada neste domingo (8). Leia mais (11/08/2026 - 09h00)",
-      "url": "https://www1.folha.uol.com.br/poder/2026/11/quaest-fim-da-6x1-e-isencao-da-cesta-basica-lideram-prioridades-de-eleitores-para-lula-4.shtml",
-      "published": "2026-11-08T12:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "cesta básica"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "cesta básica",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 2,
-      "story": "6e6476d8ad"
-    },
-    {
-      "title": "Não é só o Brasil. Veja outros países que têm imposto do pecado para bebidas e cigarros",
-      "summary": "Não é só o Brasil. Veja outros países que têm imposto do pecado para bebidas e cigarros &nbsp;&nbsp; Exame",
-      "url": "https://exame.com/economia/nao-e-so-o-brasil-veja-outros-paises-que-tem-imposto-do-pecado-para-bebidas-e-cigarros",
-      "published": "2026-11-08T12:01:06+00:00",
-      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "imposto do pecado"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "imposto do pecado",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 2,
-      "story": "54986d1b3a"
-    },
-    {
-      "title": "“Vejo potencial para, no mínimo, 100 lojas no Brasil”, diz presidente global da Skechers",
-      "summary": "Avaliada em US$ 10,5 bilhões e com mais de 5.300 lojas físicas no mundo, a Skechers, decidiu apostar pesado no mercado brasileiro. A meta é chegar a pelo menos 100 unidades, com os primeiros passos dados em São Paulo, no Rio de Janeiro e em Curitiba no radar como terceira praça. Para 2026, estão previstas [&#8230;] O post “Vejo potencial para, no mínimo, 100 lojas no Brasil”, diz presidente global da Skechers apareceu primeiro em Mercado&amp;Consumo .",
-      "url": "https://mercadoeconsumo.com.br/08/11/2026/noticias-varejo/vejo-potencial-para-no-minimo-100-lojas-no-brasil-diz-presidente-global-da-skechers",
-      "published": "2026-11-08T13:30:05+00:00",
-      "source": "https://mercadoeconsumo.com.br/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "skechers"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "skechers",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 10,
-      "story": "21036a8083"
-    },
-    {
-      "title": "Revolut acelera su llegada a Argentina y pone fecha a su debut",
-      "summary": "Revolut acelera su llegada a Argentina y pone fecha a su debut &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/finanzas/73004-revolut-acelera-su-llegada-a-argentina-y-pone-fecha-a-su-debut",
-      "published": "2026-11-08T14:50:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "revolut"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "revolut",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 10,
-      "story": "67d106cbc6"
-    },
-    {
-      "title": "Médicos cobram regras para canetas emagrecedoras diante de risco de anorexia",
-      "summary": "Médicos cobram regras para canetas emagrecedoras diante de risco de anorexia &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrio/2026/11/medicos-cobram-regras-para-canetas-emagrecedoras-diante-de-risco-de-anorexia.shtml",
-      "published": "2026-11-08T15:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "0c391fdc8e"
-    },
-    {
-      "title": "Primeira C&A Energia de Alagoas tem “pagamento com sorriso” e jornada omnicanal",
-      "summary": "A C&#38;A reinaugurou sua loja no Parque Shopping Maceió e levou pela primeira vez à cidade o conceito Energia, modelo que integra experiência, conveniência e conexão entre os canais físico e digital. Com mais de 1.900 m², a unidade é a segunda do Nordeste a receber o novo formato, após a reinauguração da loja do [&#8230;] O post Primeira C&#038;A Energia de Alagoas tem &#8220;pagamento com sorriso&#8221; e jornada omnicanal apareceu primeiro em Mercado&amp;Consumo .",
-      "url": "https://mercadoeconsumo.com.br/08/11/2026/noticias-varejo/primeira-ca-energia-de-alagoas-tem-pagamento-com-sorriso-e-jornada-omnicanal",
-      "published": "2026-11-08T16:00:58+00:00",
-      "source": "https://mercadoeconsumo.com.br/feed/",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "c&a"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "c&a",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 10,
-      "story": "1800965e52"
-    },
-    {
-      "title": "‘Rei da Sucata’, suspeito de lavagem de dinheiro para o tráfico, é preso em shopping de luxo de SP",
-      "summary": "‘Rei da Sucata’, suspeito de lavagem de dinheiro para o tráfico, é preso em shopping de luxo de SP &nbsp;&nbsp; Estadão",
-      "url": "https://www.estadao.com.br/sao-paulo/suspeito-de-lavar-dinheiro-para-organizacao-criminosa-e-preso-em-shopping-de-luxo-de-sp-npr",
-      "published": "2026-11-08T18:40:24+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "f87db6dcee"
-    },
-    {
-      "title": "Turismo 60+: aumento de viajantes idosos exige adaptações do setor hoteleiro",
-      "summary": "Turismo 60+: aumento de viajantes idosos exige adaptações do setor hoteleiro &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/brasil/turismo-60-aumento-de-viajantes-idosos-exige-adaptacoes-do-setor-hoteleiro",
-      "published": "2026-11-08T20:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "setor hoteleiro"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "setor hoteleiro",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "eb50c755c3"
-    },
-    {
-      "title": "Artesãs acusam Havaianas de usar nome de bordado tradicional sem autorização",
-      "summary": "Uma cooperativa de artesãs e a associação dos moradores da Ilha do Ferro, povoado localizado no município de Pão de Açúcar (230 km de Maceió ), acusam a Havaianas de usar indevidamente o nome de um bordado tradicional da comunidade para promover um produto que, segundo as entidades, não representa a produção artesanal local. Leia mais (11/08/2026 - 18h05)",
-      "url": "https://c-level.folha.uol.com.br/negocios/2026/11/artesas-acusam-havaianas-de-usar-nome-de-bordado-tradicional-sem-autorizacao.shtml",
-      "published": "2026-11-08T21:05:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Wellness e Esportes"
-      ],
-      "matched_aliases": [
-        "havaianas"
-      ],
-      "matches": [
-        {
-          "sector": "Wellness e Esportes",
-          "alias": "havaianas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "eba24dfa71"
-    },
-    {
-      "title": "De 'TV cinema' a poltrona de designer: leilão de objetos de luxo do Master vai até esta segunda-feira; veja fotos",
-      "summary": "Interessados nos 445 lotes com mobiliário corporativo, equipamentos eletrônicos, eletrodomésticos e peças de decoração que pertenciam ao Banco Master e à Will Financeira, instituições financeiras em liquidação extrajudicial, têm até esta segunda-feira para fazer seus lances. 'Vorcaro paraguaio': Triatleta de 36 anos, quem é Miguel Vázquez, fundador do Ueno Privacidade: Fundo Garantidor de Créditos é alvo de invasão e dados de clientes são acessados irregularmente A disputa acontece pela internet e tem encerramento previsto para a partir das 9h30. Os bens estão armazenados em um galpão em Taboão da Serra, na Região Metropolitana de São Paulo, e os valores iniciais variam de R$ 21 a R$ 98 mil. O pregão, conduzido pela leiloeira Alessandra Cavalcanti Antunes pela plataforma digital Kwara, registra disputas acirradas por alguns dos itens colocados à venda. Um lote com quatro notebooks Dell, inicialmente oferecido por R$ 672, alcançou R$ 4.552, uma valorização de aproximadamente 577%. Uma poltrona assinada pelo designer Sergio Rodrigues também atraiu interessados: o lance passou de R$ 5.600 para R$ 10.860, alta de 94%. Entre os itens que mais despertam interesse estão as cadeiras da Herman Miller, marca americana conhecida pelo design ergonômico e pela presença em escritórios de alto padrão. Um dos lotes mais disputados reúne duas cadeiras do modelo Aeron. A oferta atual chegou a R$ 11.440, com 278 lances registrados. Outro conjunto, com uma única cadeira do mesmo modelo, alcançou R$ 5.460, depois de receber 124 ofertas. A movimentação também chama atenção pelo número de interessados. Um lote com aproximadamente 10 cadeiras Verus Interwave, também da Herman Miller, acumulava 480 lances, com valor atual de R$ 25.060. Já outro conjunto, com cerca de 25 unidades do mesmo modelo, chegou a R$ 43.670, após 331 ofertas. Impacto no bolso: Reajustes nas escolas privadas em 2027 chegam a dois dígitos. Veja quais são os percentuais Nem todos os produtos, porém, registram a mesma intensidade de disputa. A televisão LG de 98 polegadas, por exemplo, passou de R$ 10.990 para R$ 12.490, uma alta de aproximadamente 13,6%, com 74 lances. O lote com cerca de 20 cadeiras Cosm Média, da Herman Miller, permanece praticamente no valor inicial de R$ 98 mil. Peças de design e equipamentos de escritório Além dos móveis corporativos, o catálogo reúne peças de marcas conhecidas do mercado de decoração. Entre elas está a poltrona Tetê, assinada pelo designer brasileiro Sergio Rodrigues, cujo lance atual alcançou R$ 10.860, ante os R$ 5.600 iniciais. Cadeira Herman Miller de leilão do Banco Master Reprodução / Kwara Há ainda estações de trabalho para diferentes capacidades, cadeiras de escritório de outras fabricantes, sofás, televisores e equipamentos de informática. Um conjunto com 10 posições de trabalho, por exemplo, aparece com lance de R$ 5.050, enquanto outro mobiliário corporativo semelhante está avaliado em R$ 4.820. VA e VR: O que muda para os 22 milhões de brasileiros que têm direito ao benefício? De acordo com as regras do pregão, o comprador deve pagar uma comissão de 5% à leiloeira oficial, além de despesas administrativas calculadas conforme o valor do lote. Estação de trabalho de 10 lugares em leilão do Banco Master Reprodução / Kwara O edital também prevê que os produtos podem apresentar avarias, sinais de desgaste, ausência de peças e até bloqueios eletrônicos. A desmontagem, o transporte e a retirada dos itens ficam sob responsabilidade dos arrematantes. Após a aprovação da oferta pela vendedora, o pagamento deve ser realizado em até um dia útil. Custos adicionais e condições dos bens Os arrematantes devem atentar para os custos que incidem sobre o valor final de batida do martelo. De acordo com o edital do leilão, além do montante do lance, é cobrada comissão obrigatória de 5% destinada à leiloeira oficial, somada a taxas de despesas administrativas calculadas em tabela progressiva por lote. Para itens arrematados na faixa de R$ 85 mil a R$ 99.999,99, por exemplo, a taxa administrativa alcança R$ 10.915. Crise do Ueno: Como funciona o Fundo de Garantia de Depósitos do Paraguai; entenda O documento estipula que todos os ativos são vendidos no estado de conservação em que se encontram, sem garantia de funcionamento ou possibilidade de troca, podendo conter avarias, sinais de desgaste, peças faltantes ou bloqueios eletrônicos de senha. Interessados podem realizar visitação prévia aos lotes mediante agendamento no site, sendo vetada a entrada no local com mochilas, bolsas e sacolas. Prazos e regras de participação Para ingressar na disputa, os usuários precisam estar cadastrados e habilitados no portal com antecedência mínima de uma hora do início do encerramento dos lotes. O incremento mínimo de oferta é de R$ 20 por lance, e a plataforma permite programar lances automáticos com limites pré-definidos. Após a eventual homologação das ofertas pela comitente vendedora, o arrematante tem o prazo de até um dia útil para efetuar o pagamento integral (lance, comissão e taxas) por meio de Pix (QR Code) ou créditos concedidos pela plataforma. Caso o pagamento não ocorra em até dois dias úteis, incide multa de 5% da comissão mais 30% sobre o valor da proposta por desistência. A desmontagem, transporte, frete e contratação de mão de obra para a retirada dos bens correm exclusivamente por conta do comprador. Origem dos bens: colapso financeiro A liquidação do patrimônio do Banco Master ocorre após a decretação de liquidação extrajudicial pelo Banco Central (BC), em novembro de 2025. A instituição financeira, controlada por Daniel Vorcaro, teve as atividades encerradas após a apuração de irregularidades operacionais, sobretudo na oferta de Certificados de Depósito Bancário (CDBs) com rentabilidade fora dos parâmetros de mercado e incapacidade de saldar compromissos no vencimento.",
-      "url": "https://oglobo.globo.com/economia/noticia/2026/11/09/de-tv-cinema-a-poltrona-de-designer-leilao-de-objetos-de-luxo-do-master-vai-ate-esta-segunda-feira-veja-fotos.ghtml",
-      "published": "2026-11-09T03:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 2,
-      "story": "9c019f47e3"
-    },
-    {
-      "title": "Aposentadoria e salário mínimo: o brasileiro consegue comprar mais do que há 20 anos?",
-      "summary": "Reajustes acima da inflação elevaram o poder de compra, mas custo de vida e sustentabilidade da Previdência seguem como desafios",
-      "url": "https://exame.com/invest/minhas-financas/aposentadoria-e-salario-minimo-o-brasileiro-consegue-comprar-mais-do-que-ha-20-anos",
-      "published": "2026-11-09T06:00:07+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "salário mínimo"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "salário mínimo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 1,
-      "story": "a0b508790a"
-    },
-    {
-      "title": "Demanda por galpões aumenta e vacância cai à mínima histórica; veja maiores ocupantes",
-      "summary": "",
-      "url": "https://www.estadao.com.br/economia/negocios/demanda-por-galpoes-aumenta-e-vacancia-cai-a-minima-historica-veja-maiores-ocupantes",
-      "published": "2026-11-09T08:30:00+00:00",
-      "source": "https://www.estadao.com.br/arc/outboundfeeds/feeds/rss/sections/economia/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "galpões"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "galpões",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 2,
-      "story": "39850e064b"
-    },
-    {
-      "title": "Fux suspende processos contra proibição das bets até decisão do STF; entenda o que muda",
-      "summary": "Ministro atendeu a pedido da PGR para impedir decisões judiciais divergentes sobre medida provisória do governo Lula que proibiu apostas no Brasil",
-      "url": "https://exame.com/brasil/fux-suspende-processos-contra-proibicao-das-bets-ate-decisao-do-stf-entenda-o-que-muda",
-      "published": "2026-11-09T08:34:48+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "bets"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "bets",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 1,
-      "story": "8dfc5d8720"
     },
     {
       "title": "Mulheres conquistam autonomia financeira e autoestima em cursos de construção civil",
@@ -8187,7 +7632,7 @@
       ],
       "score": 20.0,
       "rank": 2,
-      "story": "8dfc5d8720"
+      "story": "973595ea6b"
     },
     {
       "title": "Cooperativa de bordadeiras da Ilha do Ferro divulga nota de repúdio a Havaianas",
@@ -8262,7 +7707,7 @@
       ],
       "score": 20.0,
       "rank": 4,
-      "story": "8dfc5d8720"
+      "story": "973595ea6b"
     },
     {
       "title": "Canetas emagrecedoras podem aumentar a longevidade? Estudos investigam",
@@ -11761,7 +11206,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "7ebbdaf8db"
     },
     {
@@ -11786,7 +11231,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "87c3ce2522"
     },
     {
@@ -11836,7 +11281,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "687c40538d"
     },
     {
@@ -11886,7 +11331,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "49bf5185c5"
     },
     {
@@ -11986,7 +11431,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "5b47bfaee7"
     },
     {
@@ -12011,7 +11456,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "5614f00d2e"
     },
     {
@@ -12036,7 +11481,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "84bc0b34be"
     },
     {
@@ -12061,7 +11506,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "4e6b9d2a7c"
     },
     {
@@ -12086,7 +11531,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "480045de03"
     },
     {
@@ -12111,7 +11556,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "66f3b57f7b"
     },
     {
@@ -12136,7 +11581,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "497f4043bf"
     },
     {
@@ -12161,7 +11606,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "cf8e962cf6"
     },
     {
@@ -12186,7 +11631,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "98201cc6f6"
     },
     {
@@ -12211,7 +11656,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "f18010d389"
     },
     {
@@ -12236,7 +11681,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "ac574fed36"
     },
     {
@@ -12261,7 +11706,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "f48837370f"
     },
     {
@@ -12286,7 +11731,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "28d6f913dd"
     },
     {
@@ -12311,7 +11756,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "cc75603a72"
     },
     {
@@ -12336,7 +11781,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "97fb1b497d"
     },
     {
@@ -12361,7 +11806,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "c9a55ae498"
     },
     {
@@ -12386,7 +11831,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "6e4cf68bd4"
     },
     {
@@ -12411,7 +11856,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "28d6f913dd"
     },
     {
@@ -12436,7 +11881,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "f9ef645f5d"
     },
     {
@@ -12461,7 +11906,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "4e42f11379"
     },
     {
@@ -12486,7 +11931,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "916296bc09"
     },
     {
@@ -12511,7 +11956,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 13,
+      "rank": 10,
       "story": "748e50d463"
     },
     {
@@ -12536,7 +11981,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "86e512e083"
     },
     {
@@ -12561,7 +12006,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "5d863e9c05"
     },
     {
@@ -12586,7 +12031,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 10,
       "story": "62d9b41c47"
     },
     {
@@ -12611,7 +12056,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "2cecee73e2"
     },
     {
@@ -12636,7 +12081,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 10,
       "story": "a5e8632030"
     },
     {
@@ -12661,7 +12106,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 10,
       "story": "c24afc3541"
     },
     {
@@ -12686,7 +12131,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 10,
       "story": "9e99c1a532"
     },
     {
@@ -12711,7 +12156,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "f02a2208cd"
     },
     {
@@ -12736,7 +12181,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 10,
       "story": "28d6f913dd"
     },
     {
@@ -12761,7 +12206,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 10,
       "story": "5f940917c7"
     },
     {
@@ -12811,7 +12256,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "19402a279e"
     },
     {
@@ -12836,7 +12281,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 10,
       "story": "01b5d362c6"
     },
     {
@@ -12861,7 +12306,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "efa28fc08e"
     },
     {
@@ -12886,7 +12331,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "0d399853b0"
     },
     {
@@ -12911,7 +12356,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 16,
+      "rank": 10,
       "story": "f504a117d0"
     },
     {
@@ -12936,7 +12381,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "49f7f9e45a"
     },
     {
@@ -12986,7 +12431,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "0d0f031dc0"
     },
     {
@@ -13011,7 +12456,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "16a51684f9"
     },
     {
@@ -13036,7 +12481,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "2bd0bb26bb"
     },
     {
@@ -13061,7 +12506,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "1ea23b7536"
     },
     {
@@ -13086,7 +12531,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 16,
+      "rank": 11,
       "story": "77c6c98128"
     },
     {
@@ -13111,7 +12556,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 16,
+      "rank": 11,
       "story": "89518d7521"
     },
     {
@@ -13136,7 +12581,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 16,
+      "rank": 11,
       "story": "2b143716b1"
     },
     {
@@ -13161,7 +12606,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "32522d162a"
     },
     {
@@ -13186,7 +12631,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 16,
+      "rank": 11,
       "story": "73bda57442"
     },
     {
@@ -13211,7 +12656,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 11,
       "story": "8c2c55e65c"
     },
     {
@@ -13236,7 +12681,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 4,
+      "rank": 3,
       "story": "2d5b283e58"
     },
     {
@@ -13261,7 +12706,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 11,
       "story": "b9ec1525a8"
     },
     {
@@ -13286,7 +12731,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 11,
       "story": "bfcd607b44"
     },
     {
@@ -13311,7 +12756,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 5,
       "story": "a1c9033d15"
     },
     {
@@ -13336,7 +12781,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 5,
       "story": "73427541e1"
     },
     {
@@ -13361,7 +12806,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 5,
       "story": "9e300f1b60"
     },
     {
@@ -13386,7 +12831,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 5,
       "story": "7a8a5ee4b1"
     },
     {
@@ -13411,7 +12856,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 12,
       "story": "77c6c98128"
     },
     {
@@ -13436,7 +12881,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 12,
       "story": "366d01f910"
     },
     {
@@ -13461,7 +12906,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 9,
+      "rank": 6,
       "story": "3841d3897d"
     },
     {
@@ -13486,7 +12931,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 12,
       "story": "4d86c648e8"
     },
     {
@@ -13511,7 +12956,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 12,
       "story": "366d01f910"
     },
     {
@@ -13536,7 +12981,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 12,
       "story": "366d01f910"
     },
     {
@@ -13561,7 +13006,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 12,
       "story": "366d01f910"
     },
     {
@@ -13586,7 +13031,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 3,
       "story": "29e1a69ba9"
     },
     {
@@ -13611,7 +13056,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 4,
+      "rank": 2,
       "story": "33d29214fc"
     },
     {
@@ -13636,7 +13081,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "05243b72a7"
     },
     {
@@ -13661,7 +13106,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 23,
+      "rank": 16,
       "story": "a0908c5147"
     },
     {
@@ -13686,7 +13131,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 7,
       "story": "61a14cda88"
     },
     {
@@ -13711,7 +13156,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 3,
       "story": "8195ca5f6e"
     },
     {
@@ -13736,7 +13181,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 9,
       "story": "b45b22bfa5"
     },
     {
@@ -13761,7 +13206,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 9,
       "story": "c7b8db8e2f"
     },
     {
@@ -13786,7 +13231,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 9,
       "story": "f83e5885db"
     },
     {
@@ -13811,41 +13256,258 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "179e57a5d9"
     },
     {
-      "title": "‘O CEO que não domina a agenda é um resolvedor de problemas’",
-      "summary": "Rafaela Rezende: “O papel da liderança é gerar um novo problema, colocar na mesa algo que ninguém esteja enxergando” Ana Paula Paiva/Valor “Não é possível ter sucesso fazendo algo de que a gente não gosta”. A frase até podia estar emoldurada em um quadrinho do escritório de Rafaela Rezende, CEO da plataforma digital de turismo Decolar, mas ganha força própria diante dos movimentos de carreira que a executiva desenhou nos últimos anos. Administradora formada pela Pontifícia Universidade Católica do Rio de Janeiro (PUC-Rio), ela começou nas Americanas, no setor de bebês e brinquedos. Ao longo de sete anos, viu muitos colegas deixando a empresa, atraídos por salários maiores - mas ela decidiu ficar. Virou gerente de produto na varejista, fez um MBA em marketing e no fim de 2011 sentiu que era hora de encarar novos desafios. Deixou a capital fluminense e mudou-se para São Paulo, onde ingressou na Ricardo Eletro com a missão de ajudar a construir a área digital da companhia como diretora de marketplace. A experiência durou oito anos e abriu horizontes para a gestora, atenta à evolução do mundo on-line. Foi quando resolveu sair do varejo, campo que já dominava havia mais de 12 anos, para se aprofundar no setor. Assumiu como head comercial do iFood, mas logo depois já estava na VTEX Brasil, plataforma global de e-commerce B2B e B2C (negócios entre empresas e para consumidores, respectivamente), onde chegou a ser CEO entre 2023 e 2026. Em maio deste ano, foi convidada para liderar a operação brasileira da Decolar, marca do grupo Prosus, também controlador do iFood. No novo posto, uma de suas tarefas é triplicar o tamanho da empresa até 2030 e superar a marca de US$ 1 bilhão em receita, no próximo ano fiscal. “Tenho um compromisso muito forte com a minha felicidade”, diz ela para Stela Campos, editora de Carreira do Valor, e Thiago Barbosa, gerente de produtos digitais da CBN, no podcast “CBN Professional”. E toda vez que algo não estiver funcionando, vai buscar uma mudança, destaca. “Foi isso o que aconteceu em todos os movimentos da minha carreira. Nunca foi uma decisão por dinheiro ou unilateral. Mas sempre na linha de ‘isso aqui não está dando certo para mim’ e possivelmente não funciona mais para a empresa.” Ela diz que largar uma companhia não é algo fácil de fazer. “É um processo de luto. Até tomar a decisão [de mudar de emprego], vivo um luto de seis meses, um ano. Quando saí da VTEX, por exemplo, foi um luto de um ano, comigo mesma”, lembra ela sobre a empresa em que atuou por mais de cinco anos. “Mas precisamos ser honestos nessa relação [com o empregador] e fazer o que precisa ser feito, por mais duro que seja.” Rezende conta que as experiências que viveu em postos de decisão lhe ensinaram, e continuam mostrando, aspectos decisivos sobre gestão do tempo, prioridades e riscos. É preciso tomar conta da própria agenda, aconselha. “O CEO que não domina a sua agenda é um gestor tomado pelas demandas do time”, assinala. “Não é um gestor que lidera, mas um ‘resolvedor’ de problemas. E o papel da liderança não é resolver, mas gerar um novo problema, colocar na mesa algo que ninguém esteja enxergando.” A executiva também defende o acesso ao “tempo livre” como um método eficaz para trabalhar mais e melhor. “É o tempo do ócio, o tempo criativo”, explica. Uma ideia genial não nasce de uma reunião de hora marcada para discutir um assunto, continua. “A criatividade, às vezes, vem quando você toma um vinho com alguém, vê um filme ou quando não está fazendo ‘nada’”, conta Rezende. Na busca de valorizar todos os minutos do dia, a CEO se disciplina até para escolher melhor os compromissos corporativos aos quais precisa comparecer. As primeiras perguntas que me faço são: “esse evento tem relação com a minha área, quem são as pessoas que vou encontrar lá, elas podem agregar alguma coisa, eu poderei agregar algo para elas?”, enumera, destacando que é um erro considerar apenas as vantagens de curto prazo de um encontro profissional. “Esse ganho pode vir seis meses, um ano, muito tempo depois”, avalia. “Alguém que você acaba conhecendo, numa conversa que não era direcionada para um objetivo, pode virar uma oportunidade de negócios mais adiante.” Outro hábito usado por Rezende para dinamizar a rotina de responsabilidades é limitar o espaço do WhatsApp, que funciona no seu celular com as notificações desativadas. “Mensagens me deixam ansiosa”, justifica. “[Os avisos] tiravam minha concentração em reuniões importantes. Mesmo que você não responda algo na hora, aquilo fica na sua cabeça.” A resolução tem dado bons resultados, garante. “Se eu ‘sumo’ por algumas horas, muitos problemas que as pessoas acham que precisam de mim para solucionar são magicamente resolvidos”, atesta. “Inclusive, eu trabalho para que não precisem de mim [o tempo todo].” Ela acredita que essas pequenas atitudes podem se transformar em alavancas para uma gestão de equipes mais potente. “Dou espaço para as pessoas tomarem riscos controlados, errarem, terem autonomia para decisões”, argumenta. “Erros vão acontecer e fazem parte do crescimento profissional.” Rezende afirma que não se constrói “algo extraordinário” na profissão buscando somente o êxito. “Não é sobre acertar sempre ou quantas vezes você acerta”, orienta. “É sobre a quantidade de vezes que tentamos, a capacidade de aprender rápido com as tentativas e ainda conseguir mudar de rota.” No episódio completo do podcast, disponível no site da CBN, nos streamings Spotify e Apple Podcast e nos canais do YouTube do Valor e da CBN, ela também fala sobre a sinergia de negócios estabelecida entre a Decolar e o iFood, e da relação que mantém com o tio, o treinador de vôlei e palestrante da área de liderança Bernardinho.",
-      "url": "https://valor.globo.com/carreira/noticia/2026/11/09/o-ceo-que-nao-domina-a-agenda-e-um-resolvedor-de-problemas.ghtml",
-      "published": "2026-11-09T08:00:01+00:00",
-      "source": "https://pox.globo.com/rss/valor",
+      "title": "Grupo Mateus vê varejo no Nordeste acelerar: 'Mercado dá sinais de melhora', diz CEO",
+      "summary": "Grupo Mateus vê varejo no Nordeste acelerar: 'Mercado dá sinais de melhora', diz CEO &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/invest/mercados/grupo-mateus-ve-varejo-no-nordeste-acelerar-mercado-da-sinais-de-melhora-diz-ceo",
+      "published": "2026-11-15T12:01:43+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Varejo Alimentar"
+      ],
+      "matched_aliases": [
+        "grupo mateus"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "grupo mateus",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 23,
+      "story": "c69a7968d7"
+    },
+    {
+      "title": "Nubank operará como banco en Brasil y apunta a más mercados",
+      "summary": "Nubank operará como banco en Brasil y apunta a más mercados &nbsp;&nbsp; iProUP",
+      "url": "https://www.iproup.com/finanzas/73157-nubank-operara-como-banco-en-brasil-y-apunta-a-mas-mercados",
+      "published": "2026-11-15T13:52:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "nubank"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "nubank",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 24,
+      "story": "91dc4c1c78"
+    },
+    {
+      "title": "Renner volta aos palcos com tributo a Rick, no dia em que o parceiro faria aniversário",
+      "summary": "Renner volta aos palcos com tributo a Rick, no dia em que o parceiro faria aniversário &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/ilustrada/2026/11/renner-volta-aos-palcos-com-tributo-a-rick-no-dia-em-que-o-parceiro-faria-aniversario.shtml",
+      "published": "2026-11-15T15:20:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "renner"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 25,
+      "story": "58d3d69b3d"
+    },
+    {
+      "title": "Adolescente é apreendido ao tentar furtar joalheria no Shopping Anália Franco, em SP",
+      "summary": "Adolescente é apreendido ao tentar furtar joalheria no Shopping Anália Franco, em SP &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/cotidiano/2026/11/adolescente-e-apreendido-sob-suspeita-de-tentar-furtar-joalheria-no-shopping-analia-franco-em-sp.shtml",
+      "published": "2026-11-15T18:32:00+00:00",
+      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Joias"
+      ],
+      "matched_aliases": [
+        "joalheria"
+      ],
+      "matches": [
+        {
+          "sector": "Joias",
+          "alias": "joalheria",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 11,
+      "story": "c8af906a9b"
+    },
+    {
+      "title": "Correios têm prejuízo de R$ 1,9 bilhão no terceiro trimestre, alta de 19% em um ano",
+      "summary": "Os Correios registraram prejuízo de R$ 1,9 bilhão no terceiro trimestre deste ano, segundo o balanço contábil da estatal divulgado neste domingo. O resultado é 19% pior que o do mesmo período de 2025, quando as perdas somaram R$ 1,6 bilhão. No acumulado de janeiro a setembro, o prejuízo chega a R$ 7,5 bilhões, alta de 27% em relação aos R$ 5,9 bilhões dos nove primeiros meses do ano passado. Os números de 2025 foram revisados pela empresa no balanço. Os Correios registram prejuízo anual desde 2022. No ano passado, a estatal acumulou um resultado negativo de R$ 8,5 bilhões. A estatal afirma, no entanto, que o prejuízo do terceiro trimestre foi R$ 272 milhões menor do que o esperado. “Os indicadores de receitas e despesas mostram que os resultados seguem em linha com o planejamento para 2026. A receita total alcançou R$ 13,204 bilhões, dentro da meta estabelecida, enquanto as despesas totais somaram R$ 20,688 bilhões, ficando 1,2% abaixo do valor planejado”, diz em nota. A empresa reconhece que enfrenta dificuldades financeiras, mas afirma que a atual gestão tem avançado na execução do plano de reestruturação dos Correios. Segundo a estatal, um dos fatores que contribuíram para o aumento das despesas foi o gasto com processos judiciais, que cresceu R$ 250 milhões nos nove primeiros meses de 2026, em comparação com o mesmo período do ano passado. Nos nove primeiros meses do ano, os Correios também gastaram R$ 2,5 bilhões com juros e outros encargos financeiros, principalmente de empréstimos contratados pela empresa. Parte desse valor foi compensada por receitas financeiras de R$ 826 milhões, como rendimentos de aplicações e outras operações financeiras. Pelo lado das receitas, os Correios arrecadaram R$ 11,7 bilhões com seus serviços e vendas nos nove primeiros meses de 2026, uma queda de 5,3% em relação ao mesmo período do ano passado, quando esse valor chegou a R$ 12,4 bilhões. A redução ocorreu principalmente pela queda no faturamento com entregas internacionais e encomendas. O relatório informa que, entre janeiro e setembro de 2026, em comparação com o mesmo período de 2025: Postagens internacionais: queda de R$ 584,4 milhões. Encomendas: queda de R$ 216,1 milhões. Demais serviços: aumento de R$ 177,5 milhões, compensando parcialmente as perdas. Plano de reestruturação Os Correios enfrentam uma crise financeira marcada por sucessivos prejuízos e queda nas receitas. Para tentar recuperar as contas, a estatal anunciou, no fim do ano passado, um plano de reestruturação que inclui redução de despesas, programas de demissão voluntária (PDV), fechamento de agências, venda de imóveis e renegociação de contratos. A previsão inicial era de desligar até 15 mil funcionários e fechar mil unidades. Como parte desse processo, a empresa contratou, em dezembro de 2025, um empréstimo de R$ 12 bilhões com um grupo de cinco bancos, entre eles Banco do Brasil, Caixa Econômica Federal e Bradesco. A operação contou com garantia do Tesouro Nacional, o que significa que o governo federal poderá ter que arcar com a dívida caso a estatal não consiga pagar os valores devidos. O governo prevê, no projeto de Orçamento de 2027, um aporte de R$ 6 bilhões nos Correios. A injeção de recursos públicos é uma exigência do contrato de empréstimo firmado no ano passado e deverá ocorrer até o fim de 2027. Em outubro deste ano, os Correios contrataram um novo empréstimo de R$ 7 bilhões com quatro bancos privados, também com garantia da União. Com isso, os financiamentos contratados pela estatal desde o fim de 2025 chegaram a R$ 19 bilhões, destinados a reforçar o caixa e financiar a reestruturação da empresa.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/11/15/correios-tem-prejuizo-de-r-19-bilhao-no-terceiro-trimestre.ghtml",
+      "published": "2026-11-15T20:11:48+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "correios"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "correios",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 12,
+      "story": "2c10cffea2"
+    },
+    {
+      "title": "Correios registram prejuízo de R$ 1,931 bi no terceiro trimestre, atingindo R$ 7,484 bi no acumulado até setembro",
+      "summary": "Os Correios registraram um prejuízo líquido de R$ 1,931 bilhão no terceiro trimestre do ano, o que corresponde a um aumento de 18,83% em relação ao mesmo período do ano passado. Com esse resultado, a empresa acumulou um resultado negativo de R$ 7,484 bilhões, ante R$ 5,885 bilhões no mesmo período de 2025. Apesar do aumento, a empresa destaca que o resultado está alinhado ao planejamento econômico financeiro. Segundo informações divulgadas pelos Correios, apesar dos desafios estruturais, a companhia apresentou um prejuízo no acumulado do ano inferior ao previsto e teve \"desempenho favorável em indicadores relevantes, mantendo o foco na execução do plano de reestruturação\". A receita líquida de vendas e serviços tiveram queda tanto no resultado do terceiro trimestre quanto no ano na comparação com o ano anterior. No trimestre, a receita líquida de vendas e serviços caiu 8,1%, para R$ 3,83 bilhões e no ano recuou 5,33% pra R$ 11,697 bilhões. O custo dos produtos vendidos e dos serviços prestados até que teve uma leve redução, mas insuficiente para compensar a perda de receita. No terceiro trimestre, esse custo ficou praticamente estável ao cair 0,08% em relação ao mesmo período de 2025 e atingir R$ 3,738 bilhões. Já em nove meses, apurou uma queda de 3,12%, totalizando R$ 11,329 bilhões. Somente as despesas financeiras subiram 75% no período, para R$ 740,5 milhões. No acumulado do ano, passaram de R$ 1,1 bilhão para R$ 2,5 bilhões. \" Os indicadores de receitas e despesas mostram que os resultados seguem em linha com o planejamento para 2026. A receita total alcançou R$ 13,204 bilhões [em nove meses], dentro da meta estabelecida, enquanto as despesas totais somaram R$ 20,688 bilhões [em nove meses], ficando 1,2% abaixo do valor planejado\", destacaram os Correios. Segundo os Correios, a evolução das despesas no ano reflete a alta de R$ 250 milhões com passivos judiciais nos primeiros nove meses de 2026, em comparação com o mesmo período de 2025. \"Ainda assim, a execução das despesas totais permaneceu abaixo do planejado, contribuindo para que o resultado acumulado apresentasse desempenho superior à meta estabelecida\" destacou. O balanço do terceiro trimestre mostra ainda que o resultado operacional também apresentou desempenho superior ao previsto, com saldo negativo de R$ 5,797 bilhões, ante uma projeção negativa de R$ 6,205 bilhões, diferença favorável de R$ 408 milhões (6,6%). Em 30 de setembro de 2026, os Correios registraram ativo total de R$ 18,683 bilhões e patrimônio líquido negativo de R$ 21,830 bilhões. Carro de entrega dos Correios em frente ao edifício sede da estatal, em Brasília Valter Campanato/Agência Brasil \" A reorganização do perfil de vencimento das obrigações, com o alongamento de parte dos compromissos para o longo prazo, contribuiu para a melhoria dos indicadores de liquidez corrente e para a redução do déficit de capital circulante líquido. Essa evolução representa um avanço na administração do perfil das obrigações, favorecendo a gestão financeira e proporcionando melhores condições para a execução das medidas previstas no Plano de Reestruturação\", informou a empresa. Os Correios passam por um processo de reestruturação financeira e operacional. Em 2025, a empresa contratou R$ 12 bilhões em empréstimos com garantia da União junto a um sindicato formado por Banco do Brasil, Caixa, Bradesco, Itaú e Santander. A concessão da garantia foi condicionada à implementação de um plano para recuperar a sustentabilidade financeira da companhia. Em outubro, o Ministério da Fazenda aprovou a garantia da União para o empréstimo de R$ 7 bilhões dos Correios, para viabilizar a assinatura de contrato com o consórcio de quatro bancos privados - Banco ABC, Citibank, Deutsche Bank e J.P. O empréstimo de R$ 7 bilhões complementa o financiamento de R$ 12 bilhões contratado em 2025. A necessidade total de financiamento, inicialmente estimada em R$ 20 bilhões, foi reduzida para R$ 19 bilhões diante da evolução das medidas implantadas pela estatal. No ano passado, a operação de R$ 12 bilhões também teve garantia da União. (Colaborou Giordanna Neves)",
+      "url": "https://valor.globo.com/brasil/noticia/2026/11/15/correios-tm-prejuzo-de-r-19-bilho-no-terceiro-trimestre.ghtml",
+      "published": "2026-11-15T21:02:40+00:00",
+      "source": "https://pox.globo.com/rss/valor/brasil",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "correios"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "correios",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 12,
+      "story": "f063986eb5"
+    },
+    {
+      "title": "Fim da escala 6x1: governo deve publicar nesta semana decreto com regulamentação",
+      "summary": "O governo deve publicar nesta semana o decreto que regulamenta o fim da escala 6x1. O texto vai seguir a linha da decisão liminar do ministro Flávio Dino, do Supremo Tribunal Federal (STF), sobre a transição para a nova jornada. A liminar, no entanto, está sem data para ser analisada pelos demais ministros. No sábado, o ministro Luiz Fux pediu destaque e interrompeu o julgamento no plenário virtual da Corte, que já tinha quatro votos para confirmar a decisão. Caberá ao presidente do STF, Edson Fachin, marcar quando o caso será julgado. Fim da escala 6x1: Dino diz que negociação coletiva é 'melhor caminho' para transição da nova jornada Comparação internacional: Você trabalha mais ou menos do que a média no Brasil? E no mundo? Confira Segundo um integrante do governo, a decisão de Dino respondeu às principais dúvidas do Executivo sobre a regulamentação, e o decreto vai precisar de poucos ajustes. De acordo com esse técnico, a liminar deixou claros quatro pontos que vão orientar o decreto: a neutralidade salarial, o início da transição, a possibilidade de compensar o descanso depois do mês e a adoção de escalas diferenciadas a depender da função. Pratos limpos ou sujos: a nova etiqueta do Airbnb que está causando polêmica entre hóspedes Na decisão, tomada na quinta-feira, Dino manteve para 16 de dezembro o início da escala 5x2 (cinco dias de trabalho e dois de descanso), com redução da jornada máxima de 44 para 42 horas semanais. O ministro determinou que a mudança não pode levar nem a redução nem a aumento de salário. Também permitiu que as 42 horas sejam distribuídas em cinco dias de 8 horas e 24 minutos e afastou os limites semanais e mensais para a compensação das folgas. Por fim, deu 90 dias, contados a partir de 16 de dezembro, para que sindicatos e empregadores renegociem os acordos coletivos. Fora da nova regra: Quem ganha acima de R$ 21 mil não terá controle de jornada; veja o que diz PEC Como O GLOBO mostrou, o decreto vai trazer tabelas com os divisores usados para calcular o valor da hora trabalhada, tanto para mensalistas quanto para horistas. No caso do mensalista, o divisor cai de 220 para 210 com a jornada de 42 horas, e para 200 quando ela chegar a 40 horas, em dezembro de 2027. Assim, o salário do mês fica igual, e a hora passa a valer mais. O texto também deve prever que os acordos possam ser firmados por confederações nacionais, federações e sindicatos, e que só as cláusulas sobre jornada e escala precisem ser renegociadas. Técnicos do Ministério do Trabalho e Emprego (MTE) e da Casa Civil se reúnem nesta segunda-feira para fechar os ajustes finais. O presidente Luiz Inácio Lula da Silva, que volta de viagem à Turquia e às Filipinas, pretende assinar o decreto em um evento no Planalto. No STF, o pedido de destaque de Fux tira o processo do plenário virtual, ambiente em que os ministros registram os votos eletronicamente, sem sessão. A análise passa para uma sessão presencial. Com isso, os votos já dados deixam de valer e o julgamento recomeça do zero. Antes da interrupção, Alexandre de Moraes, Cármen Lúcia e Gilmar Mendes tinham acompanhado integralmente o relator. A votação virtual terminaria nesta segunda-feira. As ações em análise foram apresentadas pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) e pela Confederação Nacional da Indústria (CNI). As duas alegam dificuldade para reorganizar escalas e renegociar contratos nos prazos fixados. A Câmara dos Deputados também se manifestou no processo e pediu a derrubada de parte das regras de Dino. Entre elas estão a jornada de 8 horas e 24 minutos sem negociação coletiva e a possibilidade de o governo editar regras temporárias de compensação das folgas caso não haja acordo. O destaque não suspende a liminar, que continua valendo até uma nova decisão do plenário. Fica mantido, portanto, o início da escala 5x2 em 16 de dezembro. Ainda não há data para o julgamento presencial.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/11/16/fim-da-escala-6x1-governo-deve-publicar-nesta-semana-decreto-com-regulamentacao.ghtml",
+      "published": "2026-11-16T03:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0,
+      "rank": 13,
+      "story": "373ccf0724"
+    },
+    {
+      "title": "Canetas emagrecedoras mudam hábitos à mesa e transformam a relação com a comida",
+      "summary": "Canetas emagrecedoras mudam hábitos à mesa e transformam a relação com a comida &nbsp;&nbsp; O GLOBO",
+      "url": "https://oglobo.globo.com/ela/noticia/2026/11/16/canetas-emagrecedoras-mudam-habitos-a-mesa-e-transformam-a-relacao-com-a-comida.ghtml",
+      "published": "2026-11-16T06:30:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:oglobo.globo.com&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 14,
+      "story": "a89631d829"
+    },
+    {
+      "title": "Sofitel Ipanema abre em dezembro: ‘ainda há espaço para a hotelaria do Rio crescer’, diz gerente geral do hotel",
+      "summary": "Com o savoir-faire francês e os olhos voltados para o futuro da hotelaria de luxo carioca, o Sofitel prepara seu retorno ao Rio, com investimento de meio bilhão de reais. Após encerrar a operação na cidade em 2019, a marca do grupo francês Accor inaugura em dezembro o Sofitel Ipanema — no edifício do antigo Caesar Park —, sua primeira flagship (unidade-conceito) na América do Sul e sétima do mundo. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/16/sofitel-ipanema-abre-em-dezembro-ainda-ha-espaco-para-a-hotelaria-do-rio-crescer-diz-gerente-geral-do-hotel.ghtml",
+      "published": "2026-11-16T07:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
       "matched_sectors": [
         "Viagens"
       ],
       "matched_aliases": [
-        "decolar",
-        "turismo"
+        "hotel"
       ],
       "matches": [
         {
           "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Viagens",
-          "alias": "decolar",
-          "field": "lead",
-          "score": 8,
+          "alias": "hotel",
+          "field": "title",
+          "score": 20,
           "topic": null
         }
       ],
-      "score": 16.0,
-      "rank": 1,
-      "story": "b19a264296"
+      "score": 20.0,
+      "rank": 14,
+      "story": "58280156ce"
+    },
+    {
+      "title": "Reforma tributária e os contratos de infraestrutura",
+      "summary": "A reforma tributária, cuja efetiva transição terá início em 2027, traz um inevitável desafio consistente nas renegociações dos contratos de longo prazo, especialmente, aqueles envolvendo o poder público e as concessionárias de infraestrutura. Somente no setor federal de transportes há mais de 200 contratos vigentes, entre arrendamentos portuários, rodovias, aeroportos e ferrovias, aos quais se somam as concessões de energia e de saneamento básico dos diversos entes federativos. Todos eles foram modelados sob um sistema tributário que deixará de existir, e serão impactados com aumentos de impostos que podem chegar a mais de 20%. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/legislacao/coluna/reforma-tributaria-e-os-contratos-de-infraestrutura.ghtml",
+      "published": "2026-11-16T08:00:00+00:00",
+      "source": "https://pox.globo.com/rss/valor/legislacao",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 14,
+      "story": "d0a0e92ceb"
     },
     {
       "title": "Grupo Navarro entra em RJ com R$ 268 milhões em créditos declarados",
@@ -13979,7 +13641,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 2,
+      "rank": 1,
       "story": "13190bace0"
     },
     {
@@ -14012,7 +13674,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 2,
+      "rank": 1,
       "story": "9c8f405b56"
     },
     {
@@ -14129,181 +13791,6 @@
       "score": 10.0,
       "rank": 1,
       "story": "0a3193c30e"
-    },
-    {
-      "title": "As 3 Lições de Kimi Antonelli Para Ter Sucesso Dentro e Fora das Pistas",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Algumas revelações e reflexões do piloto italiano, em encontro com convidados do Nubank e da Mercedes, na antevéspera da corrida em Interlagos O post As 3 Lições de Kimi Antonelli Para Ter Sucesso Dentro e Fora das Pistas apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-life/forbes-motors/2026/11/as-3-licoes-de-kimi-antonelli-para-ter-sucesso-dentro-e-fora-das-pistas",
-      "published": "2026-11-08T12:17:48+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 0,
-      "story": "14190d3fe9"
-    },
-    {
-      "title": "Wall Street corre contra o tempo para fechar megafusões com contagem regressiva para o fim da era Trump",
-      "summary": "O retorno do presidente Donald Trump à Casa Branca mudou a lógica política em torno das fusões e aquisições, reavivando o interesse das empresas por grandes negócios que haviam se tornado difíceis de concretizar. Agora, a comunidade empresarial americana está contra o relógio. Entenda: Varejo brasileiro entra na era das ‘metafusões’. Turismo: Roxy mira expansão muito além de Copacabana e quer chegar a São Paulo e Gramado O resultado das eleições de meio de mandato está criando um repentino senso de urgência nos conselhos de administração, com executivos se perguntando se ainda terão uma última oportunidade de realizar operações transformadoras enquanto os órgãos reguladores favoráveis às fusões e aquisições permanecerem no comando sob Trump. Conversas com alguns dos principais assessores do mercado financeiro indicam que o resultado eleitoral já está levando empresas a questionar se devem acelerar grandes movimentos estratégicos. Há uma percepção de que um Partido Democrata fortalecido poderá trabalhar para dificultar o megafusões, que ganharam força durante o segundo mandato de Trump e impulsionou receitas recordes em Wall Street. Kevin Foley, codiretor da área de banco de investimento do JPMorgan Chase, uma das principais instituições de assessoria financeira do mundo, afirmou que as empresas precisam estar preparadas para realizar operações em um ambiente de negócios novamente complexo. — O maior risco talvez seja presumir que, mais cedo ou mais tarde, as coisas voltarão ao normal. Ficar parado é sempre uma opção, mas, quando os setores estão mudando tão rapidamente, essa é a escolha errada — disse Foley, que trabalha em Nova York. Fernando Rivas, executivo sênior do Wells Fargo & Co, foi ainda mais enfático durante uma conferência do setor realizada em Boston, na quinta-feira. Segundo ele, uma mentalidade de “agora ou nunca” voltará a impulsionar as fusões e aquisições no curto prazo. Os dois mandatos de Trump concentraram uma parcela desproporcional das maiores transações corporativas. Mais da metade de todas as operações anunciadas nos últimos 20 anos envolvendo empresas americanas e avaliadas em pelo menos US$ 50 bilhões ocorreu enquanto ele estava na presidência, segundo análise de dados compilados pela Bloomberg. Somente neste ano, foram anunciadas combinações históricas em setores estratégicos, como energia e tecnologia. Um exemplo é a aquisição, anunciada neste mês, da fabricante de lasers Lumentum Holdings pela Marvell Technology, em uma operação recorde superior a US$ 100 bilhões. Em outra frente, o Departamento de Justiça dos Estados Unidos aprovou a aquisição da Warner Bros. Discovery pela Paramount Skydance, avaliada em US$ 110 bilhões, sem impor medidas corretivas relacionadas à concorrência. — Se você tem uma grande operação que vai levar tempo para ser estruturada e passar por todo o processo, precisa começar a trabalhar nela agora e provavelmente anunciá-la até meados de 2027. Não resta tanto tempo assim — afirmou Paul Nary, professor assistente de administração da Wharton School, da Universidade da Pensilvânia. Um dos principais testes para os negócios no novo cenário político poderá ser a eventual combinação entre a SpaceX, de Elon Musk, e a Tesla. A operação estaria entre as maiores e mais politicamente sensíveis associações empresariais já tentadas e revelaria a dimensão da influência do bilionário sobre Trump à medida que o equilíbrio de forças em Washington começa a mudar. A Bloomberg News informou que Musk, que gastou quase US$ 500 milhões para apoiar candidatos republicanos em disputas importantes nas eleições de meio de mandato, está pressionando para anunciar uma fusão entre suas duas maiores empresas até o primeiro semestre de 2027. Mas o cenário ficou mais complicado. As ações da SpaceX e da Tesla recuaram em meio a preocupações de que um Congresso liderado pelos democratas investigue os negócios e as atividades políticas de Musk e, de maneira mais ampla, procure desacelerar o avanço da inteligência artificial, que ele tem defendido de forma consistente. Embora os democratas não assumam o controle do Departamento de Justiça nem da Comissão Federal de Comércio (FTC), o que manterá no comando os responsáveis pela fiscalização das fusões indicados pelo atual governo, a conquista da maioria nas duas Casas do Congresso dará ao partido novos instrumentos para questionar grandes operações consideradas sensíveis. Isso poderá ocorrer por meio de audiências, investigações e intimações, além de ampliar a pressão pública sobre empresas e órgãos reguladores. Diversos grandes negócios em negociação, até mesmo alguns já concluídos, poderão se tornar alvos iniciais do novo Congresso a partir de janeiro. A aquisição da Maplebear, controladora da Instacart, pela DoorDash, avaliada em US$ 17 bilhões, recebeu críticas de democratas de destaque, incluindo o prefeito de Nova York, Zohran Mamdani. Ele afirmou que o negócio resultaria em “preços mais altos, exploração mais severa e maior desigualdade econômica”. Parlamentares como os senadores Ed Markey e Richard Blumenthal, por sua vez, questionaram a aquisição da Dominion Energy pela NextEra Energy, avaliada em US$ 67 bilhões. Eles alertaram que a operação poderia reduzir a concorrência e elevar os custos para os consumidores. Já o senador Cory Booker prometeu promover uma fiscalização do Congresso para examinar em detalhes a operação entre Paramount e Warner Bros, concluída no mês passado. — O Congresso tem tempo e recursos limitados, portanto não vai investigar todas as transações. Eu esperaria que o foco estivesse em temas específicos, especialmente acessibilidade de preços e responsabilização — afirmou Paul Humphreys, codiretor global da área industrial do escritório de advocacia Freshfields. O enfraquecimento do entusiasmo do mercado com a inteligência artificial representa um desafio mais imediato para os negociadores de grandes operações. Eles utilizaram a expansão dessa tecnologia como justificativa estratégica para algumas das maiores transações realizadas durante o segundo mandato de Trump. Centros de dados estiveram no centro das disputas eleitorais em diversos estados durante as eleições de meio de mandato. No fim, os eleitores deram uma demonstração contundente de rejeição à rápida expansão dessas estruturas pelos Estados Unidos. Os mercados, que já enfrentavam preocupações com os enormes investimentos necessários para desenvolver a inteligência artificial, agora também começam a considerar a possibilidade de restrições mais rigorosas à infraestrutura digital que sustenta essa tecnologia. O índice Philadelphia Stock Exchange Semiconductor Index, referência para o desempenho das empresas fabricantes de chips, registrou na semana passada sua maior queda em um único dia desde o início da pandemia de Covid-19, em março de 2020. A desvalorização das ações colocou em evidência o negócio entre Marvell e Lumentum. Os papéis das duas companhias despencaram desde as eleições de meio de mandato, acrescentando uma nova variável a uma transação realizada integralmente em ações e cuja justificativa estratégica depende fortemente da continuidade dos investimentos em centros de dados e na conectividade necessária para a inteligência artificial. Algumas instituições de Wall Street ampliaram suas equipes com profissionais que têm conexões políticas, apostando que um acesso mais próximo ao governo Trump e uma melhor compreensão de suas decisões seriam fundamentais para viabilizar grandes operações. Os resultados das eleições de meio de mandato podem alterar essa estratégia e obrigar os bancos a construir pontes com os democratas mais cedo do que esperavam. — Os negociadores começaram a entender como navegar pela Casa Branca de Trump e pela abordagem do governo em relação às fusões e aquisições. Depois da onda azul, agora também precisarão desenvolver uma estratégia para lidar com o Congresso — afirmou Nary, da Wharton School.",
-      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/08/wall-street-corre-contra-o-tempo-para-fechar-megafusoes-com-contagem-regressiva-para-o-fim-da-era-trump.ghtml",
-      "published": "2026-11-08T18:06:02+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 0,
-      "story": "beaaad2cac"
-    },
-    {
-      "title": "Marca argentina de calçados investe US$ 500 mil para disputar mercado brasileiro",
-      "summary": "O mercado brasileiro de luxo se consolidou como o segundo maior da América Latina, atrás apenas do México, segundo a Euromonitor. No país, o setor avançou 12% desde 2022 e poderá alcançar R$ 150 bilhões até 2030, com crescimento médio anual estimado entre 6% e 8%, de acordo com a Bain & Company. O cenário tem atraído marcas estrangeiras interessadas em ampliar sua presença no mercado brasileiro, como as grifes Alaïa e Loro Piana, que chegaram ao país em 2026. Agora, é a vez da argentina Terrible Enfant, que está investindo US$ 500 mil em sua primeira expansão internacional. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/empresas/marketing/noticia/2026/11/08/marca-argentina-de-calcados-investe-us-500-mil-para-disputar-mercado-brasileiro.ghtml",
-      "published": "2026-11-08T22:07:57+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 1,
-      "story": "54496a6c56"
-    },
-    {
-      "title": "Companhia aérea de Cingapura coloca cama ‘queen size’ em cabine da primeira classe",
-      "summary": "A Singapore Airlines anunciou, na sexta-feira, que investirá mais de 2 bilhões de dólares de Cingapura (US$ 1,6 bilhão) na renovação das cabines de suas aeronaves de longa distância. A iniciativa visa atrair o segmento de passageiros de alto padrão e competir com companhias aéreas do Oriente Médio, conhecidas por oferecer luxo a bordo. As novas cabines começarão a ser implementadas a partir do segundo semestre de 2027. A companhia aérea reformará 41 aeronaves Airbus A350-900 — já em operação em rotas de longa distância — com novas cabines de primeira classe e classe executiva. Já as 31 aeronaves Boeing 777-9, atualmente em fase de fabricação, contarão com os novos designs em todas as classes. O executivo-chefe (CEO), Goh Choon Phong, afirmou que a renovação tem como objetivo manter a confiança dos clientes e fortalecer a liderança da companhia aérea no setor. O grande destaque da renovação é a primeira classe. As suítes privativas contarão com paredes e portas em formato ondulado que as separam do corredor, proporcionando mais espaço interno. A divisória entre duas suítes adjacentes pode ser removida, e os assentos, reclinados totalmente na horizontal, formando o que a Singapore Airlines descreve como a maior cama de casal do setor, com 152 centímetros de largura por 203 centímetros de comprimento, o tamanho aproximado de uma cama “queen size”. O espaço também pode ser utilizado como sofá. A primeira classe estará disponível tanto nas aeronaves 777-9 quanto nas A350-900, utilizadas em voos diretos de ultralonga distância para os Estados Unidos, incluindo Nova York. Há tempos a Singapore Airlines busca aprimorar suas cabines premium. Em 2007, a empresa introduziu o que chamou de primeira suíte privativa de primeira classe do setor. A classe executiva também passará a contar com suítes privativas, oferecendo mais espaço para os pés quando os assentos forem convertidos em camas totalmente horizontais. Passageiros da primeira classe e da classe executiva poderão salvar suas preferências — como o ajuste de reclinação dos assentos — e recuperá-las em voos futuros. A companhia aérea também renovará seu sistema de entretenimento a bordo, incluindo a seleção de filmes, além de atualizar suas opções de refeições. O investimento ocorre em um momento em que as companhias aéreas enfrentam um cenário operacional desafiador, marcado, entre outros fatores, pela alta nos preços dos combustíveis devido ao conflito entre Estados Unidos e Irã. No entanto, o diretor comercial, Lee Lik Hsin, afirmou em uma entrevista coletiva que a estratégia da Singapore Airlines de continuar investindo em um serviço de maior qualidade não será alterada por desdobramentos geopolíticos. Lee descreveu a renovação das cabines como a mais abrangente na história da companhia aérea. A Singapore Airlines planeja começar a introduzir as novas cabines tanto em aeronaves A350-900 (que passarão por modernização) quanto em novos modelos 777-9, a partir do segundo semestre de 2027. A companhia informou que ainda não está definido qual tipo de aeronave entrará em operação com as novas cabines primeiro.",
-      "url": "https://valor.globo.com/empresas/noticia/2026/11/09/companhia-area-de-cingapura-coloca-cama-queen-size-em-cabine-da-primeira-classe.ghtml",
-      "published": "2026-11-09T03:59:57+00:00",
-      "source": "https://pox.globo.com/rss/valor/empresas",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 1,
-      "story": "762dc1d79f"
-    },
-    {
-      "title": "Eles vão faturar R$ 370 milhões fazendo empresas gastarem menos com energia",
-      "summary": "Armor Energia aposta em tecnologia e novos serviços para aproveitar a entrada de pequenos negócios e residências no mercado livre",
-      "url": "https://exame.com/negocios/eles-vao-faturar-r-370-milhoes-fazendo-empresas-gastarem-menos-com-energia",
-      "published": "2026-11-09T07:01:26+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado livre"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 1,
-      "story": "b773773f4b"
-    },
-    {
-      "title": "Governo define três prioridades no Congresso",
-      "summary": "Na tentativa de aproveitar a atual composição do Congresso, antes que a maioria conservadora prevista para 2027 altere a correlação de forças, o governo Lula definiu uma pauta com três propostas que espera aprovar até o fim do ano, além do Projeto de Lei Orçamentária (PLOA) de 2027: a MP que proíbe as bets, a MP da 3ª fase do Desenrola Brasil e o projeto de regulação concorrencial das big techs. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/impresso/noticia/2026/11/09/governo-define-tres-prioridades-no-congresso.ghtml",
-      "published": "2026-11-09T08:00:01+00:00",
-      "source": "https://pox.globo.com/rss/valor",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 8.0,
-      "rank": 1,
-      "story": "ed41cb969a"
-    },
-    {
-      "title": "Parece Doce, Mas É Gloss: Como Mari Maria e Isa Scherer Uniram Cheiro e Sabor no Marketing",
-      "summary": "Forbes, a mais conceituada revista de negócios e economia do mundo. Collab entre as duas empresárias une cookie e maquiagem em uma experiência sensorial com sabores e aromas bem brasileiros O post Parece Doce, Mas É Gloss: Como Mari Maria e Isa Scherer Uniram Cheiro e Sabor no Marketing apareceu primeiro em Forbes Brasil .",
-      "url": "https://forbes.com.br/forbes-mkt/2026/11/parece-doce-mas-e-gloss-como-mari-maria-e-isa-scherer-uniram-cheiro-e-sabor-no-marketing",
-      "published": "2026-11-09T08:05:00+00:00",
-      "source": "https://forbes.com.br/feed/",
-      "matched_sectors": [
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "maquiagem"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "maquiagem",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 0,
-      "story": "40d5b97904"
     },
     {
       "title": "Boeing’s Deal Losses Are Coming Into Sharper View",
@@ -15502,7 +14989,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 1,
+      "rank": 0,
       "story": "500f6fe0a0"
     },
     {
@@ -15527,7 +15014,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 1,
+      "rank": 0,
       "story": "5361ff17f5"
     },
     {
@@ -15602,7 +15089,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "618a00e907"
     },
     {
@@ -15652,7 +15139,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "5d554d3b6b"
     },
     {
@@ -15677,7 +15164,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "a2edf99cba"
     },
     {
@@ -15702,7 +15189,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "d93f709a64"
     },
     {
@@ -15727,7 +15214,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "7eb8397822"
     },
     {
@@ -15752,7 +15239,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "4cebdbc3d3"
     },
     {
@@ -15802,7 +15289,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "d52437cbc5"
     },
     {
@@ -15827,7 +15314,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "9ed1570634"
     },
     {
@@ -15852,7 +15339,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 1,
+      "rank": 0,
       "story": "7e436dedf3"
     },
     {
@@ -15877,7 +15364,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "5ef7cb351c"
     },
     {
@@ -15902,7 +15389,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "fcbfca2991"
     },
     {
@@ -15927,7 +15414,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "2ce9e06725"
     },
     {
@@ -15952,7 +15439,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "75a362fa7a"
     },
     {
@@ -15977,7 +15464,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "4c99d25874"
     },
     {
@@ -16027,8 +15514,58 @@
         }
       ],
       "score": 8.0,
-      "rank": 3,
+      "rank": 2,
       "story": "2d864fcd7b"
+    },
+    {
+      "title": "Ministro da Fazenda se reúne com presidente do Banco do Brasil após lucro da instituição cair 66%",
+      "summary": "O ministro da Fazenda, Dario Durigan, se reúne nesta segunda-feira com a presidente do Banco do Brasil (BB), Tarciana Medeiros. O encontro acontece cinco dias depois de o banco divulgar lucro líquido ajustado de R$ 1,27 bilhão no terceiro trimestre. O valor é 66,5% menor que o do mesmo período de 2025 e 67,5% menor que o do trimestre anterior. A inadimplência no agronegócio, setor do qual o BB é o maior financiador, puxou o resultado para baixo. O custo do crédito, que mede as perdas com calotes e descontos em renegociações, já descontadas as recuperações, chegou a R$ 21,2 bilhões entre julho e setembro. É uma alta de 18,4% em um ano. Foi a segunda vez em 2026 que o banco cortou a projeção de lucro para o ano: a faixa caiu de R$ 18 bilhões a R$ 22 bilhões para R$ 9 bilhões a R$ 11 bilhões. A estimativa de custo do crédito subiu para R$ 80 bilhões a R$ 83 bilhões. As ações fecharam a quinta-feira em queda de 8,35%. A Fazenda é parte direta do problema. A União tem cerca de 50% do capital do BB e é a acionista mais afetada pela decisão de reduzir de 30% para 25% a parte do lucro paga aos acionistas, o mínimo exigido por lei. Os juros sobre capital próprio do trimestre somam R$ 197 milhões, 52% a menos que um ano antes. O banco diz que o corte serve para preservar capital. O índice de capital principal, colchão para absorver perdas, caiu para 10,80% em setembro, ante 11,27% em junho. O mínimo regulatório é de 8%. Na teleconferência com analistas, Tarciana admitiu que o indicador está “abaixo do nível que nós consideramos adequado”. A reunião também acontece enquanto o governo define quem vai comandar o banco no novo mandato do presidente Luiz Inácio Lula da Silva, reeleito em outubro. Como O GLOBO mostrou, a saída de Tarciana, no cargo desde janeiro de 2023, é dada como praticamente certa no governo.",
+      "url": "https://oglobo.globo.com/economia/negocios/noticia/2026/11/16/ministro-da-fazenda-se-reune-com-presidente-do-banco-do-brasil-apos-lucro-da-instituicao-cair-66percent.ghtml",
+      "published": "2026-11-16T03:00:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "inadimplência"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "inadimplência",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0,
+      "rank": 4,
+      "story": "b2f00742bd"
+    },
+    {
+      "title": "National Grid CEO on keeping Britain’s lights on amid sabotage and cyber attacks",
+      "summary": "Zoë Yujnovich on running Britain’s power network when ‘offensive capability is moving faster’",
+      "url": "https://www.ft.com/content/bf15b7e0-2299-4d95-b3a1-755bd17b552a?syn-25a6b1a6=1",
+      "published": "2026-11-16T04:00:01+00:00",
+      "source": "https://www.ft.com/companies?format=rss",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "on running"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "on running",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0,
+      "rank": 4,
+      "story": "373f5fd1cc"
     }
   ]
 }
