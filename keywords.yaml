@@ -37,7 +37,10 @@ sectors:
                       dupla com renner, dupla rick, rick sollo,
                       jeremy renner,
                       sertanejo, sertaneja, dupla sertaneja,
-                      helicóptero, helicoptero]
+                      helicóptero, helicoptero,
+                      # O Renner da dupla em carreira solo ("Renner volta aos
+                      # palcos com tributo a Rick", nov/2026).
+                      rick, palco, palcos, tributo, turnê, show, cantor]
     - lojas renner
     - c&a
     - riachuelo
@@ -112,7 +115,13 @@ sectors:
     - vivara
     - viva3
     - life by vivara
-    - joalheria
+    # Crime em loja nao e leitura de setor ("Adolescente e apreendido ao
+    # tentar furtar joalheria no Shopping Analia Franco", nov/2026).
+    - alias: joalheria
+      requires_none: [furto, furtar, furtou, roubo, roubar, roubou, assalto,
+                      assaltante, assaltantes, apreendido, apreendida, preso,
+                      presa, presos, polícia, policial, criminosos, bandidos,
+                      quadrilha, arrombamento]
     # Pandora fica aqui (opera no Brasil, comp direto de Vivara). Cartier,
     # Rolex e Tiffany sairam: sao luxo global sem operacao BR, entao pela
     # regra de ouro ficam SO em Global Consumer. Antes casavam sem gate nos

@@ -1119,6 +1119,11 @@ const SUGGESTED_KEY = '★ Sugeridas';
 // Quantas histórias sugerir. No backtest (out-nov/2026) você selecionava
 // ~11 por dia, e 15 cobre a maioria sem virar lista longa.
 const SUGGESTED_N = 15;
+// Piso de relevância: sem ele, num dia fraco as 15 primeiras incluíam
+// matéria de nota 11 (furto em joalheria, abertura de hotel). No backtest,
+// abaixo de 15 você escolhia 1% a 12% das histórias; acima, 13% a 31%, e o
+// piso não tirou nenhuma escolha das sugeridas. Dia fraco = menos sugestões.
+const SUGGESTED_MIN_RANK = 15;
 // Abaixo disso a matéria só casou de raspão (lead/corpo, ou um termo
 // fraco). No backtest: 148 candidatas com score < 20, 3 selecionadas.
 const WEAK_SCORE = 20;
@@ -1227,7 +1232,8 @@ function render() {
   // Sugeridas: as N histórias de maior rank no filtro de dias atual. Some
   // durante a busca, quando o que importa é achar um título específico.
   const suggested = searching ? [] :
-    stories.filter(a => !a._manual).sort(byRelevance).slice(0, SUGGESTED_N);
+    stories.filter(a => !a._manual && rankOf(a) >= SUGGESTED_MIN_RANK)
+      .sort(byRelevance).slice(0, SUGGESTED_N);
   const suggestedUrls = new Set(suggested.map(a => a.url));
 
   const groups = {};

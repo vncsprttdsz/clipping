@@ -1025,12 +1025,21 @@ def rank_article(a_dict: dict, now: Optional[datetime] = None) -> int:
             idade = max(0.0, (now - datetime.fromisoformat(a_dict["published"])).total_seconds() / 86400)
         except Exception:
             pass
+    # Empresa no titulo so conta se o proprio matching de setor validou o
+    # termo no titulo (com requires_any/none). Sem isso "Renner volta aos
+    # palcos com tributo a Rick" ganhava o bonus de empresa coberta.
+    aliases_titulo = [normalize(m.get("alias", "")) for m in matches if m.get("field") == "title"]
+
+    def _validada(rx):
+        return any(any(t in al or al in t for al in aliases_titulo)
+                   for t in (m.group(0) for m in rx.finditer(title_n)))
+
     w = _RANK_W
     z = (w["intercepto"]
          + w["log_score"] * math.log(score)
          + w["alias_no_titulo"] * any(m.get("field") == "title" for m in matches)
-         + w["cobertura_no_titulo"] * bool(_RANK_COBERTURA_RE.search(title_n))
-         + w["concorrente_no_titulo"] * bool(_RANK_CONCORRENTE_RE.search(title_n))
+         + w["cobertura_no_titulo"] * _validada(_RANK_COBERTURA_RE)
+         + w["concorrente_no_titulo"] * _validada(_RANK_CONCORRENTE_RE)
          + w["politica"] * bool(_RANK_POLITICA_RE.search(title_n))
          + w["explicativo"] * bool(_RANK_EXPLICATIVO_RE.search(title_n))
          + w["mercado"] * bool(_RANK_MERCADO_RE.search(title_n))
