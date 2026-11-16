@@ -943,7 +943,8 @@ const state = {
   articles: [],
   manualArticles: [],
   generatedAt: null,
-  daysFilter: 1,
+  daysFilter: 1,          // ajustado no carregamento por janelaPadrao()
+  windowNote: null,
   query: '',
   selected: new Set(),
   order: [],
@@ -1218,6 +1219,7 @@ function render() {
   parts.push(stories.length + (stories.length === 1 ? ' história' : ' histórias'));
   if (filtered.length > stories.length) parts.push(filtered.length + ' matérias');
   if (manualCount > 0) parts.push(`✏️ ${manualCount} manual(is)`);
+  if (state.windowNote) parts.push(state.windowNote);
   document.getElementById('status').textContent = parts.join(' · ');
 
   if (!filtered.length) {
@@ -1909,13 +1911,100 @@ function showUndoToast(msg, onUndo) {
 }
 
 // ============================================================
+// Janela padrão pelo calendário da B3
+// ============================================================
+// O clipping sai em dia de pregão. A janela padrão cobre tudo desde o
+// último clipping: segunda pega sábado e domingo (3d); quarta depois de
+// feriado na terça pega 2d; Quarta de Cinzas pega 5d (Carnaval inteiro).
+// Em dia sem pregão (fim de semana, feriado) fica 1d: é só consulta.
+//
+// Feriados sem pregão na B3: nacionais, Carnaval (seg e ter), Sexta-feira
+// Santa, Corpus Christi, Consciência Negra (nacional desde 2024), 24/12 e
+// 31/12. Aniversário de SP (25/1) e 9/7 têm pregão desde 2022, então não
+// entram. Se a B3 mudar o calendário, é aqui que se ajusta.
+const B3_FERIADOS_FIXOS = ['01-01', '04-21', '05-01', '09-07', '10-12',
+                           '11-02', '11-15', '11-20', '12-24', '12-25', '12-31'];
+const MAX_DIAS_JANELA = 5;   // limite das pílulas (1d a 5d)
+
+// Domingo de Páscoa (algoritmo de Meeus/Jones/Butcher), em UTC.
+function pascoa(ano) {
+  const a = ano % 19, b = Math.floor(ano / 100), c = ano % 100;
+  const d = Math.floor(b / 4), e = b % 4, f = Math.floor((b + 8) / 25);
+  const g = Math.floor((b - f + 1) / 3);
+  const h = (19 * a + b - d - g + 15) % 30;
+  const i = Math.floor(c / 4), k = c % 4;
+  const l = (32 + 2 * e + 2 * i - h - k) % 7;
+  const m = Math.floor((a + 11 * h + 22 * l) / 451);
+  const mes = Math.floor((h + l - 7 * m + 114) / 31);
+  const dia = ((h + l - 7 * m + 114) % 31) + 1;
+  return new Date(Date.UTC(ano, mes - 1, dia, 12));
+}
+
+function addDias(dt, n) {
+  return new Date(dt.getTime() + n * 86400000);
+}
+
+const _feriadosMoveis = {};
+function feriadosMoveis(ano) {
+  if (!_feriadosMoveis[ano]) {
+    const p = pascoa(ano);
+    _feriadosMoveis[ano] = new Set([-48, -47, -2, 60]   // Carnaval seg/ter, Sexta Santa, Corpus Christi
+      .map(n => addDias(p, n).toISOString().slice(0, 10)));
+  }
+  return _feriadosMoveis[ano];
+}
+
+// dt: Date às 12h UTC representando um dia do calendário.
+function temPregao(dt) {
+  const dow = dt.getUTCDay();
+  if (dow === 0 || dow === 6) return false;
+  const iso = dt.toISOString().slice(0, 10);
+  if (B3_FERIADOS_FIXOS.includes(iso.slice(5))) return false;
+  return !feriadosMoveis(dt.getUTCFullYear()).has(iso);
+}
+
+// "Hoje" no fuso de São Paulo, independente do fuso do aparelho.
+function hojeEmSaoPaulo(agora = new Date()) {
+  const s = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'America/Sao_Paulo', year: 'numeric', month: '2-digit', day: '2-digit',
+  }).format(agora);
+  const [y, m, d] = s.split('-').map(Number);
+  return new Date(Date.UTC(y, m - 1, d, 12));
+}
+
+// Quantos dias de notícia cobrir hoje: 1 + dias sem pregão desde o último
+// pregão. Ex.: segunda comum = 3; quarta após feriado na terça = 2.
+function janelaPadrao(agora = new Date()) {
+  const hoje = hojeEmSaoPaulo(agora);
+  if (!temPregao(hoje)) return { dias: 1, ultimo: null };
+  let dias = 1;
+  let d = addDias(hoje, -1);
+  while (!temPregao(d) && dias < 15) { dias++; d = addDias(d, -1); }
+  return { dias: Math.min(dias, MAX_DIAS_JANELA), ultimo: d };
+}
+
+function setDaysFilter(n) {
+  state.daysFilter = n;
+  document.querySelectorAll('.pill').forEach(x =>
+    x.classList.toggle('active', parseInt(x.dataset.days, 10) === n));
+}
+
+function initDaysFilter() {
+  const { dias, ultimo } = janelaPadrao();
+  setDaysFilter(dias);
+  if (dias > 1 && ultimo) {
+    const label = ultimo.toLocaleDateString('pt-BR', { weekday: 'short', day: '2-digit', month: '2-digit', timeZone: 'UTC' });
+    state.windowNote = `janela de ${dias} dias, último pregão ${label}`;
+  }
+}
+
+// ============================================================
 // Filtros / busca
 // ============================================================
 document.querySelectorAll('.pill').forEach(p => {
   p.onclick = () => {
-    document.querySelectorAll('.pill').forEach(x => x.classList.remove('active'));
-    p.classList.add('active');
-    state.daysFilter = parseInt(p.dataset.days, 10);
+    setDaysFilter(parseInt(p.dataset.days, 10));
+    state.windowNote = null;   // escolha manual: a nota da janela padrão não vale mais
     render();
   };
 });
@@ -1951,6 +2040,7 @@ function initAutoClearToggle() {
 loadState();
 initAutoClearToggle();
 initSectorNav();
+initDaysFilter();
 fetchData().then(render);
 </script>
 </body>
