@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T09:20:51.711609+00:00",
-  "count": 459,
-  "new_this_run": 23,
+  "generated_at": "2026-11-17T10:53:38.937051+00:00",
+  "count": 463,
+  "new_this_run": 10,
   "articles": [
     {
       "title": "Mercado Livre, Amazon e Shopee ocupam quase 20% dos galpões logísticos do país, mostra SiiLA",
@@ -303,7 +303,7 @@
         }
       ],
       "score": 100.0,
-      "rank": 64,
+      "rank": 63,
       "story": "038ca42dd8"
     },
     {
@@ -447,7 +447,7 @@
         }
       ],
       "score": 88.0,
-      "rank": 38,
+      "rank": 37,
       "story": "7950489c65"
     },
     {
@@ -1103,57 +1103,8 @@
         }
       ],
       "score": 60.0,
-      "rank": 62,
+      "rank": 61,
       "story": "b2c3a77e72"
-    },
-    {
-      "title": "‘Canetas emagrecedoras’ despertam interesse por seus possíveis efeitos no cérebro",
-      "summary": "Revisão publicada na Science analisa evidências sobre semaglutida e tirzepatida, mas aponta que ainda não há comprovação de benefícios cognitivos em humanos",
-      "url": "https://veja.abril.com.br/saude/canetas-emagrecedoras-despertam-interesse-por-seus-possiveis-efeitos-no-cerebro",
-      "published": "2026-11-10T10:00:29+00:00",
-      "source": "https://veja.abril.com.br/feed",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras",
-        "semaglutida",
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "semaglutida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 56.0,
-      "rank": 6,
-      "story": "3dc8263046"
     },
     {
       "title": "Magalu surfa crise da Casas Bahia e fala em 'oportunidade histórica' de ganho de mercado",
@@ -1964,7 +1915,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 20,
+      "rank": 19,
       "story": "182faaa6a9"
     },
     {
@@ -2112,7 +2063,7 @@
         }
       ],
       "score": 44.0,
-      "rank": 9,
+      "rank": 8,
       "story": "ba599ab07a"
     },
     {
@@ -3320,7 +3271,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 6,
+      "rank": 5,
       "story": "249cb5e86d"
     },
     {
@@ -3520,7 +3471,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 31,
+      "rank": 30,
       "story": "dcb72a4620"
     },
     {
@@ -3553,7 +3504,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 31,
+      "rank": 30,
       "story": "5b07adeb6b"
     },
     {
@@ -3653,7 +3604,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 16,
+      "rank": 15,
       "story": "8e728366ef"
     },
     {
@@ -3686,7 +3637,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 7,
+      "rank": 6,
       "story": "e8767596d1"
     },
     {
@@ -3719,7 +3670,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 19,
+      "rank": 18,
       "story": "caeff88b03"
     },
     {
@@ -3755,6 +3706,39 @@
       "score": 40.0,
       "rank": 19,
       "story": "538b6f634d"
+    },
+    {
+      "title": "La película de horror psicológico que arrasa en Amazon Prime y paraliza a todos en Argentina",
+      "summary": "La película de horror psicológico que arrasa en Amazon Prime y paraliza a todos en Argentina &nbsp;&nbsp; Ambito",
+      "url": "https://www.ambito.com/espectaculos/la-pelicula-horror-psicologico-que-arrasa-amazon-prime-y-paraliza-todos-argentina-n6345604",
+      "published": "2026-11-17T10:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aambito.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "amazon"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "amazon",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0,
+      "rank": 40,
+      "story": "3d79c71e47"
     },
     {
       "title": "Vendas no varejo recuam 0,3% no terceiro trimestre, aponta IBGE",
@@ -4346,7 +4330,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 15,
+      "rank": 14,
       "story": "27fe1b1706"
     },
     {
@@ -5923,7 +5907,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 11,
+      "rank": 10,
       "story": "44f7ec4b57"
     },
     {
@@ -6088,7 +6072,7 @@
         }
       ],
       "score": 24.0,
-      "rank": 6,
+      "rank": 5,
       "story": "e7d6fa91e2"
     },
     {
@@ -10580,7 +10564,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "61a14cda88"
     },
     {
@@ -10805,7 +10789,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 8,
+      "rank": 7,
       "story": "f063986eb5"
     },
     {
@@ -10830,7 +10814,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 8,
+      "rank": 7,
       "story": "2eb366ecfd"
     },
     {
@@ -10955,7 +10939,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 9,
       "story": "47b4c44f90"
     },
     {
@@ -10980,7 +10964,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 9,
       "story": "7f85aefa66"
     },
     {
@@ -11005,7 +10989,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 23,
+      "rank": 22,
       "story": "c06dcb175d"
     },
     {
@@ -11030,7 +11014,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 23,
+      "rank": 22,
       "story": "f5c0da5e84"
     },
     {
@@ -11134,6 +11118,31 @@
       "story": "6af6ad2e80"
     },
     {
+      "title": "Sberbank sees Russian-issued stablecoins gaining ground for cross-border payments",
+      "summary": "Sberbank sees Russian-issued stablecoins gaining ground for cross-border payments &nbsp;&nbsp; Reuters",
+      "url": "https://www.reuters.com/business/finance/sberbank-sees-russian-issued-stablecoins-gaining-ground-cross-border-payments-2026-11-16",
+      "published": "2026-11-16T16:29:44+00:00",
+      "source": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "cross-border"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "cross-border",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 11,
+      "story": "6b89d4cab4"
+    },
+    {
       "title": "Italia impone administración judicial a Revolut por deficiencias en su control de blanqueo",
       "summary": "Italia impone administración judicial a Revolut por deficiencias en su control de blanqueo &nbsp;&nbsp; El Economista",
       "url": "https://www.eleconomista.com.mx/amp/sectorfinanciero/italia-impone-administracion-judicial-revolut-deficiencias-control-blanqueo-20261116-844184.html",
@@ -11155,7 +11164,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 25,
+      "rank": 24,
       "story": "b9bd2e4f58"
     },
     {
@@ -11230,7 +11239,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 25,
+      "rank": 24,
       "story": "1e314bf8ab"
     },
     {
@@ -11355,7 +11364,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "f936d93afb"
     },
     {
@@ -11430,7 +11439,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "daa7e317bd"
     },
     {
@@ -11455,7 +11464,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "23f148b6e5"
     },
     {
@@ -11480,7 +11489,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "44320c3fb7"
     },
     {
@@ -11530,7 +11539,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "e97ad679d9"
     },
     {
@@ -11555,7 +11564,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 28,
+      "rank": 27,
       "story": "0d6d767b86"
     },
     {
@@ -11655,7 +11664,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 31,
+      "rank": 30,
       "story": "427510ee07"
     },
     {
@@ -11680,7 +11689,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 31,
+      "rank": 30,
       "story": "d2cc70d9c6"
     },
     {
@@ -11705,7 +11714,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 31,
+      "rank": 30,
       "story": "4102c17d9d"
     },
     {
@@ -11755,8 +11764,33 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 14,
       "story": "09aa49fd23"
+    },
+    {
+      "title": "Canetas emagrecedoras protegem o coração, mas exigem aviso à equipe médica antes de cirurgias",
+      "summary": "Canetas emagrecedoras protegem o coração, mas exigem aviso à equipe médica antes de cirurgias &nbsp;&nbsp; www.bra1.com.br",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOTmhxblhtYzZ1YllLRFJKSUNkeVZybUNGVXV3QlVxRmx4b2xEb3Z5bmtCV01GRWNLdFlfdEFra1FvMmFuanE4dDU2RzV3ZHdGa05NY0hWU21BcDV0RHc0SzBzd3dUaDBVMjI2a2VPUUFaQVQ2clJ2SUJkUThfZlI1S1pDREo5V1YyZTlzRzlsLUNhaHE3M0JVSS1kRTVCVmZ0VWtieTFFT2tLMzlDNlZrd2JDWjVKczFTa3MtLXpRLVBTdnlVTUExSUF2LUpJUQ?oc=5",
+      "published": "2026-11-17T10:23:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 15,
+      "story": "aa0781cb2d"
     },
     {
       "title": "Grupo Navarro entra em RJ com R$ 268 milhões em créditos declarados",
@@ -11991,6 +12025,74 @@
       "score": 16.0,
       "rank": 5,
       "story": "4abb58a597"
+    },
+    {
+      "title": "Supermercado dará lugar a shopping de R$ 320 milhões com 100 lojas no Rio de Janeiro",
+      "summary": "Com Renner, Smart Fit e cinema, Plaza Santa Cruz prevê abertura em 2027 e mira R$ 300 milhões em vendas anuais",
+      "url": "https://exame.com/negocios/supermercado-dara-lugar-a-shopping-de-r-320-milhoes-com-100-lojas-no-rio-de-janeiro",
+      "published": "2026-11-17T07:01:24+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion",
+        "Academias"
+      ],
+      "matched_aliases": [
+        "renner",
+        "smart fit"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "renner",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0,
+      "rank": 5,
+      "story": "b6f30ffde4"
+    },
+    {
+      "title": "CEOs são estrategistas, mas ficam devendo em comunicação, mostra pesquisa",
+      "summary": "A credibilidade de um líder se mede pelo que ele faz, não pelo que diz. Essa foi a linha comum entre as falas de Luiza Trajano, presidente do conselho do Magazine Luiza, Fábio Barbosa, conselheiro da Natura, e Sidney Klajner, presidente do Einstein, no painel de lideranças do Fórum Reputação Brasil 2026, realizado nesta segunda-feira (16) no Museu do Ipiranga, em São Paulo. O evento foi promovido pela Merco, monitor de reputação corporativa, com a consultoria Makemake. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/carreira/noticia/2026/11/17/ceos-sao-estrategistas-mas-ficam-devendo-em-comunicacao-mostra-pesquisa.ghtml",
+      "published": "2026-11-17T09:40:44+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce",
+        "Cosméticos"
+      ],
+      "matched_aliases": [
+        "magazine luiza",
+        "natura"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "magazine luiza",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Cosméticos",
+          "alias": "natura",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0,
+      "rank": 6,
+      "story": "bda12bcbc3"
     },
     {
       "title": "Comércio ilegal de remédios dispara: em 9 meses, apreensões superam em mais de 180% o total de 2025",
@@ -13671,7 +13773,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 3,
+      "rank": 2,
       "story": "45d9be4112"
     },
     {
@@ -13796,7 +13898,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 4,
+      "rank": 3,
       "story": "305bb22cdc"
     },
     {
