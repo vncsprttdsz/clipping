@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T11:25:36.173005+00:00",
-  "count": 377,
-  "new_this_run": 16,
+  "generated_at": "2026-11-22T09:09:23.618912+00:00",
+  "count": 373,
+  "new_this_run": 12,
   "articles": [
     {
       "title": "Endividamento das famílias pressiona resultados do Carrefour, Assaí e GPA no 3º trimestre",
@@ -221,7 +221,7 @@
         }
       ],
       "score": 76.0,
-      "rank": 31,
+      "rank": 22,
       "story": "61cf678b63"
     },
     {
@@ -483,7 +483,7 @@
         }
       ],
       "score": 60.0,
-      "rank": 24,
+      "rank": 17,
       "story": "c6203b0a9a"
     },
     {
@@ -525,7 +525,7 @@
         }
       ],
       "score": 60.0,
-      "rank": 56,
+      "rank": 45,
       "story": "c0d8cb492f"
     },
     {
@@ -566,7 +566,7 @@
         }
       ],
       "score": 60.0,
-      "rank": 16,
+      "rank": 11,
       "story": "8df5fd7ae3"
     },
     {
@@ -607,8 +607,49 @@
         }
       ],
       "score": 60.0,
-      "rank": 18,
+      "rank": 12,
       "story": "10eeb55f29"
+    },
+    {
+      "title": "Anvisa avalia proibir clínicas de aplicarem canetas emagrecedoras de farmácias de manipulação",
+      "summary": "Anvisa avalia proibir clínicas de aplicarem canetas emagrecedoras de farmácias de manipulação &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/11/anvisa-avalia-proibir-clinicas-de-aplicarem-canetas-emagrecedoras-de-farmacias-de-manipulacao.shtml",
+      "published": "2026-11-22T07:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras",
+        "farmácias"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0,
+      "rank": 23,
+      "story": "193da4a631"
     },
     {
       "title": "Como o Boticário engajou 2,8 milhões de consumidores na reciclagem e levou embalagens vazias de volta às lojas",
@@ -812,7 +853,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 6,
+      "rank": 4,
       "story": "3cc74e3bcd"
     },
     {
@@ -853,58 +894,8 @@
         }
       ],
       "score": 48.0,
-      "rank": 33,
+      "rank": 24,
       "story": "7049d7b470"
-    },
-    {
-      "title": "Crédito e galpões: para além da contabilidade, reforma redesenha setores com novos produtos e rotas",
-      "summary": "Do crédito para cobrir o caixa retido pelo split payment à volta dos centros de distribuição para perto do consumidor, a reforma tributária redistribui negócios",
-      "url": "https://exame.com/economia/credito-e-galpoes-para-alem-da-contabilidade-reforma-redesenha-setores-com-novos-produtos-e-rotas",
-      "published": "2026-11-15T08:01:27+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "E-commerce",
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "centros de distribuição",
-        "galpões",
-        "reforma tributária",
-        "split payment"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "centros de distribuição",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "galpões",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "reforma tributária",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "split payment",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 44.0,
-      "rank": 6,
-      "story": "ba599ab07a"
     },
     {
       "title": "Novo medicamento da farmacêutica do Ozempic mostra perda de peso com dose menor; entenda",
@@ -1247,7 +1238,7 @@
         }
       ],
       "score": 44.0,
-      "rank": 7,
+      "rank": 6,
       "story": "3a81ad705c"
     },
     {
@@ -1296,140 +1287,8 @@
         }
       ],
       "score": 44.0,
-      "rank": 11,
+      "rank": 7,
       "story": "40694caaed"
-    },
-    {
-      "title": "STJ: Farmácias e drogarias devem manter farmacêutico presente durante todo o horário de funcionamento",
-      "summary": "​A 2ª Turma do Superior Tribunal de Justiça (STJ) decidiu, por unanimidade, que farmácias e drogarias devem manter um farmacêutico fisicamente presente em cada estabelecimento durante todo o horário de funcionamento. Para o colegiado, a exigência prevista na Lei nº 5.991/1973 não pode ser cumprida apenas por meio de atendimento remoto ou de plantão centralizado. Com esse entendimento, a turma atendeu a recurso especial do Ministério Público de Minas Gerais (MPMG) e restabeleceu a sentença que obrigou uma rede de drogarias a manter farmacêutico responsável em todas as suas unidades no estado, sob pena de multa diária.​​​​​​​​​ Para o relator, ministro Marco Aurélio Bellizze, Lei nº 5.991/1973 não permite substituição de farmacêutico por atendimento remoto. ​A controvérsia teve origem em ação civil pública ajuizada pelo MPMG para exigir o cumprimento da obrigação legal de manter profissional habilitado durante todo o horário de funcionamento das farmácias e drogarias. O juízo de primeiro grau acolheu o pedido, mas o Tribunal de Justiça de Minas Gerais (TJMG) reformou a sentença. Para o tribunal estadual, a exigência da lei estaria sendo atendida por farmacêuticos em regime de plantão centralizado, disponíveis para orientar os consumidores por meios de comunicação como internet, email e videoconferência. O TJMG também considerou que as diferentes lojas de uma mesma rede não constituiriam, necessariamente, estabelecimentos distintos para essa finalidade, com base no conceito de estabelecimento do artigo 1.142 do Código Civil. No recurso ao STJ, o MPMG sustentou que a legislação exige a presença física de um farmacêutico em cada unidade, não sendo suficiente a assistência prestada remotamente. O relator, ministro Marco Aurélio Bellizze, destacou que o artigo 15, parágrafo 1º, da Lei nº 5.991/1973 determina a presença do responsável técnico durante todo o horário de funcionamento do estabelecimento, sem prever a possibilidade de substituição por atendimento remoto. O ministro informou que a interpretação da norma deve considerar sua finalidade de proteção da saúde pública. Bellizze explicou que a presença física do farmacêutico permite a orientação direta e imediata aos pacientes, a conferência da regularidade da dispensação de medicamentos, a fiscalização das condições de armazenamento e o controle de substâncias sujeitas a regime especial. \"Esses objetivos não são integralmente alcançados pela simples possibilidade de comunicação remota, razão pela qual uma interpretação que equipare a presença física à disponibilidade virtual acabaria por frustrar a finalidade protetiva da norma e reduzir significativamente a eficácia da tutela sanitária pretendida pelo legislador\", afirmou. Bellizze também afastou o argumento de que o conceito de estabelecimento previsto no Código Civil permitiria considerar toda a rede de drogarias como uma única unidade. Ele explicou que, para fins de controle sanitário, deve prevalecer a legislação específica, que considera estabelecimento o local físico onde são realizadas a dispensação e a comercialização de medicamentos. Para o relator, a obrigação de manter o profissional responsável deve ser cumprida individualmente em cada loja, independentemente da possibilidade de assistência por outros meios. O magistrado ressaltou que a Lei nº 14.510/2022, que autoriza e disciplina a prática da telessaúde no Brasil, apesar de abranger todas as profissões regulamentadas da área, não modificou as exigências específicas da legislação farmacêutica. Segundo Bellizze, embora a norma permita a prestação dos serviços a distância, ela determina a observância das atribuições legais de cada profissão e não substitui os requisitos estabelecidos em leis especiais. O ministro mencionou também a regulamentação da telefarmácia pelo Conselho Federal de Farmácia (CFF). O órgão admite a utilização de tecnologias de comunicação na prestação de serviços farmacêuticos, mas não substituiu a presença física do profissional quando exigida pela legislação. Para Bellizze, eventuais mudanças nas formas de assistência farmacêutica devem ocorrer por meio de alteração legislativa, não cabendo ao Judiciário flexibilizar uma obrigação expressamente prevista em lei. \"A redefinição das formas de assistência farmacêutica ou a admissão de modelos alternativos de atendimento ao público constitui matéria reservada ao Poder Legislativo, mediante o devido processo legislativo, não podendo resultar de construção interpretativa que esvazie comando legal claro e vigente\", concluiu (REsp 1776753). ministro Marco Aurélio Bellizze SCO/STJ",
-      "url": "https://valor.globo.com/legislacao/noticia/2026/11/14/stj-farmacias-e-drogarias-devem-manter-farmaceutico-presente-durante-todo-o-horario-de-funcionamento.ghtml",
-      "published": "2026-11-14T11:30:00+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "drogarias",
-        "farmácias"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "farmácias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "drogarias",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 5,
-      "story": "249cb5e86d"
-    },
-    {
-      "title": "As contradições de Brian Chesky, CEO do Airbnb, ao lidar com funcionários",
-      "summary": "As contradições de Brian Chesky, CEO do Airbnb, ao lidar com funcionários &nbsp;&nbsp; VEJA",
-      "url": "https://veja.abril.com.br/coluna/veja-gente/as-contradicoes-de-brian-chesky-ceo-do-airbnb-ao-lidar-com-funcionarios",
-      "published": "2026-11-14T14:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:veja.abril.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Viagens",
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "airbnb"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "airbnb",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Global Consumer",
-          "alias": "airbnb",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 5,
-      "story": "501b22aff2"
-    },
-    {
-      "title": "Dia Mundial do Diabetes: como canetas emagrecedoras têm ‘revolucionado' o tratamento",
-      "summary": "Dia Mundial do Diabetes: como canetas emagrecedoras têm ‘revolucionado' o tratamento &nbsp;&nbsp; BBC",
-      "url": "https://www.bbc.com/portuguese/articles/c8g46qzzn3gvo",
-      "published": "2026-11-14T14:52:50+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 3,
-      "story": "7908f471f0"
-    },
-    {
-      "title": "Como canetas emagrecedoras têm 'revolucionado' o tratamento de diabetes",
-      "summary": "Como canetas emagrecedoras têm 'revolucionado' o tratamento de diabetes &nbsp;&nbsp; Folha de S.Paulo",
-      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/11/como-canetas-emagrecedoras-tem-revolucionado-o-tratamento-de-diabetes.shtml",
-      "published": "2026-11-14T20:22:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:folha.uol.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas",
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "canetas",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 3,
-      "story": "7908f471f0"
     },
     {
       "title": "Lucro da Richemont sobe com vendas de joias e relógios",
@@ -2126,7 +1985,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 15,
+      "rank": 13,
       "story": "ab17e897b9"
     },
     {
@@ -2182,7 +2041,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 3,
+      "rank": 2,
       "story": "5a842969d7"
     },
     {
@@ -2215,7 +2074,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 3,
+      "rank": 2,
       "story": "a51f804b3f"
     },
     {
@@ -2248,7 +2107,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 17,
+      "rank": 13,
       "story": "ba559da066"
     },
     {
@@ -2281,7 +2140,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 8,
+      "rank": 5,
       "story": "9a16eead1b"
     },
     {
@@ -2314,7 +2173,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 8,
+      "rank": 5,
       "story": "a016d5b205"
     },
     {
@@ -2347,7 +2206,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 19,
+      "rank": 13,
       "story": "7de147e792"
     },
     {
@@ -2380,7 +2239,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 5,
+      "rank": 3,
       "story": "562dda21a6"
     },
     {
@@ -2413,7 +2272,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 41,
+      "rank": 30,
       "story": "eb96086780"
     },
     {
@@ -2446,7 +2305,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 6,
+      "rank": 4,
       "story": "7864176668"
     },
     {
@@ -2479,7 +2338,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 24,
+      "rank": 17,
       "story": "a459088920"
     },
     {
@@ -2513,8 +2372,42 @@
         }
       ],
       "score": 40.0,
-      "rank": 5,
+      "rank": 3,
       "story": "d5d6aaf655"
+    },
+    {
+      "title": "De Adidas Samba a desconto de 80%: a estratégia da Dafiti com 10 mil ofertas na Black Friday",
+      "summary": "De Adidas Samba a desconto de 80%: a estratégia da Dafiti com 10 mil ofertas na Black Friday &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/negocios/de-adidas-samba-a-desconto-de-80-a-estrategia-da-dafiti-com-10-mil-ofertas-na-black-friday",
+      "published": "2026-11-20T13:26:18+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Fashion",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "adidas",
+        "dafiti"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "dafiti",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "adidas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0,
+      "rank": 22,
+      "story": "4436d9f080"
     },
     {
       "title": "Polícia Federal apreende frascos de tirzepatida e canetas no aeroporto de São Luís",
@@ -2546,8 +2439,74 @@
         }
       ],
       "score": 40.0,
-      "rank": 6,
+      "rank": 4,
       "story": "ba264b2486"
+    },
+    {
+      "title": "Cómo Revolut competirá contra Mercado Pago y Naranja X en Argentina",
+      "summary": "Cómo Revolut competirá contra Mercado Pago y Naranja X en Argentina &nbsp;&nbsp; iProUP",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdGpRd0duM3RzWXUyTEVYTlBuMVpwRmFkYXZfT2VsMnVUSzVSNmRRaVkteVpQREtQRk9ESUFlLXRoZ3YyRElhZ01YVHNJQ0REVktGT1k3U1lGWUZORjRDNzVqRll0MFFfZThzbGtUcnNtTWt4OEkwRGdWVFFlTEFmS3NVRHZ3bUtqV1Q3ZmNKM094ZVZHeFZDNUFVdEdFZU4tUmpIbWdhQnPSAa4BQVVfeXFMUFdqelh6MDltdi0wZEJTLU9feVBTeWR0MDlhSklBamplbjlYb3RXNi02NnlidGMxdDZJdF91WTlXVkF0aU5Cd21PbUIxM0hYUjhBZ01FNTlOR2hNUmQyRGJnS3QyLUpZQS1KX1Jnd1hzbmNOOTFaaUZQNGRnLXRrSllORHlGZFgxRG13NThTb09tbnlOT2xVQWpTZ3pJZ0FnNEEwa3VkNXlGcUhrb193?oc=5",
+      "published": "2026-11-22T06:07:20+00:00",
+      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "mercado pago",
+        "revolut"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "mercado pago",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "revolut",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0,
+      "rank": 64,
+      "story": "688a2c6cb3"
+    },
+    {
+      "title": "Observância do art. 166 do CTN na repetição do indébito da CBS/IBS",
+      "summary": "A omissão do grupo de estudos do Centro de Estudos do STF sobre o entendimento da Corte",
+      "url": "https://www.jota.info/opiniao-e-analise/colunas/pauta-fiscal/observancia-do-art-166-do-ctn-na-repeticao-do-indebito-da-cbs-ibs",
+      "published": "2026-11-22T06:39:09+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "cbs",
+        "ibs"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "ibs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0,
+      "rank": 8,
+      "story": "8ec12cedcf"
     },
     {
       "title": "Reforma tributária exige atenção a contratos antigos de aluguel comercial; entenda o que pode mudar",
@@ -2926,7 +2885,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 14,
+      "rank": 13,
       "story": "0c569635f3"
     },
     {
@@ -2967,7 +2926,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 6,
+      "rank": 5,
       "story": "87115bc2e1"
     },
     {
@@ -3008,7 +2967,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 6,
+      "rank": 4,
       "story": "213d86c54f"
     },
     {
@@ -3157,7 +3116,7 @@
         }
       ],
       "score": 32.0,
-      "rank": 3,
+      "rank": 2,
       "story": "08332f1dbf"
     },
     {
@@ -3198,41 +3157,8 @@
         }
       ],
       "score": 30.0,
-      "rank": 9,
+      "rank": 6,
       "story": "f87db63f0f"
-    },
-    {
-      "title": "Inadimplência do agro gordo com o Banco do Brasil é filha de velha cultura de dever e não pagar",
-      "summary": "Lula 3.0 operou uma mágica no seu terceiro mandato, ela se chamava Desenrola , o programa de renegociação de dívidas. O primeiro veio em 2023 e juntou-se à renegociação bilionária dos caloteiros do Fundo de Financiamento Estudantil. O segundo saiu em maio deste ano. Leia mais (11/14/2026 - 23h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/eliogaspari/2026/11/inadimplencia-do-agro-gordo-com-o-banco-do-brasil-e-filha-de-velha-cultura-de-dever-e-nao-pagar.shtml",
-      "published": "2026-11-15T02:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "desenrola",
-        "inadimplência"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "inadimplência",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Economia",
-          "alias": "desenrola",
-          "field": "lead",
-          "score": 8,
-          "topic": "desenrola"
-        }
-      ],
-      "score": 28.0,
-      "rank": 4,
-      "story": "bd13d027b0"
     },
     {
       "title": "Tentativa de fraudes no e-commerce recuam às vésperas da Black Friday",
@@ -3825,7 +3751,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 4,
       "story": "198902df71"
     },
     {
@@ -3858,7 +3784,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 4,
       "story": "d316e8abc0"
     },
     {
@@ -3891,7 +3817,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 4,
       "story": "6564c9a9ec"
     },
     {
@@ -3925,7 +3851,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 17,
+      "rank": 11,
       "story": "904bbd65e8"
     },
     {
@@ -3958,7 +3884,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 17,
+      "rank": 12,
       "story": "f2341e7359"
     },
     {
@@ -3991,7 +3917,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 3,
       "story": "f5049906df"
     },
     {
@@ -4024,7 +3950,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 3,
       "story": "f7a08b502d"
     },
     {
@@ -4057,7 +3983,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 8,
+      "rank": 5,
       "story": "7a1153a3fb"
     },
     {
@@ -4090,7 +4016,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 3,
       "story": "f86dc0f1a1"
     },
     {
@@ -4123,7 +4049,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 19,
+      "rank": 13,
       "story": "f77cfde863"
     },
     {
@@ -4156,7 +4082,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 8,
+      "rank": 5,
       "story": "90e0873299"
     },
     {
@@ -4190,7 +4116,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 9,
+      "rank": 6,
       "story": "f8e338188d"
     },
     {
@@ -4223,7 +4149,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 21,
+      "rank": 14,
       "story": "99258d8e9a"
     },
     {
@@ -4256,7 +4182,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 7,
+      "rank": 4,
       "story": "e5fa2d964e"
     },
     {
@@ -4289,7 +4215,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 4,
+      "rank": 3,
       "story": "9a7779416c"
     },
     {
@@ -4322,7 +4248,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 11,
+      "rank": 7,
       "story": "29bbf8829c"
     },
     {
@@ -4355,7 +4281,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 5,
+      "rank": 3,
       "story": "4329ce8520"
     },
     {
@@ -4388,7 +4314,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 16,
+      "rank": 11,
       "story": "de9a21d7f2"
     },
     {
@@ -4470,7 +4396,7 @@
         }
       ],
       "score": 24.0,
-      "rank": 3,
+      "rank": 2,
       "story": "20782efbf7"
     },
     {
@@ -4512,7 +4438,7 @@
         }
       ],
       "score": 24.0,
-      "rank": 4,
+      "rank": 3,
       "story": "5febbc6c7d"
     },
     {
@@ -4554,41 +4480,8 @@
         }
       ],
       "score": 24.0,
-      "rank": 4,
+      "rank": 3,
       "story": "8dc8768831"
-    },
-    {
-      "title": "BC dá aval a compra de banco e Nubank passa a ter licença bancária no Brasil",
-      "summary": "O Nubank obteve ontem a aprovação do Banco Central para a aquisição do Banco Porto Real de Investimentos e passará a ter licença bancária no Brasil. Desse modo, a fintech conseguirá cumprir a resolução do BC e do Conselho Monetário Nacional (CMN) que determinou que apenas bancos poderiam usar a palavra \"banco\" ou \"bank\" no nome. A compra do Porto Real, fundado em 1992, foi anunciada pelo Nubank em julho. O valor da compra não foi revelado. Em novembro do ano passado, o BC e o CNM vedaram as empresas de utilizar termos que sugiram atividade ou modalidade de instituição, em português ou em língua estrangeira, para a qual não tenham autorização de funcionamento específica. Isso incluía o Nubank, que é batizado oficialmente de Nu Holdings. Com o aval, o Nubank passa a ter três licenças de operação: Instituição de Pagamento, Sociedade de Crédito, Financiamento e Investimento (Financeira) e Corretora de Títulos e Valores Mobiliários (CTVM). “Em treze anos, chegamos a mais de 120 milhões de clientes no país, e é essa relação com os brasileiros que sustenta nossa expansão. A licença bancária dá sequência a esse caminho e reforça o compromisso que temos com quem está ao nosso lado e com o sistema financeiro nacional”, afirmOU em comunicado Livia Chanes, CEO do Nubank para o Brasil e a América Latina. Em março, o Nubank filiou-se à Febraban (Federação Brasileira de Bancos), pouco depois de se consolidar como a maior instituição financeira privada do Brasil em número de clientes, ultrapassando o número de contas de Bradesco (110 milhões) e Itaú (100 milhões). Neste ranking, o Nubank só é ultrapassado pela Caixa Econômica, que possui 158,2 milhões de contas.",
-      "url": "https://oglobo.globo.com/economia/financas/noticia/2026/11/14/bc-da-aval-a-compra-de-banco-e-nubank-passa-a-ter-licenca-bancaria-no-brasil.ghtml",
-      "published": "2026-11-14T15:15:44+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "nu holdings",
-        "nubank"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "nu holdings",
-          "field": "body",
-          "score": 2,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "nubank",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 22.0,
-      "rank": 10,
-      "story": "3b7aeed8af"
     },
     {
       "title": "China decepciona, Nike mira na Índia e aposta no críquete; entenda",
@@ -4620,7 +4513,7 @@
         }
       ],
       "score": 22.0,
-      "rank": 7,
+      "rank": 6,
       "story": "6e2c7cd9fe"
     },
     {
@@ -4654,158 +4547,8 @@
         }
       ],
       "score": 22.0,
-      "rank": 25,
+      "rank": 18,
       "story": "77b4274ae3"
-    },
-    {
-      "title": "Tres bancos argentinos se unen para pelear con Mercado Pago",
-      "summary": "Tres bancos argentinos se unen para pelear con Mercado Pago &nbsp;&nbsp; iProUP",
-      "url": "https://www.iproup.com/finanzas/73148-tres-bancos-argentinos-se-unen-para-pelear-con-mercado-pago",
-      "published": "2026-11-14T12:28:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site%3Aiproup.com+when%3A2d&hl=es-419&gl=AR&ceid=AR:es-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado pago"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "mercado pago",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 10,
-      "story": "a0908c5147"
-    },
-    {
-      "title": "Da máquina de costura à IA, as invenções de Renzo Rosso, o “senhor do luxo alternativo”",
-      "summary": "Veneza &#8211; Documentário e livro autobiográfico resgatam como Renzo Rosso se tornou uma das figuras mais disruptivas no mundo da moda. O empreendedor italiano é cofundador da marca de jeanswear Diesel e criador do grupo Only The Brave (OTB), holding independente de luxo com grifes de perfil rebelde, inovador e experimental, como Maison Margiela, Viktor [&#8230;] O post Da máquina de costura à IA, as invenções de Renzo Rosso, o “senhor do luxo alternativo” apareceu primeiro em NeoFeed .",
-      "url": "https://neofeed.com.br/finde/da-maquina-de-costura-a-ia-as-invencoes-de-renzo-rosso-o-senhor-do-luxo-alternativo",
-      "published": "2026-11-14T19:39:38+00:00",
-      "source": "https://neofeed.com.br/feed/",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "61a14cda88"
-    },
-    {
-      "title": "Descarte de canetas emagrecedoras preocupa em BH",
-      "summary": "Descarte de canetas emagrecedoras preocupa em BH &nbsp;&nbsp; G1",
-      "url": "https://g1.globo.com/mg/minas-gerais/mg2/video/descarte-de-canetas-emagrecedoras-preocupa-em-bh-15189285.ghtml",
-      "published": "2026-11-14T22:45:44+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 1,
-      "story": "8195ca5f6e"
-    },
-    {
-      "title": "Virginie Viard lança livro sobre demissão da Chanel após quase 30 anos na maison: 'Fiquei sem chão'",
-      "summary": "Virginie Viard lança livro sobre demissão da Chanel após quase 30 anos na maison: 'Fiquei sem chão' &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/ela/moda/noticia/2026/11/15/virginie-viard-lanca-livro-sobre-demissao-da-chanel-apos-quase-30-anos-na-maison-fiquei-sem-chao.ghtml",
-      "published": "2026-11-15T06:45:01+00:00",
-      "source": "https://news.google.com/rss/search?q=site:oglobo.globo.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "chanel"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "chanel",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "b45b22bfa5"
-    },
-    {
-      "title": "Canetas emagrecedoras do Paraguai têm fungos e bactérias; apreensões no Galeão disparam 384%",
-      "summary": "Canetas emagrecedoras do Paraguai têm fungos e bactérias; apreensões no Galeão disparam 384% &nbsp;&nbsp; O GLOBO",
-      "url": "https://oglobo.globo.com/rio/noticia/2026/11/15/canetas-emagrecedoras-do-paraguai-tem-fungos-e-bacterias-apreensoes-no-galeao-disparam-384percent.ghtml",
-      "published": "2026-11-15T07:30:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "c7b8db8e2f"
-    },
-    {
-      "title": "Canetinha emagrecedora e 12 milhões de panetones vão ajudar Cacau Show a faturar R$ 1,8 bi no Natal",
-      "summary": "Com uma fábrica capaz de produzir 150.000 panetones por dia, a empresa de Alê Costa espera crescer 25% no Natal. O plano inclui novos sabores, personagens conhecidos e produtos sem adição de açúcares",
-      "url": "https://exame.com/negocios/canetinha-emagrecedora-e-12-milhoes-de-panetones-vao-ajudar-cacau-show-a-faturar-r-18-bi-no-natal",
-      "published": "2026-11-15T08:03:48+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "cacau show"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "cacau show",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "f83e5885db"
     },
     {
       "title": "'Comendo meu skincare': gelatina incolor ajuda a repor o colágeno?",
@@ -7479,7 +7222,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "7b33b65d79"
     },
     {
@@ -7529,7 +7272,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "6267299c54"
     },
     {
@@ -7579,7 +7322,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "83ab612c76"
     },
     {
@@ -7679,7 +7422,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "3c90a7d0dc"
     },
     {
@@ -7704,7 +7447,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "46455d8ef7"
     },
     {
@@ -7729,7 +7472,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 3,
+      "rank": 2,
       "story": "513c678546"
     },
     {
@@ -7829,7 +7572,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "f27fc91d58"
     },
     {
@@ -7854,7 +7597,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "15223fa920"
     },
     {
@@ -7879,7 +7622,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "198902df71"
     },
     {
@@ -7904,7 +7647,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "f8ff5b83c0"
     },
     {
@@ -7929,7 +7672,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "7cd20e9284"
     },
     {
@@ -7954,7 +7697,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "76382cbe87"
     },
     {
@@ -7979,7 +7722,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "1c86265c56"
     },
     {
@@ -8004,7 +7747,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 10,
       "story": "7f155f945b"
     },
     {
@@ -8029,7 +7772,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 13,
+      "rank": 10,
       "story": "5296b6f365"
     },
     {
@@ -8054,7 +7797,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "68f802bce4"
     },
     {
@@ -8079,7 +7822,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "4fa453ea7f"
     },
     {
@@ -8104,7 +7847,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "07da8ad505"
     },
     {
@@ -8129,7 +7872,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 10,
       "story": "a8f896c610"
     },
     {
@@ -8154,7 +7897,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "6d9c657cd6"
     },
     {
@@ -8179,7 +7922,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "366dbb26c4"
     },
     {
@@ -8204,7 +7947,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "e933367db9"
     },
     {
@@ -8229,7 +7972,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "6fa6c8d3f0"
     },
     {
@@ -8254,7 +7997,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "4ab0e1f858"
     },
     {
@@ -8304,7 +8047,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "51a6ddef58"
     },
     {
@@ -8329,7 +8072,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "347808dcc0"
     },
     {
@@ -8354,7 +8097,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "e5762053f7"
     },
     {
@@ -8379,7 +8122,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "da226236b0"
     },
     {
@@ -8404,7 +8147,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "1cea6eed3a"
     },
     {
@@ -8429,7 +8172,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "73585616e6"
     },
     {
@@ -8454,7 +8197,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "1ed11b4249"
     },
     {
@@ -8479,7 +8222,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "f04a310a4c"
     },
     {
@@ -8504,7 +8247,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "2fc7088a0a"
     },
     {
@@ -8529,7 +8272,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 4,
       "story": "6276b6f115"
     },
     {
@@ -8554,7 +8297,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 11,
       "story": "4d377f7f96"
     },
     {
@@ -8579,7 +8322,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 11,
       "story": "9945448e94"
     },
     {
@@ -8604,7 +8347,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 5,
       "story": "fff32e066e"
     },
     {
@@ -8629,7 +8372,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 11,
       "story": "605959f332"
     },
     {
@@ -8654,7 +8397,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 11,
       "story": "47fabd65b9"
     },
     {
@@ -8679,7 +8422,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 12,
       "story": "af583fd445"
     },
     {
@@ -8704,7 +8447,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 8,
       "story": "9945448e94"
     },
     {
@@ -8729,7 +8472,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 12,
       "story": "47fabd65b9"
     },
     {
@@ -8754,7 +8497,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 5,
       "story": "20c6db8199"
     },
     {
@@ -8779,7 +8522,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 5,
       "story": "b6ac27100a"
     },
     {
@@ -8804,7 +8547,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 8,
+      "rank": 5,
       "story": "8e3d04f615"
     },
     {
@@ -8856,7 +8599,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 3,
+      "rank": 2,
       "story": "8582c0e01e"
     },
     {
@@ -8881,7 +8624,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 9,
+      "rank": 6,
       "story": "51b16989e5"
     },
     {
@@ -8906,7 +8649,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 9,
+      "rank": 6,
       "story": "51b16989e5"
     },
     {
@@ -8931,7 +8674,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 3,
+      "rank": 2,
       "story": "54435ffd39"
     },
     {
@@ -8956,7 +8699,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 3,
+      "rank": 2,
       "story": "725653ee37"
     },
     {
@@ -8981,7 +8724,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 2,
+      "rank": 1,
       "story": "04a2cb1b8d"
     },
     {
@@ -9006,7 +8749,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 9,
+      "rank": 6,
       "story": "117a133f03"
     },
     {
@@ -9031,7 +8774,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 21,
+      "rank": 15,
       "story": "d889c4eb55"
     },
     {
@@ -9056,7 +8799,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 9,
+      "rank": 6,
       "story": "484af4594e"
     },
     {
@@ -9081,7 +8824,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 6,
       "story": "a4a83ec594"
     },
     {
@@ -9106,7 +8849,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 4,
+      "rank": 2,
       "story": "74a0f4d75e"
     },
     {
@@ -9131,7 +8874,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 4,
       "story": "aa09887728"
     },
     {
@@ -9156,7 +8899,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 6,
       "story": "e9347a3bc0"
     },
     {
@@ -9181,33 +8924,8 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 7,
       "story": "b3f61cc8fc"
-    },
-    {
-      "title": "Decreto do fim da escala 6X1 deixa brechas e abre margem para judicialização",
-      "summary": "A regulamentação da escala de trabalho 5x2 para categorias com jornadas especiais não esclareceu todos os pontos necessários e deixou brechas para judicialização, segundo especialistas. Alguns pontos conflitam com jurisprudências consolidadas do Tribunal Superior do Trabalho (TST) e mesmo do Supremo Tribunal Federal (STF), o que pode obrigar as Cortes a reverem seus posicionamentos. As lacunas também podem obrigar o STF a decidir sobre o tema, apesar de o Ministério do Trabalho e Emprego (MTE) ter prometido publicar portarias a partir da próxima segunda-feira, 23. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/legislacao/noticia/2026/11/20/decreto-do-fim-da-escala-6x1-deixa-brechas-e-abre-margem-para-judicializacao.ghtml",
-      "published": "2026-11-20T15:32:21+00:00",
-      "source": "https://pox.globo.com/rss/valor/legislacao",
-      "matched_sectors": [
-        "Economia"
-      ],
-      "matched_aliases": [
-        "escala 6x1"
-      ],
-      "matches": [
-        {
-          "sector": "Economia",
-          "alias": "escala 6x1",
-          "field": "title",
-          "score": 20,
-          "topic": "jornada_trabalho"
-        }
-      ],
-      "score": 20.0,
-      "rank": 10,
-      "story": "b8698fad39"
     },
     {
       "title": "Fim da escala 6x1: agronegócio terá de adotar jornada 5x2 sem regras específicas",
@@ -9231,7 +8949,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 7,
       "story": "686addb264"
     },
     {
@@ -9256,7 +8974,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 7,
       "story": "5264534ce3"
     },
     {
@@ -9281,7 +8999,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 16,
+      "rank": 11,
       "story": "9945448e94"
     },
     {
@@ -9306,7 +9024,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 7,
       "story": "979277e132"
     },
     {
@@ -9331,7 +9049,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 25,
+      "rank": 17,
       "story": "77b4274ae3"
     },
     {
@@ -9356,7 +9074,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 25,
+      "rank": 17,
       "story": "6a4c44d2ec"
     },
     {
@@ -9381,7 +9099,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 7,
       "story": "0f7dce3770"
     },
     {
@@ -9406,7 +9124,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 4,
+      "rank": 3,
       "story": "4fc79abcc2"
     },
     {
@@ -9431,7 +9149,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 7,
       "story": "284f70069e"
     },
     {
@@ -9456,7 +9174,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 8,
       "story": "d717425beb"
     },
     {
@@ -9481,7 +9199,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 8,
       "story": "09b19fbeaa"
     },
     {
@@ -9506,7 +9224,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 31,
+      "rank": 22,
       "story": "a3546d2aae"
     },
     {
@@ -9531,8 +9249,158 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 9,
       "story": "b123662543"
+    },
+    {
+      "title": "Bets ilegais clonam marcas conhecidas para enganar apostadores",
+      "summary": "Bets ilegais clonam marcas conhecidas para enganar apostadores &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/esportes/marcel-rizzo/bets-ilegais-clonam-marcas-conhecidas-para-enganar-apostadores",
+      "published": "2026-11-21T09:50:29+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 10,
+      "story": "81e847947c"
+    },
+    {
+      "title": "Airbnb proíbe anfitriões de exigir que hóspedes lavem louça e tirem o lixo",
+      "summary": "Airbnb proíbe anfitriões de exigir que hóspedes lavem louça e tirem o lixo &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/mercado-imobiliario/airbnb-proibe-anfitrioes-de-exigir-que-hospedes-lavem-louca-e-tirem-o-lixo",
+      "published": "2026-11-21T14:06:33+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "airbnb"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "airbnb",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 10,
+      "story": "39bd58f56a"
+    },
+    {
+      "title": "Maksoud Plaza: hotel de luxo fechado em 2021 pode virar condomínio com 398 apartamentos",
+      "summary": "Fechado em 2021 após enfrentar desafios financeiros por causa da pandemia e disputas entre os sócios, o antigo hotel de luxo Maksoud Plaza pode virar um edifício de uso misto, com apartamentos residenciais e unidades de hospedagem. De acordo com a prefeitura de SP, o prédio está em análise para uma reforma que prepara o [&#8230;] O post Maksoud Plaza: hotel de luxo fechado em 2021 pode virar condomínio com 398 apartamentos apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/21/11/2026/economia/maksoud-plaza-hotel-de-luxo-fechado-em-2021-pode-virar-condominio-com-398-apartamentos",
+      "published": "2026-11-21T15:14:58+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "hotel"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "hotel",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 11,
+      "story": "e9347a3bc0"
+    },
+    {
+      "title": "Resultados de canetas emagrecedoras em crianças pequenas dividem médicos sobre riscos",
+      "summary": "Resultados de canetas emagrecedoras em crianças pequenas dividem médicos sobre riscos &nbsp;&nbsp; Folha de S.Paulo",
+      "url": "https://www1.folha.uol.com.br/equilibrioesaude/2026/11/resultados-de-canetas-emagrecedoras-em-criancas-pequenas-dividem-medicos-sobre-riscos.shtml",
+      "published": "2026-11-21T21:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 12,
+      "story": "500cbb2f12"
+    },
+    {
+      "title": "Canetas emagrecedoras levam costureiras e restaurantes a adaptar serviços",
+      "summary": "Canetas emagrecedoras levam costureiras e restaurantes a adaptar serviços &nbsp;&nbsp; G1",
+      "url": "https://g1.globo.com/sp/campinas-regiao/videos-jornal-da-eptv-2-edicao-campinas-e-piracicaba/video/canetas-emagrecedoras-levam-costureiras-e-restaurantes-a-adaptar-servicos-15270748.ghtml",
+      "published": "2026-11-21T23:29:41+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 5,
+      "story": "9fd5a0f868"
+    },
+    {
+      "title": "Divergências após ajuste fiscal antecipam embates entre Lula e parte da esquerda, de vaga no STF a fim da escala 6x1",
+      "summary": "A esquerda que foi às ruas no segundo turno das eleições para reeleger o presidente Luiz Inácio Lula da Silva terá pela frente novas disputas internas, como a que ocorreu em torno do ajuste fiscal e expôs a insatisfação de parte do campo com o governo. Pelo menos outros quatro temas — que passam por escolhas ao Supremo Tribunal Federal, negociações com o Centrão e pautas prioritárias, como a tarifa zero e o fim da escala 6x1 — vão testar a capacidade do presidente de manter a base consolidada enquanto faz concessões por governabilidade. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/politica/noticia/2026/11/22/divergencias-apos-ajuste-fiscal-antecipam-embates-entre-lula-e-parte-da-esquerda-de-vaga-no-stf-a-fim-da-escala-6x1.ghtml",
+      "published": "2026-11-22T06:30:00+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/politica",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "escala 6x1"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "escala 6x1",
+          "field": "title",
+          "score": 20,
+          "topic": "jornada_trabalho"
+        }
+      ],
+      "score": 20.0,
+      "rank": 9,
+      "story": "f9b86d804b"
     },
     {
       "title": "Black Friday: aumento de pedidos acende alerta para falhas em sites, pagamentos e entregas",
@@ -9766,7 +9634,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 3,
+      "rank": 2,
       "story": "1e7e86f607"
     },
     {
@@ -9833,7 +9701,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 6,
+      "rank": 4,
       "story": "66cd0bfc70"
     },
     {
@@ -9918,31 +9786,6 @@
       "score": 10.0,
       "rank": 1,
       "story": "f53442e7a4"
-    },
-    {
-      "title": "Argentina prepara medidas para reduzir filas na fronteira com o Brasil",
-      "summary": "Secretário de Turismo, Daniel Scioli, anunciou ações para agilizar a circulação de turistas sem comprometer a fiscalização",
-      "url": "https://exame.com/mundo/argentina-prepara-medidas-para-reduzir-filas-na-fronteira-com-o-brasil",
-      "published": "2026-11-14T16:02:18+00:00",
-      "source": "https://exame.com/feed/",
-      "matched_sectors": [
-        "Viagens"
-      ],
-      "matched_aliases": [
-        "turismo"
-      ],
-      "matches": [
-        {
-          "sector": "Viagens",
-          "alias": "turismo",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 8.0,
-      "rank": 1,
-      "story": "2d864fcd7b"
     },
     {
       "title": "Ministro da Fazenda se reúne com presidente do Banco do Brasil após lucro da instituição cair 66%",
@@ -10766,7 +10609,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 1,
+      "rank": 0,
       "story": "c96ded08ed"
     },
     {
@@ -10816,7 +10659,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 1,
+      "rank": 0,
       "story": "64cfea66af"
     },
     {
@@ -10841,7 +10684,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "219ce9c161"
     },
     {
@@ -10866,7 +10709,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "5439e3406c"
     },
     {
@@ -10891,7 +10734,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "81d9b2b8a2"
     },
     {
@@ -10916,7 +10759,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "713750f56d"
     },
     {
@@ -10941,7 +10784,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "a2c45dbd83"
     },
     {
@@ -10966,7 +10809,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "b576b500f3"
     },
     {
@@ -10991,7 +10834,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "d5526b1240"
     },
     {
@@ -11091,7 +10934,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 3,
+      "rank": 2,
       "story": "0500423813"
     },
     {
@@ -11116,7 +10959,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 3,
+      "rank": 2,
       "story": "5be989e376"
     },
     {
@@ -11141,7 +10984,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "a3d1e112b2"
     },
     {
@@ -11166,8 +11009,33 @@
         }
       ],
       "score": 8.0,
-      "rank": 3,
+      "rank": 2,
       "story": "9fdd232e4a"
+    },
+    {
+      "title": "O que Lula 4 deve fazer para intensificar proteção e mobilidade social",
+      "summary": "[RESUMO] Coordenador do grupo de trabalho que definiu as bases do Bolsa Família em 2003, no primeiro governo Lula , economista analisa de que maneira o petista, em seu quarto mandato, pode abrir um novo ciclo democrático, comprometido com redução de desigualdades e mobilidade social significativa. Para viabilizar esses objetivos, propõe uma Política Social 4.0, na qual União, estados e municípios atuem de forma coordenada, usando inteligência e tecnologia para conectar pessoas e famílias aos serviços de proteção e às oportunidades de prosperidade social. Leia mais (11/21/2026 - 23h00)",
+      "url": "https://www1.folha.uol.com.br/ilustrissima/2026/11/o-que-lula-4-deve-fazer-para-intensificar-protecao-e-mobilidade-social.shtml",
+      "published": "2026-11-22T02:00:00+00:00",
+      "source": "https://feeds.folha.uol.com.br/poder/rss091.xml",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bolsa família"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bolsa família",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0,
+      "rank": 2,
+      "story": "3768fd7e42"
     }
   ]
 }
