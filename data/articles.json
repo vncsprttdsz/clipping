@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T11:08:10.554453+00:00",
-  "count": 380,
-  "new_this_run": 17,
+  "generated_at": "2026-11-26T12:54:34.260384+00:00",
+  "count": 393,
+  "new_this_run": 25,
   "articles": [
     {
       "title": "Mercado de canetas emagrecedoras manipuladas já rivaliza com o do Mounjaro",
@@ -75,6 +75,80 @@
       "score": 92.0,
       "rank": 20,
       "story": "39f0b68d15"
+    },
+    {
+      "title": "Raia e Drogasil têm dois trunfos contra o juro alto: idosos e canetas emagrecedoras",
+      "summary": "Safra corta preços-alvo, mas mantém compra para RD Saúde, Hypera, Pague Menos e Panvel; para Assaí e Mateus, recomendação segue neutra",
+      "url": "https://exame.com/invest/mercados/raia-e-drogasil-tem-dois-trunfos-contra-o-juro-alto-idosos-e-canetas-emagrecedoras",
+      "published": "2026-11-26T09:30:50+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Varejo Alimentar",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "assaí",
+        "canetas emagrecedoras",
+        "drogasil",
+        "pague menos",
+        "panvel",
+        "raia",
+        "rd saúde"
+      ],
+      "matches": [
+        {
+          "sector": "Varejo Alimentar",
+          "alias": "assaí",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "rd saúde",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "pague menos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "panvel",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "raia",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "drogasil",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 92.0,
+      "rank": 50,
+      "story": "b57db62527"
     },
     {
       "title": "CEO da Panvel faz alerta sobre uso de canetas emagrecedoras: “Um certo exagero”",
@@ -285,50 +359,8 @@
         }
       ],
       "score": 68.0,
-      "rank": 38,
+      "rank": 37,
       "story": "635a3dbc30"
-    },
-    {
-      "title": "Vult encerra e-commerce próprio e passa a vender pelo TikTok Shop",
-      "summary": "Vult encerra e-commerce próprio e passa a vender pelo TikTok Shop &nbsp;&nbsp; E-Commerce Brasil",
-      "url": "https://www.ecommercebrasil.com.br/noticias/vult-encerra-e-commerce-proprio-e-passa-a-vender-pelo-tiktok-shop",
-      "published": "2026-11-19T12:00:00+00:00",
-      "source": "https://news.google.com/rss/search?q=site:ecommercebrasil.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce",
-        "Cosméticos"
-      ],
-      "matched_aliases": [
-        "tiktok",
-        "tiktok shop",
-        "vult"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok shop",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "tiktok",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Cosméticos",
-          "alias": "vult",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 60.0,
-      "rank": 16,
-      "story": "c6203b0a9a"
     },
     {
       "title": "Natura, Mercado Livre e Boticário lideram ranking de reputação corporativa no País",
@@ -846,7 +878,7 @@
         }
       ],
       "score": 60.0,
-      "rank": 38,
+      "rank": 37,
       "story": "edb270de1e"
     },
     {
@@ -887,8 +919,49 @@
         }
       ],
       "score": 60.0,
-      "rank": 63,
+      "rank": 62,
       "story": "5e6cc29e9c"
+    },
+    {
+      "title": "Black Friday de R$ 13 bilhões chega sob pressão de Shopee, Shein e AliExpress",
+      "summary": "Black Friday de R$ 13 bilhões chega sob pressão de Shopee, Shein e AliExpress &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/invest/mercados/black-friday-de-r-13-bilhoes-chega-sob-pressao-de-shopee-shein-e-aliexpress",
+      "published": "2026-11-26T11:46:07+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "aliexpress",
+        "shein",
+        "shopee"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "shopee",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "shein",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "aliexpress",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 60.0,
+      "rank": 46,
+      "story": "42bb9a4a4e"
     },
     {
       "title": "Canetas emagrecedoras exigem cuidados com músculos e pele",
@@ -1002,7 +1075,7 @@
         }
       ],
       "score": 58.0,
-      "rank": 24,
+      "rank": 23,
       "story": "fa50e1bf6a"
     },
     {
@@ -1224,7 +1297,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 12,
+      "rank": 11,
       "story": "d8ff07590f"
     },
     {
@@ -1306,7 +1379,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 30,
+      "rank": 29,
       "story": "fbebfdf154"
     },
     {
@@ -1347,7 +1420,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 32,
+      "rank": 31,
       "story": "3f48f682b7"
     },
     {
@@ -1642,7 +1715,7 @@
         }
       ],
       "score": 42.0,
-      "rank": 31,
+      "rank": 30,
       "story": "47cf4571ec"
     },
     {
@@ -2206,7 +2279,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 10,
+      "rank": 9,
       "story": "9d9ed1ad72"
     },
     {
@@ -2239,7 +2312,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 3,
+      "rank": 2,
       "story": "8917a6a06f"
     },
     {
@@ -2305,8 +2378,41 @@
         }
       ],
       "score": 40.0,
-      "rank": 10,
+      "rank": 9,
       "story": "bcf93b8bb5"
+    },
+    {
+      "title": "Anvisa discute novas regras para canetas emagrecedoras",
+      "summary": "Anvisa discute novas regras para canetas emagrecedoras &nbsp;&nbsp; SBT News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUWFSRWIzUl91WFZaX3JQdHE4MHR2WGlVQ2ltd09MYXQ1TDE2Rk5DSTEtX2VWSWpaN1h6U1k3MzFlcVMzRU91UHFFeUltYlRZMWs2RFFfcjBrVzNmWHBSSmp1SVpHUWotaHBCRXNZNFZtX1FURnU5M3h3VHpEa3o2akxmSVIwVVhCY3p1RkFsRmJiOHRjcXc0VWN4SWo?oc=5",
+      "published": "2026-11-24T21:34:46+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas",
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "canetas",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0,
+      "rank": 10,
+      "story": "ba382a0597"
     },
     {
       "title": "Justiça Federal restabelece novas regras do vale-alimentação e do vale-refeição para empresas do setor",
@@ -2371,7 +2477,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 27,
+      "rank": 26,
       "story": "a14b1dac58"
     },
     {
@@ -2470,7 +2576,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 33,
+      "rank": 32,
       "story": "75fb69866b"
     },
     {
@@ -2503,7 +2609,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 19,
+      "rank": 18,
       "story": "a7904a5c15"
     },
     {
@@ -2536,8 +2642,41 @@
         }
       ],
       "score": 40.0,
-      "rank": 64,
+      "rank": 63,
       "story": "21513328b3"
+    },
+    {
+      "title": "Porta na Black Friday 2026: ChatGPT divide indicações entre Telhanorte, Sasazaki e Leroy Merlin",
+      "summary": "Porta na Black Friday 2026: ChatGPT divide indicações entre Telhanorte, Sasazaki e Leroy Merlin &nbsp;&nbsp; Exame",
+      "url": "https://exame.com/tecnologia/porta-black-friday-2026-chatgpt",
+      "published": "2026-11-26T12:21:16+00:00",
+      "source": "https://news.google.com/rss/search?q=site:exame.com+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "leroy merlin",
+        "telhanorte"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "leroy merlin",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Material de Construção",
+          "alias": "telhanorte",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 40.0,
+      "rank": 41,
+      "story": "df1cb0235a"
     },
     {
       "title": "Mito ou verdade: pode beber álcool usando medicamentos?",
@@ -2909,8 +3048,49 @@
         }
       ],
       "score": 36.0,
-      "rank": 15,
+      "rank": 14,
       "story": "79bf810905"
+    },
+    {
+      "title": "Insônia: quando o Dayvigo, novo remédio eleito melhor por Oxford, chega às farmácias do Brasil e o preço",
+      "summary": "O novo medicamento para a insônia Dayvigo está previsto para chegar às farmácias \"entre final de 2026 e início de 2027\", segundo a Eurofarma, farmacêutica responsável pela comercialização no Brasil. Em agosto, o laboratório havia compartilhado a expectativa de que o remédio, que traz um mecanismo de ação inédito, fosse disponibilizado ainda no segundo semestre deste ano. O medicamento tem como princípio ativo o lemborexante, molécula associada a menos quadros de dependência. O remédio foi eleito por pesquisadores da Universidade de Oxford, no Reino Unido, como aquele com o melhor perfil de eficácia, aceitabilidade e tolerabilidade entre 36 alternativas para a insônia avaliadas em um estudo publicado na revista científica The Lancet. O fármaco foi desenvolvido pela farmacêutica japonesa Eisai, mas a Eurofarma será responsável pela comercialização, promoção e distribuição em todo o território nacional. Enquanto isso, o laboratório japonês mantém a titularidade do registro sanitário e coordenação das diretrizes globais da marca. A previsão das farmacêuticas é que o Dayvigo chegue ao mercado brasileiro com um preço médio de R$ 200,00 pela caixa com 28 comprimidos de 5 mg. A dose recomendada do medicamento é de 5 mg, no máximo uma vez por noite, alguns minutos antes de ir para cama. A pessoa também deve ter um intervalo de pelo menos 7 horas antes do horário em que planeja despertar. A dose pode ser aumentada para 10 mg “com base na resposta clínica e tolerabilidade do paciente”, segundo o aval da Anvisa. A aprovação é apenas para adultos. Novo mecanismo de ação O lemborexante atua no cérebro de forma diferente dos remédios que já estão no mercado. A principal mudança é a ação no sistema da vigília. Os benzodiazepínicos e as drogas Z, usados hoje, \"desligam o cérebro\" de uma forma brusca ao induzir um neurotransmissor chamado GABA, que reduz a atividade no sistema nervoso. Já o lemborexante bloqueando a hipocretina, um neurotransmissor cujo papel é manter a vigília e o despertar. —A grosso modo, o lemborexante bloqueia o que nos mantém acordado, ao contrário de outras classes, que agem induzindo o sono. Em outras palavras, essa classe impede a ação do combustível que mantém o interruptor do cérebro na posição “desperto” — resume Lucio Huebra, neurologista e médico do sono do Hospital Sírio-Libanês, em São Paulo. Uma nova opção é importante porque, desde que foram descobertos, na década de 60, os benzodiazepínicos se tornaram uma das categorias de fármacos mais vendidos, sendo utilizados também para tratamento de transtornos mentais como ansiedade e depressão, caso do clonazepam (rivotril) e do alprazolam. Porém, com o tempo de uso, descobriu-se que esses remédios causam dependência e, a longo prazo, elevam o risco de déficit cognitivo. Além disso, quando misturados com álcool ou ingeridos em excesso, os remédios podem provocar outros problemas graves, como paradas respiratórias. A partir dos anos 80, quando esses efeitos negativos começaram a ser relatados, começou um movimento de “desprescrição” dos remédios. Foi nesse contexto que criaram as drogas Z, como o zolpidem, também conhecidas como não-benzodiazepínicos. Elas, no entanto, também começaram a apresentar um perfil de dependência a longo prazo. Por isso, a recomendação é não usar por mais de quatro semanas. No caso do lemborexante, os estudos clínicos até agora indicaram um perfil mais favorável, com menor risco de dependência e efeitos colaterais. Mas os especialistas reforçam que também é importante mais tempo para confirmar se de fato o remédio mantém esse perfil ao longo do tempo. Além disso, entre as alternativas já disponíveis, existe uma droga Z que também apresenta um risco menor de dependência e deve ser priorizada: a ezopiclona. O remédio foi considerado o segundo com o melhor perfil pela revisão de pesquisadores de Oxford. Tratamento da insônia A Associação Brasileira do Sono (ABS) estima que duas a cada três pessoas no país têm alguma dificuldade relacionada à hora de dormir. Dados do Episono, pesquisa realizada na capital paulista pelo Instituto de Sono, revelam uma prevalência de 15% de diagnóstico formal de insônia crônica, quando as queixas ocorrem ao menos três vezes na semana e perduram por pelo menos três meses. O tratamento inicial não envolve remédios, mas sim mudanças de hábitos, como prática de atividades físicas, redução de estímulos, como telas e cafeína, ao fim do dia, evitar álcool e tabagismo e ajustes no ambiente do quarto, rotinas conhecidas como higiene do sono. Se essas mudanças não funcionarem, existe a Terapia Cognitivo-Comportamental para Insônia (TCC-I), considerada padrão-ouro pelas diretrizes internacionais. Ela combina técnicas que atuam nos três pilares da insônia: pensamentos disfuncionais, comportamentos inadequados e desregulação fisiológica. Ainda assim, é alto o número de brasileiros que recorrem aos remédios. De acordo com um estudo publicado na Revista de Saúde Pública, com base em dados da última Pesquisa Nacional de Saúde (PNS), do IBGE, 8,5% da população, o equivalente a cerca de 18 milhões de pessoas, usam medicamentos.",
+      "url": "https://oglobo.globo.com/saude/noticia/2026/11/26/insonia-quando-o-dayvigo-novo-remedio-eleito-melhor-por-oxford-chega-as-farmacias-do-brasil-e-o-preco.ghtml",
+      "published": "2026-11-26T12:25:24+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/saude",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "eurofarma",
+        "farmácias",
+        "medicamento"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "medicamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "eurofarma",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 36.0,
+      "rank": 19,
+      "story": "c0b20c22f3"
     },
     {
       "title": "Ajuste fiscal aprovado, e agora? Veja as próximas prioridades econômicas do governo no Congresso",
@@ -3009,7 +3189,7 @@
         }
       ],
       "score": 32.0,
-      "rank": 6,
+      "rank": 5,
       "story": "6eea7022e0"
     },
     {
@@ -3143,39 +3323,6 @@
       "score": 30.0,
       "rank": 5,
       "story": "ce5a08d3d8"
-    },
-    {
-      "title": "Criação de corretoras próprias de seguros atrai empresas como GPA, mas modelo deve seguir restrito",
-      "summary": "A gestão de riscos tem ganhado espaço nas discussões das empresas, mas a criação de corretoras próprias de seguros — como a anunciada pelo GPA, dono das redes Pão de Açúcar e Extra, em setembro,ainda deve ficar restrita a organizações com maior porte e maturidade operacional. A avaliação é de Eduardo Takahashi, presidente da operação brasileira da consultoria e corretora WTW, que cita setores como varejo, infraestrutura, energia e indústria entre aqueles em que o tema está em discussão. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://valor.globo.com/financas/noticia/2026/11/19/criao-de-corretoras-prprias-de-seguros-atrai-empresas-como-gpa-mas-modelo-deve-seguir-restrito.ghtml",
-      "published": "2026-11-19T11:13:43+00:00",
-      "source": "https://pox.globo.com/rss/valor/financas",
-      "matched_sectors": [
-        "Varejo Alimentar"
-      ],
-      "matched_aliases": [
-        "gpa",
-        "pão de açúcar"
-      ],
-      "matches": [
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "gpa",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Varejo Alimentar",
-          "alias": "pão de açúcar",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        }
-      ],
-      "score": 28.0,
-      "rank": 11,
-      "story": "f2341e7359"
     },
     {
       "title": "O que Americanas e Ri Happy querem oferecer na loja que o cliente não encontra no carrinho online",
@@ -3507,7 +3654,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 12,
+      "rank": 11,
       "story": "e0aaac1389"
     },
     {
@@ -3640,7 +3787,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 7,
+      "rank": 6,
       "story": "ab321899de"
     },
     {
@@ -3739,7 +3886,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 8,
+      "rank": 7,
       "story": "43b855dfb1"
     },
     {
@@ -3871,7 +4018,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 9,
+      "rank": 8,
       "story": "279730b39c"
     },
     {
@@ -3904,7 +4051,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 6,
+      "rank": 5,
       "story": "7afb3d9e78"
     },
     {
@@ -4037,7 +4184,7 @@
       ],
       "score": 28.0,
       "rank": 8,
-      "story": "375310727a"
+      "story": "f4243abe85"
     },
     {
       "title": "BC reforça recomendação de cautela na concessão de crédito diante de juros altos e inadimplência",
@@ -4069,7 +4216,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 14,
+      "rank": 13,
       "story": "b5cef08d2f"
     },
     {
@@ -4105,6 +4252,73 @@
       "score": 28.0,
       "rank": 16,
       "story": "149a317086"
+    },
+    {
+      "title": "“Não vamos ser sufocados”, diz CEO do iFood sobre competição predatória",
+      "summary": "Com vendas recordes, mas sob pressão de concorrentes dispostos a bancar uma guerra milionária de subsídios, o iFood decidiu pisar no acelerador. A companhia desembolsou cerca de R$ 15,6 bilhões em seis meses e, para além da disputa pela liderança na entrega de comida, busca ganhar terreno em segmentos como supermercados, farmácias, logística e serviços [&#8230;] O post &#8220;Não vamos ser sufocados&#8221;, diz CEO do iFood sobre competição predatória apareceu primeiro em Mercado&amp;Consumo .",
+      "url": "https://mercadoeconsumo.com.br/26/11/2026/ecommerce/nao-vamos-ser-sufocados-diz-ceo-do-ifood-sobre-competicao-predatoria",
+      "published": "2026-11-26T11:20:48+00:00",
+      "source": "https://mercadoeconsumo.com.br/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "farmácias",
+        "ifood"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "ifood",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Farmácias",
+          "alias": "farmácias",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0,
+      "rank": 35,
+      "story": "cfdb440ce2"
+    },
+    {
+      "title": "Temu se compromete a adequar práticas comerciais na UE, diz Comissão Europeia",
+      "summary": "A gigante chinesa de comércio eletrônico Temu se comprometeu a adequar várias de suas práticas comerciais às leis de proteção ao consumidor da União Europeia (UE), informou a Comissão Europeia nesta quinta-feira (26). Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/11/26/temu-se-compromete-a-adequar-praticas-comerciais-na-ue-diz-comissao-europeia.ghtml",
+      "published": "2026-11-26T11:57:46+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "comércio eletrônico",
+        "temu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "temu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 28.0,
+      "rank": 36,
+      "story": "cf1202d9e9"
     },
     {
       "title": "Propósito, inquietude e coragem: como o Grupo Boticário se reinventou ao longo de quase cinco décadas",
@@ -4152,7 +4366,7 @@
         }
       ],
       "score": 26.0,
-      "rank": 22,
+      "rank": 21,
       "story": "a2f8d73c81"
     },
     {
@@ -4317,7 +4531,7 @@
         }
       ],
       "score": 24.0,
-      "rank": 5,
+      "rank": 4,
       "story": "85fd4a4ab0"
     },
     {
@@ -4425,7 +4639,7 @@
         }
       ],
       "score": 22.0,
-      "rank": 10,
+      "rank": 9,
       "story": "278d9737df"
     },
     {
@@ -4459,108 +4673,41 @@
         }
       ],
       "score": 22.0,
-      "rank": 24,
+      "rank": 23,
       "story": "b0e1b7b604"
     },
     {
-      "title": "Inadimplência bancária cresce na América Latina; Argentina e Brasil lideram ranking",
-      "summary": "Inadimplência bancária cresce na América Latina; Argentina e Brasil lideram ranking &nbsp;&nbsp; Bloomberg Línea Brasil",
-      "url": "https://www.bloomberglinea.com.br/internacional/inadimplencia-bancaria-cresce-na-america-latina-argentina-e-brasil-lideram-ranking",
-      "published": "2026-11-19T12:22:23+00:00",
-      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "title": "Agenda de empresas: Smart Fit anuncia R$ 545 milhões em proventos; Auren e Usiminas realizam eventos com investidores",
+      "summary": "Smart Fit O conselho de administração da Smart Fit aprovou o pagamento de juros sobre capital próprio (JCP) no montante bruto de R$ 545 milhões, o equivalente a R$ R$ 0,89039 por ação. O órgão também aprovou o aumento do capital social da empresa, visando a preservação da estrutura de capital e da sua posição de caixa. Auren A Auren Energia realiza, a partir das 8h30, o Auren Day, evento da empresa de energia para analistas e investidores. Usiminas A Usiminas realiza reunião pública anual com analistas e investidores, a partir das 9h. Klabin A Klabin adiou do “Klabin Day”, dia dedicado a acionistas da empresa, que estava programado para 9 de dezembro. Onconclínicas A Oncoclínicas recebeu um pedido de convocação de uma assembleia geral extraordinária encaminhado por determinado fundos representados pela gestora Latache. A solicitação requer a realização de uma nova eleição para o conselho de administração da empresa, após a renúncia, no fim de setembro, do então conselheiro Paulo Roberto Belem Junior. Grupo GPS A Tordesilhas Capital Gestora de Recursos alienou toda a sua participação acionária no Grupo GPS. TIM A TIM Brasil e a SBA Torres Brasil, empresa de infraestrutura de telecomunicações, celebraram um novo acordo, que abrange cerca de 16% da base de torres utilizada pela operadora. Motiva A Motiva (ex-CCR) anunciou a mudança do comando de sua divisão de trilhos. Antes comandada por André Salcedo, a área ficará sob gestão de Eduardo Camargo, que também é presidente da Motiva Rodovias. Reprodução/Smartfit",
+      "url": "https://valor.globo.com/empresas/noticia/2026/11/26/agenda-de-empresas-smart-fit-anuncia-r-545-milhoes-em-proventos-auren-e-usiminas-realizam-eventos-com-investidores.ghtml",
+      "published": "2026-11-26T11:19:20+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
       "matched_sectors": [
-        "Economia"
+        "Academias"
       ],
       "matched_aliases": [
-        "inadimplência"
+        "smart fit",
+        "smartfit"
       ],
       "matches": [
         {
-          "sector": "Economia",
-          "alias": "inadimplência",
+          "sector": "Academias",
+          "alias": "smartfit",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "smart fit",
           "field": "title",
           "score": 20,
           "topic": null
         }
       ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "6d9c657cd6"
-    },
-    {
-      "title": "Agência de Comunicação - O empreendimento Estate by sbe anuncia hoje: O futuro da moradia com mais de US$ 1 bilhão em empreendimentos residenciais de luxo de marca.",
-      "summary": "Agência de Comunicação - O empreendimento Estate by sbe anuncia hoje: O futuro da moradia com mais de US$ 1 bilhão em empreendimentos residenciais de luxo de marca. &nbsp;&nbsp; Estadão Blue Studio",
-      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/prnewswire/o-empreendimento-estate-by-sbe-anuncia-hoje-o-futuro-da-moradia-com-mais-de-us-1-bilhao-em-empreendimentos-residenciais-de-luxo-de-marca",
-      "published": "2026-11-19T12:36:26+00:00",
-      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Global Consumer"
-      ],
-      "matched_aliases": [
-        "luxo"
-      ],
-      "matches": [
-        {
-          "sector": "Global Consumer",
-          "alias": "luxo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "366dbb26c4"
-    },
-    {
-      "title": "Médicos relatam psicose e mania em dois pacientes após interrupção de tirzepatida",
-      "summary": "Médicos relatam psicose e mania em dois pacientes após interrupção de tirzepatida &nbsp;&nbsp; Goiás 246",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNay10U3c3V19aSjdIZWdMWGE3WjBVTU4wb3llbkhZNk1JYnRlM2dSaHdiZ3VZU01FbGFyX0FPbUtTV2ZUUWtDTFFsS1BpMk5DUWtKVDNMQlBrc0hxVzRSTEZudGFiLUZwM3NFb3pmaXBhRTY2VUtPVTdxbVlmU3VaSEcxaHdRdDM4a09SUVJGVVVXaFBGX3J2Sk1CQUZGdHJlVTJpN2FIOFZfajJhR1dFa2U4YWZRckkxVWVZdEdUSDhjYWtwcDJXelpPLUZBM2s?oc=5",
-      "published": "2026-11-19T12:38:00+00:00",
-      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "tirzepatida"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "tirzepatida",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "e933367db9"
-    },
-    {
-      "title": "Homem é preso em Campinas por comercializar canetas emagrecedoras sem autorização",
-      "summary": "Homem é preso em Campinas por comercializar canetas emagrecedoras sem autorização &nbsp;&nbsp; TODODIA",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQnJ4aWdCN1Bxa2tDWXhCWEUwNVZuZEdCa1lIQm9rQmR5YUlRT3lqdTl0TERtY1lwajRoRTFGYVIxRnlRUE1ra2hLZDlBaDM0dGpGazR3Y2FxV2Z6QXBtSWhlMnZFVk42emo5R04xYk9UODh5NWxXb1dlLV9yMnhFZWg4dll1TWljN1JUc2xGSERpYWphdldIVG1RVEtZT2JVY04zQWtR?oc=5",
-      "published": "2026-11-19T12:48:21+00:00",
-      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "canetas emagrecedoras"
-      ],
-      "matches": [
-        {
-          "sector": "Farmácias",
-          "alias": "canetas emagrecedoras",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "6fa6c8d3f0"
+      "score": 22.0,
+      "rank": 32,
+      "story": "cbdb553420"
     },
     {
       "title": "MPF apura filas diferenciadas para beneficiários do Farmácia Popular",
@@ -6586,7 +6733,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "e88d5b31d0"
     },
     {
@@ -6911,7 +7058,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "be0145fc87"
     },
     {
@@ -6936,7 +7083,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "eaa8c0a647"
     },
     {
@@ -6961,7 +7108,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "f9ba141190"
     },
     {
@@ -7061,7 +7208,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "d4203c497a"
     },
     {
@@ -7086,7 +7233,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "194f9765f6"
     },
     {
@@ -7111,7 +7258,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "48380a30df"
     },
     {
@@ -7136,7 +7283,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 11,
       "story": "6b327c95a6"
     },
     {
@@ -7261,7 +7408,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 5,
       "story": "d135442521"
     },
     {
@@ -7286,7 +7433,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 5,
       "story": "ac000c893f"
     },
     {
@@ -7311,7 +7458,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 5,
       "story": "ae4250d844"
     },
     {
@@ -7561,7 +7708,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 6,
       "story": "b49320da44"
     },
     {
@@ -7636,7 +7783,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 16,
       "story": "281b857ae9"
     },
     {
@@ -7661,8 +7808,33 @@
         }
       ],
       "score": 20.0,
-      "rank": 17,
+      "rank": 16,
       "story": "c4f23feb1c"
+    },
+    {
+      "title": "Venda ilegal de canetas emagrecedoras pressiona saúde e segurança, alertam debatedores",
+      "summary": "Venda ilegal de canetas emagrecedoras pressiona saúde e segurança, alertam debatedores &nbsp;&nbsp; Portal da Câmara dos Deputados",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM2JpSjA3Y04wSGdzQ1pxM2NYV2ZhZUhudndDcUp2VHhjV3c3c1ZHR0t2OHlsTVhGMWVhOFE0ajNPU05kTmo0XzBCckpSNkZfOXVFdGxSdXo3ejJ4WEZtbEpEN0FYSkdPMmZCcGtCVGRRdmYzeHBjUjZRemwwWnVFM2tzakI4YVI4SGJlbkhHVGJobHJV?oc=5",
+      "published": "2026-11-24T17:45:00+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 7,
+      "story": "c2b2a62415"
     },
     {
       "title": "Após apreensão na Fernão Dias, PRF alerta para canetas emagrecedoras escondidas em pneus e motores de veículos",
@@ -7961,7 +8133,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 8,
+      "rank": 7,
       "story": "63b590ae91"
     },
     {
@@ -8136,7 +8308,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 22,
+      "rank": 21,
       "story": "9083816ac7"
     },
     {
@@ -8161,7 +8333,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 22,
+      "rank": 21,
       "story": "74493ce015"
     },
     {
@@ -8186,7 +8358,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 22,
+      "rank": 21,
       "story": "d4d0bcafca"
     },
     {
@@ -8261,7 +8433,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 9,
       "story": "a98146dad3"
     },
     {
@@ -8286,8 +8458,33 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 9,
       "story": "a98146dad3"
+    },
+    {
+      "title": "Tirzepatida supera placebo no tratamento da obesidade em adolescentes",
+      "summary": "Tirzepatida supera placebo no tratamento da obesidade em adolescentes &nbsp;&nbsp; Medscape",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcmxnZlI2aHFHdVhfTHhNMU1mWTRuX1ZvWF9CUnhBTjg5ekxQclphQXJ1c205cmNtdW1ZZlkyV0ZzTFdCNFpIVjVaRkpIeFJIbkM3Z28yTW5HZmZ0b0ZFN0pObHlyMVhXNVVzLVQzdTN0Y211SXl1MEd6Y1RIRHNSb1VkNC1xMy1kdUdlM1ppdHl0OTdBRkVZLVplWThya1pVcGRjTGNMVjRzakV0bGhPdTlVbjA2UGc?oc=5",
+      "published": "2026-11-25T12:34:32+00:00",
+      "source": "https://news.google.com/rss/search?q=%22caneta+emagrecedora%22+OR+semaglutida+OR+tirzepatida&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "tirzepatida"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "tirzepatida",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 9,
+      "story": "178b0b4e61"
     },
     {
       "title": "Suplementos, temperos, anabolizantes e medicamentos falsificados são proibidos pela Anvisa; veja lista",
@@ -8336,7 +8533,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 23,
+      "rank": 22,
       "story": "9f139c9e94"
     },
     {
@@ -8363,6 +8560,31 @@
       "score": 20.0,
       "rank": 10,
       "story": "97d1593a66"
+    },
+    {
+      "title": "Venda ilegal de canetas emagrecedoras expõe pacientes a riscos, diz setor",
+      "summary": "Venda ilegal de canetas emagrecedoras expõe pacientes a riscos, diz setor &nbsp;&nbsp; UOL Notícias",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYmd6cFFLMzNoZ3I3Ry1ZelJ6TXdKa085Z2F6UWwyenJ6cGNwMmVReG8wWHlBMU95eFZiTVZLVW9XZkFyLTZtUEU0WlVieV9KenhOX2JGa2FVbWlvSU1RTTR2ckI1SHR4S0UwU3dGUzU3Z1c1enhOUUVtMi1yMHprWnk0cS1ZMktia0xSSXFjZkY5WXFINFB4Y2RXcVQ1QWRoMWFtcDItQ2gxOVVRU0hub29OQzFYZFM4NnJEbDB5eHlKX0JzTjUzQk9FV2hyU0czdGpPbUdMVkV4RDVZT0dfYg?oc=5",
+      "published": "2026-11-25T13:04:20+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 10,
+      "story": "f4243abe85"
     },
     {
       "title": "Nova pesquisa do IBGE sobre consumo das famílias pode alterar projeções do IPCA",
@@ -8461,7 +8683,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 6,
       "story": "6353b3f0c6"
     },
     {
@@ -8561,7 +8783,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 11,
+      "rank": 10,
       "story": "57f3606d6b"
     },
     {
@@ -8586,7 +8808,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 25,
+      "rank": 24,
       "story": "cfdb440ce2"
     },
     {
@@ -8611,7 +8833,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 25,
+      "rank": 24,
       "story": "2a15283244"
     },
     {
@@ -8761,7 +8983,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "db6af0a81b"
     },
     {
@@ -8786,7 +9008,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "86f5b1b0ff"
     },
     {
@@ -8811,7 +9033,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 11,
       "story": "e7a8da774a"
     },
     {
@@ -8836,7 +9058,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 11,
       "story": "a75432109a"
     },
     {
@@ -8861,7 +9083,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 11,
       "story": "5e1e2d40df"
     },
     {
@@ -8961,7 +9183,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 5,
       "story": "acccbdcaea"
     },
     {
@@ -8986,7 +9208,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 13,
       "story": "ceb751aee1"
     },
     {
@@ -9036,7 +9258,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 6,
+      "rank": 5,
       "story": "000a9213db"
     },
     {
@@ -9111,7 +9333,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 31,
+      "rank": 30,
       "story": "83de0e8103"
     },
     {
@@ -9138,6 +9360,31 @@
       "score": 20.0,
       "rank": 9,
       "story": "f75c499624"
+    },
+    {
+      "title": "Estante na Black Friday 2026: MadeiraMadeira e Mobly lideram indicações do ChatGPT; veja preços",
+      "summary": "Lojas dominam as respostas da IA sobre estantes e prateleiras, que funcionam como vitrine de preços; Dalla Costa aparece com modelo por R$ 241,49",
+      "url": "https://exame.com/tecnologia/examelab/estante-black-friday-2026-chatgpt",
+      "published": "2026-11-26T09:20:47+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Fashion"
+      ],
+      "matched_aliases": [
+        "mobly"
+      ],
+      "matches": [
+        {
+          "sector": "Fashion",
+          "alias": "mobly",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 9,
+      "story": "35764df490"
     },
     {
       "title": "Alíquota da CBS: Revisão do ‘tax gap’ vira alvo no Senado",
@@ -9186,8 +9433,133 @@
         }
       ],
       "score": 20.0,
-      "rank": 15,
+      "rank": 14,
       "story": "7e24780111"
+    },
+    {
+      "title": "Crise impulsiona revisão interna na construção civil",
+      "summary": "Com a Selic em 13,75% ao ano, mantida pelo Copom em novembro, o crédito ficou mais caro para quem comprou na planta e precisa financiar o saldo na entrega das chaves. Segundo o indicador Abrainc/Fipe, os distratos subiram 41,4% no primeiro trimestre de 2026 em relação ao mesmo período do ano anterior, chegando a 11,4 devoluções para cada 100 vendas. Na contramão do esfriamento, a Omni-io desenvolve uma plataforma que acompanha o prédio do projeto à entrega das chaves. À frente da empresa está o engenheiro Adler Linhares, fundador e CTO da Omni-io e fundador da OPEX Engenharia, formado pela PUC-Rio e responsável por auditorias e consultorias de comissionamento em empreendimentos como a torre Birmann 32 e a Cidade Matarazzo, em São Paulo, e o hotel Fairmont Copacabana, no Rio de Janeiro. Para Linhares, com o crédito caro, o comprador chega à entrega mais apertado, a receita da construtora fica mais incerta e cada real perdido no canteiro pesa mais. \"A crise é a hora de olhar para dentro. Toda crise traz um aprendizado endotérmico: a empresa absorve a pressão de fora e a transforma em revisão de processos, em busca de eficiência\", afirma. Entre 2020 e os últimos anos, segundo ele, o setor viveu um típico mercado de vendedores, com a alta do custo de construção repassada ao preço do metro quadrado e estoques enxutos. Hoje, na média e na alta renda, que dependem do crédito bancário, o jogo virou a favor do comprador: com o financiamento na entrega custando até 14% ao ano, ele ficou seletivo e negocia preço e condições. No segmento econômico, apoiado no FGTS, o mercado segue mais aquecido. \"No mercado de vendedores, a margem vinha da valorização do preço de venda\", diz Linhares. Agora, a margem passa a ser defendida dentro do canteiro, cortando desperdício e evitando retrabalho. Na avaliação do engenheiro, o maior desperdício está no retrabalho. \"Ele quase nunca nasce no momento em que aparece\", afirma. Incongruências entre projetos ou decisões de campo tomadas sem o conhecimento de todos formam uma zona nebulosa que se propaga até que um serviço não possa mais avançar. O custo raramente aparece inteiro na planilha: dilui-se na equipe que volta ao mesmo ponto, no material comprado com base numa revisão superada do projeto e no teste repetido porque o relatório se perdeu. \"Ninguém lança isso como retrabalho, mas a obra paga a conta\". O australiano Peter Love, referência no tema, concluiu que o custo do retrabalho é subnotificado: o que as empresas registram fica abaixo do que ocorre de fato. Na Arábia Saudita, levantamento de Assaf e Al-Hejji, de 2006, mostrou que cerca de 70% dos grandes projetos atrasavam, com causas como mudanças de projeto e atraso de desenhos. No Brasil, não há dado oficial nacional. Estudo de caso apresentado no ENTAC em 2022 mostrou que o retrabalho consumia cerca de 10% do lucro estimado por unidade numa obra de habitação social, e a CBIC aponta a baixa qualidade de projetos entre as principais causas das mais de 8 mil obras públicas paralisadas contadas pelo TCU. \"Quem não mede não enxerga, e quem não enxerga continua pagando a conta sem saber\", diz Linhares. Para Linhares, o comissionamento é o processo inteiro: começa no projeto, com os requisitos do proprietário, e acompanha a obra até a entrega. O momento da verdade são os testes de aceitação, quando cada sistema do prédio é testado e comprovado, e uma reprovação nessa etapa é o retrabalho mais caro. Estudo de Evan Mills, do Lawrence Berkeley National Laboratory, de 2009, apontou payback mediano de 1,1 ano em prédios existentes e de 4,2 anos em obras novas, com economia mediana de energia de 16% e 13%, respectivamente. \"Comissionar não é custo; é a forma de garantir que o prédio entregue funcione como foi projetado\", afirma. Software de gestão de obra não é novidade, e boa parte do setor continua no WhatsApp e na planilha. Para o engenheiro, o problema não é falta de software, mas o fato de cada informação morar num lugar diferente. A mudança começa na forma de conduzir a obra: cada decisão precisa ter dono, prazo e registro. \"A tecnologia entra para sustentar essa disciplina, não para substituí-la\", diz. A Omni-io reúne num único fluxo revisões de projeto, consultas ao projetista, pendências de campo e testes de comissionamento. Segundo a empresa, são mais de 300 formulários de teste, alinhados às referências da BCxA e da ASHRAE, com os valores das normas brasileiras junto a cada campo. Antes da assinatura, a inteligência artificial confere respostas, faixas de norma, fotos e anexos e aponta o que está fora do esperado, com a evidência ao lado. \"Não usamos agentes de IA para substituir o engenheiro, e sim para que nenhum erro chegue até a obra\", afirma Linhares. A IA não aprova nem assina; a responsabilidade pela aprovação continua sendo do profissional. Linhares aponta três desafios. O primeiro é financeiro: com juros altos por mais tempo, a margem não vai absorver ineficiência. O segundo é a exigência na entrega: compradores e proprietários corporativos, atentos à eficiência energética e a certificações como LEED e AQUA, vão cobrar prédios entregues no prazo, funcionando e documentados. O terceiro é a coordenação entre construtora, projetistas, instaladoras e fiscais, que ainda trocam informação crítica por e-mail, WhatsApp e planilha. \"Digitalizar esse fluxo deixou de ser diferencial e virou condição para crescer\", conclui. Fontes: indicador Abrainc/Fipe (1º tri/2026) e Paraíba Business; ISTOÉ (Selic, nov/2026); Love, P. E. D., via ASCE (2026); Assaf e Al-Hejji, International Journal of Project Management (2006); Campos e Paiva, XIX ENTAC (2022); CBIC (2023), com dados do TCU; Mills, E., Lawrence Berkeley National Laboratory (2009).",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/26/crise-impulsiona-revisao-interna-na-construcao-civil-1.ghtml",
+      "published": "2026-11-26T11:04:53+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Material de Construção"
+      ],
+      "matched_aliases": [
+        "construção civil"
+      ],
+      "matches": [
+        {
+          "sector": "Material de Construção",
+          "alias": "construção civil",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 14,
+      "story": "69a8ace31d"
+    },
+    {
+      "title": "Alto custo de canetas emagrecedoras ameaça limitar seu potencial para a saúde pública",
+      "summary": "Alto custo de canetas emagrecedoras ameaça limitar seu potencial para a saúde pública &nbsp;&nbsp; Bloomberg Línea Brasil",
+      "url": "https://www.bloomberglinea.com.br/2026/11/26/alto-custo-de-canetas-emagrecedoras-ameaca-limitar-seu-potencial-para-a-saude-publica",
+      "published": "2026-11-26T11:14:06+00:00",
+      "source": "https://news.google.com/rss/search?q=site:bloomberglinea.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 14,
+      "story": "0b98437770"
+    },
+    {
+      "title": "Como o “imposto do pecado” vai afetar o bolso dos colecionadores de carros antigos",
+      "summary": "Como o “imposto do pecado” vai afetar o bolso dos colecionadores de carros antigos &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/jornal-do-carro/rodrigo-mora/como-o-imposto-do-pecado-vai-afetar-o-bolso-dos-colecionadores-de-carros-antigos",
+      "published": "2026-11-26T12:00:00+00:00",
+      "source": "https://news.google.com/rss/search?q=saude+site:estadao.com.br&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "imposto do pecado"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "imposto do pecado",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 15,
+      "story": "06649b8114"
+    },
+    {
+      "title": "Brasileiro investigado por falsificar canetas emagrecedoras tem prisão decretada no Paraguai",
+      "summary": "Brasileiro investigado por falsificar canetas emagrecedoras tem prisão decretada no Paraguai &nbsp;&nbsp; Estadão",
+      "url": "https://www.estadao.com.br/em-alta/brasil/paraguai-determina-detencao-de-brasileiro-investigado-por-falsificar-canetas-emagrecedoras-npr",
+      "published": "2026-11-26T12:20:46+00:00",
+      "source": "https://news.google.com/rss/search?q=%22canetas+emagrecedoras%22&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "canetas emagrecedoras"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "canetas emagrecedoras",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 15,
+      "story": "acccbdcaea"
+    },
+    {
+      "title": "Temu se compromete a frenar su ruleta de descuentos y las reseñas falsas en la UE",
+      "summary": "Temu se compromete a frenar su ruleta de descuentos y las reseñas falsas en la UE &nbsp;&nbsp; El Economista",
+      "url": "https://www.eleconomista.com.mx/empresas/temu-compromete-frenar-ruleta-descuentos-resenas-falsas-ue-20261126-845954.html",
+      "published": "2026-11-26T12:36:09+00:00",
+      "source": "https://news.google.com/rss/search?q=%28%22Mercado+Libre%22+OR+%22Mercado+Pago%22+OR+Galperin+OR+Amazon+OR+%22TikTok+Shop%22+OR+Temu+OR+Shein+OR+Shopee+OR+Nubank%29+site%3Aeleconomista.com.mx+when%3A2d&hl=es-419&gl=MX&ceid=MX:es-419",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "temu"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "temu",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 32,
+      "story": "ef91e0349b"
     },
     {
       "title": "Vendas de alimentos avançam e têm semana recorde",
@@ -9794,7 +10166,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 6,
+      "rank": 5,
       "story": "4bfc1b9c82"
     },
     {
@@ -9969,7 +10341,7 @@
         }
       ],
       "score": 10.0,
-      "rank": 4,
+      "rank": 3,
       "story": "b65758ea8d"
     },
     {
@@ -10653,7 +11025,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 1,
+      "rank": 0,
       "story": "ef7c51ffbc"
     },
     {
@@ -10778,7 +11150,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 2,
+      "rank": 1,
       "story": "57a8dd4d10"
     },
     {
@@ -11203,7 +11575,7 @@
         }
       ],
       "score": 8.0,
-      "rank": 4,
+      "rank": 3,
       "story": "33ff05ac63"
     },
     {
@@ -11355,6 +11727,56 @@
       "score": 8.0,
       "rank": 1,
       "story": "7a2757b196"
+    },
+    {
+      "title": "Importação de calçados por plataformas internacionais supera via tradicional",
+      "summary": "A indústria calçadista chega à Black Friday e ao Natal com a concorrência crescente das plataformas internacionais de comércio eletrônico. Desde maio, quando o imposto de importação sobre encomendas de até US$ 50 foi zerado, as compras de calçados nesses sites superam, mês a mês, as importações convencionais, segundo levantamento da Associação Brasileira da Indústria e Comércio de Calçados (Abicalçados) e da Federação das Indústrias do Estado de São Paulo (Fiesp), com base em dados da Receita Federal. Em outubro, as pequenas remessas somaram US$ 71,6 milhões, ante US$ 46,9 milhões em importações pela via tradicional. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/empresas/noticia/2026/11/26/importao-de-calados-por-plataformas-internacionais-supera-via-tradicional.ghtml",
+      "published": "2026-11-26T12:08:01+00:00",
+      "source": "https://pox.globo.com/rss/valor/empresas",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "comércio eletrônico"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0,
+      "rank": 4,
+      "story": "2b6c718e96"
+    },
+    {
+      "title": "Anvisa proíbe substâncias irregulares para emagrecimento e rejuvenescimento da pele",
+      "summary": "Segundo o órgão, substâncias eram vendidas como medicamentos de uso humano, mas não têm registro sanitário, o que impede sua circulação no país",
+      "url": "https://veja.abril.com.br/saude/anvisa-proibe-substancias-irregulares-para-emagrecimento-e-rejuvenescimento-da-pele",
+      "published": "2026-11-26T12:18:39+00:00",
+      "source": "https://veja.abril.com.br/feed",
+      "matched_sectors": [
+        "Farmácias"
+      ],
+      "matched_aliases": [
+        "medicamentos"
+      ],
+      "matches": [
+        {
+          "sector": "Farmácias",
+          "alias": "medicamentos",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0,
+      "rank": 4,
+      "story": "62690cf4ad"
     }
   ]
 }
