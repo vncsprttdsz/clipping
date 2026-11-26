@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T09:42:16.634578+00:00",
-  "count": 375,
-  "new_this_run": 13,
+  "generated_at": "2026-11-26T11:08:10.554453+00:00",
+  "count": 380,
+  "new_this_run": 17,
   "articles": [
     {
       "title": "Mercado de canetas emagrecedoras manipuladas já rivaliza com o do Mounjaro",
@@ -73,7 +73,7 @@
         }
       ],
       "score": 92.0,
-      "rank": 21,
+      "rank": 20,
       "story": "39f0b68d15"
     },
     {
@@ -187,7 +187,7 @@
         }
       ],
       "score": 76.0,
-      "rank": 72,
+      "rank": 71,
       "story": "1e3f290a29"
     },
     {
@@ -285,7 +285,7 @@
         }
       ],
       "score": 68.0,
-      "rank": 39,
+      "rank": 38,
       "story": "635a3dbc30"
     },
     {
@@ -846,7 +846,7 @@
         }
       ],
       "score": 60.0,
-      "rank": 39,
+      "rank": 38,
       "story": "edb270de1e"
     },
     {
@@ -944,8 +944,66 @@
         }
       ],
       "score": 58.0,
-      "rank": 11,
+      "rank": 10,
       "story": "73f48edf17"
+    },
+    {
+      "title": "Galpões de lona apoiam setor logístico na reforma tributária",
+      "summary": "Segundo levantamento da consultoria Ilos com 110 grandes companhias, divulgado pelo Valor Econômico, 21% delas pretendem mudar a localização de centros de distribuição em razão das novas regras tributárias. Mais da metade (51%) afirma ter hoje custos logísticos maiores para obter benefícios tributários. Outros 54% possuem algum CD beneficiado por incentivos fiscais que deixarão de existir. Assim, parte delas já considera rever sua malha. A reorganização não deve acontecer de uma hora para outra. Mudar um centro de distribuição envolve contratos, imóveis, mão de obra, equipamentos e toda uma operação já estabelecida. A própria reforma dá tempo para essa adaptação: a transição para o novo sistema tributário só estará concluída em 2033. Até lá, algumas empresas podem precisar de espaço em novas regiões sem saber ainda se aquele será o endereço definitivo de suas operações. \"Em um momento de mudança da malha logística, a empresa pode precisar ampliar a capacidade em uma região antes de ter certeza de que aquela será sua configuração definitiva\", observa Carlos Pela, sócio-diretor da Nautika Coberturas. \"Ter flexibilidade para responder a essa necessidade sem imobilizar capital pode fazer diferença durante a transição. E um galpão lonado nem precisa ser comprado, pode ser locado pelo tempo que a empresa desejar\", observa. A reforma deve colocar a localização dos estoques novamente na mesa de muitas empresas nos próximos anos. Onde manter um centro de distribuição, quanto custa movimentar os produtos a partir dali e quanto tempo será necessário para colocar uma nova área em funcionamento passam a fazer parte da mesma decisão. Esse parece ser o ponto decisivo da nova realidade logística. \"A discussão deixa de ser apenas quantos metros quadrados a empresa precisa e passa a incluir onde, quando e por quanto tempo vai precisar deles. Se a logística brasileira está entrando em um período de reorganização, a infraestrutura também precisa conseguir acompanhar esse movimento\", conclui Carlos Pela, da Nautika Coberturas.",
+      "url": "https://valor.globo.com/patrocinado/dino/noticia/2026/11/26/galpoes-de-lona-apoiam-setor-logistico-na-reforma-tributaria-1.ghtml",
+      "published": "2026-11-26T11:00:57+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "E-commerce",
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "centro de distribuição",
+        "centros de distribuição",
+        "galpões",
+        "incentivos fiscais",
+        "reforma tributária"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "centro de distribuição",
+          "field": "body",
+          "score": 2,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "centros de distribuição",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "E-commerce",
+          "alias": "galpões",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "reforma tributária",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        },
+        {
+          "sector": "Reforma Tributária",
+          "alias": "incentivos fiscais",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 58.0,
+      "rank": 24,
+      "story": "fa50e1bf6a"
     },
     {
       "title": "Sabin entra na disputa das canetas emagrecedoras com nova unidade",
@@ -1207,7 +1265,7 @@
         }
       ],
       "score": 48.0,
-      "rank": 30,
+      "rank": 29,
       "story": "05a0a5dbb2"
     },
     {
@@ -1445,7 +1503,7 @@
         }
       ],
       "score": 44.0,
-      "rank": 15,
+      "rank": 14,
       "story": "e88d5b31d0"
     },
     {
@@ -1586,72 +1644,6 @@
       "score": 42.0,
       "rank": 31,
       "story": "47cf4571ec"
-    },
-    {
-      "title": "Agência de Comunicação - Imposto do pecado: o que é o Imposto Seletivo, quem paga e o que muda em 2027",
-      "summary": "Agência de Comunicação - Imposto do pecado: o que é o Imposto Seletivo, quem paga e o que muda em 2027 &nbsp;&nbsp; Estadão Blue Studio",
-      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/engrenagens-do-crescimento/imposto-do-pecado-o-que-e-o-imposto-seletivo-quem-paga-e-o-que-muda-em-2027",
-      "published": "2026-11-19T09:52:23+00:00",
-      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "Reforma Tributária"
-      ],
-      "matched_aliases": [
-        "imposto do pecado",
-        "imposto seletivo"
-      ],
-      "matches": [
-        {
-          "sector": "Reforma Tributária",
-          "alias": "imposto seletivo",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "Reforma Tributária",
-          "alias": "imposto do pecado",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 3,
-      "story": "562dda21a6"
-    },
-    {
-      "title": "Extensão do domínio da luta: o novo ‘ringue’ na disputa entre Shopee e Mercado Livre",
-      "summary": "Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
-      "url": "https://oglobo.globo.com/blogs/capital/post/2026/11/extensao-do-dominio-da-luta-o-novo-ringue-na-disputa-entre-shopee-e-mercado-livre.ghtml",
-      "published": "2026-11-19T11:00:00+00:00",
-      "source": "https://pox.globo.com/rss/oglobo/economia",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "mercado livre",
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        },
-        {
-          "sector": "E-commerce",
-          "alias": "mercado livre",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 40.0,
-      "rank": 30,
-      "story": "eb96086780"
     },
     {
       "title": "Lula assina decreto que regulamenta redução de jornada e escala 5x2 a partir de dezembro",
@@ -2379,7 +2371,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 28,
+      "rank": 27,
       "story": "a14b1dac58"
     },
     {
@@ -2412,7 +2404,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 14,
+      "rank": 13,
       "story": "0c8862712a"
     },
     {
@@ -2478,7 +2470,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 34,
+      "rank": 33,
       "story": "75fb69866b"
     },
     {
@@ -2544,7 +2536,7 @@
         }
       ],
       "score": 40.0,
-      "rank": 65,
+      "rank": 64,
       "story": "21513328b3"
     },
     {
@@ -2876,7 +2868,7 @@
         }
       ],
       "score": 36.0,
-      "rank": 11,
+      "rank": 10,
       "story": "96cb3d77fa"
     },
     {
@@ -3066,7 +3058,7 @@
         }
       ],
       "score": 32.0,
-      "rank": 18,
+      "rank": 17,
       "story": "0962eac0c7"
     },
     {
@@ -3149,42 +3141,8 @@
         }
       ],
       "score": 30.0,
-      "rank": 6,
+      "rank": 5,
       "story": "ce5a08d3d8"
-    },
-    {
-      "title": "Eurofarma leva Dermage ao Chile e amplia operação externa",
-      "summary": "A Eurofarma está levando a Dermage, marca de dermocosméticos que adquiriu em março de 2025, ao Chile , surfando a onda de popularidade dos produtos de skincare na América Latina . Leia mais (11/19/2026 - 07h00)",
-      "url": "https://www1.folha.uol.com.br/colunas/painelsa/2026/11/eurofarma-leva-dermage-ao-chile-e-amplia-operacao-externa.shtml",
-      "published": "2026-11-19T10:00:00+00:00",
-      "source": "https://feeds.folha.uol.com.br/mercado/rss091.xml",
-      "matched_sectors": [
-        "Cosméticos",
-        "Farmácias"
-      ],
-      "matched_aliases": [
-        "eurofarma",
-        "skincare"
-      ],
-      "matches": [
-        {
-          "sector": "Cosméticos",
-          "alias": "skincare",
-          "field": "lead",
-          "score": 8,
-          "topic": null
-        },
-        {
-          "sector": "Farmácias",
-          "alias": "eurofarma",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 28.0,
-      "rank": 11,
-      "story": "904bbd65e8"
     },
     {
       "title": "Criação de corretoras próprias de seguros atrai empresas como GPA, mas modelo deve seguir restrito",
@@ -3748,7 +3706,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 8,
+      "rank": 7,
       "story": "60f5a7279a"
     },
     {
@@ -3847,7 +3805,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 9,
+      "rank": 8,
       "story": "d78419acde"
     },
     {
@@ -3880,7 +3838,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 9,
+      "rank": 8,
       "story": "d91137c68f"
     },
     {
@@ -3979,7 +3937,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 11,
+      "rank": 10,
       "story": "26c030104d"
     },
     {
@@ -4045,7 +4003,7 @@
         }
       ],
       "score": 28.0,
-      "rank": 13,
+      "rank": 12,
       "story": "04515a2f63"
     },
     {
@@ -4113,6 +4071,40 @@
       "score": 28.0,
       "rank": 14,
       "story": "b5cef08d2f"
+    },
+    {
+      "title": "Herdeira de um negócio de quase um século aposta em malas de luxo para faturar R$ 36 milhões",
+      "summary": "Com produtos desenvolvidos no Brasil e fabricados na China, a IKA ONE estreia no comércio eletrônico e planeja ampliar sua atuação no varejo físico",
+      "url": "https://exame.com/negocios/herdeira-de-um-negocio-de-quase-um-seculo-aposta-em-malas-de-luxo-para-faturar-r-36-milhoes",
+      "published": "2026-11-26T07:01:15+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "E-commerce",
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "comércio eletrônico",
+        "luxo"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "comércio eletrônico",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "luxo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 28.0,
+      "rank": 16,
+      "story": "149a317086"
     },
     {
       "title": "Propósito, inquietude e coragem: como o Grupo Boticário se reinventou ao longo de quase cinco décadas",
@@ -4469,56 +4461,6 @@
       "score": 22.0,
       "rank": 24,
       "story": "b0e1b7b604"
-    },
-    {
-      "title": "Discreta gestora dos Lorentzen atua na reestruturação da Chilli Beans",
-      "summary": "A Akron Capital está entre os nomes por trás da recuperação extrajudicial da Chilli Beans, conduzida em conjunto com a Vega Asset – formada por ex-sócios da Alvarez & Marsal – e o Itaú. Discreta, a casa é o braço de special situations da Lorinvest, gestora de investimentos da família Lorentzen, fundadora da Aracruz. O modelo de atuação da Akron é dar fôlego financeiro à companhia em dificuldade, por meio de dívida, e participar do processo de reestruturação do negócio. “A família sempre teve uma preocupação com a sociedade, que sente os efeitos das crises corporativos, e queria atuar com foco no devedor”, afirma o CEO Felipe Casotti. A disciplina militar e o jogo de cintura carioca de Flavio Galdino Ricardo K., o fabricante de botões contra crises Casotti foi chamado pelos Lorentzen para estruturar a vertical de special situations em 2018, depois que o executivo atuou na reestruturação da Mega Energia. Desde então, a família já investiu mais de R$ 300 milhões em empresas em dificuldades. Um delas foi a companhia de apoio marítimo Bravante, que chegou a ter o BTG como sócio e enfrentou uma crise de quase uma década após a redução dos contratos com a Petrobras. As compras dos créditos realizadas desde 2021 facilitaram a negociação. “Como nos tornamos o principal credor, conseguimos negociar diretamente e conduzir a reestruturação. Isso facilitou, embora tenha sido um processo longo\", diz o executivo. A dívida de quase R$ 4 bilhões foi reduzida para menos de R$ 900 milhões, sem necessidade de recuperação judicial ou extrajudicial. Eduardo Munhoz quer ser mais que um ‘one-man show’ Camille Faria tira os gatos do telhado Ivo Waisberg, o homem-bomba na mesa de negociação Segundo Casotti, a operação da Bravanet agora aguarda apenas procedimentos formais, previstos para estarem concluídos até o fim do ano. Nesse caso, os antigos sócios, os irmãos Marcelino e Renato Nascimento, mantiveram o controle da empresa, que emprega quase 10 mil pessoas direta e indiretamente, atendendo à filosofia do Seu Erling Lorentzen de minimizar o impacto social. Casotti, da Akron: atuação do lado do devedor para minimizar impacto social Divulgação Outro caso emblemático para a firma é a Enfil, empresa de engenharia especializada em projetos de saneamento que passou por recuperação judicial e voltou a crescer após sair do processo. A carteira de contratos atual é de aproximadamente R$ 1,5 bilhão, segundo Casotti, que não assume cargos nas recuperandas, mas pode indicar executivos – como um vice-presidente nesse caso. Quem precisa de um turnaround é o Brasil, diz Paulo Mattos Renato Carvalho navega as crises e o mar cearense “Nossa atuação é como credor, não como acionista”, frisa. Na Chilli Beans, o consórcio com Vega e Itaú busca financiar a recuperação extrajudicial da rede de óculos e acessórios, que acumula dívidas de aproximadamente R$ 500 milhões. A Akron adquiriu créditos detidos pela Kinea e pretende ampliar sua exposição. A maior parte das pendências é com bancos, e a prioridade agora é recuperar o desempenho operacional da rede. “Os três trabalham na colocação de dinheiro novo na companhia. Nossa participação atualmente é de aproximadamente 15% via dívida, mas devemos aumentar”, afirma o reestruturador.",
-      "url": "https://pipelinevalor.globo.com/mercado/noticia/discreta-gestora-dos-lorentzen-atua-na-reestruturacao-da-chilli-beans.ghtml",
-      "published": "2026-11-19T10:00:00+00:00",
-      "source": "https://pox.globo.com/rss/pipelinevalor",
-      "matched_sectors": [
-        "Fashion"
-      ],
-      "matched_aliases": [
-        "chilli beans"
-      ],
-      "matches": [
-        {
-          "sector": "Fashion",
-          "alias": "chilli beans",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 4,
-      "story": "07da8ad505"
-    },
-    {
-      "title": "Arquivos Shopee Brasil",
-      "summary": "Arquivos Shopee Brasil &nbsp;&nbsp; Mercado&amp;Consumo",
-      "url": "https://mercadoeconsumo.com.br/tag/shopee-brasil",
-      "published": "2026-11-19T10:18:10+00:00",
-      "source": "https://news.google.com/rss/search?q=site:mercadoeconsumo.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
-      "matched_sectors": [
-        "E-commerce"
-      ],
-      "matched_aliases": [
-        "shopee"
-      ],
-      "matches": [
-        {
-          "sector": "E-commerce",
-          "alias": "shopee",
-          "field": "title",
-          "score": 20,
-          "topic": null
-        }
-      ],
-      "score": 20.0,
-      "rank": 10,
-      "story": "a8f896c610"
     },
     {
       "title": "Inadimplência bancária cresce na América Latina; Argentina e Brasil lideram ranking",
@@ -6869,7 +6811,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 12,
+      "rank": 11,
       "story": "26c6ac5a98"
     },
     {
@@ -6894,7 +6836,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "6b58de05a2"
     },
     {
@@ -6919,7 +6861,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "3dbd0d3c86"
     },
     {
@@ -6944,7 +6886,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 5,
+      "rank": 4,
       "story": "ceeed30c11"
     },
     {
@@ -7294,7 +7236,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 13,
       "story": "c76bd9317c"
     },
     {
@@ -7544,7 +7486,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 6,
       "story": "a7d9d4b2a4"
     },
     {
@@ -7569,7 +7511,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 6,
       "story": "68b2e19349"
     },
     {
@@ -7594,7 +7536,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 7,
+      "rank": 6,
       "story": "06b98f1d79"
     },
     {
@@ -7894,7 +7836,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 18,
+      "rank": 17,
       "story": "281b857ae9"
     },
     {
@@ -7969,7 +7911,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 8,
+      "rank": 7,
       "story": "8a0f1f22cf"
     },
     {
@@ -7994,7 +7936,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 19,
+      "rank": 18,
       "story": "8a1acb9669"
     },
     {
@@ -8294,7 +8236,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 10,
+      "rank": 9,
       "story": "3711c769fe"
     },
     {
@@ -8473,6 +8415,31 @@
       "story": "106f3cefa7"
     },
     {
+      "title": "Agência de Comunicação - Turismo de alto padrão cresce nos Lençóis Maranhenses",
+      "summary": "Agência de Comunicação - Turismo de alto padrão cresce nos Lençóis Maranhenses &nbsp;&nbsp; Estadão Blue Studio",
+      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/knewin-dino/turismo-de-alto-padrao-cresce-nos-lencois-maranhenses",
+      "published": "2026-11-25T15:41:17+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 10,
+      "story": "939bbe33c2"
+    },
+    {
       "title": "Anvisa manda apreender medicamentos falsificados para tratar câncer",
       "summary": "A Agência Nacional de Vigilância Sanitária (Anvisa) determinou a apreensão de quatro lotes de medicamentos indicados para o tratamento de câncer. A própria empresa detentora do registro, Janssen-Cilag Farmacêutica, informou que os medicamentos são irregulares. A resolução foi publicada nesta quarta-feira, 25, no Diário Oficial da União. Entre os lotes estão o QAS3E15 (validade: até [&#8230;] O post Anvisa manda apreender medicamentos falsificados para tratar câncer apareceu primeiro em Mercado&amp;Consumo .",
       "url": "https://mercadoeconsumo.com.br/25/11/2026/economia/anvisa-manda-apreender-medicamentos-falsificados-para-tratar-cancer",
@@ -8619,7 +8586,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "cfdb440ce2"
     },
     {
@@ -8644,7 +8611,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "2a15283244"
     },
     {
@@ -8744,7 +8711,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 26,
+      "rank": 25,
       "story": "ae444d426a"
     },
     {
@@ -8819,7 +8786,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 27,
+      "rank": 26,
       "story": "86f5b1b0ff"
     },
     {
@@ -8969,7 +8936,7 @@
         }
       ],
       "score": 20.0,
-      "rank": 14,
+      "rank": 13,
       "story": "095872e1d3"
     },
     {
@@ -8996,6 +8963,31 @@
       "score": 20.0,
       "rank": 6,
       "story": "acccbdcaea"
+    },
+    {
+      "title": "Bancos assumiram liderança de exposição no Brasileirão após saída das bets",
+      "summary": "Presença das casas de apostas nas transmissões despencou de 41,87% para 0,55% desde outubro, segundo estudo da Spons; reprecificação de ativos abre espaço para setores tradicionais e exige métricas mais rígidas de ROI",
+      "url": "https://exame.com/exame-in/bancos-assumiram-lideranca-de-exposicao-no-brasileirao-apos-saida-das-bets",
+      "published": "2026-11-26T07:00:37+00:00",
+      "source": "https://exame.com/feed/",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "bets"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "bets",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 14,
+      "story": "ceb751aee1"
     },
     {
       "title": "'Quem ama cuida': Pilar é retirada à força da joalheria por seguranças; entenda",
@@ -9146,6 +9138,56 @@
       "score": 20.0,
       "rank": 9,
       "story": "f75c499624"
+    },
+    {
+      "title": "Alíquota da CBS: Revisão do ‘tax gap’ vira alvo no Senado",
+      "summary": "Audiências públicas realizadas pela CAE tiveram como foco a possibilidade de revisão da alíquota da CBS",
+      "url": "https://www.jota.info/coberturas-especiais/pulso-da-reforma/aliquota-da-cbs-revisao-do-tax-gap-vira-alvo-no-senado",
+      "published": "2026-11-26T10:12:01+00:00",
+      "source": "https://www.jota.info/feed",
+      "matched_sectors": [
+        "Reforma Tributária"
+      ],
+      "matched_aliases": [
+        "cbs"
+      ],
+      "matches": [
+        {
+          "sector": "Reforma Tributária",
+          "alias": "cbs",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 6,
+      "story": "96302cb6c7"
+    },
+    {
+      "title": "Agência de Comunicação - Expansão do Parque Nacional dos Vulcões em Ruanda reforça a visão de Antonella Giancoli sobre turismo responsável e a atuação de Anna Boni à frente da Benarrivati África",
+      "summary": "Agência de Comunicação - Expansão do Parque Nacional dos Vulcões em Ruanda reforça a visão de Antonella Giancoli sobre turismo responsável e a atuação de Anna Boni à frente da Benarrivati África &nbsp;&nbsp; Estadão Blue Studio",
+      "url": "https://bluestudio.estadao.com.br/agencia-de-comunicacao/saftec-digital/expansao-do-parque-nacional-dos-vulcoes-em-ruanda-reforca-a-visao-de-antonella-giancoli-sobre-turismo-responsavel-e-a-atuacao-de-anna-boni-a-frente-da-benarrivati-africa",
+      "published": "2026-11-26T10:49:58+00:00",
+      "source": "https://news.google.com/rss/search?q=site:estadao.com.br+when:2d&hl=pt-BR&gl=BR&ceid=BR:pt-419",
+      "matched_sectors": [
+        "Viagens"
+      ],
+      "matched_aliases": [
+        "turismo"
+      ],
+      "matches": [
+        {
+          "sector": "Viagens",
+          "alias": "turismo",
+          "field": "title",
+          "score": 20,
+          "topic": null
+        }
+      ],
+      "score": 20.0,
+      "rank": 15,
+      "story": "7e24780111"
     },
     {
       "title": "Vendas de alimentos avançam e têm semana recorde",
@@ -9452,7 +9494,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 3,
+      "rank": 2,
       "story": "5ba3f84989"
     },
     {
@@ -9519,7 +9561,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 4,
+      "rank": 3,
       "story": "f95e718483"
     },
     {
@@ -9552,7 +9594,7 @@
         }
       ],
       "score": 16.0,
-      "rank": 4,
+      "rank": 3,
       "story": "04dab29990"
     },
     {
@@ -9719,8 +9761,74 @@
         }
       ],
       "score": 16.0,
-      "rank": 6,
+      "rank": 5,
       "story": "f33629d04e"
+    },
+    {
+      "title": "Alun tem nova vice-presidente executiva",
+      "summary": "Alun Priscila Siqueira é a nova vice-presidente executiva da Alun Business, unidade B2B do Grupo Alun que reúne Alura, FIAP, PM3 e StartSe. Ela já atuou na Gupy como CRO (Chief Revenue Officer), na Gympass (atual Wellhub) como CEO e na Oracle. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://valor.globo.com/carreira/noticia/2026/11/26/20eff718-vaivem.ghtml",
+      "published": "2026-11-26T08:00:02+00:00",
+      "source": "https://pox.globo.com/rss/valor",
+      "matched_sectors": [
+        "Academias"
+      ],
+      "matched_aliases": [
+        "gympass",
+        "wellhub"
+      ],
+      "matches": [
+        {
+          "sector": "Academias",
+          "alias": "wellhub",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Academias",
+          "alias": "gympass",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0,
+      "rank": 6,
+      "story": "4bfc1b9c82"
+    },
+    {
+      "title": "Lilly, Novo Supplier Bachem Hit by Share Drop After Growth Plans Disappoint",
+      "summary": "Bachem Holding shares fell after the Swiss peptide maker, a supplier to both Novo Nordisk and Eli Lilly, outlined plans to boost spending and issued new targets that analysts saw as weaker than anticipated.",
+      "url": "https://www.wsj.com/business/earnings/lilly-novo-supplier-bachem-hit-by-share-drop-after-growth-plans-disappoint-d3bcf6fa?mod=rss_markets_main",
+      "published": "2026-11-26T10:55:00+00:00",
+      "source": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "matched_sectors": [
+        "Global Consumer"
+      ],
+      "matched_aliases": [
+        "eli lilly",
+        "novo nordisk"
+      ],
+      "matches": [
+        {
+          "sector": "Global Consumer",
+          "alias": "novo nordisk",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        },
+        {
+          "sector": "Global Consumer",
+          "alias": "eli lilly",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 16.0,
+      "rank": 6,
+      "story": "b585a72ffe"
     },
     {
       "title": "Setor de beleza avança com refis",
@@ -11197,6 +11305,56 @@
       "score": 8.0,
       "rank": 4,
       "story": "9cf85b455a"
+    },
+    {
+      "title": "Na Black Friday, ‘comprão’ dá lugar a ‘comprinha’, mas sites chegam embalados",
+      "summary": "Os marketplaces do e-commerce chegam à Black Friday com alta de 6% nas vendas, mostra levantamento da firma de tecnologia TOTVS, que comparou a demanda do último fim de semana com a dos mesmos dias do ano passado. Matéria exclusiva para assinantes. Para ter acesso completo, acesse o link da matéria e faça o seu cadastro.",
+      "url": "https://oglobo.globo.com/blogs/capital/post/2026/11/na-black-friday-comprao-da-lugar-a-comprinha-mas-sites-chegam-embalados.ghtml",
+      "published": "2026-11-26T08:00:01+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "E-commerce"
+      ],
+      "matched_aliases": [
+        "e-commerce"
+      ],
+      "matches": [
+        {
+          "sector": "E-commerce",
+          "alias": "e-commerce",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0,
+      "rank": 4,
+      "story": "521a1da635"
+    },
+    {
+      "title": "Deixou de pagar três ou mais faturas do cartão nos últimos seis meses? Veja o que vai mudar para você",
+      "summary": "O Banco Central e o Conselho Monetário Nacional (CMN) aprovaram nesta quarta-feira um novo conjunto de medidas para prevenir o risco de endividamento. Dentre elas, estão a redução gradual do limite do cartão de crédito para clientes que usam o rotativo com frequência. Trabuco, do Bradesco, é sondado por Lula para a Fazenda: quem é o banqueiro e como é visto pelo mercado? Qual é a melhor hora para comprar na Black Friday? Veja os horários que mais concentram ofertas on-line O que mudou no rotativo do cartão? As instituições que emitiram cartões deverão reduzir gradualmente os limites para aqueles que, nos últimos seis meses, deixaram de pagar o valor total de três ou mais faturas, em meses diferentes, e financiaram o restante pelo rotativo. O crédito rotativo é acionado quando o cliente não consegue quitar integralmente a fatura até a data de vencimento. Por causa do custo elevado, especialistas recomendam evitar essa modalidade de crédito. INSS vai pagar 14º salário em 2026? Tire suas dúvidas sobre os pagamentos a aposentados neste ano As restrições terminam quando o cliente pagar integralmente seis faturas seguidas ou quitar toda a dívida do rotativo. Como o banco vai identificar o usuário frequente? Para identificar o uso frequente, o BC afirma que será exigido que as instituições considerem os cartões e as dívidas do cliente em todo o sistema financeiro. Segundo o órgão, esses critérios de redução devem constar do contrato, e o cliente deverá ser avisado antes da aplicação da medida. \"A redução gradual do limite do cartão objetiva preservar o uso do cartão como meio de pagamento e reduzir os riscos de endividamento elevado ou excessivo\", disse o BC, em nota. Qual o volume do rotativo do cartão no país? Segundo dados do Banco Central, as contratações no rotativo do cartão somaram R$ 311 bilhões nos oito primeiros meses de 2026, um recorde. No mesmo período de 2025, o volume havia sido de R$ 266 bilhões. Durante esse período, as operações sem garantia somente poderão ser renegociadas, portadas para outra instituição ou trocadas por modalidade mais vantajosa ao cliente. Quando cai o décimo terceiro? Vai dar para usar o dinheiro na Black Friday? As concessões de crédito no cartão rotativo, na parcial de 2026, já se aproximam do total registrado em todo ano passado — R$ 403 bilhões. Ainda de acordo com o Banco Central, em janeiro, 101 milhões de pessoas utilizavam cartão de crédito no Brasil. Desse total, cerca de 40 milhões possuíam dívidas no crédito rotativo. Qual a relação do uso do rotatito e inadimplência? A inadimplência nessa modalidade alcançou em janeiro 63,5%, o que significa que mais de R$ 60 a cada R$ 100 emprestados não estavam sendo pagos. A taxa de juros do cartão de crédito rotativo, a mais alta de todas as modalidades, somou 445% ao ano em agosto deste ano. No crédito consignado, por exemplo, as taxas variam de cerca 24% a 56% ao ano Podera ser feito empréstimo por telefone? Outra medida anunciada ontem é a exigência de contratação de crédito em canais seguros. As ofertas poderão continuar a ser feitas por telefone, por aplicativos de mensagens e por outros canais permitidos, mas a contratação só poderá se concluída pelos canais eletrônicos da própria instituição, tais como aplicativos e internet banking, ou por meio de atendimento presencial autorizado. Além disso, passarão a ter proteção reforçada os clientes com dívidas em atraso no sistema há 90 dias ou mais em operações de crédito sem garantias ou com sinais claros de que não conseguirão pagá-las nas condições combinadas. O banco não poderá aumentar sua exposição a esses clientes nas modalidades sem garantia. Segundo o BC, essa restrição não alcança a liberação de novos recursos por meio de crédito com garantias reais suficientes, de crédito consignado, da modalidade especial com juros reduzidos prevista em lei e das operações ligadas a processos de recuperação judicial ou extrajudicial.",
+      "url": "https://oglobo.globo.com/economia/noticia/2026/11/26/deixou-de-pagar-tres-ou-mais-faturas-do-cartao-nos-ultimos-seis-meses-veja-o-que-vai-mudar-para-voce.ghtml",
+      "published": "2026-11-26T10:32:02+00:00",
+      "source": "https://pox.globo.com/rss/oglobo/economia",
+      "matched_sectors": [
+        "Economia"
+      ],
+      "matched_aliases": [
+        "endividamento"
+      ],
+      "matches": [
+        {
+          "sector": "Economia",
+          "alias": "endividamento",
+          "field": "lead",
+          "score": 8,
+          "topic": null
+        }
+      ],
+      "score": 8.0,
+      "rank": 1,
+      "story": "7a2757b196"
     }
   ]
 }
